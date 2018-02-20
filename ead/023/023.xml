@@ -1,0 +1,177 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">023Dupont</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Dupont Park Civic Association Records</titleproper>
+        <titleproper>Dupont Park Civic Association <num>023</num> <num>023</num></titleproper>
+        <subtitle>An inventory of Dupont Park Civic Association at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Public Library.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2001-02</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 11:53:51 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Dupont Park Civic Association Records</unittitle>
+      <unitid>023</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+      </physdesc>
+      <unitdate normal="1950/1980" type="inclusive">1950-1980</unitdate>
+      <langmaterial id="aspace_0352995a647458ddc194968073852d8e">English</langmaterial>
+      <langmaterial id="aspace_d7498acade55f4f33395d059f1b36b24">English</langmaterial>
+    </did>
+    <bioghist id="aspace_ae273127d6666e7639234313c03167a3">
+      <head>Biographical / Historical</head>
+      <p>The Dupont Park Civic Association was founded in the 1960s to combat neighborhood crime and to promote the civic welfare of the community. The primary goals of the charter were neighborhood improvement, property maintenance, and increased police protection. The association became involved with the Home Rule Committee in December of 1964 as well as the Far Northeast Council of Civic Associations (1965) in establishing a program for community action against poverty. </p>
+      <p> The crime-watch campaigns of the 1960s, which began with an increase of local police involvement, developed into the Neighborhood Watch committees of the 1980s. The association also became involved with the ANC 7D and other local civic associations to protest the District's proposed creation of drug treatment facilities and homeless shelters within the surrounding residential boundaries.</p>
+    </bioghist>
+    <custodhist id="aspace_b3fd6f168b07ec158062538ef5c80a52">
+      <head>Custodial History</head>
+      <p>The records were donated by Joseph A. Glover, a past president of the Dupont Park Civic Association in 1993.</p>
+    </custodhist>
+    <scopecontent id="aspace_e1dcdcb3f91a48bc06baaa6eb5b2655a">
+      <head>Scope and Contents</head>
+      <p>Records from the Dupont Park Civic Association extend from 1963 through 1989. The collection contains correspondence, by-laws of the association, newsletters, and minutes of monthly meetings. Significant items in the collection include monthly crime reports issued by the Sixth District, Jesse Jackson's 1988 speech to seek the Democratic nomination for President, and the Far Northeast Council of Civic Association's proposal for community action against poverty.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_13cc582360c8d602d97a79d8a739e216" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_e2a0b8b564a84f28106e699f3209357c" level="file">
+          <did>
+            <unittitle>Monthly Minutes/Reports/Correspondence</unittitle>
+            <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container id="aspace_0576937d3b4be207134de545d47c7da9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a482a32e7074845cd540d7b769d3a1a6" parent="aspace_0576937d3b4be207134de545d47c7da9" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ba3953d579880b49dcc5d73be117e0db" level="file">
+          <did>
+            <unittitle>Monthly Minutes/Reports/Correspondence</unittitle>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_4d0c8a589146bae40c823cda3728ea67" label="mixed materials" type="Box">1</container>
+            <container id="aspace_36787cc50c0dd6dcdf774cbffe8e3e62" parent="aspace_4d0c8a589146bae40c823cda3728ea67" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_6e9492d47c122b895d7d14baf985ec38" level="file">
+          <did>
+            <unittitle>Monthly Minutes/Reports/Correspondence</unittitle>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_294b6861010bbba178083cc8171cb6a8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b90cf48e8e6131096bf05777e66248f4" parent="aspace_294b6861010bbba178083cc8171cb6a8" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_9e637baf307e21fd8b911fc71a6274d8" level="file">
+          <did>
+            <unittitle>Membership List</unittitle>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_ec9d73d2f1b5dbfd4e9187fdc75a04ec" label="mixed materials" type="Box">1</container>
+            <container id="aspace_0a6b01de1e6351611742cf0ea861fbf2" parent="aspace_ec9d73d2f1b5dbfd4e9187fdc75a04ec" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_4c532f37d7f11f67fc36cab12217ca2e" level="file">
+          <did>
+            <unittitle>Neighborhood Improvement and Police Protection Campaigns</unittitle>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_87e193a86707e951c29229ffe9c94aa9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d19c74e1eabc1e3e4877f812053086b3" parent="aspace_87e193a86707e951c29229ffe9c94aa9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_53157017e7b0593f8b0b6554e8890c85" level="file">
+          <did>
+            <unittitle>Home Rule Brochure</unittitle>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_39a2c2a961a0fe7c355ef42285908534" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5b932637aebc393711e8ddabee66578e" parent="aspace_39a2c2a961a0fe7c355ef42285908534" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_6d96efa62e27272ecca3a50f013d367c" level="file">
+          <did>
+            <unittitle>Far Northeast Council Proposal for Community Action Against Poverty</unittitle>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_0047611538fac10eb26ec01162cd30ae" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f4ebfc0ff92b9f5e001c5a9b436ce726" parent="aspace_0047611538fac10eb26ec01162cd30ae" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_a7453101cf69c743de77438463952fc8" level="file">
+          <did>
+            <unittitle>By-laws of the Dupont Part Civic Association</unittitle>
+            <unitdate normal="1987-11/1987-11" type="inclusive">November 1987</unitdate>
+            <container id="aspace_40954ec2fb849e57a3057b9df33f46b0" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4b16b2fd29f16841905d6779d92d6ac2" parent="aspace_40954ec2fb849e57a3057b9df33f46b0" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_7dfd9dce79ee955b6104ceb1083dea43" level="file">
+          <did>
+            <unittitle>Dupont Park Civic Association</unittitle>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_5e14d9dcc70f5661825349dea2b873f3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a01dd769ca0e31a3d7c35b38415ae21c" parent="aspace_5e14d9dcc70f5661825349dea2b873f3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_dcc0228529388be33d96c8a9017bce8d" level="file">
+          <did>
+            <unittitle>Dupont Park Civic Association</unittitle>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_27ede9e86b2854eb6059ad510a5b4c19" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8a8639e2820f0d6f177916ec39270fd4" parent="aspace_27ede9e86b2854eb6059ad510a5b4c19" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_2a0afe0f172337e03ac98854df478376" level="file">
+          <did>
+            <unittitle>Dupont Park Civic Association</unittitle>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_686c8749b7f8b39482f0dd1bbbb45ef3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_891491d006c1161cc9756ae8f5b03d20" parent="aspace_686c8749b7f8b39482f0dd1bbbb45ef3" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_e710a617ed15eba0732be3bfc7214350" level="file">
+          <did>
+            <unittitle>Dupont Park Civic Association</unittitle>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_d06acbf607f92779cffd55a20a6ff04b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a6cf5ccca0162c9af55e8f5d9782578a" parent="aspace_d06acbf607f92779cffd55a20a6ff04b" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_283d6ceac8f127885e0086d11dfe1f42" level="file">
+          <did>
+            <unittitle>Monthly Crime Reports</unittitle>
+            <unitdate normal="1987/1989" type="inclusive">1987-1989</unitdate>
+            <container id="aspace_64f13297eb16aa183034ca30076562ba" label="mixed materials" type="Box">1</container>
+            <container id="aspace_adbbca2dfe997e56057bc664f9b19411" parent="aspace_64f13297eb16aa183034ca30076562ba" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ae70cf09c65efdd343558516daae08d1" level="file">
+          <did>
+            <unittitle>Jesse Jackson Speech</unittitle>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_5ebdd99e73bd93336ff0215560247e03" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c1b9a1f8aa5e25ecd00f1198bf7cfdc9" parent="aspace_5ebdd99e73bd93336ff0215560247e03" type="Folder">14</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

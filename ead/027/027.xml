@@ -1,0 +1,1008 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">027Federation</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">DC Federation of Civic Associations Records</titleproper>
+        <titleproper>DC Federation of Civic Associations <num>027</num> <num>027</num></titleproper>
+        <subtitle>An inventory of DC Federation of Civic Associations at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Public Library.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2002-10-11</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 11:54:21 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>DC Federation of Civic Associations Records</unittitle>
+      <unitid>027</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">6.5 linear feet; 16 boxes</extent>
+      </physdesc>
+      <unitdate normal="1960/1979" type="inclusive">1960-1979</unitdate>
+      <langmaterial id="aspace_4ce5db49d4bbc9c3fe374e2fd64d0c6b">English</langmaterial>
+      <langmaterial id="aspace_24cfb48f1c705f28e5a28624ea9c822d">English</langmaterial>
+    </did>
+    <bioghist id="aspace_837a5af48df3678267180d8b0e75cecb">
+      <head>Biographical / Historical</head>
+      <p>The Federation of Civic Associations was founded in 1921 and brought together neighborhood groups to address common citywide or regional concerns. Historically, these civic associations were African-American.</p>
+    </bioghist>
+    <custodhist id="aspace_1b4c07365dc8fb3d56170f272d08decb">
+      <head>Custodial History</head>
+      <p>The papers were donated in 1986 to the Library by Joseph Carter, the Association's President at the time.</p>
+    </custodhist>
+    <scopecontent id="aspace_435c68d23312231842b3b102312bdc03">
+      <head>Scope and Contents</head>
+      <p>The records include the Federation's constitution, meeting minutes, and newsletters from many of its member civic associations. It also contains correspondence, reports, clippings, programs, invitations, flyers, legislative materials, handwritten notes, and other records, which document the activities of the Federation.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008810" source="lcsh">Associations, institutions, etc</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_0c4d94a90625f2a5f7e84d1c47bfcb3e" level="series">
+        <did>
+          <unittitle>Series 1: Federation Awards, 1963-1984</unittitle>
+        </did>
+        <scopecontent id="aspace_2f000e49f1b1cb713aa96d5e8658160c">
+          <head>Scope and Contents</head>
+          <p>This series contains program books, financial materials, correspondence, award applications, address lists, and invitations for annual awards presented to individual civic leaders in Washington, D.C. A few select awards were sponsored by local businesses and civic organizations, including the Evening Star Award, the NAACP Trophy, and a Safeway Scholarship to a local student. The majority of the Awards were given to 'grassroots honorees," from the Federation to citizens working in a variety ways for civic improvement in the District. The folders are arranged chronologically.</p>
+        </scopecontent>
+        <c id="aspace_0fafe556fa7c8de31079a3a3b6567a07" level="file">
+          <did>
+            <unittitle>Federation Awards</unittitle>
+            <unitdate normal="1963/1972" type="inclusive">1963-1972</unitdate>
+            <container id="aspace_75ffdf71ba17beb9790ea46c04d4083d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_541e8facbe1bc0ee631d918f88f849a7" parent="aspace_75ffdf71ba17beb9790ea46c04d4083d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_f7b376bee141406ff06825cd93aa6e1d" level="file">
+          <did>
+            <unittitle>Federation Awards</unittitle>
+            <unitdate normal="1973/1977" type="inclusive">1973-1977</unitdate>
+            <container id="aspace_459a376941059062cca0696fd7b0f7eb" label="mixed materials" type="Box">2</container>
+            <container id="aspace_d8a38c25fa79eff455bf2f9890105b8a" parent="aspace_459a376941059062cca0696fd7b0f7eb" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_cc41387b062d9862384716205f4cd74c" level="file">
+          <did>
+            <unittitle>Federation Awards</unittitle>
+            <unitdate normal="1977/1984" type="inclusive">1977-1984</unitdate>
+            <container id="aspace_5d9b6a8e55e7e8978627f6c67c21732f" label="mixed materials" type="Box">3</container>
+            <container id="aspace_7030213034d56a783d7dc083749145d6" parent="aspace_5d9b6a8e55e7e8978627f6c67c21732f" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_1ad6fe5bb92954bf48b0acb6d4c304e8" level="series">
+        <did>
+          <unittitle>Series 2: Topics, 1960-1979</unittitle>
+        </did>
+        <scopecontent id="aspace_8e5bd6034bb569417d0f102e178dd362">
+          <head>Scope and Contents</head>
+          <p>This series contains correspondence, clippings, committee reports, memoranda, and financial materials, which document the activities of the federation. The bulk of the papers are from the 1970s and cover issues and activities such as the Federation's Black Tie Ball, consumer protection, city planning, civil defense the lottery, cultural arts, and home rule. Folders are arranged alphabetically by topic.</p>
+        </scopecontent>
+        <c id="aspace_9c20c16cc4cc15fdbe8c4a5fceab72f7" level="file">
+          <did>
+            <unittitle>Announcements</unittitle>
+            <unitdate normal="1970/1973" type="inclusive">1970-1973</unitdate>
+            <container id="aspace_04310295d40b9ee874844393e41085d9" label="mixed materials" type="Box">4</container>
+            <container id="aspace_aa42060bef4fd6c888fc21d33163c7f7" parent="aspace_04310295d40b9ee874844393e41085d9" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_85bcf44319a46bcefd76dbd069b2fbcb" level="file">
+          <did>
+            <unittitle>Announcements</unittitle>
+            <unitdate normal="1970/1973" type="inclusive">1970-1973</unitdate>
+            <container id="aspace_fa980b948964f48f48bb15ea69161859" label="mixed materials" type="Box">4</container>
+            <container id="aspace_bcd072a4318337d70a2fe2092e750438" parent="aspace_fa980b948964f48f48bb15ea69161859" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_889d5f2e74b5d681b3e3c0e8edc9e950" level="file">
+          <did>
+            <unittitle>Announcements</unittitle>
+            <unitdate normal="1970/1973" type="inclusive">1970-1973</unitdate>
+            <container id="aspace_53523cb07976180e89ec8d0997a7344b" label="mixed materials" type="Box">4</container>
+            <container id="aspace_85c3c80372980dafc991d4d016f78749" parent="aspace_53523cb07976180e89ec8d0997a7344b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_65992ab42c32fd197f5c6acbb9848420" level="file">
+          <did>
+            <unittitle>Black Tie Ball</unittitle>
+            <unitdate normal="1972/1974" type="inclusive">1972-1974</unitdate>
+            <container id="aspace_fb86623ad3d5ac5a022fa55a9fc5d585" label="mixed materials" type="Box">4</container>
+            <container id="aspace_931b34d59cbdc858c3d723449f3cbf21" parent="aspace_fb86623ad3d5ac5a022fa55a9fc5d585" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_6b4da61edd1691a1946e77393bda0550" level="file">
+          <did>
+            <unittitle>Black Tie Ball</unittitle>
+            <unitdate normal="1972/1974" type="inclusive">1972-1974</unitdate>
+            <container id="aspace_30f4776faf860713dacd31578b74ea56" label="mixed materials" type="Box">4</container>
+            <container id="aspace_d461b92f45b4380544ece1edcc28e27c" parent="aspace_30f4776faf860713dacd31578b74ea56" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_0053fca4b7a61c82ae5564952ca5b3c9" level="file">
+          <did>
+            <unittitle>Black Tie Ball</unittitle>
+            <unitdate normal="1972/1974" type="inclusive">1972-1974</unitdate>
+            <container id="aspace_c8bfe445381ce91396934a489f099b9a" label="mixed materials" type="Box">4</container>
+            <container id="aspace_22c7f7d04902c509c05374693e6f3ce0" parent="aspace_c8bfe445381ce91396934a489f099b9a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_527b845cdedcd63db7bef282dea8ae85" level="file">
+          <did>
+            <unittitle>City Planning documents</unittitle>
+            <unitdate normal="1970/1980" type="inclusive">1970-1980</unitdate>
+            <container id="aspace_058b97748155b8731034bc93752a8fd9" label="mixed materials" type="Box">4</container>
+            <container id="aspace_7f369909b323c6422a2e2305da544f9f" parent="aspace_058b97748155b8731034bc93752a8fd9" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_380f433f5dec4855bef020bd47423062" level="file">
+          <did>
+            <unittitle>City Planning documents</unittitle>
+            <unitdate normal="1970/1980" type="inclusive">1970-1980</unitdate>
+            <container id="aspace_cde8c68b1bef36e782450309bf22fabf" label="mixed materials" type="Box">4</container>
+            <container id="aspace_fef2368cdeae3e533186df1147615316" parent="aspace_cde8c68b1bef36e782450309bf22fabf" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_9ed0fe930fe8b885f675824bf6cf4389" level="file">
+          <did>
+            <unittitle>Civic Responsibility Week</unittitle>
+            <unitdate normal="1965/1979" type="inclusive">1965-1979</unitdate>
+            <container id="aspace_0ebc4367fec85834a85c720af4259ca1" label="mixed materials" type="Box">5</container>
+            <container id="aspace_8dc833fb2b602851a9a5d54ce816e9ea" parent="aspace_0ebc4367fec85834a85c720af4259ca1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_1f334831773c8b317b63414c6f4828ce" level="file">
+          <did>
+            <unittitle>Civil Protection Committee</unittitle>
+            <unitdate normal="1967/1979" type="inclusive">1967-1979</unitdate>
+            <container id="aspace_c92200dec6deaa61a9cfc233cae6ad33" label="mixed materials" type="Box">5</container>
+            <container id="aspace_cc5bb9045041f0aab09f8aa0b3cc0081" parent="aspace_c92200dec6deaa61a9cfc233cae6ad33" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_8443f6079d7b2b0fbe179370303583d5" level="file">
+          <did>
+            <unittitle>Civil Protection Committee</unittitle>
+            <unitdate normal="1967/1979" type="inclusive">1967-1979</unitdate>
+            <container id="aspace_55a4f7f2639be156808e230e37fa37dc" label="mixed materials" type="Box">5</container>
+            <container id="aspace_3450de5a4225a8de43df60939da70fb5" parent="aspace_55a4f7f2639be156808e230e37fa37dc" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_733b2aa8b5c0998b4f1561934bdce4af" level="file">
+          <did>
+            <unittitle>Civil Protection Committee</unittitle>
+            <unitdate normal="1967/1979" type="inclusive">1967-1979</unitdate>
+            <container id="aspace_434ec42e79ebac3828d4a85847c54e5f" label="mixed materials" type="Box">5</container>
+            <container id="aspace_a3808eb0d1e69e1336810f85d8686f82" parent="aspace_434ec42e79ebac3828d4a85847c54e5f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_345f3d190b21fb21d3a4d6c6d5b68af9" level="file">
+          <did>
+            <unittitle>Consumer protection committee documents</unittitle>
+            <unitdate normal="1969/1979" type="inclusive">1969-1979</unitdate>
+            <container id="aspace_c8e62049bbf3b674aebe33e66243c2dc" label="mixed materials" type="Box">5</container>
+            <container id="aspace_ae8feefa3b0cc28d2b09c17168e7db26" parent="aspace_c8e62049bbf3b674aebe33e66243c2dc" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_54faea7ad75bfc13fae7e01e44264813" level="file">
+          <did>
+            <unittitle>Cultural Arts Committee</unittitle>
+            <unitdate normal="1967/1973" type="inclusive">1967-1973</unitdate>
+            <container id="aspace_6415efd4a3672fc62f5684773d88e141" label="mixed materials" type="Box">5</container>
+            <container id="aspace_6604b43e1e7815b393d011bb458bc6d0" parent="aspace_6415efd4a3672fc62f5684773d88e141" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_dfc6966c80fe2a538e70efdc6f3630ea" level="file">
+          <did>
+            <unittitle>Cultural Arts Committee</unittitle>
+            <unitdate normal="1967/1973" type="inclusive">1967-1973</unitdate>
+            <container id="aspace_c2c59ca61141ccb13010d5d063821e2d" label="mixed materials" type="Box">5</container>
+            <container id="aspace_bf2c82d6ff5f54ae31906038ff679d87" parent="aspace_c2c59ca61141ccb13010d5d063821e2d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_a47c951e3152c8f7d32c880fdf229d46" level="file">
+          <did>
+            <unittitle>Cultural Arts/Scholarship fundraiser project</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_84b3baa08e13275004a5fa4d89120123" label="mixed materials" type="Box">5</container>
+            <container id="aspace_c2b9a6914201ef1d909eb6f98df40f95" parent="aspace_84b3baa08e13275004a5fa4d89120123" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_f501080b596e776b19fb3ba05549bcd0" level="file">
+          <did>
+            <unittitle>Economic Development Committee</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970-1979</unitdate>
+            <container id="aspace_8497ea31defcf6f3b038a657f1e64544" label="mixed materials" type="Box">5</container>
+            <container id="aspace_5a3285de394deab5d6610de9648f002b" parent="aspace_8497ea31defcf6f3b038a657f1e64544" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_1920f4a4c442acf69544d1c0b7c6b889" level="file">
+          <did>
+            <unittitle>Economic Development Committee</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970-1979</unitdate>
+            <container id="aspace_f4dee08c0f367b7792906a54d801e335" label="mixed materials" type="Box">5</container>
+            <container id="aspace_2e5ce0b44763c4d26a4efc3d415aeeff" parent="aspace_f4dee08c0f367b7792906a54d801e335" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_1948bc010b44dd1a200db1237f1b0e53" level="file">
+          <did>
+            <unittitle>Education Committee</unittitle>
+            <unitdate normal="1973/1979" type="inclusive">1973-1979</unitdate>
+            <container id="aspace_83012d1ea6ee1e3977159df406f625bd" label="mixed materials" type="Box">6</container>
+            <container id="aspace_d06396e8f8b8f08b711fb57fd5df1301" parent="aspace_83012d1ea6ee1e3977159df406f625bd" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_33cd91ad48d8fb39d6c526e8c31f4faf" level="file">
+          <did>
+            <unittitle>Education Committee</unittitle>
+            <unitdate normal="1973/1979" type="inclusive">1973-1979</unitdate>
+            <container id="aspace_1470fef2b0189dd22b1ff8bac82790af" label="mixed materials" type="Box">6</container>
+            <container id="aspace_66e3be490be0007924b895ce01615308" parent="aspace_1470fef2b0189dd22b1ff8bac82790af" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_27c18b08f64aee0d38151bfe6375e406" level="file">
+          <did>
+            <unittitle>Endorsement Policy</unittitle>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_12ef41f79a9de65c2219dd04b1c191dc" label="mixed materials" type="Box">6</container>
+            <container id="aspace_2b0162f62ab7a1485de25238ad667637" parent="aspace_12ef41f79a9de65c2219dd04b1c191dc" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_40033f3f1949831985107702cdb8a30d" level="file">
+          <did>
+            <unittitle>Environmental Committee</unittitle>
+            <unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate>
+            <container id="aspace_7fb4efffe59c68359bbfb64f63bc51ae" label="mixed materials" type="Box">6</container>
+            <container id="aspace_b71debfaa8a1165112c3de0313abc244" parent="aspace_7fb4efffe59c68359bbfb64f63bc51ae" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_55b48f64529dde91e95d0443fed758a4" level="file">
+          <did>
+            <unittitle>Annual Father Day's celebration</unittitle>
+            <unitdate normal="1977/1984" type="inclusive">1977-1984</unitdate>
+            <container id="aspace_495313c20f60831841e11678ef63a13c" label="mixed materials" type="Box">6</container>
+            <container id="aspace_6db053d6942231b51525e595b5cd86cc" parent="aspace_495313c20f60831841e11678ef63a13c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_c89253d68732783931d384f8b10504ab" level="file">
+          <did>
+            <unittitle>Financial records</unittitle>
+            <unitdate normal="1960/1964" type="inclusive">1960-1964</unitdate>
+            <container id="aspace_5318fd9da89f42785978a554c7bb5c01" label="mixed materials" type="Box">6</container>
+            <container id="aspace_67fb69945ef12bf9193c912a8a0babe8" parent="aspace_5318fd9da89f42785978a554c7bb5c01" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_d32c530ba4253b4de37e49b1d53bae85" level="file">
+          <did>
+            <unittitle>Financial records</unittitle>
+            <unitdate normal="1960/1964" type="inclusive">1960-1964</unitdate>
+            <container id="aspace_d1bc857118a0b5106387d3dc271f7c0d" label="mixed materials" type="Box">6</container>
+            <container id="aspace_808e286bd11483040454b0bd6dd5f146" parent="aspace_d1bc857118a0b5106387d3dc271f7c0d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_dc6378781dd565f5ee2b8b1c8c65173f" level="file">
+          <did>
+            <unittitle>Financial records</unittitle>
+            <unitdate normal="1960/1964" type="inclusive">1960-1964</unitdate>
+            <container id="aspace_06533d72cdeaff4617f0bf2e2f545528" label="mixed materials" type="Box">6</container>
+            <container id="aspace_059f45f3018c715259c0866d62e77c37" parent="aspace_06533d72cdeaff4617f0bf2e2f545528" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_77469d4395bccf277899fab5d1d97439" level="file">
+          <did>
+            <unittitle>Financial records</unittitle>
+            <unitdate normal="1960/1964" type="inclusive">1960-1964</unitdate>
+            <container id="aspace_bf60c4a7ea699c5cec196c0785ce4e80" label="mixed materials" type="Box">6</container>
+            <container id="aspace_a64f311a71af939a62de2196f3163abc" parent="aspace_bf60c4a7ea699c5cec196c0785ce4e80" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_05c9d9c69ce7c283c5a5f9f3d888fe98" level="file">
+          <did>
+            <unittitle>Financial records</unittitle>
+            <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
+            <container id="aspace_0aee0fc019bc76db8dc295f518e0bde1" label="mixed materials" type="Box">6</container>
+            <container id="aspace_51c6d259fadf3a4e1761166543eb6389" parent="aspace_0aee0fc019bc76db8dc295f518e0bde1" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_5efdefb45ffccb093cbfa3401290d419" level="file">
+          <did>
+            <unittitle>Financial records</unittitle>
+            <unitdate normal="1975/1979" type="inclusive">1975-1979</unitdate>
+            <container id="aspace_eb2b25c371491d511acb764dadb9cff1" label="mixed materials" type="Box">7</container>
+            <container id="aspace_abc3ddd012d23775da504e8cf40be78d" parent="aspace_eb2b25c371491d511acb764dadb9cff1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_d6bff56c0e97334ea25cabae9563b7cb" level="file">
+          <did>
+            <unittitle>Financial records</unittitle>
+            <unitdate normal="1975/1979" type="inclusive">1975-1979</unitdate>
+            <container id="aspace_bcd7e5e322ce4cf880fe1f2eabc6c634" label="mixed materials" type="Box">7</container>
+            <container id="aspace_277b959a3a5b27632f966e33b27ba805" parent="aspace_bcd7e5e322ce4cf880fe1f2eabc6c634" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_3b48d8e945609c88a51924b6e3ccf89b" level="file">
+          <did>
+            <unittitle>Financial records</unittitle>
+            <unitdate normal="1975/1979" type="inclusive">1975-1979</unitdate>
+            <container id="aspace_02587afbb76f8d873ca0e3abae66dd94" label="mixed materials" type="Box">7</container>
+            <container id="aspace_e8e49c46efe129822c6708e9194ebf99" parent="aspace_02587afbb76f8d873ca0e3abae66dd94" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_558139c0a8220cb9884eaa81367aa8f6" level="file">
+          <did>
+            <unittitle>Financial records</unittitle>
+            <unitdate normal="1975/1979" type="inclusive">1975-1979</unitdate>
+            <container id="aspace_68a7a7d6e56faddb5d847dd583505a0f" label="mixed materials" type="Box">7</container>
+            <container id="aspace_768ada63672020a2c00341138fc8a3ff" parent="aspace_68a7a7d6e56faddb5d847dd583505a0f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_9fdf39ffaacf511db84911ca8cab53ea" level="file">
+          <did>
+            <unittitle>Honorary Life members</unittitle>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_53fc6999e0807dbe6d82a2dca7f10d9d" label="mixed materials" type="Box">7</container>
+            <container id="aspace_f33399e967d0aa71d0847b8d39d333fe" parent="aspace_53fc6999e0807dbe6d82a2dca7f10d9d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_f924c7ec80417350fd029a153c234936" level="file">
+          <did>
+            <unittitle>Lottery</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_95f3fa61f90aac0db3ef57fe42877bc2" label="mixed materials" type="Box">7</container>
+            <container id="aspace_b37482f338abe8b7732bd049a49744a7" parent="aspace_95f3fa61f90aac0db3ef57fe42877bc2" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_b8f27bd83bbf315239d6369cfdbee29e" level="file">
+          <did>
+            <unittitle>Meeting attendance records</unittitle>
+            <unitdate normal="1970/1978" type="inclusive">1970-1978</unitdate>
+            <container id="aspace_c9f3030be139d0c8f67906dd0f5a5e8f" label="mixed materials" type="Box">7</container>
+            <container id="aspace_5df15fb05e3a7fb5d392ca1d4569151e" parent="aspace_c9f3030be139d0c8f67906dd0f5a5e8f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_b32084c58a465f2c88609b26a3a7f464" level="file">
+          <did>
+            <unittitle>Membership orientation</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_fd4e1794639e8e535770b30dff346b58" label="mixed materials" type="Box">7</container>
+            <container id="aspace_cb6bb375c3ba732612cf2f36ca01aa4a" parent="aspace_fd4e1794639e8e535770b30dff346b58" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_aac50ae1db9fca532a7288dbe65e5e91" level="file">
+          <did>
+            <unittitle>Membership orientation</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_0eb2d03ee197bed67f245b6440f12cde" label="mixed materials" type="Box">7</container>
+            <container id="aspace_3e5572f6c7d3e08fb401edce7363d8f5" parent="aspace_0eb2d03ee197bed67f245b6440f12cde" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_09987072f65ea305a7bd546c87e87ca7" level="file">
+          <did>
+            <unittitle>Membership orientation</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_6e8843de63a0a452724fb00227c95d5e" label="mixed materials" type="Box">7</container>
+            <container id="aspace_42a02295c7d8172f07cb7c943498fcde" parent="aspace_6e8843de63a0a452724fb00227c95d5e" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_1e1be1e70b4c3dc664d991ea1dca8540" level="file">
+          <did>
+            <unittitle>Membership orientation</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_301128af62d08c33954e871f0fe01426" label="mixed materials" type="Box">7</container>
+            <container id="aspace_f01e17c92a5055e803471f2828c5726a" parent="aspace_301128af62d08c33954e871f0fe01426" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_8c0e1c40195e3f325959e7235e4cabbf" level="file">
+          <did>
+            <unittitle>Mothers Day program</unittitle>
+            <unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate>
+            <container id="aspace_337120124c6ee97121fec40da0b9106e" label="mixed materials" type="Box">7</container>
+            <container id="aspace_e3ac1920703fecb55e7d145a33825028" parent="aspace_337120124c6ee97121fec40da0b9106e" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_9c258a6604504bc1fcaad79db3c98a56" level="file">
+          <did>
+            <unittitle>Mothers Day program</unittitle>
+            <unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate>
+            <container id="aspace_b63ab618f01e8f8ef94509ef0cad857e" label="mixed materials" type="Box">7</container>
+            <container id="aspace_a325f32d384b38187cdcf7895ab4f143" parent="aspace_b63ab618f01e8f8ef94509ef0cad857e" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_7d8247dcf792cf65ee00dcb0267c52aa" level="file">
+          <did>
+            <unittitle>Mothers Day program</unittitle>
+            <unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate>
+            <container id="aspace_0e5a01fae3cc280b5caf4c236456d39c" label="mixed materials" type="Box">7</container>
+            <container id="aspace_b3d9bb27319cc17d6210e228c97248c1" parent="aspace_0e5a01fae3cc280b5caf4c236456d39c" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_dbd9fc0de63ada39860cdcf7f86ba801" level="file">
+          <did>
+            <unittitle>Mothers Day program</unittitle>
+            <unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate>
+            <container id="aspace_3a5ab0d34c7a3c003056327b3ee3a45f" label="mixed materials" type="Box">7</container>
+            <container id="aspace_65916f94a0308636e41bcc7b1f273cd5" parent="aspace_3a5ab0d34c7a3c003056327b3ee3a45f" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_f7a5e0ecfbb35ffbb59976b7368daa74" level="file">
+          <did>
+            <unittitle>Mothers Day program</unittitle>
+            <unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate>
+            <container id="aspace_b1095ef1d32101f5c1e0d445b5a893e5" label="mixed materials" type="Box">7</container>
+            <container id="aspace_a51e5846e7a382975f83ae2ba95099cc" parent="aspace_b1095ef1d32101f5c1e0d445b5a893e5" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ab78f8a4d6d62813f8c202e297f3f0de" level="file">
+          <did>
+            <unittitle>Mothers Day program</unittitle>
+            <unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate>
+            <container id="aspace_dd695250fdeea073c1c79da4196a1570" label="mixed materials" type="Box">7</container>
+            <container id="aspace_916d807da38ff4a2adac8c7121f9de00" parent="aspace_dd695250fdeea073c1c79da4196a1570" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_782edb4a5b66cf12299b7610f37c2dc4" level="file">
+          <did>
+            <unittitle>Mothers Day program</unittitle>
+            <unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate>
+            <container id="aspace_f423105a84e728cac67d2634569007e0" label="mixed materials" type="Box">7</container>
+            <container id="aspace_41340d7a9b4b559ea9436b8d3b9af519" parent="aspace_f423105a84e728cac67d2634569007e0" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_982ce43bfd4ee29ad90c64f49b7ad903" level="file">
+          <did>
+            <unittitle>Mothers Day program</unittitle>
+            <unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate>
+            <container id="aspace_539b13f371638a573c7e82503c3dd3ff" label="mixed materials" type="Box">7</container>
+            <container id="aspace_81b5e95a066448d1722549b628bfdc45" parent="aspace_539b13f371638a573c7e82503c3dd3ff" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_7daa2dc40ca7b9a128e6436eebefd045" level="file">
+          <did>
+            <unittitle>News Media Committee</unittitle>
+            <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_c186980e355fb1cac1e3c51b2ab31cb0" label="mixed materials" type="Box">7</container>
+            <container id="aspace_14e23d0277ad365145fbe62f5d3052b4" parent="aspace_c186980e355fb1cac1e3c51b2ab31cb0" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_4bd964a6183e2236488d80f1f72227f9" level="file">
+          <did>
+            <unittitle>New Media</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_b7b64f5c67a8855bb94b564b2d97992a" label="mixed materials" type="Box">7</container>
+            <container id="aspace_3f45156abe2610a828518776dadfd86c" parent="aspace_b7b64f5c67a8855bb94b564b2d97992a" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_1306660e252f0b4f7f51548bd4090ee4" level="file">
+          <did>
+            <unittitle>President's papers</unittitle>
+            <unitdate normal="1965/1979" type="inclusive">1965-1979</unitdate>
+            <container id="aspace_3133cd4aac4efee43f28f19a130f92a5" label="mixed materials" type="Box">8</container>
+            <container id="aspace_15b8f73349f20badd3b0578b2903d2fd" parent="aspace_3133cd4aac4efee43f28f19a130f92a5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_b989deb5213b1b784bd8767de2b9db0f" level="file">
+          <did>
+            <unittitle>President's testimonial for B. Alexander</unittitle>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_ff49e5c0b41ea0af53478664928b4f61" label="mixed materials" type="Box">8</container>
+            <container id="aspace_d9e659b2c83aa05e58fb372a5bbdeac4" parent="aspace_ff49e5c0b41ea0af53478664928b4f61" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_75736b8ba337c19f6a83cc26f64b43bf" level="file">
+          <did>
+            <unittitle>Public utilities issues</unittitle>
+            <unitdate normal="1970/1979" type="inclusive">1970-1979</unitdate>
+            <container id="aspace_32a5b9da3adc66c904bd0e55cc588ea9" label="mixed materials" type="Box">8</container>
+            <container id="aspace_01f787b46c131d342baa52057ab3715e" parent="aspace_32a5b9da3adc66c904bd0e55cc588ea9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_4699a24595150ec9c9dbf1eb91534d0a" level="file">
+          <did>
+            <unittitle>Recreation</unittitle>
+            <unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate>
+            <container id="aspace_d2f23057bae3ed342139e0373a396bf2" label="mixed materials" type="Box">8</container>
+            <container id="aspace_4e7811d146d6fb71cbdae660c3da6dbb" parent="aspace_d2f23057bae3ed342139e0373a396bf2" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_40bafd69a0f72e69a94d899c09c266e4" level="file">
+          <did>
+            <unittitle>Recreation</unittitle>
+            <unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate>
+            <container id="aspace_0d723422be38a1bc1c8e5a9e663e6165" label="mixed materials" type="Box">8</container>
+            <container id="aspace_152ded300ccefb8749651245d6c7f2d0" parent="aspace_0d723422be38a1bc1c8e5a9e663e6165" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_9e5ce97f2a65bc6b5c6a126cdb8837b3" level="file">
+          <did>
+            <unittitle>Reference materials</unittitle>
+            <unitdate normal="1966/1971" type="inclusive">1966-1971</unitdate>
+            <container id="aspace_2fb17f85f367f2585fb10c3bbae553b1" label="mixed materials" type="Box">8</container>
+            <container id="aspace_f520b632eb40c868523e76fc55a50809" parent="aspace_2fb17f85f367f2585fb10c3bbae553b1" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_3928a9578ef9af21bded98f13906e325" level="file">
+          <did>
+            <unittitle>Reference materials</unittitle>
+            <unitdate normal="1966/1971" type="inclusive">1966-1971</unitdate>
+            <container id="aspace_bd1d2c48a745f84e7290101ac49a2967" label="mixed materials" type="Box">8</container>
+            <container id="aspace_26aef2612d19f12919f511490a4441ac" parent="aspace_bd1d2c48a745f84e7290101ac49a2967" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_062c530905a553c00ec54ce4e1a93471" level="file">
+          <did>
+            <unittitle>Reference materials</unittitle>
+            <unitdate normal="1966/1971" type="inclusive">1966-1971</unitdate>
+            <container id="aspace_daa7f7f3a369bc8d75d15ee400c333f2" label="mixed materials" type="Box">8</container>
+            <container id="aspace_8d59f05d69294a9bca707324c2745886" parent="aspace_daa7f7f3a369bc8d75d15ee400c333f2" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_85270360f2bab6ceb9964a2b8c7916d0" level="file">
+          <did>
+            <unittitle>Reference Materials</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_e565610ef6f5b7c3a15bc2f30b16003e" label="mixed materials" type="Box">9</container>
+            <container id="aspace_f80b93755d11096dc0e7249fb09da908" parent="aspace_e565610ef6f5b7c3a15bc2f30b16003e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_a72e1f68ed82e08498eb68a84c7ef326" level="file">
+          <did>
+            <unittitle>Rosters</unittitle>
+            <unitdate normal="1965/1979" type="inclusive">1965-1979</unitdate>
+            <container id="aspace_93337151fb90e7b6f1a0b2e4201603e1" label="mixed materials" type="Box">9</container>
+            <container id="aspace_b8c572479dfbb5239e6ded04908f6aa6" parent="aspace_93337151fb90e7b6f1a0b2e4201603e1" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ad8138373e5627332e68e055cbe55a7e" level="file">
+          <did>
+            <unittitle>Rosters</unittitle>
+            <unitdate normal="1965/1979" type="inclusive">1965-1979</unitdate>
+            <container id="aspace_3dfa94db7ac54ba5df4b69a4d9b4bc3c" label="mixed materials" type="Box">9</container>
+            <container id="aspace_43f352122cf730e96a4103149060babe" parent="aspace_3dfa94db7ac54ba5df4b69a4d9b4bc3c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_825248ea28b6df40bb6dbfa32c321806" level="file">
+          <did>
+            <unittitle>Rosters</unittitle>
+            <unitdate normal="1965/1979" type="inclusive">1965-1979</unitdate>
+            <container id="aspace_9fec1b588c62f51403717a11943e13c5" label="mixed materials" type="Box">9</container>
+            <container id="aspace_7d52ffa1ce127d8fe4996338b90439ac" parent="aspace_9fec1b588c62f51403717a11943e13c5" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_14c945a76e44b637879483d1cc282108" level="file">
+          <did>
+            <unittitle>Rosters</unittitle>
+            <unitdate normal="1965/1979" type="inclusive">1965-1979</unitdate>
+            <container id="aspace_38f1ce049952950603306d342dc9704a" label="mixed materials" type="Box">9</container>
+            <container id="aspace_b298b256f20aed7e711df0e4e67a12bb" parent="aspace_38f1ce049952950603306d342dc9704a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_52335aa11e4c1515740c34104a5ee2fc" level="file">
+          <did>
+            <unittitle>Salute to Seniors</unittitle>
+            <unitdate normal="1968/1979" type="inclusive">1968-1979</unitdate>
+            <container id="aspace_fee7e8a3d0fbc0ec67d66b1af15429e6" label="mixed materials" type="Box">10</container>
+            <container id="aspace_4d7b2def9f321c6858a3f4d7b64ca194" parent="aspace_fee7e8a3d0fbc0ec67d66b1af15429e6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_6b73bb75385a83c73f70bad174a9fb86" level="file">
+          <did>
+            <unittitle>Sanitation Committee</unittitle>
+            <unitdate normal="1969/1971" type="inclusive">1969-1971</unitdate>
+            <container id="aspace_649449f245fd4f34c41e7f610bb762a9" label="mixed materials" type="Box">10</container>
+            <container id="aspace_8c8ca99e42f7fec35bb887d411c9347f" parent="aspace_649449f245fd4f34c41e7f610bb762a9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_e9514b41a38f36681cea83c3dc4808c6" level="file">
+          <did>
+            <unittitle>Speakers Bureau Project</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_c06b480a26f4d61ef5214cf3cbeca41f" label="mixed materials" type="Box">10</container>
+            <container id="aspace_83c29a9725cc21dab0a09ddc1edf9517" parent="aspace_c06b480a26f4d61ef5214cf3cbeca41f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_4555278dab2821f2c9533f9b2d651142" level="file">
+          <did>
+            <unittitle>Treasurers Reports</unittitle>
+            <unitdate normal="1975/1985" type="inclusive">1975-1985</unitdate>
+            <container id="aspace_f0204226d61d6c2ee8a373ab98a81495" label="mixed materials" type="Box">10</container>
+            <container id="aspace_1da07848714637b48ebbbd366293cdcc" parent="aspace_f0204226d61d6c2ee8a373ab98a81495" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_918d50e1a3b673fe279b4558176a3a73" level="file">
+          <did>
+            <unittitle>Transportation</unittitle>
+            <unitdate normal="1969/1979" type="inclusive">1969-1979</unitdate>
+            <container id="aspace_21e96c600ecb6e326480110738dc3802" label="mixed materials" type="Box">10</container>
+            <container id="aspace_3ea455247bfadc4d3b9e008f0ed15fcc" parent="aspace_21e96c600ecb6e326480110738dc3802" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_f1eba295a6ee36b026767479b632302d" level="file">
+          <did>
+            <unittitle>Urban Development Committee</unittitle>
+            <unitdate normal="1969/1973" type="inclusive">1969-1973</unitdate>
+            <container id="aspace_6aa59dfcb72d35c44093aa0eeaec0bed" label="mixed materials" type="Box">10</container>
+            <container id="aspace_37069ee2ac302d9ec109737313caa0e4" parent="aspace_6aa59dfcb72d35c44093aa0eeaec0bed" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_28f640e041d77bdeacbe98b1529f3b18" level="file">
+          <did>
+            <unittitle>Zoning</unittitle>
+            <unitdate normal="1966/1972" type="inclusive">1966-1972</unitdate>
+            <container id="aspace_e16a8281d4bd82d29e621cf10f70aa13" label="mixed materials" type="Box">10</container>
+            <container id="aspace_1cc010e323aa480199b3102c19014653" parent="aspace_e16a8281d4bd82d29e621cf10f70aa13" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_7ca685dc4f04bacb12158e29038b11fc" level="series">
+        <did>
+          <unittitle>Series 3: Newsletters, 1964-1979</unittitle>
+        </did>
+        <scopecontent id="aspace_d5762765b4a3dc6692d686c36a14ac6c">
+          <head>Scope and Contents</head>
+          <p>The series contains newsletters of local civic associations, which are members of the Federation. It also includes the Federation's newsletter. Member newsletters represented include those for Brightwood, Capitol View, and Southeast, to name a few. The folders are arranged alphabetically with the Federation's newsletters appearing first.</p>
+        </scopecontent>
+        <c id="aspace_6185feaa505911b953748d2325efdca6" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate normal="1966/1972" type="inclusive">1966-1972</unitdate>
+            <container id="aspace_cc298a35a7563c4d029cb73f3ce785fb" label="mixed materials" type="Box">10</container>
+            <container id="aspace_9880367db3fadabe069d364ac703b232" parent="aspace_cc298a35a7563c4d029cb73f3ce785fb" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_e614cb31ad5c89cb36f1664a2acab2c0" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate normal="1973/1979" type="inclusive">1973-1979</unitdate>
+            <container id="aspace_cebe65c0ca701ef85406f606e2536cb4" label="mixed materials" type="Box">11</container>
+            <container id="aspace_a9d2c860e1d7d94860038ca375ca9fa8" parent="aspace_cebe65c0ca701ef85406f606e2536cb4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_f48748be3eb82409f249abe2616800fd" level="file">
+          <did>
+            <unittitle>Brightwood Newsletters</unittitle>
+            <unitdate normal="1972/1977" type="inclusive">1972-1977</unitdate>
+            <container id="aspace_c1e6e5dbd43a3c8178f3118e840440ae" label="mixed materials" type="Box">11</container>
+            <container id="aspace_d1439ad9f2b5c38436081c4ebb1acf4e" parent="aspace_c1e6e5dbd43a3c8178f3118e840440ae" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_f0a7c8ca5911e378e2fb23d8b3d41197" level="file">
+          <did>
+            <unittitle>Burleith Newsletters</unittitle>
+            <unitdate normal="1973/1979" type="inclusive">1973-1979</unitdate>
+            <container id="aspace_a99c3e0f68bc3177a89465194864bf50" label="mixed materials" type="Box">11</container>
+            <container id="aspace_4e3803a8cbfa1e663424321671e45d4e" parent="aspace_a99c3e0f68bc3177a89465194864bf50" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_15ba50cb489643c7b2d5f86a2d0797fa" level="file">
+          <did>
+            <unittitle>Capitol View Newsletters</unittitle>
+            <unitdate normal="1970/1984" type="inclusive">1970-1984</unitdate>
+            <container id="aspace_21eb9a51fd836d82a6baed3c0cf35dff" label="mixed materials" type="Box">11</container>
+            <container id="aspace_655bc079f656eed2b88fd940aa35508b" parent="aspace_21eb9a51fd836d82a6baed3c0cf35dff" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_94133237e80dbcd9b1edadd3a59ca27c" level="file">
+          <did>
+            <unittitle>Capitol View Newsletters</unittitle>
+            <unitdate normal="1970/1984" type="inclusive">1970-1984</unitdate>
+            <container id="aspace_82086c975641dabc729d6ec4707a44a8" label="mixed materials" type="Box">11</container>
+            <container id="aspace_25dd3aacc6117f1c5a2f125c7d27b6cf" parent="aspace_82086c975641dabc729d6ec4707a44a8" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_8ee4dd0e44d95a8c93b7af4ccb38c85a" level="file">
+          <did>
+            <unittitle>Capitol View Newsletters</unittitle>
+            <unitdate normal="1970/1984" type="inclusive">1970-1984</unitdate>
+            <container id="aspace_6933918284eab3d48e0974f4edb827f4" label="mixed materials" type="Box">11</container>
+            <container id="aspace_1de48c361a986da33facf020dd991782" parent="aspace_6933918284eab3d48e0974f4edb827f4" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_99e6e3de343ba9401333d8e400d57e76" level="file">
+          <did>
+            <unittitle>North Michigan Park Newsletters</unittitle>
+            <unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate>
+            <container id="aspace_8499fdc016d4becc268fe855edddf7a8" label="mixed materials" type="Box">12</container>
+            <container id="aspace_01b1fb20cd024a5e8e3590b0af1132ff" parent="aspace_8499fdc016d4becc268fe855edddf7a8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_745e58c6ebcc280784dd5435355cdc2d" level="file">
+          <did>
+            <unittitle>Public Interest Community News</unittitle>
+            <unitdate normal="1976/1979" type="inclusive">1976-1979</unitdate>
+            <container id="aspace_331ffa6c1ec16855321afee7768662a9" label="mixed materials" type="Box">12</container>
+            <container id="aspace_38e477e53982f0ba7b70c9412a11b7c3" parent="aspace_331ffa6c1ec16855321afee7768662a9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ac78e662f5269a2af30d2744d40cac99" level="file">
+          <did>
+            <unittitle>Southeast Civic Association</unittitle>
+            <unitdate normal="1964/1974" type="inclusive">1964-1974</unitdate>
+            <container id="aspace_9817bdd2e1f40ad23ab59e4d226de48f" label="mixed materials" type="Box">12</container>
+            <container id="aspace_2c3e9a588cdf99e24c2a47cca1f97b23" parent="aspace_9817bdd2e1f40ad23ab59e4d226de48f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_1f1345ebb2e147751df15f9f18e09726" level="file">
+          <did>
+            <unittitle>Southeast Civic Association</unittitle>
+            <unitdate normal="1964/1974" type="inclusive">1964-1974</unitdate>
+            <container id="aspace_1d4851b2e1e678ec93af8d6df5ddb399" label="mixed materials" type="Box">12</container>
+            <container id="aspace_0905ea9a5740c8b84af35945279cd846" parent="aspace_1d4851b2e1e678ec93af8d6df5ddb399" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_1339ca563d7b2135ec978adc93a8e6fd" level="file">
+          <did>
+            <unittitle>Southeast Civic Association</unittitle>
+            <unitdate normal="1964/1974" type="inclusive">1964-1974</unitdate>
+            <container id="aspace_e7650fb7e7e8dffb092599ce9739607c" label="mixed materials" type="Box">12</container>
+            <container id="aspace_1e499e62416ced34a63890bc2da1af9b" parent="aspace_e7650fb7e7e8dffb092599ce9739607c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_09f6a7b15d8321a0d7391bf880bb5c77" level="file">
+          <did>
+            <unittitle>Southwester Newsletter</unittitle>
+            <unitdate normal="1976/1978" type="inclusive">1976-1978</unitdate>
+            <container id="aspace_633877d69b515ef66c4583b0640ae054" label="mixed materials" type="Box">12</container>
+            <container id="aspace_409d47cf74732675d299e1522c91edd4" parent="aspace_633877d69b515ef66c4583b0640ae054" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_e19700dc917e8e70028bdbc54f56e1ee" level="series">
+        <did>
+          <unittitle>Series 4: Interfederation and National Business, 1967-1978</unittitle>
+        </did>
+        <scopecontent id="aspace_9e838ef9561f6306ade78dcc713ca753">
+          <head>Scope and Contents</head>
+          <p>The series consists of the Interfederation constitution, minutes of Interfederation meetings, and materials regarding the National Association of Neighborhoods.</p>
+        </scopecontent>
+        <c id="aspace_f0c328eea1877d298eda3f238f59e2b1" level="file">
+          <did>
+            <unittitle>Interfederation Council Constitution</unittitle>
+            <unitdate type="inclusive">1967, 1973</unitdate>
+            <container id="aspace_105d314be8a36e6b5bf6b25f871a4759" label="mixed materials" type="Box">12</container>
+            <container id="aspace_af20d78eca4a983bbce82250d3664544" parent="aspace_105d314be8a36e6b5bf6b25f871a4759" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_0e3ea48bdbcb992c15f345bc5a272b63" level="file">
+          <did>
+            <unittitle>Interfederation Council meeting minutes</unittitle>
+            <unitdate normal="1969/1974" type="inclusive">1969-1974</unitdate>
+            <container id="aspace_dddecccd5bc87e73031d0e14db4db1b7" label="mixed materials" type="Box">12</container>
+            <container id="aspace_2671f03ed6a7d85c65351be248870ecf" parent="aspace_dddecccd5bc87e73031d0e14db4db1b7" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_2503702e8c49ca83c1609737f334f213" level="file">
+          <did>
+            <unittitle>National Association of Neighborhoods</unittitle>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_2c53ade6b5acb097f1e5f12ece554431" label="mixed materials" type="Box">12</container>
+            <container id="aspace_c91074f3c27301caa61c23a1c6767878" parent="aspace_2c53ade6b5acb097f1e5f12ece554431" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_5c34cc9e2e3c784950f3d4ef3e810896" level="series">
+        <did>
+          <unittitle>Series 5: Meeting Minutes, 1965-1978</unittitle>
+        </did>
+        <scopecontent id="aspace_1ad8fad717d2fd1348fa3bf4294144a2">
+          <head>Scope and Contents</head>
+          <p>The series contains meeting minutes, both hand and typewritten for Association meetings.</p>
+        </scopecontent>
+        <c id="aspace_ef29032f776f017ffbbda135059f2eca" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1965/1970" type="inclusive">1965-1970</unitdate>
+            <container id="aspace_cb09b5cad8932286cfc3eb06381e6d48" label="mixed materials" type="Box">13</container>
+            <container id="aspace_d2f13e5d718c09661b46223f0f7c7070" parent="aspace_cb09b5cad8932286cfc3eb06381e6d48" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_816f5045256296cf188ed00753f477eb" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1965/1970" type="inclusive">1965-1970</unitdate>
+            <container id="aspace_4d45c2bd25a9462a4029912797003f38" label="mixed materials" type="Box">13</container>
+            <container id="aspace_e2f64dcf574ccbce0c103eb7f4d9a105" parent="aspace_4d45c2bd25a9462a4029912797003f38" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_2839af4908cb040080a2fe4dc2a1876f" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1965/1970" type="inclusive">1965-1970</unitdate>
+            <container id="aspace_4383a9a99a83a58e2bff75c035ebb1ea" label="mixed materials" type="Box">13</container>
+            <container id="aspace_c031783f02a34b56f68a24b6b51fcd77" parent="aspace_4383a9a99a83a58e2bff75c035ebb1ea" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_d916ce33890a58e2baa12afbe0eb8721" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1965/1970" type="inclusive">1965-1970</unitdate>
+            <container id="aspace_53aca0ac69b721279e3065881f593770" label="mixed materials" type="Box">13</container>
+            <container id="aspace_dc2de773393f4d12f6d615b713f4e268" parent="aspace_53aca0ac69b721279e3065881f593770" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_8e19702b8063c9de482e1f1ec9d5513a" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1965/1970" type="inclusive">1965-1970</unitdate>
+            <container id="aspace_8cbc3871e4331d92f06c57b0c0f29033" label="mixed materials" type="Box">13</container>
+            <container id="aspace_aa08ec73ff01adaf1284cc1868abe0eb" parent="aspace_8cbc3871e4331d92f06c57b0c0f29033" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_3eb3d35a93a4f7c3839d8b632bec7c6c" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1965/1970" type="inclusive">1965-1970</unitdate>
+            <container id="aspace_9907653ec4aa6b6c8427b6d564fa0f9f" label="mixed materials" type="Box">13</container>
+            <container id="aspace_b286fc9cd2bcc22cf58206cf8bcd2fa2" parent="aspace_9907653ec4aa6b6c8427b6d564fa0f9f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_0f8b671e5e0773c3a5aae14722166135" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_2e3bb52b2bc378ef3b9b168cc6b03adc" label="mixed materials" type="Box">14</container>
+            <container id="aspace_82b1a8b89dcb56017e2f5c74d2b39765" parent="aspace_2e3bb52b2bc378ef3b9b168cc6b03adc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_26ded21bbcf82be4f498f59d1920a6a8" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_6ee060fdb1a09cb643a0f5fcf2c86697" label="mixed materials" type="Box">14</container>
+            <container id="aspace_5d6903ce6f6e736f0b54dbc3ea08afd1" parent="aspace_6ee060fdb1a09cb643a0f5fcf2c86697" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_122ddf112a5cde29f3253f7c3c4a2dae" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_74ae39f132b37b94602db8caa874ee9d" label="mixed materials" type="Box">14</container>
+            <container id="aspace_8da43387455220a6897eca15a105fdba" parent="aspace_74ae39f132b37b94602db8caa874ee9d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_43ebb7e8e7a05990d0e2274b880628a0" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_de714acda09470a8102462fab9aacb90" label="mixed materials" type="Box">14</container>
+            <container id="aspace_7bd136aee6f81615ca65db96ee6f68ce" parent="aspace_de714acda09470a8102462fab9aacb90" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_140891aafb05f537d5c361a8966ba9b8" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_770079d278ae7879089f1cb9c43023d9" label="mixed materials" type="Box">14</container>
+            <container id="aspace_e77e44ee26236c15848f12c87c3fc2b3" parent="aspace_770079d278ae7879089f1cb9c43023d9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_57b2d01ea8e2081d353a141d4aebb138" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_7973eb3e8388373c41f997860ac85762" label="mixed materials" type="Box">14</container>
+            <container id="aspace_01d7f385699b4b228ed442c6d61ce335" parent="aspace_7973eb3e8388373c41f997860ac85762" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_480e362c1cee76c6225240f64f1ebb91" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1973/1977" type="inclusive">1973-1977</unitdate>
+            <container id="aspace_6dabb8c7fdb3aa8ae487dbdcb06a73c1" label="mixed materials" type="Box">15</container>
+            <container id="aspace_93d2d0980c508240aee8a1bb2fb9ead0" parent="aspace_6dabb8c7fdb3aa8ae487dbdcb06a73c1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_725ee5f383cd982b58d0ec14774d3f23" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1973/1977" type="inclusive">1973-1977</unitdate>
+            <container id="aspace_425d1fd6d2e4c5fec53408e8694bc062" label="mixed materials" type="Box">15</container>
+            <container id="aspace_fb644e333cb4bb296c85ab87e316b339" parent="aspace_425d1fd6d2e4c5fec53408e8694bc062" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_b9265cc8f93de633e00309a9185e9699" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1973/1977" type="inclusive">1973-1977</unitdate>
+            <container id="aspace_e88db2b6ae652d5f5226f547666559fd" label="mixed materials" type="Box">15</container>
+            <container id="aspace_136969512a2bbde97c1ced3f20367ed8" parent="aspace_e88db2b6ae652d5f5226f547666559fd" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_e17cab8145ae0e63e3e5deca51f1c3e3" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1973/1977" type="inclusive">1973-1977</unitdate>
+            <container id="aspace_060fc7eedc0e7c366e00f17d11f612fb" label="mixed materials" type="Box">15</container>
+            <container id="aspace_03613c00aae9b5de70783f2b62748acb" parent="aspace_060fc7eedc0e7c366e00f17d11f612fb" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_bd8f7ff5e95be25b77238cb2e0480cfa" level="file">
+          <did>
+            <unittitle>Executive Committee and Delegate Assembly</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_1fd08fe99c729b05314755a461d642a7" label="mixed materials" type="Box">15</container>
+            <container id="aspace_08541f8a9fe402ef60606ce33db132dd" parent="aspace_1fd08fe99c729b05314755a461d642a7" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_bf579a1123187712b56863e94badb61f" level="file">
+          <did>
+            <unittitle>Executive Committee Meetings</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_336538e2dc78836d46f68cfab837639a" label="mixed materials" type="Box">15</container>
+            <container id="aspace_586680b594de25435c35def74dc463d0" parent="aspace_336538e2dc78836d46f68cfab837639a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_9b9b0557a5d319ddc43e64a424950f7c" level="file">
+          <did>
+            <unittitle>Executive Committee Meetings</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_a0d2066e20fd940c21b5561b0b31891b" label="mixed materials" type="Box">15</container>
+            <container id="aspace_d2693495ca361d1371f495ab61c8c8e0" parent="aspace_a0d2066e20fd940c21b5561b0b31891b" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_dd6bacea6a97f442df8aae17597f4aa3" level="file">
+          <did>
+            <unittitle>Executive Committee Meetings</unittitle>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_7db3d037bf69f345d47656362c2bd1ec" label="mixed materials" type="Box">16</container>
+            <container id="aspace_db3ea7d664bcdd25b3837468fcd7de38" parent="aspace_7db3d037bf69f345d47656362c2bd1ec" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ab00056d9820cddeef5a8f9038ae0b4c" level="file">
+          <did>
+            <unittitle>Executive Committee Meetings</unittitle>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_5f3cfe48e05eb48b18796eaf0f63ee51" label="mixed materials" type="Box">16</container>
+            <container id="aspace_4b55b629e923f5703ecca30facc31dbf" parent="aspace_5f3cfe48e05eb48b18796eaf0f63ee51" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_18f1499d7eaae00af605465af90d377c" level="file">
+          <did>
+            <unittitle>Executive Committee Meetings</unittitle>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_5f770528a12f928af271bb49512c91c7" label="mixed materials" type="Box">16</container>
+            <container id="aspace_e2ef621e50656e6636271145bf97b67c" parent="aspace_5f770528a12f928af271bb49512c91c7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_7adf95f2882786f5ead6717a1aa1cc3a" level="file">
+          <did>
+            <unittitle>Executive Committee Meetings</unittitle>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_9a96301f3ae573a96f2f691d6c37b0d0" label="mixed materials" type="Box">16</container>
+            <container id="aspace_33dc0d8cbe3ca95d3542450ac6e9cdb8" parent="aspace_9a96301f3ae573a96f2f691d6c37b0d0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_2caec535a221349fceeba1abba06163a" level="file">
+          <did>
+            <unittitle>Executive Committee Meetings</unittitle>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_4b2861f9fa9c55f9fc25f924cc9b7e92" label="mixed materials" type="Box">16</container>
+            <container id="aspace_57c13f1556f269801e0fc47a71ef0ba4" parent="aspace_4b2861f9fa9c55f9fc25f924cc9b7e92" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_070269defac1ec77416b75a6986e7c4e" level="file">
+          <did>
+            <unittitle>Executive Committee Meetings</unittitle>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_447842a39f2224d8a0ed86450f32eae0" label="mixed materials" type="Box">16</container>
+            <container id="aspace_3e5db43d24346e8b834ecefa73af1025" parent="aspace_447842a39f2224d8a0ed86450f32eae0" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

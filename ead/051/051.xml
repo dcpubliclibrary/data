@@ -1,0 +1,418 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">051NationalRifles</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">National Rifles Scrapbook Collection</titleproper>
+        <titleproper>National Rifles <num>051</num> <num>051</num></titleproper>
+        <subtitle>An inventory of National Rifles at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Public Library.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2001-02</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 11:58:27 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>National Rifles Scrapbook Collection</unittitle>
+      <unitid>051</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5 boxes</extent>
+      </physdesc>
+      <unitdate normal="1880/1889" type="inclusive">1880-1889</unitdate>
+      <langmaterial id="aspace_60a1c4cb2a177fac4f0d62565f920d98">English</langmaterial>
+      <langmaterial id="aspace_f54c58d77b6d63e63e7940029385216e">English</langmaterial>
+    </did>
+    <bioghist id="aspace_88d8ba50dbce9bdeea065426c86a8e79">
+      <head>Biographical / Historical</head>
+      <p>The National Rifles, an independent company of the D.C. Militia, was organized in 1859 in the wake of John Brown's raid. It was the first company of citizen troops ordered into the Civil War in 1861. A few years after the War, the militia disbanded or merged with other troops. The National Rifle Armory was located on G Street between 9th and 10th at the site of the current Mather Building, directly across from the MLK Library. Members of the company formed a veteran's organization to hold annual reunions, fairs, soirees, dinners, and other events to commemorate the anniversary of their founding and military service.</p>
+    </bioghist>
+    <custodhist id="aspace_c1c63e99e31a8ff8fb896e936ad3e262">
+      <head>Custodial History</head>
+      <p>The Scrapbooks were donated to the Washingtoniana Division in 1929 by Mr. and Mrs. Evans. This information was found in the Washingtoniana Division Daybook for November 5, 1929.</p>
+    </custodhist>
+    <scopecontent id="aspace_378ed0b27849c16548bc82bdfc39567f">
+      <head>Scope and Contents</head>
+      <p>The scrapbooks contain clippings, invitations, programs, memorabilia, handwritten and typewritten letters, ledgers, receipts, meetings minutes, and a few copies of Canteen, the daily record of the National Rifles and an oversized poster for the July 4th Military Celebration in St. Louis, Missouri.</p>
+      <p> Also included is a box of cabinet card images of uniformed members of the National Rifles. Notes on the back of the photographs indicate that the images came from the Evans Collection in November 1929.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/vocabulary/geographicAreas/n-us-dc" source="lcsh">Washington (D.C.)</subject>
+      <geogname source="lcsh">United States -- Armed Forces</geogname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_792028a73bbfeedef19b4f8b92160032" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_b0971acfab762d3a58ed968299966e87" level="file">
+          <did>
+            <unittitle>Scrapbook</unittitle>
+            <unitdate normal="1880/1885" type="inclusive">1880-1885</unitdate>
+            <container id="aspace_e717544c4325288de3a239a4a2e3c7fc" label="mixed materials" type="Box">1</container>
+            <container id="aspace_062c74fc77fd8018721f76724af044f0" parent="aspace_e717544c4325288de3a239a4a2e3c7fc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_da2d472fc74c8cc39b225f001e8f9896" level="file">
+          <did>
+            <unittitle>National Rifles Fair Scrapbook</unittitle>
+            <unitdate normal="1885/1885" type="inclusive">1885</unitdate>
+            <container id="aspace_4e48d6184a56163eac4532dce2823b17" label="mixed materials" type="Box">2</container>
+            <container id="aspace_71154dddeea787eea9c91f7d238a0514" parent="aspace_4e48d6184a56163eac4532dce2823b17" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_1baeb8ad753130701b55a1dd0d9a58d6" level="file">
+          <did>
+            <unittitle>Scrapbook</unittitle>
+            <unitdate normal="1885/1895" type="inclusive">1885-1895</unitdate>
+            <container id="aspace_2421f4f7c656e21c702b2fc25799154e" label="mixed materials" type="Box">3</container>
+            <container id="aspace_47a2e86d413b44fbdf8f8eab84c54f4e" parent="aspace_2421f4f7c656e21c702b2fc25799154e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_2fdaf34e2d5cbdfe4ce87ac2fa3719a4" level="file">
+          <did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate normal="1895/1899" type="inclusive">1895-1899</unitdate>
+            <container id="aspace_4959819273168f46b43ba322fbfb98ba" label="mixed materials" type="Box">4</container>
+            <container id="aspace_c9fa7d3ca4f3d77427344d07749c9b62" parent="aspace_4959819273168f46b43ba322fbfb98ba" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_24a468887dc4332e0a04df07a39fa55a" level="file">
+          <did>
+            <unittitle>Acker, G. N.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c7e66f9abf2f79d1dc60939f0fe1410a" label="mixed materials" type="Box">5</container>
+            <container id="aspace_49ff234804fcd97ba00fc6c5a3c16bec" parent="aspace_c7e66f9abf2f79d1dc60939f0fe1410a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_523e757fdba31565fc6f0dabaadee9b1" level="file">
+          <did>
+            <unittitle>Barksdale, William H.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d4cb3c90c26b14fe2442635dc05683e4" label="mixed materials" type="Box">5</container>
+            <container id="aspace_8c7ec2062274148dcfa814b452775e50" parent="aspace_d4cb3c90c26b14fe2442635dc05683e4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_a031a0637bf1e549061131b9d5a67855" level="file">
+          <did>
+            <unittitle>Blois, J. F. H.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d34d36b9880c5ce086f6490db6615c44" label="mixed materials" type="Box">5</container>
+            <container id="aspace_b65067df6db298863277f3be1f7cf4d8" parent="aspace_d34d36b9880c5ce086f6490db6615c44" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_15a72d394ab2553e1cb5d8cf4fda17b8" level="file">
+          <did>
+            <unittitle>Boteler, W. P.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_7adcc4dc8b856861254d3fdd88c666a3" label="mixed materials" type="Box">5</container>
+            <container id="aspace_4089bbc52ff83c22f508b67ae83bc131" parent="aspace_7adcc4dc8b856861254d3fdd88c666a3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_f6d4e485ea58239ba4f1cd53ae44accc" level="file">
+          <did>
+            <unittitle>Bowers, H. C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_174c0eedcc18ed4686b33828113a4ebc" label="mixed materials" type="Box">5</container>
+            <container id="aspace_08dc548b480654ea93c3028e3dafe1fa" parent="aspace_174c0eedcc18ed4686b33828113a4ebc" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_aa804907d1a0e6e7ed245e713d9f696c" level="file">
+          <did>
+            <unittitle>Brooks, Charles W.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_88a97b1a3385366750fafb1239120e4e" label="mixed materials" type="Box">5</container>
+            <container id="aspace_85b645b70d9512b05853ca5c7b71bdc8" parent="aspace_88a97b1a3385366750fafb1239120e4e" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_c5f2ae111adcbaa321ed6840ef51cc2d" level="file">
+          <did>
+            <unittitle>Burkart, Frank A.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_9ff533548a44aececdda2ed32c5d2d11" label="mixed materials" type="Box">5</container>
+            <container id="aspace_fd14517b7a66b13ec77c6b0a6e605769" parent="aspace_9ff533548a44aececdda2ed32c5d2d11" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_6c7dc2d56be5e3cf1f87732e8d0a6be0" level="file">
+          <did>
+            <unittitle>Burkart, Frederick W.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_8770619238b0c691f1644caafd64e2b8" label="mixed materials" type="Box">5</container>
+            <container id="aspace_63b6465bf201b876378461f772ab8a4b" parent="aspace_8770619238b0c691f1644caafd64e2b8" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_c0fe8ba86907497ddf7c53b558f0347d" level="file">
+          <did>
+            <unittitle>Burnside, J. O. P.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_10a3706b3f5673040f0a36b7a089085c" label="mixed materials" type="Box">5</container>
+            <container id="aspace_60b2e79291ea907d6aa342504e4f3ab1" parent="aspace_10a3706b3f5673040f0a36b7a089085c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_647ebbcac274dbffc14fbed1166bc8f0" level="file">
+          <did>
+            <unittitle>Choate, Warren R., Jr.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b9e829e8f2dab5c855d4adf3b7e5deb2" label="mixed materials" type="Box">5</container>
+            <container id="aspace_bae95f1fc55947a8d69233a3f397eadc" parent="aspace_b9e829e8f2dab5c855d4adf3b7e5deb2" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_8b28fe5bf152527e0a6c504c9ff4092e" level="file">
+          <did>
+            <unittitle>Clear, James H.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c1a844f8144a04a069ff037877bc1581" label="mixed materials" type="Box">5</container>
+            <container id="aspace_e97e7d44ac5c063ce2bfdb4ae504c4ba" parent="aspace_c1a844f8144a04a069ff037877bc1581" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_3fb981c6032f83231ed0533b3b6dcd75" level="file">
+          <did>
+            <unittitle>Colladay, W.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_9b4e41ec06fa6e8a5c88010dafe04a7b" label="mixed materials" type="Box">5</container>
+            <container id="aspace_c154f0019e9a5d3e96fc969b3966fa3e" parent="aspace_9b4e41ec06fa6e8a5c88010dafe04a7b" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_f1584d89af6211d5d03f0bc052a12d29" level="file">
+          <did>
+            <unittitle>Constant, Robert E.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_03ab3840f90132131375f0a539ccf9bf" label="mixed materials" type="Box">5</container>
+            <container id="aspace_1c774820f863b29c3c4cb1f0bfd02427" parent="aspace_03ab3840f90132131375f0a539ccf9bf" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_c646491fab0adb318d3650296ef35402" level="file">
+          <did>
+            <unittitle>Ellis, W. K.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d15b1af745f467a2a697ca38820e4fc8" label="mixed materials" type="Box">5</container>
+            <container id="aspace_288a0bc9d42a80fcdefcdf05238f56d1" parent="aspace_d15b1af745f467a2a697ca38820e4fc8" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_541d40d4083d6743030f8e29fa10db9e" level="file">
+          <did>
+            <unittitle>Fonda, Charles B.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_8f9d1c930e96f7ba85115ef2a78621ce" label="mixed materials" type="Box">5</container>
+            <container id="aspace_e3497837649546413ce19a02d7ef0f82" parent="aspace_8f9d1c930e96f7ba85115ef2a78621ce" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_b9392ad7b7137f515787391cf0411706" level="file">
+          <did>
+            <unittitle>Fox, James C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e2c89f7ff8b774b308b5fbc07ed73771" label="mixed materials" type="Box">5</container>
+            <container id="aspace_19424117c8d2a1833fce1983a7e03722" parent="aspace_e2c89f7ff8b774b308b5fbc07ed73771" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_3479551c100d1a9743c81773727e11b2" level="file">
+          <did>
+            <unittitle>Garner, T. A.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_bd113ee0944fa2e78adca32c99aa5c15" label="mixed materials" type="Box">5</container>
+            <container id="aspace_8c70a9ebe47366244ff0defd2c95875a" parent="aspace_bd113ee0944fa2e78adca32c99aa5c15" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_5ae50137aae41ffc3a40c222d1e3ae17" level="file">
+          <did>
+            <unittitle>Geneste, Leon D.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b00b841c74a3889f4954bd2eefb070ce" label="mixed materials" type="Box">5</container>
+            <container id="aspace_c00d83b52c6c903885417b189708bb9b" parent="aspace_b00b841c74a3889f4954bd2eefb070ce" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_0230a5fc052863f057c4d55613256cf5" level="file">
+          <did>
+            <unittitle>Green, A. J.</unittitle>
+            <unitdate normal="1893/1893" type="inclusive">1893</unitdate>
+            <container id="aspace_c41b791688b95484737d620a5532dcf4" label="mixed materials" type="Box">5</container>
+            <container id="aspace_45745d5ce6da78031bf0b60073ff4fe5" parent="aspace_c41b791688b95484737d620a5532dcf4" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_b256663b49cd093784100300a10456a1" level="file">
+          <did>
+            <unittitle>Holmes, Lewis</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_84ae6b0885df03281343a0b3b0ff97e1" label="mixed materials" type="Box">5</container>
+            <container id="aspace_2568612a5116fef0f46c21102bf2cfa1" parent="aspace_84ae6b0885df03281343a0b3b0ff97e1" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_7d4ca10dab5d4c7918f044596d6bef87" level="file">
+          <did>
+            <unittitle>Howell, J. W.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_aec0eebe53f8b4e918a53e31f0dc22b3" label="mixed materials" type="Box">5</container>
+            <container id="aspace_fd91a2e6a7e24eb1c6a8876db88e0996" parent="aspace_aec0eebe53f8b4e918a53e31f0dc22b3" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_fc5f33d8261ef22911441fd93f293f4a" level="file">
+          <did>
+            <unittitle>Keech, W. C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_059271bdfb54f44267534569fee81221" label="mixed materials" type="Box">5</container>
+            <container id="aspace_6cecbc551148c3b8e703fee8e00b64bb" parent="aspace_059271bdfb54f44267534569fee81221" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_58dcd4cc0f3ce36c9174a162c502e15e" level="file">
+          <did>
+            <unittitle>Moore, Robert E.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2eb9b5f7fe3a8fdf346d64b19b2b4107" label="mixed materials" type="Box">5</container>
+            <container id="aspace_2293433eb6e614ab6f8eb76d6d4e79f7" parent="aspace_2eb9b5f7fe3a8fdf346d64b19b2b4107" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_a4889cc107be97294c65585cc867cd94" level="file">
+          <did>
+            <unittitle>Oyster, J. F.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_09364e1a012eec3a48b0515a0eed5dd6" label="mixed materials" type="Box">5</container>
+            <container id="aspace_a2a7f66b311e6e0a63e28b786baed185" parent="aspace_09364e1a012eec3a48b0515a0eed5dd6" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_cb256deb0472aa33aa1d4c52044306a0" level="file">
+          <did>
+            <unittitle>Paige, C. H.</unittitle>
+            <unitdate normal="1882/1882" type="inclusive">1882</unitdate>
+            <container id="aspace_ac2e269f9661446f58442ab2fa351b17" label="mixed materials" type="Box">5</container>
+            <container id="aspace_b3ba9f84e4a4fe8aba84ab22c4972941" parent="aspace_ac2e269f9661446f58442ab2fa351b17" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_043be063da0c70734dcf5f436dec139a" level="file">
+          <did>
+            <unittitle>Paige, C. H.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_8b89a0d9dc243061ddb673e7879b5043" label="mixed materials" type="Box">5</container>
+            <container id="aspace_cea23cbcf9972f97dd69bffba063a015" parent="aspace_8b89a0d9dc243061ddb673e7879b5043" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_e2b45fdbf9f0f47b78685674860b6ef7" level="file">
+          <did>
+            <unittitle>Sayles, Arthur U.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_584d77447aac955cc6626b55d2579d11" label="mixed materials" type="Box">5</container>
+            <container id="aspace_0ce750f17d7016a459a99b4a2eec9d32" parent="aspace_584d77447aac955cc6626b55d2579d11" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_feb1414665e52d9eea92edb724e043dc" level="file">
+          <did>
+            <unittitle>Simms, C. E.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_feddced03474b7ae52b8616f26c99674" label="mixed materials" type="Box">5</container>
+            <container id="aspace_3fe72add742e3c39d7d2ba73db85726c" parent="aspace_feddced03474b7ae52b8616f26c99674" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_6908738c0990df1a384aa1603fccf469" level="file">
+          <did>
+            <unittitle>Simms, C. E.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_77bab10d31d33e535cb9a1eb196d5062" label="mixed materials" type="Box">5</container>
+            <container id="aspace_d808910ac89d10c18bcd704f9c9245b1" parent="aspace_77bab10d31d33e535cb9a1eb196d5062" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_43f86be1fb6fae5bf7fd3bb35cf89816" level="file">
+          <did>
+            <unittitle>Stokes, George W.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d0ffd4e5e44ae5665656419cf2a343b0" label="mixed materials" type="Box">5</container>
+            <container id="aspace_9485bf1b46b16243f617c011fd8cb4be" parent="aspace_d0ffd4e5e44ae5665656419cf2a343b0" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_acc9e132e022a8a5bb4d3fc0bb47367f" level="file">
+          <did>
+            <unittitle>Stone, O. P. D.</unittitle>
+            <unitdate normal="1881/1881" type="inclusive">1881</unitdate>
+            <container id="aspace_c8512307ed58dfdcb77db07c0c12b09d" label="mixed materials" type="Box">5</container>
+            <container id="aspace_cf3e0638701c2bbfa5d7fe09de6e41b3" parent="aspace_c8512307ed58dfdcb77db07c0c12b09d" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_77e39033a8bc4108f7ef863ac0edfb95" level="file">
+          <did>
+            <unittitle>Taylor, C. McC.</unittitle>
+            <unitdate normal="1889/1889" type="inclusive">1889</unitdate>
+            <container id="aspace_90615df6da5fbcf3eb4b220913faf0a1" label="mixed materials" type="Box">5</container>
+            <container id="aspace_85db8f1893d45e9fbb7fc4c29e206574" parent="aspace_90615df6da5fbcf3eb4b220913faf0a1" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_0c14e18c598e1425893e801d12ca31e9" level="file">
+          <did>
+            <unittitle>Taylor, George W.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d192f9a6eee6ad3641913ca41e100016" label="mixed materials" type="Box">5</container>
+            <container id="aspace_5262b529baf97adc62181f8d1f667278" parent="aspace_d192f9a6eee6ad3641913ca41e100016" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_096326ea63642e61e9f469928f80a06c" level="file">
+          <did>
+            <unittitle>Unknown</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_a019eb00948015ce4eecb3574c7d95ad" label="mixed materials" type="Box">5</container>
+            <container id="aspace_b3982a6ba009a134a2edf4597588cf0d" parent="aspace_a019eb00948015ce4eecb3574c7d95ad" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_cdaa4abfe54e4991f2dd27bce159f311" level="file">
+          <did>
+            <unittitle>Warner, C. H.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_99f197bcc5428f0f175292bf0a2b16ec" label="mixed materials" type="Box">5</container>
+            <container id="aspace_6f755ad68ecce1bbdc3e96d106a1c1e2" parent="aspace_99f197bcc5428f0f175292bf0a2b16ec" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_6752da728489b00a5a5f24cfd03b9407" level="file">
+          <did>
+            <unittitle>Williams, Sherman</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4c3f9d2319dfcbc3d59092599384f6d8" label="mixed materials" type="Box">5</container>
+            <container id="aspace_259b1e4ed4ddfb6b2a98d9c8a47a223d" parent="aspace_4c3f9d2319dfcbc3d59092599384f6d8" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_dd4e6e98a1ddc9c37ad09f8d83583e7a" level="file">
+          <did>
+            <unittitle>Woodley, Will T.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_edc24eef304379e80afcd7079c11ad72" label="mixed materials" type="Box">5</container>
+            <container id="aspace_0dd778525c562a79ad8c9efc6d1a2594" parent="aspace_edc24eef304379e80afcd7079c11ad72" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_932d065ef18ded2b4790c1069f276d44" level="file">
+          <did>
+            <unittitle>Zantizinger, D.</unittitle>
+            <unitdate normal="1881/1881" type="inclusive">1881</unitdate>
+            <container id="aspace_3f785c402dfbb293b8b2f94ef92a0cf6" label="mixed materials" type="Box">5</container>
+            <container id="aspace_e2a6e7dba5bf9e3a0c18bd6fdae0c9f2" parent="aspace_3f785c402dfbb293b8b2f94ef92a0cf6" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ee309841c342415072497d425e8e5349" level="file">
+          <did>
+            <unittitle>Oversized folder</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_489d7cc3418cc08f834b3f52464512a2" label="mixed materials" type="Box">5</container>
+            <container id="aspace_3ae1efcc1674addb707c487386ae6867" parent="aspace_489d7cc3418cc08f834b3f52464512a2" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_0d2cd6784b46ccaf9f133f23f1eef816" level="file">
+          <did>
+            <unittitle>Poster for July 4th military celebrations in St. Louis</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_1408ef60aa5e061a10354c2b5bb5004d" label="mixed materials" type="Box">5</container>
+            <container id="aspace_d43ab36ae3237c5a38feca278490db51" parent="aspace_1408ef60aa5e061a10354c2b5bb5004d" type="Folder">40</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

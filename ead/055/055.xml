@@ -1,0 +1,136 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">055HomeRule</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Home Rule Committee Collection</titleproper>
+        <titleproper>Home Rule Committee <num>055</num> <num>055</num></titleproper>
+        <subtitle>An inventory of Home Rule Committee at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Public Library.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2001-02</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 11:58:56 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Home Rule Committee Collection</unittitle>
+      <unitid>055</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 box</extent>
+      </physdesc>
+      <unitdate normal="1939/1961" type="inclusive">1939-1961</unitdate>
+      <langmaterial id="aspace_92578ebf16e255b2b6bdc520ddb12458">English</langmaterial>
+      <langmaterial id="aspace_e1d3c28f7b11fea7ba81d91691574b34">English</langmaterial>
+    </did>
+    <bioghist id="aspace_f39e437625a7e50dc94d0229746b4b61">
+      <head>Biographical / Historical</head>
+      <p>Influential Washington, D.C. residents established the Home Rule Committee sometime in 1953. Members included Democratic political activist Daisy Harriman, museum director Duncan Phillips, businessman Frank Jelleff, and Washington Post publisher Phillip Graham. Members testified in Congress, wrote letters to the editors, picketed, and lobbied in support of home rule for the District.</p>
+    </bioghist>
+    <custodhist id="aspace_bc5377667c84a177376048fdf801b644">
+      <head>Custodial History</head>
+      <p>The materials were removed from the vertical file to ensure preservation. Mrs. Samuel (Annabel) Bogdonoff who was a member of the Board, Arthur Newmeyer and Gary Abramson originally donated the materials to the Library.</p>
+    </custodhist>
+    <scopecontent id="aspace_1275b32770bc65bd05a582ce89f77610">
+      <head>Scope and Contents</head>
+      <p>The collection consists of meeting minutes, correspondence, congressional testimony, by-laws, pamphlets, a history of the Committee, political pins and stickers, and clippings. There is a separate folder of materials donated by Mrs. Bogdonoff. Folders are arranged alphabetically by topic.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2002011436" source="Library of Congress Subject Headings">Politics and government</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_b46fb239248f4fecda356e3cb8d7d0ce" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_4dd58a19e74fe7e7805a39cd466cf730" level="file">
+          <did>
+            <unittitle>Annabel Bogdonoff materials</unittitle>
+            <unitdate normal="1939/1953" type="inclusive">1939-1953</unitdate>
+            <container id="aspace_adfb5281d064642854ce678fd29ea4ce" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8a670cd4e91227aeb426b2aa0cd4e670" parent="aspace_adfb5281d064642854ce678fd29ea4ce" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_21b647ba515b3561157847411f72a77a" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate type="inclusive">1949-1953, 1959</unitdate>
+            <container id="aspace_e15b2a253d9c3b07fcf6bcd2268d0769" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7b3fa44bc600fe5ea2238d559fcf6460" parent="aspace_e15b2a253d9c3b07fcf6bcd2268d0769" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_64f1770ab89536ab0a87ae91350f7885" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_689db0ca649da782ccdea7ddd08618ff" label="mixed materials" type="Box">1</container>
+            <container id="aspace_52d50e465c1a43332606229dd5695e2f" parent="aspace_689db0ca649da782ccdea7ddd08618ff" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_944d0bb62afb3531941a2906d5eb10bc" level="file">
+          <did>
+            <unittitle>Congressional testimony and related documents</unittitle>
+            <unitdate type="inclusive">1949-1951, 1959</unitdate>
+            <container id="aspace_e0cf6a3f787332f62c9829be1bd8cadf" label="mixed materials" type="Box">1</container>
+            <container id="aspace_76eb266051bb9157b8a82ac6008a569c" parent="aspace_e0cf6a3f787332f62c9829be1bd8cadf" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_04f40b226b7f45b2fc1fadf81ebe2e6b" level="file">
+          <did>
+            <unittitle>Financial statements</unittitle>
+            <unitdate normal="1955/1960" type="inclusive">1955-1960</unitdate>
+            <container id="aspace_50f2da1693589ea6bdb9aef3ad1d8b51" label="mixed materials" type="Box">1</container>
+            <container id="aspace_42b88ac00df2aef06a2c9d1e3a3d5084" parent="aspace_50f2da1693589ea6bdb9aef3ad1d8b51" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_dac5f8803b9f3dbb6a6b340d6e61a102" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate normal="1955/1961" type="inclusive">1955-1961</unitdate>
+            <container id="aspace_4db152245495a24452a18f5bfde3f3e1" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1e76cef04317cf8ec6752827e734c8b2" parent="aspace_4db152245495a24452a18f5bfde3f3e1" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_f4cf5edbce8d50317e6d713c940ce008" level="file">
+          <did>
+            <unittitle>Publications</unittitle>
+            <unitdate normal="1950/1953" type="inclusive">1950-1953</unitdate>
+            <container id="aspace_cc70211bcf90dfd712e5a6b0f7eb5c35" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c32a97e8e99d19cd94e4b34ebfe68176" parent="aspace_cc70211bcf90dfd712e5a6b0f7eb5c35" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_41b9dc92d76393d9d40df7975eb447cb" level="file">
+          <did>
+            <unittitle>"We Want to Vote" pendant</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3c2a9a206a4a70cffaa156fe254f9419" label="mixed materials" type="Box">1</container>
+            <container id="aspace_98cec876a6a11de557f08ae625c21024" parent="aspace_3c2a9a206a4a70cffaa156fe254f9419" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_3bdaa4d05d5714b337273564036d9a48" level="file">
+          <did>
+            <unittitle>"Washington Wants to Vote" stickers</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3c0cd21629cbae812a6ab8d791c67c02" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6c73428befbed6c7be4da230a69f3fb9" parent="aspace_3c0cd21629cbae812a6ab8d791c67c02" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

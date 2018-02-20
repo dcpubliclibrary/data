@@ -1,0 +1,117 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">021Northeasterners</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Northeasterners Papers</titleproper>
+        <titleproper>Northeasterners <num>021</num> <num>021</num></titleproper>
+        <subtitle>An inventory of Northeasterners at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Public Library.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2001-02</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 11:53:30 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Northeasterners Papers</unittitle>
+      <unitid>021</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+      </physdesc>
+      <unitdate normal="1952/1989" type="inclusive">1952-1989</unitdate>
+      <langmaterial id="aspace_5d9b91deb375d55196e6617ac88d1251">English</langmaterial>
+      <langmaterial id="aspace_e9903c4f54c40211ad0f457f64ac22e1">English</langmaterial>
+    </did>
+    <bioghist id="aspace_4d4820dc6b09168fe47fbcebdb8ca5bf">
+      <head>Biographical / Historical</head>
+      <p>The Northeasterners were organized in 1930 mainly by college-educated and socially prominent black women throughout the eastern United States. The group was originally known as the Gay Northeasterners. The organization has a scholarship program and is involved in a number of outreach activities.</p>
+    </bioghist>
+    <scopecontent id="aspace_6cdc1ab2d7fda90b93d2cced0486e717">
+      <head>Scope and Contents</head>
+      <p>The papers consist of correspondence, by-laws of the organization, meeting minutes, financial reports, a short history, member information, and photographs.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85001932" source="Library of Congress Subject Headings">African Americans</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008810" source="lcsh">Associations, institutions, etc</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_8569d5a0208799ae6be913c4ff276331" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_73e3456a4c5b44db1df8149671be024e" level="file">
+          <did>
+            <unittitle>Bylaws and Constitution</unittitle>
+            <unitdate normal="1952/1986" type="inclusive">1952-1986</unitdate>
+            <container id="aspace_0da475861a3b2ac566c1bdea96bc45d8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_0b9dea77fd6b0320c4634d4c3ee4ae27" parent="aspace_0da475861a3b2ac566c1bdea96bc45d8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_12a79e19945d568766b82043b5cbe09f" level="file">
+          <did>
+            <unittitle>Correspondence and Proposals</unittitle>
+            <unitdate normal="1962/1989" type="inclusive">1962-1989</unitdate>
+            <container id="aspace_ddf8babf70cd439d14201f231fdd7411" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4ae9b418c0494459437553161970dc3e" parent="aspace_ddf8babf70cd439d14201f231fdd7411" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_f9ec1abdd898c5f3457ccfaf055a347f" level="file">
+          <did>
+            <unittitle>Financial reports</unittitle>
+            <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <container id="aspace_fe14aee17c9d9aabed7e80f5b5669564" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8f49e917158f710bd881420acc1104e3" parent="aspace_fe14aee17c9d9aabed7e80f5b5669564" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_38122a510cc04edc6404983e4935de3d" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_689a471ba5885d3341e3bee9367a46a1" label="mixed materials" type="Box">1</container>
+            <container id="aspace_146e40f7ff49dc5b8485249dba49e881" parent="aspace_689a471ba5885d3341e3bee9367a46a1" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_70331dff8e2afa1848f4eb9bd4fa63a2" level="file">
+          <did>
+            <unittitle>Officers</unittitle>
+            <unitdate normal="1973/1975" type="inclusive">1973-1975</unitdate>
+            <container id="aspace_8340a67f3b9d04e88748e0f8110333d9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c4e63062750f6201fb00284c004303df" parent="aspace_8340a67f3b9d04e88748e0f8110333d9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_6a301ebf72aba82b306b23178ac50571" level="file">
+          <did>
+            <unittitle>Over the Years: A History</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_c8317a39cbb3ee86e84bdbecd9c3f38f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3e30646420fa88603f36454c0841a79c" parent="aspace_c8317a39cbb3ee86e84bdbecd9c3f38f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ed8bc3a96c4d55157d268e5fd613992d" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_9b2d6cc98a81377a26539f5da8834936" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f6268eb6f8d283b07d51bf3879875b0c" parent="aspace_9b2d6cc98a81377a26539f5da8834936" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

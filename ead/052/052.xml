@@ -1,0 +1,858 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">052Petworth</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Petworth Women's Club Collection</titleproper>
+        <titleproper>Petworth Women's Club <num>052</num> <num>052</num></titleproper>
+        <subtitle>An inventory of Petworth Women's Club at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Public Library.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>1999</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 11:58:34 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Petworth Women's Club Collection</unittitle>
+      <unitid>052</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.5 linear feet; 10 boxes</extent>
+      </physdesc>
+      <unitdate normal="1914/1964" type="inclusive">1914-1964</unitdate>
+      <langmaterial id="aspace_fa52cba01477f664e082c4c9caab8b02">English</langmaterial>
+      <langmaterial id="aspace_9ea661ab0e477beaf85daecc846746f1">English</langmaterial>
+    </did>
+    <bioghist id="aspace_a229ca20821fc2e61fbbc434a9677403">
+      <head>Biographical / Historical</head>
+      <p>On the evening of July 6, 1914, Mrs. Harriet Hill who lived on Taylor Street called the President of the D.C. Federation of Women's Clubs about organizing a women's club to promote the best interests of the Petworth neighborhood. Eleven women met that evening and officers were elected. Soon after, six sections were formed, including civic, educational, literature, home, philanthropic, music and art to choose appropriate social, educational, or philanthropic activities for its members. In the early years, membership was limited to women of Petworth, as bounded by Hamilton Street on the North, Rock Creek Church Road on the south, Third Street on the east, and Georgia Avenue to the west. Starting in 1914, monthly business meetings were held in the Petworth School house, then by 1937 at the Petworth Methodist Church. Highlights of club activities included: a campaign led by Mrs. A.C. Norcross for a public library branch in Petworth in the 1920s; a Red Cross Production unit organized during WWII; a visiting nurses group which assisted at the Walter Reed Hospital; and a sewing circle of the Philanthropic section which provided clothes to needy children at D.C. Village and the Convalescent Hospital for almost 30 years. Charter members included Mrs. Annie Nelson, Mrs. A.C. Norcross, Mrs. Harriet Hill, Mrs. W.F. North, Mrs. Frank H. Schwartz, and Mrs. W. Winklehaus.</p>
+    </bioghist>
+    <custodhist id="aspace_7f7acded51b4074d59b9ef8cef964f8b">
+      <head>Custodial History</head>
+      <p>Items in this collection were part of the Washingtoniana Division's vertical files. Vertical files are maintained for ease of reference on various topics related to D.C. history and current events. . To ensure the physical preservation of fragile handwritten documents in the vertical file, in 1999 they were removed and photocopied. Photocopies were returned to the vertical files and the originals are in this collection.</p>
+    </custodhist>
+    <scopecontent id="aspace_a190ad89b769e9e40bab9f0d33b4a62c">
+      <head>Scope and Contents</head>
+      <p>The collection contains programs, yearbooks, meeting minutes, reports, membership lists, correspondence, and receipts which document the activities of the Petworth Women's Club. The bulk of the materials are dated from 1915-1955.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_8977d7d8ff1a3e3c06ed5bfd68761fb8" level="series">
+        <did>
+          <unittitle>Series 1: Programs, 1920-1939; 1964</unittitle>
+        </did>
+        <scopecontent id="aspace_bf2b9f1bfb6d9ae18a90cc82fb361a9c">
+          <head>Scope and Contents</head>
+          <p>The series consists primarily of programs for the club's annual banquets. It also contains programs of other events including the Allegiance Luncheon of the Woman's National Committee for Law Enforcement in 1926, the Children's Patriotic Parade…List of Entries for 1924, and the Club's golden anniversary program in 1964. Items are arranged chronologically.</p>
+        </scopecontent>
+        <c id="aspace_e939cad7221df99ccf8fd6343bf5be07" level="file">
+          <did>
+            <unittitle>Annual banquet programs</unittitle>
+            <unitdate type="inclusive">1920, 1922-1937</unitdate>
+            <container id="aspace_b7426dd69a4a3d7fa41653213725ead6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b5c7dc318b0a406af4d718486381d419" parent="aspace_b7426dd69a4a3d7fa41653213725ead6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_6a50d608ee48839291373d5e34f11373" level="file">
+          <did>
+            <unittitle>Children's Patriotic Parade - List of Entries</unittitle>
+            <unitdate normal="1924/1924" type="inclusive">1924</unitdate>
+            <container id="aspace_beaac153fce0c8c407fa8a0ce95abc6b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_80f0cb4b5c4bd5e4f9108a2d90d59747" parent="aspace_beaac153fce0c8c407fa8a0ce95abc6b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_24e2d0210ee823bebc8df1d097cad935" level="file">
+          <did>
+            <unittitle>Allegiance Luncheon - Woman's National Committee for Law Enforcement</unittitle>
+            <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
+            <container id="aspace_57fa1f155937396083faaf687ecd482b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_550567e703e174a1277a071f2d134ac2" parent="aspace_57fa1f155937396083faaf687ecd482b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_9e231c735fc56c6a6f2552e2de8dbc60" level="file">
+          <did>
+            <unittitle>Lee Kedrick Lecture Bureau</unittitle>
+            <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
+            <container id="aspace_198ce883e3335653e8d4ad47fbdf8db4" label="mixed materials" type="Box">1</container>
+            <container id="aspace_bded6b6bb377b72cc2d6197b583f5c37" parent="aspace_198ce883e3335653e8d4ad47fbdf8db4" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_e8037d3fe787fb0bbde640fbdb073c08" level="file">
+          <did>
+            <unittitle>Annual Luncheon of the DC Federation of Women's Clubs</unittitle>
+            <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
+            <container id="aspace_1c9d12bb1bb5f32a261eca1975a5b86d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5c2088fbf23c17024e8ce79760d22bf7" parent="aspace_1c9d12bb1bb5f32a261eca1975a5b86d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_f8db2a03b0cd3ed2bbe357e491c12a2d" level="file">
+          <did>
+            <unittitle>Silver Anniversary Program</unittitle>
+            <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_9891568ae6693e457189b3a7359dbfcc" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1818fe3d5268b67f614329b8e7fe24ff" parent="aspace_9891568ae6693e457189b3a7359dbfcc" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ec1ab871a497c83db2d7d4b294a5d2eb" level="file">
+          <did>
+            <unittitle>Announcement of officers</unittitle>
+            <unitdate type="inclusive">1931, 1964</unitdate>
+            <container id="aspace_9449d0054884d54bb87cb2b69cbf05f4" label="mixed materials" type="Box">1</container>
+            <container id="aspace_58005604240289a56531c7e453868cad" parent="aspace_9449d0054884d54bb87cb2b69cbf05f4" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_a0e22094ec1ee8c1d7d1f92bf8581e61" level="file">
+          <did>
+            <unittitle>Invitation to House and Embassy Tour</unittitle>
+            <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_7865d5af74c18942788f900565069780" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7a65aabdaffedc171eea729217d81d28" parent="aspace_7865d5af74c18942788f900565069780" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_c405a5aa8576861359a6ff9405951a71" level="file">
+          <did>
+            <unittitle>Golden Anniversary Luncheon program</unittitle>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_38f76049ca020f55655632092e0b9088" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4365ffb2197f815ea37c087fc1f53d90" parent="aspace_38f76049ca020f55655632092e0b9088" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_d250c284901c5762f116541157974fba" level="file">
+          <did>
+            <unittitle>Harvest Dinner and Bazaar</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_505542f3ebaa24de9a9b00fc8fbe54ed" label="mixed materials" type="Box">1</container>
+            <container id="aspace_163df4411eef512cdafd3f565a012640" parent="aspace_505542f3ebaa24de9a9b00fc8fbe54ed" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_4883dcc4009d5292abe8d533c7e4f9e3" level="file">
+          <did>
+            <unittitle>An Evening in Old Japan by the Petworth Woman's Club</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f53aceac40f8ba6c9067a3cbb75385eb" label="mixed materials" type="Box">1</container>
+            <container id="aspace_99a73b5d9b63331d955558117984331a" parent="aspace_f53aceac40f8ba6c9067a3cbb75385eb" type="Folder">11</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_2a9b4413a0dfab36075537c13ad7e3c2" level="series">
+        <did>
+          <unittitle>Series 2: Yearbooks, 1921-1959</unittitle>
+        </did>
+        <scopecontent id="aspace_c04dbd22ec584190fe9018941b57ea7d">
+          <head>Scope and Contents</head>
+          <p>The series contains the club's yearbooks. Each yearbook includes a list of officers, section chairman and members, standing and special committees, members, meetings, and a report from the President. Yearbooks are arranged chronologically.</p>
+        </scopecontent>
+        <c id="aspace_aa7db880293cf7f0a197914abec986cd" level="file">
+          <did>
+            <unittitle>Yearbooks</unittitle>
+            <unitdate normal="1921/1959" type="inclusive">1921-1959</unitdate>
+            <container id="aspace_a44d6a0a122981f63b5c00d90f5729ee" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8d3d17cce9e0662ece13a096097eea9e" parent="aspace_a44d6a0a122981f63b5c00d90f5729ee" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_909995ede6280ee6a301645c642e5359" level="series">
+        <did>
+          <unittitle>Series 3: Sections and Committees, 1915-1933</unittitle>
+        </did>
+        <scopecontent id="aspace_e5800c21a04f7898d526695f77454ebb">
+          <head>Scope and Contents</head>
+          <p>The series contains many handwritten and typed meeting minutes and reports of sections/committees. The sections carried out the many charitable and educational activities where were typical of women's clubs of the period. Activities included sewing children's garments for orphanages; collecting food and clothes for the poor, offering lectures on women's suffrage and homemaking; conducting poetry readings, book discussions, neighborhood beautification projects; forming a visiting home nurses group; and lobbying for the Petworth schools, a branch library, and less car pollution. Also included in the series are meeting minutes of the Executive Committee of the Club in the early 1920s. The folders are arranged alphabetically by the name of the committee.</p>
+        </scopecontent>
+        <c id="aspace_349f38923e864bf9ff6e38bb082a6b94" level="file">
+          <did>
+            <unittitle>Art Club</unittitle>
+            <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
+            <container id="aspace_418b685024c55ded5d5a4809bc3f2af8" label="mixed materials" type="Box">2</container>
+            <container id="aspace_802b08cece5528d1cb882df54f5975a9" parent="aspace_418b685024c55ded5d5a4809bc3f2af8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_75ffb56a43d5984a0b1bee10516afde0" level="file">
+          <did>
+            <unittitle>Art Section</unittitle>
+            <unitdate type="inclusive">1921-1922, 1925-1926, 1930-1931</unitdate>
+            <container id="aspace_6929e27239e4c2ddc5fef867679a9dce" label="mixed materials" type="Box">2</container>
+            <container id="aspace_71e23d5f2b5991cd46a1800a6899d146" parent="aspace_6929e27239e4c2ddc5fef867679a9dce" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_d6f59f001e7351875f6f8d26b98c8646" level="file">
+          <did>
+            <unittitle>Civic Section</unittitle>
+            <unitdate normal="1915/1932" type="inclusive">1915-1932</unitdate>
+            <container id="aspace_cb74a1d5cd433ea7c3a2fdb513bd651e" label="mixed materials" type="Box">2</container>
+            <container id="aspace_94147dfc204d27c352708c631dff2d80" parent="aspace_cb74a1d5cd433ea7c3a2fdb513bd651e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_8d651fbc0a5179e980b825c6287ea4c2" level="file">
+          <did>
+            <unittitle>Educational Section</unittitle>
+            <unitdate normal="1927/1933" type="inclusive">1927-1933</unitdate>
+            <container id="aspace_170510c5e28d85b3c20a91a688b6faf3" label="mixed materials" type="Box">2</container>
+            <container id="aspace_ea57175b9ca8aec672432ca06f479d93" parent="aspace_170510c5e28d85b3c20a91a688b6faf3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_fb3f127e564e6844407fde7fc3e410f4" level="file">
+          <did>
+            <unittitle>Executive Committee Meeting Minutes</unittitle>
+            <unitdate normal="1920/1922" type="inclusive">1920-1922</unitdate>
+            <container id="aspace_5edc8f8f9935953f453fcfd28b44f153" label="mixed materials" type="Box">2</container>
+            <container id="aspace_6a110acbebe529c397a3b4c4150f52de" parent="aspace_5edc8f8f9935953f453fcfd28b44f153" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_0eeed193071395026c7a0b00295d6157" level="file">
+          <did>
+            <unittitle>Home Section Minutes</unittitle>
+            <unitdate type="inclusive">1921-1926, 1932-1933</unitdate>
+            <container id="aspace_50877685de8f1510eb1ea90088a2ee5d" label="mixed materials" type="Box">2</container>
+            <container id="aspace_e3f765b9c2eb61a45c6f4645511e8cc3" parent="aspace_50877685de8f1510eb1ea90088a2ee5d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_12dab2d795ae5f34b47d963f1036bc03" level="file">
+          <did>
+            <unittitle>Hospitality Committee</unittitle>
+            <unitdate type="inclusive">1920-1927, 1932-1933</unitdate>
+            <container id="aspace_80aa7ee973e539af2bc33d4bc9b0078f" label="mixed materials" type="Box">2</container>
+            <container id="aspace_0c1849687399de1997ef602ddfc4b7f2" parent="aspace_80aa7ee973e539af2bc33d4bc9b0078f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_8f579360663f51c775ac7e34b4e3ad04" level="file">
+          <did>
+            <unittitle>Literary Club</unittitle>
+            <unitdate normal="1918/1925" type="inclusive">1918-1925</unitdate>
+            <container id="aspace_0e7561890578c4871168f37d354f308c" label="mixed materials" type="Box">2</container>
+            <container id="aspace_09cf18dbe1d685329f3d9e25273e915e" parent="aspace_0e7561890578c4871168f37d354f308c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_3e9ca7ecc4aea1c33511c57aecfe8388" level="file">
+          <did>
+            <unittitle>Literature Section</unittitle>
+            <unitdate normal="1926/1933" type="inclusive">1926-1933</unitdate>
+            <container id="aspace_77c58badc0850abfa75f9595c2a41b47" label="mixed materials" type="Box">2</container>
+            <container id="aspace_570a37107f656e2d0e45c058b9f3ead7" parent="aspace_77c58badc0850abfa75f9595c2a41b47" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_d7269f432219ee464d17b292b95e2849" level="file">
+          <did>
+            <unittitle>Music Section</unittitle>
+            <unitdate type="inclusive">1914-1915, 1922-1926, 1931-1932</unitdate>
+            <container id="aspace_371d25852d1abc1a84b3b7722498b5ce" label="mixed materials" type="Box">2</container>
+            <container id="aspace_840787c61aaf917d2cc5f4b7a4d85707" parent="aspace_371d25852d1abc1a84b3b7722498b5ce" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_d6695a5fcf2304ef2100d95b64b26220" level="file">
+          <did>
+            <unittitle>Philanthropic Section</unittitle>
+            <unitdate normal="1919/1933" type="inclusive">1919-1933</unitdate>
+            <container id="aspace_ad9e1e7a34baf2c734bb2a2a294b5489" label="mixed materials" type="Box">2</container>
+            <container id="aspace_75efc03393b1a3c9921bb73fd764ddfe" parent="aspace_ad9e1e7a34baf2c734bb2a2a294b5489" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_26e3a80296845ee4d24e79d01e91c53b" level="file">
+          <did>
+            <unittitle>Visiting Nurses Committee</unittitle>
+            <unitdate normal="1931/1932" type="inclusive">1931-1932</unitdate>
+            <container id="aspace_f85090237264dbb981750af308af4b43" label="mixed materials" type="Box">2</container>
+            <container id="aspace_430b868901de0a93a8b688eb4c1ec89e" parent="aspace_f85090237264dbb981750af308af4b43" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_019e4dd1e5c2ead38885ff57f6624656" level="file">
+          <did>
+            <unittitle>Yearbook Committee</unittitle>
+            <unitdate normal="1922/1925" type="inclusive">1922-1925</unitdate>
+            <container id="aspace_f201cb6faee0d0b04f6d488a8e49a6b0" label="mixed materials" type="Box">2</container>
+            <container id="aspace_ade04b2bebcf29ba7e46f8d9cc5bbb97" parent="aspace_f201cb6faee0d0b04f6d488a8e49a6b0" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_2d355a01690cde3c49d36dc20721734f" level="file">
+          <did>
+            <unittitle>Committee Reports - General</unittitle>
+            <unitdate normal="1914/1955" type="inclusive">1914-1955</unitdate>
+            <container id="aspace_320989409ab33a7599a630849ef28b80" label="mixed materials" type="Box">3</container>
+            <container id="aspace_b0ca5a29cfc38f3aa02c33babc5659ac" parent="aspace_320989409ab33a7599a630849ef28b80" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_d2b6a671097169dde2158bface9057bd" level="file">
+          <did>
+            <unittitle>Committee Reports - General</unittitle>
+            <unitdate normal="1914/1955" type="inclusive">1914-1955</unitdate>
+            <container id="aspace_885f08dd48d22f9884289d1543e1a5be" label="mixed materials" type="Box">3</container>
+            <container id="aspace_88f508a84e0836d876caee9b9212647b" parent="aspace_885f08dd48d22f9884289d1543e1a5be" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_83d55a57c4ccf9cacbea0af600a8eb97" level="file">
+          <did>
+            <unittitle>Committee Reports - General</unittitle>
+            <unitdate normal="1914/1955" type="inclusive">1914-1955</unitdate>
+            <container id="aspace_99ee22bca5aa9ed34cf90d35294651b6" label="mixed materials" type="Box">3</container>
+            <container id="aspace_cc09b3f89da613390cb9c6974e875f4a" parent="aspace_99ee22bca5aa9ed34cf90d35294651b6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_3c4271b5f728f38d3b213d876913e489" level="file">
+          <did>
+            <unittitle>Committee Reports - General</unittitle>
+            <unitdate normal="1914/1955" type="inclusive">1914-1955</unitdate>
+            <container id="aspace_6ec26e05e5a88eafa42257cf3ef0d786" label="mixed materials" type="Box">3</container>
+            <container id="aspace_fe232a82af5874ea9acecc66b3a88a1f" parent="aspace_6ec26e05e5a88eafa42257cf3ef0d786" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_8475da55d78c3097ed086e570f911f9d" level="file">
+          <did>
+            <unittitle>Committee Reports - General</unittitle>
+            <unitdate normal="1914/1955" type="inclusive">1914-1955</unitdate>
+            <container id="aspace_b442431ff2e280b925ea1023af3fd3c6" label="mixed materials" type="Box">3</container>
+            <container id="aspace_45cda89108893de2a6480cd7ff376075" parent="aspace_b442431ff2e280b925ea1023af3fd3c6" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_3d9b4011e31d125f74188d9022491f32" level="series">
+        <did>
+          <unittitle>Series 4: General Files, 1916-1964</unittitle>
+        </did>
+        <scopecontent id="aspace_7d976976d23b20e1548e7f095aaea33c">
+          <head>Scope and Contents</head>
+          <p>The series contains folders on a variety of topics loosely arranged in chronological order. Much of the series consists of correspondence. It also includes a history of the club prepared in 1964 and minutes from meetings of affiliated organizations such as the D.C. Federation of Women's Clubs and the Public School Administration Association.</p>
+        </scopecontent>
+        <c id="aspace_255b77e48581f5e79be91d2c18c139ab" level="file">
+          <did>
+            <unittitle>Presidential Address</unittitle>
+            <unitdate normal="1918/1918" type="inclusive">1918</unitdate>
+            <container id="aspace_3b6fc8db456614ae21e2177f9d14ca0d" label="mixed materials" type="Box">3</container>
+            <container id="aspace_4110c781af00878b24cce1c3e447e96c" parent="aspace_3b6fc8db456614ae21e2177f9d14ca0d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_c7f6e284713932a0974b1ac0f405aec7" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1916/1922" type="inclusive">1916-1922</unitdate>
+            <container id="aspace_5e431a7738a336e639dc940fa0dee949" label="mixed materials" type="Box">3</container>
+            <container id="aspace_f83b0078ecf2a64f6f5b078189e05c9c" parent="aspace_5e431a7738a336e639dc940fa0dee949" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ec1a191b8ffeef6227fa7aa07a0ebcde" level="file">
+          <did>
+            <unittitle>Correspondence re Petworth School</unittitle>
+            <unitdate normal="1916/1922" type="inclusive">1916-1922</unitdate>
+            <container id="aspace_ff4887420da61d67a7f2bf2ba6a01c29" label="mixed materials" type="Box">3</container>
+            <container id="aspace_d361561dea54d0fc9130f129fdd9f610" parent="aspace_ff4887420da61d67a7f2bf2ba6a01c29" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_b8f0654cfdec44d6d652bb5dcbafac91" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1924/1926" type="inclusive">1924-1926</unitdate>
+            <container id="aspace_de1c43bfe791c00435358e63ce47fd79" label="mixed materials" type="Box">3</container>
+            <container id="aspace_78b9fd76d43bdde958667d0108355d86" parent="aspace_de1c43bfe791c00435358e63ce47fd79" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_e606e33efa7692afe47aa3e24dce8402" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1927/1935" type="inclusive">1927-1935</unitdate>
+            <container id="aspace_ba2fcff42f9dd480f9a14ab1a9e629a9" label="mixed materials" type="Box">3</container>
+            <container id="aspace_3ac02f959ff6e063889f8da79085d03e" parent="aspace_ba2fcff42f9dd480f9a14ab1a9e629a9" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_836ea537388853a3b3318ccf25c9463d" level="file">
+          <did>
+            <unittitle>Public School Association Meeting Minutes</unittitle>
+            <unitdate normal="1922/1927" type="inclusive">1922-1927</unitdate>
+            <container id="aspace_cca46aed22a6af9870634dad1475efe3" label="mixed materials" type="Box">4</container>
+            <container id="aspace_2a707c8dc9f88973dc7a0f9b5624c995" parent="aspace_cca46aed22a6af9870634dad1475efe3" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_2292e02d46b97b44bdd5a3c74484cea0" level="file">
+          <did>
+            <unittitle>Officers' reports</unittitle>
+            <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
+            <container id="aspace_91b28e857030b540e966d1c0550ca1fe" label="mixed materials" type="Box">4</container>
+            <container id="aspace_c4ef523d9b47b635f15486b7bea32910" parent="aspace_91b28e857030b540e966d1c0550ca1fe" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_598f49143a3a2b4e73cd780526ce187c" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1925/1935" type="inclusive">1925-1935</unitdate>
+            <container id="aspace_184921e9cf05c7b9b34d024484807a03" label="mixed materials" type="Box">4</container>
+            <container id="aspace_863454bb330654d7751815f0786297f3" parent="aspace_184921e9cf05c7b9b34d024484807a03" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_a0ad8969968137fb76402577fc8d9894" level="file">
+          <did>
+            <unittitle>Corresponding Secretary's reports</unittitle>
+            <unitdate normal="1925/1926" type="inclusive">1925-1926</unitdate>
+            <container id="aspace_938823e1921c1b3abd0f86e3169cffe3" label="mixed materials" type="Box">4</container>
+            <container id="aspace_50d585e39848436e67b860d03645d0a5" parent="aspace_938823e1921c1b3abd0f86e3169cffe3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_920ac0b7021f4ef93705e82fbb19468c" level="file">
+          <did>
+            <unittitle>President Edith Phelps' papers</unittitle>
+            <unitdate normal="1924/1926" type="inclusive">1924-1926</unitdate>
+            <container id="aspace_49ddada6fec4cfc2cfff36918089ffc7" label="mixed materials" type="Box">4</container>
+            <container id="aspace_332a4777b31d6a4d05371f95e388b924" parent="aspace_49ddada6fec4cfc2cfff36918089ffc7" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_3b8b8cb8fdd1a24f01243dd4e09ea88a" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
+            <container id="aspace_b88a3b5891449b69a64a6f182987afbf" label="mixed materials" type="Box">4</container>
+            <container id="aspace_9a6b9e97eb0413c88db21e14bb5609b8" parent="aspace_b88a3b5891449b69a64a6f182987afbf" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_35b1888ff32f6f92c09df6da0952252c" level="file">
+          <did>
+            <unittitle>Financial materials</unittitle>
+            <unitdate normal="1927/1933" type="inclusive">1927-1933</unitdate>
+            <container id="aspace_031d35a9fc4d498fb0dbfc6b291bd778" label="mixed materials" type="Box">4</container>
+            <container id="aspace_48921aab198fbfc4f1aab99ae7472bf1" parent="aspace_031d35a9fc4d498fb0dbfc6b291bd778" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_b2474b7522b97c9b935ecd9009edcea0" level="file">
+          <did>
+            <unittitle>Society Hygiene Society of D.C.</unittitle>
+            <unitdate certainty="approximate" normal="1930/1939" type="inclusive">1930s</unitdate>
+            <container id="aspace_90412f80a3ec8374f4fba4d3defc6845" label="mixed materials" type="Box">4</container>
+            <container id="aspace_8e04a88292d6348abb67789996e40f5c" parent="aspace_90412f80a3ec8374f4fba4d3defc6845" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_0c44d8b23875c59e7497effa09f9f942" level="file">
+          <did>
+            <unittitle>D.C. Federation of Women's Clubs meeting minutes</unittitle>
+            <unitdate normal="1931/1933" type="inclusive">1931-1933</unitdate>
+            <container id="aspace_8002f44945ac2cf090a1b08080dbc677" label="mixed materials" type="Box">4</container>
+            <container id="aspace_537ad5e661808143272d2764e8eaf660" parent="aspace_8002f44945ac2cf090a1b08080dbc677" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_5f8f82848633fd714833b5ad59dde51b" level="file">
+          <did>
+            <unittitle>Membership lists</unittitle>
+            <unitdate normal="1931/1932" type="inclusive">1931-1932</unitdate>
+            <container id="aspace_36ed664b8bf5bbeb9d3778cfb6c57822" label="mixed materials" type="Box">4</container>
+            <container id="aspace_34d49c36dd13c34797edff89f9bdf296" parent="aspace_36ed664b8bf5bbeb9d3778cfb6c57822" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_13b6337e998405af225226719b77a34c" level="file">
+          <did>
+            <unittitle>Resolutions</unittitle>
+            <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
+            <container id="aspace_30ec0ba72ed2958fca635b6c2b024a2e" label="mixed materials" type="Box">4</container>
+            <container id="aspace_3c2019929b722dc1b7c40a7705874593" parent="aspace_30ec0ba72ed2958fca635b6c2b024a2e" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_0f918896efd3b28c144453d837a68cf7" level="file">
+          <did>
+            <unittitle>WWII misc.</unittitle>
+            <unitdate normal="1940/1945" type="inclusive">1940-1945</unitdate>
+            <container id="aspace_11a9f94d2da6b92c0babbda8ccb6f17a" label="mixed materials" type="Box">4</container>
+            <container id="aspace_0c6b1e795c1e93921f0f75131c2f04b9" parent="aspace_11a9f94d2da6b92c0babbda8ccb6f17a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_a007a9eb4d45ebeedf09aa69ebb4b86b" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
+            <container id="aspace_cf74bf574dd8d8e4ff612273cdde3ad4" label="mixed materials" type="Box">4</container>
+            <container id="aspace_32992e50624969c9726ae2d0afd147b1" parent="aspace_cf74bf574dd8d8e4ff612273cdde3ad4" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_e91a90cdd661a10b14962cae27fe5be1" level="file">
+          <did>
+            <unittitle>Club documents</unittitle>
+            <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <container id="aspace_f8768559e064ea8faca8addf9de48ad0" label="mixed materials" type="Box">4</container>
+            <container id="aspace_a898a6037b4e22fdd80daa5f1b543fc0" parent="aspace_f8768559e064ea8faca8addf9de48ad0" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_64ddc6c20ba91ac41e9db542dc4c9246" level="file">
+          <did>
+            <unittitle>Awards and certificates</unittitle>
+            <unitdate type="inclusive">1958-1964, 1936</unitdate>
+            <container id="aspace_f73b253e298c1c1b82b280bf67adde35" label="mixed materials" type="Box">4</container>
+            <container id="aspace_81d2255316e87a22584dd57d08619e4c" parent="aspace_f73b253e298c1c1b82b280bf67adde35" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_b8e98786d38cc39a7d133bc8c122410a" level="file">
+          <did>
+            <unittitle>Petworth Tribune - Petworth Methodist Church</unittitle>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_a50c2adbcd40abc00bca3fd19669a193" label="mixed materials" type="Box">4</container>
+            <container id="aspace_07631129f23da46be77f44093507edf1" parent="aspace_a50c2adbcd40abc00bca3fd19669a193" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_76489d83e2a425b7ed716602033f4acb" level="file">
+          <did>
+            <unittitle>History</unittitle>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_7407a2c21659c56967d0fccb24565c6e" label="mixed materials" type="Box">4</container>
+            <container id="aspace_ba6175e24c592ff27cad65b8ac78070a" parent="aspace_7407a2c21659c56967d0fccb24565c6e" type="Folder">17</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_e0c45bb79578cb8ada436a513e300677" level="series">
+        <did>
+          <unittitle>Series 5: Meeting Minutes, 1914-1964</unittitle>
+        </did>
+        <scopecontent id="aspace_2b37aafe839d2e7cfda52003c871298a">
+          <head>Scope and Contents</head>
+          <p>The series contains minutes of the meeting of the Club.</p>
+        </scopecontent>
+        <c id="aspace_6112f444154a5b6130bd68eee9bb0fe3" level="file">
+          <did>
+            <unittitle>Meeting Minutes (bound volume)</unittitle>
+            <unitdate normal="1915/1931" type="inclusive">1915-1931</unitdate>
+            <container id="aspace_c3d6bd166b5d4ff2c183392737b8afea" label="mixed materials" type="Box">5</container>
+            <container id="aspace_bccc552da543147daa42567e8fece122" parent="aspace_c3d6bd166b5d4ff2c183392737b8afea" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_6501eb9afa229f096e24d3a497cddf9d" level="file">
+          <did>
+            <unittitle>Meeting Minutes (bound volume)</unittitle>
+            <unitdate normal="1915/1931" type="inclusive">1915-1931</unitdate>
+            <container id="aspace_b75a6e84c4581931835ac054ef28f2e0" label="mixed materials" type="Box">5</container>
+            <container id="aspace_9141d118773bbe7b20a8030cc3dd00ef" parent="aspace_b75a6e84c4581931835ac054ef28f2e0" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_8b47c5ba32d2a97d8b2df4129c74b0c9" level="file">
+          <did>
+            <unittitle>Meeting Minutes</unittitle>
+            <unitdate normal="1915/1931" type="inclusive">1915-1931</unitdate>
+            <container id="aspace_60cd7e70d7cdf3c028ca33138430ac4f" label="mixed materials" type="Box">5</container>
+            <container id="aspace_c2bb682e1dffc9bfb5cba2ffc2a9f5fe" parent="aspace_60cd7e70d7cdf3c028ca33138430ac4f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_1c9e418b3b02a77d1c5d9c8b2051b2ed" level="file">
+          <did>
+            <unittitle>Meeting Minutes</unittitle>
+            <unitdate normal="1915/1931" type="inclusive">1915-1931</unitdate>
+            <container id="aspace_d44873816fa2b5d6443d25555bf01696" label="mixed materials" type="Box">5</container>
+            <container id="aspace_6144a4d93cddb3e7a40b852926d289c4" parent="aspace_d44873816fa2b5d6443d25555bf01696" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_864c9d391e7ec8f87208dfa89e1c07a0" level="file">
+          <did>
+            <unittitle>Meeting Minutes</unittitle>
+            <unitdate normal="1915/1931" type="inclusive">1915-1931</unitdate>
+            <container id="aspace_fe91d40f5afc4f48f387b23b8aeedad9" label="mixed materials" type="Box">5</container>
+            <container id="aspace_9143ce67b1da4fec08ead865a7bef0a5" parent="aspace_fe91d40f5afc4f48f387b23b8aeedad9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_347376039a0266bb835a6131bde0eb34" level="file">
+          <did>
+            <unittitle>Meeting Minutes</unittitle>
+            <unitdate normal="1915/1931" type="inclusive">1915-1931</unitdate>
+            <container id="aspace_5bb7bcaa159d6403af0e62da033eee98" label="mixed materials" type="Box">5</container>
+            <container id="aspace_ee4e1050760d0ff7b6ba0a3b73f9375f" parent="aspace_5bb7bcaa159d6403af0e62da033eee98" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_aad65aceb3a2151e9f7b20785fb167ec" level="file">
+          <did>
+            <unittitle>Meeting Minutes (bound volume)</unittitle>
+            <unitdate normal="1940/1964" type="inclusive">1940-1964</unitdate>
+            <container id="aspace_a6fbfc2a713d5e8882419bbe0bab6ed1" label="mixed materials" type="Box">6</container>
+            <container id="aspace_21ad9efda319dd1fabbfb2fd829b3d26" parent="aspace_a6fbfc2a713d5e8882419bbe0bab6ed1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_f8b419d4d28d709de361fe3c9debb112" level="file">
+          <did>
+            <unittitle>Meeting Minutes (bound volume)</unittitle>
+            <unitdate normal="1940/1964" type="inclusive">1940-1964</unitdate>
+            <container id="aspace_b2da50930fdccee7cb9009f16e562dcb" label="mixed materials" type="Box">6</container>
+            <container id="aspace_f3933b6a6ff66e5c93fdf8b0ff6b0ad7" parent="aspace_b2da50930fdccee7cb9009f16e562dcb" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_8907f458f6d396d3554625672f53b89f" level="file">
+          <did>
+            <unittitle>Meeting Minutes (bound volume)</unittitle>
+            <unitdate normal="1940/1964" type="inclusive">1940-1964</unitdate>
+            <container id="aspace_356d84e76fbf51e868140183c887fdc4" label="mixed materials" type="Box">6</container>
+            <container id="aspace_1917015438f2ad16289b5405665dda10" parent="aspace_356d84e76fbf51e868140183c887fdc4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_078c4b5524caeecea4d913155ba945a6" level="file">
+          <did>
+            <unittitle>Meeting Minutes (bound volume)</unittitle>
+            <unitdate normal="1940/1964" type="inclusive">1940-1964</unitdate>
+            <container id="aspace_54c44ea7dfb6d81423e2ffd4b9380b2f" label="mixed materials" type="Box">6</container>
+            <container id="aspace_85406dd04ebb8986f4f119a989b2efae" parent="aspace_54c44ea7dfb6d81423e2ffd4b9380b2f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_c4f22b2564a5f38918a1c56b768b3df4" level="file">
+          <did>
+            <unittitle>Meeting Minutes (bound volume)</unittitle>
+            <unitdate normal="1940/1964" type="inclusive">1940-1964</unitdate>
+            <container id="aspace_1d0e016ab6f992b9d4c544903e0caeb5" label="mixed materials" type="Box">6</container>
+            <container id="aspace_f14079f505b7c98a2ca4df1c74173bb8" parent="aspace_1d0e016ab6f992b9d4c544903e0caeb5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_dec03bec24d109552e4a21c1f1ad9470" level="file">
+          <did>
+            <unittitle>Meeting Minutes (bound volume)</unittitle>
+            <unitdate normal="1940/1964" type="inclusive">1940-1964</unitdate>
+            <container id="aspace_bfc20ce38e955d216c038a5ff684292f" label="mixed materials" type="Box">6</container>
+            <container id="aspace_0f169ffad893f91552408a270942d33a" parent="aspace_bfc20ce38e955d216c038a5ff684292f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_700eeec55f4a22a7dc110cf28d9fbc4b" level="file">
+          <did>
+            <unittitle>Meeting Minutes (bound volume)</unittitle>
+            <unitdate normal="1940/1964" type="inclusive">1940-1964</unitdate>
+            <container id="aspace_18e70c0eb92fbc073009b33e9e92561a" label="mixed materials" type="Box">6</container>
+            <container id="aspace_cdf87a8334630b5d6058a1baf1e6475a" parent="aspace_18e70c0eb92fbc073009b33e9e92561a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_cc08d225679808ce2ff72de9df2c4202" level="file">
+          <did>
+            <unittitle>Meeting Minutes</unittitle>
+            <unitdate normal="1940/1964" type="inclusive">1940-1964</unitdate>
+            <container id="aspace_ea91b8115022a49f446439413641560b" label="mixed materials" type="Box">6</container>
+            <container id="aspace_4ae37597e1b41efb6f9c7af255c269b0" parent="aspace_ea91b8115022a49f446439413641560b" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ca9a8d49bcbbbab4e61287bfec84ef73" level="file">
+          <did>
+            <unittitle>Meeting Minutes</unittitle>
+            <unitdate normal="1940/1964" type="inclusive">1940-1964</unitdate>
+            <container id="aspace_4d7a1b398dc9573c3ebad5068906a3a3" label="mixed materials" type="Box">6</container>
+            <container id="aspace_8bfe987762ffa6750d47faf49c1b584b" parent="aspace_4d7a1b398dc9573c3ebad5068906a3a3" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_bb144a2a0965972e857fabf4cf2efa2e" level="series">
+        <did>
+          <unittitle>Series 6: Financial Records, 1915-1954</unittitle>
+        </did>
+        <scopecontent id="aspace_6279b21fff7a01f063c633d465a786bd">
+          <head>Scope and Contents</head>
+          <p>Includes primarily handwritten ledger books containing treasurer reports, member dues, and other club expenditures.</p>
+        </scopecontent>
+        <c id="aspace_9498a59304597e124bd6c8cc7a5a7218" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1915/1926" type="inclusive">1915-1926</unitdate>
+            <container id="aspace_57203610d8433912ab1f798313bec835" label="mixed materials" type="Box">7</container>
+            <container id="aspace_25b9839391bfa5a799a93bc911f07277" parent="aspace_57203610d8433912ab1f798313bec835" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_0e542a3dfe5a0e89d642cc58507d7952" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1915/1926" type="inclusive">1915-1926</unitdate>
+            <container id="aspace_0fed5e9d98a120b3b6649429f62a90b7" label="mixed materials" type="Box">7</container>
+            <container id="aspace_afafe556c81e2adeedd84720e5573b4a" parent="aspace_0fed5e9d98a120b3b6649429f62a90b7" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_acaccd1c4f14b61f29f9463baa3868d9" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1915/1926" type="inclusive">1915-1926</unitdate>
+            <container id="aspace_d9d5a8c3616607fe660dacbbe6f0287d" label="mixed materials" type="Box">7</container>
+            <container id="aspace_a7ab8ad3f7498314c9e57633fe03d2ef" parent="aspace_d9d5a8c3616607fe660dacbbe6f0287d" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_df5c557e4b445213f6c28d76438f25d0" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1915/1926" type="inclusive">1915-1926</unitdate>
+            <container id="aspace_0b1690915b82bd4b9808033333cf8eb8" label="mixed materials" type="Box">7</container>
+            <container id="aspace_add5d5b168d00122363e1c21da02cc1b" parent="aspace_0b1690915b82bd4b9808033333cf8eb8" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_a8835be27cb8ec5f671ec454d4189d42" level="file">
+          <did>
+            <unittitle>Unlabeled folder</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_aa621b002d72d3e3a518518ce018f72d" label="mixed materials" type="Box">7</container>
+            <container id="aspace_34b434f7ceec76786bb4ca3a28a01d89" parent="aspace_aa621b002d72d3e3a518518ce018f72d" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_19baf097b7ca49889c0f7cfb1a3261aa" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1930/1948" type="inclusive">1930-1948</unitdate>
+            <container id="aspace_c36c5953ac025f54438b09f97e8174ce" label="mixed materials" type="Box">8</container>
+            <container id="aspace_40f669de94bc5caa3a6fbc4fe5483d2f" parent="aspace_c36c5953ac025f54438b09f97e8174ce" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_e0a400e9f65484d9daf52539263073ff" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1930/1948" type="inclusive">1930-1948</unitdate>
+            <container id="aspace_432bf4835983eac81c2b12ff30a6f7f3" label="mixed materials" type="Box">8</container>
+            <container id="aspace_96882600dd45fab2d4a7fffcfd1d62bd" parent="aspace_432bf4835983eac81c2b12ff30a6f7f3" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_2aa7a310054d1d9456315ed0db67db86" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1930/1948" type="inclusive">1930-1948</unitdate>
+            <container id="aspace_b1fd4160f98ce3068731b3d3a7d58ca0" label="mixed materials" type="Box">8</container>
+            <container id="aspace_f7229f1cda233debc674be339c2033a8" parent="aspace_b1fd4160f98ce3068731b3d3a7d58ca0" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_f90b1e9ecd2e704ef597dd75547f4985" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1930/1948" type="inclusive">1930-1948</unitdate>
+            <container id="aspace_03a382a63096845bdad6dd2add0223da" label="mixed materials" type="Box">8</container>
+            <container id="aspace_4ff94cb4787a7765fc9cdd6abdc66939" parent="aspace_03a382a63096845bdad6dd2add0223da" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_f361f53196390c849550d23ac9445a9e" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1930/1948" type="inclusive">1930-1948</unitdate>
+            <container id="aspace_23dcda6e3a815f1bc66a3ac68009cd46" label="mixed materials" type="Box">8</container>
+            <container id="aspace_a2bf9e31f87ad9a9e26d0508897ee76c" parent="aspace_23dcda6e3a815f1bc66a3ac68009cd46" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_94c8395ff1284fffe7641eedb5f3d231" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1930/1948" type="inclusive">1930-1948</unitdate>
+            <container id="aspace_d377212b15ae49f606522df3ba513078" label="mixed materials" type="Box">8</container>
+            <container id="aspace_3cbc92debe50840528415bb556a46378" parent="aspace_d377212b15ae49f606522df3ba513078" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_c784e490ed4c08c57415b901cd3be955" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1930/1948" type="inclusive">1930-1948</unitdate>
+            <container id="aspace_6b0254eb8eabba5838242238f73f964a" label="mixed materials" type="Box">8</container>
+            <container id="aspace_1b622c13b1d0571927c06cefdfee3670" parent="aspace_6b0254eb8eabba5838242238f73f964a" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ac73c6d0223f500ca33ea47b9f980a96" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1930/1948" type="inclusive">1930-1948</unitdate>
+            <container id="aspace_0e051d4ee96ac27c052c25e0f284f8a8" label="mixed materials" type="Box">8</container>
+            <container id="aspace_73992b022bbb144de6a217c785a1d5df" parent="aspace_0e051d4ee96ac27c052c25e0f284f8a8" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_5131c3f3ca6208739badf9c95d66c536" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1930/1948" type="inclusive">1930-1948</unitdate>
+            <container id="aspace_e62ccb84655c9fd6d5388174dbb5f7f2" label="mixed materials" type="Box">8</container>
+            <container id="aspace_d0283c291b63cc44eb95f7058dfa4148" parent="aspace_e62ccb84655c9fd6d5388174dbb5f7f2" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_7ddb65390c1360c78c4ef6f808c0be4b" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1930/1948" type="inclusive">1930-1948</unitdate>
+            <container id="aspace_fda8f9e00650847a9a42f3f98794bb31" label="mixed materials" type="Box">8</container>
+            <container id="aspace_6dd489516c6e6f90000de8ef99cf411f" parent="aspace_fda8f9e00650847a9a42f3f98794bb31" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_03daa80533649c88ec7b7a1efd3c0d07" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1949/1954" type="inclusive">1949-1954</unitdate>
+            <container id="aspace_d31adee4c2c587376e381803b7e1cc88" label="mixed materials" type="Box">9</container>
+            <container id="aspace_25cb24b15e4f6e5b9a5e0f84a807146b" parent="aspace_d31adee4c2c587376e381803b7e1cc88" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_59faddc47acc8977f172fb9bc4be99ea" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1949/1954" type="inclusive">1949-1954</unitdate>
+            <container id="aspace_30f37e88d273fcb0c2e0b3dda11da9d0" label="mixed materials" type="Box">9</container>
+            <container id="aspace_1b494092be3eb1155e85126511e0aa6f" parent="aspace_30f37e88d273fcb0c2e0b3dda11da9d0" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_58fa6c854f2c0de0e715d59e4fe4b755" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1949/1954" type="inclusive">1949-1954</unitdate>
+            <container id="aspace_1f4a844a26dd74290e659be4b8c6c278" label="mixed materials" type="Box">9</container>
+            <container id="aspace_cd3893fb042fb726967d3887ffd00250" parent="aspace_1f4a844a26dd74290e659be4b8c6c278" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_da0c67fcae372d98fb7b17b440e94b27" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate normal="1949/1954" type="inclusive">1949-1954</unitdate>
+            <container id="aspace_4dc93b5403d156dc56fab1128f183d22" label="mixed materials" type="Box">9</container>
+            <container id="aspace_71afa9a91dd363279bb49a036c9b7050" parent="aspace_4dc93b5403d156dc56fab1128f183d22" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_32c31ca1493e1861ebc01847aa3b693e" level="file">
+          <did>
+            <unittitle>Unlabeled folder</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3ad19d1ffa1704a418beced2b5f2f643" label="mixed materials" type="Box">9</container>
+            <container id="aspace_1dbe4f057c8f1ceb5900136291cb3b4e" parent="aspace_3ad19d1ffa1704a418beced2b5f2f643" type="folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_2288d53854aa649f93e30a2fb0994802" level="series">
+        <did>
+          <unittitle>Series 7: Clippings, 1924-1949</unittitle>
+        </did>
+        <scopecontent id="aspace_35b2b94e496b254e5da70af33c7cfb79">
+          <head>Scope and Contents</head>
+          <p>The series contains scrapbooks and loose clippings maintained by Club members on the Club's activities and events.</p>
+        </scopecontent>
+        <c id="aspace_edab92cc890c4291483ce82924835939" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1924/1949" type="inclusive">1924-1949</unitdate>
+            <container id="aspace_25c13334ec7b063d23251d7a400364e8" label="mixed materials" type="Box">10</container>
+            <container id="aspace_44a445b4ecf94f7fae4747fc9eb83662" parent="aspace_25c13334ec7b063d23251d7a400364e8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_fe305ac704a20d9f4b699edd98f09495" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1924/1949" type="inclusive">1924-1949</unitdate>
+            <container id="aspace_f3ebc9c26795c8db91d429b339557be1" label="mixed materials" type="Box">10</container>
+            <container id="aspace_3e345d94b31e8aef374a4ab1296e9732" parent="aspace_f3ebc9c26795c8db91d429b339557be1" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_4965550163596662a0168c59fb8580dd" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_ac358169875333191d26c3a0f8c53f4e" label="mixed materials" type="Box">10</container>
+            <container id="aspace_8ddb534083c0497f4a388c872220286b" parent="aspace_ac358169875333191d26c3a0f8c53f4e" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_a89a97399d45b4d2b85ad0c38900f9e6" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_a04a3601f6ab06723627cdc07eb18288" label="mixed materials" type="Box">10</container>
+            <container id="aspace_b3ba496e2d8a02d167d77baebf8c8700" parent="aspace_a04a3601f6ab06723627cdc07eb18288" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_8e6dd24c65f4ee89a5d2c9a86b48130a" level="file">
+          <did>
+            <unittitle>Ledger book</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_288a1114e75e3c4361c1eb6c817be808" label="mixed materials" type="Box">10</container>
+            <container id="aspace_5e0a45e5250a6934e5bead1b782fb131" parent="aspace_288a1114e75e3c4361c1eb6c817be808" type="folder">5</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

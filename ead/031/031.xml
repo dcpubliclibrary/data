@@ -1,0 +1,668 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">031Farnsboro</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Farnsboro Tenants Association Records</titleproper>
+        <titleproper>Farnsboro Tenants Association <num>031</num> <num>031</num></titleproper>
+        <subtitle>An inventory of Farnsboro Tenants Association at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Public Library.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2001-02</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 11:55:24 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Farnsboro Tenants Association Records</unittitle>
+      <unitid>031</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 linear feet; 5 boxes</extent>
+      </physdesc>
+      <unitdate normal="1972/1978" type="inclusive">1972-1978</unitdate>
+      <langmaterial id="aspace_ec0771fee35a3a7f8b005c2317fea4c6">English</langmaterial>
+      <langmaterial id="aspace_5653053dc826d31c8f468c36dc31db60">English</langmaterial>
+    </did>
+    <bioghist id="aspace_186a7a9c4baca9e4496524cbbddd9f12">
+      <head>Biographical / Historical</head>
+      <p>The Farnsboro is located at 2129 Florida Avenue, N.W., and was converted to condominiums in the late 1970s. The Tenants Association was formed in 1975 to negotiate with the landlord, Lester Carpenter Leonard, regarding rents and maintenance problems at the building. Later the tenants contested the conversion of the building to a condominium and the eviction of renters.</p>
+    </bioghist>
+    <scopecontent id="aspace_8773b0aca0a5d72f441527e324b74471">
+      <head>Scope and Contents</head>
+      <p>The collection consists of materials produced and obtained by the Tenants Association. It includes clippings, newsletters, petitions, meeting minutes, and correspondence.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85062603" source="Library of Congress Subject Headings">Housing</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_f07f71bed0f2f9fe8c63b70c559afd21" level="series">
+        <did>
+          <unittitle>Series 1: General Alphabetical Files, 1975-1978</unittitle>
+        </did>
+        <scopecontent id="aspace_7edd8ccbecf5812f67d965d0123ab4c8">
+          <head>Scope and Contents</head>
+          <p>The series contains topical files arranged alphabetically. It includes, financial and administrative materials, meeting minutes and notes, member lists, clippings, and rental information. Much of the material concerns rent increases, maintenance problems and inspections, and the condominium conversion of the building.</p>
+        </scopecontent>
+        <c id="aspace_387213b0a34dcf0b747550f51eec0b48" level="file">
+          <did>
+            <unittitle>Administrative materials</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_aeac40cce28988e1479e79bfa15b5b8e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e9950a8212331fdda89598b923e768e1" parent="aspace_aeac40cce28988e1479e79bfa15b5b8e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_498151f8ed26c2154c93ca735e55cd41" level="file">
+          <did>
+            <unittitle>Apartment 201 Detail</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_9637b467f609054e16764b3ab455aef3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b5e3f7d310be0a8f771b547afe8ae88d" parent="aspace_9637b467f609054e16764b3ab455aef3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_8dce6f164f8827ff402d2fa2dc99d4fc" level="file">
+          <did>
+            <unittitle>Apartment 201 - Letters to and from Lester Leonard</unittitle>
+            <unitdate normal="1975/1978" type="inclusive">1975-1978</unitdate>
+            <container id="aspace_3bdea7f2ae94a82ab7fa6263337039cf" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5f14d6c83f91884304b6d8c48d2a2b34" parent="aspace_3bdea7f2ae94a82ab7fa6263337039cf" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_b44be8f93c799449d8eb2272852a9d5c" level="file">
+          <did>
+            <unittitle>Application to convert to condominiums</unittitle>
+            <unitdate normal="1976/1978" type="inclusive">1976-1978</unitdate>
+            <container id="aspace_2470f84b902a10e6bda4ea50d1c2e491" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2cb9cc34f75a4d23c2b10f6b01d6fd81" parent="aspace_2470f84b902a10e6bda4ea50d1c2e491" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_b13be84cee93cc62e7b99d77f9f3f5d6" level="file">
+          <did>
+            <unittitle>Building buy cooperative or condominium</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_c7e996b1e7f2a2d67aabbfddbc0de92a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_029b8d9d98f59fcfc776a0846a36c344" parent="aspace_c7e996b1e7f2a2d67aabbfddbc0de92a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_db16d60a9064af09427a45e26400197e" level="file">
+          <did>
+            <unittitle>Bulletin Board Material</unittitle>
+            <unitdate>Undated</unitdate>
+            <container id="aspace_8fd4d401bbdb8533c54ead628666fab1" label="mixed materials" type="Box">1</container>
+            <container id="aspace_9954c9181f8ab5e8ead25fd8045edf88" parent="aspace_8fd4d401bbdb8533c54ead628666fab1" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_12557c8f0dbd919cec660a5fb1e1f3db" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1976/1984" type="inclusive">1976-1984</unitdate>
+            <container id="aspace_fd9740cdabc6b46e2c363252bb58f2b5" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ea708a144f2009d10f2dbf3ebf13e350" parent="aspace_fd9740cdabc6b46e2c363252bb58f2b5" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_e69daa94bae2e4f8656bba728cff5a28" level="file">
+          <did>
+            <unittitle>Condominium Cafe</unittitle>
+            <unitdate normal="1976/1978" type="inclusive">1976-1978</unitdate>
+            <container id="aspace_7e8722c440d1ac74161f5d909ff5c7f2" label="mixed materials" type="Box">1</container>
+            <container id="aspace_287c62438572129f9733d3eafcbd7adf" parent="aspace_7e8722c440d1ac74161f5d909ff5c7f2" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_f24c3d1693ea293e4b061f70fca20c52" level="file">
+          <did>
+            <unittitle>Condominium conversion press file</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_4ed2481d15cdc471fbee6e337400930e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2c127f25a3a896d7946c20d8bb398034" parent="aspace_4ed2481d15cdc471fbee6e337400930e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_9a06c257b5df0cc882c995c84b54dd0a" level="file">
+          <did>
+            <unittitle>Condominium protest</unittitle>
+            <unitdate normal="1978-06/1978-06" type="inclusive">June 1978</unitdate>
+            <container id="aspace_2fa29c988e578468fa185b59728cb382" label="mixed materials" type="Box">1</container>
+            <container id="aspace_45d4a182718304df6e6febbf5e626708" parent="aspace_2fa29c988e578468fa185b59728cb382" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_d0dd6d7bdd5159e7ae50a8626e379196" level="file">
+          <did>
+            <unittitle>Decatur Associates</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_6127f675f2c8f08f3a116b6d3ad782a9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_0964d48cf9aa737faefa2317468dca84" parent="aspace_6127f675f2c8f08f3a116b6d3ad782a9" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_7f8fb5e13202a96a170a52e41de5f620" level="file">
+          <did>
+            <unittitle>District Capital Corporation</unittitle>
+            <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container id="aspace_cf0d1de359ed44a221dca48cfe2fb282" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3e1fcabc38693b7c8ac356fba58e09c4" parent="aspace_cf0d1de359ed44a221dca48cfe2fb282" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_e5c2418740bce06c299b0b2d89e07aa0" level="file">
+          <did>
+            <unittitle>Emergency Committee to save rental housing</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_9df79eb77038cc941aa74688911ea845" label="mixed materials" type="Box">1</container>
+            <container id="aspace_caa5ba876e4343853fd5d9cccb651807" parent="aspace_9df79eb77038cc941aa74688911ea845" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_d3f84b5729de8574db8d5aad803551fa" level="file">
+          <did>
+            <unittitle>Final accounting</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_3338f2b610a1af225dfc08de33962d49" label="mixed materials" type="Box">1</container>
+            <container id="aspace_52260de2c788c4e1fa28eff87f327da6" parent="aspace_3338f2b610a1af225dfc08de33962d49" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_1eb5a0ac94be87adc62604507ab9f221" level="file">
+          <did>
+            <unittitle>Genesis and member information</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_903807d2f9225a3a2c7853acfbfe39b1" label="mixed materials" type="Box">1</container>
+            <container id="aspace_00c352f0d5c9d18c6af4a7e363d5c285" parent="aspace_903807d2f9225a3a2c7853acfbfe39b1" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_9d459a644813bebf33bd6141566e2c02" level="file">
+          <did>
+            <unittitle>Inspections</unittitle>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_dc5c9c0233b8bf87858027be8cf958fb" label="mixed materials" type="Box">1</container>
+            <container id="aspace_204e7d56de9b3e7e76383b7262fb432e" parent="aspace_dc5c9c0233b8bf87858027be8cf958fb" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_03b211fe62d6ca9acbddc57968b1f1a2" level="file">
+          <did>
+            <unittitle>Maintenance problems</unittitle>
+            <unitdate type="inclusive">1957, 1971-1973, 1976-78</unitdate>
+            <container id="aspace_f71cfca5a470f32f3f843dc9ab0c7a38" label="mixed materials" type="Box">1</container>
+            <container id="aspace_fd503982c82aa5d66796eeb9d3ce4308" parent="aspace_f71cfca5a470f32f3f843dc9ab0c7a38" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_0dc462e37b954c18e735e8603d7f42cf" level="file">
+          <did>
+            <unittitle>Meetings</unittitle>
+            <unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate>
+            <container id="aspace_ba415669a369cf7198780cdfed5036e6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c30db72d79a9d8b9f663d39726970f4d" parent="aspace_ba415669a369cf7198780cdfed5036e6" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_15c28f5b62d1d5fde2cc96ce28064e05" level="file">
+          <did>
+            <unittitle>Meeting notes and other administrative papers</unittitle>
+            <unitdate normal="1975-10/1977-12" type="inclusive">October 1975-December 1977</unitdate>
+            <container id="aspace_68f61714d24ae3ff83a8b8f936488167" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b1dfe794232a678b9a356bd06879882e" parent="aspace_68f61714d24ae3ff83a8b8f936488167" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_6b93d5d3930075f9af918bd072e6469e" level="file">
+          <did>
+            <unittitle>Meeting notes and other administrative papers</unittitle>
+            <unitdate type="inclusive">March-July 1978</unitdate>
+            <container id="aspace_d408dcffac92c608d8ada232df452ccd" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4e4d2fce8d0e75bca1a3eaf9665dfbcb" parent="aspace_d408dcffac92c608d8ada232df452ccd" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_b99fd829994ca200645deed5e960fdf9" level="file">
+          <did>
+            <unittitle>Meeting notes and other administrative papers</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_4cf31c40e51f9fe578d65877a1393b77" label="mixed materials" type="Box">1</container>
+            <container id="aspace_594d62d71ef9411b49d1bb1df814358b" parent="aspace_4cf31c40e51f9fe578d65877a1393b77" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ba5764ba5735b1662d744b69ffef200e" level="file">
+          <did>
+            <unittitle>Meeting notes and other administrative papers</unittitle>
+            <unitdate normal="1978-10/1978-10" type="inclusive">October 1978</unitdate>
+            <container id="aspace_0421b933364ddf9700958e00cb68f68c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_dfcf04118f990a29352900932c6f9b3c" parent="aspace_0421b933364ddf9700958e00cb68f68c" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_2f5fc6b450cd6923ecbd79e7b16e4951" level="file">
+          <did>
+            <unittitle>Meeting notes and other administrative papers</unittitle>
+            <unitdate normal="1978-11/1978-11" type="inclusive">November 1978</unitdate>
+            <container id="aspace_a12dd920466bc5513d11764c7f09e46f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_88b81fbbd3462883f35e697e9a2f88c1" parent="aspace_a12dd920466bc5513d11764c7f09e46f" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_358cb72c86fce3ecee14106a7075a7bd" level="file">
+          <did>
+            <unittitle>Member and tenant lists</unittitle>
+            <unitdate normal="1974/1976" type="inclusive">1974-1976</unitdate>
+            <container id="aspace_37d6aa8f35458acd0614ff9ca4277a8d" label="mixed materials" type="Box">2</container>
+            <container id="aspace_a57b3f0e9c45223b20a3dd92e75a504f" parent="aspace_37d6aa8f35458acd0614ff9ca4277a8d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_8745e74b21b9d557b43f2d38d15a6fb8" level="file">
+          <did>
+            <unittitle>Members</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_9229721881742cd4505709eefc2cc037" label="mixed materials" type="Box">2</container>
+            <container id="aspace_05d6a66d8394a8ffdec8f1c53e8767cb" parent="aspace_9229721881742cd4505709eefc2cc037" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_c79e2e17f12a92aec1d675578fc5c8b5" level="file">
+          <did>
+            <unittitle>Minutes and attendance lists</unittitle>
+            <unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate>
+            <container id="aspace_c1e6cede7cdba7939bc4241641c11a0d" label="mixed materials" type="Box">2</container>
+            <container id="aspace_d18a63c1386a7e48c8ae9d59938282b6" parent="aspace_c1e6cede7cdba7939bc4241641c11a0d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_a207831958a04f76ca8b20288836fc41" level="file">
+          <did>
+            <unittitle>Permission to be Inspected and Questionnaire</unittitle>
+            <unitdate normal="1977-02/1977-02" type="inclusive">February 1977</unitdate>
+            <container id="aspace_7c34699e8570cfa17e4eed59208e00b1" label="mixed materials" type="Box">2</container>
+            <container id="aspace_c480ebd068d27402c9f360e77308fe6f" parent="aspace_7c34699e8570cfa17e4eed59208e00b1" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_e5523f7928a1de5ab89b8566a1577870" level="file">
+          <did>
+            <unittitle>PG and E</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_32aa20b999e8938d62df4959ae7220c7" label="mixed materials" type="Box">2</container>
+            <container id="aspace_d6349d8cc6d02c3ef9d16fb4e8b1a97c" parent="aspace_32aa20b999e8938d62df4959ae7220c7" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_05eb8d0d3e4c1837063f5428c64c828a" level="file">
+          <did>
+            <unittitle>Purchase Agreement</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_2e287cd1a922b4e2f5667416a27691f2" label="mixed materials" type="Box">2</container>
+            <container id="aspace_4f7e68c1c547404377dc40cee8569f00" parent="aspace_2e287cd1a922b4e2f5667416a27691f2" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_62d5863f38ca595c753a882403fe1bb5" level="file">
+          <did>
+            <unittitle>Registration</unittitle>
+            <unitdate type="inclusive">October 29 1975 and March 13 1978</unitdate>
+            <container id="aspace_50a6590fb17b15dea4128f944a5ee7df" label="mixed materials" type="Box">2</container>
+            <container id="aspace_9b07a7c131ea19bc9b21156f1af97787" parent="aspace_50a6590fb17b15dea4128f944a5ee7df" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_737fa1ea2967064d6235117b25b5b5be" level="file">
+          <did>
+            <unittitle>Registration analysis</unittitle>
+            <unitdate normal="1975-10-29/1975-10-29" type="inclusive">October 29 1975</unitdate>
+            <container id="aspace_2697080cb10fdda93ccfbfd7101123b4" label="mixed materials" type="Box">2</container>
+            <container id="aspace_e1ddc9b3e66346e8320febd5b953ffe9" parent="aspace_2697080cb10fdda93ccfbfd7101123b4" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_fdc6902df0a9be72e7f85b499549c544" level="file">
+          <did>
+            <unittitle>Registration</unittitle>
+            <unitdate normal="1978-03-30/1978-03-30" type="inclusive">March 30 1978</unitdate>
+            <container id="aspace_cc1b50c6cd325dd8fcbba70c8af38211" label="mixed materials" type="Box">2</container>
+            <container id="aspace_c068d6deaf1d73d7e4007e1890d6fd80" parent="aspace_cc1b50c6cd325dd8fcbba70c8af38211" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_f751dd10a2aaf4a25b8a9eda0c713255" level="file">
+          <did>
+            <unittitle>Rental information</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_ae25acfac62085cb3b77441de689bee7" label="mixed materials" type="Box">2</container>
+            <container id="aspace_42e9aa73ebe56c85352155a9b536cabe" parent="aspace_ae25acfac62085cb3b77441de689bee7" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_2bc667d9b79098e07e81406a553ccab0" level="file">
+          <did>
+            <unittitle>Rents</unittitle>
+            <unitdate normal="1970/1976" type="inclusive">1970-1976</unitdate>
+            <container id="aspace_2d0761c0383e93712894197d35317a75" label="mixed materials" type="Box">2</container>
+            <container id="aspace_5c49755fe5961f21cceb849f17622733" parent="aspace_2d0761c0383e93712894197d35317a75" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_756ae3691f34de717a6c7e76721db359" level="file">
+          <did>
+            <unittitle>Rent advice</unittitle>
+            <unitdate normal="1972/1978" type="inclusive">1972-1978</unitdate>
+            <container id="aspace_64005bdb69197b4a8117319a3a12cd32" label="mixed materials" type="Box">2</container>
+            <container id="aspace_954f6b87ebb73e4d92469313bd1cb6b5" parent="aspace_64005bdb69197b4a8117319a3a12cd32" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_9060763545f9ce726014d38adb0a41bf" level="file">
+          <did>
+            <unittitle>Rent increases</unittitle>
+            <unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate>
+            <container id="aspace_7c363897838ab6ec6758971c53eef9b8" label="mixed materials" type="Box">2</container>
+            <container id="aspace_8ed3b77fdc14813cc6a85251121aa8c5" parent="aspace_7c363897838ab6ec6758971c53eef9b8" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_d26fffd0a9de9d1bc14dfd7e9a158879" level="file">
+          <did>
+            <unittitle>Rent information</unittitle>
+            <unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate>
+            <container id="aspace_12584d5d38a5635d23ac80c6db9bb808" label="mixed materials" type="Box">2</container>
+            <container id="aspace_a5c2028ecf16ca4a41a1490b5148293f" parent="aspace_12584d5d38a5635d23ac80c6db9bb808" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_55db61e375f77423b16ae6fb69afb432" level="file">
+          <did>
+            <unittitle>Rent refunds</unittitle>
+            <unitdate normal="1976/1978" type="inclusive">1976-1978</unitdate>
+            <container id="aspace_041cb9b3bc31487a3ef083310fe24655" label="mixed materials" type="Box">2</container>
+            <container id="aspace_4c0596c413cded185c1629eaa952dca7" parent="aspace_041cb9b3bc31487a3ef083310fe24655" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_0b130d64cf6894a2f70dfe206920d1d2" level="file">
+          <did>
+            <unittitle>Responses to questionnaire violations</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_f703c373f1f6fc1029753ed487c0c3cd" label="mixed materials" type="Box">2</container>
+            <container id="aspace_6d57b3e7326f51ac381de172cb654d9e" parent="aspace_f703c373f1f6fc1029753ed487c0c3cd" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_27ef46be1124e57ae47a0623a90bfe90" level="file">
+          <did>
+            <unittitle>Settlement agreement</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_e55cafdbe56ab58c97ca14b0e261755e" label="mixed materials" type="Box">2</container>
+            <container id="aspace_632953b39c92d51d9b601a166952b4f5" parent="aspace_e55cafdbe56ab58c97ca14b0e261755e" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_14d9e86f36787fa0d21c12fafa43fe6a" level="file">
+          <did>
+            <unittitle>Tenant forms</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_42384d23737d09cc88151f390b0a25e7" label="mixed materials" type="Box">2</container>
+            <container id="aspace_cbe49b1f1cd6e4693dab1abba48cfaea" parent="aspace_42384d23737d09cc88151f390b0a25e7" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_74f1176caea70c934e0b86dd08d458f9" level="file">
+          <did>
+            <unittitle>Tenant matters</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_1a2ff63db980e11d7dc9137de60ca124" label="mixed materials" type="Box">2</container>
+            <container id="aspace_4eeda03dd769fd675ccc3614b9fcd5b7" parent="aspace_1a2ff63db980e11d7dc9137de60ca124" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_bc5d79ce11447f9799a0bb944be9188e" level="file">
+          <did>
+            <unittitle>Tenant purchasing data</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_570ab0f54fd4a25f684af054cad2cca4" label="mixed materials" type="Box">2</container>
+            <container id="aspace_3060a74b5f4c3acdc120b285c17ed0f8" parent="aspace_570ab0f54fd4a25f684af054cad2cca4" type="Folder">20</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_644bda8cdff760006acfc974e405d4ed" level="series">
+        <did>
+          <unittitle>Series 2: Legal and Governmental Materials, 1975-1978</unittitle>
+        </did>
+        <scopecontent id="aspace_57ca87e6f49ed34c7bdb15b8a9923d3a">
+          <head>Scope and Contents</head>
+          <p>Includes housing and landlord-tenant regulations, ANC newsletters, legal notes, and exhibits prepared or compiled by Farnsboro tenants for litigation involving rents, property maintenance, and condo conversion of Farnsboro. The folders are arranged alphabetically.</p>
+        </scopecontent>
+        <c id="aspace_b09e457770d8d1322f674cc6f807842d" level="file">
+          <did>
+            <unittitle>ANC</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_484c870d957706c406cbaefdbc2dc7a4" label="mixed materials" type="Box">3</container>
+            <container id="aspace_34eaee11566fdaa6c953471e2e329cf2" parent="aspace_484c870d957706c406cbaefdbc2dc7a4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_d234a808c120e476d7331b2edefef80f" level="file">
+          <did>
+            <unittitle>ANC newsletters</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_d8262c9494b7d928e455b8b97bca2c20" label="mixed materials" type="Box">3</container>
+            <container id="aspace_f465ab0fcdb36f95b22241d1f9027277" parent="aspace_d8262c9494b7d928e455b8b97bca2c20" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_4659d5bdc0ad1fcc7bbc45f65b59f824" level="file">
+          <did>
+            <unittitle>Exhibits</unittitle>
+            <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_c5771a1f0ad722edc5e17525c7287998" label="mixed materials" type="Box">3</container>
+            <container id="aspace_ea3193048aba2c159f423f95c5406cad" parent="aspace_c5771a1f0ad722edc5e17525c7287998" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_22d9275a7259b7a0e36a8ddbe3e97b79" level="file">
+          <did>
+            <unittitle>Housing code violations</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_2e19e14bf08744470bf2820c6058b087" label="mixed materials" type="Box">3</container>
+            <container id="aspace_dab62388128a68201ab35513dca5c69a" parent="aspace_2e19e14bf08744470bf2820c6058b087" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_6cabe598e80086d491bcd4de1b7b9b4e" level="file">
+          <did>
+            <unittitle>Housing regulations no. 19-23 change</unittitle>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_2060d886a937480c3579e72e9e7a40d8" label="mixed materials" type="Box">3</container>
+            <container id="aspace_32a0c0228d1ee49908bcf2b0dde89a38" parent="aspace_2060d886a937480c3579e72e9e7a40d8" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_6911020dcb62dba48772149cce29862e" level="file">
+          <did>
+            <unittitle>Landlord tenant regulations and forms</unittitle>
+            <unitdate normal="1975/1978" type="inclusive">1975-1978</unitdate>
+            <container id="aspace_3841741f173d55d4285e1a58541fe909" label="mixed materials" type="Box">3</container>
+            <container id="aspace_5c38feaef7c8a6ec7a2c346c2a38bb28" parent="aspace_3841741f173d55d4285e1a58541fe909" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_17964db708d54c5664d3003faa783fcf" level="file">
+          <did>
+            <unittitle>Lawyers</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_624f6e93611334d97a9630c66d0f93f8" label="mixed materials" type="Box">3</container>
+            <container id="aspace_d82f25201737472ee3225b3c44aa3e5e" parent="aspace_624f6e93611334d97a9630c66d0f93f8" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_51346a6e212c5d20afb02388d9151e06" level="file">
+          <did>
+            <unittitle>Legal assistance</unittitle>
+            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_805b7da3a896a0db0b5a41a56d218deb" label="mixed materials" type="Box">3</container>
+            <container id="aspace_70983b0fb72c3464433d97e31fbc011d" parent="aspace_805b7da3a896a0db0b5a41a56d218deb" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ec705a34c4519fdd09401edec3f86291" level="file">
+          <did>
+            <unittitle>Legal notes</unittitle>
+            <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container id="aspace_05d25eb5cf00eb301a7b87217da1048d" label="mixed materials" type="Box">3</container>
+            <container id="aspace_d8ab64dba096d499fd5d1dc0f17dc6fb" parent="aspace_05d25eb5cf00eb301a7b87217da1048d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_1939169cfef718dc2719bb516304723e" level="file">
+          <did>
+            <unittitle>Legal Notes</unittitle>
+            <unitdate>Undated</unitdate>
+            <container id="aspace_25c9bf5cb9ca1f3ccd7bc6fb693e123e" label="mixed materials" type="Box">3</container>
+            <container id="aspace_28623235ef18886fdc9362ae641ac246" parent="aspace_25c9bf5cb9ca1f3ccd7bc6fb693e123e" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_1845da566810ae7695d59d5734bd11fc" level="file">
+          <did>
+            <unittitle>Regulations of the D.C. Rental Accommodations Commission</unittitle>
+            <unitdate normal="1976-04-26/1976-04-26" type="inclusive">April 26 1976</unitdate>
+            <container id="aspace_8386212e0c82ff87a7ebef071098068b" label="mixed materials" type="Box">3</container>
+            <container id="aspace_7752ce0d3053b3e1a80d993177331601" parent="aspace_8386212e0c82ff87a7ebef071098068b" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_84a9f1472f80f18d2a66f502d9308dfd" level="file">
+          <did>
+            <unittitle>Regulations of the D.C. Rental Accommodations Commission</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_a3180b373ac506b0e85948eb16b80d74" label="mixed materials" type="Box">3</container>
+            <container id="aspace_e23776ce03b1d176b54cc58fda0292e8" parent="aspace_a3180b373ac506b0e85948eb16b80d74" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_670d10b1e5f972b3899bfb5cf3be7fb5" level="file">
+          <did>
+            <unittitle>Regulations of the D.C. Rental Accommodations Commission</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_2ab6f0cca545ec43bfb8fb6b43364e68" label="mixed materials" type="Box">3</container>
+            <container id="aspace_98380439ca215bfed47d98bf83c414f0" parent="aspace_2ab6f0cca545ec43bfb8fb6b43364e68" type="Folder">13</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_e6b19fff252b120851897df847db3e21" level="series">
+        <did>
+          <unittitle>Series 3: Petitions 1976-1978</unittitle>
+        </did>
+        <scopecontent id="aspace_933b582d002717859ba3144585f17a7b">
+          <head>Scope and Contents</head>
+          <p>Includes petitions filed by the tenants regarding rental rollbacks for maintenance problems, the condominium conversion, and individual rental increases filed with the D.C. Rental Accommodations Commission. Folders are arranged alphabetically by type of petition, then chronologically.</p>
+        </scopecontent>
+        <c id="aspace_c34da4a24afb47158572d436bb1b618c" level="file">
+          <did>
+            <unittitle>Allied tenant petitions</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_b9cceee7704090f9af3cbdeb17c2dfde" label="mixed materials" type="Box">4</container>
+            <container id="aspace_e6a7628c692502dae31b1804aaa82d9f" parent="aspace_b9cceee7704090f9af3cbdeb17c2dfde" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_4b8a5b825cb4d465f9c07c87f160740a" level="file">
+          <did>
+            <unittitle>Condominium conversion petition</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_a78ccbb46d2279375e16033fe8b91ea8" label="mixed materials" type="Box">4</container>
+            <container id="aspace_3c9e6cccf58114a4a7d180211c1367de" parent="aspace_a78ccbb46d2279375e16033fe8b91ea8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_f367b01ecc0cdf201d56e675730cf45b" level="file">
+          <did>
+            <unittitle>Rental accommodations petitions</unittitle>
+            <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container id="aspace_23feeb0abc71458dd2ba652a38a7fd9a" label="mixed materials" type="Box">4</container>
+            <container id="aspace_d07635c537ef34b13a05a3df5de2e319" parent="aspace_23feeb0abc71458dd2ba652a38a7fd9a" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_e9e724e29a7ebbdf057010de6b16c3bf" level="file">
+          <did>
+            <unittitle>Rental accommodations petitions</unittitle>
+            <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container id="aspace_39b75d6f620b88acd3664408c19af2cd" label="mixed materials" type="Box">4</container>
+            <container id="aspace_c7b938df01bc3e0ef3adc6a8a95c700e" parent="aspace_39b75d6f620b88acd3664408c19af2cd" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_753e9e33d8ef71fdc78ad4f7b1df7b26" level="file">
+          <did>
+            <unittitle>Rental accommodations petitions</unittitle>
+            <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container id="aspace_b9b4e7bee2927a44396f00e4d86309e1" label="mixed materials" type="Box">4</container>
+            <container id="aspace_63aa501f9b3b166d59e1a60be3a8416c" parent="aspace_b9b4e7bee2927a44396f00e4d86309e1" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_78285f8cf22ed57effd44b2a8a4379c8" level="file">
+          <did>
+            <unittitle>Tenant petition 164</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_3b10407af2ca6ae91e4937d330716f65" label="mixed materials" type="Box">4</container>
+            <container id="aspace_8571b10493cddab9aa523cd898a94452" parent="aspace_3b10407af2ca6ae91e4937d330716f65" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_257e9a1185c35c0f4a6b4a56c33c106c" level="file">
+          <did>
+            <unittitle>Tenant petition 1034</unittitle>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_019957d8b091306b8e3d6f2df67b503b" label="mixed materials" type="Box">4</container>
+            <container id="aspace_d58e0b47d3e3dd257f376cb259193b8c" parent="aspace_019957d8b091306b8e3d6f2df67b503b" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_0b261f31623602fe9a241280a20269c2" level="file">
+          <did>
+            <unittitle>Tenant petitions (6 folders)</unittitle>
+            <unitdate normal="1975/1978" type="inclusive">1975-1978</unitdate>
+            <container id="aspace_5bde98085cd1576adb10da22fa61550d" label="mixed materials" type="Box">4</container>
+            <container id="aspace_1595e508d6f86ce91c6651a07946d180" parent="aspace_5bde98085cd1576adb10da22fa61550d" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_2eaad4d0082dadc247458a245bf9bb97" level="series">
+        <did>
+          <unittitle>Series 4: Correspondence 1975-1978</unittitle>
+        </did>
+        <scopecontent id="aspace_9d372e96218327d0d579a0b168c4fae1">
+          <head>Scope and Contents</head>
+          <p>Contains correspondence and related documents, largely to the landlord and the D.C. Rental Accommodations Commission. The correspondence is arranged alphabetically by type and then chronologically.</p>
+        </scopecontent>
+        <c id="aspace_cda40b450aae91f8bcaf0d83f21e2659" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
+            <container id="aspace_ce18b2676c745a22f343b5c6a0634394" label="mixed materials" type="Box">5</container>
+            <container id="aspace_21871f5ffc8a58fc56e17d45eef9633b" parent="aspace_ce18b2676c745a22f343b5c6a0634394" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_9dc91d326065dd4e30bb12a58c2a6ba5" level="file">
+          <did>
+            <unittitle>Correspondence and memoranda</unittitle>
+            <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container id="aspace_374751a8574c44df3bdd8e4d3d77dbd3" label="mixed materials" type="Box">5</container>
+            <container id="aspace_26e0eccc678ce775fc045df5cbc4b598" parent="aspace_374751a8574c44df3bdd8e4d3d77dbd3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_c1cab311a42f1f4059c7949133d93ea7" level="file">
+          <did>
+            <unittitle>Correspondence and memoranda</unittitle>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_88cbbcb5966bc80359ce3eff3f234785" label="mixed materials" type="Box">5</container>
+            <container id="aspace_9d305de20f9c91e82c46edb6dc111415" parent="aspace_88cbbcb5966bc80359ce3eff3f234785" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_36a1f90fe7828e709b24c0e27589924b" level="file">
+          <did>
+            <unittitle>Correspondence re problems</unittitle>
+            <unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate>
+            <container id="aspace_fc8adc3c70095883e8053c24512868bc" label="mixed materials" type="Box">5</container>
+            <container id="aspace_16871cef1b044d981f82631f1e4dc8cb" parent="aspace_fc8adc3c70095883e8053c24512868bc" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_6e90cb2b6140649869ea2433780ae198" level="file">
+          <did>
+            <unittitle>Correspondence re problems</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_3c31a37696523d0e3dcd7c474b76701d" label="mixed materials" type="Box">5</container>
+            <container id="aspace_a5a35fb35aa409ee25cc890d914065a2" parent="aspace_3c31a37696523d0e3dcd7c474b76701d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_79cb0827b5323af98b57db48a5ec861d" level="file">
+          <did>
+            <unittitle>Duplicate correspondence and other documents</unittitle>
+            <unitdate normal="1975/1978" type="inclusive">1975-1978</unitdate>
+            <container id="aspace_51fb5126c46b7076348755838e0c7f5b" label="mixed materials" type="Box">5</container>
+            <container id="aspace_133b8bd10ee23f69a0fca0656e64a8ea" parent="aspace_51fb5126c46b7076348755838e0c7f5b" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_c0f3045fd6a4bba4ef27efccd2ed952a" level="file">
+          <did>
+            <unittitle>Duplicate correspondence and other documents</unittitle>
+            <unitdate normal="1975/1978" type="inclusive">1975-1978</unitdate>
+            <container id="aspace_0f5f80b923ba78b4e7d37a296871b5b6" label="mixed materials" type="Box">5</container>
+            <container id="aspace_109ca31b3582307790a619a07b328824" parent="aspace_0f5f80b923ba78b4e7d37a296871b5b6" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_e75e8df6c635bfa0f03993e12feb26e5" level="file">
+          <did>
+            <unittitle>Tenant correspondence</unittitle>
+            <unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate>
+            <container id="aspace_c54175b1293bf0c5b2490d7c8df810ab" label="mixed materials" type="Box">5</container>
+            <container id="aspace_ad90dbbb78e99cfe83bf787fbab7312d" parent="aspace_c54175b1293bf0c5b2490d7c8df810ab" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,377 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">038ClevelandPark</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Cleveland Park Garden Club Collection</titleproper>
+        <titleproper>Cleveland Park Garden Club <num>038</num> <num>038</num></titleproper>
+        <subtitle>An inventory of Cleveland Park Garden Club at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Public Library.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2001-02</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 11:56:24 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Cleveland Park Garden Club Collection</unittitle>
+      <unitid>038</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.7 linear feet; 2 boxes</extent>
+      </physdesc>
+      <unitdate normal="1953/1984" type="inclusive">1953-1984</unitdate>
+      <langmaterial id="aspace_7fca7c76ce05b20917c67899edbc83cf">English</langmaterial>
+      <langmaterial id="aspace_40fb59eed4baa7917ad8739739d4644a">English</langmaterial>
+    </did>
+    <bioghist id="aspace_d690d3ceb86b78aa8968230ef809cf3b">
+      <head>Biographical / Historical</head>
+      <p>In order to promote environmental conservation and horticultural interest, area residents founded the Cleveland Park Garden Club in 1953. Topics at the monthly meetings ranged from garden maintenance to community beautification projects. Slide and lecture presentations as well as garden tours were held throughout the year. The club was also active in local volunteer and civic efforts including the maintenance of the National Cathedral grounds, the safeguarding of "green spaces" in the District, and the Cleveland Park Branch Library Landscaping and Beautification project. The group also protested the District's use of DDT as a pesticide.</p>
+      <p> Although the club was advertised as a community organization for both men and women, membership was primarily female. When the club disbanded in June of 1984, the decline in membership was attributed not only to District families' exodus to the suburbs but also to women working outside the home.</p>
+    </bioghist>
+    <custodhist id="aspace_05adef770ecc26d11a9efffa0c771f2a">
+      <head>Custodial History</head>
+      <p>Philip J. Stone donated the records of the Cleveland Park Garden Club.</p>
+    </custodhist>
+    <scopecontent id="aspace_17aec68a5c0d1d6d3646753423f03bfb">
+      <head>Scope and Contents</head>
+      <p>Records from the Cleveland Park Garden Club extend from 1953 through 1984. The collection contains correspondence, financial materials, meeting minutes, by-laws, membership lists, and newsletters. Significant items in the collection are a letter signed by "Lady Bird" Johnson and the Garden Club scrapbook highlighting various projects undertaken by the group. Included are articles from the Washington Post and photographs of members and club projects.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_15171724ba6da54a8e96e88003b530af" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_37c67161f92e6bbed13e5c217f9e93c3" level="file">
+          <did>
+            <unittitle>Annual Program Announcements</unittitle>
+            <unitdate normal="1973/1984" type="inclusive">1973-1984</unitdate>
+            <container id="aspace_4633d054923e27067d58f559d1e4746e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d40443d7512c454b6e3363f1af151e57" parent="aspace_4633d054923e27067d58f559d1e4746e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_6d7d80a01817e0de7b880c43daf702c4" level="file">
+          <did>
+            <unittitle>Annual Report of the Secretary</unittitle>
+            <unitdate normal="1976/1984" type="inclusive">1976-1984</unitdate>
+            <container id="aspace_551f6a2846ee26dc645bdceb1dbcf852" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5c81e30c668487ff67905d213def2e6e" parent="aspace_551f6a2846ee26dc645bdceb1dbcf852" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_24222ba3065ce258407500a4bd006532" level="file">
+          <did>
+            <unittitle>Audit Reports</unittitle>
+            <unitdate normal="1974/1984" type="inclusive">1974-1984</unitdate>
+            <container id="aspace_8321669abcce81db9cbec80e2c3ae231" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a60a5a137252d5bbccb555f42ca5cc1e" parent="aspace_8321669abcce81db9cbec80e2c3ae231" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_00dcaf2492a05c75f92aedf4f52c40eb" level="file">
+          <did>
+            <unittitle>Cleveland Park Branch Library Beautification Project</unittitle>
+            <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
+            <container id="aspace_f558d237a5cc460b06cd9fbd3c10bf9b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d0677161a5b4a7e6bb4a2c4be37263c7" parent="aspace_f558d237a5cc460b06cd9fbd3c10bf9b" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_d50abc342df211302fb016c39f071720" level="file">
+          <did>
+            <unittitle>Cleveland Park Branch Library Landscaping Project</unittitle>
+            <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
+            <container id="aspace_97d4766302d8a6274d4967e57c2b24db" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e11defd2474cc65103183e675148a93f" parent="aspace_97d4766302d8a6274d4967e57c2b24db" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_95cba65c054a40ad00c3b4a5b83bc065" level="file">
+          <did>
+            <unittitle>Cleveland Park Branch Library Landscaping Project</unittitle>
+            <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
+            <container id="aspace_5efac22abe0ee3cb2bcdbb0235d6d05c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_808056d1814edb3e999a5474ed717175" parent="aspace_5efac22abe0ee3cb2bcdbb0235d6d05c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_817c654bb6682dce17715daa63d69db2" level="file">
+          <did>
+            <unittitle>Constitution and By-laws</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_15cd579e396a97e9f34ccc745f7c2102" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c9c0e80eef183b25d20bde18bd7bd0cf" parent="aspace_15cd579e396a97e9f34ccc745f7c2102" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_37653565e675e4cd1d51138c0ee24be8" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_22adb134a1441cb2eb2c85984461f47a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1ab947974790db5054bd86465a66bcec" parent="aspace_22adb134a1441cb2eb2c85984461f47a" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_725747b9b580a18d0295b77fd4940248" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_fa8a18c7c29901b25d26fd1ab031a1f8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2152b3753f38cb8d4417091ac2f094d2" parent="aspace_fa8a18c7c29901b25d26fd1ab031a1f8" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_966d700347c895a6ccbf97a91d2166b5" level="file">
+          <did>
+            <unittitle>Dissolution Papers</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_403e6921b1c4294bcc2fa9ac49610e55" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5576d7bf6a5c6540a4de5879270aef3e" parent="aspace_403e6921b1c4294bcc2fa9ac49610e55" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_a8aff3593d9967a2d38b96151215c0f4" level="file">
+          <did>
+            <unittitle>Executive Committee Minutes</unittitle>
+            <unitdate normal="1975/1983" type="inclusive">1975-1983</unitdate>
+            <container id="aspace_7c0113dc2d848c6300d079925ca1ad1e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_382802df25e52323d3570b60daea6062" parent="aspace_7c0113dc2d848c6300d079925ca1ad1e" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_28f8ce5508a15a9066bd8667d7c26544" level="file">
+          <did>
+            <unittitle>Financial Reports</unittitle>
+            <unitdate normal="1975/1984" type="inclusive">1975-1984</unitdate>
+            <container id="aspace_857b8ed6e834cae521ed341056c5515e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_fec12ae678dc1782c87b1ca96f0c1548" parent="aspace_857b8ed6e834cae521ed341056c5515e" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_0abfb51db5d518b2c0a643200dd86706" level="file">
+          <did>
+            <unittitle>Flyer</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_12a7ddeaed4f6aa84db2538de28f67de" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f18dd25d50ee285ca4639639bc996cb5" parent="aspace_12a7ddeaed4f6aa84db2538de28f67de" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_4dbf66264d4f8443f19bf84a823dec5b" level="file">
+          <did>
+            <unittitle>Ledger Book</unittitle>
+            <unitdate normal="1960/1983" type="inclusive">1960-1983</unitdate>
+            <container id="aspace_ccb276a3f9280856317c52a02c59e236" label="mixed materials" type="Box">1</container>
+            <container id="aspace_36548a2ef9b3e4705d882fbc1574b4e4" parent="aspace_ccb276a3f9280856317c52a02c59e236" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ee08e692433d39891fedb0e37d82bd06" level="file">
+          <did>
+            <unittitle>Membership List</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_2c5ec69a616335e9beb54934f16265da" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ca563e606f64322a06ac0da021b60815" parent="aspace_2c5ec69a616335e9beb54934f16265da" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_0e7833728f0e8408cd44e2f03beba536" level="file">
+          <did>
+            <unittitle>Membership List</unittitle>
+            <unitdate normal="1974/1984" type="inclusive">1974-1984</unitdate>
+            <container id="aspace_e6e6d58c26f2e856df0f0193d8935ae9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a8991266e17ca0017a4aa688b84c6b69" parent="aspace_e6e6d58c26f2e856df0f0193d8935ae9" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_3413ebed8ac57755fdd78d53f2d4ab98" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate>
+            <container id="aspace_30e3f4539b945eb202bc3904124ec04f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_80e2d43ebbb872b71603c0e6e2c3f3b4" parent="aspace_30e3f4539b945eb202bc3904124ec04f" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_a153cddf6a799bf57c7d886af4bc84f3" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_3974ea4d6a48c87a931d28f03aaa468b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5d19ed1184aa72d9de61720bbdd0e003" parent="aspace_3974ea4d6a48c87a931d28f03aaa468b" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_c7b1fac454f3845c8c0e316a58f405f0" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_5c5b17f636344fb800db29704a0b87fc" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f7fe4142410b469f12b22eb158335d72" parent="aspace_5c5b17f636344fb800db29704a0b87fc" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_19b57145702ddbb1478fab2fea5a3842" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_0ee656de3a5100682cf16705c983d40a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2b183f6303ef70e7a180fc0775f660f1" parent="aspace_0ee656de3a5100682cf16705c983d40a" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_4bc67eabae8809d9998698a01e5adf75" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_3e03b5de029ffdcf4e9a804e592938dd" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d5a0f6d6b4fc108cc7bc12dfb113ef6d" parent="aspace_3e03b5de029ffdcf4e9a804e592938dd" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_4eace9e812804264daa6bb34e67bebdf" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_82d0cd6b3df4e6c59f1b0d6c2ee966f8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_bcaa98667dca2c2ab0fa9a34c813fd19" parent="aspace_82d0cd6b3df4e6c59f1b0d6c2ee966f8" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_46a27717d492cca95b523bad7ccd9156" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_bf904467c315a164cd3bb65f8a77ae13" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8da9f3041b5daa087463e6102f2a90f8" parent="aspace_bf904467c315a164cd3bb65f8a77ae13" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_8dc90887a729e2964cd37709f28333df" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_f70640f7df3d2c4d127b886137373eb5" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a7b96e19fef46fd47946b46d1858f5e1" parent="aspace_f70640f7df3d2c4d127b886137373eb5" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_5721dc36db24a3d53619a206f100ad7d" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_b7cf893182e856923ad3890c2cd35f08" label="mixed materials" type="Box">1</container>
+            <container id="aspace_278417b4f689c60f6c0e411dd4efdb3a" parent="aspace_b7cf893182e856923ad3890c2cd35f08" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_114c1fee79390d057f387c1c1fc723bb" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_8fa6f6abed653718706a7b44cb95199d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_9f70435d502dea293f9085f27a83541f" parent="aspace_8fa6f6abed653718706a7b44cb95199d" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_83087ceeb25529e4b4e9c4141223bcfc" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_c84b19d5c24e6574e1aadbf675e30bdd" label="mixed materials" type="Box">1</container>
+            <container id="aspace_02050f0d5ae750ac04925f5ef31ca291" parent="aspace_c84b19d5c24e6574e1aadbf675e30bdd" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_5d488dda71bbe5564175c92a293763f6" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_59725f8572d88ff21209df9a7f1e2cdc" label="mixed materials" type="Box">2</container>
+            <container id="aspace_48690899e02893b098313fd30bef2fee" parent="aspace_59725f8572d88ff21209df9a7f1e2cdc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_8aa333c881f61a993e8359e79d37cd7d" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_caced633c1dcbb4c32e43919b06cc335" label="mixed materials" type="Box">2</container>
+            <container id="aspace_d3befe9d7eb27da63138a265a2176a8a" parent="aspace_caced633c1dcbb4c32e43919b06cc335" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_0e8809da9abb4530d5d61786e9ef104b" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_d1ce3bc879496caaf1924e9c11383cbc" label="mixed materials" type="Box">2</container>
+            <container id="aspace_962b6b91bb7501ec39e33c00619366d5" parent="aspace_d1ce3bc879496caaf1924e9c11383cbc" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_19b4c86951deb0ad5cc77724ddc8813f" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_b13a4422367f52df7931a9f0082337c2" label="mixed materials" type="Box">2</container>
+            <container id="aspace_02b945327b76174104a358f356c0479b" parent="aspace_b13a4422367f52df7931a9f0082337c2" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_94e2d95e5e60b3c85715f6e6a4517302" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_ce69815c9983bf7e19e6373494423495" label="mixed materials" type="Box">2</container>
+            <container id="aspace_339bea79c97a047e05523f5f16771b56" parent="aspace_ce69815c9983bf7e19e6373494423495" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_e18402db0fbf3ec759bd4cabc8220797" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_72810681f651b54bc91b595e847c5402" label="mixed materials" type="Box">2</container>
+            <container id="aspace_db0adcc7de93cd3168301a9c20aeb26d" parent="aspace_72810681f651b54bc91b595e847c5402" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_fbf49b73ec88801aa8720ce656359ba9" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_75431274c0023ec7b6c576b7a5a24bb0" label="mixed materials" type="Box">2</container>
+            <container id="aspace_da39a08aabbbd1f2c4b0831c018a14d7" parent="aspace_75431274c0023ec7b6c576b7a5a24bb0" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_65691b3651b1e2328661937b9d44ee45" level="file">
+          <did>
+            <unittitle>Minutes and other Materials</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_030f6ada048dfc87036282ed330cd711" label="mixed materials" type="Box">2</container>
+            <container id="aspace_0c66dcdb48c690ab8e7577413c018f9b" parent="aspace_030f6ada048dfc87036282ed330cd711" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_63385412ebe280bbd7cbbe49a319aa80" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_2e6d31e07759a89b5c642bff679ab94b" label="mixed materials" type="Box">2</container>
+            <container id="aspace_369d2bb174f4b6955bd6d9b72a184154" parent="aspace_2e6d31e07759a89b5c642bff679ab94b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_b3c7b760ca9b2ae5ff9f1ae6faf05d66" level="file">
+          <did>
+            <unittitle>Minutes and other materials</unittitle>
+            <unitdate normal="1975/1984" type="inclusive">1975-1984</unitdate>
+            <container id="aspace_f82682a54cc383ace065d2cc02ef66e6" label="mixed materials" type="Box">2</container>
+            <container id="aspace_635471e1299539cb540d6e000e284c86" parent="aspace_f82682a54cc383ace065d2cc02ef66e6" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_9db1075d7d6726e063ca1cb096d15cec" level="file">
+          <did>
+            <unittitle>Scrapbook</unittitle>
+            <unitdate normal="1954/1961" type="inclusive">1954-1961</unitdate>
+            <container id="aspace_58b3d5e0512e604c5645a6b090b15fee" label="mixed materials" type="Box">2</container>
+            <container id="aspace_2c049be2f2247a7b536f5ef512e6138e" parent="aspace_58b3d5e0512e604c5645a6b090b15fee" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_5fd379e944566ddcaa37c3dc8b578c34" level="file">
+          <did>
+            <unittitle>Scrapbook</unittitle>
+            <unitdate normal="1954/1961" type="inclusive">1954-1961</unitdate>
+            <container id="aspace_14558935753140a73e4f285a9a52d343" label="mixed materials" type="Box">2</container>
+            <container id="aspace_fdc6413f61fed56f36a0efbe27293a79" parent="aspace_14558935753140a73e4f285a9a52d343" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

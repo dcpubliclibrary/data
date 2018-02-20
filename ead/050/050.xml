@@ -1,0 +1,124 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">050TaliaFerro</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Taliaferro (Sidney) Scrapbooks Collection</titleproper>
+        <titleproper>Sidney Taliaferro <num>050</num> <num>050</num></titleproper>
+        <subtitle>An inventory of Sidney Taliaferro at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Public Library.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2001-02</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 11:58:21 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Sidney Taliaferro Scrapbooks Collection</unittitle>
+      <unitid>050</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.6 linear feet; 3 boxes</extent>
+      </physdesc>
+      <unitdate normal="1927/1930" type="inclusive">1927-1930</unitdate>
+      <langmaterial id="aspace_7ca5053b25109c7ec7bb22146484dec7">English</langmaterial>
+      <langmaterial id="aspace_9612e5cac23bde308473db388586257c">English</langmaterial>
+    </did>
+    <bioghist id="aspace_3816f4fd66ded0b6735e425e44d553f3">
+      <head>Biographical / Historical</head>
+      <p>Sidney F. Taliaferro was born in Salem, Virginia in 1885 and began his working career as an office boy when he was 13. In 1899, Taliaferro moved to Washington where he worked as an insurance agent while he attended night school at Georgetown University Law School. After graduation, he practiced law and earned a respected reputation representing railroad companies. In 1926 he was appointed D.C. Commissioner by Calvin Coolidge and served until 1930 when he resigned to join the Riggs National Bank as a vice president and trust officer until he retired in 1950. Mr. Taliaferro was also very active in civic affairs. He was director of the Washington Gas Light Company for many years, and served on many public and corporate boards, including the public utilities commission, zoning commission, board of public welfare, Boys Club of Washington, YWCA, Salvation Army, Group Hospitalization, Julius Garfinkel Company, and Brooks Brothers.</p>
+    </bioghist>
+    <scopecontent id="aspace_a0a032f788bd2cc99061d2c9c13481b8">
+      <head>Scope and Contents</head>
+      <p>The scrapbooks consist primarily of clippings that highlight Mr. Taliaferro's activities while he was Commissioner of the District from 1926-1930. The scrapbooks also contain programs, letters, tickets, invitations, and other memorabilia regarding Herbert Hoover's inauguration in 1929; original signed letters from President Hoover, Taliaferro, local D.C. officials, and citizen groups; and a number of programs and typewritten remarks/speeches of Mr. Taliaferro from social, political, and civic events in which he participated.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/vocabulary/geographicAreas/n-us-dc" source="lcsh">Washington (D.C.)</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_5239e88b96e16769ce2127993bc366d9" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_3e060de68ef5f662e4409ae81539a9c5" level="file">
+          <did>
+            <unittitle>Volume 1</unittitle>
+            <unitdate normal="1927-04/1928-05" type="inclusive">April 1927-May 1928</unitdate>
+            <container id="aspace_8c026a6ee5047b023d4241c0522c84ec" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ff242e2706d80b2baa651e4f2765e90a" parent="aspace_8c026a6ee5047b023d4241c0522c84ec" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_4890aa5dd7b737955334e58e6434dd12" level="file">
+          <did>
+            <unittitle>Volume 2</unittitle>
+            <unitdate normal="1928-05/1930-03" type="inclusive">May 1928-March 1930</unitdate>
+            <container id="aspace_763947345f34b8588704212d76e80fe2" label="mixed materials" type="Box">2</container>
+            <container id="aspace_e2d8c4e3a7164bc8e777e28ed818e5bc" parent="aspace_763947345f34b8588704212d76e80fe2" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_4ded9ca6e1b9d64be54a08b4853f88b5" level="file">
+          <did>
+            <unittitle>Signed letter from Herbert Hoover</unittitle>
+            <unitdate normal="1928-11-09/1928-11-09" type="inclusive">11/9/1928</unitdate>
+            <container id="aspace_107fa02ca7ed0259bba26d9c8ec61ef2" label="mixed materials" type="Box">3</container>
+            <container id="aspace_a3014b20a243cb8bd1298cbb0f1ad8b2" parent="aspace_107fa02ca7ed0259bba26d9c8ec61ef2" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_47b4786faed00a7094697f7decfa56b8" level="file">
+          <did>
+            <unittitle>Inaugural Ceremonies program</unittitle>
+            <unitdate normal="1929-03-04/1929-03-04" type="inclusive">March 4 1929</unitdate>
+            <container id="aspace_89de097af530d7cef7dce9b999bcf46d" label="mixed materials" type="Box">3</container>
+            <container id="aspace_f24d4575e9aedb05114588333fa21834" parent="aspace_89de097af530d7cef7dce9b999bcf46d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_d9443cbb61a44ee76b1374a9040b2e3b" level="file">
+          <did>
+            <unittitle>Inaugural invitation</unittitle>
+            <unitdate normal="1929-03-04/1929-03-04" type="inclusive">March 4 1929</unitdate>
+            <container id="aspace_52887a888c4d400b95bf3199a05f9d4b" label="mixed materials" type="Box">3</container>
+            <container id="aspace_974efe5e458fd30fe0ec561db217bac1" parent="aspace_52887a888c4d400b95bf3199a05f9d4b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_b7694ab18ecdb194b8883d3e2099f7a6" level="file">
+          <did>
+            <unittitle>Signed letter from Charles Edison on stationary "From the Lab of Thomas A. Edison"</unittitle>
+            <unitdate normal="1929-06-05/1929-06-05" type="inclusive">June 5 1929</unitdate>
+            <container id="aspace_a0dc52ee102916f10939c8d3b92567f7" label="mixed materials" type="Box">3</container>
+            <container id="aspace_9d32f992cfa1fa012d1ee11f9e64b99b" parent="aspace_a0dc52ee102916f10939c8d3b92567f7" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_2476185a2fe76dcd93d2489641b67c5a" level="file">
+          <did>
+            <unittitle>Original letters from Hoover/Hoover's staff/citizens</unittitle>
+            <unitdate normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <container id="aspace_0888af30d9a6377b5eec73017b9c523b" label="mixed materials" type="Box">3</container>
+            <container id="aspace_7d83ed561624e0a8db71b2a01e76630c" parent="aspace_0888af30d9a6377b5eec73017b9c523b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_091707495062645529e1aeb5acf24cd9" level="file">
+          <did>
+            <unittitle>Signed letters from Taliaferro</unittitle>
+            <unitdate normal="1930-02/1930-02" type="inclusive">February 1930</unitdate>
+            <container id="aspace_a8a5ba48d7cd830d36f3b08168ad6ce3" label="mixed materials" type="Box">3</container>
+            <container id="aspace_ce9fac631c0f645be79a56456af39fa7" parent="aspace_a8a5ba48d7cd830d36f3b08168ad6ce3" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
