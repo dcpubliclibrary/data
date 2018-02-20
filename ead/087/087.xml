@@ -1,0 +1,126 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">087Frank</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Frank (Madeline) Collection</titleproper>
+        <titleproper>Madeline Frank <num>087</num> <num>087</num></titleproper>
+        <subtitle>An inventory of Madeline Frank at DC Public Library</subtitle>
+        <author>Finding aid prepared by Rachel Telford.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-12</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 14:49:10 -0500</date>.</creation>
+      <langusage>
+        <language encodinganalog="546" langcode="eng">English</language>
+      </langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Madeline Frank Collection</unittitle>
+      <unitid>087</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.25 linear feet; 1 box</extent>
+      </physdesc>
+      <unitdate normal="1905/1906" type="inclusive">1905-1906</unitdate>
+      <langmaterial id="aspace_271c5bac9f911a37cd5fee0183ea2259">English</langmaterial>
+      <langmaterial id="aspace_85a74f2a435651ca2340e48095a3c96f">English</langmaterial>
+    </did>
+    <bioghist id="aspace_5ff72abf9e51b40c79bb2268f164a12d">
+      <head>Biographical / Historical</head>
+      <p>Madeline Harriet Frank attended Lafayette High School in Buffalo, NY, and the Washington College for Young Ladies from 1905-1906. She studied music, French, 19th century literature, education, mythology and art history, and was a member of the Sigma Theta Delta sorority.</p>
+    </bioghist>
+    <custodhist id="aspace_e9c5de1d52061c7ccf474b40cd0a2157">
+      <head>Custodial History</head>
+      <p>This collection was donated in 1997.</p>
+    </custodhist>
+    <scopecontent id="aspace_12266b0b57b86b42ff06d56d2ec950f0">
+      <head>Scope and Contents</head>
+      <p>The collection consists of photos, clippings, correspondence, a copy of the Washington College handbook, and a diary entitled The College Girl's Record, which includes photos, clippings, invitations, and Madeline's impressions of Washington College and her classmates.</p>
+    </scopecontent>
+    <dsc>
+      <c id="aspace_613f2ac63f82d9baf24aa29ee2873522" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_16bab483384e9167fafad8798dd3f12a" level="file">
+          <did>
+            <unittitle>Ephemera</unittitle>
+            <container id="aspace_a4badede1825c8dfd2dfefd187fa1f63" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d0c44e1978cb5251f4f1ec747e9da33c" parent="aspace_a4badede1825c8dfd2dfefd187fa1f63" type="Folder">1</container>
+          </did>
+          <c id="aspace_efd5f3d9eb390c0d823e10dff7561fc7" level="item">
+            <did>
+              <unittitle>Photos - Classmates and class trips</unittitle>
+              <unitdate normal="1905/1906" type="inclusive">1905-1906</unitdate>
+              <container id="aspace_19272057c87274956783c2e59e9ce57d" label="mixed materials" type="Item">1</container>
+            </did>
+          </c>
+          <c id="aspace_dc17702bf251154642736e0ad6529a86" level="item">
+            <did>
+              <unittitle>Letter regarding Sigma Theta Delta</unittitle>
+              <unitdate normal="1905/1905" type="inclusive">1905</unitdate>
+              <container id="aspace_2cb9ae5d6b27d39d3f363b8f569dbebc" label="mixed materials" type="Item">2</container>
+            </did>
+          </c>
+          <c id="aspace_a7dac472c80f438d6c90eedb2d04b29f" level="item">
+            <did>
+              <unittitle>Letter to Mrs. Celia Frank from Washington College regarding Madeline</unittitle>
+              <unitdate normal="1905/1905" type="inclusive">1905</unitdate>
+              <container id="aspace_d73a9e4a90f734500c096e0dfe6b58a8" label="mixed materials" type="Item">3</container>
+            </did>
+          </c>
+          <c id="aspace_0fa99c4ff2813608c047d586247e10c1" level="item">
+            <did>
+              <unittitle>Tuition Receipt</unittitle>
+              <unitdate normal="1905/1905" type="inclusive">1905</unitdate>
+              <container id="aspace_b308893df8f5aa2f3a0d3a8d79280c91" label="mixed materials" type="Item">4</container>
+            </did>
+          </c>
+          <c id="aspace_0ae633d5110155b0d3057bdd603670fa" level="item">
+            <did>
+              <unittitle>Poem</unittitle>
+              <unitdate type="inclusive">undated</unitdate>
+              <container id="aspace_d79eade8ca9bc6ecd82199bc6f646566" label="mixed materials" type="Item">5</container>
+            </did>
+          </c>
+          <c id="aspace_7055ea1b1d91d9b45aeae63bc301b91a" level="item">
+            <did>
+              <unittitle>Calling cards</unittitle>
+              <unitdate type="inclusive">undated</unitdate>
+              <container id="aspace_f7bf55102690d498cf7f3084f5bba047" label="mixed materials" type="Item">6</container>
+            </did>
+          </c>
+          <c id="aspace_e4050d523c650cd6b7d7566504275c06" level="item">
+            <did>
+              <unittitle>Clippings</unittitle>
+              <unitdate normal="1906/1906" type="inclusive">1906</unitdate>
+              <container id="aspace_54923b61aa55587c85ac55850dcffebb" label="mixed materials" type="Item">7</container>
+            </did>
+          </c>
+          <c id="aspace_af4dfc92e99fa9871ecf53c6f3e5c6b1" level="item">
+            <did>
+              <unittitle>Washington College handbook</unittitle>
+              <unitdate normal="1905/1905" type="inclusive">1905</unitdate>
+              <container id="aspace_d728defd0ed389ce50aefded6c1c12a5" label="mixed materials" type="Item">8</container>
+            </did>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

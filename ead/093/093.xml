@@ -1,0 +1,213 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">093HDWoodson</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Woodson (HD) and Metropolitan AME Church Collection</titleproper>
+        <titleproper>HD Woodson and Metropolitan AME Church <num>093</num> <num>093</num></titleproper>
+        <subtitle>An inventory of HD Woodson and Metropolitan AME Church at DC Public Library</subtitle>
+        <author>Finding aid prepared by Ryan P. Semmes.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-12</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 14:49:54 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>HD Woodson and Metropolitan AME Church Collection</unittitle>
+      <unitid>093</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+      </physdesc>
+      <unitdate normal="1852/1913" type="inclusive">1852-1913</unitdate>
+      <langmaterial id="aspace_98769951d332ecb47587d2ef320458f9">English</langmaterial>
+      <langmaterial id="aspace_6acf71d7e0da1330fd70e9dc34045822">English</langmaterial>
+    </did>
+    <bioghist id="aspace_688eecc19d8771a6886703715cb8a7a8">
+      <head>Biographical / Historical</head>
+      <p>The collection consists of annual programs, the constitution and by-laws of the club, the history of the club, and correspondence.</p>
+    </bioghist>
+    <custodhist id="aspace_1b84ae6b1133cd7150beab9bb4818360">
+      <head>Custodial History</head>
+      <p>The materials in this collection were found by the resident of 18 Quincy Place, NE. This was the home of H. D. Woodson from 1909 to 1913.</p>
+    </custodhist>
+    <scopecontent id="aspace_51800aa855ec684e36db93ec21cbca1e">
+      <head>Scope and Contents</head>
+      <p>This collection consists of materials found in the former home of Mr. Howard D. Woodson. They consist of personal materials from his time in Pittsburgh, Pennsylvania and materials from his time as superintendent of Sunday school at the Metropolitan A. M. E. Church in Washington, DC. Materials include, a commencement program, a tax levy, class lists, treasurer reports, monthly reports, annual reports, teaching aides, construction quotes and contracts, invoices, and speeches. The materials are arranged in alphabetical order by title or subject.</p>
+    </scopecontent>
+    <dsc>
+      <c id="aspace_4a66eed668d3117cab76a003d04b07b3" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_03b323111946c92e31e0c9bde31a50c1" level="file">
+          <did>
+            <unittitle>Catalogue - Allegheny Institute</unittitle>
+            <unitdate normal="1852/1852" type="inclusive">1852</unitdate>
+            <container id="aspace_bf110003b93adab5d0d8a1083f9e931c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_12bae292d5a94f25ac0c0dee9a58f824" parent="aspace_bf110003b93adab5d0d8a1083f9e931c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_29b0413b85d22ce83e63e8189780595f" level="file">
+          <did>
+            <unittitle>Commencement Program - Western University of Pennsylvania</unittitle>
+            <unitdate normal="1899/1899" type="inclusive">1899</unitdate>
+            <container id="aspace_b657c4669e5f5bf129ed6ff9fe838f85" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7e8ca24d5f77d9a77057fb0d28bae011" parent="aspace_b657c4669e5f5bf129ed6ff9fe838f85" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_1b2543d80a2ff44335e85efa409b0df2" level="file">
+          <did>
+            <unittitle>McQueen and Odenwald - Electrical Contract</unittitle>
+            <unitdate normal="1913/1913" type="inclusive">1913</unitdate>
+            <container id="aspace_eb9241833502d336ce456584a4c96bbb" label="mixed materials" type="Box">1</container>
+            <container id="aspace_9bc6a2e49c9ed6d94510dc0b7718cc63" parent="aspace_eb9241833502d336ce456584a4c96bbb" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_69dd9a2a09770906bdee4cb8753a72d9" level="file">
+          <did>
+            <unittitle>Metropolitan A. M. E. - Annual Report of the Librarian</unittitle>
+            <unitdate normal="1912/1912" type="inclusive">1912</unitdate>
+            <container id="aspace_619181676a2283b324ff659f7c7722ff" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c2af86638c87ee8671ddfa8703f86019" parent="aspace_619181676a2283b324ff659f7c7722ff" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_e50162abfed3834f3e7e80802f7076bb" level="file">
+          <did>
+            <unittitle>Metropolitan A. M. E. - Directions for Beginners in Practical Christianity</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_51f128df2551044786032984fe56a178" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ba83943640a9b9ca9030c32c4d099c05" parent="aspace_51f128df2551044786032984fe56a178" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_2ff3b56b1a85617740bc4dc911ec9b21" level="file">
+          <did>
+            <unittitle>Metropolitan A. M. E. - Men and Religion Forward Movement</unittitle>
+            <unitdate normal="1912/1912" type="inclusive">1912</unitdate>
+            <container id="aspace_3adbdb3876595a4c511df7aec8f7b109" label="mixed materials" type="Box">1</container>
+            <container id="aspace_aaa6b400ad89b669e8103d4b676ee11a" parent="aspace_3adbdb3876595a4c511df7aec8f7b109" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_31d026ce4d5eddc6365ad43be8ae3baf" level="file">
+          <did>
+            <unittitle>Metropolitan A. M. E. - Money for Chairs</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4cdc15c35d8d7d91c31431ee42b8ee15" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1321b1f8c295fe6a537d4fe07b83ecd3" parent="aspace_4cdc15c35d8d7d91c31431ee42b8ee15" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_7952f325b9b40575da6ee64172e43eab" level="file">
+          <did>
+            <unittitle>Metropolitan A. M. E. - Monthly Reports</unittitle>
+            <unitdate normal="1911/1912" type="inclusive">1911-1912</unitdate>
+            <container id="aspace_395b9ed5d567cc21416523d15eabfa30" label="mixed materials" type="Box">1</container>
+            <container id="aspace_39b041e892aeef6aa17dadd0708712ac" parent="aspace_395b9ed5d567cc21416523d15eabfa30" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_a3059a84dd61953d371a31ddcb67e28c" level="file">
+          <did>
+            <unittitle>Metropolitan A. M. E. - Publications List</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_ed3608bca6babc090a45f4063052e370" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e7ee6bbee473fe5e472c275e3d92c76d" parent="aspace_ed3608bca6babc090a45f4063052e370" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_520a1263cba0d0edc5e06118f912e71d" level="file">
+          <did>
+            <unittitle>Metropolitan A. M. E. - The Resultants of Emancipation</unittitle>
+            <unitdate normal="1870/1870" type="inclusive">1870</unitdate>
+            <container id="aspace_e3aba61411b7844388d83f0884eb2e84" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e92250c62883b3b4ef6f77a5587d122d" parent="aspace_e3aba61411b7844388d83f0884eb2e84" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_80411fb409582ffbc2c280ba188af4e9" level="file">
+          <did>
+            <unittitle>Metropolitan A. M. E. - Standards of Service</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_a209a0c2035f5294a4c62a13f2182be7" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3e004f1a0ef7683cd282365dbf2e4421" parent="aspace_a209a0c2035f5294a4c62a13f2182be7" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_200b23e6929889dd3781e3c5092d41ea" level="file">
+          <did>
+            <unittitle>Metropolitan A. M. E. - Sunday school Class List</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4269c74a8545a97dd534382a8cbc179a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e377a45a9ea398d3a53d96719b155162" parent="aspace_4269c74a8545a97dd534382a8cbc179a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_5ad5eaabcbf792c06205269b32e0c524" level="file">
+          <did>
+            <unittitle>Metropolitan A. M. E. - Treasurer's Reports</unittitle>
+            <unitdate normal="1911/1912" type="inclusive">1911-1912</unitdate>
+            <container id="aspace_bc0e49dec049c8609c44d91703bec583" label="mixed materials" type="Box">1</container>
+            <container id="aspace_16d801d8669d6901cfe246adb95e29b0" parent="aspace_bc0e49dec049c8609c44d91703bec583" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_798241f370117edcacc4f47cbd066a00" level="file">
+          <did>
+            <unittitle>Metropolitan A. M. E. - Work Estimate</unittitle>
+            <unitdate normal="1912/1912" type="inclusive">1912</unitdate>
+            <container id="aspace_11c75fc3650c124860ee421b49b89904" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d1294850289868bdd50c987da462a839" parent="aspace_11c75fc3650c124860ee421b49b89904" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_5fc5a9912ed5ad40090d2d59b487503f" level="file">
+          <did>
+            <unittitle>Pittsburgh City Tax Levy</unittitle>
+            <unitdate normal="1913/1913" type="inclusive">1913</unitdate>
+            <container id="aspace_c476ab912404d9c275f253e0f00168fb" label="mixed materials" type="Box">1</container>
+            <container id="aspace_74c07cc12afcbcbc0698718a59205a18" parent="aspace_c476ab912404d9c275f253e0f00168fb" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_0dfb27db99c3d5ad38c01068d6e29148" level="file">
+          <did>
+            <unittitle>Pittsburgh - Sunday school Class List</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_8a4c8295efd3b07731e5b2528860d767" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3d31597f886723f22ddfb14bee64e732" parent="aspace_8a4c8295efd3b07731e5b2528860d767" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_b06b3001837f2d3c7ef09f22646107b5" level="file">
+          <did>
+            <unittitle>Postcards</unittitle>
+            <unitdate normal="1912/1912" type="inclusive">1912</unitdate>
+            <container id="aspace_13852232c9e3b16e9ba529ec79d230d6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_bc3d84cb7d6810f9d1bdb7a59517fb26" parent="aspace_13852232c9e3b16e9ba529ec79d230d6" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_a6785d2bdf22322cb87230b1990ac4bd" level="file">
+          <did>
+            <unittitle>Proceedings of the National Convention of the Colored Men of America</unittitle>
+            <unitdate normal="1869/1869" type="inclusive">1869</unitdate>
+            <container id="aspace_62d7d366322f324baf66e72de423ac87" label="mixed materials" type="Box">1</container>
+            <container id="aspace_18aac0e6914d6d638fc9da82b2e75237" parent="aspace_62d7d366322f324baf66e72de423ac87" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_0d5e864443ac0e01c86580353ec3cfec" level="file">
+          <did>
+            <unittitle>Supply Lists</unittitle>
+            <unitdate normal="1912/1913" type="inclusive">1912-1913</unitdate>
+            <container id="aspace_2ffb63ab02118df4e99211fe8d515602" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f157ff0dc853e96d81b883f2861e0412" parent="aspace_2ffb63ab02118df4e99211fe8d515602" type="Folder">19</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

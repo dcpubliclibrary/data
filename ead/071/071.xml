@@ -1,0 +1,81 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">071WMTA</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Washington Music Teachers Association Scrapbooks Collection</titleproper>
+        <titleproper>Washington Music Teachers Association <num>071</num> <num>071</num></titleproper>
+        <subtitle>An inventory of Washington Music Teachers Association Scrapbooks at DC Public Library</subtitle>
+        <author>Finding aid prepared by Ryan P. Semmes.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-08</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 14:47:32 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Washington Music Teachers Association Scrapbooks Collection</unittitle>
+      <unitid>071</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.5 linear feet; 1 box</extent>
+      </physdesc>
+      <unitdate normal="1940/1952" type="inclusive">1940-1952</unitdate>
+      <langmaterial id="aspace_ebc5521a95b66033e2dd8932ed208ce2">English</langmaterial>
+      <langmaterial id="aspace_b0ca4c5945bbdf97a943a3056f260b5d">English</langmaterial>
+    </did>
+    <bioghist id="aspace_2e1c6955e2defc934c0c954dc533f62e">
+      <head>Biographical / Historical</head>
+      <p>The WMTA was founded in 1934 with an objective of "the promotion of the professional interests of the Music Teachers of Washington and its vicinity, by encouraging good fellowship in the profession, advancing the base of sound musical instruction, by clarifying ethical problems and furthering the general musical activities of the community." It remains an organization in Washington, DC to this day.</p>
+    </bioghist>
+    <custodhist id="aspace_0bee5eebdd85238ec5559a7158b7a00c">
+      <head>Custodial History</head>
+      <p>The materials in this collection were originally cataloged as Washingtoniana Reference materials. They were removed from the reference stacks because of the unique nature of the materials in each volume. As of August 2006, only volumes 2 and 3 of the Washington Music Teachers Association (WMTA).</p>
+    </custodhist>
+    <scopecontent id="aspace_73357b8ad1c52c536b5e6069b7dd1569">
+      <head>Scope and Contents</head>
+      <p>The materials in this collection consist of newsletters, correspondence, photographs, clippings, programs, and ballots. The materials are bound in two volumes: Volume 2 covering the years 1940-1947 and Volume 3 covering the years 1947-1952. Each year is separated by title sheets and begins with a photograph of the President of the Association.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85088762" source="Library of Congress Subject Headings">Music</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_7787b479a6e6ff1f654218842e0f7e69" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_92e567f7e2a87e8bb8616708dbd4c6fe" level="file">
+          <did>
+            <unittitle>Archives of the Washington Music Teachers Association (Vol. 2)</unittitle>
+            <unitdate normal="1940/1947" type="inclusive">1940-1947</unitdate>
+            <container id="aspace_d01b18f810353b0f0b09ba6287de2a88" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b8dca877b32f8bfa5822d2fc06d6cd5d" parent="aspace_d01b18f810353b0f0b09ba6287de2a88" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_e022dcabd496d609cd15a2d917c2f371" level="file">
+          <did>
+            <unittitle>Archives of the Washington Music Teachers Association (Vol. 3)</unittitle>
+            <unitdate normal="1947/1952" type="inclusive">1947-1952</unitdate>
+            <container id="aspace_7b556a65eeb07544fa6b6a1b0fa57a41" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6ee311f26ead93472a356c449a012fff" parent="aspace_7b556a65eeb07544fa6b6a1b0fa57a41" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

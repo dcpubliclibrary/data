@@ -1,0 +1,169 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">083Friendship</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Friendship Citizens Association Collection</titleproper>
+        <titleproper>Friendship Citizens Association <num>083</num> <num>083</num></titleproper>
+        <subtitle>An inventory of Friendship Citizens Association at DC Public Library</subtitle>
+        <author>Finding aid prepared by Ryan P. Semmes.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-11</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 14:48:43 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Friendship Citizens Association Collection</unittitle>
+      <unitid>083</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+      </physdesc>
+      <unitdate normal="1944/1963" type="inclusive">1944-1963</unitdate>
+      <langmaterial id="aspace_58f9250d23882d2739e3128f9f101b93">English</langmaterial>
+      <langmaterial id="aspace_377ee23a4c0876d8a84da8bfd95a261a">English</langmaterial>
+    </did>
+    <bioghist id="aspace_b7b1a65245aa3ae0e0d4bcd633279ed6">
+      <head>Biographical / Historical</head>
+      <p>This collection consists of correspondence, notes, pamphlets, newspaper clippings, legal records, and legislative materials regarding Mrs. Hanes work with Reading Is Fundamental and the problem with sewage and water pipe breaks in Washington, DC.</p>
+    </bioghist>
+    <custodhist id="aspace_f9af240651c34412336cd124de9bcd10">
+      <head>Custodial History</head>
+      <p>Richard A. Williams, a former member of the Friendship Citizens Association, donated these materials to the Washingtoniana Division in 1984.</p>
+    </custodhist>
+    <scopecontent id="aspace_e24e0a9336629531f07e040b8f5c691d">
+      <head>Scope and Contents</head>
+      <p>This collection consists of correspondence, programs, newsletters, meeting minutes, resolutions, and other materials related to the Friendship Citizens Association of Washington, DC. Of particular interest to the Association was the proposed construction of a new branch of the DC Public Library in the Tenley-Friendship neighborhood.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008810" source="lcsh">Associations, institutions, etc</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ec2fd13c89df1f8e9722c50b3bc54bc8" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_0e80fa307ef647855ebde01360adc145" level="file">
+          <did>
+            <unittitle>Appeals and Amendments</unittitle>
+            <unitdate normal="1954/1963" type="inclusive">1954-1963</unitdate>
+            <container id="aspace_b249a39988be9a9ca00e260fc83481be" label="mixed materials" type="Box">1</container>
+            <container id="aspace_be5dff020302039bf120eae5cdef2e80" parent="aspace_b249a39988be9a9ca00e260fc83481be" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_f2ea163c902b6dda2c613897a0989255" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_ef769c2746ab42548df1707f1da25a25" label="mixed materials" type="Box">1</container>
+            <container id="aspace_54fa78b316a4739e651f892a00bb6639" parent="aspace_ef769c2746ab42548df1707f1da25a25" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_c2aec80a6dd9ca47202f08615428e1d6" level="file">
+          <did>
+            <unittitle>Constitution</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container id="aspace_ed3294bb8849872394c31e6b2034e4e8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_edac5f788c0a9c9fc6c95dc94cc29a33" parent="aspace_ed3294bb8849872394c31e6b2034e4e8" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_4b7fc91a52a5b8bcb108b5a97bf32294" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1948/1962" type="inclusive">1948-1962</unitdate>
+            <container id="aspace_cc0c3ec116c55e2d7ab2f57f259765b9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_17b7325c6972c639c96bfb5582653716" parent="aspace_cc0c3ec116c55e2d7ab2f57f259765b9" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_e849d5c53c1e99731a631e51bc13fe4b" level="file">
+          <did>
+            <unittitle>DC Presidential Vote</unittitle>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_9b8d1e59b9f3aae65e1c004c62928a60" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5a00ea5ae39d6b2812af23f7dced7e6b" parent="aspace_9b8d1e59b9f3aae65e1c004c62928a60" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_2e15936201d866cfb5a730fe7d910e89" level="file">
+          <did>
+            <unittitle>List of People Living in Friendship Area</unittitle>
+            <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
+            <container id="aspace_eec5dcc5e6c3afc0c06b355f13f03b94" label="mixed materials" type="Box">1</container>
+            <container id="aspace_89480967e1cfa69ae0df3c6e5449a83e" parent="aspace_eec5dcc5e6c3afc0c06b355f13f03b94" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_4ab357b4eb21c5f0146b34afdff25b03" level="file">
+          <did>
+            <unittitle>Map</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5722dfa8982f4c98d1ad915e9104c933" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7d1dd199fae19ec50bfbea7f033e7540" parent="aspace_5722dfa8982f4c98d1ad915e9104c933" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_6af5856abb8780cdabe0be56b22eab2f" level="file">
+          <did>
+            <unittitle>Meeting Minutes</unittitle>
+            <unitdate normal="1946/1961" type="inclusive">1946-1961</unitdate>
+            <container id="aspace_88a13109fea27932550fd249946994fd" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6d90406bcf917f969201c01ebbb866a5" parent="aspace_88a13109fea27932550fd249946994fd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_4675ea11dca9604f1b377774d8d16790" level="file">
+          <did>
+            <unittitle>Meeting Space Applications</unittitle>
+            <unitdate normal="1951/1958" type="inclusive">1951-1958</unitdate>
+            <container id="aspace_d1b391537ef4980bc89dd669b37d2ec1" label="mixed materials" type="Box">1</container>
+            <container id="aspace_0e823d9285007fa88bb8442fdf7a6c30" parent="aspace_d1b391537ef4980bc89dd669b37d2ec1" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_1afceee950e9055d152bbe53b608ab95" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate normal="1954/1958" type="inclusive">1954-1958</unitdate>
+            <container id="aspace_d57716d3273306eaa981563e4477ee40" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c4e15b5b4807dfab666e742d76d4278f" parent="aspace_d57716d3273306eaa981563e4477ee40" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_d52abb65c8dc0d4db8089e9ec17ddf00" level="file">
+          <did>
+            <unittitle>Resolutions</unittitle>
+            <unitdate normal="1948/1958" type="inclusive">1948-1958</unitdate>
+            <container id="aspace_c8179087d6f35734fec16a0b43da76ac" label="mixed materials" type="Box">1</container>
+            <container id="aspace_44792ee0b81ba7bcb92836b7a3095a7f" parent="aspace_c8179087d6f35734fec16a0b43da76ac" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_41334b86fabd2977de97d1f130cd9eb4" level="file">
+          <did>
+            <unittitle>Tenley-Friendship Library</unittitle>
+            <unitdate normal="1944/1957" type="inclusive">1944-1957</unitdate>
+            <container id="aspace_4578ee540b4c4366936dae81a0b0ab78" label="mixed materials" type="Box">1</container>
+            <container id="aspace_219e20ee54fa7f24e8dfa76a8b6d7d75" parent="aspace_4578ee540b4c4366936dae81a0b0ab78" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_b2b57caf78020e5563dca2f1ab7e5162" level="file">
+          <did>
+            <unittitle>Tenley-Friendship Library</unittitle>
+            <unitdate normal="1944/1957" type="inclusive">1944-1957</unitdate>
+            <container id="aspace_d0d90b0c5db270d47c8af36841a8e873" label="mixed materials" type="Box">1</container>
+            <container id="aspace_62cc1748485131753eeb25f7e55f3055" parent="aspace_d0d90b0c5db270d47c8af36841a8e873" type="Folder">13</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

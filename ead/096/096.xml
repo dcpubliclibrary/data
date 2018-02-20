@@ -1,0 +1,148 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">096Cayton</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Cayton (Hannah) Collection</titleproper>
+        <titleproper>Hannah Cayton <num>096</num> <num>096</num></titleproper>
+        <subtitle>An inventory of Hannah Cayton at DC Public Library</subtitle>
+        <author>Finding aid prepared by Rachel Telford.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-11</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 14:50:14 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Hannah Cayton Collection</unittitle>
+      <unitid>096</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.25 linear feet; 1 box</extent>
+      </physdesc>
+      <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
+      <langmaterial id="aspace_a5e7b022ba125bcd8a7a8fc55613130e">English</langmaterial>
+      <langmaterial id="aspace_ec2ffb003668163b738308c5bdf1e134">English</langmaterial>
+    </did>
+    <bioghist id="aspace_8e42b3844a797994c734625573265643">
+      <head>Biographical / Historical</head>
+      <p>Hannah Cayton was a surveyor working for Don't Tear it Down, "a citizen's action group working to protect and enhance Washington's physical environment." Ms. Cayton researched the Homer Building, located at 601 13th Street, N.W. Detailed results of her research can be found in FF9 and FF10.</p>
+    </bioghist>
+    <scopecontent id="aspace_c784a54305efa00edfee0ac5d6beb1ea">
+      <head>Scope and Contents</head>
+      <p>The collection consists of notes, clippings, research resources, correspondence, plat maps, and legal documents.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_a64b666c9b21cac7a9016055e017884d" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_4f4f5d2539ca9667bcb0ca05f127ba40" level="file">
+          <did>
+            <unittitle>Assessment info from Washingtoniana</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_0027e18d8a1fae611e6b6b5a229b9bab" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b5daa39b2109388a5d878a039383b529" parent="aspace_0027e18d8a1fae611e6b6b5a229b9bab" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_2f6ed47353f3918ccea27d47177df93e" level="file">
+          <did>
+            <unittitle>General Notes: Block 289</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_abfbe6ab4c1fd98fe8331c05546bde91" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4821ea8d3478aa3e0001f0cd87f86698" parent="aspace_abfbe6ab4c1fd98fe8331c05546bde91" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_647164a4a0c72ffd8b759d4218d66a0f" level="file">
+          <did>
+            <unittitle>General Notes: Block 289</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_82e795f1ee937afd00e61bdae14d9662" label="mixed materials" type="Box">1</container>
+            <container id="aspace_87a7a909f3576703b754f5d440eef2d2" parent="aspace_82e795f1ee937afd00e61bdae14d9662" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_f7a8c65f994981a250208e9da0e5c94d" level="file">
+          <did>
+            <unittitle>General Notes: Block 289</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_9a568b1a5a0d331c3209ec888b3820a5" label="mixed materials" type="Box">1</container>
+            <container id="aspace_9ab39c4b00183b50a3748acf5d403c97" parent="aspace_9a568b1a5a0d331c3209ec888b3820a5" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_a80f284b1d961f848ca2891e1ff5fea9" level="file">
+          <did>
+            <unittitle>General Notes: Block 289</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3e796fe6eb3561e3dc5afa99887b6b6a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3361f77b53352279dc1fe7cfb96012bf" parent="aspace_3e796fe6eb3561e3dc5afa99887b6b6a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_62c8b65b221e778734f192fedb32bed6" level="file">
+          <did>
+            <unittitle>General Notes: Block 289</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_15afd3d060e4a15bef0b53afdfc9dc96" label="mixed materials" type="Box">1</container>
+            <container id="aspace_024b481458c877c14c16d7992f63607c" parent="aspace_15afd3d060e4a15bef0b53afdfc9dc96" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ead26ff726a88a4b4a6f2d6324f790b7" level="file">
+          <did>
+            <unittitle>Homer Building Research (13th and 14th between FandG)</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c906c41c063ad5d2e6244fd4cdc6d3ed" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a5a305bcce6a7fd18d5471c644fe8676" parent="aspace_c906c41c063ad5d2e6244fd4cdc6d3ed" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_dd4b696eb6f46b9ac9f2b8e6eba4116b" level="file">
+          <did>
+            <unittitle>Homer Building Research (13th and 14th between FandG)</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c82947d87615282e8277710b992f199f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_fe39177aad3f48fb72cac8b6d68d8f57" parent="aspace_c82947d87615282e8277710b992f199f" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_58e312b3477217b2cea2d3067ffe2ecb" level="file">
+          <did>
+            <unittitle>Materials from Black Notebook</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5eaf2a4ed120d38cbf6fd4c8d091b00c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_bf8de7630029ce190f13ac381ce356c8" parent="aspace_5eaf2a4ed120d38cbf6fd4c8d091b00c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_f01a3a99ed6e4f26a29901a5c540aaad" level="file">
+          <did>
+            <unittitle>Materials from Black Notebook</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_eacad93c97f25ac4a2cff0e03fc818c6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_79232df571959b05c56a69ac51ba4269" parent="aspace_eacad93c97f25ac4a2cff0e03fc818c6" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_536eb25cea4f9046288af30f466084bb" level="file">
+          <did>
+            <unittitle>Two Centuries of Change: The Idea of Downtown Washington</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2ffbf809f063e1b10ccccfcd2d01595b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2d1ec0a29c5aa260a5880fa52e84db16" parent="aspace_2ffbf809f063e1b10ccccfcd2d01595b" type="Folder">11</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

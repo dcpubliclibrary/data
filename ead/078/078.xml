@@ -1,0 +1,468 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">078Dulcan</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Dulcan (Charles B.) Collection</titleproper>
+        <titleproper>Charles B. Dulcan <num>078</num> <num>078</num></titleproper>
+        <subtitle>An inventory of Charles B. Dulcan at DC Public Library</subtitle>
+        <author>Finding aid prepared by Rachel Telford.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2007-01</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 14:48:16 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Charles B. Dulcan Collection</unittitle>
+      <unitid>078</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">52.5 linear feet; 27 boxes</extent>
+      </physdesc>
+      <unitdate normal="1912/1952" type="inclusive">1912-1952</unitdate>
+      <langmaterial id="aspace_b5a7d10b3ce858e23043e885f4a7352d">English</langmaterial>
+      <langmaterial id="aspace_3812f6c5c9e6caf8b58e849d2aa59409">English</langmaterial>
+    </did>
+    <bioghist id="aspace_7ac961886e80bd31c8a8f78779983171">
+      <head>Biographical / Historical</head>
+      <p>Born in 1888, Charles B. Dulcan, Sr. was a longtime Hecht Company executive. He served as Vice President and General Merchandising Manager and in 1952 he was promoted to Managing Director of all stores in the D.C. metropolitan area. He was active in Boys Club, Community Chest, and other civic drives.</p>
+    </bioghist>
+    <custodhist id="aspace_7493538d542b677ece9c7d151756419e">
+      <head>Custodial History</head>
+      <p>Ronald Dulcan donated this collection.</p>
+    </custodhist>
+    <scopecontent id="aspace_263a37e1a03c22eed7c59abc2c055527">
+      <head>Scope and Contents</head>
+      <p>The collection consists of clippings, photographs, correspondence, organizational information and 78 RPM records. The collection is divided into 4 series: scrapbooks, correspondence, organizational information, and records.</p>
+    </scopecontent>
+    <dsc>
+      <c id="aspace_caec6cdddcd51824de7138463a49e74a" level="series">
+        <did>
+          <unittitle>Series 1: Scrapbooks</unittitle>
+        </did>
+        <scopecontent id="aspace_9286e1073aa278cf754d4711e5eb8ced">
+          <head>Scope and Contents</head>
+          <p>This series consists of scrapbooks containing photographs and clippings. Subjects of the clippings include Hecht's advertising, publicity, and merchandising.</p>
+        </scopecontent>
+        <c id="aspace_41e9e561891eac72e5a1d7d2eaf08d28" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1912/1925" type="inclusive">1912-1925</unitdate>
+            <container id="aspace_4d98c55aec9d5967bcbea5dba9159a32" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6923295f2c990be71d7cec386d176567" parent="aspace_4d98c55aec9d5967bcbea5dba9159a32" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_a72607c3d9ead20ef39ce2da358a5e7e" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1924/1925" type="inclusive">1924-1925</unitdate>
+            <container id="aspace_e7def4becc44f05087e3e450d8bf437c" label="mixed materials" type="Box">2</container>
+            <container id="aspace_47757ed42ac3f6610448094b3f7f52df" parent="aspace_e7def4becc44f05087e3e450d8bf437c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_89f7c20a3959ef90401300e831af1520" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1926/1929" type="inclusive">1926-1929</unitdate>
+            <container id="aspace_fbbb2a86ec36596fdef87d36fd869d54" label="mixed materials" type="Box">3</container>
+            <container id="aspace_c5b4f473dc19681cba1da936df7c6cf5" parent="aspace_fbbb2a86ec36596fdef87d36fd869d54" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_8f936170dda86125293354e4d3f900df" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1930/1933" type="inclusive">1930-1933</unitdate>
+            <container id="aspace_b2549b8688fb519a5748753eb055613c" label="mixed materials" type="Box">4</container>
+            <container id="aspace_5b3d48e95bb08318a3f35ceaf1df5017" parent="aspace_b2549b8688fb519a5748753eb055613c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_8d924e01ac25871838f16e17fb2a16a5" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1930/1933" type="inclusive">1930-1933</unitdate>
+            <container id="aspace_c0d8a1ce0dfff23d38231c413aca1704" label="mixed materials" type="Box">5</container>
+            <container id="aspace_03a419496a903ebe042f7e631563d65d" parent="aspace_c0d8a1ce0dfff23d38231c413aca1704" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_67261bfb7e15a0f0d214200693d74682" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1934/1935" type="inclusive">1934-1935</unitdate>
+            <container id="aspace_22c9175a7ce0225e922d3c9834f00026" label="mixed materials" type="Box">6</container>
+            <container id="aspace_26872a81db93a0f7a193d040c73df645" parent="aspace_22c9175a7ce0225e922d3c9834f00026" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_3a490b3a8240585ab2f6056f6bfe9442" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
+            <container id="aspace_a0b2e85abaab88ccc088ee142664c14d" label="mixed materials" type="Box">7</container>
+            <container id="aspace_7a3ad601bfa4b25a13644d0ff7a2a5bb" parent="aspace_a0b2e85abaab88ccc088ee142664c14d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_df07268e8a2c8cfdad27ffc94302f9f4" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
+            <container id="aspace_0527985e40cbe5d1b04273dcf0acdd46" label="mixed materials" type="Box">8</container>
+            <container id="aspace_d9328ca3121f50243d602c6ea8ccee9c" parent="aspace_0527985e40cbe5d1b04273dcf0acdd46" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_9f26238b9230ac709d34532eeb1d437d" level="file">
+          <did>
+            <unittitle>50th Birthday Scrapbook</unittitle>
+            <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_12dda00ea9cdbd9bed122cb425115b0d" label="mixed materials" type="Box">9</container>
+            <container id="aspace_312f06cbcf5f8efc82f77c5f505e3732" parent="aspace_12dda00ea9cdbd9bed122cb425115b0d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_f203656bb9bb03930bb248766ba677f9" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1938/1939" type="inclusive">1938-1939</unitdate>
+            <container id="aspace_16292abc4062a63c42bf2a26c66d07db" label="mixed materials" type="Box">10</container>
+            <container id="aspace_bbf817a967715da7d5400ca789975f7d" parent="aspace_16292abc4062a63c42bf2a26c66d07db" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ad6b7a0ecebcf818240b1b0247b6d2c9" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate>
+            <container id="aspace_fbc58aeb87a6f859b93e68e48f95aaed" label="mixed materials" type="Box">11</container>
+            <container id="aspace_d690d522b83e3343fea68361094ba32d" parent="aspace_fbc58aeb87a6f859b93e68e48f95aaed" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_2214dcbef8c9fa593a83e00b4ee4f685" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1941/1943" type="inclusive">1941-1943</unitdate>
+            <container id="aspace_88f15e50ad1305b42043aae59bccdace" label="mixed materials" type="Box">12</container>
+            <container id="aspace_cd6c6f1b49f677b0d518ff2435d1d10d" parent="aspace_88f15e50ad1305b42043aae59bccdace" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_e529b0dd821558b2c1b94a98bc37c5a5" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1943/1945" type="inclusive">1943-1945</unitdate>
+            <container id="aspace_32678d533107c4cd40a3a00c1cea4a52" label="mixed materials" type="Box">13</container>
+            <container id="aspace_11fdb9c442a93232d480b94f3c3ad4be" parent="aspace_32678d533107c4cd40a3a00c1cea4a52" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c709f54f8f18b941b5ec54bb4b24395e" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1944/1946" type="inclusive">1944-1946</unitdate>
+            <container id="aspace_f32f640b02786aeb4292e5c040235408" label="mixed materials" type="Box">14</container>
+            <container id="aspace_1afb2a6adbe69840c652cf050cee8390" parent="aspace_f32f640b02786aeb4292e5c040235408" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_fdf278f0df6aa22e19b5c3c17d3238cf" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container id="aspace_30e73518f7f00feecf05c6cc47b7865f" label="mixed materials" type="Box">15</container>
+            <container id="aspace_64123bdb2838fae9361a89a58afb00f9" parent="aspace_30e73518f7f00feecf05c6cc47b7865f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_e6f22fbfb9ef291a3359a2618a592d78" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container id="aspace_039409afeea3f1267889e10fce0ee308" label="mixed materials" type="Box">16</container>
+            <container id="aspace_92d4619a0fdb555b9145375992c5095e" parent="aspace_039409afeea3f1267889e10fce0ee308" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_6f55f552fddafc9144746e3b03053368" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate>
+            <container id="aspace_6bab37a0614da7133b88fe507809fd52" label="mixed materials" type="Box">17</container>
+            <container id="aspace_3fa610ba2199cf2c902e82540219f878" parent="aspace_6bab37a0614da7133b88fe507809fd52" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_be8315840712d442436bf37ad3923962" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1949/1951" type="inclusive">1949-1951</unitdate>
+            <container id="aspace_a9d91328f419b42a0d7f913035c40a4c" label="mixed materials" type="Box">18</container>
+            <container id="aspace_77eb3922ce553ee54518c68f9eb0f8f0" parent="aspace_a9d91328f419b42a0d7f913035c40a4c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_eca8c7862a906bbf1f639cc3ad8c786a" level="file">
+          <did>
+            <unittitle>Brand Names Award</unittitle>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_0b48645ada8142cf512d3a694c750205" label="mixed materials" type="Box">19</container>
+            <container id="aspace_ef53abf3724aefa570d2146b7e014cc7" parent="aspace_0b48645ada8142cf512d3a694c750205" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c5d33f1dfceac6ddbc6fe88b328346d0" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_e8081e269ae142cc509772e44134ea55" label="mixed materials" type="Box">20</container>
+            <container id="aspace_37451ad116969e02cf5f9861504022c8" parent="aspace_e8081e269ae142cc509772e44134ea55" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_9448105f564631191133646cf0b9aaef" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_1d29278c29fea1686942661676724778" label="mixed materials" type="Box">21</container>
+            <container id="aspace_29eb62b30675293d8d9b6c75cd8fdc09" parent="aspace_1d29278c29fea1686942661676724778" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c1520fe4463f425c69a8b5e5bcc3aa42" level="file">
+          <did>
+            <unittitle>"Who Wants Seven Lean Years"</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5a6f75c175f3dd816ec7d25633d4bf6c" label="mixed materials" type="Box">22</container>
+            <container id="aspace_b7314993ee895db8fbf9b0c833de7d16" parent="aspace_5a6f75c175f3dd816ec7d25633d4bf6c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_808e6824de8d99b47b6cbc91f548fc51" level="file">
+          <did>
+            <unittitle>"Good Wishes and Good Luck from all your 3460 Associates"</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2bc518bbaf4d5a77ce865e3749938953" label="mixed materials" type="Box">22</container>
+            <container id="aspace_7793b5eafc6147b12649cb2d144d61aa" parent="aspace_2bc518bbaf4d5a77ce865e3749938953" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_9181ad2eebf99d3028df0bcd0cad4164" level="file">
+          <did>
+            <unittitle>Photo Scrapbook</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_ee7d26a2e13cd26835f3cbc2d9951f18" label="mixed materials" type="Box">22</container>
+            <container id="aspace_a19265167fe3baae65e80d45657d1328" parent="aspace_ee7d26a2e13cd26835f3cbc2d9951f18" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_4789450767cb97d45546d2a9509799b1" level="file">
+          <did>
+            <unittitle>Loose images</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_80680c04083156ae88e145516714c532" label="mixed materials" type="Box">22</container>
+            <container id="aspace_8ab974cdb9353542ef5a5eecabd15940" parent="aspace_80680c04083156ae88e145516714c532" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_4f25b82d408de9906daa66df27a20cd5" level="file">
+          <did>
+            <unittitle>Cosmopolitan Club Award</unittitle>
+            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_03cd1c76f6f5b2070a01ea46e8e0ba5e" label="mixed materials" type="Box">23</container>
+            <container id="aspace_5d7a533313a68bd9f9cb278a223cf5d8" parent="aspace_03cd1c76f6f5b2070a01ea46e8e0ba5e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_bdd08287aa049491e4677b784d37a1b1" level="file">
+          <did>
+            <unittitle>Photos - Arlington Opening</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_abe46090b8489e42c277bf6ff48cf1c8" label="mixed materials" type="Box">24</container>
+            <container id="aspace_e7b683418cc435f923dabe183a8cdd5a" parent="aspace_abe46090b8489e42c277bf6ff48cf1c8" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_1b5fd5624ad3282bd4bacc989fc172c4" level="series">
+        <did>
+          <unittitle>Series 2: Correspondence</unittitle>
+        </did>
+        <scopecontent id="aspace_6e0bc4b4fa73951bfc4a2a366ba78bd9">
+          <head>Scope and Contents</head>
+          <p>This series contains correspondence to C.B. Dulcan regarding his 1952 promotion to the position of Managing Director of Hecht stores in the DC Metropolitan area.</p>
+        </scopecontent>
+        <c id="aspace_6c443ae2a7eead0ca1c8b3b75322303e" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_e62ba0dd30a56036f5696c5ce4fd6d0a" label="mixed materials" type="Box">24</container>
+            <container id="aspace_2e06c9e4c8820483528015b5ffdb4376" parent="aspace_e62ba0dd30a56036f5696c5ce4fd6d0a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_feecfdecd43f354640088e62e89dce13" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_47f5a83f15447994ec80d445e05cea26" label="mixed materials" type="Box">24</container>
+            <container id="aspace_a8eb7ed496f38c80d11959f5a0ee6ef0" parent="aspace_47f5a83f15447994ec80d445e05cea26" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_7c62f14c89ad1cc731d38353aff30b1f" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_09118c5780ed4adfe314f95abb603dd5" label="mixed materials" type="Box">24</container>
+            <container id="aspace_fe24fe4baea108c22e480ac9482d0e9f" parent="aspace_09118c5780ed4adfe314f95abb603dd5" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_d07e10095b757b31b97dd7dfe30e96e2" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_4a4326d5243144b019d4e02817267f5f" label="mixed materials" type="Box">24</container>
+            <container id="aspace_17ba158bf57b3d2cf7ec87918ea93fca" parent="aspace_4a4326d5243144b019d4e02817267f5f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_eace923969d445dc2db5cf92366386ce" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_de728aae42ba608adae8515b28a1b722" label="mixed materials" type="Box">24</container>
+            <container id="aspace_63c06373256ebddcbe7cfb2b94cf85cf" parent="aspace_de728aae42ba608adae8515b28a1b722" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_64843538a41ecd2dd4ac6e6784f586a9" level="series">
+        <did>
+          <unittitle>Series 3: Organization Information</unittitle>
+        </did>
+        <scopecontent id="aspace_56dc3abb5bb0fd3eb8b7353c06bfb8b3">
+          <head>Scope and Contents</head>
+          <p>This series includes Annual Statements and a History of Hecht Baltimore Properties.</p>
+        </scopecontent>
+        <c id="aspace_8259236a3e7363615899fa69abb9b6fb" level="file">
+          <did>
+            <unittitle>Annual Statements</unittitle>
+            <unitdate normal="1926/1933" type="inclusive">1926-1933</unitdate>
+            <container id="aspace_bff7e69a65d47893c61e18c171ed11c0" label="mixed materials" type="Box">24</container>
+            <container id="aspace_9f24b5a0dfcbfa77b96be5169f603ac9" parent="aspace_bff7e69a65d47893c61e18c171ed11c0" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_d0e33ff9bc793bcdc6fc60d386cd00b5" level="file">
+          <did>
+            <unittitle>Annual Statements</unittitle>
+            <unitdate normal="1934/1940" type="inclusive">1934-1940</unitdate>
+            <container id="aspace_b861ee014d763650dcee4f2ee9af1175" label="mixed materials" type="Box">24</container>
+            <container id="aspace_9403c29d9d25cdb558ee57db852ef1ae" parent="aspace_b861ee014d763650dcee4f2ee9af1175" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_378efeb2f14c904b6f7023e90d17d62a" level="file">
+          <did>
+            <unittitle>Annual Statements</unittitle>
+            <unitdate normal="1940/1946" type="inclusive">1940-1946</unitdate>
+            <container id="aspace_809d63a224ac33e23d646d494478cc4c" label="mixed materials" type="Box">24</container>
+            <container id="aspace_f2efecd00e4c9b82cfabe6cebf016b39" parent="aspace_809d63a224ac33e23d646d494478cc4c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_43face8b55b128f822438505a0c409cc" level="file">
+          <did>
+            <unittitle>Annual Statements</unittitle>
+            <unitdate normal="1946/1951" type="inclusive">1946-1951</unitdate>
+            <container id="aspace_23053e9e81d48edb19313c9da0953286" label="mixed materials" type="Box">24</container>
+            <container id="aspace_227d13e4886ce705ed8e122b24c427ea" parent="aspace_23053e9e81d48edb19313c9da0953286" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_4cc3534f8562ddac13996afceae2a36c" level="file">
+          <did>
+            <unittitle>History of Hecht Baltimore Properties</unittitle>
+            <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+            <container id="aspace_fef85827edd88e6e8414a2955472cf60" label="mixed materials" type="Box">25</container>
+            <container id="aspace_02647d57f192a75a26e7e6fba3ebfb91" parent="aspace_fef85827edd88e6e8414a2955472cf60" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_156003e5f9c622b4f50794f0b2560c4d" level="series">
+        <did>
+          <unittitle>Series 4: Records</unittitle>
+        </did>
+        <scopecontent id="aspace_cef1f6095d4245a4e6f0d58e4d64d165">
+          <head>Scope and Contents</head>
+          <p>This series consists of recordings of classical music, interviews with C.B. Dulcan, and radio programs about the Hecht Company.</p>
+        </scopecontent>
+        <c id="aspace_6dd39808357f2ec645bc09eb5b634807" level="file">
+          <did>
+            <unittitle>Ravel, Bolero</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_a0035f53b7eea3355fcb44382f76ffdd" label="mixed materials" type="Box">26</container>
+            <container id="aspace_6c45b458a91bd7b4a0ed99cf5aad0f0d" parent="aspace_a0035f53b7eea3355fcb44382f76ffdd" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_1d6add68b9bcdb136bfdfabc6978e453" level="file">
+          <did>
+            <unittitle>Beethoven, Sonata in C Sharp Minor</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_1abf660354d47af329670166cbc4cd39" label="mixed materials" type="Box">26</container>
+            <container id="aspace_591caf66eb4f314e8334cb238443b456" parent="aspace_1abf660354d47af329670166cbc4cd39" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_e1d713c93c009c0cb4850aa5d5aebfcd" level="file">
+          <did>
+            <unittitle>C.B. Dulcan Interview - U.S. Department of State</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_59ced9f38a6bb1133c5d0ebad4ee7ca1" label="mixed materials" type="Box">26</container>
+            <container id="aspace_c226a341cbc2ed1bba2af5b0138fa37a" parent="aspace_59ced9f38a6bb1133c5d0ebad4ee7ca1" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_66812768f017b849ce4398e8b9ccbca5" level="file">
+          <did>
+            <unittitle>Hecht Co. "Community Reporter" Broadcast of arrival of Santa Claus at B and O</unittitle>
+            <unitdate normal="1951-11-02/1951-11-02" type="inclusive">11/3/1951</unitdate>
+            <container id="aspace_34edc14eb14813ff08ec170ca15e9437" label="mixed materials" type="Box">26</container>
+            <container id="aspace_3ab2e75fd3b66304e642e323a143d30c" parent="aspace_34edc14eb14813ff08ec170ca15e9437" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_172084312120032f4f71acbe5860b3af" level="file">
+          <did>
+            <unittitle>WRC Honor Roll - The Hecht Co.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c2d24524ca644538f6fa1e7d8659f23b" label="mixed materials" type="Box">26</container>
+            <container id="aspace_93d00cdd4e60b6da840f8b305f39137e" parent="aspace_c2d24524ca644538f6fa1e7d8659f23b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_e64809e4b4d2dfb4c9db84388bf9cd2c" level="file">
+          <did>
+            <unittitle>C.B. Dulcan - Introductory Speech Training Class</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_121fd4453801fb56fddd9fa2f6ef4b45" label="mixed materials" type="Box">27</container>
+            <container id="aspace_fd6fdc6bcf90bbb9f290a1431252fe64" parent="aspace_121fd4453801fb56fddd9fa2f6ef4b45" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_afa7c2b7a7bc0fdb4875a2e23fb2aba4" level="file">
+          <did>
+            <unittitle>Hecht Co. Dedicatory Program</unittitle>
+            <unitdate normal="1947-11-01/1947-11-01" type="inclusive">11/1/1947</unitdate>
+            <container id="aspace_b0a3af31ebf76436801da94581bf16b1" label="mixed materials" type="Box">27</container>
+            <container id="aspace_b8088dcc659e481ce519e7929429938f" parent="aspace_b0a3af31ebf76436801da94581bf16b1" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_446b56de132d85c5e4bda44f301a638a" level="file">
+          <did>
+            <unittitle>Woman's World</unittitle>
+            <unitdate normal="1947-10-31/1947-10-31" type="inclusive">10/31/1947</unitdate>
+            <container id="aspace_57e7f371121d8b25b649f13b6a5da8ba" label="mixed materials" type="Box">27</container>
+            <container id="aspace_1492ded74cee284d9e096806a8bb9912" parent="aspace_57e7f371121d8b25b649f13b6a5da8ba" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_3eb175bafd8b0b2bb6f7473a5a2d5766" level="file">
+          <did>
+            <unittitle>Cosmopolitan Club Awards</unittitle>
+            <unitdate normal="1952-04-24/1952-04-24" type="inclusive">4/24/1952</unitdate>
+            <container id="aspace_eccbe37b3ec3778b407262445678d887" label="mixed materials" type="Box">27</container>
+            <container id="aspace_aafe26b22a2066205de9d68c68e4e8e0" parent="aspace_eccbe37b3ec3778b407262445678d887" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_7105eca34a1f8b80681b921918e7ab0c" level="file">
+          <did>
+            <unittitle>Hecht Co. Opening</unittitle>
+            <unitdate normal="1947-11-01/1947-11-01" type="inclusive">11/1/1947</unitdate>
+            <container id="aspace_35c1d8c9c2aa7c4925058f96979c0078" label="mixed materials" type="Box">27</container>
+            <container id="aspace_cc2a5a5effffbda034b0dfb0ea5484f6" parent="aspace_35c1d8c9c2aa7c4925058f96979c0078" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

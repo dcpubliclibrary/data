@@ -1,0 +1,106 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">063King</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">King (Messiah and Bertha) Collection</titleproper>
+        <titleproper>Messiah and Bertha King <num>063</num> <num>063</num></titleproper>
+        <subtitle>An inventory of Messiah and Bertha King at DC Public Library</subtitle>
+        <author>Finding aid prepared by Ryan P. Semmes.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-03</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 14:46:44 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Messiah and Bertha King Collection</unittitle>
+      <unitid>063</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+      </physdesc>
+      <unitdate normal="1906/1960" type="inclusive">1906-1960</unitdate>
+      <langmaterial id="aspace_6433c4108a54e9461f572755589dbd2a">English</langmaterial>
+      <langmaterial id="aspace_43a5a45a819f57cc45c82b352ed8bdb3">English</langmaterial>
+    </did>
+    <bioghist id="aspace_92ad15702daaf021a0af3ae8484f9769">
+      <head>Biographical / Historical</head>
+      <p>The records consist of meeting minutes, attendance records, financial records, correspondence, clippings, pamphlets, photographs and yearbooks, all related to the activities of the Abracadabra Club and its members. The collection also contains two gavels and a block used to call meetings to order. The records reflect the intellectual interests of the members of the Club and cover a wide variety of topics spanning over a century of time. The collection is divided into six (6) Series: I. Meeting Minutes; II. Yearbooks; III Photographs; IV. Biographical Files; V. Financial Records; and VI Ephemera.</p>
+    </bioghist>
+    <custodhist id="aspace_5b71f15a194e36a8aea9ac713c7a37f2">
+      <head>Custodial History</head>
+      <p>The collection was originally a part of the Washingtoniana Washington Vertical File Collection. The materials were removed due to their unique nature among the "Church Series" of the Vertical File Collection. It is not known as to how the Washingtoniana acquired the materials.</p>
+    </custodhist>
+    <scopecontent id="aspace_57e7cfca5f5d472583961c705f65cabe">
+      <head>Scope and Contents</head>
+      <p>The items in this collection consist of correspondence, church bulletins and programs, a prayer book, and various early twentieth century ephemera.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026263" source="Library of Congress Subject Headings">City churches</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85141324" source="Library of Congress Subject Headings">Urban renewal</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85053952" source="lcsh">Gentrification</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_20620cbfacadbec5120eab45ea78ed90" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_38d9d070c161a2ad202d0d8c139cb038" level="file">
+          <did>
+            <unittitle>Church Bulletins</unittitle>
+            <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
+            <container id="aspace_8e9766e6c558d224c9da4ff98e239ddb" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4ed30a795015c7c822a22b2c5c61dc62" parent="aspace_8e9766e6c558d224c9da4ff98e239ddb" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_7b17a85011d60da597f1996fff28aff1" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1916/1928" type="inclusive">1916-1928</unitdate>
+            <container id="aspace_841bae8535f612a9e2906c1e88280605" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d06e4927d906f08cf20a6ed0bd21343e" parent="aspace_841bae8535f612a9e2906c1e88280605" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_1072d532ab82a2507cbf23e004d39172" level="file">
+          <did>
+            <unittitle>Ephemera</unittitle>
+            <unitdate normal="1914/1960" type="inclusive">1914-1960</unitdate>
+            <container id="aspace_c65a2a7c09210998d7bf2c2b171a246c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3f3da3802c6b4022972ca2d20db19c0e" parent="aspace_c65a2a7c09210998d7bf2c2b171a246c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_059c40eec0c7e5f4722ee5e97601877e" level="file">
+          <did>
+            <unittitle>Prayer Book - "The Meaning of Prayer" by Harry Emerson Fosdick</unittitle>
+            <unitdate normal="1917/1917" type="inclusive">1917</unitdate>
+            <container id="aspace_caecc1172669f5835a368f33cb1429a6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a282bb084523b6d61cc086b80d2e1dae" parent="aspace_caecc1172669f5835a368f33cb1429a6" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_4fc3ed38c9b5160e8eedff70002fd63b" level="file">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate normal="1906/1928" type="inclusive">1906-1928</unitdate>
+            <container id="aspace_0d22c2898eb93e70cb12198254fa969f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4a4d5c2178e45d1e0d3a2a98116f3980" parent="aspace_0d22c2898eb93e70cb12198254fa969f" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

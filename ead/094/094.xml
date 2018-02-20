@@ -1,0 +1,289 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">094CapitolHill</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Capitol Hill History Club Programs Collection</titleproper>
+        <titleproper>Capitol Hill History Club <num>094</num> <num>094</num></titleproper>
+        <subtitle>An inventory of Capitol Hill History Club Programs at DC Public Library</subtitle>
+        <author>Finding aid prepared by Rachel Telford.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-11</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 14:50:01 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Capitol Hill History Club Programs Collection</unittitle>
+      <unitid>094</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.25 linear feet; 1 box</extent>
+      </physdesc>
+      <unitdate normal="1920/1954" type="inclusive">1920-1954</unitdate>
+      <langmaterial id="aspace_83f9b9148f5d79f473b5363aaa6c6826">English</langmaterial>
+      <langmaterial id="aspace_d117c23c645a603618b4caea61558dad">English</langmaterial>
+    </did>
+    <bioghist id="aspace_49356005019328e530d7fc7ee47c18ee">
+      <head>Biographical / Historical</head>
+      <p>This collection consists of materials found in the former home of Mr. Howard D. Woodson. They consist of personal materials from his time in Pittsburgh, Pennsylvania and materials from his time as superintendent of Sunday school at the Metropolitan A. M. E. Church in Washington, DC. Materials include, a commencement program, a tax levy, class lists, treasurer reports, monthly reports, annual reports, teaching aides, construction quotes and contracts, invoices, and speeches. The materials are arranged in alphabetical order by title or subject.</p>
+    </bioghist>
+    <custodhist id="aspace_09fd422a39a52c10e22ad88281b28f01">
+      <head>Custodial History</head>
+      <p>The programs were found in the collection, the source is unknown.</p>
+    </custodhist>
+    <scopecontent id="aspace_95486bbfe977b3e7fb549564529d678c">
+      <head>Scope and Contents</head>
+      <p>The collection consists of 28 annual club programs.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85077507" source="lcsh">Literature</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_499e732c6aadd530c215c04ebd6e62a7" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_e10921e636f7b5fc93d11635dc5465aa" level="file">
+          <did>
+            <unittitle>No Subject of Study</unittitle>
+            <unitdate normal="1920/1921" type="inclusive">1920-1921</unitdate>
+            <container id="aspace_60395a76556756a128114954ed79f36a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ec3c6938aee5cb6c4a45199cfb88003a" parent="aspace_60395a76556756a128114954ed79f36a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_4a6ffc1299cc19e0c8afcc147e3e6a99" level="file">
+          <did>
+            <unittitle>Alaska</unittitle>
+            <unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate>
+            <container id="aspace_efe7781c37464775324ca934d1c5afc9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ad431bac732c541e7e7f76a13fe2f9dc" parent="aspace_efe7781c37464775324ca934d1c5afc9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_201011b49e0d1d873bcce9cee90b7a9e" level="file">
+          <did>
+            <unittitle>The North American Indian</unittitle>
+            <unitdate normal="1923/1924" type="inclusive">1923-1924</unitdate>
+            <container id="aspace_3a42f8f33e7857baa9cfbf6044c2a11c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c0ab06feb5d51c59d5e37f55b6e1a0bd" parent="aspace_3a42f8f33e7857baa9cfbf6044c2a11c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_f69c761ca0801f4ece808141ee647f1b" level="file">
+          <did>
+            <unittitle>Miscellaneous Program</unittitle>
+            <unitdate normal="1924/1925" type="inclusive">1924-1925</unitdate>
+            <container id="aspace_e1f154be515a6f7f068ef56dfeb5d6ad" label="mixed materials" type="Box">1</container>
+            <container id="aspace_cbdfddd354a46f20e3f9bd639e64c18a" parent="aspace_e1f154be515a6f7f068ef56dfeb5d6ad" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_16326ac12dcdfb3fe6439c11863e81d0" level="file">
+          <did>
+            <unittitle>Australasia</unittitle>
+            <unitdate normal="1925/1926" type="inclusive">1925-1926</unitdate>
+            <container id="aspace_8a91f2b135decf7933379f5754aaad10" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4b12d03496f73d4fe79452ac2b3bb05f" parent="aspace_8a91f2b135decf7933379f5754aaad10" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_8cb656cabd619d82e925d26bd37f5876" level="file">
+          <did>
+            <unittitle>Latin America</unittitle>
+            <unitdate normal="1927/1928" type="inclusive">1927-1928</unitdate>
+            <container id="aspace_38d7be62b35e46dd38ca34f20a2d8378" label="mixed materials" type="Box">1</container>
+            <container id="aspace_53acfddee9e9e97895b8f903d03cdcde" parent="aspace_38d7be62b35e46dd38ca34f20a2d8378" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_de8b6f5f4fd3efab89cc176be30bd2db" level="file">
+          <did>
+            <unittitle>Miscellaneous Topics</unittitle>
+            <unitdate normal="1930/1931" type="inclusive">1930-1931</unitdate>
+            <container id="aspace_6f48935c2e32d188a72fede246594a48" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8ac5d5517e24222677a8aa73e5615e00" parent="aspace_6f48935c2e32d188a72fede246594a48" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_3cd46967b67c343affe309f96ee00348" level="file">
+          <did>
+            <unittitle>Early American History</unittitle>
+            <unitdate normal="1931/1932" type="inclusive">1931-1932</unitdate>
+            <container id="aspace_1063e09c10f2eb00aef461a98339603b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e9567afec879d65de0647468f5c3f9b8" parent="aspace_1063e09c10f2eb00aef461a98339603b" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_9cfa60ed15bf771c35607886397c3956" level="file">
+          <did>
+            <unittitle>The Expansion of the United States</unittitle>
+            <unitdate normal="1932/1933" type="inclusive">1932-1933</unitdate>
+            <container id="aspace_7a51577975afebb2e9e587bcbcee7776" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4dd0f9424bab57a689bef9bdf3f9dfe3" parent="aspace_7a51577975afebb2e9e587bcbcee7776" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_e37bead94418b978b06bd5d45d0cd7a2" level="file">
+          <did>
+            <unittitle>History and Romance of the United States, 1792-1934</unittitle>
+            <unitdate normal="1934/1935" type="inclusive">1934-1935</unitdate>
+            <container id="aspace_e676a0e904eb2faa97d3c6bde86d84d6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_496c62ab37d82b8fa51d713e0116307f" parent="aspace_e676a0e904eb2faa97d3c6bde86d84d6" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_2e88a05a1bebfe5aabe3529e65c0eb85" level="file">
+          <did>
+            <unittitle>History in the Making</unittitle>
+            <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate>
+            <container id="aspace_25d39b2ad528f8f3d799357a84d02c89" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e306c886157b80eab561e93a0ac10a65" parent="aspace_25d39b2ad528f8f3d799357a84d02c89" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_02ff0790d7f41a99047feced0b2e5013" level="file">
+          <did>
+            <unittitle>History in the Making</unittitle>
+            <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate>
+            <container id="aspace_9c4df9a05fbee21f14598f1a3bda1333" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2a1bc58738735edd3f5040618c34a26f" parent="aspace_9c4df9a05fbee21f14598f1a3bda1333" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_70ee872fa8d5c2f37f28a30e6a80df78" level="file">
+          <did>
+            <unittitle>Glimpses of the Past and Present</unittitle>
+            <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
+            <container id="aspace_5961b5c3f45678fa0424e812a8a1964e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4f8bff4f479f8592f2a2a0cc3aa5e360" parent="aspace_5961b5c3f45678fa0424e812a8a1964e" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_4cef97828d479e7182afed544da72a39" level="file">
+          <did>
+            <unittitle>The Constitution of the United States and the World Today</unittitle>
+            <unitdate normal="1938/1939" type="inclusive">1938-1939</unitdate>
+            <container id="aspace_6644239013fec9e064aa241bcb5e9d30" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d193b5b3268136624d9db5490846218a" parent="aspace_6644239013fec9e064aa241bcb5e9d30" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_b16b8e586fddca7cb021d76dd4c7ca4f" level="file">
+          <did>
+            <unittitle>Portraits and Personalities</unittitle>
+            <unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate>
+            <container id="aspace_f756a8ef4804f38061e0e21b790674a8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b88bc51ae77f3da637feefafbeff9fcd" parent="aspace_f756a8ef4804f38061e0e21b790674a8" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_61b7583532e871c5981a3b5bcf609eca" level="file">
+          <did>
+            <unittitle>History of the Arts and Sciences</unittitle>
+            <unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate>
+            <container id="aspace_d4124184cd392d3ecc754bafd7994fd1" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a5341c74aea959818c71fd682e6639fa" parent="aspace_d4124184cd392d3ecc754bafd7994fd1" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_9d426f7cde9b450850ea27927eb2cf0e" level="file">
+          <did>
+            <unittitle>Latin America</unittitle>
+            <unitdate normal="1941/1942" type="inclusive">1941-1942</unitdate>
+            <container id="aspace_1a1c6b925af4fa570078b70d0862e135" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6792230f320abac3de0e8dd7e02a3b70" parent="aspace_1a1c6b925af4fa570078b70d0862e135" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_2ae38ba9acdc450897401eeda89062cf" level="file">
+          <did>
+            <unittitle>Latin America</unittitle>
+            <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
+            <container id="aspace_202e846e66dac62308db3a3c8d55202d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_785d33517d0f6bbfa92d569ebe57789d" parent="aspace_202e846e66dac62308db3a3c8d55202d" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_a9a69540c79a53ca9ee8f5f81e32645c" level="file">
+          <did>
+            <unittitle>Bringing the World to You</unittitle>
+            <unitdate normal="1943/1944" type="inclusive">1943-1944</unitdate>
+            <container id="aspace_975e959149c41a6aceb20e611e5273a9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_35a62bca841b76d0731022da46887dcb" parent="aspace_975e959149c41a6aceb20e611e5273a9" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_fa0c54e4c5fb26abb8671451ffb0c8d5" level="file">
+          <did>
+            <unittitle>A Glimpse of the World Today</unittitle>
+            <unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate>
+            <container id="aspace_c4985b5c56a466cc57d094820aac1af3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1a285dfc6fdd0b98eb16fa8c65426d7e" parent="aspace_c4985b5c56a466cc57d094820aac1af3" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_e9dca7f6f1fd4d02e1fbfe719c4e4d67" level="file">
+          <did>
+            <unittitle>History, Music, Drama</unittitle>
+            <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate>
+            <container id="aspace_ccc54e8c845e6cff1bb2ee2f4163ba6e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_617ce28d91a92f63dceb9ae2a3adbb39" parent="aspace_ccc54e8c845e6cff1bb2ee2f4163ba6e" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_5374deb70d9a6a2f8f56f82e05aed20c" level="file">
+          <did>
+            <unittitle>The World of Today</unittitle>
+            <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate>
+            <container id="aspace_21d0bb4efdfb3e4b12de993414fa7d5c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_db84b6cc9702423c0b33660ec100215c" parent="aspace_21d0bb4efdfb3e4b12de993414fa7d5c" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_efd460448216c860f78ac71be865fe91" level="file">
+          <did>
+            <unittitle>Review of Fifty Years</unittitle>
+            <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container id="aspace_a1d0cde2ebb88c5b316e604bb1d7118f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1a2ebb4035c71b01a5a886867aafb02f" parent="aspace_a1d0cde2ebb88c5b316e604bb1d7118f" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_84295f967e8b9ca6cbd64ebe6a7bfba7" level="file">
+          <did>
+            <unittitle>Some Far Away Lands</unittitle>
+            <unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate>
+            <container id="aspace_79bc3a4256ddb65ed051859ffb208215" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a85aa08c67520529090b94e380d7fe92" parent="aspace_79bc3a4256ddb65ed051859ffb208215" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_d7c409e9e2877cf2e813e37e91bca2e7" level="file">
+          <did>
+            <unittitle>The World We Live In</unittitle>
+            <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
+            <container id="aspace_c5f47e0ff193af0597ea540e40b5be3e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_fbaf7d0fe7062cb2b2479cf42fd7a3d1" parent="aspace_c5f47e0ff193af0597ea540e40b5be3e" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_c397c790f7770e475f2ecd0c085fb95b" level="file">
+          <did>
+            <unittitle>World-Minded People</unittitle>
+            <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <container id="aspace_f6fd78381e4abe5496f5ae333204506c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d9918be02060e2a2198d92c91b1d3501" parent="aspace_f6fd78381e4abe5496f5ae333204506c" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_de8647cbbf9fc2cf31320f9a84af1a83" level="file">
+          <did>
+            <unittitle>Wider Horizons</unittitle>
+            <unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate>
+            <container id="aspace_3715f9ac137a5b7f5877b69aa02fb01f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b9c0df69d9b388dd201ed6443d7c9446" parent="aspace_3715f9ac137a5b7f5877b69aa02fb01f" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_79f706c30dc764d382436cf42079781a" level="file">
+          <did>
+            <unittitle>Wider Horizons</unittitle>
+            <unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate>
+            <container id="aspace_b0ab212b86b2b8cfeef43869508cf898" label="mixed materials" type="Box">1</container>
+            <container id="aspace_100808be09aa648be0cef10b0f210b5e" parent="aspace_b0ab212b86b2b8cfeef43869508cf898" type="Folder">28</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

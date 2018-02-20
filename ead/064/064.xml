@@ -1,0 +1,480 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">064Atwood</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Atwood (Albert W.) Collection</titleproper>
+        <titleproper>Albert W. Atwood <num>064</num> <num>064</num></titleproper>
+        <subtitle>An inventory of Albert W. Atwood at DC Public Library</subtitle>
+        <author>Finding aid prepared by Ryan P. Semmes.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-03</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 14:46:51 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Albert W. Atwood Collection</unittitle>
+      <unitid>064</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">11 linear feet; 8 boxes</extent>
+      </physdesc>
+      <unitdate normal="1911/1975" type="inclusive">1911-1975</unitdate>
+      <langmaterial id="aspace_94c6dcc8e2a4fa81167c07d093cd3228">English</langmaterial>
+      <langmaterial id="aspace_ec55ae5ca670ce62495904b4a1b2eb94">English</langmaterial>
+    </did>
+    <bioghist id="aspace_df4447af7dac7a6ed01bf17bbee877bd">
+      <head>Biographical / Historical</head>
+      <p>Albert W. Atwood was born in Jersey City, New Jersey in 1879. He graduated from Fredonia (NY) State Normal School in 1899 and from Amherst College in 1903. Albert W. Atwood was a leader in the scholarly, journalistic and philanthropic communities in Washington, DC in the early twentieth century. He served as President of the Board of Trustees for the DC Public Library, was President of the Cosmos Club, and was a regular contributor to The Saturday Evening Post and The National Geographic Magazine, as well as various local newspapers and journals. He also wrote a biography of Senator Francis G. Newlands and a history of Gallaudet College. He died in 1975 in Washington, DC.</p>
+    </bioghist>
+    <custodhist id="aspace_8485df5478ab32214525796e99ef5f5f">
+      <head>Custodial History</head>
+      <p>The Albert W. Atwood Collection was accessioned into the DC Community Archives in 1998. The collection of materials was acquired by the DC Community Archives prior to 1998, but little information about the materials exists, save for a note in two of the volumes that read "Property of Mrs. Yates." The assumption is that Mr. Atwood created the materials, but this cannot be verified.</p>
+    </custodhist>
+    <scopecontent id="aspace_82bcab4c56a6f09e942c9b5daddd17ac">
+      <head>Scope and Contents</head>
+      <p>The collection consists of scrapbooks containing Albert W. Atwood's articles and editorials from The Saturday Evening Post and The National Geographic Magazine, as well as three books and a poster from the DC Public Library. Also included are photographs, articles, and awards. </p>
+      <p> The control file for this collection contains a title index of Mr. Atwood's articles and editorials from The Saturday Evening Post.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85018260" source="lcsh">Business</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85076502" source="Library of Congress Subject Headings">Libraries</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_b29072160f59007afc834d5b0eb991fc" level="series">
+        <did>
+          <unittitle>Series 1: General Documents</unittitle>
+        </did>
+        <scopecontent id="aspace_6d42ea98d17b9d00601ed860447e0020">
+          <head>Scope and Contents</head>
+          <p>This series consists of loose articles and addresses, photographs, awards, clippings, and biographical information.</p>
+        </scopecontent>
+        <c id="aspace_bf88743d0cb1faa4f0382aee2957b15f" level="file">
+          <did>
+            <unittitle>Address: "Have You Read a Book?"</unittitle>
+            <unitdate normal="1958-03-20/1958-03-20" type="inclusive">March 20 1958</unitdate>
+            <container id="aspace_284cc9c2f512e9e5dd64af6c08a0f6c9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_73f858d701a11f304797c5bd9d7a7dae" parent="aspace_284cc9c2f512e9e5dd64af6c08a0f6c9" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_e648c2d2783c58e8f75465a2d7f350fd" level="file">
+          <did>
+            <unittitle>Article: "The Soul of a City" The Saturday Evening Post</unittitle>
+            <unitdate normal="1928-10-06/1928-10-06" type="inclusive">October 6 1928</unitdate>
+            <container id="aspace_6dc33c423749a76b7c87b8b998eb62f1" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e84632792c548761a8a6d125fe4e68f7" parent="aspace_6dc33c423749a76b7c87b8b998eb62f1" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_5d3d9a72d18bc8cbf4469f8c251a8c4c" level="file">
+          <did>
+            <unittitle>Article: "How Far Should Government Go?" The Saturday Evening Post</unittitle>
+            <unitdate normal="1931-04-18/1931-04-18" type="inclusive">April 18 1931</unitdate>
+            <container id="aspace_7c21c942da5b63affbf5d5d8e7902179" label="mixed materials" type="Box">1</container>
+            <container id="aspace_06cf799a6bf69f9fe73bc6c30ec7ad86" parent="aspace_7c21c942da5b63affbf5d5d8e7902179" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_33e385bf33ef9506d5a6f4cbefd32182" level="file">
+          <did>
+            <unittitle>Article: "Where's the Money Coming From" The Saturday Evening Post</unittitle>
+            <unitdate normal="1934-01-20/1934-01-20" type="inclusive">January 20 1934</unitdate>
+            <container id="aspace_cdc9ee150f84b7174b713ce59e34b327" label="mixed materials" type="Box">1</container>
+            <container id="aspace_909025fc7fa4ce128d77edd738358ea3" parent="aspace_cdc9ee150f84b7174b713ce59e34b327" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_4c7c94a7fff21cedd24fce9614caa388" level="file">
+          <did>
+            <unittitle>Article: "The Senate Investigates" The Saturday Evening Post</unittitle>
+            <unitdate normal="1936-07-11/1936-07-11" type="inclusive">July 11 1936</unitdate>
+            <container id="aspace_671da3aedb5d5870ff15519ccf548e97" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4c27699fc769dcd2d4e777c3ee28c7ac" parent="aspace_671da3aedb5d5870ff15519ccf548e97" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_9956dd27036a28096c09867cac07db2e" level="file">
+          <did>
+            <unittitle>Article: "Everybody's Money" The Saturday Evening Post</unittitle>
+            <unitdate normal="1936-12-26/1936-12-26" type="inclusive">December 26 1936</unitdate>
+            <container id="aspace_5cf69929762f0b801713d98d19eb1944" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f3f59c74806bff0843605be3cd45ec4e" parent="aspace_5cf69929762f0b801713d98d19eb1944" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_2735ad3630a24805070839ade722a0c5" level="file">
+          <did>
+            <unittitle>Article: "Across the Potomac from Washington" The National Geographic Magazine - Vol. CIII no. 1</unittitle>
+            <unitdate normal="1953-01/1953-01" type="inclusive">January 1953</unitdate>
+            <container id="aspace_dd11e4722db0969fdd928b8c277e9ad7" label="mixed materials" type="Box">1</container>
+            <container id="aspace_0c8591855bb6fcfeaf532513aa3a3586" parent="aspace_dd11e4722db0969fdd928b8c277e9ad7" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_4b983f3ec9e6db8925413c7d5317b499" level="file">
+          <did>
+            <unittitle>Biographical Information</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5ee9b2183a2ea49de89c541e1a1bec1b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f6dfd9e8a84a3199f5bc5d9d16212361" parent="aspace_5ee9b2183a2ea49de89c541e1a1bec1b" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_76c3301ceb22c06c122a6c0edfda54eb" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1933/1975" type="inclusive">1933-1975</unitdate>
+            <container id="aspace_6abf0aef7d6bbf0fee4555ea3d1b0465" label="mixed materials" type="Box">1</container>
+            <container id="aspace_72a7bcd563a1367619146336076aad09" parent="aspace_6abf0aef7d6bbf0fee4555ea3d1b0465" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_f6c7768b4061815b5e66d93845630306" level="file">
+          <did>
+            <unittitle>Invitation to Cleveland Park Branch Library Open House</unittitle>
+            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_e9463729b78d873f83162191592b420c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_fefd84abac0e0ad404cd0e8af70628d5" parent="aspace_e9463729b78d873f83162191592b420c" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_f2b552f7a0d708a0b317e628ba40826a" level="file">
+          <did>
+            <unittitle>Memorial Service Programs</unittitle>
+            <unitdate normal="1975-01-28/1975-01-28" type="inclusive">January 28 1975</unitdate>
+            <container id="aspace_3e6a0969fd7401325ce4fdaabfbdc926" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5488fa5aa8fe201ab4d6f8519c019a6f" parent="aspace_3e6a0969fd7401325ce4fdaabfbdc926" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_dd3d407c1f3d2ae8898ec61538733f12" level="file">
+          <did>
+            <unittitle>Photographs: Inspection Group-Chevy Chase Branch Library</unittitle>
+            <unitdate normal="1946-12-04/1946-12-04" type="inclusive">December 4 1946</unitdate>
+            <container id="aspace_de489a71d9e387e740bd11f6419803b4" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d63d87d642ac8bf496c509224af00e70" parent="aspace_de489a71d9e387e740bd11f6419803b4" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_6c85490ad42bfaf878e66dd4541bd330" level="file">
+          <did>
+            <unittitle>Photographs: Open House-Cleveland Park Branch Library</unittitle>
+            <unitdate normal="1953-10-15/1953-10-15" type="inclusive">October 15 1953</unitdate>
+            <container id="aspace_1d79ed2d30f6bb47bf3b0b55af4fec15" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e758b19bbb808e23a7054d44cde1ce3b" parent="aspace_1d79ed2d30f6bb47bf3b0b55af4fec15" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_2045cd8dfe4c9ef15889073ca4cfc8de" level="file">
+          <did>
+            <unittitle>Meritorious Public Service Award from the Government of the District of Columbia</unittitle>
+            <unitdate normal="1970-09-23/1970-09-23" type="inclusive">September 23 1970</unitdate>
+            <container id="aspace_40c6bd1f58de2d8374d1c1541852309f" label="mixed materials" type="Box">2</container>
+            <container id="aspace_707f2aa890a806a6c2a0265f6536d760" parent="aspace_40c6bd1f58de2d8374d1c1541852309f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c9c35677156c88ea863b899e3e669dd7" level="file">
+          <did>
+            <unittitle>Oversize Folder</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_1da5849a34ea8a7d5e0109d784ea2eaf" label="mixed materials" type="Box">2</container>
+            <container id="aspace_a8b8991b44d404a1a11cbf815c72e5a6" parent="aspace_1da5849a34ea8a7d5e0109d784ea2eaf" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_67eb788781b34d3324062fc9e5a6cab1" level="file">
+          <did>
+            <unittitle>The Hecht Co. Salutes the DC Public Library - advertisement</unittitle>
+            <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_60837136cba34941876db01ae88074b2" label="mixed materials" type="Box">2</container>
+            <container id="aspace_0331ed5b3e4516d8d152438668829d53" parent="aspace_60837136cba34941876db01ae88074b2" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_1f49d8cb379f09963401df5bd07b4032" level="series">
+        <did>
+          <unittitle>Series 2: The Saturday Evening Post Scrapbooks</unittitle>
+        </did>
+        <scopecontent id="aspace_321aaceaa6e5c4059614ba226eafb6cb">
+          <head>Scope and Contents</head>
+          <p>This series contains seven scrapbooks of Mr. Atwood's work that appeared in The Saturday Evening Post. The items in each scrapbook are separated by articles and editorials. Some of the scrapbooks contain indexes.</p>
+        </scopecontent>
+        <c id="aspace_680f408a344ba1c69d64c5f830937087" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1911/1915" type="inclusive">1911-1915</unitdate>
+            <container id="aspace_159bd64ea257204a98cfb897e6e9f02d" label="mixed materials" type="Box">3</container>
+            <container id="aspace_9e7c210a8054ff339f14c96e915aad5e" parent="aspace_159bd64ea257204a98cfb897e6e9f02d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ef701d97e9760b85a4af8f349650f2d7" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1914/1920" type="inclusive">1914-1920</unitdate>
+            <container id="aspace_bd26c038f79b2e51096016039f3e879d" label="mixed materials" type="Box">4</container>
+            <container id="aspace_5f1936159fae6db2d8a6b076ba32a22a" parent="aspace_bd26c038f79b2e51096016039f3e879d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_019a63e1f4bdf10d1ce989688871f9de" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1920/1922" type="inclusive">1920-1922</unitdate>
+            <container id="aspace_748084c3e363e568d9157fb954c1c01c" label="mixed materials" type="Box">5</container>
+            <container id="aspace_a62f11067df725138ce4dbe67742b32e" parent="aspace_748084c3e363e568d9157fb954c1c01c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_f19abe5faded99c385dfab99a2e619d4" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1923/1926" type="inclusive">1923-1926</unitdate>
+            <container id="aspace_2cd2e27056897f895c705737c20ecf6b" label="mixed materials" type="Box">5</container>
+            <container id="aspace_e80f286a9e7fa7e7511dbaa55608fe4a" parent="aspace_2cd2e27056897f895c705737c20ecf6b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_9c25f812e60ee697a5870b1179d2843b" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1927/1931" type="inclusive">1927-1931</unitdate>
+            <container id="aspace_e849f914311876af27d24350c5a36169" label="mixed materials" type="Box">6</container>
+            <container id="aspace_67dd3006b48639d07fe2c41605465b77" parent="aspace_e849f914311876af27d24350c5a36169" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_8452f33aece8a45a9d8f240fe089d49b" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1931/1934" type="inclusive">1931-1934</unitdate>
+            <container id="aspace_ab8d249ddc5254bc0a486ab73929ee26" label="mixed materials" type="Box">7</container>
+            <container id="aspace_1270b09397ff123c4e60ea1f1bff848f" parent="aspace_ab8d249ddc5254bc0a486ab73929ee26" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_becb970d108bc240d4f83323ee105097" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate normal="1933/1936" type="inclusive">1933-1936</unitdate>
+            <container id="aspace_944de0547dbd2dec6937d63cb5186241" label="mixed materials" type="Box">7</container>
+            <container id="aspace_ccd6b300da4fe7aa0348f10ccc5bfd42" parent="aspace_944de0547dbd2dec6937d63cb5186241" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_b7c108e1fdf98fb1ddfa55b276ddf87a" level="file">
+          <did>
+            <unittitle>Meritorious Public Service Award from the Government of the District of Columbia</unittitle>
+            <unitdate normal="1970-09-23/1970-09-23" type="inclusive">September 23, 1970</unitdate>
+            <container id="aspace_b24f9db7faa59a51dddce84ac1a3d64c" label="mixed materials" type="Box">7</container>
+            <container id="aspace_a5b9a498f4e1f0d27920b921ad46d9d1" parent="aspace_b24f9db7faa59a51dddce84ac1a3d64c" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_471bbd539dc02a5a39c13aa1f33cbc80" level="series">
+        <did>
+          <unittitle>Series 3: Bound Volumes</unittitle>
+        </did>
+        <scopecontent id="aspace_bebf8b929b37820702d71f089d622980">
+          <head>Scope and Contents</head>
+          <p>This series consists of books written by Mr. Atwood, as well as, The National Geographic Magazine articles authored by Mr. Atwood.</p>
+        </scopecontent>
+        <c id="aspace_3d3ba337ed213b921cee993a10097322" level="file">
+          <did>
+            <unittitle>Francis G. Newlands: A Builder of the Nation - The Newlands Company</unittitle>
+            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_0dfb0da41bbbac8d362c47621d7f7093" label="mixed materials" type="Box">8</container>
+            <container id="aspace_2cea5625873d29d83651dee049ae54d8" parent="aspace_0dfb0da41bbbac8d362c47621d7f7093" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_3c68dfa767ef82f272bf6db506407897" level="file">
+          <did>
+            <unittitle>Gallaudet College: It's First One Hundred Years - Gallaudet College</unittitle>
+            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_e5694acca86acdeb0016b50f21ac41f3" label="mixed materials" type="Box">8</container>
+            <container id="aspace_9ac391e996df800ea2eca59a0e401fc4" parent="aspace_e5694acca86acdeb0016b50f21ac41f3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_a3296cd1d163c095ce14db4888f2cbb6" level="file">
+          <did>
+            <unittitle>The Great Stwedarship: A Story of Life Insurance - Harper and Brothers Publishers</unittitle>
+            <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+            <container id="aspace_bd2eb16e7ee86dede91db1833fd12b38" label="mixed materials" type="Box">8</container>
+            <container id="aspace_b82060b4c036b4a9cbd5f10a371c8e5f" parent="aspace_bd2eb16e7ee86dede91db1833fd12b38" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_9072d010421ecba9a8207abd5b0bed78" level="file">
+          <did>
+            <unittitle>"Washington—Storehouse of Knowledge" Vol. LXXXI no. 3</unittitle>
+            <unitdate normal="1942-03/1942-03" type="inclusive">March 1942</unitdate>
+            <container id="aspace_afc5b3d432943dff6dee39ba9ac5ef36" label="mixed materials" type="Box">8</container>
+            <container id="aspace_f8ec6a4cbadac0ef6235e751eda31f7a" parent="aspace_afc5b3d432943dff6dee39ba9ac5ef36" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_b971f397330369c7739eb160633cefa1" level="file">
+          <did>
+            <unittitle>"Tidewater Virginia - Where History Lives" Vol. LXXXI no. 5</unittitle>
+            <unitdate normal="1942-05/1942-05" type="inclusive">May 1942</unitdate>
+            <container id="aspace_afc436caaafac33295fe235f0a59ae55" label="mixed materials" type="Box">8</container>
+            <container id="aspace_d50a0d88c3fb1e9e1ea3db17f3e9791d" parent="aspace_afc436caaafac33295fe235f0a59ae55" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_8f406253a38f4d0390a485058e48bfd5" level="file">
+          <did>
+            <unittitle>"The Miracle of War Production" Vol. LXXXII no. 6</unittitle>
+            <unitdate normal="1942-12/1942-12" type="inclusive">December 1942</unitdate>
+            <container id="aspace_2eaa8cce080828a19d542b1041c4da26" label="mixed materials" type="Box">8</container>
+            <container id="aspace_7e39160a6fab4a35920fcc7682fd156e" parent="aspace_2eaa8cce080828a19d542b1041c4da26" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_2c337922be0264ba090af5b93724a04d" level="file">
+          <did>
+            <unittitle>"The Long River of New England" Vol. LXXXIII no. 4</unittitle>
+            <unitdate normal="1943-04/1943-04" type="inclusive">April 1943</unitdate>
+            <container id="aspace_721669f90a0eee4630d998a40321c526" label="mixed materials" type="Box">8</container>
+            <container id="aspace_97dc2d728c71dcbf3b48928b62c8e122" parent="aspace_721669f90a0eee4630d998a40321c526" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_dcb36b421aa829ed65b6d643c2b6be91" level="file">
+          <did>
+            <unittitle>"Revealing Earth's Mightiest Ocean" Vol. LXXXIV no. 3</unittitle>
+            <unitdate normal="1943-09/1943-09" type="inclusive">September 1943</unitdate>
+            <container id="aspace_f3ec586cd41c8dbc98446b42b2202727" label="mixed materials" type="Box">8</container>
+            <container id="aspace_7fe823514a266db4a9747ab8233a27f5" parent="aspace_f3ec586cd41c8dbc98446b42b2202727" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_bae32257d09e3499830e8900900765e7" level="file">
+          <did>
+            <unittitle>"The Healing Arts in Global War" Vol. LXXXIV no. 5</unittitle>
+            <unitdate normal="1943-11/1943-11" type="inclusive">November 1943</unitdate>
+            <container id="aspace_422f7b695dcdde73b2d97731904b6f1d" label="mixed materials" type="Box">8</container>
+            <container id="aspace_679e0feec5c64be3515094e2141d81cd" parent="aspace_422f7b695dcdde73b2d97731904b6f1d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_3bae76389744cf2ae2a70f5e2f0a6713" level="file">
+          <did>
+            <unittitle>"Coal: Prodigious Worker for Man" Vol. LXXXV no. 5</unittitle>
+            <unitdate normal="1944-05/1944-05" type="inclusive">May 1944</unitdate>
+            <container id="aspace_d7f577815fdaa181b934bd539652b7ee" label="mixed materials" type="Box">8</container>
+            <container id="aspace_9c6bad8f7408fdf403d1a16fac0eabd9" parent="aspace_d7f577815fdaa181b934bd539652b7ee" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_72f897480446d9a7d966f121e6270643" level="file">
+          <did>
+            <unittitle>"Potomac</unittitle>
+            <unitdate normal="1945-07/1945-07" type="inclusive">July 1945</unitdate>
+            <container id="aspace_5ac8206df1312d0072f18fd8a7da3fd0" label="mixed materials" type="Box">8</container>
+            <container id="aspace_de9eec6642c6aaa5fbb12cf89ddc34ca" parent="aspace_5ac8206df1312d0072f18fd8a7da3fd0" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_b55c7d2192394f3b491331628af40f45" level="file">
+          <did>
+            <unittitle>"Northeast of Boston" Vol. LXXXVIII no. 3</unittitle>
+            <unitdate normal="1945-09/1945-09" type="inclusive">September 1945</unitdate>
+            <container id="aspace_bda47ed54c4904e219106d6f6817ba60" label="mixed materials" type="Box">8</container>
+            <container id="aspace_537194889534a3c41a7bb94842411074" parent="aspace_bda47ed54c4904e219106d6f6817ba60" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_3486f165028951493182e03ec5fe76e5" level="file">
+          <did>
+            <unittitle>"Steel: Master of Them All" Vol. XCI no. 4</unittitle>
+            <unitdate normal="1947-04/1947-04" type="inclusive">April 1947</unitdate>
+            <container id="aspace_7fc325d373ac203bec64a97257d05171" label="mixed materials" type="Box">8</container>
+            <container id="aspace_a48d54adf59a5b43fb8f3a7378d5826c" parent="aspace_7fc325d373ac203bec64a97257d05171" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_140d219cb8109951c7929df1fa69329b" level="file">
+          <did>
+            <unittitle>"Washington: Home of the Nation's Great" Vol. XCI no.6</unittitle>
+            <unitdate normal="1947-06/1947-06" type="inclusive">June 1947</unitdate>
+            <container id="aspace_0c22fcd4e6adecb119d945230e9e0073" label="mixed materials" type="Box">8</container>
+            <container id="aspace_c2f357b53ff58bdd78b4ab063a246076" parent="aspace_0c22fcd4e6adecb119d945230e9e0073" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_85f2945ff56da694b92d5857dd5a5954" level="file">
+          <did>
+            <unittitle>"The Mighty Hudson" Vol. XCIV no. 1</unittitle>
+            <unitdate normal="1948-07/1948-07" type="inclusive">July 1948</unitdate>
+            <container id="aspace_420ce7c86bd0430b630f6ac7b802ec67" label="mixed materials" type="Box">8</container>
+            <container id="aspace_5acaa7dab022a281b58c9e53ef259759" parent="aspace_420ce7c86bd0430b630f6ac7b802ec67" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_aab8946247d97e21968f7f1704db968a" level="file">
+          <did>
+            <unittitle>"The Fire of Heaven—Electricity" Vol. XCIV no. 5</unittitle>
+            <unitdate normal="1948-11/1948-11" type="inclusive">November 1948</unitdate>
+            <container id="aspace_b795fa4c51c5492694bbc9cd404989dd" label="mixed materials" type="Box">8</container>
+            <container id="aspace_d36e59d3e0c9d7cbc765e41fb2be412e" parent="aspace_b795fa4c51c5492694bbc9cd404989dd" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_e87ca8bf68f522a4f07cdccfb87b16a4" level="file">
+          <did>
+            <unittitle>"Pittsburgh: Workshop of the Titans" Vol. XCVI no. 1</unittitle>
+            <unitdate normal="1949-07/1949-07" type="inclusive">July 1949</unitdate>
+            <container id="aspace_ab21d57dcfcd7763c05bd98be1f3c266" label="mixed materials" type="Box">8</container>
+            <container id="aspace_46447576225e0dd391cd01d8af6ae95f" parent="aspace_ab21d57dcfcd7763c05bd98be1f3c266" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_e9e33f44b0a68e94f4e03f95476c9277" level="file">
+          <did>
+            <unittitle>"Gilbert Grosvenor's Golden Jubilee" Vol. XCVI no. 2</unittitle>
+            <unitdate normal="1949-08/1949-08" type="inclusive">August 1949</unitdate>
+            <container id="aspace_70986168664f83eb2df71621be3324cd" label="mixed materials" type="Box">8</container>
+            <container id="aspace_ede725e523d7eb5a6061883dc78fdf15" parent="aspace_70986168664f83eb2df71621be3324cd" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_1c7f049d8df8186e885e8698e387f0e6" level="file">
+          <did>
+            <unittitle>"The Nation's Library" Vol. XCVII no. 5</unittitle>
+            <unitdate normal="1950-05/1950-05" type="inclusive">May 1950</unitdate>
+            <container id="aspace_26433d2c3ecb0cec4458e7093c176c86" label="mixed materials" type="Box">8</container>
+            <container id="aspace_3071c53db27e5cd4a93932daab4d8514" parent="aspace_26433d2c3ecb0cec4458e7093c176c86" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_8c4dc87dc70dd31a9fc43eba45d95e01" level="file">
+          <did>
+            <unittitle>"The Merrimack: River of Industry and Romance" Vol. XCIX no. 1</unittitle>
+            <unitdate normal="1951-01/1951-01" type="inclusive">January 1951</unitdate>
+            <container id="aspace_f0ba22e843eb1d309f923c60d18c5f9f" label="mixed materials" type="Box">8</container>
+            <container id="aspace_273d62fef80515c08c72729b8a898535" parent="aspace_f0ba22e843eb1d309f923c60d18c5f9f" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_b1227a7bf77fed1c2e0960e5c98628b5" level="file">
+          <did>
+            <unittitle>"The Eternal Flame—Natural Gas" Vol. C no. 4</unittitle>
+            <unitdate normal="1951-10/1951-10" type="inclusive">October 1951</unitdate>
+            <container id="aspace_41a501fac9c1f5f8d8924d64e235503b" label="mixed materials" type="Box">8</container>
+            <container id="aspace_12aa374547497957f58b12284c29cebb" parent="aspace_41a501fac9c1f5f8d8924d64e235503b" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_c0cb01029e96d1f62c0f9eafd44772bd" level="file">
+          <did>
+            <unittitle>"Today on the Delaware</unittitle>
+            <unitdate normal="1952-07/1952-07" type="inclusive">July 1952</unitdate>
+            <container id="aspace_8c59fba6ac4e6c66455401e9fd9daab0" label="mixed materials" type="Box">8</container>
+            <container id="aspace_98f6d6f5efcf8786dcb36582a8cfceea" parent="aspace_8c59fba6ac4e6c66455401e9fd9daab0" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_c3f68d051e12afa857525967a5c6b4e8" level="file">
+          <did>
+            <unittitle>"Stately Homes of Old Virginia" Vol. CIII no. 6</unittitle>
+            <unitdate normal="1953-06/1953-06" type="inclusive">June 1953</unitdate>
+            <container id="aspace_a756d45f7293a6452337398da51556e7" label="mixed materials" type="Box">8</container>
+            <container id="aspace_7bc6caf5b19debfae1a31085f502b3e2" parent="aspace_a756d45f7293a6452337398da51556e7" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_53b00d3199d4a1415f1cba5d627a7f0a" level="file">
+          <did>
+            <unittitle>"Immigrants Still Flock to Liberty's Land" Vol. CVIII no. 5</unittitle>
+            <unitdate normal="1955-11/1955-11" type="inclusive">November 1955</unitdate>
+            <container id="aspace_cf678de9948c3e2be61630dc395322c5" label="mixed materials" type="Box">8</container>
+            <container id="aspace_6a887ce346f0dc2d7ea45338d9f98c80" parent="aspace_cf678de9948c3e2be61630dc395322c5" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_98951931fa4ddef5c9f1092ab74c1822" level="file">
+          <did>
+            <unittitle>"1960 Census: Profile of the Nation" Vol. CXVI no. 5</unittitle>
+            <unitdate normal="1959-11/1959-11" type="inclusive">November 1959</unitdate>
+            <container id="aspace_63198a12bfd7b7ed432fc90f91fac60b" label="mixed materials" type="Box">8</container>
+            <container id="aspace_579319ee8ec40344760e22613b09ab24" parent="aspace_63198a12bfd7b7ed432fc90f91fac60b" type="Folder">25</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

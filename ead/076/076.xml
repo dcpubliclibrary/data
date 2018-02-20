@@ -1,0 +1,2546 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">076Hine</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Hine (Lemon and Mary) Papers</titleproper>
+        <titleproper>Lemon and Mary Hine <num>076</num> <num>076</num></titleproper>
+        <subtitle>An inventory of Lemon and Mary Hine at DC Public Library</subtitle>
+        <author>Finding aid prepared by Ryan P. Semmes.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-10</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 14:48:06 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Lemon and Mary Hine Papers</unittitle>
+      <unitid>076</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 linear feet; 6 boxes</extent>
+      </physdesc>
+      <unitdate normal="1855/1993" type="inclusive">1855-1993</unitdate>
+      <langmaterial id="aspace_68cddd81dcb1fdcca2b7549166dfdb54">English</langmaterial>
+      <langmaterial id="aspace_1410e23b4db40e998987326bb8c775ac">English</langmaterial>
+    </did>
+    <custodhist id="aspace_cbc5eec13971fd62652078b965a8628b">
+      <head>Custodial History</head>
+      <p>Frederick F. Wright, a descendant of Lemon and Mary Hine, donated the collection to the DC Community Archives. The donation was originally made in 2004, with subsequent additions made in 2005 and 2006.</p>
+    </custodhist>
+    <scopecontent id="aspace_1344fb14365f5289546b3ff44ceb5c6a">
+      <head>Scope and Contents</head>
+      <p>The collection consists of the incoming and outgoing correspondence of both Lemon and Mary Hine. The letters begin in the 1850s and continue to the late 1880s. Most of the letters are paired with their individual envelopes. There are also letters to and from their children and other descendants of the Hine family. Also in this collection are financial records, photographs, publications, articles, and invitations. The materials are divided into three series: Correspondence, Photographs, and Ephemera.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2002011436" source="Library of Congress Subject Headings">Politics and government</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ee95455de00d5ac0cb8c6154c84b5df0" level="series">
+        <did>
+          <unittitle>Series 1: Correspondence</unittitle>
+        </did>
+        <scopecontent id="aspace_80f9ff38e5d9c2520df2cd3f4ea1fa3a">
+          <head>Scope and Contents</head>
+          <p>This series is made up, almost entirely, of the correspondence to and from Lemon and Mary Hine. There also letters to and from their children and one postcard from their descendant Richard Wright. Some correspondence contains items sent to the recipient and remained in the envelope with the letter. These items include: an 1883-dime, swatches of fabric, and locks of hair.</p>
+        </scopecontent>
+        <c id="aspace_6f659f91fdb92fb75d3e015676295af5" level="file">
+          <did>
+            <unittitle>Della to Lemon</unittitle>
+            <unitdate type="inclusive">September; Undated</unitdate>
+            <container id="aspace_c3f65367bdeacb7cc95a9e552459f00e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f380836a1796c91d712f1f37d102193f" parent="aspace_c3f65367bdeacb7cc95a9e552459f00e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c0d128219598bf1afb124d34757e2c73" level="file">
+          <did>
+            <unittitle>Frank Hemenway to Lemon</unittitle>
+            <unitdate normal="1861-08-13/1861-08-13" type="inclusive">August 13 1861</unitdate>
+            <container id="aspace_41f9a955241731f8b64e826139152ce3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_9e28a3761e5f503f3d88359bb74fb23d" parent="aspace_41f9a955241731f8b64e826139152ce3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_438a2535f92e2faec4c13f69f8db989a" level="file">
+          <did>
+            <unittitle>B. L. Hill to Lemon</unittitle>
+            <unitdate normal="1855-05-11/1855-05-11" type="inclusive">May 11 1855</unitdate>
+            <container id="aspace_71f80d14a1f9ffc8200be70e189b5c63" label="mixed materials" type="Box">1</container>
+            <container id="aspace_06cd73b4e65c616e00f1cfce5cd9f00c" parent="aspace_71f80d14a1f9ffc8200be70e189b5c63" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_469cfb97ee9e2281e15500e6cbaa4565" level="file">
+          <did>
+            <unittitle>D. M. Hine to Lemon</unittitle>
+            <unitdate normal="1856-12-13/1856-12-13" type="inclusive">December 13 1856</unitdate>
+            <container id="aspace_9787340cfde0f86552b5830c04257e08" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c9ea70c611de7d7ae42925c9456862e3" parent="aspace_9787340cfde0f86552b5830c04257e08" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ea7c8ef440f6499d7bf2e6eae2a729f5" level="file">
+          <did>
+            <unittitle>H. S. Hine to Lemon</unittitle>
+            <unitdate normal="1856-09-28/1856-09-28" type="inclusive">September 28 1856</unitdate>
+            <container id="aspace_567040610ea2292f1522f83e0d4ec92b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1713ce588f1c3cae9467dec0f1246b6c" parent="aspace_567040610ea2292f1522f83e0d4ec92b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_530efefa1592689ab585286eb60d3997" level="file">
+          <did>
+            <unittitle>[H. Franklick] to Lemon</unittitle>
+            <unitdate normal="1856-09-15/1856-09-15" type="inclusive">September 15 1856</unitdate>
+            <container id="aspace_ab2d4139a38307932e787b3c3bdcbdb3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b7c72630f92b8f33c5462f8aa086767e" parent="aspace_ab2d4139a38307932e787b3c3bdcbdb3" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_531d82c876570a6530256c9626fa1748" level="file">
+          <did>
+            <unittitle>W. C. McGouigal to Lemon</unittitle>
+            <unitdate normal="1858-01-16/1858-01-16" type="inclusive">January 16 1858</unitdate>
+            <container id="aspace_49fb4a8e48fb964c2f52a30a52f8f62e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c1d3d3340660682eb171309c385a20c7" parent="aspace_49fb4a8e48fb964c2f52a30a52f8f62e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_9e23de6d69cf9152512bae8e7714cc68" level="file">
+          <did>
+            <unittitle>Marnie to Lemon</unittitle>
+            <unitdate normal="1885-09-05/1885-09-05" type="inclusive">September 5 1885</unitdate>
+            <container id="aspace_720bfa37807831bb9aae592ea7689ef7" label="mixed materials" type="Box">1</container>
+            <container id="aspace_fb7d42473cea044ee0b98b1f24a8a968" parent="aspace_720bfa37807831bb9aae592ea7689ef7" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_24e3c7774fd07d907a3d44b78d15c231" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1857-06-16/1857-06-16" type="inclusive">June 16 1857</unitdate>
+            <container id="aspace_47fabeeee6e02d5add143c59a3f47562" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8e1c49cfd5da627243d2daf22438c494" parent="aspace_47fabeeee6e02d5add143c59a3f47562" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_aa00b9de0377551bb6075793bf39ad18" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1857-07-18/1857-07-18" type="inclusive">July 18 1857</unitdate>
+            <container id="aspace_b73bcf67de455353af8859b93eb94b08" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b9ba58b5f3d52ba2b9db3bc93ff014f5" parent="aspace_b73bcf67de455353af8859b93eb94b08" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_6112dc44a681db2e671594558990f7a1" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1857-09-15/1857-09-15" type="inclusive">September 15 1857</unitdate>
+            <container id="aspace_eb90e202dcdfc828fc52a817ed04a215" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c6cbd0ae8dfd00ff2c2e3fee73ac43dc" parent="aspace_eb90e202dcdfc828fc52a817ed04a215" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_42f3fea8ee92e43af4c93c2bb129d9c9" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1857-10/1857-10" type="inclusive">October 1857</unitdate>
+            <container id="aspace_c99b2d22430cc5d1c6365fe17a2362ab" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5259005db437f53cc0784b2c3290eb87" parent="aspace_c99b2d22430cc5d1c6365fe17a2362ab" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_9f290d6d624a1e07b994377841d387f5" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1857-11-26/1857-11-26" type="inclusive">November 26 1857</unitdate>
+            <container id="aspace_5d954806e829e32e7d829b884321efc5" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c1df30ba1c3556f5818f61f3ba91c450" parent="aspace_5d954806e829e32e7d829b884321efc5" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_d839fe91d7fd3f826055f43b4f96cb51" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1858-01-04/1858-01-04" type="inclusive">January 4 1858</unitdate>
+            <container id="aspace_83b5835f5a4d6fef442210117e62909f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_43be2e2c59a7dcef44ae52548f1a12bd" parent="aspace_83b5835f5a4d6fef442210117e62909f" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_6ae466a5667412626d42ea66f9b51ad1" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1858-05-19/1858-05-19" type="inclusive">May 19 1858</unitdate>
+            <container id="aspace_1e973dfb234f9496302f26b09b22434a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_08d0f8e575e3c42243d3b9e390a1a8c4" parent="aspace_1e973dfb234f9496302f26b09b22434a" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_3bcfc89edd66e6b096bf26b97920ed36" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1858-04-17/1858-04-17" type="inclusive">April 17 1858</unitdate>
+            <container id="aspace_d182611598bdd55265efe3a5404afc7a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d5045766935d8b6af4d0423ce6ba3e93" parent="aspace_d182611598bdd55265efe3a5404afc7a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_7e602c6fa1793ed1a9071a84c0c17dac" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1858-06-08/1858-06-08" type="inclusive">June 8 1858</unitdate>
+            <container id="aspace_946d78f80bedc3f73b834f7041956300" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1cec8738141ef403723000b9f609a713" parent="aspace_946d78f80bedc3f73b834f7041956300" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_86c667abbf8daf937ce0acddb8d3a0dc" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1858-07-04/1858-07-04" type="inclusive">July 4 1858</unitdate>
+            <container id="aspace_25b00580be94c3a5769849d70e850d38" label="mixed materials" type="Box">1</container>
+            <container id="aspace_baf123e7b3c293d5aee4988de813d025" parent="aspace_25b00580be94c3a5769849d70e850d38" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_aef714a7f1382c23cb3883744682b7a5" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1858-07-10/1858-07-10" type="inclusive">July 10 1858</unitdate>
+            <container id="aspace_2c4c1fb130820ef9bbf9d645322f02ac" label="mixed materials" type="Box">1</container>
+            <container id="aspace_57e3b36136a273e987710dd9cb18baa5" parent="aspace_2c4c1fb130820ef9bbf9d645322f02ac" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_b28e052d906f58b5102d92c01900be79" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1858-07-27/1858-07-27" type="inclusive">July 27 1858</unitdate>
+            <container id="aspace_90c56dc866b5555ce775c01bc346bfad" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8a0e11e5811f21c71bcd4165db97a315" parent="aspace_90c56dc866b5555ce775c01bc346bfad" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_59fa80c4adfe72c97a608dfa9ef9fb7a" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1858-08/1858-08" type="inclusive">August 1858</unitdate>
+            <container id="aspace_685333a53733230601f423abb86eec8f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a64f364f9c068f2f39b62f528519060e" parent="aspace_685333a53733230601f423abb86eec8f" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_a2011cfc8c14bce3e7687a76751c1c00" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1858-08-11/1858-08-11" type="inclusive">August 11 1858</unitdate>
+            <container id="aspace_e2442b138876bd551c033b492e011f35" label="mixed materials" type="Box">1</container>
+            <container id="aspace_fc530fc73cdbc36ccac9285d74be09c6" parent="aspace_e2442b138876bd551c033b492e011f35" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_129ca38169707c74c9cb77370d63673d" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1858-09-17/1858-09-17" type="inclusive">September 17 1858</unitdate>
+            <container id="aspace_964c76105905f699c3bc2bb2877f2c2b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b071abb179b61a5b0674a2f073a7f888" parent="aspace_964c76105905f699c3bc2bb2877f2c2b" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_dc07e7ff63993039613c25813feabc26" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1858-09-19/1858-09-19" type="inclusive">September 19 1858</unitdate>
+            <container id="aspace_534f4868dcd2dbab42ab69974fc4bb97" label="mixed materials" type="Box">1</container>
+            <container id="aspace_daa3ff719e583dca3a65a77ab29bbdcc" parent="aspace_534f4868dcd2dbab42ab69974fc4bb97" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_f0f9a7c7d59e86e8336bbbfb078fb8c5" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1858-09-30/1858-09-30" type="inclusive">September 30 1858</unitdate>
+            <container id="aspace_55a674d57292604861dc5b7b29a6cb0f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_849793a608d1277b0acafa8348e616aa" parent="aspace_55a674d57292604861dc5b7b29a6cb0f" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_900cf9201ecab70995a3fa30f8006daf" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1858-10-30/1858-10-30" type="inclusive">October 30 1858</unitdate>
+            <container id="aspace_e97f49823a7aa07a854d902ad5aa37ba" label="mixed materials" type="Box">1</container>
+            <container id="aspace_78c57e03304a37df283c1bb933865c36" parent="aspace_e97f49823a7aa07a854d902ad5aa37ba" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_89cdc5e589deed36f555139af8127b7b" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1858-11-20/1858-11-20" type="inclusive">November 20 1858</unitdate>
+            <container id="aspace_a235779ffab67555b646586e9a551f7f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1bfc6b2b176e5c438fd43f476f2b4612" parent="aspace_a235779ffab67555b646586e9a551f7f" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_486f987311f09d4dad51ba74a5e28cdc" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1859-01-03/1859-01-03" type="inclusive">January 3 1859</unitdate>
+            <container id="aspace_92f2af6f46988c4294c5ca54c059288f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ac9f63daec252566b428a87343ff74b7" parent="aspace_92f2af6f46988c4294c5ca54c059288f" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_2b36886ad33f0908861aa97f0c25b782" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1859-01-08/1859-01-08" type="inclusive">January 8 1859</unitdate>
+            <container id="aspace_814bb3fcdddd7842cf1dcc550c3465f0" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c32afffd1d4103273aadd60eb179ff72" parent="aspace_814bb3fcdddd7842cf1dcc550c3465f0" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_016b0614a23ffd5fd1859ec9d0fbd5ec" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1859-01-18/1859-01-18" type="inclusive">January 18 1859</unitdate>
+            <container id="aspace_9e242666acc0f134cd2ad538004fa9ae" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6585e03db178c44eb41bcf9873c8b588" parent="aspace_9e242666acc0f134cd2ad538004fa9ae" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_a1e7f0f7391acd8f5e1fa5e58e42eaac" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1859-03-01/1859-03-01" type="inclusive">March 1 1859</unitdate>
+            <container id="aspace_bdb132c907b8a73824e393255185ba09" label="mixed materials" type="Box">1</container>
+            <container id="aspace_083dc91871db771c043ec9640c5f7d84" parent="aspace_bdb132c907b8a73824e393255185ba09" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_003ced9289fcaa02c4c79566d02a31d4" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1859-03-08/1859-03-08" type="inclusive">March 8 1859</unitdate>
+            <container id="aspace_7fd632f9ec89f50068a6af1a647f1ad0" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c12484891b461896653be96f37638426" parent="aspace_7fd632f9ec89f50068a6af1a647f1ad0" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_bcc8b2ecda1ab3182aa2018cfb109619" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1859-09-28/1859-09-28" type="inclusive">September 28 1859</unitdate>
+            <container id="aspace_71915a37a7a4e2826917639e2b283d1b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_25a85bfbffc62cd3ee1c72bdc345601a" parent="aspace_71915a37a7a4e2826917639e2b283d1b" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_1202d0b1853182557529df3b2cd532a8" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1859-10-14/1859-10-14" type="inclusive">October 14 1859</unitdate>
+            <container id="aspace_332a2b16c4a7bc44070d1e7f5d2e20b0" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b301a67bc6bc4f0f798aa09a42a13ef2" parent="aspace_332a2b16c4a7bc44070d1e7f5d2e20b0" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_fdbd7a4012a620140070d3cd58acdbdc" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1859-11-11/1859-11-11" type="inclusive">November 11 1859</unitdate>
+            <container id="aspace_88b367e9d5d4ff04894bc97d80e4d520" label="mixed materials" type="Box">1</container>
+            <container id="aspace_64f557bede89480e45a2f9124951df19" parent="aspace_88b367e9d5d4ff04894bc97d80e4d520" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_fb9c3aa9a0f0b7d622fc226a62a3915e" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1859-11-26/1859-11-26" type="inclusive">November 26 1859</unitdate>
+            <container id="aspace_385146fc6f93a07c0341d50d9e2367b8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f2c22c3dcdb348e7860f1dea9becbd37" parent="aspace_385146fc6f93a07c0341d50d9e2367b8" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_d9bff73e64fe1de07385c5f80ee382e1" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1859-12-19/1859-12-19" type="inclusive">December 19 1859</unitdate>
+            <container id="aspace_8fb4ee7745987279caf71b88ff4a8905" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1720633ed13ac84aa6cd54d8c727622d" parent="aspace_8fb4ee7745987279caf71b88ff4a8905" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_3bd425a0a4ccfe042bdcb163047f05c0" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1859-12-24/1859-12-24" type="inclusive">December 24 1859</unitdate>
+            <container id="aspace_46e604024d30a60de47a340380cf3985" label="mixed materials" type="Box">1</container>
+            <container id="aspace_81f84d1521de77f4347f9eb2b55a2931" parent="aspace_46e604024d30a60de47a340380cf3985" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_787c889539492f63e4e215f8e3e711cd" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1859-12-29/1859-12-29" type="inclusive">December 29 1859</unitdate>
+            <container id="aspace_17bcd151a9900ab66f15bdc4e1baed34" label="mixed materials" type="Box">1</container>
+            <container id="aspace_9eb0feb779c950878c7616b388736d27" parent="aspace_17bcd151a9900ab66f15bdc4e1baed34" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_889438b87023d4e74b422269644787b1" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-01-04/1860-01-04" type="inclusive">January 4 1860</unitdate>
+            <container id="aspace_1f7d2971e65ac280e8974b8a554d227f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_fd8738b1077dcb406f215c9b00de58da" parent="aspace_1f7d2971e65ac280e8974b8a554d227f" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_49348510a9b0fca231c3f0caed2fd26f" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-01-12/1860-01-12" type="inclusive">January 12 1860</unitdate>
+            <container id="aspace_24b3a43dda776f39e2433eb037f81dba" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8a06e9c9bb69bcf1f1121f95755bd643" parent="aspace_24b3a43dda776f39e2433eb037f81dba" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_acfea423660ebcde4bb36986e2613684" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-01-19/1860-01-19" type="inclusive">January 19 1860</unitdate>
+            <container id="aspace_20dedd3c7a4841ae1107cc4b841c1c67" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a211c2314e29cedf34a4f89fd3b49619" parent="aspace_20dedd3c7a4841ae1107cc4b841c1c67" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_84c22e15385ee523701db986d8b7106b" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-01-26/1860-01-26" type="inclusive">January 26 1860</unitdate>
+            <container id="aspace_8cd056bda8004af9a916194bec16931f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_378b269f71a2534aeac69c06b9f996ff" parent="aspace_8cd056bda8004af9a916194bec16931f" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_d06980b65a4b48334919140919266bba" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-02-02/1860-02-02" type="inclusive">February 2 1860</unitdate>
+            <container id="aspace_ef408262c51fd7781852e243b6e43bb8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c1b9d007946042f61b37e8b0ef7d8c43" parent="aspace_ef408262c51fd7781852e243b6e43bb8" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_bc21a858012df47c6e78055b126a85d4" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-02-10/1860-02-10" type="inclusive">February 10 1860</unitdate>
+            <container id="aspace_26a75cd9dd1ff771f4cff0669c5dcb47" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6ffbfbd85dfff51550c62012e77ea0d3" parent="aspace_26a75cd9dd1ff771f4cff0669c5dcb47" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_260bc3121f8138503cc9f91b025d1df4" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-02-16/1860-02-16" type="inclusive">February 16 1860</unitdate>
+            <container id="aspace_4c3a8b2ad05cdb33b46237394602d186" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b32c8a5db6dda57f3985f9589388204e" parent="aspace_4c3a8b2ad05cdb33b46237394602d186" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_7fe5e5ec58a9dfa1e899837174046bdb" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-03-06/1860-03-06" type="inclusive">March 6 1860</unitdate>
+            <container id="aspace_b36b5b0af9362601973a7a91aa8c0b3d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5adef48547ad9119ff6fdb7d5fd23552" parent="aspace_b36b5b0af9362601973a7a91aa8c0b3d" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_f12a2e7ce6ac1fb17a1868be51832295" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-03-12/1860-03-12" type="inclusive">March 12 1860</unitdate>
+            <container id="aspace_0f1016f76c795f281e1cf3a1d5f1a8a2" label="mixed materials" type="Box">1</container>
+            <container id="aspace_211d2b335a3f85e25fa1f20c146b80d0" parent="aspace_0f1016f76c795f281e1cf3a1d5f1a8a2" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_da9c68419c3de1e11bddbd5013d20d5b" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-03-17/1860-03-17" type="inclusive">March 17 1860</unitdate>
+            <container id="aspace_ec5d4e31968a2ef91c692714dde7d07a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_085e6255a17cfee76ffef676e7b2fa51" parent="aspace_ec5d4e31968a2ef91c692714dde7d07a" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_7d81b3daa535aae010ba5c5d67b1ed0f" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-03-21/1860-03-21" type="inclusive">March 21 1860</unitdate>
+            <container id="aspace_5e7c33e86487dbcb4b6c0d0ff24b36d5" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4209a7dcd21d6e550dfb983b9496ec6f" parent="aspace_5e7c33e86487dbcb4b6c0d0ff24b36d5" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_131cb0802e5c058cf0f8844ffd47fbed" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-03-28/1860-03-28" type="inclusive">March 28 1860</unitdate>
+            <container id="aspace_a368e2e72b6d14b585ebd96d0e9baf7a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e87f5fddca96220b7b383934e849a527" parent="aspace_a368e2e72b6d14b585ebd96d0e9baf7a" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_8ab4e9eed66382f4a1487c505372f522" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-04-01/1860-04-01" type="inclusive">April 1 1860</unitdate>
+            <container id="aspace_38dbb807493077ffeb0ba23f383273aa" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f66ade9d62c2e94b290709a23f8e3a8c" parent="aspace_38dbb807493077ffeb0ba23f383273aa" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_efb46c4c9baafbb34028471f162512be" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-04-06/1860-04-06" type="inclusive">April 6 1860</unitdate>
+            <container id="aspace_a9dc517d94c1430dad7f7379b2fb477a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3e819e125a2e559ff05563ab67147a96" parent="aspace_a9dc517d94c1430dad7f7379b2fb477a" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_cf9a9173f9914ea51b6fd0543a7eb4b6" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-04-10/1860-04-10" type="inclusive">April 10 1860</unitdate>
+            <container id="aspace_a99875604281288fec20b3055fa6f4c1" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b71a067ae52da439d727b58c9fc508f2" parent="aspace_a99875604281288fec20b3055fa6f4c1" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_d8b073a5df879694bf15cc2369fe99e6" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-04-14/1860-04-14" type="inclusive">April 14 1860</unitdate>
+            <container id="aspace_f20eec01f6bc870fe73f1a848f259b16" label="mixed materials" type="Box">1</container>
+            <container id="aspace_fcf181d2b4516284a5bf7eca7706783c" parent="aspace_f20eec01f6bc870fe73f1a848f259b16" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ffcfd8dc9d87840b57e9f6f187d347cc" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-04-19/1860-04-19" type="inclusive">April 19 1860</unitdate>
+            <container id="aspace_8af913407a724562a346c6cb99f44be3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8a92d0bfac0e16cc52d81da9b7414c8c" parent="aspace_8af913407a724562a346c6cb99f44be3" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_3c706ddfe2dc3e86a3240aa165b3d6c1" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-04-22/1860-04-22" type="inclusive">April 22 1860</unitdate>
+            <container id="aspace_edb4d8a887115c06aa2c723a13642d14" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e7242ea01ab0708e8d9a8c88ec2504af" parent="aspace_edb4d8a887115c06aa2c723a13642d14" type="Folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_24563d74effc1492645a78e23f031c80" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-11-20/1860-11-20" type="inclusive">November 20 1860</unitdate>
+            <container id="aspace_c48e52c2e60f9cc7ad8e91a60190e427" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f05a49b5cab3b8658f9094c03e9c3129" parent="aspace_c48e52c2e60f9cc7ad8e91a60190e427" type="Folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_c45c7508b99ae7e12a2b88bcf2fe87d2" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-12-06/1860-12-06" type="inclusive">December 6 1860</unitdate>
+            <container id="aspace_76418d09d18888953560f231ef561e29" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c983757c0db74ccb497d35e78e9ba96c" parent="aspace_76418d09d18888953560f231ef561e29" type="Folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_bf420b675a193dc2903aa47b07186c81" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1860-12-08/1860-12-08" type="inclusive">December 8 1860</unitdate>
+            <container id="aspace_75e016e125bb4d5f554961691c254f8d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_9c6d00ed447af5098003efbe1ab8fde2" parent="aspace_75e016e125bb4d5f554961691c254f8d" type="Folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_aee20e83f5e851191bd102e6c2adfa92" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1862-03-07/1862-03-07" type="inclusive">March 7 1862</unitdate>
+            <container id="aspace_f88398f08feff53a0c88a1217bd99468" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e176d237845fbfa667cca3867d43215e" parent="aspace_f88398f08feff53a0c88a1217bd99468" type="Folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_080fca7cdc223855bac59c2e77beee9b" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1862-03-18/1862-03-18" type="inclusive">March 18 1862</unitdate>
+            <container id="aspace_ea7e2f9adc9f928f054eb2b7895a52b0" label="mixed materials" type="Box">1</container>
+            <container id="aspace_bc36bdabef5a8cf63268b5746db314d1" parent="aspace_ea7e2f9adc9f928f054eb2b7895a52b0" type="Folder">62</container>
+          </did>
+        </c>
+        <c id="aspace_b5cfab09c6cbbc5debf414f55ecfc328" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1862-04-15/1862-04-15" type="inclusive">April 15 1862</unitdate>
+            <container id="aspace_65fe109835a16813b96e382cb71b2d9c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a23276c1d9fa58d468712c35e5b7f536" parent="aspace_65fe109835a16813b96e382cb71b2d9c" type="Folder">63</container>
+          </did>
+        </c>
+        <c id="aspace_dbfabb4ecd59cc3386efb52ae3f71286" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1864-07-31/1864-07-31" type="inclusive">July 31 1864</unitdate>
+            <container id="aspace_6020e0bd091b96823b4a5777827e4cb7" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1a08a5d833f98acac81ac12901be5000" parent="aspace_6020e0bd091b96823b4a5777827e4cb7" type="Folder">64</container>
+          </did>
+        </c>
+        <c id="aspace_5ad5d83613ee7afe8dba52b34fbc4788" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1864-08-07/1864-08-07" type="inclusive">August 7 1864</unitdate>
+            <container id="aspace_b8fbcd707d19f3de6ccffb17c6756b55" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3fda478817e6aee65b55109501f42edb" parent="aspace_b8fbcd707d19f3de6ccffb17c6756b55" type="Folder">65</container>
+          </did>
+        </c>
+        <c id="aspace_339ff4eebefa2c5f9ea13db372cc6d9e" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1864-08-15/1864-08-15" type="inclusive">August 15 1864</unitdate>
+            <container id="aspace_360b2ee8f5192185fcebe91d130dad9a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b282a3496edda2497d8f984ac8f8e351" parent="aspace_360b2ee8f5192185fcebe91d130dad9a" type="Folder">66</container>
+          </did>
+        </c>
+        <c id="aspace_560a2b3a8a10a9bb6457abdc5954cb95" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1864-10-09/1864-10-09" type="inclusive">October 9 1864</unitdate>
+            <container id="aspace_cb7786c01e5416c884d73dcbe35cf38d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2d4aa90fc9a58e56c4e340b282bc2a30" parent="aspace_cb7786c01e5416c884d73dcbe35cf38d" type="Folder">67</container>
+          </did>
+        </c>
+        <c id="aspace_55c2966d56423f8b2d6e9492635b6748" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1864-10-15/1864-10-15" type="inclusive">October 15 1864</unitdate>
+            <container id="aspace_c3a27d7622fcfcd2741e3dc2fa2256e7" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8e67b06589d61e96025552215f37fa87" parent="aspace_c3a27d7622fcfcd2741e3dc2fa2256e7" type="Folder">68</container>
+          </did>
+        </c>
+        <c id="aspace_65d4a6f8ff410431a229d9ad3ad3b473" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1864-10-16/1864-10-16" type="inclusive">October 16 1864</unitdate>
+            <container id="aspace_79f208a34dfa5c03fdd2ff6624700e09" label="mixed materials" type="Box">1</container>
+            <container id="aspace_bdf04304683ebf3457c5a34cbe93446d" parent="aspace_79f208a34dfa5c03fdd2ff6624700e09" type="Folder">69</container>
+          </did>
+        </c>
+        <c id="aspace_97a2c69fc157f7712d01103a052a6d63" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1866-10-28/1866-10-28" type="inclusive">October 28 1866</unitdate>
+            <container id="aspace_f44b75e867160fa05e7a4ed0f6e3d6b9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f98828321e7f997a192b3992dec5d12d" parent="aspace_f44b75e867160fa05e7a4ed0f6e3d6b9" type="Folder">70</container>
+          </did>
+        </c>
+        <c id="aspace_0b5329fed45a86173a421cdcdf80d017" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1885-08-08/1885-08-08" type="inclusive">August 8 1885</unitdate>
+            <container id="aspace_a169e63ab4fcae44968d9ea81918d22d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_923134c718c4df62a42dd2e0e7279441" parent="aspace_a169e63ab4fcae44968d9ea81918d22d" type="Folder">71</container>
+          </did>
+        </c>
+        <c id="aspace_f955d4badee8ff230f9e44f183945bbc" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1885-08-17/1885-08-17" type="inclusive">August 17 1885</unitdate>
+            <container id="aspace_a998eaa08617874e172ed1f57ddb860a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_beb1202f09fb4bf7d690148c4b3f41f3" parent="aspace_a998eaa08617874e172ed1f57ddb860a" type="Folder">72</container>
+          </did>
+        </c>
+        <c id="aspace_0585e94837875e626a6202c92d3533f3" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1885-08-25/1885-08-25" type="inclusive">August 25 1885</unitdate>
+            <container id="aspace_cdf835902f5c6944aeccda4cfea59597" label="mixed materials" type="Box">1</container>
+            <container id="aspace_44c2e3f5c31fb25b26dc75ea8c8885f8" parent="aspace_cdf835902f5c6944aeccda4cfea59597" type="Folder">73</container>
+          </did>
+        </c>
+        <c id="aspace_9ce430002fba122bc33a0a3a35d329b2" level="file">
+          <did>
+            <unittitle>Mary to Lemon</unittitle>
+            <unitdate normal="1885-09-04/1885-09-04" type="inclusive">September 4 1885</unitdate>
+            <container id="aspace_8c5da1f3feaa7b14579bac626d29ab7d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_711bd28148c1656df8ad69da6dd1b76b" parent="aspace_8c5da1f3feaa7b14579bac626d29ab7d" type="Folder">74</container>
+          </did>
+        </c>
+        <c id="aspace_f86d4b8ef6a82d7ec650e32c87ca7537" level="file">
+          <did>
+            <unittitle>Mollie to Lemon</unittitle>
+            <unitdate normal="1858-05-10/1858-05-10" type="inclusive">May 10 1858</unitdate>
+            <container id="aspace_7f35a5bee7e2f7dca7f8ebc0a47704e9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8bdc1ed6bd9bf1e14f67399328485f18" parent="aspace_7f35a5bee7e2f7dca7f8ebc0a47704e9" type="Folder">75</container>
+          </did>
+        </c>
+        <c id="aspace_107e53c5381fa5946ca1fffd37149bc6" level="file">
+          <did>
+            <unittitle>Mollie to Lemon</unittitle>
+            <unitdate normal="1859-12-11/1859-12-11" type="inclusive">December 11 1859</unitdate>
+            <container id="aspace_075c402ba875595b5b526d026a09b1e6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e0866baf24eced708b7f8b73b49b8a44" parent="aspace_075c402ba875595b5b526d026a09b1e6" type="Folder">76</container>
+          </did>
+        </c>
+        <c id="aspace_268f3c36f6c3693db453e6413e033c4a" level="file">
+          <did>
+            <unittitle>Lt. James S. Ransom to Lemon</unittitle>
+            <unitdate normal="1862-01-11/1862-01-11" type="inclusive">January 11 1862</unitdate>
+            <container id="aspace_a119ce1392f1baa639df328b27272f21" label="mixed materials" type="Box">1</container>
+            <container id="aspace_bd4212454ffa6874cea1ff3cb5310cd1" parent="aspace_a119ce1392f1baa639df328b27272f21" type="Folder">77</container>
+          </did>
+        </c>
+        <c id="aspace_0eafee8138b4071187e0bbe5365fe5ed" level="file">
+          <did>
+            <unittitle>Mary (and Bessie) to Marnie</unittitle>
+            <unitdate normal="1885-07-27/1885-07-27" type="inclusive">July 27 1885</unitdate>
+            <container id="aspace_1d16e5069d6a16e336cf13dd51469f15" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b6cbc6850de23d0930ab57ab7a47a5e1" parent="aspace_1d16e5069d6a16e336cf13dd51469f15" type="Folder">78</container>
+          </did>
+        </c>
+        <c id="aspace_cb60030af0082df0445855b912284755" level="file">
+          <did>
+            <unittitle>Mary to Marnie</unittitle>
+            <unitdate normal="1885-08-01/1885-08-01" type="inclusive">August 1 1885</unitdate>
+            <container id="aspace_feaf0ce288da11fe40dac1c3213b7178" label="mixed materials" type="Box">1</container>
+            <container id="aspace_baad2bb6be17f8ba951306873a6718d8" parent="aspace_feaf0ce288da11fe40dac1c3213b7178" type="Folder">79</container>
+          </did>
+        </c>
+        <c id="aspace_5f6c8fab9a1f303ec3d9cdcf1fd85f20" level="file">
+          <did>
+            <unittitle>Mary to Marnie</unittitle>
+            <unitdate normal="1885-08-11/1885-08-11" type="inclusive">August 11 1885</unitdate>
+            <container id="aspace_5aa924ad18cf4a26c9e8979801e61fb2" label="mixed materials" type="Box">1</container>
+            <container id="aspace_bfc26b0ae48e806087238ebb44e319b7" parent="aspace_5aa924ad18cf4a26c9e8979801e61fb2" type="Folder">80</container>
+          </did>
+        </c>
+        <c id="aspace_0b76a5c587479c762111b612299cbc8c" level="file">
+          <did>
+            <unittitle>Mary to Marnie</unittitle>
+            <unitdate normal="1885-09-07/1885-09-07" type="inclusive">September 7 1885</unitdate>
+            <container id="aspace_9dda15360279d008ef9eb57b5eff73d6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c865068c4fc73e67943dbf630846407b" parent="aspace_9dda15360279d008ef9eb57b5eff73d6" type="Folder">81</container>
+          </did>
+        </c>
+        <c id="aspace_1a04f50baf014eba3414c4ab85515db0" level="file">
+          <did>
+            <unittitle>Lemon to James Dawson</unittitle>
+            <unitdate normal="1865-09-11/1865-09-11" type="inclusive">September 11 1865</unitdate>
+            <container id="aspace_63fc059c3c612b980de5f21ab39ec3de" label="mixed materials" type="Box">2</container>
+            <container id="aspace_599c9f9bc5a183c95db1194d3df07ad5" parent="aspace_63fc059c3c612b980de5f21ab39ec3de" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_725da9fe7c409f39d107df76441d6558" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1855-04-09/1855-04-09" type="inclusive">April 9 1855</unitdate>
+            <container id="aspace_22d65614dde53aaa62e1874ad487fc5a" label="mixed materials" type="Box">2</container>
+            <container id="aspace_4cd499e317a39ae35db75774747576a8" parent="aspace_22d65614dde53aaa62e1874ad487fc5a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_a641b0370bbffddd60c3f4b6dc549109" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1855-07-16/1855-07-16" type="inclusive">July 16 1855</unitdate>
+            <container id="aspace_92d95c5cec992eefff80b49927bdcc65" label="mixed materials" type="Box">2</container>
+            <container id="aspace_6d712858d039f62ad890df91f0e6b4e8" parent="aspace_92d95c5cec992eefff80b49927bdcc65" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_5755ddf0f84002b79f71a31c76970bd4" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1857-04-10/1857-04-10" type="inclusive">April 10 1857</unitdate>
+            <container id="aspace_ed4fdc1eb19da33c957846dd33190458" label="mixed materials" type="Box">2</container>
+            <container id="aspace_6c6303d82fc3fe368b893816615c8eba" parent="aspace_ed4fdc1eb19da33c957846dd33190458" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_e5ebc492986e8facad1809f3d61326e9" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1857-05-08/1857-05-08" type="inclusive">May 8 1857</unitdate>
+            <container id="aspace_a48ea76d37e105a4cd3c4bb4cc6a81de" label="mixed materials" type="Box">2</container>
+            <container id="aspace_3d99d491f817c23144b96d599a8bc847" parent="aspace_a48ea76d37e105a4cd3c4bb4cc6a81de" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_c311a751eb565a4de60bb57d298e3669" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1857-07-25/1857-07-25" type="inclusive">July 25 1857</unitdate>
+            <container id="aspace_c238ae842b710b78149a6357cb7c2c92" label="mixed materials" type="Box">2</container>
+            <container id="aspace_8428d7c0483f4538238befb7b66c449c" parent="aspace_c238ae842b710b78149a6357cb7c2c92" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_9e8ae923ed7a9a9d65d75fb6d86aa2a9" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1857-08-02/1857-08-02" type="inclusive">August 2 1857</unitdate>
+            <container id="aspace_986678d47533c453c72aef9ae02bb45f" label="mixed materials" type="Box">2</container>
+            <container id="aspace_897e947596d41d9be8a5752df142ea8c" parent="aspace_986678d47533c453c72aef9ae02bb45f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_71ddfe067489f072675e5c5709579863" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1857-08-10/1857-08-10" type="inclusive">August 10 1857</unitdate>
+            <container id="aspace_7136f54569e269a68d514ea57ff4ce32" label="mixed materials" type="Box">2</container>
+            <container id="aspace_139967793e8f555c9ace229fe5c2ee28" parent="aspace_7136f54569e269a68d514ea57ff4ce32" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_c93dc319543b0c30c84bcaa2f56a46e5" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1857-09-23/1857-09-23" type="inclusive">September 23 1857</unitdate>
+            <container id="aspace_042e093b56782ca9cf409c3da5f91a73" label="mixed materials" type="Box">2</container>
+            <container id="aspace_c4b832476ddf3084832608f09ff1d13f" parent="aspace_042e093b56782ca9cf409c3da5f91a73" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_47518c030a0c44eff043492bccde09d7" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1857-10-05/1857-10-05" type="inclusive">October 5 1857</unitdate>
+            <container id="aspace_3cf491a3cc23cadbe704379b26513b6a" label="mixed materials" type="Box">2</container>
+            <container id="aspace_f971265c11ce36a7e11ab667260495ee" parent="aspace_3cf491a3cc23cadbe704379b26513b6a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_09a79870f1b5fe6b7d6fe38633fc293a" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1857-10-27/1857-10-27" type="inclusive">October 27 1857</unitdate>
+            <container id="aspace_06ae61368cba46681543da8b247600d4" label="mixed materials" type="Box">2</container>
+            <container id="aspace_4b37fa2ea52d2edccb4cbcd190ab8fc6" parent="aspace_06ae61368cba46681543da8b247600d4" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ecfe62dbef718c0a14b9e21ee5553be0" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1857-12-20/1857-12-20" type="inclusive">December 20 1857</unitdate>
+            <container id="aspace_b5aeca8018ffa99cdfd79a747d9c1b30" label="mixed materials" type="Box">2</container>
+            <container id="aspace_a6c28b20a264d03658088404f59bcd82" parent="aspace_b5aeca8018ffa99cdfd79a747d9c1b30" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_5c70f68515d70ceb66b14ad5b6cfde4e" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-01-08/1858-01-08" type="inclusive">January 8 1858</unitdate>
+            <container id="aspace_12a4925385c60b7edb52c6c0acea948a" label="mixed materials" type="Box">2</container>
+            <container id="aspace_ff2672dc9b8ae83c3e31c8e11f525d72" parent="aspace_12a4925385c60b7edb52c6c0acea948a" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_9d7d1485e2bd19fb2ae785c2cda9321d" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-01-18/1858-01-18" type="inclusive">January 18 1858</unitdate>
+            <container id="aspace_562086ca716a85f4bdfa82875ed7b8e5" label="mixed materials" type="Box">2</container>
+            <container id="aspace_ea6fb090954bfd27ad8af48e08948866" parent="aspace_562086ca716a85f4bdfa82875ed7b8e5" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_10925b53eeb7fe5e10ec4c969cd46e96" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-01-26/1858-01-26" type="inclusive">January 26 1858</unitdate>
+            <container id="aspace_84a211e764a58d7c2dffa1ffdf631730" label="mixed materials" type="Box">2</container>
+            <container id="aspace_a94d07986cd3a69934a3ffc0741f72d5" parent="aspace_84a211e764a58d7c2dffa1ffdf631730" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_92e2d2f98954a7b661cb4f9b85c495fd" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-02-26/1858-02-26" type="inclusive">February 26 1858</unitdate>
+            <container id="aspace_592d1962327ff0ada74869e6956dc5db" label="mixed materials" type="Box">2</container>
+            <container id="aspace_39c07c22826632ad2d3365fd3d829d90" parent="aspace_592d1962327ff0ada74869e6956dc5db" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_33e960489746e1abcc8788ed70365dd3" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-03-10/1858-03-10" type="inclusive">March 10 1858</unitdate>
+            <container id="aspace_2cc0499f23bbe2a004199c8ca5c66330" label="mixed materials" type="Box">2</container>
+            <container id="aspace_a6f41e048dca6e11de891bfaa99299a9" parent="aspace_2cc0499f23bbe2a004199c8ca5c66330" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_06a3121b9e4cb2a5770e11b48f5c577d" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-03-28/1858-03-28" type="inclusive">March 28 1858</unitdate>
+            <container id="aspace_8e1752b77b091348082087dc26b87e86" label="mixed materials" type="Box">2</container>
+            <container id="aspace_401ed00723d9105bc9dc2fe2495c0b26" parent="aspace_8e1752b77b091348082087dc26b87e86" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_35bfb3198485c5acf28bc5ad7a84a427" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-05-01/1858-05-01" type="inclusive">May 1 1858</unitdate>
+            <container id="aspace_c9216bb8090c72ea4b44b75ccb27f38c" label="mixed materials" type="Box">2</container>
+            <container id="aspace_ddba49968c0d774693a277ea6cc1dcea" parent="aspace_c9216bb8090c72ea4b44b75ccb27f38c" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_1798228fc35498eb6b53b6b78c9b6842" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-05-09/1858-05-09" type="inclusive">May 9 1858</unitdate>
+            <container id="aspace_4ce587959312ff893306cc3da6df7fdb" label="mixed materials" type="Box">2</container>
+            <container id="aspace_885c4453a48984b8e47c5e6d71b4fcb9" parent="aspace_4ce587959312ff893306cc3da6df7fdb" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_4f22c952db9b287b76802a7215e06af4" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-05-28/1858-05-28" type="inclusive">May 28 1858</unitdate>
+            <container id="aspace_61d1cd4ac68fecbf14cc9eb1e72a42d3" label="mixed materials" type="Box">2</container>
+            <container id="aspace_a80439664b883855cdeccd5140a01148" parent="aspace_61d1cd4ac68fecbf14cc9eb1e72a42d3" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_99a246363004d272feff079d53f391e7" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate type="inclusive">June 20 and 27 1858</unitdate>
+            <container id="aspace_f10193ad9b081f6df37c2dcf05840e47" label="mixed materials" type="Box">2</container>
+            <container id="aspace_b0800c6e7b799565fbe095ee56ad4afe" parent="aspace_f10193ad9b081f6df37c2dcf05840e47" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_89355e30d5dc0d1e505cceacd5356122" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-07-05/1858-07-05" type="inclusive">July 5 1858</unitdate>
+            <container id="aspace_4a85a779d62d6a5f0b7a90e941648161" label="mixed materials" type="Box">2</container>
+            <container id="aspace_e2d46465274cdf5c945697ce1d7b18d6" parent="aspace_4a85a779d62d6a5f0b7a90e941648161" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_e8cb503a320285a1fefcea34ff48a458" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-08-05/1858-08-05" type="inclusive">August 5 1858</unitdate>
+            <container id="aspace_7f67d71669482e9cda90213a808abd8d" label="mixed materials" type="Box">2</container>
+            <container id="aspace_184bd28246660a9c0de201d0c30dd15c" parent="aspace_7f67d71669482e9cda90213a808abd8d" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_0a47f0f9b16fd0548239f7a26302ee1f" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-08-28/1858-08-28" type="inclusive">August 28 1858</unitdate>
+            <container id="aspace_6a590b4075af6261b7cd94be7202013c" label="mixed materials" type="Box">2</container>
+            <container id="aspace_fd09c0123a70e2642191123d33824272" parent="aspace_6a590b4075af6261b7cd94be7202013c" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_35493a8afd17be9f0f95159dfa70a84e" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-09-02/1858-09-02" type="inclusive">September 2 1858</unitdate>
+            <container id="aspace_5d2edafa90dd39045e83b947c56a9ec7" label="mixed materials" type="Box">2</container>
+            <container id="aspace_afb364a0b31b28e44bcbf3e739b4b575" parent="aspace_5d2edafa90dd39045e83b947c56a9ec7" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_40c605183b24c73c61331263d052b8f1" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-09-28/1858-09-28" type="inclusive">September 28 1858</unitdate>
+            <container id="aspace_adce3ac1a3b8a304dd6e3fb06d6ed5fc" label="mixed materials" type="Box">2</container>
+            <container id="aspace_32c479149671f07605487cada82a6b8c" parent="aspace_adce3ac1a3b8a304dd6e3fb06d6ed5fc" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_f2a92d0685aac0da6b9f6ca926557719" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-11-06/1858-11-06" type="inclusive">November 6 1858</unitdate>
+            <container id="aspace_a832e2d9b6ee74dc25349b5fa1ff6953" label="mixed materials" type="Box">2</container>
+            <container id="aspace_802bf3a7d9e00f52450a03145d4e791d" parent="aspace_a832e2d9b6ee74dc25349b5fa1ff6953" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_c10622b59f63b34fdff283369ab69c00" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-11-21/1858-11-21" type="inclusive">November 21 1858</unitdate>
+            <container id="aspace_e219e75e839edfcbfb9be7a1f801db8b" label="mixed materials" type="Box">2</container>
+            <container id="aspace_050f85e26fa797d17e53b2c8101f31e8" parent="aspace_e219e75e839edfcbfb9be7a1f801db8b" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_c1a5f2a963e710d8f7598127c4366a4a" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-11-27/1858-11-27" type="inclusive">November 27 1858</unitdate>
+            <container id="aspace_ab12f48815b48aaf054bf0a3aba5431b" label="mixed materials" type="Box">2</container>
+            <container id="aspace_52acb83f05aa4412c601f7f1f791952b" parent="aspace_ab12f48815b48aaf054bf0a3aba5431b" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_e528b57ec27feb44e546c0a12b80f9e6" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-12-12/1858-12-12" type="inclusive">December 12 1858</unitdate>
+            <container id="aspace_9743d90752f2f1da058ba803af7bc1f7" label="mixed materials" type="Box">2</container>
+            <container id="aspace_696aa7bd9dab07886ede0fcb8f2945c0" parent="aspace_9743d90752f2f1da058ba803af7bc1f7" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_803b2f82e71fc05978585e43454e803d" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1858-12-12/1858-12-12" type="inclusive">December 12 1858</unitdate>
+            <container id="aspace_e4956eaea48173a43ed8a0f1040a8c30" label="mixed materials" type="Box">2</container>
+            <container id="aspace_cbf92b099b4692bc06646aa173a1a268" parent="aspace_e4956eaea48173a43ed8a0f1040a8c30" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_3a7d3756be7d8dc5c965dd57c66454e1" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1859-01-24/1859-01-24" type="inclusive">January 24 1859</unitdate>
+            <container id="aspace_a2efcb16a3200ec81877f579fb3bd36a" label="mixed materials" type="Box">2</container>
+            <container id="aspace_908de58ed7fd1c6447021a30447038af" parent="aspace_a2efcb16a3200ec81877f579fb3bd36a" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_e76c1ca0c79c5d3bc1ee4f614191fce5" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1859-02-23/1859-02-23" type="inclusive">February 23 1859</unitdate>
+            <container id="aspace_47416b628d16c7c537895e1675af3e41" label="mixed materials" type="Box">2</container>
+            <container id="aspace_095bc8cbfecf6ffeebfb5cc23b25f7a0" parent="aspace_47416b628d16c7c537895e1675af3e41" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_83d5b74f4239f3b310e6932381b6050d" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1859-10-23/1859-10-23" type="inclusive">October 23 1859</unitdate>
+            <container id="aspace_7e2035e457dcb123a59ace17200ad056" label="mixed materials" type="Box">2</container>
+            <container id="aspace_08b53837a1a00aa73d5fe1059889a821" parent="aspace_7e2035e457dcb123a59ace17200ad056" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_f443bc760e8a377d393583765f168a9b" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1859-11-20/1859-11-20" type="inclusive">November 20 1859</unitdate>
+            <container id="aspace_0667b33e4092f7c3aaa4cdf755f5bfc0" label="mixed materials" type="Box">2</container>
+            <container id="aspace_262c7d6c71ce847a262682c3ae6dec30" parent="aspace_0667b33e4092f7c3aaa4cdf755f5bfc0" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_08ba52483303802a5d03abdee2d557d8" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1859-12-04/1859-12-04" type="inclusive">December 4 1859</unitdate>
+            <container id="aspace_770f2a692f3bf8b673b86ba771793c95" label="mixed materials" type="Box">2</container>
+            <container id="aspace_e32587cd22ed657bb87d5ede5b85e41e" parent="aspace_770f2a692f3bf8b673b86ba771793c95" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_432f159324d334a83966eb72b0d80e4c" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1859-12-15/1859-12-15" type="inclusive">December 15 1859</unitdate>
+            <container id="aspace_cdba8c2f0a3f1b79134055961a12cd79" label="mixed materials" type="Box">2</container>
+            <container id="aspace_5c63e622d8f93f154875a53db97708ec" parent="aspace_cdba8c2f0a3f1b79134055961a12cd79" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_b3e12f38700c725c5a2821f5f485fbad" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1859-12-27/1859-12-27" type="inclusive">December 27 1859</unitdate>
+            <container id="aspace_832994012f8965d7702c6e731af3370a" label="mixed materials" type="Box">2</container>
+            <container id="aspace_62dc24dd89be66b61a5f0ea58381597f" parent="aspace_832994012f8965d7702c6e731af3370a" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_fa6f27d767d96e6249da6c71019fa526" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-01-15/1860-01-15" type="inclusive">January 15 1860</unitdate>
+            <container id="aspace_f917f9ede93a17efe0352976da3c73ab" label="mixed materials" type="Box">2</container>
+            <container id="aspace_22c71520abe0510e5030278e9fb47431" parent="aspace_f917f9ede93a17efe0352976da3c73ab" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_2fa77dc5393107431c97e8027a4a97a4" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-01-21/1860-01-21" type="inclusive">January 21 1860</unitdate>
+            <container id="aspace_60601cf3c1ce4477f93dd315ea8538ca" label="mixed materials" type="Box">2</container>
+            <container id="aspace_9f9fb5a87e87b3484ed964b46cd5d619" parent="aspace_60601cf3c1ce4477f93dd315ea8538ca" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_0d8cb384f79e03d14efa169bd4887394" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-01-29/1860-01-29" type="inclusive">January 29 1860</unitdate>
+            <container id="aspace_083f25d8c46b4b758d8f25befdd93f47" label="mixed materials" type="Box">2</container>
+            <container id="aspace_e4d96db78aa4f29e500b67937db7a5d0" parent="aspace_083f25d8c46b4b758d8f25befdd93f47" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_fa993e1d73d28bc51c3d8f57e1e861ac" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-02-05/1860-02-05" type="inclusive">February 5 1860</unitdate>
+            <container id="aspace_f27d186ce988a5c6b4cab5e7c397f346" label="mixed materials" type="Box">2</container>
+            <container id="aspace_174d508f54b3997520298bef20efde1f" parent="aspace_f27d186ce988a5c6b4cab5e7c397f346" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_1b3979276142d5c0d264dfe82d6529dd" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-02-12/1860-02-12" type="inclusive">February 12 1860</unitdate>
+            <container id="aspace_503d4cbacf83ff8412f6a7cff9370580" label="mixed materials" type="Box">2</container>
+            <container id="aspace_7a257e867f460781ee32bf10356eaf48" parent="aspace_503d4cbacf83ff8412f6a7cff9370580" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_68053f9c4533fdd489d5285d38388020" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-03-07/1860-03-07" type="inclusive">March 7 1860</unitdate>
+            <container id="aspace_f4db81d647bd1aca376fd187311bde34" label="mixed materials" type="Box">2</container>
+            <container id="aspace_86a983f980a258175c93552a08493c45" parent="aspace_f4db81d647bd1aca376fd187311bde34" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_17f43fcb216ded8a8754a8a7ed7b028a" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-03-11/1860-03-11" type="inclusive">March 11 1860</unitdate>
+            <container id="aspace_e74fff83ef0079e7655029e8083707dc" label="mixed materials" type="Box">2</container>
+            <container id="aspace_87c821f4e7dd002ab3dcae116b46fa6f" parent="aspace_e74fff83ef0079e7655029e8083707dc" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_10c7af9741395d2ba7c0fb212c99c11e" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-03-16/1860-03-16" type="inclusive">March 16 1860</unitdate>
+            <container id="aspace_efaa8c5872bcb862b4f9837903b5654c" label="mixed materials" type="Box">2</container>
+            <container id="aspace_fb505f1301db5fe87c16cf27799c82c8" parent="aspace_efaa8c5872bcb862b4f9837903b5654c" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_aa27dfd2ac678f00a81495dfb8c999dc" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate type="inclusive">March 18 and 22 1860</unitdate>
+            <container id="aspace_7e5796a87adb5f8ccbe3cbac03ac5c32" label="mixed materials" type="Box">2</container>
+            <container id="aspace_9f075a4f8b8fd7f175e0808e925e23ae" parent="aspace_7e5796a87adb5f8ccbe3cbac03ac5c32" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_d37c514e66fe3d2426c51b582a8bfad4" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-03-25/1860-03-25" type="inclusive">March 25 1860</unitdate>
+            <container id="aspace_1fdd9d397ff2f91ff8f4d4429ffb24fa" label="mixed materials" type="Box">2</container>
+            <container id="aspace_045d7f8d1163d8e024ee9c8d04fe34b6" parent="aspace_1fdd9d397ff2f91ff8f4d4429ffb24fa" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_da787ee4103edfbeb6b0d30ff1cc8c7d" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-04-01/1860-04-01" type="inclusive">April 1 1860</unitdate>
+            <container id="aspace_fb655ba04dd4c3a5a114a3d36f1df41d" label="mixed materials" type="Box">2</container>
+            <container id="aspace_bf94f009bba9f5dc032005293cff9737" parent="aspace_fb655ba04dd4c3a5a114a3d36f1df41d" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_668d784a258000571abfdfee9cdbe4d4" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-04-06/1860-04-06" type="inclusive">April 6 1860</unitdate>
+            <container id="aspace_d609b65b7816bfc42d47b918f2f87de2" label="mixed materials" type="Box">2</container>
+            <container id="aspace_c15971ba9027b047cab65b2332b20224" parent="aspace_d609b65b7816bfc42d47b918f2f87de2" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_650122e58307d616ff9a99fee8db4b93" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-04-10/1860-04-10" type="inclusive">April 10 1860</unitdate>
+            <container id="aspace_e30f9b0871ac638a603a1f06be489346" label="mixed materials" type="Box">2</container>
+            <container id="aspace_3e24c811d348206f2b5f56bb58fbe29d" parent="aspace_e30f9b0871ac638a603a1f06be489346" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_4838dd15beff0976b2e7262eb09c774d" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-04-13/1860-04-13" type="inclusive">April 13 1860</unitdate>
+            <container id="aspace_de64b490dd6c3f239a29a47992760c33" label="mixed materials" type="Box">2</container>
+            <container id="aspace_b5286dd6c30c83a2beef1ae7ebe5dab8" parent="aspace_de64b490dd6c3f239a29a47992760c33" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_1da59a15ffdc41ee30ec357a1ef8cf3b" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-04-16/1860-04-16" type="inclusive">April 16 1860</unitdate>
+            <container id="aspace_31d480d19491f0abea850fcdf1fea31d" label="mixed materials" type="Box">2</container>
+            <container id="aspace_edca8ecd12820697d0a6b4a415d3099d" parent="aspace_31d480d19491f0abea850fcdf1fea31d" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_2b63da37c9029b71ac6f652cd4930645" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-04-17/1860-04-17" type="inclusive">April 17 1860</unitdate>
+            <container id="aspace_ef49bb624c76d2dbb7cb24346287788e" label="mixed materials" type="Box">2</container>
+            <container id="aspace_6f78a1d6d5444a15dae72e85841a21cb" parent="aspace_ef49bb624c76d2dbb7cb24346287788e" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_3267e3c4f3f358fe341e870a5a7ef30c" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-04-22/1860-04-22" type="inclusive">April 22 1860</unitdate>
+            <container id="aspace_cb86831a89c4bc1f874b3d12884d4be1" label="mixed materials" type="Box">2</container>
+            <container id="aspace_1913bf7cc67beac7eafe7be3f86743d2" parent="aspace_cb86831a89c4bc1f874b3d12884d4be1" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_1a8a6f6c20296f1b02ad4896ead44a8d" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-10-03/1860-10-03" type="inclusive">October 3 1860</unitdate>
+            <container id="aspace_f5ce9d82bb57b81749f95877136aa7d3" label="mixed materials" type="Box">2</container>
+            <container id="aspace_418869968b9d646478bd0b8ef63f7038" parent="aspace_f5ce9d82bb57b81749f95877136aa7d3" type="Folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_b0c8e37da6eeebfbd1681710e52a84d5" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-11-16/1860-11-16" type="inclusive">November 16 1860</unitdate>
+            <container id="aspace_caa2019fa256ddc2e74982a318070b38" label="mixed materials" type="Box">2</container>
+            <container id="aspace_0be20b170cc8ed4f95f2118b302f97bd" parent="aspace_caa2019fa256ddc2e74982a318070b38" type="Folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_03f77b6a0c2f35802f35ea2ad9d33d88" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-11-21/1860-11-21" type="inclusive">November 21 1860</unitdate>
+            <container id="aspace_30df74ea93002df6bc542a1d27510d26" label="mixed materials" type="Box">2</container>
+            <container id="aspace_d4089e87a8c3694a92c5e4562ec99a6a" parent="aspace_30df74ea93002df6bc542a1d27510d26" type="Folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_a0e25aa7b55958d3ed0a63087425c128" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-11-25/1860-11-25" type="inclusive">November 25 1860</unitdate>
+            <container id="aspace_b5ed6269733cbfd4633f484df355b746" label="mixed materials" type="Box">2</container>
+            <container id="aspace_17bdbbb54728dab40d2df60d545470af" parent="aspace_b5ed6269733cbfd4633f484df355b746" type="Folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_df6e08405d5bc5dcf5850dc6690149d6" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-12-01/1860-12-01" type="inclusive">December 1 1860</unitdate>
+            <container id="aspace_c992cd100cf0d630c188a306c44456ce" label="mixed materials" type="Box">2</container>
+            <container id="aspace_4f67e8428b5ca91488ea03bd2e614f30" parent="aspace_c992cd100cf0d630c188a306c44456ce" type="Folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_a68cc4f78c764ab72bfcd3a95892969e" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-12-06/1860-12-06" type="inclusive">December 6 1860</unitdate>
+            <container id="aspace_6bb555efce88e5d7519ec3d6b90f15bb" label="mixed materials" type="Box">2</container>
+            <container id="aspace_bdb8984d543f51540ede7a3c6fe78800" parent="aspace_6bb555efce88e5d7519ec3d6b90f15bb" type="Folder">62</container>
+          </did>
+        </c>
+        <c id="aspace_f923c92578981d353ccc42a9aa79985f" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-12-09/1860-12-09" type="inclusive">December 9 1860</unitdate>
+            <container id="aspace_05f0185cdbf2686846aad52aa6804710" label="mixed materials" type="Box">2</container>
+            <container id="aspace_b0f06388e8432553d5cc82c49ff2b38b" parent="aspace_05f0185cdbf2686846aad52aa6804710" type="Folder">63</container>
+          </did>
+        </c>
+        <c id="aspace_526842a44a9888163d8eb64735631d37" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-12-16/1860-12-16" type="inclusive">December 16 1860</unitdate>
+            <container id="aspace_652a89e1e945bdb5c0cc5e266c61d160" label="mixed materials" type="Box">2</container>
+            <container id="aspace_60c7f5edd7ce6611da9adcee95d92995" parent="aspace_652a89e1e945bdb5c0cc5e266c61d160" type="Folder">64</container>
+          </did>
+        </c>
+        <c id="aspace_9dc9591b6db8ada89402b191995e58e7" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1860-12-16/1860-12-16" type="inclusive">December 16 1860</unitdate>
+            <container id="aspace_2d38645c3a894ff4efe5755a6ddd9725" label="mixed materials" type="Box">2</container>
+            <container id="aspace_3a250f57511ef0cd89353f938cbffe49" parent="aspace_2d38645c3a894ff4efe5755a6ddd9725" type="Folder">65</container>
+          </did>
+        </c>
+        <c id="aspace_cd8f720057f2d0008078bd8af56113e8" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-09-12/1861-09-12" type="inclusive">September 12 1861</unitdate>
+            <container id="aspace_7f69c6db20ea51b882ae1b380b2a4b96" label="mixed materials" type="Box">2</container>
+            <container id="aspace_165080b1e13bd055cc4267f6f4bc6029" parent="aspace_7f69c6db20ea51b882ae1b380b2a4b96" type="Folder">66</container>
+          </did>
+        </c>
+        <c id="aspace_dd8cc3c34ec9df408468288a976bf223" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-09-14/1861-09-14" type="inclusive">September 14 1861</unitdate>
+            <container id="aspace_4acb2cf071505a4004408e3d59b66c9d" label="mixed materials" type="Box">2</container>
+            <container id="aspace_32949770edd0d3e7a481b4ef4558ba01" parent="aspace_4acb2cf071505a4004408e3d59b66c9d" type="Folder">67</container>
+          </did>
+        </c>
+        <c id="aspace_a2926172da696044827b7f566fc54c60" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-09-16/1861-09-16" type="inclusive">September 16 1861</unitdate>
+            <container id="aspace_bc00c595f22984b9dbe477364bedb8ba" label="mixed materials" type="Box">2</container>
+            <container id="aspace_2952b32f7b9afc70f376d92e94c253f2" parent="aspace_bc00c595f22984b9dbe477364bedb8ba" type="Folder">68</container>
+          </did>
+        </c>
+        <c id="aspace_9f6d34d4d6aeba1f51c21d11cfee0d04" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-09-19/1861-09-19" type="inclusive">September 19 1861</unitdate>
+            <container id="aspace_281c27fafd2c6fc24f05a8f273444bbf" label="mixed materials" type="Box">2</container>
+            <container id="aspace_b8f9822da37496c135e739c1cb19080b" parent="aspace_281c27fafd2c6fc24f05a8f273444bbf" type="Folder">69</container>
+          </did>
+        </c>
+        <c id="aspace_2e392fb21b40c6c9994336468c28a1b6" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-09-21/1861-09-21" type="inclusive">September 21 1861</unitdate>
+            <container id="aspace_8e837008f0e4713dc2898e9b7385e831" label="mixed materials" type="Box">2</container>
+            <container id="aspace_1fab8dc2152a8ee1ab1bf5c5c9f21b22" parent="aspace_8e837008f0e4713dc2898e9b7385e831" type="Folder">70</container>
+          </did>
+        </c>
+        <c id="aspace_45e366c6f39747fface750f7718ef01d" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-09-25/1861-09-25" type="inclusive">September 25 1861</unitdate>
+            <container id="aspace_fb097829b4e2bd9e4eca5273967f6ae1" label="mixed materials" type="Box">2</container>
+            <container id="aspace_d01fc1e220111fb3c9db42b86dc41ce7" parent="aspace_fb097829b4e2bd9e4eca5273967f6ae1" type="Folder">71</container>
+          </did>
+        </c>
+        <c id="aspace_f854ae5a4fe53a161beacd8afe7ad525" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-09-27/1861-09-27" type="inclusive">September 27 1861</unitdate>
+            <container id="aspace_fbb06ffa29e5887da9a6e21721495a95" label="mixed materials" type="Box">2</container>
+            <container id="aspace_dc7b1acf253b50df35fd2174b541fa20" parent="aspace_fbb06ffa29e5887da9a6e21721495a95" type="Folder">72</container>
+          </did>
+        </c>
+        <c id="aspace_cd0ad2cc708617ae56679741277e8c6f" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-10-01/1861-10-01" type="inclusive">October 1 1861</unitdate>
+            <container id="aspace_37533fdaf1ef6b6d23407a0197016ba0" label="mixed materials" type="Box">2</container>
+            <container id="aspace_bcda8be9aee802bc26d6347449a7f376" parent="aspace_37533fdaf1ef6b6d23407a0197016ba0" type="Folder">73</container>
+          </did>
+        </c>
+        <c id="aspace_014b142db5ed2099fd00875e9c913aa7" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-10-06/1861-10-06" type="inclusive">October 6 1861</unitdate>
+            <container id="aspace_4cf6413439c5e339f27ea092fa5a1813" label="mixed materials" type="Box">2</container>
+            <container id="aspace_cc9bf73be05c49538b84963456cbe86c" parent="aspace_4cf6413439c5e339f27ea092fa5a1813" type="Folder">74</container>
+          </did>
+        </c>
+        <c id="aspace_b91df739fe31dac330687365dc49a46e" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-10-09/1861-10-09" type="inclusive">October 9 1861</unitdate>
+            <container id="aspace_2915f32f440fa95a0ae62c4f76d6ce36" label="mixed materials" type="Box">2</container>
+            <container id="aspace_b2273bce8bbe17b45e6af6cdf7f15c16" parent="aspace_2915f32f440fa95a0ae62c4f76d6ce36" type="Folder">75</container>
+          </did>
+        </c>
+        <c id="aspace_719f597f700313e0909a742f0401d86f" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-10-12/1861-10-12" type="inclusive">October 12 1861</unitdate>
+            <container id="aspace_751c8bbd4519d10e0c820f43e739babc" label="mixed materials" type="Box">2</container>
+            <container id="aspace_7c25fd685bc7c83573a166fb224d752f" parent="aspace_751c8bbd4519d10e0c820f43e739babc" type="Folder">76</container>
+          </did>
+        </c>
+        <c id="aspace_f3022bdb3120a9604db65c1b294bd9e9" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-10-18/1861-10-18" type="inclusive">October 18 1861</unitdate>
+            <container id="aspace_3a51e9e15aaa1d0284cbc274e7ec5f5f" label="mixed materials" type="Box">2</container>
+            <container id="aspace_77fe3ff6edf6c9dd2648c211fc1a8fc6" parent="aspace_3a51e9e15aaa1d0284cbc274e7ec5f5f" type="Folder">77</container>
+          </did>
+        </c>
+        <c id="aspace_0f89f5a99c0be21ce037cab297313695" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-10-20/1861-10-20" type="inclusive">October 20 1861</unitdate>
+            <container id="aspace_9cf56f2cfbe3b98054cac9df8ded37ec" label="mixed materials" type="Box">2</container>
+            <container id="aspace_5c7e191f4619dd909c7a93475f9cd0c9" parent="aspace_9cf56f2cfbe3b98054cac9df8ded37ec" type="Folder">78</container>
+          </did>
+        </c>
+        <c id="aspace_3b285f162ce4b099c7084a063c400fdb" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-10-27/1861-10-27" type="inclusive">October 27 1861</unitdate>
+            <container id="aspace_1cabd8a9f585eb4fa55f54d23bc24e39" label="mixed materials" type="Box">2</container>
+            <container id="aspace_65bd533788fe1d53642a84fa01e11c99" parent="aspace_1cabd8a9f585eb4fa55f54d23bc24e39" type="Folder">79</container>
+          </did>
+        </c>
+        <c id="aspace_e028eadd89d1c31adb31e962def3f220" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-10-29/1861-10-29" type="inclusive">October 29 1861</unitdate>
+            <container id="aspace_c0b1b162b558f5aad729a56466dfdd2e" label="mixed materials" type="Box">2</container>
+            <container id="aspace_faf30f9f22f437402e23c0b87d281db3" parent="aspace_c0b1b162b558f5aad729a56466dfdd2e" type="Folder">80</container>
+          </did>
+        </c>
+        <c id="aspace_ae4de50ae1b4babb83635134b7c5e48e" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-11-03/1861-11-03" type="inclusive">November 3 1861</unitdate>
+            <container id="aspace_7f0f3ead989ac29140ece58d7c8419fd" label="mixed materials" type="Box">2</container>
+            <container id="aspace_7b2980b3b143fc8773f1ff09c07b8cdf" parent="aspace_7f0f3ead989ac29140ece58d7c8419fd" type="Folder">81</container>
+          </did>
+        </c>
+        <c id="aspace_35e5a5b2a9248974c8d04982b87554dc" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-11-11/1861-11-11" type="inclusive">November 11 1861</unitdate>
+            <container id="aspace_b5db68082692f9384906c0b941e3d477" label="mixed materials" type="Box">2</container>
+            <container id="aspace_fedc4a11bb9017ec4ec768b61ca58bff" parent="aspace_b5db68082692f9384906c0b941e3d477" type="Folder">82</container>
+          </did>
+        </c>
+        <c id="aspace_690b03b332279b691a643012583fa199" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-11-21/1861-11-21" type="inclusive">November 21 1861</unitdate>
+            <container id="aspace_8ab39b2be1b761a3fec2cfd26c692ed8" label="mixed materials" type="Box">2</container>
+            <container id="aspace_c41499cecaed17effa133a1a87376717" parent="aspace_8ab39b2be1b761a3fec2cfd26c692ed8" type="Folder">83</container>
+          </did>
+        </c>
+        <c id="aspace_3eab674ad9943126d7546e140e276b22" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-11-26/1861-11-26" type="inclusive">November 26 1861</unitdate>
+            <container id="aspace_106873ae2e2564901525ff3432ebcb84" label="mixed materials" type="Box">2</container>
+            <container id="aspace_77742bcea68a595965f95a634007cd86" parent="aspace_106873ae2e2564901525ff3432ebcb84" type="Folder">84</container>
+          </did>
+        </c>
+        <c id="aspace_a2f9281c042b97a5e4e3c3e2df225694" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-11-30/1861-11-30" type="inclusive">November 30 1861</unitdate>
+            <container id="aspace_3c27905c7de278e1b9fdc493b218e2d1" label="mixed materials" type="Box">2</container>
+            <container id="aspace_0c97501dc76523de84d78cbcd69ffece" parent="aspace_3c27905c7de278e1b9fdc493b218e2d1" type="Folder">85</container>
+          </did>
+        </c>
+        <c id="aspace_bea30845f89b424154b65a60a78ea60f" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-12-02/1861-12-02" type="inclusive">December 2 1861</unitdate>
+            <container id="aspace_0baefb78be28cc0fd3f68a6833f032b7" label="mixed materials" type="Box">2</container>
+            <container id="aspace_f00d1fefd5e4e2bf399b24ee38a77cf7" parent="aspace_0baefb78be28cc0fd3f68a6833f032b7" type="Folder">86</container>
+          </did>
+        </c>
+        <c id="aspace_37a0a299115e40efa63604a887ad5c6b" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-12-09/1861-12-09" type="inclusive">December 9 1861</unitdate>
+            <container id="aspace_b928157e4724706123af3c9a61f8c96f" label="mixed materials" type="Box">2</container>
+            <container id="aspace_18a75f7c1cc45ef8f1dfc3578cc5a294" parent="aspace_b928157e4724706123af3c9a61f8c96f" type="Folder">87</container>
+          </did>
+        </c>
+        <c id="aspace_ba79d8fdfcfeaad9b3f9f55b87636737" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-12-19/1861-12-19" type="inclusive">December 19 1861</unitdate>
+            <container id="aspace_91da2c0639e0a98a0f909a79dc5433be" label="mixed materials" type="Box">2</container>
+            <container id="aspace_d153c4fed0e3cc49a35198a42c0f2872" parent="aspace_91da2c0639e0a98a0f909a79dc5433be" type="Folder">88</container>
+          </did>
+        </c>
+        <c id="aspace_ed90cc670a98ca97d828c7f67ba07a74" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1861-12-22/1861-12-22" type="inclusive">December 22 1861</unitdate>
+            <container id="aspace_f56419f8eed7427013161632b83b730b" label="mixed materials" type="Box">2</container>
+            <container id="aspace_fe84e3a9700ec400cdb9cb2ab502acde" parent="aspace_f56419f8eed7427013161632b83b730b" type="Folder">89</container>
+          </did>
+        </c>
+        <c id="aspace_03abf8dccae7479cb685f891331a74b6" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-01-11/1862-01-11" type="inclusive">January 11 1862</unitdate>
+            <container id="aspace_8a4efa0c2fd88656e8bd80cda46aad1b" label="mixed materials" type="Box">3</container>
+            <container id="aspace_2ce9576da2c623f55221e03d01eb6d9b" parent="aspace_8a4efa0c2fd88656e8bd80cda46aad1b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_d95a8f4b189efa5483de179d94224e48" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-01-18/1862-01-18" type="inclusive">January 18 1862</unitdate>
+            <container id="aspace_5ee1d9f6686e11ccdc874001e99962bd" label="mixed materials" type="Box">3</container>
+            <container id="aspace_be0bee6c75c807e43dd285d247e6ac6a" parent="aspace_5ee1d9f6686e11ccdc874001e99962bd" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_cbfc326091c4b533d79d5c72c7533dda" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-01-22/1862-01-22" type="inclusive">January 22 1862</unitdate>
+            <container id="aspace_21fe3326df69d5b3d0e4cbc0e974b89c" label="mixed materials" type="Box">3</container>
+            <container id="aspace_09ee01717db240db2e55ca42f51b0988" parent="aspace_21fe3326df69d5b3d0e4cbc0e974b89c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_7a3e113c381f800c533e7ae7173d51c8" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-01-23/1862-01-23" type="inclusive">January 23 1862</unitdate>
+            <container id="aspace_0925307868d43958d598ebc2bc0a1e05" label="mixed materials" type="Box">3</container>
+            <container id="aspace_077667488d541540be3aed11e24440b0" parent="aspace_0925307868d43958d598ebc2bc0a1e05" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_01ed639d11910a4530205fdbe367f53c" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-01-30/1862-01-30" type="inclusive">January 30 1862</unitdate>
+            <container id="aspace_920eff876385e9ab4ffd0efc229d39b4" label="mixed materials" type="Box">3</container>
+            <container id="aspace_49227c0f0f8cfd9b2bdb8a8322510962" parent="aspace_920eff876385e9ab4ffd0efc229d39b4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_1e50fdf9bc56fdfebb899c7c8905f392" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-02-05/1862-02-05" type="inclusive">February 5 1862</unitdate>
+            <container id="aspace_dabe7674aa1060f6c8d633469e1357e5" label="mixed materials" type="Box">3</container>
+            <container id="aspace_fe09afb1a11a64149efc20f6c71e2395" parent="aspace_dabe7674aa1060f6c8d633469e1357e5" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_e0898f2998f9fadba941a45f181a797b" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-02-08/1862-02-08" type="inclusive">February 8 1862</unitdate>
+            <container id="aspace_88ebac000dc239ea5168342aa90cd96c" label="mixed materials" type="Box">3</container>
+            <container id="aspace_9ebb13b75119ce80b32836faed4f03cc" parent="aspace_88ebac000dc239ea5168342aa90cd96c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_cf0114e3b0a4a30e3ec087bad47d2b93" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-02-09/1862-02-09" type="inclusive">February 9 1862</unitdate>
+            <container id="aspace_564b3a7292c8773a2b06c4886b83f6b9" label="mixed materials" type="Box">3</container>
+            <container id="aspace_7dcebbe324455174600497b95e1135dd" parent="aspace_564b3a7292c8773a2b06c4886b83f6b9" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_294bb5fcae0ee2dc334cdc86adfd3a61" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-02-19/1862-02-19" type="inclusive">February 19 1862</unitdate>
+            <container id="aspace_3f7902cdb48b3d9de26101459eb5a5b5" label="mixed materials" type="Box">3</container>
+            <container id="aspace_178ef5e3749d32db9fac06480dd6686d" parent="aspace_3f7902cdb48b3d9de26101459eb5a5b5" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_4768fbdc4a0cb14da28c0718b9b625a6" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-02-23/1862-02-23" type="inclusive">February 23 1862</unitdate>
+            <container id="aspace_127cf0afc393df3c01d31c6e4fe57ebe" label="mixed materials" type="Box">3</container>
+            <container id="aspace_3834abcd6b6abe7916f2d7b77b646c0e" parent="aspace_127cf0afc393df3c01d31c6e4fe57ebe" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_7c9e2ab8523008c86b73eb6162f23b61" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-02-24/1862-02-24" type="inclusive">February 24 1862</unitdate>
+            <container id="aspace_7c367c34106f7bb6770b4e8d2524e611" label="mixed materials" type="Box">3</container>
+            <container id="aspace_ac0a51b9a22129ffe16dcbac43926063" parent="aspace_7c367c34106f7bb6770b4e8d2524e611" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_3d98ed9a82e8730cd90c9a938155bbf5" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-02-26/1862-02-26" type="inclusive">February 26 1862</unitdate>
+            <container id="aspace_424fc12836372f3ba5b9490e6ab143f9" label="mixed materials" type="Box">3</container>
+            <container id="aspace_88d4c4c25272cd8bf2265201a3a10234" parent="aspace_424fc12836372f3ba5b9490e6ab143f9" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_fc55e6e44a4a52b5b4acdf34cca2fc75" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-03-11/1862-03-11" type="inclusive">March 11 1862</unitdate>
+            <container id="aspace_5998d2ea05e1dbbf72c9166d81b90a60" label="mixed materials" type="Box">3</container>
+            <container id="aspace_2bedd9a9051d95cb46ee52c4c3b5bd90" parent="aspace_5998d2ea05e1dbbf72c9166d81b90a60" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_3c6e20bbb6a829808f501ddb6168bb9d" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-03-14/1862-03-14" type="inclusive">March 14 1862</unitdate>
+            <container id="aspace_40b66c86f437c88e79b11ee96bdd56dd" label="mixed materials" type="Box">3</container>
+            <container id="aspace_9b2305eea05ff42b40ee4bd157994a6b" parent="aspace_40b66c86f437c88e79b11ee96bdd56dd" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_499c3ea8c8f9de889138379aaf725817" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-03-29/1862-03-29" type="inclusive">March 29 1862</unitdate>
+            <container id="aspace_1faac62737f3d5993bcd3bf5fa64cb57" label="mixed materials" type="Box">3</container>
+            <container id="aspace_b1b23d1821aa2231b04a0b388c7c103d" parent="aspace_1faac62737f3d5993bcd3bf5fa64cb57" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_dd28e6d0ff1b9d4845a19c97a56a8577" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-04-06/1862-04-06" type="inclusive">April 6 1862</unitdate>
+            <container id="aspace_8a94acae90aacb63f77a2374acc8a0ec" label="mixed materials" type="Box">3</container>
+            <container id="aspace_17fd071eceb993121fab910486f9edf4" parent="aspace_8a94acae90aacb63f77a2374acc8a0ec" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_eea66fd17d35a3cf5ecc2721538661ad" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-05-02/1862-05-02" type="inclusive">May 2 1862</unitdate>
+            <container id="aspace_b5fd318189ef9bece64c5762c01ccb2d" label="mixed materials" type="Box">3</container>
+            <container id="aspace_6f6ee25a2fb8ecc560a2696b43d10ef6" parent="aspace_b5fd318189ef9bece64c5762c01ccb2d" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_78790452ed606fb430d1f464bd2a14d6" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-05-10/1862-05-10" type="inclusive">May 10 1862</unitdate>
+            <container id="aspace_c75c664ded24e7085ff8be9098952239" label="mixed materials" type="Box">3</container>
+            <container id="aspace_0cab56394cdaa5fbfbe3b38c3fd84466" parent="aspace_c75c664ded24e7085ff8be9098952239" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_c02573ed78bd1282991b8236a0960941" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-05-18/1862-05-18" type="inclusive">May 18 1862</unitdate>
+            <container id="aspace_fb852431ce5e84c03d1a05e179b5650c" label="mixed materials" type="Box">3</container>
+            <container id="aspace_ba90515b64e5bdfac11bcc6d3f767aa8" parent="aspace_fb852431ce5e84c03d1a05e179b5650c" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_b6644e1f7df589544a600b103800f07c" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-05-25/1862-05-25" type="inclusive">May 25 1862</unitdate>
+            <container id="aspace_091ca59c55bf25dcd530c804de7e4927" label="mixed materials" type="Box">3</container>
+            <container id="aspace_548117354bd24be16830d07f0642f63c" parent="aspace_091ca59c55bf25dcd530c804de7e4927" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_1c5eee9c2e8c0dd9b68b95d4b8af48c0" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-06-07/1862-06-07" type="inclusive">June 7 1862</unitdate>
+            <container id="aspace_a0478e1f0558a07ffbbdc1a8489650ae" label="mixed materials" type="Box">3</container>
+            <container id="aspace_aebf84344a80de8fa10112bb5df55f51" parent="aspace_a0478e1f0558a07ffbbdc1a8489650ae" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_88c21decdbfaded1368ab7fbb2aa9b43" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-06-15/1862-06-15" type="inclusive">June 15 1862</unitdate>
+            <container id="aspace_691ebb0e9db428f0f0abd9c3b3809785" label="mixed materials" type="Box">3</container>
+            <container id="aspace_e0c2b4f006ad96d39882730c49c28795" parent="aspace_691ebb0e9db428f0f0abd9c3b3809785" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_094e63f894417dfdcf458fbfdbc161ac" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-07-07/1862-07-07" type="inclusive">July 7 1862</unitdate>
+            <container id="aspace_682c4aa63efd5b3b1c656f0c201fccfc" label="mixed materials" type="Box">3</container>
+            <container id="aspace_d161cc5e2f6d7a6253c5fd7009c40607" parent="aspace_682c4aa63efd5b3b1c656f0c201fccfc" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_c768718577abe774bb39c9a188346bae" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-07-13/1862-07-13" type="inclusive">July 13 1862</unitdate>
+            <container id="aspace_ad3b2cf04399e2a24ba5656cae66e3f4" label="mixed materials" type="Box">3</container>
+            <container id="aspace_e67e6036434335314576ea938643e7e2" parent="aspace_ad3b2cf04399e2a24ba5656cae66e3f4" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_1ed71ac0ab28a666de17e8ffb717f8ce" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-08-11/1862-08-11" type="inclusive">August 11 1862</unitdate>
+            <container id="aspace_30a2a1c2d74b9335a43c769cd1b61cbf" label="mixed materials" type="Box">3</container>
+            <container id="aspace_0a04358f6c28d175ac43162f84802141" parent="aspace_30a2a1c2d74b9335a43c769cd1b61cbf" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_b423daf9a3f6ae1e98e45b97fbb0a7c8" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-08-14/1862-08-14" type="inclusive">August 14 1862</unitdate>
+            <container id="aspace_130bdc994725644115a45795f73fbb5f" label="mixed materials" type="Box">3</container>
+            <container id="aspace_7c534ffa04cbc52bdff9c8b625c95058" parent="aspace_130bdc994725644115a45795f73fbb5f" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_fdb517e9fde837db741b3170be3430e1" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-08-17/1862-08-17" type="inclusive">August 17 1862</unitdate>
+            <container id="aspace_4d429e6596a7d5da33ca354889295e60" label="mixed materials" type="Box">3</container>
+            <container id="aspace_8415d4ce1f093c60d0888de8cb47b28b" parent="aspace_4d429e6596a7d5da33ca354889295e60" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_2f588b9e7481eadaff3866afcc66ab42" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-08-24/1862-08-24" type="inclusive">August 24 1862</unitdate>
+            <container id="aspace_075ecee13600027a9c75d892d0325830" label="mixed materials" type="Box">3</container>
+            <container id="aspace_34c1204e3dca74e091c77367cec7b6ec" parent="aspace_075ecee13600027a9c75d892d0325830" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_a66c78ce2f463bc35cb43bf8afff6c73" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-08-28/1862-08-28" type="inclusive">August 28 1862</unitdate>
+            <container id="aspace_1945fca716a6267a2150ce95ee06c8a3" label="mixed materials" type="Box">3</container>
+            <container id="aspace_2271702eb754d2ebcfed38478e398406" parent="aspace_1945fca716a6267a2150ce95ee06c8a3" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_88a30bf335acc85ee554e92036513208" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-08-31/1862-08-31" type="inclusive">August 31 1862</unitdate>
+            <container id="aspace_31114d9073b80d71f1a8510f6e7d8016" label="mixed materials" type="Box">3</container>
+            <container id="aspace_dbf10d26f8a934fd055748c2c5e1d5eb" parent="aspace_31114d9073b80d71f1a8510f6e7d8016" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_8d74547f3d8d15855548171a03ac5299" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-09-03/1862-09-03" type="inclusive">September 3 1862</unitdate>
+            <container id="aspace_ad24f061ee34b2290b9a8d21e28a72b2" label="mixed materials" type="Box">3</container>
+            <container id="aspace_9cd1ef2aa83aac139d0421acbedfca8f" parent="aspace_ad24f061ee34b2290b9a8d21e28a72b2" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_baaa8858e48b12a97fe681060a5ac8a9" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-09-05/1862-09-05" type="inclusive">September 5 1862</unitdate>
+            <container id="aspace_071c4bc8c78470393518c08bfdf1df58" label="mixed materials" type="Box">3</container>
+            <container id="aspace_3ac2da935dde11dced5245c9b9186a64" parent="aspace_071c4bc8c78470393518c08bfdf1df58" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_de869639e4fcaee37cf671878c5dace0" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-09-10/1862-09-10" type="inclusive">September 10 1862</unitdate>
+            <container id="aspace_689baa1455853957e027b701c924a00c" label="mixed materials" type="Box">3</container>
+            <container id="aspace_ef618aa6682e5dde25c655e882521b2d" parent="aspace_689baa1455853957e027b701c924a00c" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_51c070b3a823f9ab889efb92ee31f87b" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-09-15/1862-09-15" type="inclusive">September 15 1862</unitdate>
+            <container id="aspace_6443449d843e1b7251084813b97839ff" label="mixed materials" type="Box">3</container>
+            <container id="aspace_5d11a7b43b5625bafcbf6953ee09cf31" parent="aspace_6443449d843e1b7251084813b97839ff" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_367238613815a941862b0e76a2b52e88" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-09-18/1862-09-18" type="inclusive">September 18 1862</unitdate>
+            <container id="aspace_a3e0ab33168e7bcb46c1a2206fac12b4" label="mixed materials" type="Box">3</container>
+            <container id="aspace_7a967f0b984067c68b86fdb0cc510c2b" parent="aspace_a3e0ab33168e7bcb46c1a2206fac12b4" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_7e1389c0ecd7968db77a54c4230c24ff" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-09-24/1862-09-24" type="inclusive">September 24 1862</unitdate>
+            <container id="aspace_b721c19557b3de200bc69d1596487e08" label="mixed materials" type="Box">3</container>
+            <container id="aspace_4fba6ffbc1f03683f8053abef3892f01" parent="aspace_b721c19557b3de200bc69d1596487e08" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_287a26acf26bde87df76272c41501938" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-09-27/1862-09-27" type="inclusive">September 27 1862</unitdate>
+            <container id="aspace_4184c0176e2b41d146508e898259bb33" label="mixed materials" type="Box">3</container>
+            <container id="aspace_7b6f51eeb33bd409f051b743bdda2d97" parent="aspace_4184c0176e2b41d146508e898259bb33" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ef832c8469455bceff698db2b03a1185" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-10-02/1862-10-02" type="inclusive">October 2 1862</unitdate>
+            <container id="aspace_fa310a5af2d283ac833e2aeb28af3143" label="mixed materials" type="Box">3</container>
+            <container id="aspace_2c4e3154de815eca7e22c0889cb3b16b" parent="aspace_fa310a5af2d283ac833e2aeb28af3143" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_dac9a5416c26f97a59de7af90e6c2745" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1862-10-07/1862-10-07" type="inclusive">October 7 1862</unitdate>
+            <container id="aspace_479c9fd442c3bb9226fb746a8a0b0aff" label="mixed materials" type="Box">3</container>
+            <container id="aspace_a21a64b968e4f702f23c474de5aeb74d" parent="aspace_479c9fd442c3bb9226fb746a8a0b0aff" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_6199e33c88ed1e138ad8d90d3c2d2a00" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1864-09-01/1864-09-01" type="inclusive">September 1 1864</unitdate>
+            <container id="aspace_8bdc10f7a8ac5a71e56d8fa72ab35ae3" label="mixed materials" type="Box">3</container>
+            <container id="aspace_b42741f9eebcdd414f4df154dbb90efa" parent="aspace_8bdc10f7a8ac5a71e56d8fa72ab35ae3" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_77dc665fd9d10df44fe1c41086d6c65f" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1865-01-20/1865-01-20" type="inclusive">January 20 1865</unitdate>
+            <container id="aspace_8606c8d4effe4a9656109681e08deb43" label="mixed materials" type="Box">3</container>
+            <container id="aspace_e08ee6871901e6d251f755f68b2632bc" parent="aspace_8606c8d4effe4a9656109681e08deb43" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_d4146b6ab792b3b7099e59414540effe" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1866-06-13/1866-06-13" type="inclusive">June 13 1866</unitdate>
+            <container id="aspace_16f7d9ced0187f2427ec414730b2542c" label="mixed materials" type="Box">3</container>
+            <container id="aspace_fc0f018a7bcbd769ae6d41e977a1c53a" parent="aspace_16f7d9ced0187f2427ec414730b2542c" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_1bae44efb6cc83b46e815250a2974250" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1866-06-21/1866-06-21" type="inclusive">June 21 1866</unitdate>
+            <container id="aspace_230fba41b69a9a9fbcfee6359a659c6d" label="mixed materials" type="Box">3</container>
+            <container id="aspace_9180724e989ad8dd78981a52bb9cb9dd" parent="aspace_230fba41b69a9a9fbcfee6359a659c6d" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_1852033d4b5a7afc2ebd70f826955600" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1866-07-02/1866-07-02" type="inclusive">July 2 1866</unitdate>
+            <container id="aspace_f42e04faa60806b6498e01c1b74f4892" label="mixed materials" type="Box">3</container>
+            <container id="aspace_91c61a13c75e4a417d06d9f80d20a061" parent="aspace_f42e04faa60806b6498e01c1b74f4892" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_d5ae841ddf7126349b3e76995928765b" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1866-07-08/1866-07-08" type="inclusive">July 8 1866</unitdate>
+            <container id="aspace_b56850475fa18a75d8846717e049379d" label="mixed materials" type="Box">3</container>
+            <container id="aspace_61554a6317ecc71037da4a868bd7290c" parent="aspace_b56850475fa18a75d8846717e049379d" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_e777a528a6f429bb24ffc9f04b884bf0" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1866-07-23/1866-07-23" type="inclusive">July 23 1866</unitdate>
+            <container id="aspace_ee7eaaa8f6986d46d399aba7a5987933" label="mixed materials" type="Box">3</container>
+            <container id="aspace_d1bce84ef89b4ae79d72ee4b550adb24" parent="aspace_ee7eaaa8f6986d46d399aba7a5987933" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_09e1d10cdc40a1a26b46e48e77166c0d" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1866-08-02/1866-08-02" type="inclusive">August 2 1866</unitdate>
+            <container id="aspace_ebe6d8b183c8a0cc483926f73f96d92f" label="mixed materials" type="Box">3</container>
+            <container id="aspace_09adb92ec8bc6a8aa07ecbf25bffc094" parent="aspace_ebe6d8b183c8a0cc483926f73f96d92f" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_c078af71fd1ef476aaa283cbfea17032" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1866-09-06/1866-09-06" type="inclusive">September 6 1866</unitdate>
+            <container id="aspace_94fd2ea9483a74eb76edde5fb611c4c3" label="mixed materials" type="Box">3</container>
+            <container id="aspace_511f8cf021f74707e404a69857ea7e5a" parent="aspace_94fd2ea9483a74eb76edde5fb611c4c3" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ac39d52644e1da046cdb304c8167757d" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1866-09-21/1866-09-21" type="inclusive">September 21 1866</unitdate>
+            <container id="aspace_e38c7aa1ae68643b7637c8fd263a060d" label="mixed materials" type="Box">3</container>
+            <container id="aspace_438cea9f9730380730fafb13ed30b71a" parent="aspace_e38c7aa1ae68643b7637c8fd263a060d" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_eab15e842f8f13fddbb2786a09641385" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1866-10-02/1866-10-02" type="inclusive">October 2 1866</unitdate>
+            <container id="aspace_343978b59e25d9f586f557e917dcb6ac" label="mixed materials" type="Box">3</container>
+            <container id="aspace_766f8c70c93074923230a9db24829256" parent="aspace_343978b59e25d9f586f557e917dcb6ac" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_462571d0f038a43ccc6ae1ee642899c8" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1866-10-08/1866-10-08" type="inclusive">October 8 1866</unitdate>
+            <container id="aspace_9b7ff4246e69f282190eabd97b877ea4" label="mixed materials" type="Box">3</container>
+            <container id="aspace_d28b3d03a04a9626776986b1b90ba3a9" parent="aspace_9b7ff4246e69f282190eabd97b877ea4" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_01aa24f535493c7b3055396f5a41e2a0" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1866-10-24/1866-10-24" type="inclusive">October 24 1866</unitdate>
+            <container id="aspace_edb9f778f1f9a0e97388bf4097840315" label="mixed materials" type="Box">3</container>
+            <container id="aspace_c7b1841a67eb0b05e58842b9a4a50f68" parent="aspace_edb9f778f1f9a0e97388bf4097840315" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_07401c08abf048ca5be7d115df740b24" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1885-03-12/1885-03-12" type="inclusive">March 12 1885</unitdate>
+            <container id="aspace_fadf7b05840a915bc058a18d9b919a02" label="mixed materials" type="Box">3</container>
+            <container id="aspace_427f8a4a604579e9dba60ad3f564e161" parent="aspace_fadf7b05840a915bc058a18d9b919a02" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_4498be24d88805c773dd9371ba470d26" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1885-03-14/1885-03-14" type="inclusive">March 14 1885</unitdate>
+            <container id="aspace_376e63506b5b06106d1f2009d95176eb" label="mixed materials" type="Box">3</container>
+            <container id="aspace_001c522300258905d78b1a1de08c59fa" parent="aspace_376e63506b5b06106d1f2009d95176eb" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_4d4d046f8961a46ef6038a5a39e6df1d" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate normal="1885-07-07/1885-07-07" type="inclusive">July 7 1885</unitdate>
+            <container id="aspace_64c4360e77db3d46932a486c7adb2f42" label="mixed materials" type="Box">3</container>
+            <container id="aspace_065ee5670eb31f9b9f47f990fd7e89e3" parent="aspace_64c4360e77db3d46932a486c7adb2f42" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_0f3bdd058e62f81b3a6d60a9d5692222" level="file">
+          <did>
+            <unittitle>Lemon to Mary Tillinghast Hine</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_021fbd579e0f2890cce53557b344ea8d" label="mixed materials" type="Box">3</container>
+            <container id="aspace_c62db44fcaac3ab23fe69a143cad000b" parent="aspace_021fbd579e0f2890cce53557b344ea8d" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_0e50a7cdcfc72ff5e045a5885645d834" level="file">
+          <did>
+            <unittitle>Alice to Mary</unittitle>
+            <unitdate normal="1885-10-25/1885-10-25" type="inclusive">October 25 1885</unitdate>
+            <container id="aspace_f6e91c131780535ac58ebbeecb386fb5" label="mixed materials" type="Box">4</container>
+            <container id="aspace_199b1982210575abc6edf61f073d4c81" parent="aspace_f6e91c131780535ac58ebbeecb386fb5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_bc89f6d9155175d8bef7577b29cbfea7" level="file">
+          <did>
+            <unittitle>Alpha to Mary</unittitle>
+            <unitdate normal="1861-03-31/1861-03-31" type="inclusive">March 31 1861</unitdate>
+            <container id="aspace_a37a4fe29823be8284851b2dfd72e85d" label="mixed materials" type="Box">4</container>
+            <container id="aspace_af1c02cbd21a4243c88ab8651c33216b" parent="aspace_a37a4fe29823be8284851b2dfd72e85d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_c73365071c34cc750a0953183623a400" level="file">
+          <did>
+            <unittitle>M. A. Bassett to Mary</unittitle>
+            <unitdate normal="1861-12-01/1861-12-01" type="inclusive">December 1 1861</unitdate>
+            <container id="aspace_2f1f7683a25cfad3f6bea13cfff79235" label="mixed materials" type="Box">4</container>
+            <container id="aspace_b68f8516c90a7be35bf4fc53b75f295b" parent="aspace_2f1f7683a25cfad3f6bea13cfff79235" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_dbaa9db28648da5849b1c5d487870b2f" level="file">
+          <did>
+            <unittitle>M. A. Bassett to Mary</unittitle>
+            <unitdate normal="1862-04-19/1862-04-19" type="inclusive">April 19 1862</unitdate>
+            <container id="aspace_9128abd6d59d3511d520accf5460fc81" label="mixed materials" type="Box">4</container>
+            <container id="aspace_d3613b6887d043711bd2a2db295eab8e" parent="aspace_9128abd6d59d3511d520accf5460fc81" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_122d41340ac106c9230e9afa1d7fdcd5" level="file">
+          <did>
+            <unittitle>M. A. Bassett to Mary</unittitle>
+            <unitdate normal="1862-09-17/1862-09-17" type="inclusive">September 17 1862</unitdate>
+            <container id="aspace_c9a58d1deed2dda802448c70f9a2b132" label="mixed materials" type="Box">4</container>
+            <container id="aspace_e95d6bb5946c20f90456a171b8db14a6" parent="aspace_c9a58d1deed2dda802448c70f9a2b132" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_19ceaf3a626929a2008fa509ad5e3dd8" level="file">
+          <did>
+            <unittitle>Julia T. Budfish to Mary</unittitle>
+            <unitdate normal="1885-06-09/1885-06-09" type="inclusive">June 9 1885</unitdate>
+            <container id="aspace_1fccdf793ecdb89017599e54a2ed5cc1" label="mixed materials" type="Box">4</container>
+            <container id="aspace_8b10d06e5056dd0dc5dc130e8d686948" parent="aspace_1fccdf793ecdb89017599e54a2ed5cc1" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_6967948f4337036c135ded19c287c98c" level="file">
+          <did>
+            <unittitle>Della to Mary</unittitle>
+            <unitdate normal="1866-12-03/1866-12-03" type="inclusive">December 3 1866</unitdate>
+            <container id="aspace_5602d0b37c999a5382204d99dbd4bc19" label="mixed materials" type="Box">4</container>
+            <container id="aspace_a90674cf470340d7bff0f456be333ed3" parent="aspace_5602d0b37c999a5382204d99dbd4bc19" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_5a55dfadc35cee262eae199dd9588808" level="file">
+          <did>
+            <unittitle>Della to Mary</unittitle>
+            <unitdate normal="1885-07-08/1885-07-08" type="inclusive">July 8 1885</unitdate>
+            <container id="aspace_8aaacbe94eea16fbfc9967ad1d111f3c" label="mixed materials" type="Box">4</container>
+            <container id="aspace_96195b0fae0c5f26ef23571a700dcf3a" parent="aspace_8aaacbe94eea16fbfc9967ad1d111f3c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_e43e0df8e01358bb9eb4e70d3e2c0051" level="file">
+          <did>
+            <unittitle>Emeline to Mary</unittitle>
+            <unitdate normal="1860-06-02/1860-06-02" type="inclusive">June 2 1860</unitdate>
+            <container id="aspace_e89819ecc2cc0cd32d35dafcac936a62" label="mixed materials" type="Box">4</container>
+            <container id="aspace_2b99ab4ce90226ebe567efd6caf78af8" parent="aspace_e89819ecc2cc0cd32d35dafcac936a62" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_329acd4f086cb7f7e2ff002e964d3d56" level="file">
+          <did>
+            <unittitle>Emeline to Mary</unittitle>
+            <unitdate normal="1865-09-25/1865-09-25" type="inclusive">September 25 1865</unitdate>
+            <container id="aspace_9b5710ff99204d1b155be4d41a766a56" label="mixed materials" type="Box">4</container>
+            <container id="aspace_4a4be6e463e8ac6b17357a43ed1a692b" parent="aspace_9b5710ff99204d1b155be4d41a766a56" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_b6b1ae0edf2a4bb34abe8572dd7fc5ca" level="file">
+          <did>
+            <unittitle>Emeline to Mary</unittitle>
+            <unitdate normal="1866-01-13/1866-01-13" type="inclusive">January 13 1866</unitdate>
+            <container id="aspace_a0563ff3bd61535412c0a8bdff2c21a8" label="mixed materials" type="Box">4</container>
+            <container id="aspace_30cff90e6440ed8b9df1d1a42ae8e1e3" parent="aspace_a0563ff3bd61535412c0a8bdff2c21a8" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_c1626b5463b028c78e6fa5e06f055128" level="file">
+          <did>
+            <unittitle>Emeline to Mary</unittitle>
+            <unitdate normal="1866-12-09/1866-12-09" type="inclusive">December 9 1866</unitdate>
+            <container id="aspace_1ec6c54618d63ff18eb45c1c4f6540fc" label="mixed materials" type="Box">4</container>
+            <container id="aspace_37e580b6f8f0ee6b484fda4752c13c52" parent="aspace_1ec6c54618d63ff18eb45c1c4f6540fc" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_754291cc5c55de73b28f5b602c027689" level="file">
+          <did>
+            <unittitle>Emeline to Mary</unittitle>
+            <unitdate normal="1885-03-23/1885-03-23" type="inclusive">March 23 1885</unitdate>
+            <container id="aspace_79ea0ad75243d96b2eacc27ee662d4e1" label="mixed materials" type="Box">4</container>
+            <container id="aspace_ef2807b6dee1eff23b28d740a77378b7" parent="aspace_79ea0ad75243d96b2eacc27ee662d4e1" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_533a7879123ae01f296ef3d009a628f9" level="file">
+          <did>
+            <unittitle>Emeline to Mary</unittitle>
+            <unitdate normal="1885-04-19/1885-04-19" type="inclusive">April 19 1885</unitdate>
+            <container id="aspace_5d2347f4fb72125f6facdf454847d5bf" label="mixed materials" type="Box">4</container>
+            <container id="aspace_7b1bfff8e724fc7f4ed6e256e468d75b" parent="aspace_5d2347f4fb72125f6facdf454847d5bf" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_42370d53404b3da8efbaafa66c1c0f94" level="file">
+          <did>
+            <unittitle>Emeline to Mary</unittitle>
+            <unitdate normal="1885-05-17/1885-05-17" type="inclusive">May 17 1885</unitdate>
+            <container id="aspace_a7c5ca79e12c5a72169f8ab47ed73c70" label="mixed materials" type="Box">4</container>
+            <container id="aspace_5c47a62f921ef05e3be008956d1c15b4" parent="aspace_a7c5ca79e12c5a72169f8ab47ed73c70" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_e52a3a69ef59ddf00c637de20873364e" level="file">
+          <did>
+            <unittitle>Emeline to Mary</unittitle>
+            <unitdate normal="1885-06-14/1885-06-14" type="inclusive">June 14 1885</unitdate>
+            <container id="aspace_a1005818453369134ca1c6829feefa88" label="mixed materials" type="Box">4</container>
+            <container id="aspace_f1ad7bff194591004c685a5b773447b9" parent="aspace_a1005818453369134ca1c6829feefa88" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_11f490c7df181fb484dd5a57304d2385" level="file">
+          <did>
+            <unittitle>Emeline to Mary</unittitle>
+            <unitdate normal="1885-06-18/1885-06-18" type="inclusive">June 18 1885</unitdate>
+            <container id="aspace_57640b2caeed4d0c6b9ae64b60e3dd08" label="mixed materials" type="Box">4</container>
+            <container id="aspace_abdd865324626158be3c6103d29576c4" parent="aspace_57640b2caeed4d0c6b9ae64b60e3dd08" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_96847e404cd8d4a7a10818e8b6ba95a7" level="file">
+          <did>
+            <unittitle>Emeline to Mary</unittitle>
+            <unitdate normal="1885-07-11/1885-07-11" type="inclusive">July 11 1885</unitdate>
+            <container id="aspace_417e02917dea2e56daa553956a17491e" label="mixed materials" type="Box">4</container>
+            <container id="aspace_f055ba3fcd3cb2f9301c498d35b8be2d" parent="aspace_417e02917dea2e56daa553956a17491e" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_4e35c61bfbd263b0d76b00a7bcd39823" level="file">
+          <did>
+            <unittitle>Emeline to Mary</unittitle>
+            <unitdate normal="1885-09/1885-09" type="inclusive">September 1885</unitdate>
+            <container id="aspace_8bbcd7895d759fcce1ddf26a0cb70200" label="mixed materials" type="Box">4</container>
+            <container id="aspace_e1b4eafdc0872458ad4931538be1d87a" parent="aspace_8bbcd7895d759fcce1ddf26a0cb70200" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_c5781c4d45f7b3fb89b327dec099adf0" level="file">
+          <did>
+            <unittitle>Emeline to Mary</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c9a36be4103d01c8292535cb12b755ef" label="mixed materials" type="Box">4</container>
+            <container id="aspace_4e936c3eedf12430505107788adcfb1a" parent="aspace_c9a36be4103d01c8292535cb12b755ef" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_8d64db9aad8da83f8b0b9031f0c6c3fc" level="file">
+          <did>
+            <unittitle>Emeline to Mary</unittitle>
+            <unitdate type="inclusive">September 14; Undated</unitdate>
+            <container id="aspace_0dd51308273de1f3b60f431fea62bb9c" label="mixed materials" type="Box">4</container>
+            <container id="aspace_7e4b9c00631a2aad6f518256cc339b73" parent="aspace_0dd51308273de1f3b60f431fea62bb9c" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_eaa3a36d7255504a202432bb54f0efbe" level="file">
+          <did>
+            <unittitle>Frankie to Mary</unittitle>
+            <unitdate normal="1866-08-31/1866-08-31" type="inclusive">August 31 1866</unitdate>
+            <container id="aspace_7da0df51f8ff58d2bd0129e6b6f02fc2" label="mixed materials" type="Box">4</container>
+            <container id="aspace_f131b840181d3005d215b85072616113" parent="aspace_7da0df51f8ff58d2bd0129e6b6f02fc2" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_a97b67e1f1584584bd980ed18ba9c7d4" level="file">
+          <did>
+            <unittitle>Grandma to Mary</unittitle>
+            <unitdate normal="1866-12-13/1866-12-13" type="inclusive">December 13 1866</unitdate>
+            <container id="aspace_b82e0ef7a1824b737038cf33aec4ce50" label="mixed materials" type="Box">4</container>
+            <container id="aspace_854f28466641dd2e664d930b87279939" parent="aspace_b82e0ef7a1824b737038cf33aec4ce50" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_464dc86f887a904e1f1ae7620d29c6cb" level="file">
+          <did>
+            <unittitle>Laura to Mary</unittitle>
+            <unitdate normal="1862-04-26/1862-04-26" type="inclusive">April 26 1862</unitdate>
+            <container id="aspace_5747564d4844b4f3a3b18dd24b082d78" label="mixed materials" type="Box">4</container>
+            <container id="aspace_e32e9ceadf01a39c90103d4a728331ef" parent="aspace_5747564d4844b4f3a3b18dd24b082d78" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_cc4ffeb253e0ac832c20bf89eb2493cf" level="file">
+          <did>
+            <unittitle>Laura to Mary</unittitle>
+            <unitdate normal="1866-08-05/1866-08-05" type="inclusive">August 5 1866</unitdate>
+            <container id="aspace_add2506d927e500b6b81dcdd679bc2e7" label="mixed materials" type="Box">4</container>
+            <container id="aspace_f09f454f15a7fbdd8c62c642635ff682" parent="aspace_add2506d927e500b6b81dcdd679bc2e7" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_40a007db6d1f4be21fadfb6b916984a8" level="file">
+          <did>
+            <unittitle>Laurie to Mary</unittitle>
+            <unitdate normal="1862-07-10/1862-07-10" type="inclusive">July 10 1862</unitdate>
+            <container id="aspace_30acac7ef0237f548ac1b33fae661b47" label="mixed materials" type="Box">4</container>
+            <container id="aspace_b170e7b5331696e5131808d0a9241f83" parent="aspace_30acac7ef0237f548ac1b33fae661b47" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_1bb9fcb9479b0b25ba2c3d730750c598" level="file">
+          <did>
+            <unittitle>Linda to Mary</unittitle>
+            <unitdate type="inclusive">April 6; Undated</unitdate>
+            <container id="aspace_5459bd3999e4bcfd347274689d03fffb" label="mixed materials" type="Box">4</container>
+            <container id="aspace_a70ea91ae6f3f5eed91e849eb9d3f9af" parent="aspace_5459bd3999e4bcfd347274689d03fffb" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_7b7d0624fd396014617ea70edcc8ab46" level="file">
+          <did>
+            <unittitle>Lirrie to Mary</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e05b4769ff2c4d66de3200070c80833d" label="mixed materials" type="Box">4</container>
+            <container id="aspace_d51342b6d627af4aa9fcf4fa21eb5a4b" parent="aspace_e05b4769ff2c4d66de3200070c80833d" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_9f891157d9bf7cafc9e8a71c73f36426" level="file">
+          <did>
+            <unittitle>Lirrie to Mary</unittitle>
+            <unitdate normal="1860-07-09/1860-07-09" type="inclusive">July 9 1860</unitdate>
+            <container id="aspace_f52ee13a77a50f347dc870682b3ec2d5" label="mixed materials" type="Box">4</container>
+            <container id="aspace_4fca1b0b6ec593639027958c9ec0a106" parent="aspace_f52ee13a77a50f347dc870682b3ec2d5" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_6be542acccdd9ecd151a181d33a610a9" level="file">
+          <did>
+            <unittitle>Lirrie to Mary</unittitle>
+            <unitdate normal="1860-11-12/1860-11-12" type="inclusive">November 12 1860</unitdate>
+            <container id="aspace_bfdbf916f7fc8dc0378eb7cc5aff3aaa" label="mixed materials" type="Box">4</container>
+            <container id="aspace_4b17eed55dddcfb19422331eb1a41b7e" parent="aspace_bfdbf916f7fc8dc0378eb7cc5aff3aaa" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_beb7a7b27d8f7c4bfdcb183a8812458a" level="file">
+          <did>
+            <unittitle>Lirrie to Mary</unittitle>
+            <unitdate normal="1860-11-23/1860-11-23" type="inclusive">November 23 1860</unitdate>
+            <container id="aspace_25e2e1407fdad31851d25eac9411430c" label="mixed materials" type="Box">4</container>
+            <container id="aspace_8bbcedba3fb9c6f553af6e2c4a7f5fbe" parent="aspace_25e2e1407fdad31851d25eac9411430c" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_873b1e10ca69ae39018a22e897c13c34" level="file">
+          <did>
+            <unittitle>Lirrie to Mary</unittitle>
+            <unitdate normal="1866-03-06/1866-03-06" type="inclusive">March 6 1866</unitdate>
+            <container id="aspace_8077b1302d0266853ac735f3820c65b1" label="mixed materials" type="Box">4</container>
+            <container id="aspace_50cca23f00a03f7da77a0f865e966f38" parent="aspace_8077b1302d0266853ac735f3820c65b1" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ce533baa8f6e714d816e1ba6105aa3d1" level="file">
+          <did>
+            <unittitle>Lirrie to Mary and Oliver</unittitle>
+            <unitdate normal="1866-05-15/1866-05-15" type="inclusive">May 15 1866</unitdate>
+            <container id="aspace_99c0d7ad64a7add5f087da916f3e453a" label="mixed materials" type="Box">4</container>
+            <container id="aspace_5b6b39e31d2fe9c8117cd617fb15bd82" parent="aspace_99c0d7ad64a7add5f087da916f3e453a" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_56f6b1545ff8c06395b1197738ad2d9d" level="file">
+          <did>
+            <unittitle>Lirrie to Mary</unittitle>
+            <unitdate normal="1885-03-30/1885-03-30" type="inclusive">March 30 1885</unitdate>
+            <container id="aspace_622cfe314768cd61b6b8c9154c966084" label="mixed materials" type="Box">4</container>
+            <container id="aspace_84bae9c518b670adfaaf461ad9189da3" parent="aspace_622cfe314768cd61b6b8c9154c966084" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_01ac4b56b0baa4ac8c824da047a9757e" level="file">
+          <did>
+            <unittitle>Lirrie to Mary</unittitle>
+            <unitdate normal="1885-04-08/1885-04-08" type="inclusive">April 8 1885</unitdate>
+            <container id="aspace_d2072946a4dbefde2bbd9c0575ce0597" label="mixed materials" type="Box">4</container>
+            <container id="aspace_1e454fbbe161a41774d3a3da2fe03c19" parent="aspace_d2072946a4dbefde2bbd9c0575ce0597" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_22a514c8521c97a2cea1f1cbc218fe31" level="file">
+          <did>
+            <unittitle>Marnie to Mary</unittitle>
+            <unitdate normal="1885-09-11/1885-09-11" type="inclusive">September 11 1885</unitdate>
+            <container id="aspace_c1a7469b218beb5c88810df914d7769b" label="mixed materials" type="Box">4</container>
+            <container id="aspace_3802f21723176b56403106a436b75930" parent="aspace_c1a7469b218beb5c88810df914d7769b" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_3383d349ec5c0c0f31d3f13ad488ddd1" level="file">
+          <did>
+            <unittitle>May to Mary</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_eb630e9a45acce471074551c6b19f257" label="mixed materials" type="Box">4</container>
+            <container id="aspace_04997cec2d0cea6b2bbac5fb84c1189b" parent="aspace_eb630e9a45acce471074551c6b19f257" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_265b223d4c63c5bde8de12a5d35ec749" level="file">
+          <did>
+            <unittitle>MJG to Mary</unittitle>
+            <unitdate type="inclusive">February 26; Undated</unitdate>
+            <container id="aspace_cbc775fc0d27b6a34832e1d81f717ac2" label="mixed materials" type="Box">4</container>
+            <container id="aspace_0b9543b12827e46a91d19a4d8791d31e" parent="aspace_cbc775fc0d27b6a34832e1d81f717ac2" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_c613aa456e87421e735a7719bdd880c0" level="file">
+          <did>
+            <unittitle>Mother to Mary</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b1ab5a4d45aa62e2d7e79dc1d4e07fb6" label="mixed materials" type="Box">4</container>
+            <container id="aspace_7ce61049ca126464a16134b42cfd6de6" parent="aspace_b1ab5a4d45aa62e2d7e79dc1d4e07fb6" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_20b84e76c488d203a072c92ca43f7a0b" level="file">
+          <did>
+            <unittitle>Mother to Mary</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_95158f767fe162bcdf835a4feb756566" label="mixed materials" type="Box">4</container>
+            <container id="aspace_5fe7d94e4e5f846a77f12c9214204694" parent="aspace_95158f767fe162bcdf835a4feb756566" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_60ec10289964c3ca0d23cf8e6d38f664" level="file">
+          <did>
+            <unittitle>Mother to Mary</unittitle>
+            <unitdate type="inclusive">July 12; Undated</unitdate>
+            <container id="aspace_0a6446bc9d0ba560cfd367cc2362b062" label="mixed materials" type="Box">4</container>
+            <container id="aspace_666f642c8a4eb622fb0ed05f8f130cce" parent="aspace_0a6446bc9d0ba560cfd367cc2362b062" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_c052db0485c1a9021e51ae8d98329c27" level="file">
+          <did>
+            <unittitle>OGY to Mary</unittitle>
+            <unitdate normal="1860-06-01/1860-06-01" type="inclusive">June 1 1860</unitdate>
+            <container id="aspace_d6d5c47cafe27e06deb79370a361cc6f" label="mixed materials" type="Box">4</container>
+            <container id="aspace_b61b5974dc584b0a72092b03cc3afd8d" parent="aspace_d6d5c47cafe27e06deb79370a361cc6f" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_51a1b578e173cb52b186e06946d84bb1" level="file">
+          <did>
+            <unittitle>M. Otis to Mary</unittitle>
+            <unitdate normal="1850-10/1850-10" type="inclusive">October 1850</unitdate>
+            <container id="aspace_604b73f47d4ae2a28a268cc72cb0b5bd" label="mixed materials" type="Box">4</container>
+            <container id="aspace_06e78cdd4088fc50be79eed50f6ce560" parent="aspace_604b73f47d4ae2a28a268cc72cb0b5bd" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_7b42a18040a814a5cc4fda7a32e30145" level="file">
+          <did>
+            <unittitle>Phebe to Mary</unittitle>
+            <unitdate normal="1860-09-25/1860-09-25" type="inclusive">September 25 1860</unitdate>
+            <container id="aspace_7e6f16457670c7c7837e2f1e349c5218" label="mixed materials" type="Box">4</container>
+            <container id="aspace_55af217f15abba4804f837b5d9976796" parent="aspace_7e6f16457670c7c7837e2f1e349c5218" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_8621276681f89f12e55fbe4e0ec2f425" level="file">
+          <did>
+            <unittitle>Phebe to Mary</unittitle>
+            <unitdate normal="1862-09-28/1862-09-28" type="inclusive">September 28 1862</unitdate>
+            <container id="aspace_fa35f38ccd3f2646e3b2e91e4c39ac27" label="mixed materials" type="Box">4</container>
+            <container id="aspace_3ac37db4ab65c51346bb5020723c6531" parent="aspace_fa35f38ccd3f2646e3b2e91e4c39ac27" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_5f83240f31c9710bf9b6df2797003c69" level="file">
+          <did>
+            <unittitle>Sister to Mary</unittitle>
+            <unitdate normal="1866-12-23/1866-12-23" type="inclusive">December 23 1866</unitdate>
+            <container id="aspace_f15cb9aa0d3b871320e690abef6dcb7c" label="mixed materials" type="Box">4</container>
+            <container id="aspace_74054d8ae4d1dbbb141275f3d3482e33" parent="aspace_f15cb9aa0d3b871320e690abef6dcb7c" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_99b6d73dfe0ca12f49c63591f2b3e454" level="file">
+          <did>
+            <unittitle>Ruth Tillinghast to Mary</unittitle>
+            <unitdate normal="1860-08-27/1860-08-27" type="inclusive">August 27 1860</unitdate>
+            <container id="aspace_445053b314ddabb10c0f694adde9ddb0" label="mixed materials" type="Box">4</container>
+            <container id="aspace_6ee67f0e21fca16d9adfbb7c9ddc7b74" parent="aspace_445053b314ddabb10c0f694adde9ddb0" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_88d6c1f8f38a3b0a37952852de8a1164" level="file">
+          <did>
+            <unittitle>Ruth Tillinghast to Mary</unittitle>
+            <unitdate normal="1861-01-10/1861-01-10" type="inclusive">January 10 1861</unitdate>
+            <container id="aspace_6eb682ab13e3991eaeb7caeb660ad19a" label="mixed materials" type="Box">4</container>
+            <container id="aspace_8b9ffb3ff647b95b2855caf29fa97b58" parent="aspace_6eb682ab13e3991eaeb7caeb660ad19a" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_589fbf35bbc9a30b799ebb57c0e13ddc" level="file">
+          <did>
+            <unittitle>Ruth Tillinghast to Mary</unittitle>
+            <unitdate normal="1861-07-27/1861-07-27" type="inclusive">July 27 1861</unitdate>
+            <container id="aspace_5a54229e205409b64352ea5ad81f3c74" label="mixed materials" type="Box">4</container>
+            <container id="aspace_75bbf270a477af5eef9a077534d5d000" parent="aspace_5a54229e205409b64352ea5ad81f3c74" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_a864975c3015ed61b1d947eafb57c6f4" level="file">
+          <did>
+            <unittitle>Ruth Tillinghast to Mary</unittitle>
+            <unitdate normal="1866-04-25/1866-04-25" type="inclusive">April 25 1866</unitdate>
+            <container id="aspace_b08e3973083998b7032ea56d9da7a4e4" label="mixed materials" type="Box">4</container>
+            <container id="aspace_20468c7376c62547e4a8f15993387bd0" parent="aspace_b08e3973083998b7032ea56d9da7a4e4" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_72dc60268f5c6c906e9168544a2718bd" level="file">
+          <did>
+            <unittitle>Ruth Tillinghast to Mary</unittitle>
+            <unitdate normal="1866-05-09/1866-05-09" type="inclusive">May 9 1866</unitdate>
+            <container id="aspace_0725ba364e544f868f517ea1f8590b41" label="mixed materials" type="Box">4</container>
+            <container id="aspace_7c18eece23eb2665c0afff2e825accbd" parent="aspace_0725ba364e544f868f517ea1f8590b41" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_0ab892ca950eec7301502e887d5aa1df" level="file">
+          <did>
+            <unittitle>Ruth Tillinghast to Mary</unittitle>
+            <unitdate normal="1885-01-24/1885-01-24" type="inclusive">January 24 1885</unitdate>
+            <container id="aspace_6b4f19963bb9775188e6e12580d0d1a8" label="mixed materials" type="Box">4</container>
+            <container id="aspace_c89bc77a35fa733935518eecef3ffe21" parent="aspace_6b4f19963bb9775188e6e12580d0d1a8" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_8a6f92b9035d1915b4303a5f6a684db3" level="file">
+          <did>
+            <unittitle>Ruth Tillinghast to Mary</unittitle>
+            <unitdate normal="1885-03-09/1885-03-09" type="inclusive">March 9 1885</unitdate>
+            <container id="aspace_f599f2a71e5b9362b2acf899e50c64d6" label="mixed materials" type="Box">4</container>
+            <container id="aspace_4c51071bf9282f16c76c02d5ea723b41" parent="aspace_f599f2a71e5b9362b2acf899e50c64d6" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ba825813141bcd20f2d7ebf17c4cb281" level="file">
+          <did>
+            <unittitle>Ruth Tillinghast to Mary</unittitle>
+            <unitdate normal="1885-05-11/1885-05-11" type="inclusive">May 11 1885</unitdate>
+            <container id="aspace_001d9da7b1178312fd6124cd12ec0564" label="mixed materials" type="Box">4</container>
+            <container id="aspace_e8e617770fd248402f1747409e405023" parent="aspace_001d9da7b1178312fd6124cd12ec0564" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_370b88a3fde5276bd1cb9839d683515b" level="file">
+          <did>
+            <unittitle>Ruth Tillinghast to Mary</unittitle>
+            <unitdate normal="1885-06-22/1885-06-22" type="inclusive">June 22 1885</unitdate>
+            <container id="aspace_fdd29e8fc37ebdaec39f6928b6459938" label="mixed materials" type="Box">4</container>
+            <container id="aspace_035b9d0fda6d82c542b4b1f275d83476" parent="aspace_fdd29e8fc37ebdaec39f6928b6459938" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_9fa2784afd3cdc51f8a9f52419bff86f" level="file">
+          <did>
+            <unittitle>Ruth Tillinghast to Mary</unittitle>
+            <unitdate normal="1885-07-07/1885-07-07" type="inclusive">July 7 1885</unitdate>
+            <container id="aspace_7aec6d6517e2fc78b133ab89908adb86" label="mixed materials" type="Box">4</container>
+            <container id="aspace_5b08af140b561e43a84a124435d4da43" parent="aspace_7aec6d6517e2fc78b133ab89908adb86" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_4e1f252287cc19f1144c7d97c39b6d36" level="file">
+          <did>
+            <unittitle>Ruth Tillinghast to Mary</unittitle>
+            <unitdate normal="1885-09-24/1885-09-24" type="inclusive">September 24 1885</unitdate>
+            <container id="aspace_c5594bdf8b8af553aa94932e5623fa7a" label="mixed materials" type="Box">4</container>
+            <container id="aspace_fe12ffcd7eae83bf21121ea6e8ad7931" parent="aspace_c5594bdf8b8af553aa94932e5623fa7a" type="Folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_7da40ae6382e29dbe071379f422cbad2" level="file">
+          <did>
+            <unittitle>Ruth Tillinghast to Mary</unittitle>
+            <unitdate normal="1885-10-14/1885-10-14" type="inclusive">October 14 1885</unitdate>
+            <container id="aspace_d5b1d4e62ec93c642c5abfc6ca2eb626" label="mixed materials" type="Box">4</container>
+            <container id="aspace_71a77aa8a499ad74b046cb9ab2db6f6b" parent="aspace_d5b1d4e62ec93c642c5abfc6ca2eb626" type="Folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_820520cf06a56f71fbd7b1d9972a6b46" level="file">
+          <did>
+            <unittitle>Ruth Tillinghast to Mary</unittitle>
+            <unitdate type="inclusive">42791</unitdate>
+            <container id="aspace_dbe76bbefa45a28105c1da5a60a7ec39" label="mixed materials" type="Box">4</container>
+            <container id="aspace_36ddc93f26094500e078694d1c9bafe0" parent="aspace_dbe76bbefa45a28105c1da5a60a7ec39" type="Folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_f4350140627c9df8af8becbf63aa8eab" level="file">
+          <did>
+            <unittitle>Ruth Tillinghast to Mary</unittitle>
+            <unitdate type="inclusive">42824</unitdate>
+            <container id="aspace_86780f192ffa460fc31246157a9308f3" label="mixed materials" type="Box">4</container>
+            <container id="aspace_3e300d02374a40a5b8e6d97641b3cfe5" parent="aspace_86780f192ffa460fc31246157a9308f3" type="Folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_ee253f74f35096a0696c4d113d9a86d6" level="file">
+          <did>
+            <unittitle>Ruth Tillinghast to Mary</unittitle>
+            <unitdate type="inclusive">42952</unitdate>
+            <container id="aspace_691e5f23be8e2b63ecd20023263fe363" label="mixed materials" type="Box">4</container>
+            <container id="aspace_c7c227f5d061624243c20ed870212f9c" parent="aspace_691e5f23be8e2b63ecd20023263fe363" type="Folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_b45935c1bbc10562033c811d208c562c" level="file">
+          <did>
+            <unittitle>Unknown to Mary</unittitle>
+            <unitdate normal="1862-02-20/1862-02-20" type="inclusive">February 20 1862</unitdate>
+            <container id="aspace_e9a7489d96451c2691efbf22174456f9" label="mixed materials" type="Box">4</container>
+            <container id="aspace_fa699584e25e96efa98c39e86b279c21" parent="aspace_e9a7489d96451c2691efbf22174456f9" type="Folder">62</container>
+          </did>
+        </c>
+        <c id="aspace_c6bfa06da3bffac7f2fd4a81e7383620" level="file">
+          <did>
+            <unittitle>Blanche to Ollie Hine</unittitle>
+            <unitdate normal="1885-07-29/1885-07-29" type="inclusive">July 29 1885</unitdate>
+            <container id="aspace_098cbeee20deb0d18e9968a5f46a46c8" label="mixed materials" type="Box">4</container>
+            <container id="aspace_bc9a3e610f9cc1300c3e6e760fbbdd51" parent="aspace_098cbeee20deb0d18e9968a5f46a46c8" type="Folder">63</container>
+          </did>
+        </c>
+        <c id="aspace_ac7f8c74a2b65ad1d79bd7ef9bf9fd7a" level="file">
+          <did>
+            <unittitle>Mary to Ollie Hine</unittitle>
+            <unitdate normal="1885-08-03/1885-08-03" type="inclusive">August 3 1885</unitdate>
+            <container id="aspace_9550a2c5a16049849266f9641599522d" label="mixed materials" type="Box">4</container>
+            <container id="aspace_3d6b32822d2efe0de33bf2e5503f444e" parent="aspace_9550a2c5a16049849266f9641599522d" type="Folder">64</container>
+          </did>
+        </c>
+        <c id="aspace_3b081d460393bd280fd82109b0ee0dfe" level="file">
+          <did>
+            <unittitle>Mary to Ollie Hine</unittitle>
+            <unitdate normal="1885-08-28/1885-08-28" type="inclusive">August 28 1885</unitdate>
+            <container id="aspace_3c3385d2a04ee82bab4102d0bab37fa3" label="mixed materials" type="Box">4</container>
+            <container id="aspace_ec367caa65e904365cf3c09712b96057" parent="aspace_3c3385d2a04ee82bab4102d0bab37fa3" type="Folder">65</container>
+          </did>
+        </c>
+        <c id="aspace_93fb2319084ae4a4ac566ec7515c5d52" level="file">
+          <did>
+            <unittitle>Will to Ollie Hine</unittitle>
+            <unitdate normal="1885-08-15/1885-08-15" type="inclusive">August 15 1885</unitdate>
+            <container id="aspace_31ab901b80572ee805564c42be8a914c" label="mixed materials" type="Box">4</container>
+            <container id="aspace_a7a2a67b80ce427c345b3e5110b09602" parent="aspace_31ab901b80572ee805564c42be8a914c" type="Folder">66</container>
+          </did>
+        </c>
+        <c id="aspace_5d7ddb683206246030c0151a4bb95580" level="file">
+          <did>
+            <unittitle>Richard Wright to W. L. Wright</unittitle>
+            <unitdate normal="1993-01-18/1993-01-18" type="inclusive">January 18,1993</unitdate>
+            <container id="aspace_72e20725c8c237c38e7bbb5ffe33fb7c" label="mixed materials" type="Box">4</container>
+            <container id="aspace_bfd6397865e7fa1c708f8a0abf71de24" parent="aspace_72e20725c8c237c38e7bbb5ffe33fb7c" type="Folder">67</container>
+          </did>
+        </c>
+        <c id="aspace_6c5cafcfa9ceef549ece77af516f80e3" level="file">
+          <did>
+            <unittitle>Envelopes</unittitle>
+            <unitdate normal="1858/1885" type="inclusive">1858-1885</unitdate>
+            <container id="aspace_e035508405fc490dc07d75163dd44562" label="mixed materials" type="Box">5</container>
+            <container id="aspace_726366189d9ad0a18675f882d9380606" parent="aspace_e035508405fc490dc07d75163dd44562" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_2adbc256c282079bcaf5d49911f4a0c5" level="file">
+          <did>
+            <unittitle>Invitations</unittitle>
+            <unitdate normal="1885/1885" type="inclusive">1885</unitdate>
+            <container id="aspace_f54cc29ea9044c11b4aa207327d1ebca" label="mixed materials" type="Box">5</container>
+            <container id="aspace_3ed2732f0dfa32ccaf484b41b9a4f8b4" parent="aspace_f54cc29ea9044c11b4aa207327d1ebca" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_7f22559e4f8e723cd02396dfbe031fbc" level="series">
+        <did>
+          <unittitle>Series 2: Ephemera</unittitle>
+        </did>
+        <scopecontent id="aspace_d64da24a4b0bb0e3eb0834a27f58f269">
+          <head>Scope and Contents</head>
+          <p>This series contains financial records, calling cards, articles, and Lemon Hine's Last Will and Testament.</p>
+        </scopecontent>
+        <c id="aspace_25420ad1717df751d90f33b063a61d0f" level="file">
+          <did>
+            <unittitle>The Boy's News by C. L. Hine</unittitle>
+            <unitdate type="inclusive">May-December 1875</unitdate>
+            <container id="aspace_1bde454611048c0a54b8e6a1be1801c0" label="mixed materials" type="Box">5</container>
+            <container id="aspace_3063ae53366db5ebf70626836190c7af" parent="aspace_1bde454611048c0a54b8e6a1be1801c0" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_2eeb2270c17c63dd816f6fa6e70bb930" level="file">
+          <did>
+            <unittitle>"A History of the City of Washington"</unittitle>
+            <unitdate normal="1903/1903" type="inclusive">1903</unitdate>
+            <container id="aspace_cb7a898d68e8a1fa01800041f3a81905" label="mixed materials" type="Box">5</container>
+            <container id="aspace_8050577d44026d33b064605c8a2521c2" parent="aspace_cb7a898d68e8a1fa01800041f3a81905" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_1fed1ab4f29c0b787e6cb516626569fd" level="file">
+          <did>
+            <unittitle>Last Will and Testament - Lemon Hine</unittitle>
+            <unitdate normal="1901-10-09/1901-10-09" type="inclusive">October 9 1901</unitdate>
+            <container id="aspace_873833d7af54a1373e951a0a4d89e7b4" label="mixed materials" type="Box">5</container>
+            <container id="aspace_a116bfaa3494653c363e85157f5d23a4" parent="aspace_873833d7af54a1373e951a0a4d89e7b4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_bb4508038c24b97dab571760a8d6047d" level="file">
+          <did>
+            <unittitle>"The Old Songs Grandma Hine Sang…"</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f7380ec0a18673e710a3c8799e2899f1" label="mixed materials" type="Box">5</container>
+            <container id="aspace_ba52530214c115854bd93c1d6f76e890" parent="aspace_f7380ec0a18673e710a3c8799e2899f1" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_e614dbb40b29add59cc95a3fb67c05ea" level="file">
+          <did>
+            <unittitle>Prayer Card</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e26739bdd82b11a644759fcf9bd83fb7" label="mixed materials" type="Box">5</container>
+            <container id="aspace_1b302901122d32556a04ade81b9d1c44" parent="aspace_e26739bdd82b11a644759fcf9bd83fb7" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_e25c3074a442c22775c2fbe2d945e455" level="file">
+          <did>
+            <unittitle>Proceedings with Reference to the Death of Lemon G. Hine</unittitle>
+            <unitdate normal="1914-01-20/1914-01-20" type="inclusive">January 20 1914</unitdate>
+            <container id="aspace_8f60fb9ca6a11d921e5173080de5ebf3" label="mixed materials" type="Box">5</container>
+            <container id="aspace_ed9cb74aa5259a5ff83fa98c5695ea5e" parent="aspace_8f60fb9ca6a11d921e5173080de5ebf3" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_808d250520673d5873024cc10a30843a" level="file">
+          <did>
+            <unittitle>Publications of C. L. Hine</unittitle>
+            <unitdate normal="1876/1877" type="inclusive">1876-1877</unitdate>
+            <container id="aspace_78d2f34c39b1bd1b572f0e7f6125db6f" label="mixed materials" type="Box">5</container>
+            <container id="aspace_c6fc842af7dcfafae271112c27d6ccbe" parent="aspace_78d2f34c39b1bd1b572f0e7f6125db6f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_f3cdeeb7478df7d7f2602806ba4ed3d2" level="file">
+          <did>
+            <unittitle>Receipts</unittitle>
+            <unitdate normal="1866/1866" type="inclusive">1866</unitdate>
+            <container id="aspace_f794cf7297eed64f497b4dd464041ac4" label="mixed materials" type="Box">5</container>
+            <container id="aspace_034d08444f2f2036a9d260fdf3504cc2" parent="aspace_f794cf7297eed64f497b4dd464041ac4" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_831d0efbb032498883afd3c1037bd9ea" level="file">
+          <did>
+            <unittitle>Simpson and Hine Real Estate and Lumber</unittitle>
+            <unitdate normal="1856/1856" type="inclusive">1856</unitdate>
+            <container id="aspace_39c93282f6f443a0ab97fe079f984fdd" label="mixed materials" type="Box">5</container>
+            <container id="aspace_3fc65b995ad6d60e4f670f0409f4a3c7" parent="aspace_39c93282f6f443a0ab97fe079f984fdd" type="Folder">11</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_33d56b02bad9b5b5aaa103ece6665906" level="series">
+        <did>
+          <unittitle>Series 3: Photographs</unittitle>
+        </did>
+        <scopecontent id="aspace_46e5c1871ad53f3c8078eec61b7dc5cb">
+          <head>Scope and Contents</head>
+          <p>Series III consists of images of both Lemon and Mary Hine, as well as an image of their Washington, DC home "Prospect Hill." There is also an image encased in a frame that is decorated with the image of the Monitor and the Merrimac. The case is made of an early form of plastic, during the Victorian era. The man in the image is unidentified, though it may be Lemon Hine or a relative of his.</p>
+        </scopecontent>
+        <c id="aspace_1f76e797fd3cbdc832e9996f346f1585" level="file">
+          <did>
+            <unittitle>Lemon G. Hine</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_36fe93b9df8fd57261b96a7543d48ed5" label="mixed materials" type="Box">5</container>
+            <container id="aspace_5cf8e6ccfbde93a1a3e3702f8bf7d2b8" parent="aspace_36fe93b9df8fd57261b96a7543d48ed5" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ce480a0881c889859f6e359a9e4b0664" level="file">
+          <did>
+            <unittitle>Mary Tillinghast Hine</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_05836f9381d758f1732dc05a81975a34" label="mixed materials" type="Box">5</container>
+            <container id="aspace_71ceae06dc37af4e60988dce579414bb" parent="aspace_05836f9381d758f1732dc05a81975a34" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_8096581f4f02ba3622f67848fb0e5e3a" level="file">
+          <did>
+            <unittitle>Prospect Hill - Hine Residence</unittitle>
+            <unitdate normal="1895/1895" type="inclusive">1895</unitdate>
+            <container id="aspace_158fad5b6d9bb133970926d6a1f93f46" label="mixed materials" type="Box">5</container>
+            <container id="aspace_a8a5c6946393683557929e9fe33937c6" parent="aspace_158fad5b6d9bb133970926d6a1f93f46" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_14542a37b652f50c407cb6ec251f4924" level="file">
+          <did>
+            <unittitle>Daguerreotype Case with image of man (possibly young Lemon G. Hine)</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3e559180f89e83962116477383b16ad7" label="mixed materials" type="Box">6</container>
+            <container id="aspace_f4cb46e3cad67105fc8c40b368b27d03" parent="aspace_3e559180f89e83962116477383b16ad7" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

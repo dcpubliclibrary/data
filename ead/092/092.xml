@@ -1,0 +1,150 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">092Eistophos</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Eistophos Science Club Collection</titleproper>
+        <titleproper>Eistophos Science Club <num>092</num> <num>092</num></titleproper>
+        <subtitle>An inventory of Eistophos Science Club at DC Public Library</subtitle>
+        <author>Finding aid prepared by Rachel Telford.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-12</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 14:49:48 -0500</date>.</creation>
+      <langusage>
+        <language encodinganalog="546" langcode="eng">English</language>
+      </langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Eistophos Science Club Collection</unittitle>
+      <unitid>092</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+      </physdesc>
+      <unitdate normal="1899/1997" type="inclusive">1899-1997</unitdate>
+      <langmaterial id="aspace_04f8d7639cefaaa15eaf19c4bffe9247">English</langmaterial>
+      <langmaterial id="aspace_7aecb95dd77ae77f4a48e33562df65e0">English</langmaterial>
+    </did>
+    <bioghist id="aspace_912048acb0884691a4cb90bf7d0204d7">
+      <head>Biographical / Historical</head>
+      <p>The collection consists of research materials and other items collected by Minnie S. Woodson while working on the history of the Woodson family. Included in this collection are clippings, census records, family trees, articles, photographs, correspondence, and newsletters. Of particular interest is information regarding the Afro-American Historical and Genealogical Society newsletter. The folders are arranged alphabetically by topic.</p>
+    </bioghist>
+    <custodhist id="aspace_8a67937fae14a0e4da20aa52137ff2d1">
+      <head>Custodial History</head>
+      <p>This collection was removed from the vertical files.</p>
+    </custodhist>
+    <scopecontent id="aspace_0e2249d16d074a1497742d92e442b497">
+      <head>Scope and Contents</head>
+      <p>The collection consists of annual programs, the constitution and by-laws of the club, the history of the club, and correspondence.</p>
+    </scopecontent>
+    <dsc>
+      <c id="aspace_15dad8e164f24c6620a316df866349b6" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_2d0b2988aaf5a530b61f1b2aa349d01e" level="file">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate normal="1893/1944" type="inclusive">1893-1944</unitdate>
+            <container id="aspace_40a7b30eb5f80e8698b15303cbfa4658" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7aea340634040672989ded6055c43aab" parent="aspace_40a7b30eb5f80e8698b15303cbfa4658" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_daa99b56524d185806957c7e0fbfba8e" level="file">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate normal="1944/1971" type="inclusive">1944-1971</unitdate>
+            <container id="aspace_4db3e58d3285c5f0f3191c580ee67534" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e353ff620eb9122ab423b7e1d169db8d" parent="aspace_4db3e58d3285c5f0f3191c580ee67534" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_75e8278e32380add86090ad6e3e35486" level="file">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate normal="1971/1986" type="inclusive">1971-1986</unitdate>
+            <container id="aspace_6386684f6878553ff82884f5bf270c1d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_76a99dadd98593c23a20ea187742e376" parent="aspace_6386684f6878553ff82884f5bf270c1d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_b967c908709219a92310b71534c9014d" level="file">
+          <did>
+            <unittitle>History</unittitle>
+            <container id="aspace_0eb23473205d1fe753ffc3481c87820b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b15d67ee0cf478a0c86614c9bbc20274" parent="aspace_0eb23473205d1fe753ffc3481c87820b" type="Folder">4</container>
+          </did>
+          <c id="aspace_3245efc969ec76786cc4d9df493e41a5" level="item">
+            <did>
+              <unittitle>Programs</unittitle>
+              <unitdate normal="1987/1997" type="inclusive">1987-1997</unitdate>
+              <container id="aspace_2f9befdc9a2439e296dae9c07d47aab2" label="mixed materials" type="Item">1</container>
+            </did>
+          </c>
+          <c id="aspace_324b2180b7ace6ee95a1b5cd19625462" level="item">
+            <did>
+              <unittitle>"Sketch of the Eistophos"</unittitle>
+              <unitdate normal="1927/1927" type="inclusive">1927</unitdate>
+              <container id="aspace_dc0094f08007c07a74b35f3bc75d4abf" label="mixed materials" type="Item">2</container>
+            </did>
+          </c>
+          <c id="aspace_f99d2d9ac91ee2ae0a54da17dc966ca7" level="item">
+            <did>
+              <unittitle>History</unittitle>
+              <unitdate normal="1927/1950" type="inclusive">1927-1950</unitdate>
+              <container id="aspace_f5bce58eb9aabfbd00043efda7014d86" label="mixed materials" type="Item">3</container>
+            </did>
+          </c>
+          <c id="aspace_9b918d40b7c64aef7430c6188f36440e" level="item">
+            <did>
+              <unittitle>History</unittitle>
+              <unitdate normal="1893/1976" type="inclusive">1893-1976</unitdate>
+              <container id="aspace_64179a82a456f15353ade9283a1e1cb5" label="mixed materials" type="Item">4</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_30a3112b307f9c24c0dee82cea3950d7" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <container id="aspace_8bc1790af27e1e0f7e9577ce884cfa84" label="mixed materials" type="Box">1</container>
+            <container id="aspace_889e3924d1f37fccf9eddab830ab7d64" parent="aspace_8bc1790af27e1e0f7e9577ce884cfa84" type="Folder">5</container>
+          </did>
+          <c id="aspace_50c40b39e1cfc2955fd629a5b6a6516c" level="item">
+            <did>
+              <unittitle>Correspondence regarding Eistophos Science Club materials in DCPL</unittitle>
+              <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
+              <container id="aspace_96d123161aa84747948ef5ed23cbf184" label="mixed materials" type="Item">1</container>
+            </did>
+          </c>
+          <c id="aspace_f4c8a8255d5a6edf19d6f7f8e01a44b1" level="item">
+            <did>
+              <unittitle>Correspondence regarding Eistophos Science Club materials in DCPL</unittitle>
+              <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+              <container id="aspace_4230e54bd98d1ea601a746125944c1ba" label="mixed materials" type="Item">2</container>
+            </did>
+          </c>
+          <c id="aspace_38ec64b154264a4b98d55ca8a97be133" level="item">
+            <did>
+              <unittitle>Correspondence regarding Eistophos Science Club materials in DCPL</unittitle>
+              <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+              <container id="aspace_36cb0e50e9302d50a1989fc99774e469" label="mixed materials" type="Item">3</container>
+            </did>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

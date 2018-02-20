@@ -1,0 +1,93 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">069DCPolice</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">DC Police Department Scrapbooks Collection</titleproper>
+        <titleproper>DC Police Department <num>069</num> <num>069</num></titleproper>
+        <subtitle>An inventory of DC Police Department Scrapbooks at DC Public Library</subtitle>
+        <author>Finding aid prepared by Ryan P. Semmes.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-08</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 14:47:19 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>DC Police Department Scrapbooks Collection</unittitle>
+      <unitid>069</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 linear feet; 2 boxes</extent>
+      </physdesc>
+      <unitdate normal="1939/1948" type="inclusive">1939-1948</unitdate>
+      <langmaterial id="aspace_9b0f055a30838005a0cd48a708ab04ec">English</langmaterial>
+      <langmaterial id="aspace_889c5037991a0975784f20f822065585">English</langmaterial>
+    </did>
+    <bioghist id="aspace_84e819b2ce2fd7608fb80f1f664eb995">
+      <head>Biographical / Historical</head>
+      <p>In 1790, the Federal City was established out of land ceded from Maryland and Virginia. For the next 10 years, the Federal City was policed by law enforcements officers from those two states. In 1802, the city was given the power to enforce its own laws, although this was to be accomplished with only 15 officers. In 1861, the Metropolitan Police Department was established and continues to this day. The first arrest under the Metropolitan Police Department was for a charge of intoxication (Source: Metropolitan Police Department Website: Brief History of the MPDC)</p>
+    </bioghist>
+    <custodhist id="aspace_a9c5638279e478394c44d29dfed10783">
+      <head>Custodial History</head>
+      <p>It is unknown as to whether these scrapbooks were maintained by the DC Police Department or by the staff of the DC Public Library.</p>
+    </custodhist>
+    <scopecontent id="aspace_4ae75694fb828f53fe3ed7cc0053ac38">
+      <head>Scope and Contents</head>
+      <p>The four scrapbooks that make up this collection contain clippings, programs, and photographs documenting the successes and failures of the Metropolitan Police Department. Also included in these scrapbooks are clippings related to the King and Queen of England.</p>
+    </scopecontent>
+    <dsc>
+      <c id="aspace_fa4d7543ef3907b59086204bdb9849d2" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_71750a0f856b126967412a7a58e55d5c" level="file">
+          <did>
+            <unittitle>Scrapbook</unittitle>
+            <unitdate normal="1939/1941" type="inclusive">1939-1941</unitdate>
+            <container id="aspace_11c4a2fd54c52c55add58b7ce0c71a27" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7b124077e52f79d671eae981b312e965" parent="aspace_11c4a2fd54c52c55add58b7ce0c71a27" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_01836a983ea120df4582ec71f57fb0eb" level="file">
+          <did>
+            <unittitle>Scrapbook</unittitle>
+            <unitdate normal="1941/1942" type="inclusive">1941-1942</unitdate>
+            <container id="aspace_3c0aa3153b9af4f03bc2f4a59e5c2f65" label="mixed materials" type="Box">1</container>
+            <container id="aspace_12f1dbd02254875ca7ea07cec071b135" parent="aspace_3c0aa3153b9af4f03bc2f4a59e5c2f65" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_9cde1acaa0f7469dbd41b08e6b78ce80" level="file">
+          <did>
+            <unittitle>Scrapbook</unittitle>
+            <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate>
+            <container id="aspace_4b2350f96d47d130bf55a601f1917967" label="mixed materials" type="Box">2</container>
+            <container id="aspace_8d5c9a9d77bb6db24eb4a9cc6b7b0828" parent="aspace_4b2350f96d47d130bf55a601f1917967" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_2d7489326b403ddc8071a295627eda07" level="file">
+          <did>
+            <unittitle>Scrapbook</unittitle>
+            <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container id="aspace_1ee76d2fcf1bb21c5321dd8b69a19e7f" label="mixed materials" type="Box">2</container>
+            <container id="aspace_234ab85b7fc5b19def3d0fed5cc51ebe" parent="aspace_1ee76d2fcf1bb21c5321dd8b69a19e7f" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
