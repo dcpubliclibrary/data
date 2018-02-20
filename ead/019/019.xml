@@ -1,0 +1,372 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">019Ellis</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Ellis (Sarah E.) Papers</titleproper>
+        <titleproper>Sarah E. Ellis <num>019</num> <num>019</num></titleproper>
+        <subtitle>An inventory of Sarah E. Ellis at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Public Library.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2001-02</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 10:51:13 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Sarah E. Ellis Papers</unittitle>
+      <unitid>019</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 linear foot; 3 boxes</extent>
+      </physdesc>
+      <unitdate normal="1945/1979" type="inclusive">1945-1979</unitdate>
+      <langmaterial id="aspace_0aa981c36dfca32c9a34374596f64553">English</langmaterial>
+      <langmaterial id="aspace_cf242f6e29a636475bde570d59951071">English</langmaterial>
+    </did>
+    <bioghist id="aspace_d548f6f848fbd26ba54053a3342fae19">
+      <head>Biographical / Historical</head>
+      <p>Mrs. Ellis became a citizen activist after urban renewal forced her in 1959 to relocate the restaurant started by her late husband, Cy Ellis, from Southwest Washington, D.C. She was again forced to move from a second location at E Street, N.W., when metro began construction there in the 1960s. Her ten-year fight in the courts and Congress helped establish the "priority law" which requires that long-established businesses can use the "grandfather" clause to avoid relocation in urban renewal areas. Mrs. Ellis moved her restaurant back to the redeveloped Southwest waterfront in 1970. Born on a Potomac River farm in St. Mary's County, Maryland, she married and moved to Washington, D.C. with her husband sometime after World War I to start his oyster bar restaurant.</p>
+    </bioghist>
+    <scopecontent id="aspace_217ca5a150866b29ac5547475706203f">
+      <head>Scope and Contents</head>
+      <p>The papers contain correspondence, clippings, meeting minutes, reports, and pamphlets of local issues and citizens organizations in which Mrs. Ellis was involved. These included the Chillum Heights Citizens Association, the D.C. Federation of Citizens Associations, Junior Village, the Committee for the Rights of the D.C. Business Community, urban renewal, home rule, and mass transit. Of significance, is a 1972 report titled "Report of the Special Citizens Advisory Committee on Urban Renewal in D.C."</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_0618adc326f5e64d500cd9273be0f890" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_98a8beca0c55577548a8bc79bb94121a" level="file">
+          <did>
+            <unittitle>Minutes Chillum Heights Citizens Association and correspondence</unittitle>
+            <unitdate normal="1945/1950" type="inclusive">1945-1950</unitdate>
+            <container id="aspace_03ddc35041ef3b8dc1bf17b14c6c9cf1" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1a64c10a9807198dcee25df31f60cc25" parent="aspace_03ddc35041ef3b8dc1bf17b14c6c9cf1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_8e7a97010104393a3c20f145455abc57" level="file">
+          <did>
+            <unittitle>Chillum Heights Citizens Association Correspondence</unittitle>
+            <unitdate normal="1952/1954" type="inclusive">1952-1954</unitdate>
+            <container id="aspace_71d6756a8231ea725c15d5a671b6e78c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d8b30c98b9e57fca4cb187a9f746ce61" parent="aspace_71d6756a8231ea725c15d5a671b6e78c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_81d297b621eabcf115187f75d8a59931" level="file">
+          <did>
+            <unittitle>Chillum Heights Citizens Association Correspondence</unittitle>
+            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_bd652770e8e4853a053932c63f4a3eb2" label="mixed materials" type="Box">1</container>
+            <container id="aspace_cba72f04a24a905e6a0b2fc6b09cf999" parent="aspace_bd652770e8e4853a053932c63f4a3eb2" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_81c354375aad4f0bc18704bf9d5f27c3" level="file">
+          <did>
+            <unittitle>Chillum Heights Citizens Association Correspondence</unittitle>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_a6f02e01b63bf7e596aeb76b695a403c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f9aad76a63c4ac41a9ba298a6548b664" parent="aspace_a6f02e01b63bf7e596aeb76b695a403c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_de79174af1b7305d7667fcea4bfb722b" level="file">
+          <did>
+            <unittitle>Chillum Heights Citizens Association Correspondence</unittitle>
+            <unitdate normal="1957/1958" type="inclusive">1957-1958</unitdate>
+            <container id="aspace_4dde6b2d712e63fe27397c39f6229558" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ddcbb24beba5bdddcff4b67318f73ca7" parent="aspace_4dde6b2d712e63fe27397c39f6229558" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_7380d5160095ca02d7c26fe699e272b5" level="file">
+          <did>
+            <unittitle>Chillum Heights Citizens Association Correspondence</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_724c215894dc7173bfe55971e0be87a0" label="mixed materials" type="Box">1</container>
+            <container id="aspace_cd114437bd3c7455fefc55cde52e54db" parent="aspace_724c215894dc7173bfe55971e0be87a0" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_4e90556881574d7e4477906cdbdf9260" level="file">
+          <did>
+            <unittitle>Chillum Heights Citizens Association Correspondence</unittitle>
+            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_2f8ffdc4bb43cfe630d96432a165a991" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1984aea84999d19fbf017d93162f46be" parent="aspace_2f8ffdc4bb43cfe630d96432a165a991" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ded6bfcd3ebbd82601eb025ae02e8864" level="file">
+          <did>
+            <unittitle>Chillum Heights Citizens Association Correspondence</unittitle>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_1d5cf271df407870150ec7f3e0c6c36a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6e56b8f2839c38f004e7f3400588a7cd" parent="aspace_1d5cf271df407870150ec7f3e0c6c36a" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_057386b980b599ac7aea6d32af431671" level="file">
+          <did>
+            <unittitle>Chillum Heights Citizens Association Correspondence</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_f2a1f628e4d1d859747fb6b6f33f5cd3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c2de788df21673ed3c751b1849254d82" parent="aspace_f2a1f628e4d1d859747fb6b6f33f5cd3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_71fe973f77e9a88850b0a09c263490e1" level="file">
+          <did>
+            <unittitle>Federation of Citizens Associations</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_0c86c8cd6388e5dce88499bd407f208b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7dba06e610b05035600527f08bcb3791" parent="aspace_0c86c8cd6388e5dce88499bd407f208b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_d394de8b81f36e23f202f70c7c0a3f88" level="file">
+          <did>
+            <unittitle>Committee for the Rights of the Washington D.C. Business Community</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b3faa14fb8fd0664cfeb3d5e9d0523ab" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b0cec23929c2e7ae4e82c23c79ca6af8" parent="aspace_b3faa14fb8fd0664cfeb3d5e9d0523ab" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_9b94bde07b1a654e3e20c8a184a1a738" level="file">
+          <did>
+            <unittitle>Bill Announcements and other Congressional Materials</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_af7bb2430fede83b2f68fe320f3c4506" label="mixed materials" type="Box">1</container>
+            <container id="aspace_080c82aec2fd1fa9c4eef4e88bdb00a5" parent="aspace_af7bb2430fede83b2f68fe320f3c4506" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_a7b455806ccf9d8b9ba7d0f1fd4be6bf" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1962/1966" type="inclusive">1962-1966</unitdate>
+            <container id="aspace_0b27c01979f8c6bd9d9766edb8b093a3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_210431e4d6c5dbf7fd349855547a8440" parent="aspace_0b27c01979f8c6bd9d9766edb8b093a3" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_02403cbe366f48491b16019dcdbd99fc" level="file">
+          <did>
+            <unittitle>Correspondence and Other materials</unittitle>
+            <unitdate normal="1969/1972" type="inclusive">1969-1972</unitdate>
+            <container id="aspace_5c57a5fa8dae21f8f191c5eefc833212" label="mixed materials" type="Box">1</container>
+            <container id="aspace_94baa0af1df277d69e051a8cdf6c183f" parent="aspace_5c57a5fa8dae21f8f191c5eefc833212" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_1c5481d106c5f1798d58f2b66f6a2912" level="file">
+          <did>
+            <unittitle>Miscellaneous letters and testimony by Mrs. Ellis</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_97283e41bdd45dd33e3d24851628633c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7b40f3cee3f3dd067b549f4694fa9d27" parent="aspace_97283e41bdd45dd33e3d24851628633c" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_01fa771f8379279263bbd4029e703eb7" level="file">
+          <did>
+            <unittitle>Historic Landmarks and districts</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3dadff92f109f6e84977c0d240ed0452" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7afd392c23a55adee8ab6c0c60e5a97e" parent="aspace_3dadff92f109f6e84977c0d240ed0452" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_5f2d00ed11c6d086fc77e97c40c0c963" level="file">
+          <did>
+            <unittitle>Education</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_6345496b947049fb81ed91908fa03dc4" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d0ced747d6668349649bfb057703cbff" parent="aspace_6345496b947049fb81ed91908fa03dc4" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_36b188fba1aaa1359dfec50764b35da8" level="file">
+          <did>
+            <unittitle>Urban renewal</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_ddacaa1d638bedd291fa1a3922766b95" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f6aadaa6a9282c5655b94e6c2489203e" parent="aspace_ddacaa1d638bedd291fa1a3922766b95" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_3d5463441dfe23ae834dc84e564ae669" level="file">
+          <did>
+            <unittitle>Urban renewal and home rule</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_84f32dd2824314775bafe85df64ece54" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ea374001dd04803669cf23990ba713b7" parent="aspace_84f32dd2824314775bafe85df64ece54" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_bdc30faaf8f3dbc5995c643a59d1c04d" level="file">
+          <did>
+            <unittitle>Potomac River</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4e7510cd25615b469563280ef0b68865" label="mixed materials" type="Box">1</container>
+            <container id="aspace_956977ef86dfe8ae12c91011c5b228a3" parent="aspace_4e7510cd25615b469563280ef0b68865" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_dc41f4cc7b251de03bd49efd3af9ada3" level="file">
+          <did>
+            <unittitle>Metro and mass transit</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d5edb6cd98629cd2457cc791eb9f6652" label="mixed materials" type="Box">1</container>
+            <container id="aspace_9bf72adb8d30c1ee846db3641c66a8c2" parent="aspace_d5edb6cd98629cd2457cc791eb9f6652" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_3a0a1e62a3d2e841b382ed004c096dc1" level="file">
+          <did>
+            <unittitle>Miscellaneous inspirational notes</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_6d08a21868cc349789ed26923a9ee680" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1b06fce7e87b50f1ff403691437c3185" parent="aspace_6d08a21868cc349789ed26923a9ee680" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_19f00f8bde2d3e28f3883b589ac33c7c" level="file">
+          <did>
+            <unittitle>Miscellaneous materials</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_6a11fea85bd05e91a1cc1d5345fa3692" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d10720e6d4bcd272363846d519015875" parent="aspace_6a11fea85bd05e91a1cc1d5345fa3692" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_0353c9fb8526f51fdcfff5a2f30831f7" level="file">
+          <did>
+            <unittitle>Correspondence and miscellaneous papers</unittitle>
+            <unitdate normal="1974/1979" type="inclusive">1974-1979</unitdate>
+            <container id="aspace_e54df8f8088c8a24a298edde034678c3" label="mixed materials" type="Box">2</container>
+            <container id="aspace_b1839d3bac74ff1ea4d0be8e2d1400d5" parent="aspace_e54df8f8088c8a24a298edde034678c3" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_3c57db3fc9ba4c33a7f8ffa113ffa609" level="file">
+          <did>
+            <unittitle>Downtown redevelopment and urban renewal</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_aabb7f0f746db97b279e0f392f241590" label="mixed materials" type="Box">2</container>
+            <container id="aspace_dd67632a7cd12b5541839b9d7544a4f9" parent="aspace_aabb7f0f746db97b279e0f392f241590" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_37d5977a032e07e0eb4cefd5c98e3f83" level="file">
+          <did>
+            <unittitle>History and bicentennial activities</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2db99baaef55670dc8c36cff53906462" label="mixed materials" type="Box">2</container>
+            <container id="aspace_07cd4d6b23874abb0fcc59bdbdfb93c2" parent="aspace_2db99baaef55670dc8c36cff53906462" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_b54ece669a067da4ed460886ae3fa35f" level="file">
+          <did>
+            <unittitle>Reports</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_8c07e9622d3c9823405af4bf17c3e902" label="mixed materials" type="Box">2</container>
+            <container id="aspace_02fa2257c74a24848520b72d433b1f68" parent="aspace_8c07e9622d3c9823405af4bf17c3e902" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_3367420b4d157275628ec811a630c237" level="file">
+          <did>
+            <unittitle>Southwest Spectator Article re Mrs. Ellis</unittitle>
+            <unitdate type="inclusive">26041</unitdate>
+            <container id="aspace_ea938655dd51927cc26fea410977d2b1" label="mixed materials" type="Box">2</container>
+            <container id="aspace_3622ccd1bd3068bf402455a559ab88c0" parent="aspace_ea938655dd51927cc26fea410977d2b1" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_46b6a5163cd8f8d6286ce55a136d9859" level="file">
+          <did>
+            <unittitle>Capitol Hill Spectator - SW Waterfront Festival</unittitle>
+            <unitdate type="inclusive">23874</unitdate>
+            <container id="aspace_b9b76dd9f708defe31b8cd3ae08e6811" label="mixed materials" type="Box">2</container>
+            <container id="aspace_9889e97d69dc1c1db79889b1ed23e8a0" parent="aspace_b9b76dd9f708defe31b8cd3ae08e6811" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_e74f7e2ac564a90206dac34a5bcef435" level="file">
+          <did>
+            <unittitle>Rolled Petition in support of Municipal Fish Market</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d084ed2b395f3588a0e1ed24c2351068" label="mixed materials" type="Box">2</container>
+            <container id="aspace_3faaf0e86124bc1d5c87b6d00c2f2894" parent="aspace_d084ed2b395f3588a0e1ed24c2351068" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_aebcba688566dcec002df46e5fd58a81" level="file">
+          <did>
+            <unittitle>Test of Roosevelt Speech given to Mrs. Ellis by Fund</unittitle>
+            <unitdate type="inclusive">13486</unitdate>
+            <container id="aspace_04ee0beb06486ec2d63191ebf1814098" label="mixed materials" type="Box">2</container>
+            <container id="aspace_2681f49262c968f0176f1691b674b2d2" parent="aspace_04ee0beb06486ec2d63191ebf1814098" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_54dc63631939a854e34f2b6985fd6e03" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1960/1970" type="inclusive">1960-1970</unitdate>
+            <container id="aspace_62cd3165b15db0dbf4b9f68226c57a7b" label="mixed materials" type="Box">2</container>
+            <container id="aspace_ff29c87647a427f93dd3acde75437a1f" parent="aspace_62cd3165b15db0dbf4b9f68226c57a7b" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_7a181228e36fae57f018bf9c8165cafd" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e973f4e0dbd8f92a1b91e32c9d9ba2b5" label="mixed materials" type="Box">2</container>
+            <container id="aspace_617b8ffec4e4770f80a74b17da1015eb" parent="aspace_e973f4e0dbd8f92a1b91e32c9d9ba2b5" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_d638edb2e2748a9be1621ec6aceab1d5" level="file">
+          <did>
+            <unittitle>Junior Village</unittitle>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_f9f3bfb9447e975970fff89d0a5965a6" label="mixed materials" type="Box">3</container>
+            <container id="aspace_3b5df5ba9f10eb39e1582e3509de7e03" parent="aspace_f9f3bfb9447e975970fff89d0a5965a6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_2ceb6d30a399a6f03f9ffe8693f40431" level="file">
+          <did>
+            <unittitle>Junior Village</unittitle>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_f65fa36b1a3a584cf537bdf0a957ac4b" label="mixed materials" type="Box">3</container>
+            <container id="aspace_b80e278f8f72e97401e41863d2233bd8" parent="aspace_f65fa36b1a3a584cf537bdf0a957ac4b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_21308dc08cc5b475065295dadb19eb88" level="file">
+          <did>
+            <unittitle>Junior Village</unittitle>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_c270832869741dab805778b6b0761846" label="mixed materials" type="Box">3</container>
+            <container id="aspace_88291044e32c1189d09ef665e578c366" parent="aspace_c270832869741dab805778b6b0761846" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_b10f8ad62359e088599026be092b7ace" level="file">
+          <did>
+            <unittitle>Junior Village</unittitle>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_81c607bcbcb044e158e9916f6f56adf6" label="mixed materials" type="Box">3</container>
+            <container id="aspace_2c3844f56e85c531a62debefbca86bf4" parent="aspace_81c607bcbcb044e158e9916f6f56adf6" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_aef182bea962146c47dc2413d0e4182d" level="file">
+          <did>
+            <unittitle>Junior Village</unittitle>
+            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_f02fc8e7bdd4d6f59a6ff66ebde91c17" label="mixed materials" type="Box">3</container>
+            <container id="aspace_9ee162abd6fe5fd6a5cb117aab3cd245" parent="aspace_f02fc8e7bdd4d6f59a6ff66ebde91c17" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_59fb87a9d3dc87ef6ccb60d2b4fd12f9" level="file">
+          <did>
+            <unittitle>Junior Village - clippings</unittitle>
+            <unitdate normal="1969/1973" type="inclusive">1969-1973</unitdate>
+            <container id="aspace_a2ee050d9da587e8b0e77b8cca57639c" label="mixed materials" type="Box">3</container>
+            <container id="aspace_5a69869941b99fc6729385b98ac10a61" parent="aspace_a2ee050d9da587e8b0e77b8cca57639c" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

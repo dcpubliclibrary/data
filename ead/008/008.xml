@@ -1,0 +1,188 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">008Kane</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Kane (Edward A.) Papers</titleproper>
+        <titleproper>Edward A. Kane <num>008</num> <num>008</num></titleproper>
+        <subtitle>An inventory of Edward A. Kane at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Public Library.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2001-02</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 10:50:02 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Edward A. Kane Papers</unittitle>
+      <unitid>008</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.75 linear feet; 2 boxes</extent>
+      </physdesc>
+      <unitdate normal="1953/1979" type="inclusive">1953-1979</unitdate>
+      <langmaterial id="aspace_23190dcbd1da46ed7f6d609dc98c982b">English</langmaterial>
+      <langmaterial id="aspace_ded76a42f2d253d880df7d29909a77bd">English</langmaterial>
+    </did>
+    <custodhist id="aspace_3beb1b8f21038ec6a37eafd5c34fd434">
+      <head>Custodial History</head>
+      <p>The records consist primarily of the N.E. Council of Citizens Associations donated by Edward Kane in 1988. Dr. and Mrs. Edward A. Kane were active in leadership positions in the Northeast Council of Citizens' Association and the Health Committee of the D.C. Federation of Citizens' Association.</p>
+    </custodhist>
+    <scopecontent id="aspace_648318f27a75349ef99242702aad68a0">
+      <head>Scope and Contents</head>
+      <p>The collection contains some correspondence, including a few letters from U.S. Presidents, clippings, photographs, booklets, programs, and other memorabilia from the Commission</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_20355bc5dbffe87a36d39c2596ca8e42" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_93a72f0bdbe603e69922368d61dfddf3" level="file">
+          <did>
+            <unittitle>Federation of Citizens Association newsletter</unittitle>
+            <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
+            <container id="aspace_6383d5da1c1d2b4e5bccb452de5d837e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6ef97da3f8b00d78ee508325884bd980" parent="aspace_6383d5da1c1d2b4e5bccb452de5d837e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_3b1b5a8c5f7f73f3ef99cb053345d374" level="file">
+          <did>
+            <unittitle>Federation of Citizens Association - Health Committee</unittitle>
+            <unitdate normal="1950/1989" type="inclusive">1950-1989</unitdate>
+            <container id="aspace_d97d3888ce0d0c245ac5edebfbbad6e7" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3aca4d3d2b9aa8e6e44e4ee0e177d087" parent="aspace_d97d3888ce0d0c245ac5edebfbbad6e7" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_b38ae7f3c73b441f46207312db929c1d" level="file">
+          <did>
+            <unittitle>Michigan Park Citizens Association - Constitution</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_15e60e37ce31cb0a3b4e454ad4889c94" label="mixed materials" type="Box">1</container>
+            <container id="aspace_25c074243afcc01d2ff190c141588877" parent="aspace_15e60e37ce31cb0a3b4e454ad4889c94" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_259812992ae419c8c0cd6e52ac893d3c" level="file">
+          <did>
+            <unittitle>Michigan Park Citizens Association - Membership list</unittitle>
+            <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <container id="aspace_b6297df4af4ba31863206d84175bb878" label="mixed materials" type="Box">1</container>
+            <container id="aspace_895a75a8f5ca8b8e209644c1f61e8c38" parent="aspace_b6297df4af4ba31863206d84175bb878" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_4fd15db06635f5e78956c6ad45795f08" level="file">
+          <did>
+            <unittitle>Michigan Park Citizens Association - Meeting minutes</unittitle>
+            <unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate>
+            <container id="aspace_45e9f216b2c01030fe4435e62f73b92f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_05819adb0837c178bff43a2bcf2f4c71" parent="aspace_45e9f216b2c01030fe4435e62f73b92f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_f1f9ff2d39a018c679c2741e14d533dd" level="file">
+          <did>
+            <unittitle>Michigan Park Citizens Association - Newsletters</unittitle>
+            <unitdate normal="1980/1985" type="inclusive">1980-1985</unitdate>
+            <container id="aspace_540f7de640cb822d96224906ff811ed6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_68a6b6f55bb4b03ab1a1d661eb595828" parent="aspace_540f7de640cb822d96224906ff811ed6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ad545d35137a05e2ad55ecb0c56ae2cb" level="file">
+          <did>
+            <unittitle>Michigan Park Citizens Association - General</unittitle>
+            <unitdate normal="1955/1985" type="inclusive">1955-1985</unitdate>
+            <container id="aspace_31b3bb40fd66b8db4f2736dd0cd66a39" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e18d03c8e1ddee0483ecd8f844bbfeed" parent="aspace_31b3bb40fd66b8db4f2736dd0cd66a39" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_3e67bbd3ddd15d7fe6d8c0e954096467" level="file">
+          <did>
+            <unittitle>National Gateway Citizens Association</unittitle>
+            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_d4049e146f60fe0dcde7fc92fcb99a58" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7e13eff73503dcb2d19aa0feb834227c" parent="aspace_d4049e146f60fe0dcde7fc92fcb99a58" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_3d3f2343a5c5694da14aea95c06b1eba" level="file">
+          <did>
+            <unittitle>Northeast Council - Correspondence</unittitle>
+            <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
+            <container id="aspace_856dee30d988aa33388787a5359cb02e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d2ca5bb499fbf0527f6c1ddc6a9b2252" parent="aspace_856dee30d988aa33388787a5359cb02e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_cd82ac9fae7010d3274e32e734e83c9f" level="file">
+          <did>
+            <unittitle>Northeast Council - Correspondence</unittitle>
+            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_32265f2ab5a6557981539379958b463e" label="mixed materials" type="Box">2</container>
+            <container id="aspace_7867d32ae10f01c4c01cec21014d27f4" parent="aspace_32265f2ab5a6557981539379958b463e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_45354ea175c1db07f572624c02fc2686" level="file">
+          <did>
+            <unittitle>Northeast Council - Minutes</unittitle>
+            <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
+            <container id="aspace_f25bd2875ef953e37d215a06497f466e" label="mixed materials" type="Box">2</container>
+            <container id="aspace_96089299c1a2a74c936971ae406edb40" parent="aspace_f25bd2875ef953e37d215a06497f466e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_8ff8a9de0c768c55ead2a252eab5a967" level="file">
+          <did>
+            <unittitle>Northeast Council - Newsletter</unittitle>
+            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_62a071b84898f22b4da606c66fbdc223" label="mixed materials" type="Box">2</container>
+            <container id="aspace_126ba7d714519f47add7ff81d944221b" parent="aspace_62a071b84898f22b4da606c66fbdc223" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_8f227a874c587affb8f6270bbf93471f" level="file">
+          <did>
+            <unittitle>Northeast Council - Clippings</unittitle>
+            <unitdate normal="1950/1960" type="inclusive">1950-1960</unitdate>
+            <container id="aspace_d5930ca6dabc460d97d9f3908f35a97a" label="mixed materials" type="Box">2</container>
+            <container id="aspace_3ba8dec2b811c40741efdb692ea84ba0" parent="aspace_d5930ca6dabc460d97d9f3908f35a97a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_392403e0628a0b0fe5dc4542974be773" level="file">
+          <did>
+            <unittitle>Northeast Council - General</unittitle>
+            <unitdate normal="1953/1966" type="inclusive">1953-1966</unitdate>
+            <container id="aspace_487663dce1f45a0c0a8d7f04b0005fb5" label="mixed materials" type="Box">2</container>
+            <container id="aspace_f8f862ed4eb66ae8a1d2e055a9d106b8" parent="aspace_487663dce1f45a0c0a8d7f04b0005fb5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_3381d6c93a99b0e299b87d6997980071" level="file">
+          <did>
+            <unittitle>Woodridge Michigan Park News</unittitle>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_7a774514fb79f0e6329b9c6bd09305bf" label="mixed materials" type="Box">2</container>
+            <container id="aspace_6e1497b1da4a362204790878919296ba" parent="aspace_7a774514fb79f0e6329b9c6bd09305bf" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_7d06b22d3d7a2de247b4d6bc35be7875" level="file">
+          <did>
+            <unittitle>Photograph - Dr. Kane</unittitle>
+            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_c75d30a7c278eb59a5e3e125e08e3912" label="mixed materials" type="Box">2</container>
+            <container id="aspace_ee62ac9ca643257f01b59388c4afe97f" parent="aspace_c75d30a7c278eb59a5e3e125e08e3912" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

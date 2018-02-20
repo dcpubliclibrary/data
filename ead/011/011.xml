@@ -1,0 +1,166 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">011Adams</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Adams-Morgan Community Council Records</titleproper>
+        <titleproper>Adams-Morgan Community Council <num>011</num> <num>011</num></titleproper>
+        <subtitle>An inventory of Adams-Morgan Community Council at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Public Library.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2001-02</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 10:50:20 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Adams-Morgan Community Council Records</unittitle>
+      <unitid>011</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.25 linear feet; 1 box</extent>
+      </physdesc>
+      <unitdate normal="1946/1967" type="inclusive">1946-1967</unitdate>
+      <langmaterial id="aspace_ccfba8bf097a46a063e9577385ede8a5">English</langmaterial>
+      <langmaterial id="aspace_dc1964b0bd0bcd7c922528a27f4e6a42">English</langmaterial>
+    </did>
+    <bioghist id="aspace_2b34e8e5da966883a2413eccf1177062">
+      <head>Biographical / Historical</head>
+      <p>The papers which cover Mrs. Ziegler's career as an educator of the mentally retarded at the District Training School in Laurel, Maryland which later became Forest Haven School. Papers covering Mrs. Zeigler include photographs of activities and events at the school, publications regarding the training of the mentally retarded, press releases, programs, a newsletter, correspondence, awards, published books, and certificates. Also of particular importance are seven scrapbooks of clippings, photographs, programs, invitations, letters, and other memorabilia prepared by Ms. Zeigler on the District Training School, which covers the years 1924 through the 1960s.</p>
+    </bioghist>
+    <scopecontent id="aspace_bbe7c34a479895b699e98e8665d0c98d">
+      <head>Scope and Contents</head>
+      <p>The records consist of correspondence, minutes, announcements, budgets and clippings and cover such topics as housing, racial discrimination, and community organizations.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85062603" source="Library of Congress Subject Headings">Housing</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008810" source="lcsh">Associations, institutions, etc</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_11c0b167509bd9b9683fe087af5a3761" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_d9f5f848b288f55905da59eb8758960a" level="file">
+          <did>
+            <unittitle>Adams-Morgan News</unittitle>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_8dc81411182706e108d7ce65a46dd926" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e8205013e4363ee674796d63b2d5c52c" parent="aspace_8dc81411182706e108d7ce65a46dd926" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_afa6bc854f9ecf1405111eb8c18b962a" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate>
+            <container id="aspace_3a2ab87f7d4d51cd9e4deb749946d275" label="mixed materials" type="Box">1</container>
+            <container id="aspace_516b777b32337fc7326b5ba57f6d9acf" parent="aspace_3a2ab87f7d4d51cd9e4deb749946d275" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_8afc9e9e4482355daeb9b9dcbd39d10d" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1958/1959" type="inclusive">1958-1959</unitdate>
+            <container id="aspace_d93ca944576a9809eaa5c9d00cd0469a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b1f07948dd8c57bf896cfe4175608d7b" parent="aspace_d93ca944576a9809eaa5c9d00cd0469a" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_22ea4ef0d2ffe66afda2dc7716351340" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate>
+            <container id="aspace_da0cc1b052b6d38a8034741bcaf411d2" label="mixed materials" type="Box">1</container>
+            <container id="aspace_333341c67d86b916a5620e603428a7b9" parent="aspace_da0cc1b052b6d38a8034741bcaf411d2" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_9d56f776caf1d67932af01ffada75aae" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1962/1964" type="inclusive">1962-1964</unitdate>
+            <container id="aspace_2659562f1a5b958b741c933bbc558b7f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f2f638f43e9c897b96ea1affd73cdf9e" parent="aspace_2659562f1a5b958b741c933bbc558b7f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_e8b312950f0916f9c289731a3df82c14" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_0ca8948a80b2e190d2060056e60ea1ae" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a493d7b7ac29cd0683e419878756b24f" parent="aspace_0ca8948a80b2e190d2060056e60ea1ae" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_5374e870b97a97f7b3dfa861175de660" level="file">
+          <did>
+            <unittitle>Discrimination Clippings</unittitle>
+            <unitdate normal="1946/1959" type="inclusive">1946-1959</unitdate>
+            <container id="aspace_3d23c565e34e5d69bf5cf954e4278266" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a617fbabc88c16e5d040d8c2e2810d3e" parent="aspace_3d23c565e34e5d69bf5cf954e4278266" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_c0af66aac646700e69b0e7a417489a83" level="file">
+          <did>
+            <unittitle>Discrimination Clippings</unittitle>
+            <unitdate normal="1960/1965" type="inclusive">1960-1965</unitdate>
+            <container id="aspace_e475890520d2503ce7394bc529594699" label="mixed materials" type="Box">1</container>
+            <container id="aspace_eff667de41d57ebf614fc3887b2e5943" parent="aspace_e475890520d2503ce7394bc529594699" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_743a9ae3f21a00a5a09f76661bbc8343" level="file">
+          <did>
+            <unittitle>Hollyday House and other community organizations</unittitle>
+            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_506e465e8b699fbae2bdc06fdc9681c8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_52b0af836bedf44cc4cd60c2a6832cfd" parent="aspace_506e465e8b699fbae2bdc06fdc9681c8" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ba3a2de57a1774fed90a72ac557b12fa" level="file">
+          <did>
+            <unittitle>Housing issues</unittitle>
+            <unitdate normal="1959/1962" type="inclusive">1959-1962</unitdate>
+            <container id="aspace_9e5c1842a09d3079a77e83fbe75abfc2" label="mixed materials" type="Box">1</container>
+            <container id="aspace_37bedb154cc880f2cc2ec0254e9b6af7" parent="aspace_9e5c1842a09d3079a77e83fbe75abfc2" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_b9085b859aedfb614f66d192d35fc6cf" level="file">
+          <did>
+            <unittitle>Non-discrimination policy for the D.C. government</unittitle>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_42dfb2716b261424f7f5e9fd6d214133" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d3143ea71a8fcd222d516b918652da0c" parent="aspace_42dfb2716b261424f7f5e9fd6d214133" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_d6840de0fce94d9dd994b8596d0f67c0" level="file">
+          <did>
+            <unittitle>Meeting minutes and financial records</unittitle>
+            <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+            <container id="aspace_58877d7d6bd78d1c9270c3021e18d37d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7fbcf42403c08fc4928ba03d188f3d59" parent="aspace_58877d7d6bd78d1c9270c3021e18d37d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_b613d67d5b6b3b2fb3d7950ba8300ffa" level="file">
+          <did>
+            <unittitle>Summer Camp</unittitle>
+            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_8c7f6c1fb8ecec14b8c51db957978cb3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_53b36c14c361ea870a4a5dbfb53b7791" parent="aspace_8c7f6c1fb8ecec14b8c51db957978cb3" type="Folder">13</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

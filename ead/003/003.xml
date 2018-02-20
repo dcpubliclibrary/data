@@ -1,0 +1,1475 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">003SDDC</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Self-Determination for D.C. (SDDC) Records</titleproper>
+        <titleproper>Self-Determination for D.C. (SDDC) <num>003</num> <num>003</num></titleproper>
+        <subtitle>An inventory of Self-Determination for D.C. (SDDC) at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Public Library.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>1999-08</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 10:49:25 -0500</date>.</creation>
+      <langusage>
+        <language encodinganalog="546" langcode="eng">English</language>
+      </langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Self-Determination for D.C. (SDDC) Records</unittitle>
+      <unitid>003</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">25 boxes</extent>
+      </physdesc>
+      <unitdate normal="1970/1980" type="inclusive">1970-1980</unitdate>
+      <langmaterial id="aspace_319c9e8c3652ed37cecb995e8abda2e2">English</langmaterial>
+      <langmaterial id="aspace_57a5a4ae55d571acf2cc8767f68dc550">English</langmaterial>
+    </did>
+    <bioghist id="aspace_1c51fbfaa59b3d100bec4495bedb28d9">
+      <head>Biographical / Historical</head>
+      <p>The collection contains annual and board of directors' minutes, administrative directives, legislative testimony, financial reports, and copies of the organization's newsletter, the Bulletin Board. Also included are numerous studies and reports sponsored by DCCBPE such as Student Responsibilities and Rights, A Quest for Equal Educational Opportunity in a Major Urban School District, and Creating a Resource Allocation System to name a few.</p>
+    </bioghist>
+    <custodhist id="aspace_db4b59af520d22de5760cddd1636ec7b">
+      <head>Custodial History</head>
+      <p>The materials were donated in 1989 by Richard W. Clark, Chairman of Self-Determination for D.C. National Coalition at the time.</p>
+    </custodhist>
+    <scopecontent id="aspace_a4ceccaac9091440c0e0ca2fe9984dbd">
+      <head>Scope and Contents</head>
+      <p>The collection consists of office files documenting the Coalition's activities in support of home rule and voting rights for D.C. In particular, it includes testimony, legislation, lobbying packets, correspondence, and media lists regarding its lobbying efforts in support of Congressional legislation passed in 1973 granting D.C. home rule (D.C. Self-Government and Reorganization Act). The records also contain materials compiled by the Coalition regarding supportive, related, and opposing organizations, including reports, clippings, press releases, newsletters, publications, and brochures. Memorabilia such as a hat, banner, and bumper stickers are also a part of the collection. The collection is arranged into 11 series; Topical Files, Opposition Groups, Support Groups, Chronological Files, Lobbying Files, Media Coverage, Legislation, Post-Home Rule Passage, Related Organizations, Research, and Memorabilia.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2002011436" source="Library of Congress Subject Headings">Politics and government</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008810" source="lcsh">Associations, institutions, etc</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85127523" source="Library of Congress Subject Headings">Statehood (American politics)</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_5107a85b76202f4a536fe2e7a15a951e" level="series">
+        <did>
+          <unittitle>Series 1: Topical Files, 1975-1985</unittitle>
+        </did>
+        <scopecontent id="aspace_27836da1d145e45b9749377c1cee3d48">
+          <head>Scope and Contents</head>
+          <p>This series consists of topical files related to the issue of voting rights, home rule, and statehood in the District of Columbia. Contains congressional testimony, legislation, correspondence to D.C. and federal legislators, brochures, flyers, and handwritten notes.</p>
+        </scopecontent>
+        <c id="aspace_e40832e9c8883e4b77d835da46da44e5" level="file">
+          <did>
+            <unittitle>Government Reorganization Act</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_79a45b4cd7309aeb2316bb5e1386236b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a0d7e6865cdd8b0980511373da9a0dc8" parent="aspace_79a45b4cd7309aeb2316bb5e1386236b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_00c6a58dd5ac7945cb5ffadc84170bc5" level="file">
+          <did>
+            <unittitle>Home rule - background</unittitle>
+            <unitdate normal="1962/1980" type="inclusive">1962-1980</unitdate>
+            <container id="aspace_4b7313e397393a068a5b4c66a33a35e5" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4940a8994e3b3271aeebe5f7c6bf41c3" parent="aspace_4b7313e397393a068a5b4c66a33a35e5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_0e94120946d5276209fd0fe12410e121" level="file">
+          <did>
+            <unittitle>Home rule - background</unittitle>
+            <unitdate normal="1962/1980" type="inclusive">1962-1980</unitdate>
+            <container id="aspace_54fe93ad9f4466a5421045de97ff3508" label="mixed materials" type="Box">1</container>
+            <container id="aspace_77512f556f4b44ad00cb6ed9bef0453d" parent="aspace_54fe93ad9f4466a5421045de97ff3508" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ce36c60e5a7985de969ad8578984b22a" level="file">
+          <did>
+            <unittitle>Home rule - background</unittitle>
+            <unitdate normal="1962/1980" type="inclusive">1962-1980</unitdate>
+            <container id="aspace_76cdf7e08d599e3d1427ae1cb8450a9e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1be192e069d25e851d141b790c72e974" parent="aspace_76cdf7e08d599e3d1427ae1cb8450a9e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_f62db09aca37ecaae36ad6f832a220ed" level="file">
+          <did>
+            <unittitle>Home rule - background</unittitle>
+            <unitdate normal="1962/1980" type="inclusive">1962-1980</unitdate>
+            <container id="aspace_4db565001c3f5452830c0ac40ea99493" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4a460ae8026ff979aaf3efabcb2ab6be" parent="aspace_4db565001c3f5452830c0ac40ea99493" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_5430f93ce1d60904fae59f93eb7fb4ca" level="file">
+          <did>
+            <unittitle>Home rule - background</unittitle>
+            <unitdate normal="1962/1980" type="inclusive">1962-1980</unitdate>
+            <container id="aspace_80254cb1b7e7171e25c71574d620b3e8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_fbcfe89e73a3fc70e9b4bebafe0eb6f4" parent="aspace_80254cb1b7e7171e25c71574d620b3e8" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_79675dddfb2fab400fd1a442b2252046" level="file">
+          <did>
+            <unittitle>Home rule - background</unittitle>
+            <unitdate normal="1962/1980" type="inclusive">1962-1980</unitdate>
+            <container id="aspace_84d9ddfae5fe4e875f7e430119cfcefa" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1099e3c456d9c0a44b522b19e98c62a3" parent="aspace_84d9ddfae5fe4e875f7e430119cfcefa" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_a3e4df275edd6bb8d99b7f43d4984512" level="file">
+          <did>
+            <unittitle>Home rule - background</unittitle>
+            <unitdate normal="1962/1980" type="inclusive">1962-1980</unitdate>
+            <container id="aspace_dc33c3d64dddf66e00ada14e7a81575f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8915ad1acd1ed98cb30a1a885f43c7a1" parent="aspace_dc33c3d64dddf66e00ada14e7a81575f" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_1f7a255b4d37ee7109ce162762f0443b" level="file">
+          <did>
+            <unittitle>Home rule - background</unittitle>
+            <unitdate normal="1962/1980" type="inclusive">1962-1980</unitdate>
+            <container id="aspace_979b7437962d0bd448c4a3f775f33161" label="mixed materials" type="Box">1</container>
+            <container id="aspace_78e29ab41fd4bb7aca52e0d3c51ac291" parent="aspace_979b7437962d0bd448c4a3f775f33161" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_6741589049022b3cec87f68764c20293" level="file">
+          <did>
+            <unittitle>Home Rule</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">October 1982</unitdate>
+            <container id="aspace_54812edbb3abe2bb96e1fe42e949268b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2d439b983e2d7fb6d3b3d6937b76c7ba" parent="aspace_54812edbb3abe2bb96e1fe42e949268b" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_83c2e8617b5d14e2bb6a5a8fe0e58de8" level="file">
+          <did>
+            <unittitle>Home rule - background</unittitle>
+            <unitdate normal="1962/1980" type="inclusive">1962-1980</unitdate>
+            <container id="aspace_c2517ceadb0787d2ee46bc09d49d0e27" label="mixed materials" type="Box">2</container>
+            <container id="aspace_353797674171e970a5a5a7e9a0bff7e6" parent="aspace_c2517ceadb0787d2ee46bc09d49d0e27" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_8174ab195a1220e9c5c6836030061fe0" level="file">
+          <did>
+            <unittitle>Home rule - background</unittitle>
+            <unitdate normal="1962/1980" type="inclusive">1962-1980</unitdate>
+            <container id="aspace_ff4ff3f2526fe9669fdfb78a00b2e0c0" label="mixed materials" type="Box">2</container>
+            <container id="aspace_3c64ce51e98820cc095e116e96fd09b4" parent="aspace_ff4ff3f2526fe9669fdfb78a00b2e0c0" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ec02ca8837cefa23f8d06f46df2faf9a" level="file">
+          <did>
+            <unittitle>Home rule - background</unittitle>
+            <unitdate normal="1962/1980" type="inclusive">1962-1980</unitdate>
+            <container id="aspace_5cd46e81bdf6da6a4f73119b7498dca2" label="mixed materials" type="Box">2</container>
+            <container id="aspace_4d8956760bea1f129394ce8527589955" parent="aspace_5cd46e81bdf6da6a4f73119b7498dca2" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_1940066ac49b067e575a4a3a6e05d6bc" level="file">
+          <did>
+            <unittitle>Walter Fauntroy</unittitle>
+            <unitdate normal="1981/1989" type="inclusive">1981-1989</unitdate>
+            <container id="aspace_1bfb6c117bce8aa3c7cd8492dcea4d49" label="mixed materials" type="Box">2</container>
+            <container id="aspace_869b9785365b9c85395fe34a4419786a" parent="aspace_1bfb6c117bce8aa3c7cd8492dcea4d49" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ebd88c02194980135ab73c1d0c0886cb" level="file">
+          <did>
+            <unittitle>Mayor Barry's office</unittitle>
+            <unitdate normal="1980/1984" type="inclusive">1980-1984</unitdate>
+            <container id="aspace_349465b3833ebb502425e83abdedf545" label="mixed materials" type="Box">2</container>
+            <container id="aspace_f73e38114d787466da263f8b872ea67b" parent="aspace_349465b3833ebb502425e83abdedf545" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_09ad8b6974990ed466a2d171f950dbff" level="file">
+          <did>
+            <unittitle>Senator Ted Kennedy</unittitle>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_708c539f03ffee61953e6eea063f540a" label="mixed materials" type="Box">2</container>
+            <container id="aspace_1d01a7f5cfcc0ec0df4e7820e90961ab" parent="aspace_708c539f03ffee61953e6eea063f540a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_380a35cf2795e653aad953e6feb8d079" level="file">
+          <did>
+            <unittitle>Lobby Corps</unittitle>
+            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_88acb05c7aec550aba11e7f0574fabe3" label="mixed materials" type="Box">2</container>
+            <container id="aspace_a522a1c983b224d159d3420a5fa93421" parent="aspace_88acb05c7aec550aba11e7f0574fabe3" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_4346fe40541b08da9c363cd84b770168" level="file">
+          <did>
+            <unittitle>D.C. voting rights testimony</unittitle>
+            <unitdate normal="1978/1983" type="inclusive">1978-1983</unitdate>
+            <container id="aspace_e34f82f40fa74183b7817366cd6b2b2b" label="mixed materials" type="Box">3</container>
+            <container id="aspace_56f9262791f7c9586520b10829f740fc" parent="aspace_e34f82f40fa74183b7817366cd6b2b2b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_0ff4d95e2c32cb8456f2c01d46810a9d" level="file">
+          <did>
+            <unittitle>D.C. voting rights testimony</unittitle>
+            <unitdate normal="1978/1983" type="inclusive">1978-1983</unitdate>
+            <container id="aspace_45dbbcfc26cc01809b1a711919faab41" label="mixed materials" type="Box">3</container>
+            <container id="aspace_6a48f6238fe144ddb93358ccfa5fad33" parent="aspace_45dbbcfc26cc01809b1a711919faab41" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_9019d2ca70c2907281eddeac2a4964b4" level="file">
+          <did>
+            <unittitle>D.C. voting rights testimony</unittitle>
+            <unitdate normal="1978/1983" type="inclusive">1978-1983</unitdate>
+            <container id="aspace_596ded93e4349dd8beed9761c4b8f8af" label="mixed materials" type="Box">3</container>
+            <container id="aspace_6406b0c09b065e544d291281c2680689" parent="aspace_596ded93e4349dd8beed9761c4b8f8af" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_a35e7e2303745e22e22396232e114fd8" level="file">
+          <did>
+            <unittitle>White House</unittitle>
+            <unitdate normal="1978/1981" type="inclusive">1978-1981</unitdate>
+            <container id="aspace_b98afc9b3e61b6f293e1e4e77e222057" label="mixed materials" type="Box">3</container>
+            <container id="aspace_d31cdef8716ffccbf4216aebbcf623e0" parent="aspace_b98afc9b3e61b6f293e1e4e77e222057" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_89a0c73bf1a3efd6fa7db16c4c73d572" level="file">
+          <did>
+            <unittitle>Statehood and the Coalition</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_01a95887902b6510abee47ffba3f96c9" label="mixed materials" type="Box">3</container>
+            <container id="aspace_18c25aeba7c0997fc89eab66e7e794a1" parent="aspace_01a95887902b6510abee47ffba3f96c9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_fdfa02300e767e4141a8a34c9fc21b17" level="file">
+          <did>
+            <unittitle>Tax Day</unittitle>
+            <unitdate normal="1985-04-15/1985-04-15" type="inclusive">April 15 1985</unitdate>
+            <container id="aspace_c66d6e97f3c76ff56c85cacb50dee122" label="mixed materials" type="Box">3</container>
+            <container id="aspace_521d55f22e58503ca5f03b1378b932f0" parent="aspace_c66d6e97f3c76ff56c85cacb50dee122" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_c0954623364f83ea3722f129d4106ae7" level="file">
+          <did>
+            <unittitle>Local Coalition Activities</unittitle>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_b5d4962c9a2cf07cb3601ba773695feb" label="mixed materials" type="Box">3</container>
+            <container id="aspace_6c7352a348538b47adc7b13516c7efed" parent="aspace_b5d4962c9a2cf07cb3601ba773695feb" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_1413f19a5c4408ba65ab212246aa2854" level="file">
+          <did>
+            <unittitle>Project Vote Count</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_80dd10cd1570bdf0f0b386e73a91380d" label="mixed materials" type="Box">3</container>
+            <container id="aspace_30ea06832cab38e56b46dcbee90075f9" parent="aspace_80dd10cd1570bdf0f0b386e73a91380d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_b3b8459ad96577d2a36c0a1ec0cdbf56" level="file">
+          <did>
+            <unittitle>PR Group</unittitle>
+            <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <container id="aspace_c3c911b0b53d9c150cea0a5cce03465f" label="mixed materials" type="Box">3</container>
+            <container id="aspace_6e6a0ba3dd93b5171122acb61fda0927" parent="aspace_c3c911b0b53d9c150cea0a5cce03465f" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_4a4b60d02a98fbea3ebd22a80b5d6e9f" level="series">
+        <did>
+          <unittitle>Series 2: Opposition Groups, 1979-1986</unittitle>
+        </did>
+        <scopecontent id="aspace_4789bf1df85e510d3a87902a43300b7a">
+          <head>Scope and Contents</head>
+          <p>Contains materials about organizations and individuals the Coalition considered opponents of self-determination for D.C. such as the Republican Party.</p>
+        </scopecontent>
+        <c id="aspace_bc037f7ba199ba8e840267b1d30f3abb" level="file">
+          <did>
+            <unittitle>Opposition organizations</unittitle>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_1b9bf49fc1dca9ff6d6dddfe8dc85c86" label="mixed materials" type="Box">4</container>
+            <container id="aspace_422c238a7288bded97edb85224b64480" parent="aspace_1b9bf49fc1dca9ff6d6dddfe8dc85c86" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_758483f5a1e5fcba970b173305aa5f62" level="file">
+          <did>
+            <unittitle>Polls</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_56e5ef1509f4457c2d5ef3b85a3bd115" label="mixed materials" type="Box">4</container>
+            <container id="aspace_4767f6f4222c7f289f4c81f34ecbb074" parent="aspace_56e5ef1509f4457c2d5ef3b85a3bd115" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_84471fb10c7a555a761b1e2fe756769f" level="file">
+          <did>
+            <unittitle>Ratification slates</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_cec16de670ee0f8ca163b447203807c5" label="mixed materials" type="Box">4</container>
+            <container id="aspace_3e4d236fde30a71134d49847ee4b53ae" parent="aspace_cec16de670ee0f8ca163b447203807c5" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_45b4fc45b6d3cbd4d43ace278ff64c46" level="file">
+          <did>
+            <unittitle>Pre-1983 publications</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_ecc9111d54cbcc989be32a279f56d79c" label="mixed materials" type="Box">4</container>
+            <container id="aspace_199fccfcb5364a33aafdda0088f73427" parent="aspace_ecc9111d54cbcc989be32a279f56d79c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_d74cb6b371811742e7f4eba946c3fbf2" level="file">
+          <did>
+            <unittitle>Republican convention</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_096cf2d5f4aa03363dc1cca10c902762" label="mixed materials" type="Box">4</container>
+            <container id="aspace_f3c84b02ee6020fc3ffd5ee281efc8a8" parent="aspace_096cf2d5f4aa03363dc1cca10c902762" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_d17ee2f9785f2b7c89c78e7e09161c93" level="file">
+          <did>
+            <unittitle>D.C. Republicans for Self-Determination</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_47ef265cf95410c531a766b3ffee338d" label="mixed materials" type="Box">4</container>
+            <container id="aspace_c2ae8352a6b2849906c1b29f547d9aec" parent="aspace_47ef265cf95410c531a766b3ffee338d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_212913e955678b6f821e5d136543c388" level="file">
+          <did>
+            <unittitle>Republicans</unittitle>
+            <unitdate normal="1975/1980" type="inclusive">1975-1980</unitdate>
+            <container id="aspace_bec33d28a8f8112c3defec25196fd563" label="mixed materials" type="Box">4</container>
+            <container id="aspace_c2b8528c0f6318ee344c9dceaf1a6b5d" parent="aspace_bec33d28a8f8112c3defec25196fd563" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_af77cf5843eb38e0153a5f759f196166" level="file">
+          <did>
+            <unittitle>Originals (newsletters</unittitle>
+            <unitdate normal="1974/1983" type="inclusive">1974-1983</unitdate>
+            <container id="aspace_bd1dc7e5595eb13a850821b3420f0d63" label="mixed materials" type="Box">5</container>
+            <container id="aspace_975adf5bbd6fa125d8ea7b590a1761d3" parent="aspace_bd1dc7e5595eb13a850821b3420f0d63" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c165450fac36f96bfbb6ecdef58cd865" level="file">
+          <did>
+            <unittitle>Miscellaneous documents</unittitle>
+            <unitdate normal="1977/1983" type="inclusive">1977-1983</unitdate>
+            <container id="aspace_647025e0f14eae9ed177be5d9e8983fc" label="mixed materials" type="Box">5</container>
+            <container id="aspace_83e959680a011269cacec04622355eb7" parent="aspace_647025e0f14eae9ed177be5d9e8983fc" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_f2c8ac755b5afaa1e7c2e2258dd66823" level="file">
+          <did>
+            <unittitle>Mayor Barry's Breakfast for self-government</unittitle>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_3ce8be4088310ac201c6c9ce957ebcc4" label="mixed materials" type="Box">5</container>
+            <container id="aspace_214fff6aa3c5b3805a0f4d1c6c5256c8" parent="aspace_3ce8be4088310ac201c6c9ce957ebcc4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_03e2062474011e4f3e554ec3d65ba8f2" level="file">
+          <did>
+            <unittitle>Mayor Breakfast for voting rights</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_3649f4ba2fd432b98048f42d3bbb17c9" label="mixed materials" type="Box">5</container>
+            <container id="aspace_2b8c9af58fc93a7f462c720f0336292a" parent="aspace_3649f4ba2fd432b98048f42d3bbb17c9" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_1c734b001e62d2a67387030d64eac6fb" level="file">
+          <did>
+            <unittitle>Information packet</unittitle>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_40f83e0e6408ee713c497fd4e4912c3e" label="mixed materials" type="Box">5</container>
+            <container id="aspace_7fda200d00b167e579e8fbfd49907356" parent="aspace_40f83e0e6408ee713c497fd4e4912c3e" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_96651fd68b452c25bb4f75b2ce6f7baf" level="series">
+        <did>
+          <unittitle>Series 3: Support Groups, 1976-1985</unittitle>
+        </did>
+        <scopecontent id="aspace_394973b85a7f269c56b0c69705ee4c7d">
+          <head>Scope and Contents</head>
+          <p>This series consists of reports, clippings, correspondence, pamphlets, and printed materials regarding organizations the Coalition considered supporters of its goals. A sample of groups include the American Jewish Congress, Common Cause, AFL-CIO, Democratic Party, Interfaith Conference of Metropolitan Washington, Lawyers' Committee for Civil Rights Under the Law, National Council of Churches, and the Episcopal Church.</p>
+        </scopecontent>
+        <c id="aspace_f62485e0c1d1425ab3c05a27d8938802" level="file">
+          <did>
+            <unittitle>D.C. Voting Rights Amendment Briefing book</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_965f827f399246ef1c4e71469921796a" label="mixed materials" type="Box">6</container>
+            <container id="aspace_ebd0cffd8ea03f3889a6cc827b9f83a4" parent="aspace_965f827f399246ef1c4e71469921796a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_db388d21f3314ec198c1a5be44e6fd37" level="file">
+          <did>
+            <unittitle>ACLU thru Black organizations</unittitle>
+            <unitdate normal="1977/1983" type="inclusive">1977-1983</unitdate>
+            <container id="aspace_5867e0735ffb5e923a2db2f73555b017" label="mixed materials" type="Box">6</container>
+            <container id="aspace_cb6314cc17f62439dc060b3710806a83" parent="aspace_5867e0735ffb5e923a2db2f73555b017" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_3fc0d278d70b0e33ad3152bae3b2836e" level="file">
+          <did>
+            <unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_53c85d5d5ca6626a1dd7622f8d34cfdd" label="mixed materials" type="Box">7</container>
+            <container id="aspace_f4dc9ed550fabf388270c797724c56d1" parent="aspace_53c85d5d5ca6626a1dd7622f8d34cfdd" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_598bf8fc4cba43be0a1f02fdd58a0b51" level="file">
+          <did>
+            <unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_a69ad7ba15441e2447d6da5d1f7d86d5" label="mixed materials" type="Box">7</container>
+            <container id="aspace_492cc02f18b611645654d3bc6da927e5" parent="aspace_a69ad7ba15441e2447d6da5d1f7d86d5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_474022e095a487bf9f3f4a50515c2abe" level="file">
+          <did>
+            <unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_54bf35bdb70ec8e87b237b90a3392539" label="mixed materials" type="Box">7</container>
+            <container id="aspace_135d66aa9ec5fac180133379e4a039ae" parent="aspace_54bf35bdb70ec8e87b237b90a3392539" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ec6f98986821a9cf72dab2994fc848ce" level="file">
+          <did>
+            <unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e394394f92ad385efe4c5e6e2ba07c69" label="mixed materials" type="Box">7</container>
+            <container id="aspace_7e0b48e9cb182f6049bb302498efe060" parent="aspace_e394394f92ad385efe4c5e6e2ba07c69" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_b2983d0a4db486f0ef97ad58bd686281" level="file">
+          <did>
+            <unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d895e58654ad942a92a35bedca8b72a1" label="mixed materials" type="Box">7</container>
+            <container id="aspace_ee3bbcd387e3e9dac4a1cf2f4514ea77" parent="aspace_d895e58654ad942a92a35bedca8b72a1" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_27203748a721ef56bcc678146b7fbaa0" level="file">
+          <did>
+            <unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_bc9115aa71d463b1887f15bc7bab7a46" label="mixed materials" type="Box">7</container>
+            <container id="aspace_5ddb8f3df2a98fec7f1d0c520c83f184" parent="aspace_bc9115aa71d463b1887f15bc7bab7a46" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_54685b7cf8d41514a37b5f6964ef20d1" level="file">
+          <did>
+            <unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c807446475331231b73b5fbc10300eff" label="mixed materials" type="Box">7</container>
+            <container id="aspace_c4f9742f6982f97b4fc7e62e56862fd8" parent="aspace_c807446475331231b73b5fbc10300eff" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_5f20fd503d9d0010d3fc17a383c0afd6" level="file">
+          <did>
+            <unittitle>Board of Trade thru D.C. Commission for Women</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5ed1a63cd0981894127d950ee99a0a96" label="mixed materials" type="Box">7</container>
+            <container id="aspace_0bf67be66255bcc47a7dea206ae31966" parent="aspace_5ed1a63cd0981894127d950ee99a0a96" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_97a96877b40ed65a442ece5d628a38f2" level="file">
+          <did>
+            <unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5b9c1f2abac42ee4dbeae058aa47ba42" label="mixed materials" type="Box">8</container>
+            <container id="aspace_e2ae093d37fe453c6764d8b73368e1f1" parent="aspace_5b9c1f2abac42ee4dbeae058aa47ba42" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_e6a9812637a52c019ed97cd10c291071" level="file">
+          <did>
+            <unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_defb2dc2d03facc2a3c4cdd271d17a58" label="mixed materials" type="Box">8</container>
+            <container id="aspace_2b2c7035ddf395f08b06d583db64d134" parent="aspace_defb2dc2d03facc2a3c4cdd271d17a58" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_b78fcb0040351a39fa5d2c3d9c699a8e" level="file">
+          <did>
+            <unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4ab3d146136ae70878192c56566bdca9" label="mixed materials" type="Box">8</container>
+            <container id="aspace_d26b01a58f1a69936432c12c3cc7847f" parent="aspace_4ab3d146136ae70878192c56566bdca9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_19e1d06991bbaca03aa5b54ad363cec3" level="file">
+          <did>
+            <unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_1568c3762fa4d966d854e71546088791" label="mixed materials" type="Box">8</container>
+            <container id="aspace_e37ce980404ba2a7b877cf441aa5bd65" parent="aspace_1568c3762fa4d966d854e71546088791" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_545122c8af4a4072dd6011f6215bc2e5" level="file">
+          <did>
+            <unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_251427c3c311f04fb57827918dca923d" label="mixed materials" type="Box">8</container>
+            <container id="aspace_73ce5ae4a741c76ed19d278fefe9b1b9" parent="aspace_251427c3c311f04fb57827918dca923d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_173523513f9a119dafea5f4cb9ff933a" level="file">
+          <did>
+            <unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5e42f8fc08f3732d595d9e0f40e6ab80" label="mixed materials" type="Box">8</container>
+            <container id="aspace_96844a83a0dfa07d28cca41baa5e038c" parent="aspace_5e42f8fc08f3732d595d9e0f40e6ab80" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_55e3ca4fe97aff547c119cae8bc162bb" level="file">
+          <did>
+            <unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_7938e74a3ebf28ea4d8fe33875b8fae8" label="mixed materials" type="Box">8</container>
+            <container id="aspace_eae3f15147ebf71f4cd546c2d55a6d19" parent="aspace_7938e74a3ebf28ea4d8fe33875b8fae8" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_94693a727a65d28c32624fab8b416252" level="file">
+          <did>
+            <unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_1dcac38ac52eaacc3b00fe3e8580305b" label="mixed materials" type="Box">8</container>
+            <container id="aspace_e17304692a846428ab6e2718e99fe79c" parent="aspace_1dcac38ac52eaacc3b00fe3e8580305b" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_98ddd062f9fa424b5f027fff7e0b4af1" level="file">
+          <did>
+            <unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e5dd77111692de24d007861d20855719" label="mixed materials" type="Box">8</container>
+            <container id="aspace_9a0df19d6cdcf407d1e992d554887092" parent="aspace_e5dd77111692de24d007861d20855719" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_c5d9a88dbb5da91dfd99e7ab911ce21e" level="file">
+          <did>
+            <unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e9efa3169ef227ea6425d142b3e37364" label="mixed materials" type="Box">8</container>
+            <container id="aspace_5d65e693f5f3f9ff2177c7000e70c306" parent="aspace_e9efa3169ef227ea6425d142b3e37364" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_9834a8cd2d4caf8bfa105a717611f6b8" level="file">
+          <did>
+            <unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3363e410440e71c7b6d6d366c435aa61" label="mixed materials" type="Box">8</container>
+            <container id="aspace_9ed4512b83461d2e05e871926eae523e" parent="aspace_3363e410440e71c7b6d6d366c435aa61" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_79acf40a96fbb9ac12255e8800dbc399" level="file">
+          <did>
+            <unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3a4149e45eb465efc9c35c7009b3f11a" label="mixed materials" type="Box">8</container>
+            <container id="aspace_2b5707463f73a969fc27886f22682a38" parent="aspace_3a4149e45eb465efc9c35c7009b3f11a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_88e3c71761b70503c41ea6c18b5331c0" level="file">
+          <did>
+            <unittitle>D.C. Congress of PTAs thru League of Women Voters-D.C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d4cad1bde56e7cb192011fe0d017c4b7" label="mixed materials" type="Box">8</container>
+            <container id="aspace_108c84b58b1af6746b5aec981b0b94fa" parent="aspace_d4cad1bde56e7cb192011fe0d017c4b7" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_9e30a9529224b2d63dd6d9deee6f0b7d" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_57e404d4b0ecf8bd548023a1f6461d08" label="mixed materials" type="Box">9</container>
+            <container id="aspace_2ae35b9d185f093b13321fea76d6de62" parent="aspace_57e404d4b0ecf8bd548023a1f6461d08" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_b282d03b90f4f08819b722e3a3d45187" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_69a3468fb5ba8083d3ccb2fefa5ca6b4" label="mixed materials" type="Box">9</container>
+            <container id="aspace_f3d2adf600905d600002470f37dd0dcd" parent="aspace_69a3468fb5ba8083d3ccb2fefa5ca6b4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_c61b59560a74c74cb98f6bad6c282efe" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3c1bf9808c2c4fbb870942494c32cfd2" label="mixed materials" type="Box">9</container>
+            <container id="aspace_502818c73a1546501dc95a9b4c5dab6b" parent="aspace_3c1bf9808c2c4fbb870942494c32cfd2" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_059c8ddd8e837b6b8768b3d44b6a09a7" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_72b1c375679b932c9c6768824beab455" label="mixed materials" type="Box">9</container>
+            <container id="aspace_04a5a75746c1a700db3d61e216ddbd68" parent="aspace_72b1c375679b932c9c6768824beab455" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_9bfa4165a5598366282b09e495eb5551" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2489476138e11f45d3611c1f683deab8" label="mixed materials" type="Box">9</container>
+            <container id="aspace_da33e4dd790be17b3157e0910ea5f60d" parent="aspace_2489476138e11f45d3611c1f683deab8" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_f12e22cdfce6992fc9313968f2f860a8" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_8e9c5b17a42f078f560962b217a40ddd" label="mixed materials" type="Box">9</container>
+            <container id="aspace_24ee81009aebea4db2ecd9413597915a" parent="aspace_8e9c5b17a42f078f560962b217a40ddd" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_9c1d38d0510488a3fa3a1cc027dfc986" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_702c93199f2be817030a330398f64367" label="mixed materials" type="Box">9</container>
+            <container id="aspace_e2b2543ba75116e5b9ebdd7214b995c3" parent="aspace_702c93199f2be817030a330398f64367" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ca1287b1be0450fcacdec65a7d84d305" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_7c692b137d78f613a8c6cf2be0c2a8bc" label="mixed materials" type="Box">9</container>
+            <container id="aspace_0870e6e31fa44e9f6c4b356ffa490056" parent="aspace_7c692b137d78f613a8c6cf2be0c2a8bc" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_dcb6d487f636fcbae42e5c6b6eb35294" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b97e1dacb51a2092e0442af79bcfe6c8" label="mixed materials" type="Box">9</container>
+            <container id="aspace_11bc5ed5a7c4b471b19d837dd7eb27d7" parent="aspace_b97e1dacb51a2092e0442af79bcfe6c8" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_98db5759ff11fd3b5676a183c2a52ba0" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_73bddeda6ce20705659175b729937a5b" label="mixed materials" type="Box">9</container>
+            <container id="aspace_a7d0895a0e44089e6c3d4d24d858eee7" parent="aspace_73bddeda6ce20705659175b729937a5b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_4305d2954b7444c083ad76e0b2e9aae2" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_65784078ecae4e79cc56f699cc696544" label="mixed materials" type="Box">9</container>
+            <container id="aspace_da0c733c7c11412afdfc342eb212ac42" parent="aspace_65784078ecae4e79cc56f699cc696544" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_665e9c741eb7da77c07252c459dd1e84" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d69ae07ff3660f4ea3b3b70b7714a715" label="mixed materials" type="Box">9</container>
+            <container id="aspace_0c2b2c72b8880fa3898f7fb162ac26ce" parent="aspace_d69ae07ff3660f4ea3b3b70b7714a715" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_023af3694ea06848bf86cfcefb57a8b8" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5ff9e235b0fd34b357f3bce8e5533900" label="mixed materials" type="Box">9</container>
+            <container id="aspace_812c23e5c018b9fac8f1228eb6379e78" parent="aspace_5ff9e235b0fd34b357f3bce8e5533900" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_36bbcd472f905f001dd4860ca5474db6" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_62c0343a8497d39dfae3728048edaa50" label="mixed materials" type="Box">9</container>
+            <container id="aspace_6020fabd6a72afb76655cb72040c6ef9" parent="aspace_62c0343a8497d39dfae3728048edaa50" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_b31b3409b8c46aa1f4cdcf5f05102bdf" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_73b1ef2b0208d016248d9fd55889a93c" label="mixed materials" type="Box">9</container>
+            <container id="aspace_7af02cb01febae33a4bf35a5d939a356" parent="aspace_73b1ef2b0208d016248d9fd55889a93c" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_2dc0ec3386d5e585eb9467cd9b97ea6c" level="file">
+          <did>
+            <unittitle>League of Women Voters of the U.S thru National Governor's Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_495054d5f19e58f734ae9fa17f19120a" label="mixed materials" type="Box">9</container>
+            <container id="aspace_b78edba18b9c98e7fd7e9405166317eb" parent="aspace_495054d5f19e58f734ae9fa17f19120a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_7d41f795ed2e4d30b945daa18ef1a268" level="file">
+          <did>
+            <unittitle>National Student Association thru United Presbyterian Church</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_228215f1212fb6b40fe3a49f34ae7cb6" label="mixed materials" type="Box">10</container>
+            <container id="aspace_4a038213a43d4b682095a6650a23baa2" parent="aspace_228215f1212fb6b40fe3a49f34ae7cb6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_b9131640ffbcf56e8979f19dd60f8f22" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_63dfbace9faaf53ea818881a6bff8d91" label="mixed materials" type="Box">11</container>
+            <container id="aspace_255201e7a621de086e242fb180599468" parent="aspace_63dfbace9faaf53ea818881a6bff8d91" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_76aa9cc4597f915a62b700df7a7f6ee5" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_58b6ab871e8c1ab308e13deba7fe14c3" label="mixed materials" type="Box">11</container>
+            <container id="aspace_6d68f8cd33d907c2ece05facfd54ee60" parent="aspace_58b6ab871e8c1ab308e13deba7fe14c3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_b0f293fc8ac2955d76bdff6415467137" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f6ff645fc1c0100cf3790f64de963259" label="mixed materials" type="Box">11</container>
+            <container id="aspace_08f653e059221e00cbba4950d556f462" parent="aspace_f6ff645fc1c0100cf3790f64de963259" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_960a50b815ece2ffbbf2864477b38a82" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_122424695dcbfc96c003be8d8e0c989f" label="mixed materials" type="Box">11</container>
+            <container id="aspace_7021cc2f7fa01110047a80f96e3af9ca" parent="aspace_122424695dcbfc96c003be8d8e0c989f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_b1a70c277bed71a74ea201f74772cfd6" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_0c49e9decb2290b58179283d3abc7a20" label="mixed materials" type="Box">11</container>
+            <container id="aspace_c213622f73006049d8075b38e4e3d271" parent="aspace_0c49e9decb2290b58179283d3abc7a20" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_53a985c4a447b6ef88e497857d6a1d32" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_21c31b1889573b6ae7a89c8dadd88ad3" label="mixed materials" type="Box">11</container>
+            <container id="aspace_5e8d0525dd93dc2041f9fe48e6158b9e" parent="aspace_21c31b1889573b6ae7a89c8dadd88ad3" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_cecaf1e699140bbd6e8f82f503c7231e" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_43346f28bd15ae273ef489306cc1ba96" label="mixed materials" type="Box">11</container>
+            <container id="aspace_bc6309f584019084d5a9e23bd43a8651" parent="aspace_43346f28bd15ae273ef489306cc1ba96" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_94d7703b27c9eebadbf49ae59d28ca50" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b03143223abdeaf9548ea57f17126dcc" label="mixed materials" type="Box">11</container>
+            <container id="aspace_326cb8d4f32737700a89c93a7f18e189" parent="aspace_b03143223abdeaf9548ea57f17126dcc" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_839a8f05125aa6e0b63285ad99756a81" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_dc3e9090139b4e00f01f9f823b1d7334" label="mixed materials" type="Box">11</container>
+            <container id="aspace_aeebb851620fb1ace0e531e33075d1a4" parent="aspace_dc3e9090139b4e00f01f9f823b1d7334" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_36cf66f485869735c3d033f7882a08a8" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_29706ba3d38599adf38d17d504c2549a" label="mixed materials" type="Box">11</container>
+            <container id="aspace_b9730bc97aeec8985ac0a4df9aa82c9c" parent="aspace_29706ba3d38599adf38d17d504c2549a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_6ae61bf0a6069613d6d7943d3d40bda0" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_1d081a90c061aab8532ccd5f3ef56e3c" label="mixed materials" type="Box">11</container>
+            <container id="aspace_6edd648f0d55ef58fef738cb33ee90bf" parent="aspace_1d081a90c061aab8532ccd5f3ef56e3c" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_4fc79fd597d093f06221e1e4276ca61e" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5b0674dc6d34f956d63f6918708768c1" label="mixed materials" type="Box">11</container>
+            <container id="aspace_7a0b64d4cf89bf4a71cb122296856583" parent="aspace_5b0674dc6d34f956d63f6918708768c1" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_c6cb44ad8fca31ebd9205baa000c7323" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_dc5eff569e137647eabb957688ade2db" label="mixed materials" type="Box">11</container>
+            <container id="aspace_f27532e487aa1966fa1d5454c6bf0e13" parent="aspace_dc5eff569e137647eabb957688ade2db" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ba2a185b4410801603ce0cd0b1b00f28" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_35f47257e6108a1dadf6011c3243a9b2" label="mixed materials" type="Box">11</container>
+            <container id="aspace_060924a6f036081a8a7d47361c1c5097" parent="aspace_35f47257e6108a1dadf6011c3243a9b2" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_6890a1e6a4a237f6d71f805eb852a47d" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_72ba38480191e95795f28ce407c5d607" label="mixed materials" type="Box">11</container>
+            <container id="aspace_dee378ea04c08b0a0ba0d1177808250c" parent="aspace_72ba38480191e95795f28ce407c5d607" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_c372fe0d2c37113ccec0e929e255bce6" level="file">
+          <did>
+            <unittitle>U.S. Commission o Civil Rights thru Women's Internal League for Peace and Freedom</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f9897149f91b6643902e6674e0682054" label="mixed materials" type="Box">11</container>
+            <container id="aspace_abaf7fb3f7b39b67e348ed8b2cc19e45" parent="aspace_f9897149f91b6643902e6674e0682054" type="Folder">16</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_123030b6c6b95ffb9e57cb3e4cd25cdb" level="series">
+        <did>
+          <unittitle>Series 4: Chronological Files, 1970-1973</unittitle>
+        </did>
+        <scopecontent id="aspace_3d19e88bd208e3ef3971a574b42c5a0b">
+          <head>Scope and Contents</head>
+          <p>Contains internal memoranda, drafts, letters, and Coalition Comments, the Coalition's newsletter, arranged chronologically.</p>
+        </scopecontent>
+        <c id="aspace_037fac8079a4e772a1e9b97c0ca531e2" level="file">
+          <did>
+            <unittitle>Chronological files</unittitle>
+            <unitdate normal="1972/1973-06" type="inclusive">1972-June 1973</unitdate>
+            <container id="aspace_88826aed0bbc85e8a0cea2483f2d0122" label="mixed materials" type="Box">12</container>
+            <container id="aspace_a0e44a10bb94c683808234f3067eb4f8" parent="aspace_88826aed0bbc85e8a0cea2483f2d0122" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_93fd85606b4b38f55948b24aa1b68766" level="file">
+          <did>
+            <unittitle>Chronological files</unittitle>
+            <unitdate normal="1972/1973-06" type="inclusive">1972-June 1973</unitdate>
+            <container id="aspace_6b102ae35f018f88d3fbdc597461933c" label="mixed materials" type="Box">12</container>
+            <container id="aspace_d78d7e55986a86ee4537034bd27dd976" parent="aspace_6b102ae35f018f88d3fbdc597461933c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_1f0128ea0307cc562eefe2ab4cf0b3d5" level="file">
+          <did>
+            <unittitle>Chronological files</unittitle>
+            <unitdate normal="1972/1973-06" type="inclusive">1972-June 1973</unitdate>
+            <container id="aspace_a41639aab19175fce836ea958dfb1fc5" label="mixed materials" type="Box">12</container>
+            <container id="aspace_0afd3771dd28783db2c62e629a989d88" parent="aspace_a41639aab19175fce836ea958dfb1fc5" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_3afdf37096cf9ffc54c651b185de5237" level="file">
+          <did>
+            <unittitle>Chronological files</unittitle>
+            <unitdate normal="1972/1973-06" type="inclusive">1972-June 1973</unitdate>
+            <container id="aspace_e328de5b10287370286ced333e6dd72a" label="mixed materials" type="Box">12</container>
+            <container id="aspace_f888d1ae9ec060fad0775b82c6ea25a1" parent="aspace_e328de5b10287370286ced333e6dd72a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_a0983e1b58fe656779669123fb115832" level="file">
+          <did>
+            <unittitle>Chronological files</unittitle>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_cfac8dbc4246652f572a0df787c1375f" label="mixed materials" type="Box">13</container>
+            <container id="aspace_fa08f31e176fb355037ca61fd9d7065c" parent="aspace_cfac8dbc4246652f572a0df787c1375f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_b1d7b2c5d1555070a9f8482642f3768b" level="file">
+          <did>
+            <unittitle>Chronological files</unittitle>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_ad5e72367cec3aecc02eb6256a1813bf" label="mixed materials" type="Box">13</container>
+            <container id="aspace_27780c06c71ae5b47cd5d2e7e5b8bb6b" parent="aspace_ad5e72367cec3aecc02eb6256a1813bf" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_e9ea1b0370ec20274d2a769d33882da3" level="series">
+        <did>
+          <unittitle>Series 5: Lobbying Files, 1972-1973</unittitle>
+        </did>
+        <scopecontent id="aspace_ab6f11369d24af5ac4c70f748781a6dd">
+          <head>Scope and Contents</head>
+          <p>This series contains materials documenting the Coalition's lobbying efforts for home rule in 1973. Included are reports, issue papers, congressional contact lists, lobbying packets, and background materials on the House District Committee, among others.</p>
+        </scopecontent>
+        <c id="aspace_e22631a42befcfc80697dc4d63c7b9d3" level="file">
+          <did>
+            <unittitle>Finances</unittitle>
+            <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_51e4af7a616ec282c82a3c45ebc57395" label="mixed materials" type="Box">13</container>
+            <container id="aspace_af03ccbd4e1439deab1cb71ef9881fc5" parent="aspace_51e4af7a616ec282c82a3c45ebc57395" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_03276902545979fde47a79c46bf24b70" level="file">
+          <did>
+            <unittitle>Lobbying</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_fdd2aebb2030c537a12edc4c66e471c5" label="mixed materials" type="Box">13</container>
+            <container id="aspace_42bdc2d9a3906b8aa4833ce94f135103" parent="aspace_fdd2aebb2030c537a12edc4c66e471c5" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_8782837893e4e26d5436f67e49c4c80d" level="file">
+          <did>
+            <unittitle>Strategy target lists of House members</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_5ccbd7abd41dab3b915a5abbf6ed478a" label="mixed materials" type="Box">13</container>
+            <container id="aspace_459e0ac7231573aebb6cf5f40e9a0a1f" parent="aspace_5ccbd7abd41dab3b915a5abbf6ed478a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_f59f657461b325ebf6bd4dc139083ca5" level="file">
+          <did>
+            <unittitle>National Constituency Committee</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_c3110dd10cc55d3a6ce92093ff901baa" label="mixed materials" type="Box">13</container>
+            <container id="aspace_a48bbd23be45d890571b9f5abf849f3e" parent="aspace_c3110dd10cc55d3a6ce92093ff901baa" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_f5de87b0725ae76305d3ca5ff7d21a4f" level="file">
+          <did>
+            <unittitle>National Constituency Committee - sample worksheets</unittitle>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_93dbde956a784fde4495a9a71355b003" label="mixed materials" type="Box">14</container>
+            <container id="aspace_065a189f668dd7a7d02525a484efb276" parent="aspace_93dbde956a784fde4495a9a71355b003" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c0aaf3dc80bd7ccdea770f4221433f0b" level="file">
+          <did>
+            <unittitle>National Constituency Committee - sample worksheets</unittitle>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_5ff00a3b7e128d35fe3342e6675f283d" label="mixed materials" type="Box">14</container>
+            <container id="aspace_b69f2d0eebfb88107ee8bc55d154aae0" parent="aspace_5ff00a3b7e128d35fe3342e6675f283d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_9018c7fa829849cf29fb3a5889ba350d" level="file">
+          <did>
+            <unittitle>National Constituency Committee - sample worksheets</unittitle>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_0e0aa164d519ef95e13c6bf02b0bd5ac" label="mixed materials" type="Box">14</container>
+            <container id="aspace_92413da9443113f84a8846732689842f" parent="aspace_0e0aa164d519ef95e13c6bf02b0bd5ac" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_28a694af3c87fb2f04c53a157f854315" level="file">
+          <did>
+            <unittitle>Lobby packets</unittitle>
+            <unitdate type="inclusive">August-September 1973</unitdate>
+            <container id="aspace_79f26359c96ef8aa4b952797d2a1f517" label="mixed materials" type="Box">14</container>
+            <container id="aspace_a6938053c51c07df2550063ac1156442" parent="aspace_79f26359c96ef8aa4b952797d2a1f517" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_5ef5e61970a1cd097475541ddde541b7" level="file">
+          <did>
+            <unittitle>House District Committee - background materials</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_969bbe4c02c3e4fe0416125f877328be" label="mixed materials" type="Box">14</container>
+            <container id="aspace_1bf3dac0e77f4f4849349cd1afd732b5" parent="aspace_969bbe4c02c3e4fe0416125f877328be" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_58703daa9e82bac3cfd7a3596f04bd69" level="file">
+          <did>
+            <unittitle>Lobby efforts - National Member Organization</unittitle>
+            <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_accc1a192defac81a7e0f71c52ab6af6" label="mixed materials" type="Box">14</container>
+            <container id="aspace_2f8088cd7fe58b96f1ac5854b395dc12" parent="aspace_accc1a192defac81a7e0f71c52ab6af6" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_c29e82a70ca095057776c2578144efff" level="file">
+          <did>
+            <unittitle>League of Women Voters</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_436c7582ab89ccc9f6bc2bf3e5290ea3" label="mixed materials" type="Box">15</container>
+            <container id="aspace_87df9ceb63181f106b62fe527ae82cb6" parent="aspace_436c7582ab89ccc9f6bc2bf3e5290ea3" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_25f3953fdddda39f88d8b97f4c63db83" level="file">
+          <did>
+            <unittitle>Local Organizations</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_10c9be151640660d5c69722a7b39a15b" label="mixed materials" type="Box">15</container>
+            <container id="aspace_a6172fdb2ce43fa44743fb392065ac36" parent="aspace_10c9be151640660d5c69722a7b39a15b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_dd5e7251748013e5cc641d9f95f4f31c" level="file">
+          <did>
+            <unittitle>Field reports (restricted access)</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_a571041d42af2bea8dc0e424bf4a00a0" label="mixed materials" type="Box">15</container>
+            <container id="aspace_75f035c2775536137ad16292a1b6d657" parent="aspace_a571041d42af2bea8dc0e424bf4a00a0" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_193636ad9dc91855e84866cb13893128" level="file">
+          <did>
+            <unittitle>Field reports (restricted access)</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4392c69315dafe4c09077704d974513e" label="mixed materials" type="Box">15</container>
+            <container id="aspace_c95a9b283d609adf1b93483b3a4c99c9" parent="aspace_4392c69315dafe4c09077704d974513e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_971dfb04904eb7ac8cd603bd660bbf3f" level="file">
+          <did>
+            <unittitle>Field reports (restricted access)</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2b4ec6e560b9414054587e746f6d30b4" label="mixed materials" type="Box">15</container>
+            <container id="aspace_1b1b397ebcf28aea1ae63b22fd16b961" parent="aspace_2b4ec6e560b9414054587e746f6d30b4" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_2404646282f289c4d07410d26f69a48b" level="series">
+        <did>
+          <unittitle>Series 6: Media Coverage, 1972-1973</unittitle>
+        </did>
+        <scopecontent id="aspace_726663fb12732e8ee6e1a7762d89d95c">
+          <head>Scope and Contents</head>
+          <p>Contains media lists from various states.</p>
+        </scopecontent>
+        <c id="aspace_9f0e1e3fbad9be2fbea203b87284bc07" level="file">
+          <did>
+            <unittitle>Media lists in various states</unittitle>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_70c5bdf19520adc5645667e3bea8e72a" label="mixed materials" type="Box">16</container>
+            <container id="aspace_4cb42f0a24826dd87b4efa916b2caab8" parent="aspace_70c5bdf19520adc5645667e3bea8e72a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_76c5c2b539bb187bfbc94501c5317dd3" level="file">
+          <did>
+            <unittitle>Media coverage</unittitle>
+            <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_c2e0ba3fc0139f281859dad40bc4e2ae" label="mixed materials" type="Box">16</container>
+            <container id="aspace_4937fac208f38f057c6ff43c40d43bfd" parent="aspace_c2e0ba3fc0139f281859dad40bc4e2ae" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_5dcaf652b06abe3bcf9150796baac8c7" level="file">
+          <did>
+            <unittitle>Media coverage</unittitle>
+            <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_60717b0c30aca3972586a60869369aab" label="mixed materials" type="Box">16</container>
+            <container id="aspace_3adcf23a061aaf14328f066313a28d42" parent="aspace_60717b0c30aca3972586a60869369aab" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_b345281133e18eb932147fd67556d1f4" level="series">
+        <did>
+          <unittitle>Series 7: Legislation, 1965-1973</unittitle>
+        </did>
+        <scopecontent id="aspace_cc05563b71920d5fbbb66ae97482389e">
+          <head>Scope and Contents</head>
+          <p>This series contains briefing papers, legislative analyses, congressional legislation, letters, Congressional Record excerpts, congressional voting records, and other legislative materials related to home rule.</p>
+        </scopecontent>
+        <c id="aspace_229b4939d7b5d2a6413177322661eee6" level="file">
+          <did>
+            <unittitle>Home rule</unittitle>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_9a90ba8f52189c9ba65d901f0f67fa68" label="mixed materials" type="Box">16</container>
+            <container id="aspace_0503c628ce9f062ecec5e8ed8dcdf5b9" parent="aspace_9a90ba8f52189c9ba65d901f0f67fa68" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_0b36f0aa83bd11da78e2829aba868806" level="file">
+          <did>
+            <unittitle>Preparation for Coalition testimony before House Committee on the District of Columbia - Subcommittee on Government Operations</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_8454c68d5dd992f890e8ab06132c0297" label="mixed materials" type="Box">16</container>
+            <container id="aspace_6ea4da24ee2cf967cc478aed81a70de6" parent="aspace_8454c68d5dd992f890e8ab06132c0297" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_10a5258af84804f34941186a4010fa2b" level="file">
+          <did>
+            <unittitle>H.R. 9682 briefing papers used by lobbyist</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_f6b1fbef5408e4cb1ecf663a4b103b13" label="mixed materials" type="Box">16</container>
+            <container id="aspace_ec98480f46e3ef476c9a43040e3189b9" parent="aspace_f6b1fbef5408e4cb1ecf663a4b103b13" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_d6a4f2f5a4e96dbe3bce94d61d3811f4" level="file">
+          <did>
+            <unittitle>H.R. 9682 -issues concerning the judiciary</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_b6eb3a105046c8347789b96d2ee90daa" label="mixed materials" type="Box">17</container>
+            <container id="aspace_e227ffe68063354fcd585b09c0a88901" parent="aspace_b6eb3a105046c8347789b96d2ee90daa" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ad034da977773f194eade02cd3a77308" level="file">
+          <did>
+            <unittitle>H.R. 9682 -issues concerning planning</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_f42bbe1c13d205f7fde119b25e9f9f7b" label="mixed materials" type="Box">17</container>
+            <container id="aspace_aa99844b6d146fe819d11de92897125e" parent="aspace_f42bbe1c13d205f7fde119b25e9f9f7b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_44345a1f751d53a710873977a23f8ba0" level="file">
+          <did>
+            <unittitle>H.R. 9682 -letters of support</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_68fffdfe6a13b1e2dded41780aa0298b" label="mixed materials" type="Box">17</container>
+            <container id="aspace_2eff666951d6a992ac143b6dd11fc725" parent="aspace_68fffdfe6a13b1e2dded41780aa0298b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_4639e83bd2132611f59df0fa21134fc3" level="file">
+          <did>
+            <unittitle>Explanation of final action on Home Rule</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_b68dacc3991f265e9ecfabe93c4ecf3a" label="mixed materials" type="Box">17</container>
+            <container id="aspace_c1088b354ef36c9e459380b59de4d9d9" parent="aspace_b68dacc3991f265e9ecfabe93c4ecf3a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_86f2099a0a85c439db04fe79829e16f7" level="file">
+          <did>
+            <unittitle>Nelson-Green Substitute proposal</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_36ffbd8c39831246d1ec0e178d5e9e52" label="mixed materials" type="Box">17</container>
+            <container id="aspace_66ab435b63cbdb0488857024775007ce" parent="aspace_36ffbd8c39831246d1ec0e178d5e9e52" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_08f6567b66041bc26f8c9f27b7899733" level="file">
+          <did>
+            <unittitle>92nd Congress - House</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_3d8649721dbcc406030e2ff3f420f031" label="mixed materials" type="Box">17</container>
+            <container id="aspace_66e6f99fe3ab30cfc70309d9382c0f38" parent="aspace_3d8649721dbcc406030e2ff3f420f031" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_01eff1b4085157335ff8eeee6061cb33" level="file">
+          <did>
+            <unittitle>93rd Congress - Senate</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_256e10c6557d6cf531fe44ad390f05c2" label="mixed materials" type="Box">17</container>
+            <container id="aspace_f69bb6e6bd2cb9d72cce4303af759a28" parent="aspace_256e10c6557d6cf531fe44ad390f05c2" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_1e7616a881aa940b9760eff5976ad1c8" level="file">
+          <did>
+            <unittitle>93rd Congress - House</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_191cb554ea3b95f640eeb9766c5e861a" label="mixed materials" type="Box">18</container>
+            <container id="aspace_c5cde288660acc03f9b265750d091505" parent="aspace_191cb554ea3b95f640eeb9766c5e861a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_4b873944defba5b4329e4c5ff87c51ac" level="file">
+          <did>
+            <unittitle>93rd Congress - House</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_c94b05d52af9d7e2b0d97609577d3751" label="mixed materials" type="Box">18</container>
+            <container id="aspace_30a1caed1f01c96efb2401f992bac329" parent="aspace_c94b05d52af9d7e2b0d97609577d3751" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_d1677f52dc37683dccc4ca59893b7da6" level="file">
+          <did>
+            <unittitle>93rd Congress -Excerpts from Congressional Record</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_bb6de50b3b9cd3cd8a81c61f926c28fe" label="mixed materials" type="Box">18</container>
+            <container id="aspace_03301bfd207f8160f2503a6d3151be4a" parent="aspace_bb6de50b3b9cd3cd8a81c61f926c28fe" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_1b795f5554de00ab31bf52a63f12a6bb" level="file">
+          <did>
+            <unittitle>93rd Congress - House of Representatives member support and voting record for home rule issues</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_691c13db4e3502fe6817a72eeb49ba65" label="mixed materials" type="Box">18</container>
+            <container id="aspace_837cda4e77f811f890e047502346497c" parent="aspace_691c13db4e3502fe6817a72eeb49ba65" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_21c96ff93e7d2f4e9f9c51d9bfef624e" level="series">
+        <did>
+          <unittitle>Series 8: Post-Home Rule Passage, 1974</unittitle>
+        </did>
+        <scopecontent id="aspace_7a79d69bfefcca87260157915cc4c4bb">
+          <head>Scope and Contents</head>
+          <p>This series includes reports, clippings, and correspondence regarding such topics as 1974 campaign financing and the formation of advisory neighborhood commissions.</p>
+        </scopecontent>
+        <c id="aspace_ed1a891bf4d62fafeaed797040ddb42d" level="file">
+          <did>
+            <unittitle>Campaign Financing</unittitle>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_b2a6235f7c1738ee2e10afb375a2c440" label="mixed materials" type="Box">19</container>
+            <container id="aspace_afc2eba055e68de9242ca89609b001aa" parent="aspace_b2a6235f7c1738ee2e10afb375a2c440" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_0eee636f2712e252c7a3d20a9f8e8a89" level="file">
+          <did>
+            <unittitle>Advisory Neighbor Commissions</unittitle>
+            <unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate>
+            <container id="aspace_c0bfc3421eaa38edbb42beabfc8b703a" label="mixed materials" type="Box">19</container>
+            <container id="aspace_d327cf53b80960b4a2651141407e981c" parent="aspace_c0bfc3421eaa38edbb42beabfc8b703a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_90dc85b0815e02dc8fdb71ec5c21ce37" level="file">
+          <did>
+            <unittitle>Advisory Neighbor Commissions</unittitle>
+            <unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate>
+            <container id="aspace_439842962a85c7f93acaad607123a4bc" label="mixed materials" type="Box">19</container>
+            <container id="aspace_f109b00d60f3b1ecd381a3964ab9105b" parent="aspace_439842962a85c7f93acaad607123a4bc" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_fe39f94973b980bc4af9f3c91da18ed0" level="file">
+          <did>
+            <unittitle>Advisory Neighbor Commissions</unittitle>
+            <unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate>
+            <container id="aspace_22819fc3292ae5cbc3c0cb7fe03e1c71" label="mixed materials" type="Box">19</container>
+            <container id="aspace_ebb152f320384568b42b34dc47b23419" parent="aspace_22819fc3292ae5cbc3c0cb7fe03e1c71" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_cfb44438646f66be72a091610e62ad5e" level="file">
+          <did>
+            <unittitle>Speakers Bureau</unittitle>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_403d921e4f166e28a95190e036f963c2" label="mixed materials" type="Box">20</container>
+            <container id="aspace_a943f84164c1322a4905f70c7ba1053b" parent="aspace_403d921e4f166e28a95190e036f963c2" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_610d80cf1b49f085ceb114082ad506ba" level="file">
+          <did>
+            <unittitle>Committee to Support the Charter</unittitle>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_1efcf6da7239a9a649e1299fbfc3a383" label="mixed materials" type="Box">20</container>
+            <container id="aspace_cd169c38d5c1624de891e085556aea92" parent="aspace_1efcf6da7239a9a649e1299fbfc3a383" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_b166aecbe3d12c350f715af559cb8353" level="file">
+          <did>
+            <unittitle>Salute to Volunteers</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_d43768fcd97e48afe9da0edd19b92035" label="mixed materials" type="Box">20</container>
+            <container id="aspace_5f211da55d1813d7c1b31a4ad10a9f60" parent="aspace_d43768fcd97e48afe9da0edd19b92035" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_2fe35f27fa42150fe982c5f4a5528cec" level="series">
+        <did>
+          <unittitle>Series 9: Related Organizations, 1960-1971</unittitle>
+        </did>
+        <scopecontent id="aspace_c662af6dda6721d0d41fb0e1b5a9520a">
+          <head>Scope and Contents</head>
+          <p>This series contains materials regarding two related organizations, the Home Rule Committee and Ad-Hoc Committee for Home Rule, which preceded the Coalition.</p>
+        </scopecontent>
+        <c id="aspace_faa3a334481e38388436c90cfa5c81ea" level="file">
+          <did>
+            <unittitle>Home Rule Committee</unittitle>
+            <unitdate certainty="approximate" normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container id="aspace_5babf78e50e8bb5e1ad78e5954730890" label="mixed materials" type="Box">20</container>
+            <container id="aspace_7842c8428a4889888bf1976e46078e96" parent="aspace_5babf78e50e8bb5e1ad78e5954730890" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_77c37a703f247e44220374f20aacf731" level="file">
+          <did>
+            <unittitle>Ad-Hoc Committee for Home Rule</unittitle>
+            <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_c3d8c78e4ce861aa7d5c4d7dcfb75ed2" label="mixed materials" type="Box">20</container>
+            <container id="aspace_5a09b975677e9aa5cd522c65fdf5b666" parent="aspace_c3d8c78e4ce861aa7d5c4d7dcfb75ed2" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_e15864e2c7e60fddea98915d3b7d462d" level="series">
+        <did>
+          <unittitle>Series 10: Research, 1966-1973</unittitle>
+        </did>
+        <scopecontent id="aspace_958d5c9f14714ecb121685a7be9a21b7">
+          <head>Scope and Contents</head>
+          <p>Consists of research documents prepared by the Library of Congress regarding home rule and voting rights for D.C. Also contains legislative bills, reprints, and copies of articles on the same issues.</p>
+        </scopecontent>
+        <c id="aspace_0b42ebc400f43cdea2029765df90e69b" level="file">
+          <did>
+            <unittitle>Library of Congress and other material</unittitle>
+            <unitdate certainty="approximate" normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container id="aspace_9c080d7f04ddd2ea9a0b12ba32daefb5" label="mixed materials" type="Box">20</container>
+            <container id="aspace_1e8268dc43775ab373a48a516a37b0a5" parent="aspace_9c080d7f04ddd2ea9a0b12ba32daefb5" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_c36655ace58c86fd1b4941a144b90223" level="file">
+          <did>
+            <unittitle>Library of Congress and other material</unittitle>
+            <unitdate certainty="approximate" normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container id="aspace_43463effa7dba911fb9ba88663d48692" label="mixed materials" type="Box">20</container>
+            <container id="aspace_673c1d98906ab42b8f7d79b944c7a5e4" parent="aspace_43463effa7dba911fb9ba88663d48692" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_8f6055cb1f37e1aaee113be022a024e1" level="series">
+        <did>
+          <unittitle>Series 11: Publications, 1973</unittitle>
+        </did>
+        <scopecontent id="aspace_17d3e8b84f1e3513962047d6b2c6ba6e">
+          <head>Scope and Contents</head>
+          <p>Primarily consists of brochures, newsletters of SDDC and other related organizations.</p>
+        </scopecontent>
+        <c id="aspace_425653f20cfdb939516a4fa7023c307e" level="file">
+          <did>
+            <unittitle>Time to Act</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_bbeaf523ab4592096123df3a46e6c809" label="mixed materials" type="Box">21</container>
+            <container id="aspace_8cb09b4651a2fbeb6ed341ff766997c0" parent="aspace_bbeaf523ab4592096123df3a46e6c809" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_a4eafbe84a444d27cf7d5641dac71369" level="file">
+          <did>
+            <unittitle>Questions and Answers on D.C. Home Rules</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_c0f964f1f21460588c64ac4153321f0b" label="mixed materials" type="Box">21</container>
+            <container id="aspace_08639ce971e3a6e11d3005dc98bead72" parent="aspace_c0f964f1f21460588c64ac4153321f0b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_457c36505978d6a29edf42c13ee1a716" level="file">
+          <did>
+            <unittitle>Home Rule for Washington - D.C. Issues and Fact</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_40e1db61caa673d712e421c0e72a81de" label="mixed materials" type="Box">21</container>
+            <container id="aspace_e5ff2d9884b88697fb18a0c455b56280" parent="aspace_40e1db61caa673d712e421c0e72a81de" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_c039fcee15c35d6da88ce55162449db5" level="file">
+          <did>
+            <unittitle>Self-Determination for the District of Columbia: A Look at Congressional Proposals in the last 25 years</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_73db89378317a1e99e87affebeff2f07" label="mixed materials" type="Box">21</container>
+            <container id="aspace_5e5b438acf015a9f36b9b2ffac327650" parent="aspace_73db89378317a1e99e87affebeff2f07" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_d885be345dd5c7ba6e19e7b7914eb78e" level="file">
+          <did>
+            <unittitle>A Look to the Past: A Short List of the Prior Types of Governments</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_ac60ba64975cc51d06d3f3cb9850b4d4" label="mixed materials" type="Box">21</container>
+            <container id="aspace_c4f53d453f8bcf525210a3aa15663c99" parent="aspace_ac60ba64975cc51d06d3f3cb9850b4d4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_971e4874054d1991f94baca9d4818a17" level="file">
+          <did>
+            <unittitle>Nelson Commission Recommendations</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_ec7276d747b220128a7d1be13d2c8d8d" label="mixed materials" type="Box">21</container>
+            <container id="aspace_107f76e46f192585120e39091ca18b9b" parent="aspace_ec7276d747b220128a7d1be13d2c8d8d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_f47ee80434f34a3b2f186e129eb25eaa" level="file">
+          <did>
+            <unittitle>Memorabilia</unittitle>
+            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_4bdc432c30567d401a37d075311be73b" label="mixed materials" type="Box">21</container>
+            <container id="aspace_2328ada47a42f6cb63ecc78d76bb0c5e" parent="aspace_4bdc432c30567d401a37d075311be73b" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_34fbb9a51fd51f1e2498e0a1f754e8cd" level="file">
+          <did>
+            <unittitle>Salute to Volunteers (duplicates)</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5f7b52b06bdd56a1c12bde0cd4035c2c" label="mixed materials" type="Box">22</container>
+            <container id="aspace_18ab81c227068194149912376d861ddb" parent="aspace_5f7b52b06bdd56a1c12bde0cd4035c2c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_461d76ae6d4029859478aae4933f2c2d" level="file">
+          <did>
+            <unittitle>To Complete A Revolution" (duplicates)</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_869b419dea24695e3f5dd34f60ae12bf" label="mixed materials" type="Box">23</container>
+            <container id="aspace_b2dcd75f26044d3f17295c1a74b10816" parent="aspace_869b419dea24695e3f5dd34f60ae12bf" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_2f156005e6a61788b20207eaed30c1e4" level="file">
+          <did>
+            <unittitle>Congressional Records testimony for Self-Determination (duplicates)</unittitle>
+            <unitdate normal="1973-04-02/1973-04-02" type="inclusive">4/3/1973</unitdate>
+            <container id="aspace_4b69148d9bdf7d1e567935e43fd650ed" label="mixed materials" type="Box">23</container>
+            <container id="aspace_809bdb6d0ad696b8e5b717f66d18ff4b" parent="aspace_4b69148d9bdf7d1e567935e43fd650ed" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_61989446a9a3f9f96f884182ad89f10c" level="file">
+          <did>
+            <unittitle>Coalition Comments" newsletter (duplicates)</unittitle>
+            <unitdate normal="1973-03/1973-09" type="inclusive">March and Sept. 1973</unitdate>
+            <container id="aspace_2640542c611aa96a2aedf2fe841924f7" label="mixed materials" type="Box">23</container>
+            <container id="aspace_8b8864ae5ce5f37d74db1f32c29c0d62" parent="aspace_2640542c611aa96a2aedf2fe841924f7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_c217ae29700c9fed454316bcb47390f9" level="file">
+          <did>
+            <unittitle>Common Cause" newsletter (duplicates)</unittitle>
+            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_7ced563800a37aa03a54a3a35709cb66" label="mixed materials" type="Box">23</container>
+            <container id="aspace_6521c9e054c3d42600e4456a02bdff12" parent="aspace_7ced563800a37aa03a54a3a35709cb66" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_1579e3b7f8870cf6ebbd9cd739e68821" level="file">
+          <did>
+            <unittitle>The Home Rule Bill," Committee to Support the Charter</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d9df26154083252dafb4ec98fa816f18" label="mixed materials" type="Box">23</container>
+            <container id="aspace_942556c678bd6ba96f6a0a4851cd73e7" parent="aspace_d9df26154083252dafb4ec98fa816f18" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_265a9b114639309b3af860b251d83c23" level="file">
+          <did>
+            <unittitle>Home Rule Charter Yes brochure</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_08a3b810c45398463a3ea36dd6737517" label="mixed materials" type="Box">24</container>
+            <container id="aspace_5acbbd42750a35342025a9ce5778706b" parent="aspace_08a3b810c45398463a3ea36dd6737517" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_cea69e36ba5e6b57ba3bf67fd7cf00ed" level="file">
+          <did>
+            <unittitle>Advisory Councils</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_30adf148c09dd4aa7f1073b01b4aa547" label="mixed materials" type="Box">24</container>
+            <container id="aspace_941bed3d026d12253b7c5cd07e864fe0" parent="aspace_30adf148c09dd4aa7f1073b01b4aa547" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_23f2469f237298308cef42b1bae6fdc7" level="file">
+          <did>
+            <unittitle>Y.O.U. for Home Rule in D.C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_1f6391337feaf0daf0ca0abb542c33a3" label="mixed materials" type="Box">24</container>
+            <container id="aspace_6a4cdb3ea3e7eabd52e30ac503938aba" parent="aspace_1f6391337feaf0daf0ca0abb542c33a3" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_0d7ee34d5e1b25fc501eea0aee4792ce" level="series">
+        <did>
+          <unittitle>Series 12: Memorabilia, ca. 1970s</unittitle>
+        </did>
+        <scopecontent id="aspace_ac7c60117cee43d1bd321dccb16ba38f">
+          <head>Scope and Contents</head>
+          <p>Contains brochures, buttons, bumper stickers, a patriot's hat, and banner of the Coalition. Also contains the publication Salute to Volunteers prepared by the Coalition.</p>
+        </scopecontent>
+        <c id="aspace_d524b79f9f7efcd56ab178e60a670cce" level="file">
+          <did>
+            <unittitle>Hat</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_ca755bc10821aa38affb1d0cb6e90da6" label="mixed materials" type="Box">25</container>
+            <container id="aspace_7ea1b617d4f6309d3d09202fc3163289" parent="aspace_ca755bc10821aa38affb1d0cb6e90da6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_2ac4222d1de9542c505c461d380b615a" level="file">
+          <did>
+            <unittitle>Banner</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5b00ca21e6fe7620446a61de4abffa59" label="mixed materials" type="Box">25</container>
+            <container id="aspace_ea2563610aa9a0d8e815e993f8e89024" parent="aspace_5b00ca21e6fe7620446a61de4abffa59" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_66726abf4c9617008dc72ecc9ececcef" level="file">
+          <did>
+            <unittitle>Campaign literature</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_166ff62d1598ea239eeca6d826184a66" label="mixed materials" type="Box">25</container>
+            <container id="aspace_be09d9b96a41ed1bd445c2d6b3d32bdd" parent="aspace_166ff62d1598ea239eeca6d826184a66" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_55d92a843f811cdd0daa7881ada8a3cc" level="file">
+          <did>
+            <unittitle>Bumper stickers</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c470a3f27d16b9be1e1ffd6082d16976" label="mixed materials" type="Box">25</container>
+            <container id="aspace_d7459742b2e1a990b62df38bb679b5ed" parent="aspace_c470a3f27d16b9be1e1ffd6082d16976" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

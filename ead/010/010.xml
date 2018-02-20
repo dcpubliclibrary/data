@@ -1,0 +1,390 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">010Ziegler</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Ziegler (Mary G.) Papers</titleproper>
+        <titleproper>Mary G. Ziegler <num>010</num> <num>010</num></titleproper>
+        <subtitle>An inventory of Mary G. Ziegler at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Public Library.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2001-02</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 10:50:14 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Mary G. Ziegler Papers</unittitle>
+      <unitid>010</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">9 boxes</extent>
+      </physdesc>
+      <unitdate normal="1950/1980" type="inclusive">1950-1980</unitdate>
+      <langmaterial id="aspace_65d3f20b957b99922df40e1541714976">English</langmaterial>
+      <langmaterial id="aspace_10081b1db175fa492649c77fb9fc0b04">English</langmaterial>
+    </did>
+    <bioghist id="aspace_e551436053f9939c93e921d4339dc0fd">
+      <head>Biographical / Historical</head>
+      <p>Mary G. Ziegler was a teacher and then principal of Forest Haven, formerly known as the District Training School for almost 40 years. The school was established in 1925 by a pioneering psychiatrist and his wife as a farm colony and hospital at the Fort Meade Army Base for the training of the mentally retarded. Mrs. Ziegler began working at the School in 1928 soon after it opened and did not retire until 1962. The D.C. government dedicated and opened a new training facility for the mentally retarded in 1961 and named it the Mary G. Ziegler School to honor Mrs. Ziegler's "continuous service and unceasing devotion."</p>
+    </bioghist>
+    <scopecontent id="aspace_0123e86951f3997d48ce9e96812da384">
+      <head>Scope and Contents</head>
+      <p>The papers which cover Mrs. Ziegler's career as an educator of the mentally retarded at the District Training School in Laurel, Maryland which later became Forest Haven School. Papers covering Mrs. Zeigler include photographs of activities and events at the school, publications regarding the training of the mentally retarded, press releases, programs, a newsletter, correspondence, awards, published books, and certificates. Also of particular importance are seven scrapbooks of clippings, photographs, programs, invitations, letters, and other memorabilia prepared by Ms. Zeigler on the District Training School, which covers the years 1924 through the 1960s.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85040989" source="lcsh">Education</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85141324" source="Library of Congress Subject Headings">Urban renewal</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85053952" source="lcsh">Gentrification</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_3639122a91df740612d6220495f521ba" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_67a803b0219f9feefa931140f28fc142" level="file">
+          <did>
+            <unittitle>Activities for . . . Trainables</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e0a91e82ab1c2131751feeeb96ffd950" label="mixed materials" type="Box">1</container>
+            <container id="aspace_bf26c9b2aada60210543d550d0c87064" parent="aspace_e0a91e82ab1c2131751feeeb96ffd950" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_21e305b116c2fe64fdd5901923383661" level="file">
+          <did>
+            <unittitle>Awards</unittitle>
+            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_d9e76b6f8623b62250d0287a25aa1d60" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a04527d00f723596f677491e2cf9cbd5" parent="aspace_d9e76b6f8623b62250d0287a25aa1d60" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_b938ccedc6ef574000fbf4fc643261d1" level="file">
+          <did>
+            <unittitle>Brochures</unittitle>
+            <unitdate normal="1953/1956" type="inclusive">1953-1956</unitdate>
+            <container id="aspace_722de9bcc6220e32510b6140f357af7a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_9fa29acc2b20cefc60f0b805f5e20913" parent="aspace_722de9bcc6220e32510b6140f357af7a" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_3648c7ffb33dbf9e78a20a16fbb82644" level="file">
+          <did>
+            <unittitle>Brochures</unittitle>
+            <unitdate normal="1953/1956" type="inclusive">1953-1956</unitdate>
+            <container id="aspace_3095f0eab7e47ab5400564e0313c38cb" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ce9742e59574da80629db9e0265dff3f" parent="aspace_3095f0eab7e47ab5400564e0313c38cb" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_104c87e46101ab20389cd37af49d3855" level="file">
+          <did>
+            <unittitle>Certificates of appreciation</unittitle>
+            <unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate>
+            <container id="aspace_24ecad58abd76b2a1dba0b89db600be6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_28ea58aca3ea3b1e027cee6bd9471e6e" parent="aspace_24ecad58abd76b2a1dba0b89db600be6" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_3ed74f6231b77fb3ba640769505a44f2" level="file">
+          <did>
+            <unittitle>Client-attorney correspondence</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_89060552e8aa7f0f2b771da0d4e18df8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_48918db706b48e7e51eea75ad320ae3d" parent="aspace_89060552e8aa7f0f2b771da0d4e18df8" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_7e148be639b5a92c7f7fac1dc24148b0" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+            <container id="aspace_4bbc6a048393c1be81653f75077a1d08" label="mixed materials" type="Box">1</container>
+            <container id="aspace_07375996b53c977edc109f65b1e8b719" parent="aspace_4bbc6a048393c1be81653f75077a1d08" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_f741c07a0547be43b47720e81bd4aa1b" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate certainty="approximate" normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container id="aspace_ea27b59f509f64bb3f2a5e0c153aba12" label="mixed materials" type="Box">1</container>
+            <container id="aspace_afde0fbdfaef794740f67c5eef243eaa" parent="aspace_ea27b59f509f64bb3f2a5e0c153aba12" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_5ef4b3da511345e7af993e9c4c6900c2" level="file">
+          <did>
+            <unittitle>Center News and Views</unittitle>
+            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_c26dd7f20afae462a54e2e9292a7edbb" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7ff9633506d9a44bfe4419915402856f" parent="aspace_c26dd7f20afae462a54e2e9292a7edbb" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_f6781e1ec772aa5a0589af57856d1f29" level="file">
+          <did>
+            <unittitle>Connecticut Avenue Association</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_6a9f0b9a8183221f565c2b38448dda20" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5e02cbb24418ec89f0045466fa0b5fa7" parent="aspace_6a9f0b9a8183221f565c2b38448dda20" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_f27e6d047e7fe113d43a4ffa8df6f205" level="file">
+          <did>
+            <unittitle>Certification for flag flying over the Capitol</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_4c828193d5db7850653e0eb3a6552ee3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2f522a0e27a72606f62e9fb82c3d5a82" parent="aspace_4c828193d5db7850653e0eb3a6552ee3" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_7197c3d8f00ddc48f197e435f9c4157a" level="file">
+          <did>
+            <unittitle>Forest Haven</unittitle>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_5bb99207958eb5d417d2653738b11455" label="mixed materials" type="Box">1</container>
+            <container id="aspace_294ac518c23d947a392b7726b11ab0dd" parent="aspace_5bb99207958eb5d417d2653738b11455" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_26c9e4674a5d2861b8649cae9eaca49e" level="file">
+          <did>
+            <unittitle>Friends of Forest Haven</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_7b93c2369053c1fbee4236947209d56a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c50b30be9599bc6fec37c08cced802b5" parent="aspace_7b93c2369053c1fbee4236947209d56a" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_acc105b5130c041f2040ba0c40913978" level="file">
+          <did>
+            <unittitle>Government publications</unittitle>
+            <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+            <container id="aspace_3b02caaf3300baa7baf3da5541243079" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7043afb55717fea519ca2c453e8eedf0" parent="aspace_3b02caaf3300baa7baf3da5541243079" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_bff8db183620604c3ce1f053784592cb" level="file">
+          <did>
+            <unittitle>History of the D.C. Training School</unittitle>
+            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_703ea408158c236df2c7d97024e07ee3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_dfe0d0b57211a847e80a03fa817f5f4b" parent="aspace_703ea408158c236df2c7d97024e07ee3" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_54f59af2ef8e1258215f7634ee30593b" level="file">
+          <did>
+            <unittitle>Letters of appreciation</unittitle>
+            <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
+            <container id="aspace_c6e3f6dbd5710614fa07dda311230661" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6cf0ce2d2d92d4e9733970cfcca332d7" parent="aspace_c6e3f6dbd5710614fa07dda311230661" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_4a6d21dd79ca33500f6e87441317bd2d" level="file">
+          <did>
+            <unittitle>Mental retardation newspaper campaign</unittitle>
+            <unitdate certainty="approximate" normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container id="aspace_177e0aab3117088061b144e9985d6136" label="mixed materials" type="Box">1</container>
+            <container id="aspace_debe9779abde28792baf26cb9034482e" parent="aspace_177e0aab3117088061b144e9985d6136" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ae2397b42973d1fdd512e5e23822cefb" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_44bf62e12ce68186915c7f7aa306f350" label="mixed materials" type="Box">2</container>
+            <container id="aspace_3483ccddb352aeba9bea6a8d2767d6e5" parent="aspace_44bf62e12ce68186915c7f7aa306f350" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_b1d45c5be7d2779c2a5b285521b9e7fe" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_fa3811bcc75cff2a4fa2606b0254acea" label="mixed materials" type="Box">2</container>
+            <container id="aspace_43f377cecb6f57092c2a9fe8d565a512" parent="aspace_fa3811bcc75cff2a4fa2606b0254acea" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_7bd713b9e452aaa645a0794ddde996b3" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_203ecb66b648c3b86b67cb443f2522ff" label="mixed materials" type="Box">2</container>
+            <container id="aspace_58ba7f97f848faf6709f736f44f3f39f" parent="aspace_203ecb66b648c3b86b67cb443f2522ff" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_13786db116f068f5755c438a83ea3390" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_6dff85206a1327c56d687b0cdabd61f1" label="mixed materials" type="Box">2</container>
+            <container id="aspace_d674daa502a1c02efaf0d2936ca40ee0" parent="aspace_6dff85206a1327c56d687b0cdabd61f1" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_7d669ac721ad8cf1c4aeb8b586040022" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_998f666ce3a3dc4dcc8956e2b6f82b38" label="mixed materials" type="Box">2</container>
+            <container id="aspace_d0b9f5eebaf031f25e29b7d989b93722" parent="aspace_998f666ce3a3dc4dcc8956e2b6f82b38" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_81d135249a53ebe95c2b5654b7ecad46" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c7cf677230e454bf57f97bba5c48379f" label="mixed materials" type="Box">2</container>
+            <container id="aspace_a761b472aac1b3d93ef93f12facff921" parent="aspace_c7cf677230e454bf57f97bba5c48379f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_02efd3fa6fe546d3f1de154e030bb1bb" level="file">
+          <did>
+            <unittitle>Press releases</unittitle>
+            <unitdate normal="1970/1981" type="inclusive">1970-1981</unitdate>
+            <container id="aspace_3619ac3a52db5e791be2ed3180f25d73" label="mixed materials" type="Box">3</container>
+            <container id="aspace_b7db9c4a48e9e135db6a79f7ac2197dd" parent="aspace_3619ac3a52db5e791be2ed3180f25d73" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c193506feeac21b6c260402752957fe9" level="file">
+          <did>
+            <unittitle>Press releases</unittitle>
+            <unitdate normal="1970/1981" type="inclusive">1970-1981</unitdate>
+            <container id="aspace_6755210f2eba5bd8e0dcb476b77d4075" label="mixed materials" type="Box">3</container>
+            <container id="aspace_cff6a1646a1547f78c39ea14c88c80fd" parent="aspace_6755210f2eba5bd8e0dcb476b77d4075" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_064573154c7d86835842d69eca20d7b7" level="file">
+          <did>
+            <unittitle>Press releases</unittitle>
+            <unitdate normal="1970/1981" type="inclusive">1970-1981</unitdate>
+            <container id="aspace_928dd474d21e36ac0716566f5eff3c6c" label="mixed materials" type="Box">3</container>
+            <container id="aspace_40bed805f85b2feef6a0cce7d0eebe9d" parent="aspace_928dd474d21e36ac0716566f5eff3c6c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_0054252ebcb5e38a7de135f4010599da" level="file">
+          <did>
+            <unittitle>Ziegler School Dedication</unittitle>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_33122a92fc65631fbf6644ffcb805543" label="mixed materials" type="Box">3</container>
+            <container id="aspace_36e67999ab08e69b266bc2be3b2d51d5" parent="aspace_33122a92fc65631fbf6644ffcb805543" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_e885741946ef5af09d622fb5515fa3a9" level="file">
+          <did>
+            <unittitle>Ziegler School Dedication</unittitle>
+            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_172dfc8164afdceeb2904e63d2ddc6c8" label="mixed materials" type="Box">3</container>
+            <container id="aspace_1e002cd14602d5be8259028a9ac12fe9" parent="aspace_172dfc8164afdceeb2904e63d2ddc6c8" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_f2d5395085dd52b519af72318d5cd064" level="file">
+          <did>
+            <unittitle>Ziegler School Dedication plaque</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_56e8bdb7601463becab7d9735c2d6bb2" label="mixed materials" type="Box">3</container>
+            <container id="aspace_ebdbc6c6949148c80472e83dbca2c363" parent="aspace_56e8bdb7601463becab7d9735c2d6bb2" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_c8a5e914bb25ed2c8ef1126f48905a5d" level="file">
+          <did>
+            <unittitle>Oversized colorized clipping</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_0fba61adcefd4818b1282376c3a85684" label="mixed materials" type="Box">3</container>
+            <container id="aspace_4626fbc047460054a0726b24481c43b6" parent="aspace_0fba61adcefd4818b1282376c3a85684" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_cb4281835d37b0f76be7eda2833bbc6e" level="file">
+          <did>
+            <unittitle>District Training School (DST) scrapbook</unittitle>
+            <unitdate normal="1924/1942" type="inclusive">1924-1942</unitdate>
+            <container id="aspace_21a28aa9ebdd5910fb77ee0d8846b959" label="mixed materials" type="Box">4</container>
+            <container id="aspace_60fc7c42d17cee2bcc3cea88ac3d9f1c" parent="aspace_21a28aa9ebdd5910fb77ee0d8846b959" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_78526b96b3f294852ce64957891a8df7" level="file">
+          <did>
+            <unittitle>DST scrapbook (primarily photos)</unittitle>
+            <unitdate normal="1924/1954" type="inclusive">1924-1954</unitdate>
+            <container id="aspace_6beeecea229a8fc9fb2c1343275ff8b7" label="mixed materials" type="Box">4</container>
+            <container id="aspace_96b8e957635daacc967b7ba34c671190" parent="aspace_6beeecea229a8fc9fb2c1343275ff8b7" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_19b916ac7b64f485ec2bffe3a8d46184" level="file">
+          <did>
+            <unittitle>DST scrapbook</unittitle>
+            <unitdate normal="1943/1954" type="inclusive">1943-1954</unitdate>
+            <container id="aspace_d75d3f8b38ff52d05a78c61a9c5a5029" label="mixed materials" type="Box">4</container>
+            <container id="aspace_228efff1f63cc1405032484421beb64e" parent="aspace_d75d3f8b38ff52d05a78c61a9c5a5029" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_81d24cefcca17104739e8158f756f26f" level="file">
+          <did>
+            <unittitle>DST scrapbook</unittitle>
+            <unitdate certainty="approximate" normal="1950/1959" type="inclusive">1950s</unitdate>
+            <container id="aspace_ba8b72ba6b46c331bd0260638febb4cd" label="mixed materials" type="Box">4</container>
+            <container id="aspace_64ab159e8d00a273841f28732dee5bf0" parent="aspace_ba8b72ba6b46c331bd0260638febb4cd" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_df88c942a564e8c194ed17c9523ff5a1" level="file">
+          <did>
+            <unittitle>DST scrapbook</unittitle>
+            <unitdate normal="1955/1959" type="inclusive">1955-1959</unitdate>
+            <container id="aspace_197ecace7a903cdb23433c426e6807d6" label="mixed materials" type="Box">4</container>
+            <container id="aspace_7c73d7f8bf7f1092c7be37a442528119" parent="aspace_197ecace7a903cdb23433c426e6807d6" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_8fdd692aebf77400b0dd609821a04a13" level="file">
+          <did>
+            <unittitle>DST scrapbook</unittitle>
+            <unitdate normal="1957/1958" type="inclusive">1957-1958</unitdate>
+            <container id="aspace_c42a3b13abf7190b3c32308a9c75135d" label="mixed materials" type="Box">7</container>
+            <container id="aspace_37b2e97f33900980c32941de75211826" parent="aspace_c42a3b13abf7190b3c32308a9c75135d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_35f885a4a1a717b8bcb99a12c5a02d3a" level="file">
+          <did>
+            <unittitle>DST scrapbook</unittitle>
+            <unitdate certainty="approximate" normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container id="aspace_815223d1740931fe88c3a22759bb6464" label="mixed materials" type="Box">7</container>
+            <container id="aspace_0551ca50d0234aae1810220551eb4c15" parent="aspace_815223d1740931fe88c3a22759bb6464" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_4c2fecf8fdd544077b9f3b6b3ab91645" level="file">
+          <did>
+            <unittitle>Certificate of Merit</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_94bb83571dcb55dc681adc8ca6786f84" label="mixed materials" type="Box">8</container>
+            <container id="aspace_1b771418eb2f48b2c6bb7a5ba653b394" parent="aspace_94bb83571dcb55dc681adc8ca6786f84" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_330b390e38e8883093776a020f1c7741" level="file">
+          <did>
+            <unittitle>Cortazzo</unittitle>
+            <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_c832b728f7e68d3457c28cba8e1273d4" label="mixed materials" type="Box">9</container>
+            <container id="aspace_cef639435cc9ad87e0e5eff726082b6e" parent="aspace_c832b728f7e68d3457c28cba8e1273d4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_0c4c1d99426e8e08ae7578383da9e56f" level="file">
+          <did>
+            <unittitle>Department of Health</unittitle>
+            <unitdate normal="1967-01/1967-01" type="inclusive">January 1967</unitdate>
+            <container id="aspace_08f317a729b4dc9967d6b5be350f3951" label="mixed materials" type="Box">9</container>
+            <container id="aspace_135cf2cb65a2d09804b608e417f5675d" parent="aspace_08f317a729b4dc9967d6b5be350f3951" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_a94167a70b5876da8e6de0fff37cea3c" level="file">
+          <did>
+            <unittitle>Louis E. Rosenzweig and Julia Long - Understanding and Teaching the Dependent Retarded Child - Darien - Connecticut: The Education Publishing Corporation</unittitle>
+            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_a997ed20659ad69499a289d1fd9b05de" label="mixed materials" type="Box">9</container>
+            <container id="aspace_8f9352439eac8417282267f8ab2c74d2" parent="aspace_a997ed20659ad69499a289d1fd9b05de" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,1158 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">013NCAC_ASPC</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">National Capital Area Chapter American Society for Public Administration Records</titleproper>
+        <titleproper>National Capital Area Chapter American Society for Public Administration <num>013</num> <num>013</num></titleproper>
+        <subtitle>An inventory of National Capital Area Chapter American Society for Public Administration at DC Public Library</subtitle>
+        <author>Finding aid prepared by INSERT FINDING AID AUTHOR HERE.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2001-02</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 10:50:32 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>National Capital Area Chapter American Society for Public Administration Records</unittitle>
+      <unitid>013</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">9.5 linear feet; 22 boxes</extent>
+      </physdesc>
+      <unitdate normal="1986/1991" type="inclusive">1986-1991</unitdate>
+      <langmaterial id="aspace_6868af932651c4b6571f86ab9a6b69a4">English</langmaterial>
+      <langmaterial id="aspace_b5df60a18990c99ef45235dd619fa761">English</langmaterial>
+    </did>
+    <bioghist id="aspace_adb6d8f266e6942f56ddf881e293bd9c">
+      <head>Biographical / Historical</head>
+      <p>The National Capital Area Chapter is one of the largest chapters of the American Society for Public Administration. Its membership consists of public servants and managers in the nation's capital. The Chapter developed the professional journal, the Bureaucrat.</p>
+    </bioghist>
+    <custodhist id="aspace_926c44706e6b8dfab172b1db6eae35b1">
+      <head>Custodial History</head>
+      <p>John Stone and Michael Carmichael, former officers in the NCAC-ASPA, donated the records of the National Capital Area Chapter-American Society for Public Administration (NCAC-ASPA) in 1988 and 1989.</p>
+    </custodhist>
+    <scopecontent id="aspace_4a455ac4b4dcbc443c6c7ee26f7ddd0e">
+      <head>Scope and Contents</head>
+      <p>The collection includes budgets, financial statements, membership information, newsletters, handbooks, conference materials, annual reports, and meeting minutes from the Society's office files and past officers of the Society. The collection is divided into series by the origin of the materials as follows: Presidential papers, offices files, and treasurer's records.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008810" source="lcsh">Associations, institutions, etc</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_bac0f20ab4335d279f4c5c735bb0366b" level="series">
+        <did>
+          <unittitle>Series 1: Presidential papers, 1985-1989</unittitle>
+        </did>
+        <scopecontent id="aspace_5b624e6ae6e88f838a4457f4fc8b4c63">
+          <head>Scope and Contents</head>
+          <p>This series contains Michael Carmichael's presidential papers arranged alphabetically by topic or type of material. It includes budgets, correspondence, the Society's constitution, conference materials, budgets, membership lists, handbooks, newsletters, and other topics. National Society information and annual conference materials appear at the end of the series.</p>
+        </scopecontent>
+        <c id="aspace_10a66e564b3feef4d4bd726a3d2e6099" level="file">
+          <did>
+            <unittitle>Administrative Procedures</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_80fbdd998791b9614dcf96440f692a4d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1fc465f59ed5c019906c78fd7c4aa292" parent="aspace_80fbdd998791b9614dcf96440f692a4d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_2b6908f359adf4e6ec2246220999be11" level="file">
+          <did>
+            <unittitle>Annual report</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_8de10bbc38cf5fa1166d45eeec701d5d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7e124c1d0438330f53fbf4f645405ab7" parent="aspace_8de10bbc38cf5fa1166d45eeec701d5d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ac32d6ce7da7965c74e4d2b6293c5298" level="file">
+          <did>
+            <unittitle>Awards</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_a18e0ccf041e7df2d5f241689e4a099d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a762783463484ac0d191ce37bde1274b" parent="aspace_a18e0ccf041e7df2d5f241689e4a099d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_373d04579b5e475b2ce4c0a8b6656e3f" level="file">
+          <did>
+            <unittitle>Award reception</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3e42547f8b2b49643f6afb3d95561827" label="mixed materials" type="Box">1</container>
+            <container id="aspace_bdfec314ec55727e01fed1a4f56e84f2" parent="aspace_3e42547f8b2b49643f6afb3d95561827" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_522d7ad2f89441f92771ca318f9076f3" level="file">
+          <did>
+            <unittitle>Board minutes/agendas</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_787beec060e30410f31f877b106c7f02" label="mixed materials" type="Box">1</container>
+            <container id="aspace_845844c9801ed89f87ff609f25d2c7ab" parent="aspace_787beec060e30410f31f877b106c7f02" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_1caf00757cdd6f809dd3272efe606b80" level="file">
+          <did>
+            <unittitle>Budget and finance</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_8474c6427d5c3041c955765437c8a012" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a444cf37634fce7b36d0bee16674fd62" parent="aspace_8474c6427d5c3041c955765437c8a012" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_62a9bff4e1bdc4565f8ffa13fcbee2c6" level="file">
+          <did>
+            <unittitle>Budget and finance</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_ea623e59d911b9659d4b7bf307e15034" label="mixed materials" type="Box">1</container>
+            <container id="aspace_0e2b717852ecda6b9f8ee0c78894a64a" parent="aspace_ea623e59d911b9659d4b7bf307e15034" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_70576c0c1ca4698e3f0fbbb2e592230d" level="file">
+          <did>
+            <unittitle>COMPA</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f13b12a8c4213c8e8860f04711619858" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c43dc8eabd6fb9db1b7d69fe0a05805b" parent="aspace_f13b12a8c4213c8e8860f04711619858" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_1acca124e4c9b28f58722a82eceec5d0" level="file">
+          <did>
+            <unittitle>NCAC Comm. Sheet</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2142d1d7236090d137a009b5994cd544" label="mixed materials" type="Box">1</container>
+            <container id="aspace_411d6d91268a0afa24072ed2dc7e0d79" parent="aspace_2142d1d7236090d137a009b5994cd544" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_e38b71f77b0f88e5a0813e267ea1ed7e" level="file">
+          <did>
+            <unittitle>Conference</unittitle>
+            <unitdate>Undated</unitdate>
+            <container id="aspace_9bfe851a1a770d05cdc8f92888f9707b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ae630ce4416993d879328832cab8d288" parent="aspace_9bfe851a1a770d05cdc8f92888f9707b" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_9328969f05042147042d40a778384f59" level="file">
+          <did>
+            <unittitle>Special Note</unittitle>
+            <unitdate>Undated</unitdate>
+            <container id="aspace_1f5136e031037f4e82d884f08e564cdd" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e578dd27272c0e8fca5de83f337952d7" parent="aspace_1f5136e031037f4e82d884f08e564cdd" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_c6946ebc8d4d706f3b5092e46c1871e1" level="file">
+          <did>
+            <unittitle>Conference reference materials</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_fb7083aff9f6d4627ff03a0fec64f391" label="mixed materials" type="Box">2</container>
+            <container id="aspace_6138c567feeb3ebdeecfe8630cda8881" parent="aspace_fb7083aff9f6d4627ff03a0fec64f391" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_0c3e1c8cfe1dd301a054a770ac8415a1" level="file">
+          <did>
+            <unittitle>Conference materials</unittitle>
+            <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <container id="aspace_7d1916b29f99c05237593f9d5b4edf27" label="mixed materials" type="Box">2</container>
+            <container id="aspace_a8aae2fc89ae682f659fb03509120617" parent="aspace_7d1916b29f99c05237593f9d5b4edf27" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_a0ef9f8e25327281c1e27f2c2e3e28c2" level="file">
+          <did>
+            <unittitle>Constitution</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_24444fe529223d76569426a9f90929b9" label="mixed materials" type="Box">2</container>
+            <container id="aspace_e540d916974f0be0561819f94b819c9f" parent="aspace_24444fe529223d76569426a9f90929b9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_763b0047a1f45a57eb14117e230e07b4" level="file">
+          <did>
+            <unittitle>D.C. group</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_1cca7600602e273cf16855311ba11d8d" label="mixed materials" type="Box">2</container>
+            <container id="aspace_dff2d6e1790d41db1ea298fb85d61f19" parent="aspace_1cca7600602e273cf16855311ba11d8d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_d845e3adc5863ee6fe7c95abe312e9b3" level="file">
+          <did>
+            <unittitle>Elections</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_748ccb46fe7598892797ea09678ca8c9" label="mixed materials" type="Box">2</container>
+            <container id="aspace_e196c307b43f04fbe002e4b438a234b4" parent="aspace_748ccb46fe7598892797ea09678ca8c9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_2eaf44e7e9e7223a66af21e5bbaf650c" level="file">
+          <did>
+            <unittitle>Executive director</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_76a021875b2688f4c824d07c32567eb2" label="mixed materials" type="Box">2</container>
+            <container id="aspace_d9bf768c3b9ba39faf41fdfefd18e7e6" parent="aspace_76a021875b2688f4c824d07c32567eb2" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_7c68eac4fb429edf2713ae9f7a3ad119" level="file">
+          <did>
+            <unittitle>Events listing</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3e07b0a2544671f9edecc3b6e0fdbf57" label="mixed materials" type="Box">2</container>
+            <container id="aspace_bfb228c317fb098d1644ac59f519863b" parent="aspace_3e07b0a2544671f9edecc3b6e0fdbf57" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_9b40096795842ee26c5bdf3115e7fdef" level="file">
+          <did>
+            <unittitle>Luncheons</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d80dec2682098bec0cc4819b68cb9bc5" label="mixed materials" type="Box">2</container>
+            <container id="aspace_8849f3bd790ee0909b3ce9a1f078b906" parent="aspace_d80dec2682098bec0cc4819b68cb9bc5" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_e9498878c8dbe4b497c32e63e605047a" level="file">
+          <did>
+            <unittitle>Medina lectures</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_0e209b937ebaf4aede15a13a8c31a8df" label="mixed materials" type="Box">2</container>
+            <container id="aspace_0c0188f42c2dba4f24cd405df3145cc1" parent="aspace_0e209b937ebaf4aede15a13a8c31a8df" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_4907a7e6b373b7102e1b24cf53a7b685" level="file">
+          <did>
+            <unittitle>Member survey</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_fbb0359b6dae91c15eee6acadc93cb23" label="mixed materials" type="Box">2</container>
+            <container id="aspace_c219933a1665d93f353f42302d9c94cf" parent="aspace_fbb0359b6dae91c15eee6acadc93cb23" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_092b2d7c2588e5d6185fa6058678aa47" level="file">
+          <did>
+            <unittitle>Membership, List of Activities</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_eaca7824692bd40e0d418d15aa8e7a44" label="mixed materials" type="Box">2</container>
+            <container id="aspace_34b41c56732afa5730deab3ea7c79708" parent="aspace_eaca7824692bd40e0d418d15aa8e7a44" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_3a036240bbae557e6ca5d237122809ba" level="file">
+          <did>
+            <unittitle>Membership Development Kit</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_41fc1883ab78881124b9617efe133596" label="mixed materials" type="Box">2</container>
+            <container id="aspace_535a7ba40642df8f8d24e3e7be40c883" parent="aspace_41fc1883ab78881124b9617efe133596" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_49428390392929ddb2af7b3f3cc79be3" level="file">
+          <did>
+            <unittitle>Membership</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b4166f0a136cbdd337dd77073dc0cbd1" label="mixed materials" type="Box">3</container>
+            <container id="aspace_9b03c20d9cd770186cba77405b3614f1" parent="aspace_b4166f0a136cbdd337dd77073dc0cbd1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_94bcfa1b6ed587a823414b479441494e" level="file">
+          <did>
+            <unittitle>Membership meeting</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b7f0d41baa356f628bfa7c56e62d42c2" label="mixed materials" type="Box">3</container>
+            <container id="aspace_f0b650a1aace1a2910bd220575051d15" parent="aspace_b7f0d41baa356f628bfa7c56e62d42c2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_06ff0b877c9db5b27b66dd121b643a45" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c75b19fa9b4ea7afc93ea7e03c62ef85" label="mixed materials" type="Box">3</container>
+            <container id="aspace_7c01edd3bef785c7884e5a1069d436ea" parent="aspace_c75b19fa9b4ea7afc93ea7e03c62ef85" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_b7d9ccc96c081b5f67c81225b3398ad0" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4fc5314dd27ce65fc35b86385ad218cd" label="mixed materials" type="Box">3</container>
+            <container id="aspace_3ea093b06c1098e22d69bf38073275e5" parent="aspace_4fc5314dd27ce65fc35b86385ad218cd" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_2c10b7b18267b38fdf87bac4a4fb5d38" level="file">
+          <did>
+            <unittitle>Conference</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_e43916c3ca20c07bd90d0f48a2637236" label="mixed materials" type="Box">3</container>
+            <container id="aspace_d9c401385c31e9fa6f3b478d007c612a" parent="aspace_e43916c3ca20c07bd90d0f48a2637236" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_4a115e9a72ef64d5de5329a7e177c914" level="file">
+          <did>
+            <unittitle>Conference</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_e41b96ca272aa0c760be390efd0557f8" label="mixed materials" type="Box">3</container>
+            <container id="aspace_02f6f7ef9a410e223eb02e74d514b42b" parent="aspace_e41b96ca272aa0c760be390efd0557f8" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_de536d1727a0338fa93a350f5c16c106" level="file">
+          <did>
+            <unittitle>Org. Liaison</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_0d5e0c9cb04a254d487d5eecd98d6094" label="mixed materials" type="Box">3</container>
+            <container id="aspace_2df141427d78e5bf21f20e5e8564b0a5" parent="aspace_0d5e0c9cb04a254d487d5eecd98d6094" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_7ce295ca62db974fe2f9b82d8157c313" level="file">
+          <did>
+            <unittitle>Policy issues</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_9d58ae76907481901ee9e5bbe0103da8" label="mixed materials" type="Box">3</container>
+            <container id="aspace_4d314c1aaadfd65ff2cca93bee711cc6" parent="aspace_9d58ae76907481901ee9e5bbe0103da8" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_9e9e05264bc038ac88fb76039c9e238a" level="file">
+          <did>
+            <unittitle>Policy issues</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b44467424b82e14c1f1d6453ac5cee98" label="mixed materials" type="Box">3</container>
+            <container id="aspace_7445d6316153538c8a7a5d2c0ac2789e" parent="aspace_b44467424b82e14c1f1d6453ac5cee98" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_9bcd262b232f4b372f97ffeac229a4cf" level="file">
+          <did>
+            <unittitle>Proof development comm.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3756935310f388d889791532e50ce8a8" label="mixed materials" type="Box">3</container>
+            <container id="aspace_74dd07c6988204557cefbb913262d17c" parent="aspace_3756935310f388d889791532e50ce8a8" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_60b49ba52d511d7eb65266ae9e7cb70a" level="file">
+          <did>
+            <unittitle>Professional organizations</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_64337ce3ac64a6d80fb430bcb7d39c7c" label="mixed materials" type="Box">4</container>
+            <container id="aspace_ad1c318813680348a882ab26a9ad7f79" parent="aspace_64337ce3ac64a6d80fb430bcb7d39c7c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_744a5e70fcb15381a9f3f41234caabe8" level="file">
+          <did>
+            <unittitle>Public image</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_909b7236029130adc401f23b9be7b2e1" label="mixed materials" type="Box">4</container>
+            <container id="aspace_f65a80e8bb11863168aa2257d6d9fac5" parent="aspace_909b7236029130adc401f23b9be7b2e1" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_e5e08538331e7f673b0ff9acee99d059" level="file">
+          <did>
+            <unittitle>Round tables</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_01805a6b87c89ff1139110b14ed37050" label="mixed materials" type="Box">4</container>
+            <container id="aspace_d50b22647ec12df04caf96ef82902120" parent="aspace_01805a6b87c89ff1139110b14ed37050" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_dc7678585abb7deb9a77531d554d84ef" level="file">
+          <did>
+            <unittitle>Sections</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b92027836eea15083faa1fa0d20710da" label="mixed materials" type="Box">4</container>
+            <container id="aspace_ea0a988ce2ff6ed2eed2ab959122fb50" parent="aspace_b92027836eea15083faa1fa0d20710da" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_f9a1c32d629425a65ac429287e3e7fd1" level="file">
+          <did>
+            <unittitle>Strategic PLG</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_95876f1401eb40f209cfc8170de77660" label="mixed materials" type="Box">4</container>
+            <container id="aspace_a9751a9f5c45966d8470f1b5f3b3dbda" parent="aspace_95876f1401eb40f209cfc8170de77660" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_066a3bee99dfb43cf420f192fad809c2" level="file">
+          <did>
+            <unittitle>Students and student conference</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e9a5b8792b32dc1bdb327ccc62b303a2" label="mixed materials" type="Box">4</container>
+            <container id="aspace_6adb3af7e34b0f21f0492c029a54fd7d" parent="aspace_e9a5b8792b32dc1bdb327ccc62b303a2" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_1b5fdfcf421b856e945a171ad0b86cd0" level="file">
+          <did>
+            <unittitle>Treasurer reports</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_83cb5d263b2c5de28aa3216d497d5818" label="mixed materials" type="Box">4</container>
+            <container id="aspace_394a2ec53484008e3c2e1025378e1cee" parent="aspace_83cb5d263b2c5de28aa3216d497d5818" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_31ecec40696a5810e705ee0dfe203193" level="file">
+          <did>
+            <unittitle>Volunteers</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_94e2465695be96410cb8174109fb3f98" label="mixed materials" type="Box">4</container>
+            <container id="aspace_c55285db54a1ee68e73613bc933c4ad8" parent="aspace_94e2465695be96410cb8174109fb3f98" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_1cb3acef4d98b8bbfaed7df5076d7204" level="file">
+          <did>
+            <unittitle>Volunteer names</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_ee53d1487631552bc4705d4ed064609e" label="mixed materials" type="Box">4</container>
+            <container id="aspace_48b45013718356297fefc9df4a511280" parent="aspace_ee53d1487631552bc4705d4ed064609e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_be0d210e7501d9353ebe3d9f0cf41ebb" level="file">
+          <did>
+            <unittitle>National Information</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e6f2f9fa2ebfd8c625537f03a795cf82" label="mixed materials" type="Box">5</container>
+            <container id="aspace_bdd37eed22965dcdcab5962c40ddd25c" parent="aspace_e6f2f9fa2ebfd8c625537f03a795cf82" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ddba28c0109fbbf8cae2a73586987ee8" level="file">
+          <did>
+            <unittitle>National Information</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_74f829c0b69f452068247196556f3402" label="mixed materials" type="Box">5</container>
+            <container id="aspace_b7faba89574d9dad7e39b7ebc95c7bef" parent="aspace_74f829c0b69f452068247196556f3402" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_d2c4bbc849170e10ee83108d94c22a62" level="file">
+          <did>
+            <unittitle>National Information</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_7f475b12ab77b020a5675abdd91d23db" label="mixed materials" type="Box">5</container>
+            <container id="aspace_11a1e60503ad6957b7b3f398ea6c7ce1" parent="aspace_7f475b12ab77b020a5675abdd91d23db" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_7538f31aea1c04f7fe4157ad25b82e40" level="file">
+          <did>
+            <unittitle>Miscellaneous information</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f3237cedb57d025ed72eb1049ebe4d27" label="mixed materials" type="Box">5</container>
+            <container id="aspace_8e1d2e9f8d8748f142d58602c261edf8" parent="aspace_f3237cedb57d025ed72eb1049ebe4d27" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_c066ea58c025056030158404d91dc4dd" level="file">
+          <did>
+            <unittitle>Miscellaneous information</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b0d227d06d2215f9300e73a8bd9b2f6d" label="mixed materials" type="Box">5</container>
+            <container id="aspace_c65a4136e4de8118a3727eac622addfc" parent="aspace_b0d227d06d2215f9300e73a8bd9b2f6d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_17224a91af48b337239bc680b6ad8bdf" level="file">
+          <did>
+            <unittitle>Executive Director information</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f1c2ee1e7386544bd3527a9afc3978c8" label="mixed materials" type="Box">5</container>
+            <container id="aspace_e5082477705c895b36346be3a1ced328" parent="aspace_f1c2ee1e7386544bd3527a9afc3978c8" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_79446f02768b6f77e823a271ee718101" level="file">
+          <did>
+            <unittitle>NCAC</unittitle>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container id="aspace_315c12e34c5c14e8b1da349c1ab3dbcd" label="mixed materials" type="Box">5</container>
+            <container id="aspace_7ee527848ef2f560bd408eb54e69b383" parent="aspace_315c12e34c5c14e8b1da349c1ab3dbcd" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_fdab64da11ecfb6654b0709792e49bd3" level="file">
+          <did>
+            <unittitle>NCAC</unittitle>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container id="aspace_12d2a44544d6947bf98013eb4212958b" label="mixed materials" type="Box">5</container>
+            <container id="aspace_fbc461107606685b8f0eb026d5748cc3" parent="aspace_12d2a44544d6947bf98013eb4212958b" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ba72d373e4e113f52e4969260c0fb964" level="file">
+          <did>
+            <unittitle>Annual Conference</unittitle>
+            <unitdate normal="1985/1988" type="inclusive">1985-1988</unitdate>
+            <container id="aspace_70f9a5b360898e5c5b97c0c521805fb1" label="mixed materials" type="Box">6</container>
+            <container id="aspace_a8599b96eb9711b35c6259a0347218d9" parent="aspace_70f9a5b360898e5c5b97c0c521805fb1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_67590eba367a6e36558b84d027877652" level="file">
+          <did>
+            <unittitle>Handbooks</unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_8335b0332e57ee6b1bdcf630c2cf3de6" label="mixed materials" type="Box">7</container>
+            <container id="aspace_35af218ac976644ec2a6dbbc64f10dd6" parent="aspace_8335b0332e57ee6b1bdcf630c2cf3de6" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_8d7d877d6e46c366972345954daa5709" level="series">
+        <did>
+          <unittitle>Series 2: Office files, 1978-1991</unittitle>
+        </did>
+        <scopecontent id="aspace_0e6fa076ce7165be834f011be4dd4928">
+          <head>Scope and Contents</head>
+          <p>Contains the Society's office files arranged alphabetically by topic. The files include the Society's by-laws, some annual reports, Society Conference materials (1978-1991), expense vouchers, meeting minutes, newsletters, financial reports, and handbooks (1984-1989). The series also contains 5 audiotapes of 1984 conference presentations.</p>
+        </scopecontent>
+        <c id="aspace_5f982c68de3050bf6685c5fa96fa1744" level="file">
+          <did>
+            <unittitle>Administration/management</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3c5c85dd35a69b36f3fda78106513e88" label="mixed materials" type="Box">8</container>
+            <container id="aspace_d0090e80ebb9643d202b8831b57e0289" parent="aspace_3c5c85dd35a69b36f3fda78106513e88" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_9abd9fc4f432187a7f6d547af46b8a6a" level="file">
+          <did>
+            <unittitle>Agency Liaison network</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f0a1f6c939f1196a91a99dafa1c51fdf" label="mixed materials" type="Box">8</container>
+            <container id="aspace_5902b0afb927feed4342b9029e463004" parent="aspace_f0a1f6c939f1196a91a99dafa1c51fdf" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_f7787dff29812e3b325d1ef11765c8d5" level="file">
+          <did>
+            <unittitle>Agenda</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_97825348aee4a1f8e1326a13aa937e2c" label="mixed materials" type="Box">8</container>
+            <container id="aspace_f19474a491e52bac300f5b21dff8c99f" parent="aspace_97825348aee4a1f8e1326a13aa937e2c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_2aee24bebbb09868ab16ca26b698c92a" level="file">
+          <did>
+            <unittitle>Annual reports</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_9e332a84542942dea3ad06715a160b8a" label="mixed materials" type="Box">8</container>
+            <container id="aspace_1a2e0917c3c53b73b6b8e8c0299f6d95" parent="aspace_9e332a84542942dea3ad06715a160b8a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_173999c6d65452d98db9621114664102" level="file">
+          <did>
+            <unittitle>Audit</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_9ba7be066baddd451b939fa78ea3e28d" label="mixed materials" type="Box">8</container>
+            <container id="aspace_019974f0565b8e1ff61b27e4b1322b55" parent="aspace_9ba7be066baddd451b939fa78ea3e28d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_0bb7ddd1c5f89aa94a6e195cef272bad" level="file">
+          <did>
+            <unittitle>Awards/reception</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2e2c1d606c639a70658063c8d8dd9896" label="mixed materials" type="Box">8</container>
+            <container id="aspace_69e3373a48835faddf6cb87346a375b8" parent="aspace_2e2c1d606c639a70658063c8d8dd9896" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_9f81161ceb7fd14bc7de3fc0535308f2" level="file">
+          <did>
+            <unittitle>Budget</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_0fec6221e8a03eefbb58514146c58e52" label="mixed materials" type="Box">8</container>
+            <container id="aspace_e20e2b0a69d5126a4b5dcb2527cd0b9b" parent="aspace_0fec6221e8a03eefbb58514146c58e52" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_e33b2311943aad987e65efef55219771" level="file">
+          <did>
+            <unittitle>Budget</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_93317a7b6478a0621db4a805f21a299c" label="mixed materials" type="Box">8</container>
+            <container id="aspace_ee182d44046d8bce32636b64b2a71deb" parent="aspace_93317a7b6478a0621db4a805f21a299c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_d516b23ae7608961565b4e7e45070e87" level="file">
+          <did>
+            <unittitle>Bureaucrat</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_eb933d6164f0829398765f2308e393c0" label="mixed materials" type="Box">8</container>
+            <container id="aspace_e90f9eacb24b154aeaa84ab5aea27a33" parent="aspace_eb933d6164f0829398765f2308e393c0" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_4cd740dca197c64a810633795130a9ac" level="file">
+          <did>
+            <unittitle>By-laws</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2bc8f638759cfa608324bacecb686589" label="mixed materials" type="Box">9</container>
+            <container id="aspace_bd787474ee0154566436903d69524dc2" parent="aspace_2bc8f638759cfa608324bacecb686589" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_67b929286dd458b688413d0b2737fa0f" level="file">
+          <did>
+            <unittitle>Calendar</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b28591316889e26167c4a156cd63d60e" label="mixed materials" type="Box">9</container>
+            <container id="aspace_d846a0b3352f1454f83525df3cf7f234" parent="aspace_b28591316889e26167c4a156cd63d60e" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_2ddd0db4d542d1d68a4c066287a6c008" level="file">
+          <did>
+            <unittitle>Civil service</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_211d27a1be6c9a9aa6292a454343aeb0" label="mixed materials" type="Box">9</container>
+            <container id="aspace_502c25c9fb25f20425c7c90aef1e2d82" parent="aspace_211d27a1be6c9a9aa6292a454343aeb0" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_841d1a90d9bf2396422586e96e623a84" level="file">
+          <did>
+            <unittitle>Commemorative stamps</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d81c1258d3abd18fe2e4cd4d1e7bf5b4" label="mixed materials" type="Box">9</container>
+            <container id="aspace_8a1e5e64fca6b11071b166c29ae4aa59" parent="aspace_d81c1258d3abd18fe2e4cd4d1e7bf5b4" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_fb9439eecf912a269bf99d8a3e277345" level="file">
+          <did>
+            <unittitle>COMPA</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_38c2426d05e2c00ba0545bb1df3ef2b9" label="mixed materials" type="Box">9</container>
+            <container id="aspace_23ff85fb31f7343f9b537b752d4110ec" parent="aspace_38c2426d05e2c00ba0545bb1df3ef2b9" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_08aca1bb3ec7163e8d75f89939467744" level="file">
+          <did>
+            <unittitle>Conference</unittitle>
+            <unitdate normal="1987/1991" type="inclusive">1987-1991</unitdate>
+            <container id="aspace_d3b2a99f8c0d7ea6d509d10611fe8896" label="mixed materials" type="Box">9</container>
+            <container id="aspace_368d0ea6fa03627bf69abbbf5b6caa5d" parent="aspace_d3b2a99f8c0d7ea6d509d10611fe8896" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_f87161c69aa1f5d557deebc0b9d2a97e" level="file">
+          <did>
+            <unittitle>Conference</unittitle>
+            <unitdate normal="1987/1991" type="inclusive">1987-1991</unitdate>
+            <container id="aspace_190eadd655209b4ecc683237d42c9f16" label="mixed materials" type="Box">9</container>
+            <container id="aspace_6634b6c3dc450f87d75865be56e06899" parent="aspace_190eadd655209b4ecc683237d42c9f16" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_e8f0248734a12cdb558e9444028a1343" level="file">
+          <did>
+            <unittitle>Conference</unittitle>
+            <unitdate normal="1978/1986" type="inclusive">1978-1986</unitdate>
+            <container id="aspace_c13c4e800750216e87df271f86eff65e" label="mixed materials" type="Box">10</container>
+            <container id="aspace_203b097ac770a62a4fdaf6da3c8ca7c5" parent="aspace_c13c4e800750216e87df271f86eff65e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_bf9bfcbc1d8f19bd78f6fb39f62e1d09" level="file">
+          <did>
+            <unittitle>Conference</unittitle>
+            <unitdate normal="1978/1986" type="inclusive">1978-1986</unitdate>
+            <container id="aspace_1aa8cb661d1da1db801450beaac3c75f" label="mixed materials" type="Box">10</container>
+            <container id="aspace_4c1e09a5c2fbe360fc1a440ba2adb01a" parent="aspace_1aa8cb661d1da1db801450beaac3c75f" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_28bf0c9fe1ab25bd12a5c553deb628d8" level="file">
+          <did>
+            <unittitle>D.C. Government group</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4aaabe0eb3fd7fa7bc2de51b222d6224" label="mixed materials" type="Box">10</container>
+            <container id="aspace_babe88ba8bacf9bc791228551977f232" parent="aspace_4aaabe0eb3fd7fa7bc2de51b222d6224" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_b50e7785b933232a67353c317639a927" level="file">
+          <did>
+            <unittitle>Directory</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_60489e9721df1518d9f842389aaaba0f" label="mixed materials" type="Box">10</container>
+            <container id="aspace_c30219d66f68c120073bc1a78dfd84c0" parent="aspace_60489e9721df1518d9f842389aaaba0f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_d7addca80553ad1c0ab24d6b7e0ba30a" level="file">
+          <did>
+            <unittitle>Elections</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_97a42f6c9ec0e3c4653087fed8a76ce9" label="mixed materials" type="Box">10</container>
+            <container id="aspace_14782afd73aedc1c2da2ea23406f5872" parent="aspace_97a42f6c9ec0e3c4653087fed8a76ce9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_f60b3902e04d0512df272c91e8d947e9" level="file">
+          <did>
+            <unittitle>Events planning</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_fe48b64380b4ffc8901f8237fe701921" label="mixed materials" type="Box">10</container>
+            <container id="aspace_760f8f738b151dbcea7d198211388ddc" parent="aspace_fe48b64380b4ffc8901f8237fe701921" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_5e9428a1e06368a838f25c88eec75734" level="file">
+          <did>
+            <unittitle>Expense vouchers</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d6f09b628ceceae60edf5d6f54022c1a" label="mixed materials" type="Box">10</container>
+            <container id="aspace_fb22c632e80b3bcd27b555c571b5921e" parent="aspace_d6f09b628ceceae60edf5d6f54022c1a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_82136ae65cd34ddf67d2c39b7e3a5dd9" level="file">
+          <did>
+            <unittitle>Expense vouchers</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b9f7e6a77f5a90b7b604515a248fcbe2" label="mixed materials" type="Box">10</container>
+            <container id="aspace_0d21863f2e135df1aa9355ae4b5556df" parent="aspace_b9f7e6a77f5a90b7b604515a248fcbe2" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_0c50d21e36ae6330c84244e8db036d27" level="file">
+          <did>
+            <unittitle>Finance committee</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3cfa486abf649ae4f692ce6f1c0e2c34" label="mixed materials" type="Box">11</container>
+            <container id="aspace_faab2b45fc69bb065cf2514ec2adbadf" parent="aspace_3cfa486abf649ae4f692ce6f1c0e2c34" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_8d489d644acdb08410e172209e3db23a" level="file">
+          <did>
+            <unittitle>Finance reports</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4bff656b415d5e35f912f86ee1aa3561" label="mixed materials" type="Box">11</container>
+            <container id="aspace_85b32386695edb60d1b804eee63ffb34" parent="aspace_4bff656b415d5e35f912f86ee1aa3561" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_730770f3b089a39dee6199c0b3040858" level="file">
+          <did>
+            <unittitle>Financial reports and financial management</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_636428240d9a005a0ca0eab6b0e6b25c" label="mixed materials" type="Box">11</container>
+            <container id="aspace_7b16a59b1eafa0b026cd48d87e08b91c" parent="aspace_636428240d9a005a0ca0eab6b0e6b25c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_8c3cb654ee9d5c1bb99ded695586c14f" level="file">
+          <did>
+            <unittitle>Holiday reception</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_eab57e28dc1798503d7a43640035e2c3" label="mixed materials" type="Box">11</container>
+            <container id="aspace_99b3f5bc8771df25364729665c07df3a" parent="aspace_eab57e28dc1798503d7a43640035e2c3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_d6a3c7af56c5279260492dd733cd42aa" level="file">
+          <did>
+            <unittitle>Insurance Leadership posters</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5e8d763772271aeb54d5383028c7d248" label="mixed materials" type="Box">11</container>
+            <container id="aspace_8b61e5132a3ac9138733ae930b834aaa" parent="aspace_5e8d763772271aeb54d5383028c7d248" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_02ec9d660c48d7f801f87c6b62cf228f" level="file">
+          <did>
+            <unittitle>Luncheon committee</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_629615064d79f4f5ea28e2736180c697" label="mixed materials" type="Box">11</container>
+            <container id="aspace_8128cd6bb0304332c8fdfa08c95c93d2" parent="aspace_629615064d79f4f5ea28e2736180c697" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_f8fbae439af3d797f76d727a22667ee0" level="file">
+          <did>
+            <unittitle>Medina lecture series</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f2cdfd98ac564a83b8b8521503765052" label="mixed materials" type="Box">11</container>
+            <container id="aspace_71ceb9f4754cf94f7356dbb73a9f3d72" parent="aspace_f2cdfd98ac564a83b8b8521503765052" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_be71188200356a14ddb5f2d588cd560e" level="file">
+          <did>
+            <unittitle>Meeting rooms</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_368e80979d557a8c8b92e9c52799bdc8" label="mixed materials" type="Box">11</container>
+            <container id="aspace_46c74dbb6e46f6d7217c8dcf3ce9d850" parent="aspace_368e80979d557a8c8b92e9c52799bdc8" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_0a4281b4623de5e795d7de2526cb9c24" level="file">
+          <did>
+            <unittitle>Membership committee</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_0a0fb1a72c142db1c2c33d7770085a07" label="mixed materials" type="Box">11</container>
+            <container id="aspace_b89adafd8d375d03082ff20ded138327" parent="aspace_0a0fb1a72c142db1c2c33d7770085a07" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ba4522344c19d30f99a9082d80258a90" level="file">
+          <did>
+            <unittitle>Membership meetings</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f690c3e658cd0114b90488d0a0c9196e" label="mixed materials" type="Box">12</container>
+            <container id="aspace_f03c5e7ab1d13f443eae90a2cf19bb2e" parent="aspace_f690c3e658cd0114b90488d0a0c9196e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_0ba425a34560da5f27a318d2f7781f3d" level="file">
+          <did>
+            <unittitle>Minutes of meetings</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4f240326885a3027cd2e24b75ce6af72" label="mixed materials" type="Box">12</container>
+            <container id="aspace_6a4820e1fb63c45e6ae7b4883fd9f4eb" parent="aspace_4f240326885a3027cd2e24b75ce6af72" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_eae8718d16e0af86cc98fbb955aef024" level="file">
+          <did>
+            <unittitle>National ASPA</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_cac2f61124945759d274a8cbf36cb513" label="mixed materials" type="Box">12</container>
+            <container id="aspace_1edbff26448cb5bee1525753539d4550" parent="aspace_cac2f61124945759d274a8cbf36cb513" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_0d416ece45b56d869a7f6fccd6adb1ed" level="file">
+          <did>
+            <unittitle>National Council of Association for Policy Sciences</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2ae510d46710c3dd8c5c2485a4abbfc1" label="mixed materials" type="Box">12</container>
+            <container id="aspace_f764e3bdbebb21166179d4a5b8664a44" parent="aspace_2ae510d46710c3dd8c5c2485a4abbfc1" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_c443b4f80f09b192a21456d3ab11b478" level="file">
+          <did>
+            <unittitle>PMI</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4e103d58a8a11bd0cf74f77bf87d8eb0" label="mixed materials" type="Box">13</container>
+            <container id="aspace_0cd264035d48de643041ecbaa19cefea" parent="aspace_4e103d58a8a11bd0cf74f77bf87d8eb0" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ec42f63e4193f5652e571dd78afb019c" level="file">
+          <did>
+            <unittitle>Planning</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c6ff399f6d083135a3011fa45a1291b4" label="mixed materials" type="Box">13</container>
+            <container id="aspace_165a9977a7937527461b63bb8c4c58ad" parent="aspace_c6ff399f6d083135a3011fa45a1291b4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_b2cf3be36ed6ff24961ef4a3724469d7" level="file">
+          <did>
+            <unittitle>Nominating Committee</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_1cb64d66ab6163b36de2278c4815a262" label="mixed materials" type="Box">13</container>
+            <container id="aspace_0d683e490a540728a144a450694448c0" parent="aspace_1cb64d66ab6163b36de2278c4815a262" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_4dc134e78a8f0c17c83261ea576b7ea5" level="file">
+          <did>
+            <unittitle>Policy issues</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_345e75c9577577f9cde3b27da12c0687" label="mixed materials" type="Box">13</container>
+            <container id="aspace_31f39406b8ecfc4d9890c8bc107c4947" parent="aspace_345e75c9577577f9cde3b27da12c0687" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_de4cca9ec825bd08602e9501c16ddb58" level="file">
+          <did>
+            <unittitle>Post office</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_eda71232abcfc0669b3ce2ceb64850a2" label="mixed materials" type="Box">13</container>
+            <container id="aspace_25210378d880d03779822dc1fdf11f38" parent="aspace_eda71232abcfc0669b3ce2ceb64850a2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_465ba7779ec7c2d371df02a3d74bd0a4" level="file">
+          <did>
+            <unittitle>Potomac planning</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_13416d5a821111714e234a1333ca8aea" label="mixed materials" type="Box">13</container>
+            <container id="aspace_91eadbea523fe9dc6d22b8c266cb99ab" parent="aspace_13416d5a821111714e234a1333ca8aea" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_21a59a4c4b21ad15590c41a3d34512fd" level="file">
+          <did>
+            <unittitle>PRACADEMIC</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_348d81ebc7a9f0e752d30b93e046120d" label="mixed materials" type="Box">13</container>
+            <container id="aspace_b3b490eb805f2044c0a3ab248b7166bb" parent="aspace_348d81ebc7a9f0e752d30b93e046120d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_d695ea16494757d03f6bfb9311ecfacc" level="file">
+          <did>
+            <unittitle>Presidents' messages</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2a69e3f9cceccd5c90ac1e0819e0fb82" label="mixed materials" type="Box">13</container>
+            <container id="aspace_47f05c5c6043a5ef95a85c9c50c9953d" parent="aspace_2a69e3f9cceccd5c90ac1e0819e0fb82" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_913069ceb69ca70d66720fa0479ac3cf" level="file">
+          <did>
+            <unittitle>Professional development committee</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_32bdbde77ab54b67887a06149cdb641f" label="mixed materials" type="Box">13</container>
+            <container id="aspace_a69bdc7d573e21c9b139ea9de8d9c80a" parent="aspace_32bdbde77ab54b67887a06149cdb641f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_f7842621279916334b34eecd1b1b53c9" level="file">
+          <did>
+            <unittitle>Professional organization</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_489a55121be8bb0858b9da6c18a0cfba" label="mixed materials" type="Box">13</container>
+            <container id="aspace_4b7bb24a54e7e9eec90fd452057b2bf4" parent="aspace_489a55121be8bb0858b9da6c18a0cfba" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_3fc6343d18d997bebfe871d1e5b06acb" level="file">
+          <did>
+            <unittitle>Public/private sector issues</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_11c89c6ea0fd2d78a3977104dd2d79e3" label="mixed materials" type="Box">13</container>
+            <container id="aspace_84963304c128f1b1698ea858997adc63" parent="aspace_11c89c6ea0fd2d78a3977104dd2d79e3" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_f53bf055f99390185a8d11ddabc8770f" level="file">
+          <did>
+            <unittitle>Public relations</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2b058c073d097ab7b33ba307669ff757" label="mixed materials" type="Box">13</container>
+            <container id="aspace_f952461f8a6caf6a8794a7c0a6043e4f" parent="aspace_2b058c073d097ab7b33ba307669ff757" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_e467974b088cfbf44af8129af2f4320d" level="file">
+          <did>
+            <unittitle>Retreat</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5a2daa9ed0c788dba7937a3d74ede677" label="mixed materials" type="Box">13</container>
+            <container id="aspace_8270a2cd1cab298d279b33c0e6011af0" parent="aspace_5a2daa9ed0c788dba7937a3d74ede677" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_8b73366fda0cb28219d6a1dc789646e4" level="file">
+          <did>
+            <unittitle>Roundtables</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c49dbc0ebfcb2d5d46a01e5b82be2a4b" label="mixed materials" type="Box">13</container>
+            <container id="aspace_bd1763066ac1ffb50c7d4f14a40b31bc" parent="aspace_c49dbc0ebfcb2d5d46a01e5b82be2a4b" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_9caef6208f0c64c8534537905b9fdda8" level="file">
+          <did>
+            <unittitle>Student consortium</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_7e2faaa00ec0cdf66a9c731b6baffd30" label="mixed materials" type="Box">13</container>
+            <container id="aspace_f677df6ae015bb71325642efbcdc5330" parent="aspace_7e2faaa00ec0cdf66a9c731b6baffd30" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_dad799304eedc456c49adbcbcf007206" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e569524b68fd89d54be6ac08213a42e2" label="mixed materials" type="Box">13</container>
+            <container id="aspace_99e5bc6b90afa66ed6f455c9084ac52f" parent="aspace_e569524b68fd89d54be6ac08213a42e2" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_629086d40888296d263629eb68043025" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f294a4401182f2d4f776a475e0c8cf54" label="mixed materials" type="Box">13</container>
+            <container id="aspace_f63c1c4cfcb7bf9696d73ba62953795f" parent="aspace_f294a4401182f2d4f776a475e0c8cf54" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_499cb00d7289c92ea60f6aa5d172d7e8" level="file">
+          <did>
+            <unittitle>Stationary Samples</unittitle>
+            <unitdate>Undated</unitdate>
+            <container id="aspace_53fe2c08b8fbffc135a9642cf5401494" label="mixed materials" type="Box">13</container>
+            <container id="aspace_267fa2eea602708ca66f94c9609496f1" parent="aspace_53fe2c08b8fbffc135a9642cf5401494" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_f0360fcbdc9ce8cac90d9d4be1f2f13a" level="file">
+          <did>
+            <unittitle>Tax exemption</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_470852f3df91282bc5fff15a4c68f80f" label="mixed materials" type="Box">14</container>
+            <container id="aspace_5fbe1e236f45d0b4930f70eedf325a26" parent="aspace_470852f3df91282bc5fff15a4c68f80f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c0e4c7e6d6d7aa6d325a9284c6f00d34" level="file">
+          <did>
+            <unittitle>Volunteer</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_dae2c6e46f0963b41bfcf22c3514a4c8" label="mixed materials" type="Box">14</container>
+            <container id="aspace_6bea8518b5ca485a2ed338b36b48ed01" parent="aspace_dae2c6e46f0963b41bfcf22c3514a4c8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_85fba80b53062dfa7763dd28d7f6f435" level="file">
+          <did>
+            <unittitle>YPI/NCAC</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_0bf96bfbffe359df1daeace782470040" label="mixed materials" type="Box">14</container>
+            <container id="aspace_4e1305c08ea4573b631ae28fa85e5968" parent="aspace_0bf96bfbffe359df1daeace782470040" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_333e5883775448c1f95f99d3ac2254f2" level="file">
+          <did>
+            <unittitle>NCAC directory</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3a57fd2668efdd6c9f20da77181b2fd9" label="mixed materials" type="Box">14</container>
+            <container id="aspace_6c08518f07ea32d31211ab392c737556" parent="aspace_3a57fd2668efdd6c9f20da77181b2fd9" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_f23b009f5fb7215858bfd6d40c77a3f8" level="file">
+          <did>
+            <unittitle>Miscellaneous folder</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_067788ae2af2cce716a1d016bf5d4a74" label="mixed materials" type="Box">14</container>
+            <container id="aspace_e6556f4040be4a6cf9fdc8a230b28dc7" parent="aspace_067788ae2af2cce716a1d016bf5d4a74" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_c14ad184aa02cc2dff09ee5e363a0fa6" level="file">
+          <did>
+            <unittitle>Annual Report Background Information PCA</unittitle>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container id="aspace_544179dfa18cb2734edf4b95dbf99691" label="mixed materials" type="Box">14</container>
+            <container id="aspace_e410ace8aea9683a4ef6a4f4e473e3e2" parent="aspace_544179dfa18cb2734edf4b95dbf99691" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_3588cf239a2f13d13821ceca0e621d12" level="file">
+          <did>
+            <unittitle>Leadership handbook</unittitle>
+            <unitdate normal="1984/1989" type="inclusive">1984-1989</unitdate>
+            <container id="aspace_8a1828a7ceee2dfd102e36a2b4abb350" label="mixed materials" type="Box">15</container>
+            <container id="aspace_3019c44003042fae61101ee880b523ea" parent="aspace_8a1828a7ceee2dfd102e36a2b4abb350" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_f2b99b3712404c6a98d69b10d9e7b1d1" level="file">
+          <did>
+            <unittitle>Leadership handbook</unittitle>
+            <unitdate normal="1984/1989" type="inclusive">1984-1989</unitdate>
+            <container id="aspace_d5421e8df6677b9b5cbc163cbaf37f14" label="mixed materials" type="Box">15</container>
+            <container id="aspace_4e6824753f8c7a4e15c6929853ae753b" parent="aspace_d5421e8df6677b9b5cbc163cbaf37f14" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_e40f8694444e3214c1174f95459cf14f" level="file">
+          <did>
+            <unittitle>Leadership handbook</unittitle>
+            <unitdate normal="1984/1989" type="inclusive">1984-1989</unitdate>
+            <container id="aspace_e480cdba3c0e8b7d69e8dcf0d8bc734b" label="mixed materials" type="Box">15</container>
+            <container id="aspace_f4dd8494011a822d4a4351dd748a1229" parent="aspace_e480cdba3c0e8b7d69e8dcf0d8bc734b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_6a589cf3d0568adfd73437952e7ddbb8" level="file">
+          <did>
+            <unittitle>Miscellaneous items</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c7e7a8e73f0f340b95e85ff5d560286c" label="mixed materials" type="Box">15</container>
+            <container id="aspace_d7c9ae69967873da35e8ec9e2a62ad8b" parent="aspace_c7e7a8e73f0f340b95e85ff5d560286c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_0a976b9b2dc37540fe878b83b7d83d8d" level="file">
+          <did>
+            <unittitle>Audiocassette - Peter Edelman and Jon Herbers - Great Society Retrospective</unittitle>
+            <unitdate normal="1984-12-06/1984-12-06" type="inclusive">12/6/1984</unitdate>
+            <container id="aspace_7e3e55f5d848565fce601291b1ffdd4e" label="mixed materials" type="Box">16</container>
+            <container id="aspace_bdcfb36770c6a8a65865fb9c361fde6c" parent="aspace_7e3e55f5d848565fce601291b1ffdd4e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_3b072076aab7b10ca9a63f2ef0a93194" level="file">
+          <did>
+            <unittitle>Audiocassette - K. Hunter et al. - 10 Years After the Congressional Budget Process</unittitle>
+            <unitdate normal="1984-12-06/1984-12-06" type="inclusive">12/6/1984</unitdate>
+            <container id="aspace_6cd7ce1db3e4e803a550578443297290" label="mixed materials" type="Box">16</container>
+            <container id="aspace_9b97d80f2553ce625e332371720d71e5" parent="aspace_6cd7ce1db3e4e803a550578443297290" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_19cfb00a50d0d44d33f7089dd372d4d4" level="file">
+          <did>
+            <unittitle>Audiocassette - William Gregory - Space: The Last Frontier</unittitle>
+            <unitdate normal="1984-12-07/1984-12-07" type="inclusive">12/7/1984</unitdate>
+            <container id="aspace_d195074311a5451c6aa289de275670ec" label="mixed materials" type="Box">16</container>
+            <container id="aspace_748262d18adefcae86c4b283401960a4" parent="aspace_d195074311a5451c6aa289de275670ec" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_841ca29ee98635d279a808eea3ba996d" level="file">
+          <did>
+            <unittitle>Audiocassette - Patterson - Closing Plenary session</unittitle>
+            <unitdate normal="1984-12-07/1984-12-07" type="inclusive">12/7/1984</unitdate>
+            <container id="aspace_6aa37448262067aa161cc25362a6f98f" label="mixed materials" type="Box">16</container>
+            <container id="aspace_1d3737f47048ecb7d20d830812b950ee" parent="aspace_6aa37448262067aa161cc25362a6f98f" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_5ece7082db5f1f8037eee0daa0bff629" level="series">
+        <did>
+          <unittitle>Series 3: Treasurer's records, 1984-1988</unittitle>
+        </did>
+        <scopecontent id="aspace_fb6383c71ab64421b609d36f94bf11a6">
+          <head>Scope and Contents</head>
+          <p>Includes bank statements, bank vouchers, financial reports, maintained by the Society's Treasurer.</p>
+        </scopecontent>
+        <c id="aspace_c00ac3302c07d5d47faf3f76ca2b2cd9" level="file">
+          <did>
+            <unittitle>Bank statements/vouchers</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4b546e4b052723c1cd7421a0a4792a35" label="mixed materials" type="Box">17</container>
+            <container id="aspace_09fba4af052f2adc10ce10d879e2dfcb" parent="aspace_4b546e4b052723c1cd7421a0a4792a35" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_9abb19266a0205e52bc19af09c8a09bb" level="file">
+          <did>
+            <unittitle>Bank statements/vouchers</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_01c396844971a8338994b0aa20a8cd8a" label="mixed materials" type="Box">17</container>
+            <container id="aspace_013543454771816fb51337da289d09d6" parent="aspace_01c396844971a8338994b0aa20a8cd8a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_719c22213aa7a9d23730435ba078398d" level="file">
+          <did>
+            <unittitle>Bank statements/vouchers</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_68e8616851553fc49a5ff00e365edba2" label="mixed materials" type="Box">17</container>
+            <container id="aspace_6f375595ac0ef968c66f0ba556c45c69" parent="aspace_68e8616851553fc49a5ff00e365edba2" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_80c245aac66a7e87c88eabf1bf55489b" level="file">
+          <did>
+            <unittitle>Bank statements/vouchers</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f5586f91a5213ec4307f84fade07a7b4" label="mixed materials" type="Box">17</container>
+            <container id="aspace_b8aa3ad02c87c53267d0ef4f00b15e75" parent="aspace_f5586f91a5213ec4307f84fade07a7b4" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_815f825c52a1c3c593ef0c5521673921" level="file">
+          <did>
+            <unittitle>Bank statements/vouchers</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_995826d7a32f4033cf383e6f745a8479" label="mixed materials" type="Box">17</container>
+            <container id="aspace_037175d5a6d2da3586f93835fc0d7863" parent="aspace_995826d7a32f4033cf383e6f745a8479" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_529e24b68b123841e1dfdedff8cff2a3" level="file">
+          <did>
+            <unittitle>Bank statements/vouchers</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_51fe977c2c60c7db178a22dcdfdb85b8" label="mixed materials" type="Box">17</container>
+            <container id="aspace_299b32bae4895aca4733b007a6782dac" parent="aspace_51fe977c2c60c7db178a22dcdfdb85b8" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_67574822dd309845cc2a786d8b958dbc" level="file">
+          <did>
+            <unittitle>Voucher/Financial policy</unittitle>
+            <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <container id="aspace_0aba998014b0e56e51ce68e305e8d0ea" label="mixed materials" type="Box">18</container>
+            <container id="aspace_36eac346c6b323ddfd0b263e4fce34ee" parent="aspace_0aba998014b0e56e51ce68e305e8d0ea" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_b2bbdceacb779a1a706488e762849bba" level="file">
+          <did>
+            <unittitle>Bank statements</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_dc986805d9a29e10efb439e7be411ac2" label="mixed materials" type="Box">18</container>
+            <container id="aspace_e360ec9770530fb58513ef412fb1f6c2" parent="aspace_dc986805d9a29e10efb439e7be411ac2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_db498e808b0c5ca314cd444fd63b1e86" level="file">
+          <did>
+            <unittitle>Financial status reports w/receipts</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_fe106c0bc4920108cce4d2cb82144506" label="mixed materials" type="Box">19</container>
+            <container id="aspace_0d087d92a689ba546ee2c8cde74cabcf" parent="aspace_fe106c0bc4920108cce4d2cb82144506" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ba2319681a77293ef6755f209d969dec" level="file">
+          <did>
+            <unittitle>Financial status reports w/receipts</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_c86b4853a51f7ee4210ffc15ce5a9aa4" label="mixed materials" type="Box">20</container>
+            <container id="aspace_55eb03791e955c27aa0662f2687dc526" parent="aspace_c86b4853a51f7ee4210ffc15ce5a9aa4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_297f5946363900594158993c1dc583a1" level="file">
+          <did>
+            <unittitle>Financial status reports w/receipts</unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_d75101a7fb2774cbed670869c61ccdd5" label="mixed materials" type="Box">21</container>
+            <container id="aspace_79e66bd4f5737d7b134880143f04bdc7" parent="aspace_d75101a7fb2774cbed670869c61ccdd5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_76e8a01847153649dbb70878b6621a2a" level="file">
+          <did>
+            <unittitle>Financial status reports w/receipt</unittitle>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_97d49a7219a0d1a3a2e5bf85e32f6b02" label="mixed materials" type="Box">22</container>
+            <container id="aspace_0e3491bdd53bffd88cc79a87ea81dff4" parent="aspace_97d49a7219a0d1a3a2e5bf85e32f6b02" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c7b939e2f5a91c0c8043c0f82ef35095" level="file">
+          <did>
+            <unittitle>Miscellaneous papers</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2fc0f96a0d90fc5d6127ce0d2a1f254a" label="mixed materials" type="Box">22</container>
+            <container id="aspace_e35974a06fdba43c32d257a9ae73febb" parent="aspace_2fc0f96a0d90fc5d6127ce0d2a1f254a" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

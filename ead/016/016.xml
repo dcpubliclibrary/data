@@ -1,0 +1,326 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">016Petersilia</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Petersilia (Martin) Arts Collection</titleproper>
+        <titleproper>Martin Petersilia <num>016</num> <num>016</num></titleproper>
+        <subtitle>An inventory of Martin Petersilia at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Public Library.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2001-02</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-20 10:50:54 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Martin Petersilia Arts Collection</unittitle>
+      <unitid>016</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.5 linear feet; 4 boxes</extent>
+      </physdesc>
+      <unitdate normal="1980/1989" type="inclusive">1980-1989</unitdate>
+      <langmaterial id="aspace_4f1fe51520415cf9a8200cb9aed2daa5">English</langmaterial>
+      <langmaterial id="aspace_5c95f405bc92724d4a910cdb1e78b66c">English</langmaterial>
+    </did>
+    <custodhist id="aspace_1011d146237e9cc1c0f6802f13bd8933">
+      <head>Custodial History</head>
+      <p>Martin Petersilia donated his collection of items related to artists and arts organizations to the D.C. Public Library in 1989. As an employee and volunteer, Mr. Petersilia collected memorabilia about the D.C. arts community and was particularly interested in African-American artists and organizations.</p>
+    </custodhist>
+    <scopecontent id="aspace_4bd96c3ca4710bb402ed320a9b1518c5">
+      <head>Scope and Contents</head>
+      <p>Consists of programs, invitations, musical scores, correspondence, publicity, photographs, and clippings from arts organizations such as the Greg Reynolds Dance Quintet, The Womens Arts Center, Momentum Black Theater, and the Nubian League. Items from arts organizations appear first arranged alphabetically followed and then general information about the visual arts and artists in Washington. Oversized materials are in a separate box.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008324" source="Library of Congress Subject Headings">Arts</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85099818" source="Library of Congress Subject Headings">Performing Arts</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_aaecf4accdffba5715b3985288a4d848" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_447093033a4640b1c01d9af872a70971" level="file">
+          <did>
+            <unittitle>Artists in School Program</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_3de8a921ac975c00fa9924f0fcedcce3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d997cb8e958fca6eda8545ec88876009" parent="aspace_3de8a921ac975c00fa9924f0fcedcce3" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_fff835a1a36a48ba6f316bbd46a598b4" level="file">
+          <did>
+            <unittitle>Arts Publicity</unittitle>
+            <unitdate normal="1972/1985" type="inclusive">1972-1985</unitdate>
+            <container id="aspace_3dd98d25a3d0a920c8fb4a58ddc74369" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5399acde533376318a976286228e7545" parent="aspace_3dd98d25a3d0a920c8fb4a58ddc74369" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_eca306f3da36dc693818682ff4f30ee2" level="file">
+          <did>
+            <unittitle>Ethiopian Artists Program</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_ec87fdcf1a4cff47e601e5672b293d93" label="mixed materials" type="Box">1</container>
+            <container id="aspace_047f065ed827f39ef51117961277ca23" parent="aspace_ec87fdcf1a4cff47e601e5672b293d93" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_8656e389f084258dbdd2d40800779051" level="file">
+          <did>
+            <unittitle>Greg Reynolds Dance Quintet</unittitle>
+            <unitdate normal="1977/1983" type="inclusive">1977-1983</unitdate>
+            <container id="aspace_1f53c5486f0c52d0d431b1c89a253662" label="mixed materials" type="Box">1</container>
+            <container id="aspace_13f92bc51e073b1e83feff24f8d5b85d" parent="aspace_1f53c5486f0c52d0d431b1c89a253662" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_94cf7c7fe03a72ff286ca0525f7fd030" level="file">
+          <did>
+            <unittitle>Greg Reynolds Dance Quintet</unittitle>
+            <unitdate normal="1977/1983" type="inclusive">1977-1983</unitdate>
+            <container id="aspace_e341ecd886cded3c3f29f89f0e412199" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1e7386e511c49df252b0f1aa66c4ccaa" parent="aspace_e341ecd886cded3c3f29f89f0e412199" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_5396ca7e10fd0190338ae60ee842fa60" level="file">
+          <did>
+            <unittitle>Greg Reynolds Dance Quintet</unittitle>
+            <unitdate normal="1977/1983" type="inclusive">1977-1983</unitdate>
+            <container id="aspace_1aa46674e5e705e8685637aa8c0a6bb6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_53e0c1a21d16bc453784fb1ae913e814" parent="aspace_1aa46674e5e705e8685637aa8c0a6bb6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_38e24b4ace8aa73a1910d97f5d2ada3c" level="file">
+          <did>
+            <unittitle>Greg Reynolds Dance Quintet</unittitle>
+            <unitdate normal="1977/1983" type="inclusive">1977-1983</unitdate>
+            <container id="aspace_68b4906257a81644f9ebf01cb86371b5" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5060ba5cc1299e5decf52cc41e0368ad" parent="aspace_68b4906257a81644f9ebf01cb86371b5" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_63bff5e01f3fb5a1535decde5dade278" level="file">
+          <did>
+            <unittitle>Greg Reynolds Dance Quintet</unittitle>
+            <unitdate normal="1977/1983" type="inclusive">1977-1983</unitdate>
+            <container id="aspace_22ba90f9439736c6043f3e3d49c6a0e3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f8c604ab0c935c3000cbea34bf63a7bb" parent="aspace_22ba90f9439736c6043f3e3d49c6a0e3" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ee0fd6420fc1a3771ff3c761f5b77aff" level="file">
+          <did>
+            <unittitle>Lansburgh Cultural Center</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_373a336cc777f73438dca9a16596ab4e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_9bbc4e2f7d33cbeb387dde45fc6550e5" parent="aspace_373a336cc777f73438dca9a16596ab4e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_acfaddf91732d4b697b54546978dbc6e" level="file">
+          <did>
+            <unittitle>Metropolitan Dance Association</unittitle>
+            <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <container id="aspace_12800e328c2b4d8dcb67e9e0171e46bc" label="mixed materials" type="Box">1</container>
+            <container id="aspace_318770b4606195d1a3f935ce2049464d" parent="aspace_12800e328c2b4d8dcb67e9e0171e46bc" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_6a7998bae36caf335af4ccdb914b59f7" level="file">
+          <did>
+            <unittitle>Momentum Dance Theater</unittitle>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_e5a324a124874660da17b9ec1bbb2ef0" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d391952b721b0ea00e62b986a399977d" parent="aspace_e5a324a124874660da17b9ec1bbb2ef0" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_caa6340a62aa90bd0e710fd4e8ea7a92" level="file">
+          <did>
+            <unittitle>Nubian League - photographs</unittitle>
+            <unitdate certainty="approximate" normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container id="aspace_b51006f7a60f7d98708bac3d4cd73291" label="mixed materials" type="Box">1</container>
+            <container id="aspace_30273af93acb1804ef96845965a392bc" parent="aspace_b51006f7a60f7d98708bac3d4cd73291" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_56593589aebf78734d3c19de9755f9a9" level="file">
+          <did>
+            <unittitle>Nubian League - photographs - general</unittitle>
+            <unitdate normal="1982/1985" type="inclusive">1982-1985</unitdate>
+            <container id="aspace_83d630a0304c889129b24bb17300b185" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1c2c78c4850b409fa4448e27df2dca93" parent="aspace_83d630a0304c889129b24bb17300b185" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_9a1396d656d29bb4cdf8c9a00228ede9" level="file">
+          <did>
+            <unittitle>Nubian League - photographs - Festival of Black Storytelling</unittitle>
+            <unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <container id="aspace_224f5f268ed07d4bc66754af1cbbff16" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3867d2bfdd965a81f36001243f0e157d" parent="aspace_224f5f268ed07d4bc66754af1cbbff16" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_3d2664942d5504704283c6f06e926409" level="file">
+          <did>
+            <unittitle>Washington Area film Video League Newsletter</unittitle>
+            <unitdate normal="1981/1984" type="inclusive">1981-1984</unitdate>
+            <container id="aspace_ee26f5cf29994243b1af0238387d3282" label="mixed materials" type="Box">2</container>
+            <container id="aspace_476b77dff6cbfbf1d325c7d1de1896d8" parent="aspace_ee26f5cf29994243b1af0238387d3282" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_185f610528cd4d2d2d346f8cde3f0e38" level="file">
+          <did>
+            <unittitle>Women's Art Center</unittitle>
+            <unitdate normal="1978/1986" type="inclusive">1978-1986</unitdate>
+            <container id="aspace_fe9f12af25a84528314cd6c2ca07d077" label="mixed materials" type="Box">2</container>
+            <container id="aspace_f320f6b788c5126dce145f156baafd0d" parent="aspace_fe9f12af25a84528314cd6c2ca07d077" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_df3384b0f9c2a60a460bbc5fcf167bea" level="file">
+          <did>
+            <unittitle>Women's Art Center</unittitle>
+            <unitdate normal="1978/1986" type="inclusive">1978-1986</unitdate>
+            <container id="aspace_da8b17dbad40971ac6975840d787e319" label="mixed materials" type="Box">2</container>
+            <container id="aspace_11898fd52fdef7c3bd3db416f3364231" parent="aspace_da8b17dbad40971ac6975840d787e319" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_f7c269d65e540142ce63a5d7ea039237" level="file">
+          <did>
+            <unittitle>Women's Art Center</unittitle>
+            <unitdate normal="1978/1986" type="inclusive">1978-1986</unitdate>
+            <container id="aspace_59cae032cdda236dc9d4372f5324050a" label="mixed materials" type="Box">2</container>
+            <container id="aspace_10d67835e91d9335b0aebecc55bd5af1" parent="aspace_59cae032cdda236dc9d4372f5324050a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_c3b54369887ae11f683a32bc9a9e3c88" level="file">
+          <did>
+            <unittitle>Women's Art Center</unittitle>
+            <unitdate normal="1978/1986" type="inclusive">1978-1986</unitdate>
+            <container id="aspace_ea74e062c61917da03a3f5b0a7245bb9" label="mixed materials" type="Box">2</container>
+            <container id="aspace_87bf2cb0ae3d6b39b722a1cc19b8ec44" parent="aspace_ea74e062c61917da03a3f5b0a7245bb9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_a81b7f4464cc86b53594fce57d75411a" level="file">
+          <did>
+            <unittitle>Women's Art Center</unittitle>
+            <unitdate normal="1978/1986" type="inclusive">1978-1986</unitdate>
+            <container id="aspace_df8a2e02940a3e41e17720d835f47059" label="mixed materials" type="Box">2</container>
+            <container id="aspace_ec8b9d30fb9566290fb20c9939ea9c2a" parent="aspace_df8a2e02940a3e41e17720d835f47059" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_15a9851bb5c40f45495d56454236506d" level="file">
+          <did>
+            <unittitle>Women's Art Center</unittitle>
+            <unitdate normal="1978/1986" type="inclusive">1978-1986</unitdate>
+            <container id="aspace_2ce60e347f25ca206064356f08fec7a8" label="mixed materials" type="Box">2</container>
+            <container id="aspace_95e68d9464e444c30adaf25858872ad3" parent="aspace_2ce60e347f25ca206064356f08fec7a8" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_dc01ea6681df8520fe8426b82e3a9489" level="file">
+          <did>
+            <unittitle>Women's Art Center</unittitle>
+            <unitdate normal="1978/1986" type="inclusive">1978-1986</unitdate>
+            <container id="aspace_5d2307c0a37a547e1805e6b605ca0d88" label="mixed materials" type="Box">2</container>
+            <container id="aspace_59f69445249253e3d9e869c7b400aa8d" parent="aspace_5d2307c0a37a547e1805e6b605ca0d88" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_9214a6a121848de2b84c4d767f91cabb" level="file">
+          <did>
+            <unittitle>Women's Art Center</unittitle>
+            <unitdate normal="1978/1986" type="inclusive">1978-1986</unitdate>
+            <container id="aspace_efde82964aac534593bc104a3f9108a7" label="mixed materials" type="Box">2</container>
+            <container id="aspace_6b88ea348292ba8f5ec25f42b4cbfb6b" parent="aspace_efde82964aac534593bc104a3f9108a7" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_737a76130a0af1f952cd2be727fce370" level="file">
+          <did>
+            <unittitle>Visual Arts</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980-1989</unitdate>
+            <container id="aspace_b08a209ef7beca87d77998754afa2930" label="mixed materials" type="Box">3</container>
+            <container id="aspace_8b24c54a28dab301e559beaeb053e460" parent="aspace_b08a209ef7beca87d77998754afa2930" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_1df4b4b144481c740968335d8633ab8c" level="file">
+          <did>
+            <unittitle>Visual Arts</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980-1989</unitdate>
+            <container id="aspace_177138456ef3ca61d33e7671ec2d6ba1" label="mixed materials" type="Box">3</container>
+            <container id="aspace_6a168fc469431a81209ce329dbf2b523" parent="aspace_177138456ef3ca61d33e7671ec2d6ba1" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_837076a77506754e5bde6adddd4512e9" level="file">
+          <did>
+            <unittitle>Visual Arts</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980-1989</unitdate>
+            <container id="aspace_b36c0260be05f5ee3c9a1ba114fa6a68" label="mixed materials" type="Box">3</container>
+            <container id="aspace_df4e061c5834c401c771edea2b7ea6c7" parent="aspace_b36c0260be05f5ee3c9a1ba114fa6a68" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_169b29ba90069bcc36fbaf18ba67897b" level="file">
+          <did>
+            <unittitle>Visual Arts</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980-1989</unitdate>
+            <container id="aspace_08cf42655fbc513bc0e0c8ae11c8fe00" label="mixed materials" type="Box">3</container>
+            <container id="aspace_1b82386d43e3a8d27635225ddc29794d" parent="aspace_08cf42655fbc513bc0e0c8ae11c8fe00" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_50902004029ce1119a33cc2a9df9c343" level="file">
+          <did>
+            <unittitle>Visual Arts</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980-1989</unitdate>
+            <container id="aspace_7dba37f6edcb1bcdb23aeec51416a1c4" label="mixed materials" type="Box">3</container>
+            <container id="aspace_e16b04656e63178bef3a718627ed7251" parent="aspace_7dba37f6edcb1bcdb23aeec51416a1c4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_aa99eb37c710c91f113c5b0c0f235383" level="file">
+          <did>
+            <unittitle>Visual Arts</unittitle>
+            <unitdate normal="1980/1989" type="inclusive">1980-1989</unitdate>
+            <container id="aspace_eca66045f7e73eeb2b3080b2514adfc9" label="mixed materials" type="Box">3</container>
+            <container id="aspace_9db7cdbe2068d9c226b7dea3bd5de5fa" parent="aspace_eca66045f7e73eeb2b3080b2514adfc9" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_4b4c99ddc398c711cc2ba3c01682c566" level="file">
+          <did>
+            <unittitle>Printmakers Reception flyer</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_23074f92f689ce6dba5b1d1a17450ccf" label="mixed materials" type="Box">4</container>
+            <container id="aspace_2af59b6e929d5b0b19ea0493163e5cd8" parent="aspace_23074f92f689ce6dba5b1d1a17450ccf" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ac062371582cf234aa61c0a3b5a09a75" level="file">
+          <did>
+            <unittitle>Hartigan exhibit catalog</unittitle>
+            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_27b0351c5c4055c2f6bfd4068eb92668" label="mixed materials" type="Box">4</container>
+            <container id="aspace_6974bf4bfff08a95e482b42e6b412119" parent="aspace_27b0351c5c4055c2f6bfd4068eb92668" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_9b1e2fa251f1f469235cdc32b8a0e99a" level="file">
+          <did>
+            <unittitle>Gallery Museum News</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_915dc245dc9ce81f21948dd58f2a00a5" label="mixed materials" type="Box">4</container>
+            <container id="aspace_ed8061a6ceff79be41e3429d7e55f07c" parent="aspace_915dc245dc9ce81f21948dd58f2a00a5" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_a64d452ff080c1fece2366e82b0d733b" level="file">
+          <did>
+            <unittitle>YWCA Arts Fall Season Flyer</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_f1c90f3902824d34280b90570aadb6f8" label="mixed materials" type="Box">4</container>
+            <container id="aspace_c5e45b76b03a7abde0de88120a03c49f" parent="aspace_f1c90f3902824d34280b90570aadb6f8" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
