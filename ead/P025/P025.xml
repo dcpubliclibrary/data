@@ -1,0 +1,472 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">P025_CardMounted</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Card Mounted Photograph Collection</titleproper>
+        <titleproper>Card Mounted Photographs <num>P025</num> <num>P025</num></titleproper>
+        <subtitle>An inventory of Card Mounted Photograph Collection at DC Public Library</subtitle>
+        <author>Finding aid prepared by Mark S. Greek.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-08</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-21 08:05:57 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Card Mounted Photograph Collection</unittitle>
+      <unitid>P025</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 box</extent>
+      </physdesc>
+      <unitdate normal="1883/1889" type="inclusive">1883-1889</unitdate>
+      <langmaterial id="aspace_edfeee62964426a7b0d7ccda2c025fcc">English</langmaterial>
+      <langmaterial id="aspace_37221a7fd61efd5da026d55057a98210">English</langmaterial>
+    </did>
+    <custodhist id="aspace_5970f48b3bc8da9c757dd375257761de">
+      <head>Custodial History</head>
+      <p>Images transferred from the Washington Historic Image Collection in 2006. There is no deed of gift and it is uncertain as to how the library acquired the majority of these photographs. A few images do note donor on the rear of the image.</p>
+    </custodhist>
+    <processinfo id="aspace_33b8023f28007ec00ac00c251548e5c6">
+      <head>Processing Information</head>
+      <p>All images were originally housed with the Washington Historic Image Collection (HIC). During preservation work on the collection it was decided to transfer these images to the DC Community Archives for long-term storage. This move will decrease the likelihood of further damage to the photographs. Those images from the HIC often had a negative created for each image. A sticker containing the negative number was then affixed to the image. Often the number was affixed to the front of the mounting and repeatedly to the image itself. The stickers will remain attached because their removal might cause irreversible damage the image. The images are arranged alphabetically. 29 images contained a note stating they came from the "Evans Collection." Through some research it was determined that the Evans Collection came to the library in November 1929 in conjunction with four National Rifle scrapbooks. Since all of these 29 images contained a note stating they came from the "Evans Collection." Through some research it was determined that the Evans Collection came to the library in November 1929 in conjunction with four National Rifle scrapbooks. Since all of these men were in uniform and most likely members of the National Rifles and originally donated together as one collection it was decided that the images should be returned to the National Rifle Collection, DC Community Archives Collection 51.</p>
+    </processinfo>
+    <scopecontent id="aspace_38edd023886e34c38fc1d22d4897d84e">
+      <head>Scope and Contents</head>
+      <p>The collection consists of 33 albumen card mounted portraits. These types of images come in a wide variety of styles and sizes. Among the more popular were the cabinet card and carte de visite (CDV). The majority of the images where mounted on standardized mounts roughly measuring 4 ¼" x 6 ½" for cabinet card and 2 ½" x 4 ¼" for the CDVs. In addition to these formats there was also an assortment of larger decorative mounts that gained popularity during the Victorian era. The image itself is often an Albumen print, which is a process by which the emulsion was developed on very thin sheets paper, and was then pasted to the cardboard mounts.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_af24a70d0ba5e0679e1f0621f3e0e125" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_fad852c5d8d40404fe1bba5e9c5736e1" level="file">
+          <did>
+            <unittitle>Allen, Clarence G.</unittitle>
+            <unitdate normal="1883/1883" type="inclusive">1883</unitdate>
+            <container id="aspace_737fd2a9357c4dd29461e332ca7b2c0a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b617938313be752e5b65442e465102f3" parent="aspace_737fd2a9357c4dd29461e332ca7b2c0a" type="Folder">1</container>
+          </did>
+          <scopecontent id="aspace_3b00a6f52d2584161a4268326ca3d83f">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 519</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_c7cbdb7348f01c81cac1e3cfec095454" level="file">
+          <did>
+            <unittitle>Beall, Seward - With bicycle</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_083253ec63bacdf5b8ea2e495f170ab5" label="mixed materials" type="Box">1</container>
+            <container id="aspace_93b48b8e889fe13cb578dca7d1bfa54e" parent="aspace_083253ec63bacdf5b8ea2e495f170ab5" type="Folder">2</container>
+          </did>
+          <scopecontent id="aspace_6d45ad167f5cdd67adc67d1ec45be2c9">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 848</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_138ce7cd46d01808d85177d9ef53c45e" level="file">
+          <did>
+            <unittitle>Bontelle, John</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e56ed42c90efefa153d2ecfa0c6b3882" label="mixed materials" type="Box">1</container>
+            <container id="aspace_327fca66258bd8ff5f034bf92d3a87f1" parent="aspace_e56ed42c90efefa153d2ecfa0c6b3882" type="Folder">3</container>
+          </did>
+          <scopecontent id="aspace_0ef5641231b0c186e209a79f24822b52">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 846</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_23205d7094b3be77854087cce8fc59fc" level="file">
+          <did>
+            <unittitle>Bowerman, Mrs. George F.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_1a49d6e207215958032d1fbd20e92172" label="mixed materials" type="Box">1</container>
+            <container id="aspace_55378dc7cec7427dff5049563ebfff1f" parent="aspace_1a49d6e207215958032d1fbd20e92172" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_f17f645223a95bf9a42dff376d486bed" level="file">
+          <did>
+            <unittitle>Burnett, Charles - With bicycle</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e9f3d865b78fe6d704f9e9c35529704a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_046ac4f3250bf6c0d63571672e612ec8" parent="aspace_e9f3d865b78fe6d704f9e9c35529704a" type="Folder">5</container>
+          </did>
+          <scopecontent id="aspace_b5a59f83100b47fa7a3ac44c68d5ee46">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 847</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_614da7d04dd76d1ae7525817ec3c4f39" level="file">
+          <did>
+            <unittitle>Byrnes, Ed</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e42f40d6bcfb1e79a133fc35f3f4a7f8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a18badf40a897298250e8cd8c662ddca" parent="aspace_e42f40d6bcfb1e79a133fc35f3f4a7f8" type="Folder">6</container>
+          </did>
+          <scopecontent id="aspace_81dae1a51e2ead632b6752c697350ffb">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 844</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_79fedfd58d602b2b4accd6ed4a2018ee" level="file">
+          <did>
+            <unittitle>Caldwell, Charles H. - Baby</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_52df1fed1a880a7b824967805864a1ee" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d1df9e692d61a71ab1dbcdbac43c8fe4" parent="aspace_52df1fed1a880a7b824967805864a1ee" type="Folder">7</container>
+          </did>
+          <scopecontent id="aspace_65e45f39f050472d3c62bd15f68fbd34">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 822</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_1bf3f666107ba48df82c481bfa11a49f" level="file">
+          <did>
+            <unittitle>Cleveland, Grover - With Allen Thurman and US Capitol</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_da5cba9fa8418950d2546d4e61e71c75" label="mixed materials" type="Box">1</container>
+            <container id="aspace_df4c0f76fdb495265d9fe43d44babf15" parent="aspace_da5cba9fa8418950d2546d4e61e71c75" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_8977680078bbebf688b334d0501c0d25" level="file">
+          <did>
+            <unittitle>Dean, E. C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_cea21b5677373cd544dfe0408bb7ed7f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_290991b46772a9cd7eb7cba1e833e6c5" parent="aspace_cea21b5677373cd544dfe0408bb7ed7f" type="Folder">9</container>
+          </did>
+          <scopecontent id="aspace_7af7f09c74238deb8472f2f66a2656db">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 794</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_80eb871e89e3396908b16c88622965b9" level="file">
+          <did>
+            <unittitle>Dodge, Charles R.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_8bf41f419a6ad84a58cbe61ca5251b39" label="mixed materials" type="Box">1</container>
+            <container id="aspace_baf47863aa24c40c95d6d011a08a5bbd" parent="aspace_8bf41f419a6ad84a58cbe61ca5251b39" type="Folder">10</container>
+          </did>
+          <scopecontent id="aspace_4f00426c8ddd6cb0ff67e882f116e5cb">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 795</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_98db7ca384670a55f8f622e09634cab5" level="file">
+          <did>
+            <unittitle>Evans, John A. - In uniform</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f1f73a7c79c4466f390ae88e1aa13cdd" label="mixed materials" type="Box">1</container>
+            <container id="aspace_fac57b0e3f99ec1144fddcebd4bfc91b" parent="aspace_f1f73a7c79c4466f390ae88e1aa13cdd" type="Folder">11</container>
+          </did>
+          <scopecontent id="aspace_d171702456c1fe645296a19919bb0a85">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 796</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_72611a781e7b2419cc93807f8051eef1" level="file">
+          <did>
+            <unittitle>Fellows, H. A. - In uniform</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_ad3ecfae74bd6e1d1266b3c46667665b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5381f137452be0add403570fbb38c03e" parent="aspace_ad3ecfae74bd6e1d1266b3c46667665b" type="Folder">12</container>
+          </did>
+          <scopecontent id="aspace_7d0b1e7b33645b15314baa91321337b5">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 717</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_b1a24c11c8110df3e1228b364030c493" level="file">
+          <did>
+            <unittitle>Gill, Lancey W.</unittitle>
+            <unitdate normal="1885/1885" type="inclusive">1885</unitdate>
+            <container id="aspace_f9f011eec81f865e5d95289a1725bf65" label="mixed materials" type="Box">1</container>
+            <container id="aspace_09c04f925accd33ec94abfa3361d963e" parent="aspace_f9f011eec81f865e5d95289a1725bf65" type="Folder">13</container>
+          </did>
+          <scopecontent id="aspace_0b3607158598daa5d616363d490857f7">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 687</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_68e6a7797c3b94fc9c52c635b6624741" level="file">
+          <did>
+            <unittitle>Grannis, Charles G. - In uniform</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2c151bec2b8850a1b1248f32b4e4c1da" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c77d20ecbabf0f6406991b7bace0abff" parent="aspace_2c151bec2b8850a1b1248f32b4e4c1da" type="Folder">14</container>
+          </did>
+          <scopecontent id="aspace_896d001711a1a189de3bbc914e7c6e44">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 683</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_db7a47f5b632c8f5e2244e160334acf7" level="file">
+          <did>
+            <unittitle>Greeley, A. W. - In uniform</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e84d951ccbb6354e1a7defd1a637cb32" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a722018a9a30c402c918fbfafb77c8f2" parent="aspace_e84d951ccbb6354e1a7defd1a637cb32" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_d1f653b990c98c0895e4ba36a340c7bf" level="file">
+          <did>
+            <unittitle>Hawley, C. E.</unittitle>
+            <unitdate normal="1882/1882" type="inclusive">1882</unitdate>
+            <container id="aspace_53259ef5c9c7f4783fb72c1b0bfd8032" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f9e595568b856a0a0d4bf77c730802a8" parent="aspace_53259ef5c9c7f4783fb72c1b0bfd8032" type="Folder">16</container>
+          </did>
+          <scopecontent id="aspace_15372d868b79302d0246edd50f7b13e3">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 953</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_54e138fd7c3b5131289287b6bb835efb" level="file">
+          <did>
+            <unittitle>Jenkins, Fred</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_a219398f440ebbc99a5adeca6e467b2c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_877a84f7a2c3577094fee364fb043bb3" parent="aspace_a219398f440ebbc99a5adeca6e467b2c" type="Folder">17</container>
+          </did>
+          <scopecontent id="aspace_3ef9dc0a4433f0c089689e32ec73be4a">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 989</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_f2f7a1854bd356fb424783b40115c0ad" level="file">
+          <did>
+            <unittitle>Johnson, Fred L. - With bicycle</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_1c91b573df97ab5665da92f63449c341" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2082c150ee13d480bfed196c11c6cbe5" parent="aspace_1c91b573df97ab5665da92f63449c341" type="Folder">18</container>
+          </did>
+          <scopecontent id="aspace_f6a0b557a0096ae8f5395cecfea78567">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 988</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_a1b02419d8c3688b2559d3af45fefbef" level="file">
+          <did>
+            <unittitle>Johnson, Fred L. - With bicycle</unittitle>
+            <unitdate normal="1887/1887" type="inclusive">1887</unitdate>
+            <container id="aspace_333037de677f0a89cb9a2b311a7c82c5" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d75cbd226489cebc27cf4ec3df03cc6d" parent="aspace_333037de677f0a89cb9a2b311a7c82c5" type="Folder">19</container>
+          </did>
+          <scopecontent id="aspace_bfde0a78f418ae4442892be66b1a1d56">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 990</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_e55605c50c09b38035f0052182992fff" level="file">
+          <did>
+            <unittitle>Kelly, Ivan - CDV</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_bc22858792ab1e029971ba8e185819b3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d56c04bcfff92e7954a6c73205ee6f3b" parent="aspace_bc22858792ab1e029971ba8e185819b3" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_5ee4b310d585cfe6b784ff4609967a98" level="file">
+          <did>
+            <unittitle>Killetts, J. M.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_a2d029a4c3e699f86baa820b1929129d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3d0bb06bd4058c54285688d7994337f6" parent="aspace_a2d029a4c3e699f86baa820b1929129d" type="Folder">21</container>
+          </did>
+          <scopecontent id="aspace_4e814e73809c6e4f145a576725506353">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 1022</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_6c719ec9be6b25c4743e35b880ff29dc" level="file">
+          <did>
+            <unittitle>Leaming, Joseph E.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_a2f10c304fbbf3f4980b997071bf5c79" label="mixed materials" type="Box">1</container>
+            <container id="aspace_bfa06d339d2573e6081cc8d0843c1720" parent="aspace_a2f10c304fbbf3f4980b997071bf5c79" type="Folder">22</container>
+          </did>
+          <scopecontent id="aspace_b70ca5b27bc04e956bae21526a525d0d">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 1035</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_85c6059f66f258c3e7bd8163c473af19" level="file">
+          <did>
+            <unittitle>Littell, J. Reed</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f5d8ce26a93b2bb71fa6a5176b445b5d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_63ba681c0096aa0eb5fd23613a82e18b" parent="aspace_f5d8ce26a93b2bb71fa6a5176b445b5d" type="Folder">23</container>
+          </did>
+          <scopecontent id="aspace_b4bd22c6146734a8909925b09889863c">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 1037</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_70dead2cdec50e2a0556176d8a68db03" level="file">
+          <did>
+            <unittitle>Manners, E. C.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e330ba22a80aaea86745eebddf606ffb" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7d6bbe89e943cc8013b09534496e40e2" parent="aspace_e330ba22a80aaea86745eebddf606ffb" type="Folder">24</container>
+          </did>
+          <scopecontent id="aspace_a555dbdeb0b6bf9ed92dcbe81ff89953">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 1161</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_dfc9e0ff239605b033cd8e936318cf0d" level="file">
+          <did>
+            <unittitle>McCook, Charles M.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_fa6cda30b432241d07450f9ce9a9759f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_40edfab63a75322e8df92fbbcd0ca720" parent="aspace_fa6cda30b432241d07450f9ce9a9759f" type="Folder">25</container>
+          </did>
+          <scopecontent id="aspace_fc6cc50fec9cf2253465a16dfb05ff18">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 1167</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_8c45a546543e1208756f1fd90bc83423" level="file">
+          <did>
+            <unittitle>Moran, T. Pling</unittitle>
+            <unitdate normal="1887/1887" type="inclusive">1887</unitdate>
+            <container id="aspace_dcce86b12c8aea7f9a1660bfecc10ead" label="mixed materials" type="Box">1</container>
+            <container id="aspace_bc0200fa715dda2b9b785de5fc78bbc4" parent="aspace_dcce86b12c8aea7f9a1660bfecc10ead" type="Folder">26</container>
+          </did>
+          <scopecontent id="aspace_d367e7074e20d8716763afc77aac1e01">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 1160</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_1a9487d21c15c7b94a05137beb8acff2" level="file">
+          <did>
+            <unittitle>Newman, Ed</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_42d338c81bd2a793294781c20deb9799" label="mixed materials" type="Box">1</container>
+            <container id="aspace_62e2f3beadb1cebdcbd13a6e7ada4cee" parent="aspace_42d338c81bd2a793294781c20deb9799" type="Folder">27</container>
+          </did>
+          <scopecontent id="aspace_8f592da2b02af261b29689dec414acc3">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 8080</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_bfd5c9b70db621e68fe229a99d7ee097" level="file">
+          <did>
+            <unittitle>Noyes, Theodore W.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_cf5296d30174c3ea73ba9d038d478b1b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_cec5d7cc21c45d9ae3422c055147da31" parent="aspace_cf5296d30174c3ea73ba9d038d478b1b" type="Folder">28</container>
+          </did>
+          <scopecontent id="aspace_10a6a9809eb1d41a33520dd72fd0cdb3">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 1188</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_3d7ca555a7fcade34eb62e7ae2ea055c" level="file">
+          <did>
+            <unittitle>Owen, Fred D.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4077131508566fe5b1fdff0046f01928" label="mixed materials" type="Box">1</container>
+            <container id="aspace_469f41c6f45c1cae2cb783bfedaa8ea6" parent="aspace_4077131508566fe5b1fdff0046f01928" type="Folder">29</container>
+          </did>
+          <scopecontent id="aspace_c76d0971d48e8c34ca1fb31a9caa3e29">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 1189</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_371349f3937ae37afca81fc07a7a0622" level="file">
+          <did>
+            <unittitle>Quinn, M. J. - In uniform</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2e84b88b07ca384b4bdd22848f47576c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c6e8c5e3c92fd387a9cbf834ff559e3f" parent="aspace_2e84b88b07ca384b4bdd22848f47576c" type="Folder">30</container>
+          </did>
+          <scopecontent id="aspace_f0faba72d09a942b33e27ebcbcc3c713">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 1199</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_c4b526bb573f17fa1c476d671a31c947" level="file">
+          <did>
+            <unittitle>Rule, James F.</unittitle>
+            <unitdate normal="1883/1883" type="inclusive">1883</unitdate>
+            <container id="aspace_5f3be1e127b683cd648697a4da7dbbf9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7d7750546c956759e81d8bcac4ed8d08" parent="aspace_5f3be1e127b683cd648697a4da7dbbf9" type="Folder">31</container>
+          </did>
+          <scopecontent id="aspace_bfaf657df08d626ef62fab04f6892802">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 1256</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_e2fdaf808727c4db6a997741cc1baeb5" level="file">
+          <did>
+            <unittitle>Schnider, F. F.</unittitle>
+            <unitdate normal="1885/1885" type="inclusive">1885</unitdate>
+            <container id="aspace_e56d0d7985d01a00fa2a1b3e4da2ff82" label="mixed materials" type="Box">1</container>
+            <container id="aspace_10674e8f2a966e3188b143dd7428d4b0" parent="aspace_e56d0d7985d01a00fa2a1b3e4da2ff82" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ade704bb45a66614b1db753edecbb34a" level="file">
+          <did>
+            <unittitle>Sturmey, Henry</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5c7d6e2fe97923eb1c078001776ab0b7" label="mixed materials" type="Box">1</container>
+            <container id="aspace_873194f4ae2629ea5513e4c25573ae07" parent="aspace_5c7d6e2fe97923eb1c078001776ab0b7" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_e5bf7b1de0d520836d3709b74d015572" level="file">
+          <did>
+            <unittitle>Todd, Weber - In uniform</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f2ce4349c6f7795f60c439db958a8ac1" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8318e73167587f45236a1a1890fd42cf" parent="aspace_f2ce4349c6f7795f60c439db958a8ac1" type="Folder">34</container>
+          </did>
+          <scopecontent id="aspace_4f667049b2ffb38ac1ab16db7850ffe1">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 1283</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_2d94bc5df9950e875f98eb5d7b945df1" level="file">
+          <did>
+            <unittitle>Tyler, Edward Royall</unittitle>
+            <unitdate normal="1889/1889" type="inclusive">1889</unitdate>
+            <container id="aspace_c868d926c6acfc623f5eb550f79fd53f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8932d6f972ae30d263de05a94ee05fc5" parent="aspace_c868d926c6acfc623f5eb550f79fd53f" type="Folder">35</container>
+          </did>
+          <scopecontent id="aspace_f5200a4846e2ac75cae0d5098a73ee9e">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 1284</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_81aa9df56f4fa6fd821ea801915080fa" level="file">
+          <did>
+            <unittitle>Way, Will H. - In uniform</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_25808d49baa2a2270a075cfec5e442d6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4aa1186f39d46ff72eb3b381f3f98ce1" parent="aspace_25808d49baa2a2270a075cfec5e442d6" type="Folder">36</container>
+          </did>
+          <scopecontent id="aspace_ec68ccb1b24b2cf05c17a546ee63f2ee">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 1166</p>
+          </scopecontent>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

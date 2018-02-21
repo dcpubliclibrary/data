@@ -1,0 +1,457 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">P027_Stereoview</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Stereoview Photograph Collection</titleproper>
+        <titleproper>Stereoview Collection <num>P027</num> <num>P027</num></titleproper>
+        <subtitle>An inventory of the Stereoview Photograph Collection at DC Public Library</subtitle>
+        <author>Finding aid prepared by Mark S. Greek.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-08</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-21 08:06:37 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Stereoview Photograph Collection</unittitle>
+      <unitid>P027</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 box</extent>
+      </physdesc>
+      <unitdate type="inclusive">Undated</unitdate>
+      <langmaterial id="aspace_066cc3b60b503cdc68bd47d7bc90c705">English</langmaterial>
+      <langmaterial id="aspace_2c46b556d5f0528dc1d6f435518bbf57">English</langmaterial>
+    </did>
+    <custodhist id="aspace_a9d48adc951d2c3fe6d04aeafb3c977e">
+      <head>Custodial History</head>
+      <p>Images transferred from the Washington Historic Image Collection in 2006. There is no deed of gift and it is uncertain as to how the library acquired the majority of these photographs. A few images do note donor on the rear of the image.</p>
+    </custodhist>
+    <processinfo id="aspace_7767f2abb45eadfa161d87da12cd45e2">
+      <head>Processing Information</head>
+      <p>Most images were originally housed with the Washington Historic Image Collection (HIC), while others were assembled from various donors. During Preservation work on the HIC it was decided to create one unified collection by transferring the images to the DC Community Archives for long-term storage. This move will decrease the likelihood of further damage to the photographs. Those images from the HIC often had a negative created for each image. A sticker containing the negative number was then affixed to the image. Often the number was affixed to the front of the mounting and repeatedly to the image itself. The stickers will remain attached because their removal might cause irreversible damage the image. The assembled images were each assigned a number, placed in a protective sleeve and then stored in an archival box. An image list was created and is attached.</p>
+    </processinfo>
+    <scopecontent id="aspace_6ea20922bfe7800ef70c3117980d45ae">
+      <head>Scope and Contents</head>
+      <p>The Collection consists of 45 Stereoviews depicting various scenes and persons from the District of Columbia. Stereoviews, also called Stereo Cards or Stereotypes, are two nearly identical card-mounted images placed side by side, which when viewed through a stereo viewer or stereograph give the image a three dimensional effect. They were very popular from 1854 through the mid-1930s and often illustrate historic and exotic locations.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/vocabulary/geographicAreas/n-us-dc" source="lcsh">Washington (D.C.)</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_83828c2563be3bb61b287d6d4de7f105" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_22847bd5dda23d121c603a48ee143e7e" level="file">
+          <did>
+            <unittitle>Man next to boat with Long Bridge in background</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_97cdf8ce0d8f50493edb91ceb8d5075b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3e51b329e2e3a6eb56e2c0cde1189a19" parent="aspace_97cdf8ce0d8f50493edb91ceb8d5075b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_4d20beeee9ce9524b1075dd69b7f3c2d" level="file">
+          <did>
+            <unittitle>Three children near old capitol prison building</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_08fc98075109a75a000a68d3ccd4a4a8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_77a49f327b274529045da679d1e24691" parent="aspace_08fc98075109a75a000a68d3ccd4a4a8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_7bbb2caa86c5fe6efd618c9920936af1" level="file">
+          <did>
+            <unittitle>Carriage near Chain Bridge</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_c24fc567c495063245ddf0494917cb14" label="mixed materials" type="Box">1</container>
+            <container id="aspace_928b3f5de5eeafa667408948d1715aef" parent="aspace_c24fc567c495063245ddf0494917cb14" type="Folder">3</container>
+          </did>
+          <scopecontent id="aspace_a4e3482c94d3d93bed943296db80deaa">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 7752</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_d3f90becffc6f2e1258a1c1916a3c202" level="file">
+          <did>
+            <unittitle>Pennsylvania Avenue and US Capitol from Treasury Building</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_ba5e59caef3debc61db486a84925dcce" label="mixed materials" type="Box">1</container>
+            <container id="aspace_41c18ff5fc842dfad3a9313f362e6e59" parent="aspace_ba5e59caef3debc61db486a84925dcce" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_987988af1957fee7f1fef20d43ba0ad7" level="file">
+          <did>
+            <unittitle>Washington Monument</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_8a8ab34f57672ac175340971346a977a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_414e216ed6f913739a76549aec2f325b" parent="aspace_8a8ab34f57672ac175340971346a977a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_f68007104f82839787dfe113e5526714" level="file">
+          <did>
+            <unittitle>Railroad tracks on Long Bridge</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_42094a23f5f79873c36696935ef6a851" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ef79a8d6fc00be2a62874debe2d5bc80" parent="aspace_42094a23f5f79873c36696935ef6a851" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_77fe83be70936f72a31defda83236fc0" level="file">
+          <did>
+            <unittitle>Graves at Arlington National Cemetery</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_72e36a5cd9bc27fb7d5138eb9e2b3978" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4e740a1f1780ee5b1ffd03d2b633db3d" parent="aspace_72e36a5cd9bc27fb7d5138eb9e2b3978" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_7d2f554d1362776bcbda3889f31d0034" level="file">
+          <did>
+            <unittitle>Women of the Food Administration during World War I</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_57650d231bcfebc81203700d730bd685" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2274df3da0f867f788e3e2e32869ea1c" parent="aspace_57650d231bcfebc81203700d730bd685" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_7b44162fbee86f545c5a96faa81ef671" level="file">
+          <did>
+            <unittitle>Soldiers' Home</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_7332f519a2af7b1bcff3719fb21340b6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_02159ae949d20301ecd23fed60d1e110" parent="aspace_7332f519a2af7b1bcff3719fb21340b6" type="Folder">9</container>
+          </did>
+          <scopecontent id="aspace_77563feaf5e61bfb58bde602837f7b5f">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 6406</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_d746820d56e5310554de852de9531685" level="file">
+          <did>
+            <unittitle>First Presbyterian Church</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_a6c6fe1c605f0f0943ba0236cb503bfe" label="mixed materials" type="Box">1</container>
+            <container id="aspace_9341087369740a4db174c072bb8b69b9" parent="aspace_a6c6fe1c605f0f0943ba0236cb503bfe" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_d76f4ea09abbd9f0dcbc912e3f7e5c70" level="file">
+          <did>
+            <unittitle>Arlington House in Arlington National Cemetery</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_421eafdee44cb26dd1f06372c8c1703c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_284f20a98e522a6b66a4c9171f859a6e" parent="aspace_421eafdee44cb26dd1f06372c8c1703c" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_b653e71a02c5cdbd6c88c5dbbf94e247" level="file">
+          <did>
+            <unittitle>West Front of US Capitol and Botanic Garden</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_8ac4a5efa207ac9afa6220ad49e754e1" label="mixed materials" type="Box">1</container>
+            <container id="aspace_586907a3e0920630ed564400a5110396" parent="aspace_8ac4a5efa207ac9afa6220ad49e754e1" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_84b698cea9a4c20df34f79069b5fc6a2" level="file">
+          <did>
+            <unittitle>President William McKinley</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_64436ff54d5bddb17c0ab47d53696af5" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a5d13f56bdc59608c2cf41845d385f3e" parent="aspace_64436ff54d5bddb17c0ab47d53696af5" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_a9ad4340b64fdb776ec36ee88341be0e" level="file">
+          <did>
+            <unittitle>Policeman near Andrew Jackson statue in Lafayette Park</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_df52c177dea646bc6491d479c5beffa7" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f9c02e026ac0381f4d75321146fbf2d7" parent="aspace_df52c177dea646bc6491d479c5beffa7" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_d0445cdd631a33c116469e9d969cce79" level="file">
+          <did>
+            <unittitle>Carriage outside War Department building</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_aed36245af5116ce243d3d9a7372c53d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_def6e0b3c4961ae5d9ccdae6a0c23a6c" parent="aspace_aed36245af5116ce243d3d9a7372c53d" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_edaeac4c074a22ddec6427b38f05a481" level="file">
+          <did>
+            <unittitle>Department of Agriculture building</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_87b1d658b9cd25606880a6a2d475e9a6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4141bc7dfdc28e0b5bb283d97bff92b3" parent="aspace_87b1d658b9cd25606880a6a2d475e9a6" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_20fd760ac0cc56f5b0f3e5c2165ec135" level="file">
+          <did>
+            <unittitle>Interior of Smithsonian Institution</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_35720022671e7fa0af691506d5213e81" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8b8999fdfe40ef5a24eda43f0988e343" parent="aspace_35720022671e7fa0af691506d5213e81" type="Folder">17</container>
+          </did>
+          <scopecontent id="aspace_4341fe3dc7fba0ed08f1a2f3673e71f7">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 8079</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_f544bd8ec3e4f5bc08a215491c497e38" level="file">
+          <did>
+            <unittitle>Botanic Garden with west front of US Capitol in background</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_bb31cb1ce746ae5979a7148b148a4ce4" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b0360a5c2456d85f476310d88cbe92c5" parent="aspace_bb31cb1ce746ae5979a7148b148a4ce4" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_2f7d93e158bbcd14cb2898f1c57cd67f" level="file">
+          <did>
+            <unittitle>Smithsonian Institution</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_a2e32dd14910f814c911a2e631d0cc53" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e152437078d2e4050b94ba8722f1be9e" parent="aspace_a2e32dd14910f814c911a2e631d0cc53" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_a7b33097889f679be1688414a91b0a6b" level="file">
+          <did>
+            <unittitle>Washington Monument from Tidal Basin (colorized)</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_aa457df67787d5d3fa8d7c3ad9b759ed" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3de3c566dcceaa4631c2776b0029d2b6" parent="aspace_aa457df67787d5d3fa8d7c3ad9b759ed" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_fe402b162b3b31e84ae3c5e41f7929be" level="file">
+          <did>
+            <unittitle>Cannons on the US Arsenal grounds</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_93d8a84c405d4cf3771f920ea72c2382" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e26f2d2b044821ededd8fb9ec99f0acf" parent="aspace_93d8a84c405d4cf3771f920ea72c2382" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_5601c9fc67da1e5a30d6f08bbd31a1d8" level="file">
+          <did>
+            <unittitle>US Patent Office building</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_9f1bdb197c53bea88cb581ef6111b968" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7152334234c013a64ba12aba119ffcfe" parent="aspace_9f1bdb197c53bea88cb581ef6111b968" type="Folder">22</container>
+          </did>
+          <scopecontent id="aspace_8911b72cd2212ccbd75fc98d87d4c521">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 4422</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_2b5c3d6573ec81c5dac70dc8f8582071" level="file">
+          <did>
+            <unittitle>Interior of US Patent Office building</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_00c35bb7b9a5f1d55cb0d638547d1f41" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6446e9607024d079acfadbab964cf845" parent="aspace_00c35bb7b9a5f1d55cb0d638547d1f41" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_d6b0b3f8822056ec7a71b2501c020c05" level="file">
+          <did>
+            <unittitle>US Patent Office building</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_761550d91e51c7e69563e987d8223148" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4dadb8232251404dcdde84b4c5b34abb" parent="aspace_761550d91e51c7e69563e987d8223148" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_e8386a89fde7c508597b04a29c56fbc9" level="file">
+          <did>
+            <unittitle>Treasury Department building</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_7d5e0297f7f1f28d780f793ff783273a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_389bc3d90b94d89190f703191e8dbdd5" parent="aspace_7d5e0297f7f1f28d780f793ff783273a" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_9af74ce52ed9048c248440b82ad9fb67" level="file">
+          <did>
+            <unittitle>US Post Office building</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_fe3b509ec69fc8c321c3ff3819e98e0e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f610096fd4026f1ddc01d3bbde9d9972" parent="aspace_fe3b509ec69fc8c321c3ff3819e98e0e" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_36c9eb89abf48892ad4a1eb478a3ed4f" level="file">
+          <did>
+            <unittitle>Interior of White House – East Room</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_c2eb933e0433a101b8d8c63b491f8d6a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4653c75cfe288d4652485adea56ffd65" parent="aspace_c2eb933e0433a101b8d8c63b491f8d6a" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_8ad3a4d82c02d79c718b6dafe0fb68c6" level="file">
+          <did>
+            <unittitle>White House – South side</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_9cae96eb097fa353882202749c5e573e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_fa7937f91f413e23bf3b308a74df57b4" parent="aspace_9cae96eb097fa353882202749c5e573e" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_87088c2387cf427ff9ea6f7c6e3f3ab1" level="file">
+          <did>
+            <unittitle>White house – North front</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_65b686b51931252c1c3aac45cc33d5e4" label="mixed materials" type="Box">1</container>
+            <container id="aspace_06b3735e1c9e57c77e590214d3169a05" parent="aspace_65b686b51931252c1c3aac45cc33d5e4" type="Folder">29</container>
+          </did>
+          <scopecontent id="aspace_ff6aa6b4fee033fc198c4aa1fbc9f08e">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 7319</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_7556b844b34fcd7f6653ce139e44bd26" level="file">
+          <did>
+            <unittitle>White House – South side</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_7d4c3e8300a779eab9c76514b398b841" label="mixed materials" type="Box">1</container>
+            <container id="aspace_81bd58f35bb279b22d5df17eb862075d" parent="aspace_7d4c3e8300a779eab9c76514b398b841" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_e5374a6087d38a9ea9b025157fe80169" level="file">
+          <did>
+            <unittitle>Aerial View of US Capitol looking toward Potomac River</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_16f46be821e9366eb116618f0b1f77f9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_203b5c349eb192f235b626fb6669dd88" parent="aspace_16f46be821e9366eb116618f0b1f77f9" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_40008d62d33cb2480f89cd23144636a6" level="file">
+          <did>
+            <unittitle>US Capitol – East side</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_46e9f24cc223732c4fa8468cf0cae87c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_53b66944f4c2ef450515b44a70a7eb8d" parent="aspace_46e9f24cc223732c4fa8468cf0cae87c" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_98d8aa28c72b47619f7dc2d6bc023e9d" level="file">
+          <did>
+            <unittitle>US Capitol and proposed Lincoln monument (never built)</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_179a4b00fc894155e47d6c072b6797c5" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b2f32fd7cd5fb053f6bcdf23e5d0b66f" parent="aspace_179a4b00fc894155e47d6c072b6797c5" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_92ca2846ebcc434f11e4398c395c6413" level="file">
+          <did>
+            <unittitle>Statue of Civilization – East Portico, US Capitol</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_971ae3754b3b114e7ceff403e7aed1b2" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6645e5a61ba487db3a74603b4cf7a5e3" parent="aspace_971ae3754b3b114e7ceff403e7aed1b2" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_d1822195b2a1f7c41e8058e93e39ac11" level="file">
+          <did>
+            <unittitle>US Capitol – East side</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_ad1c4a063c503e6f8d26ce52de33cf07" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5779a8575b873c597426ba1ff211a5ca" parent="aspace_ad1c4a063c503e6f8d26ce52de33cf07" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_5535dc13409b063a38ee53966338948d" level="file">
+          <did>
+            <unittitle>US Capitol rotunda – Brumidi's Allegorical Painting</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_9077b0d618d74c6548415e82edab6281" label="mixed materials" type="Box">1</container>
+            <container id="aspace_95da5e32f5d6e782e63f02d20d7074b8" parent="aspace_9077b0d618d74c6548415e82edab6281" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_cf5c3babe880c7bd18f6fda68b13ac9f" level="file">
+          <did>
+            <unittitle>US Capitol rotunda – Brumidi's Allegorical Painting</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_d2bc3c4c3147451fc5c0bed8c141f997" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f0c2053078e02fb520b61fcd9deffde1" parent="aspace_d2bc3c4c3147451fc5c0bed8c141f997" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_d05552e44695cd8abc5a11645636730e" level="file">
+          <did>
+            <unittitle>House of Representatives Chamber – US Capitol</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_5febdea07e23096313e8f7792f0b1f0f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_81855f636f6e15a9541971105109ddb6" parent="aspace_5febdea07e23096313e8f7792f0b1f0f" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_1355a0edfa9bd3f6d900fff685e1f9ff" level="file">
+          <did>
+            <unittitle>House of Representatives Chamber – US Capitol</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_134b99465399591804abba1c58a9d662" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1098815f538527d93b77402141ede36b" parent="aspace_134b99465399591804abba1c58a9d662" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_32e8e1aaf8a82dab13b06c3d36b604ff" level="file">
+          <did>
+            <unittitle>US Capitol – East side</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_8e80d3165dc1d22692161404ddf4f2fd" label="mixed materials" type="Box">1</container>
+            <container id="aspace_410ea6fb9a3b4a395e8f9e54615ec7d6" parent="aspace_8e80d3165dc1d22692161404ddf4f2fd" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_6d07c401dcd884c9264917e61eb4cdfb" level="file">
+          <did>
+            <unittitle>Embarkation of the Pilgrams – US Capitol rotunda</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_4a79e94160083065f4b38724824272da" label="mixed materials" type="Box">1</container>
+            <container id="aspace_648d0c896b4a86ac1a416989f7e72406" parent="aspace_4a79e94160083065f4b38724824272da" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_5f02302fc5246b75fad514a3217f47ab" level="file">
+          <did>
+            <unittitle>Senate Chamber – US Capitol</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_cb85fd2f55051f033a64e5d891220d02" label="mixed materials" type="Box">1</container>
+            <container id="aspace_74fd83290dd5e318f9460984c63061ff" parent="aspace_cb85fd2f55051f033a64e5d891220d02" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_edaa2be50eef0647ada8279fa2379f1b" level="file">
+          <did>
+            <unittitle>US Capitol and proposed Lincoln monument (never built)</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_a48c5ced6dbcc4645ba7ec8aab621873" label="mixed materials" type="Box">1</container>
+            <container id="aspace_80c236c34b93633d490f5f45ff382092" parent="aspace_a48c5ced6dbcc4645ba7ec8aab621873" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_553cb5e55409fe97d2558caa05a25f5b" level="file">
+          <did>
+            <unittitle>US Capitol – East side</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_c2d32fa8ddc2c9a5908b0d2f4c04af47" label="mixed materials" type="Box">1</container>
+            <container id="aspace_63176b276c7072687dd0663a310d43c7" parent="aspace_c2d32fa8ddc2c9a5908b0d2f4c04af47" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_31e7bc4dd43a5c49a52f278bea9a0efb" level="file">
+          <did>
+            <unittitle>East entrance to US Capitol</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_88b4ec530e446b73888c4bb4047e06f8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e6175525ed1804b3d6833a57c4cb8587" parent="aspace_88b4ec530e446b73888c4bb4047e06f8" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_0faca71730f951c2281e0c70c441ce49" level="file">
+          <did>
+            <unittitle>Pennsylvania Avenue, with US Capitol in background</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_94771eec330e189ddcdd12825f8d0152" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1a8d6b07d27566167b64f455aaa00903" parent="aspace_94771eec330e189ddcdd12825f8d0152" type="Folder">46</container>
+          </did>
+          <scopecontent id="aspace_3c01d79761530d35f6e10e365bc644ad">
+            <head>Scope and Contents</head>
+            <p>Negative Number: 7742</p>
+          </scopecontent>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

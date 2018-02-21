@@ -1,0 +1,154 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">P029_Wolf</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Wolf (Gus L.) Photograph Collection</titleproper>
+        <titleproper>Gus L. Wolf <num>P029</num> <num>P029</num></titleproper>
+        <subtitle>An inventory of the Gus L. Wolf Photograph Collection at DC Public Library</subtitle>
+        <author>Finding aid prepared by Mark S. Greek.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-09</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-21 08:06:44 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Gus L. Wolf Photograph Collection</unittitle>
+      <unitid>P029</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 box</extent>
+      </physdesc>
+      <unitdate normal="1880/1900" type="inclusive">1880-1900</unitdate>
+      <langmaterial id="aspace_30ebd06c453aa49cd19d9aa020d8d9bd">English</langmaterial>
+      <langmaterial id="aspace_53367f28efca472889f9f4d34f454198">English</langmaterial>
+    </did>
+    <custodhist id="aspace_712a0170b8d61afb88bad098cec523c1">
+      <head>Custodial History</head>
+      <p>The collection was a gift of Gus L. Wolf, via the Freer Gallery of Art, in December 1991. Mr. Wolf donated these images, along with images from his trip to Asia, to the Freer in July 1989, however the Photographs of Washington, and other areas, did not fit the scope of their collection. Subsequently, Archivist Colleen Hennessey at the Freer contacted Washingtoniana and arranged for their transfer the DC Community Archives with the full permission of Mr. Wolf.</p>
+    </custodhist>
+    <processinfo id="aspace_9b389ff4277813e89ec4a8e7e477e234">
+      <head>Processing Information</head>
+      <p>The Freer Gallery of Art made the prints after the receipt of the collection in 1989. Prints were grouped together according to subject and numbers were assigned to each print. Prints were then placed in protective sleeves and put into acid-free folders. The folders were housed in and archival box and placed in the DC Community Archives for long-term storage. Each glass plate negative was assigned a corresponding number and placed in a four-flap paper envelope. The envelopes were housed in an archival box and placed in the Negative Storage Cabinet for long-term storage.</p>
+    </processinfo>
+    <scopecontent id="aspace_d4b1e32c24288166af0658fe0cd99318">
+      <head>Scope and Contents</head>
+      <p>The collection consists of twenty-seven glass plate negatives and corresponding 8x10 black and white prints, dating from circa 1880 thru 1900. Image subjects include the Jefferson Building of the Library of Congress, The US Capitol, Lafayette Park, Mount Vernon, and the Petersen House. Additionally there are several images of what is believed to be the Potomac River, as well as a number of unidentifiable locations.</p>
+    </scopecontent>
+    <userestrict id="aspace_fd7b170921db08eade9187b10a2bc912">
+      <head>Conditions Governing Use</head>
+      <p>There are no restrictions on viewing the prints from collection. Patrons will NOT be granted access to the glass plate negatives without permission of the archivist.</p>
+    </userestrict>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85006611" source="Library of Congress Subject Headings">Architecture</subject>
+      <subject authfilenumber="http://id.loc.gov/vocabulary/geographicAreas/n-us-dc" source="lcsh">Washington (D.C.)</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_91fa7b7ab71697feb862b4a79d3414c9" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_f18f04228c8c66e5d685adc5e66a978a" level="file">
+          <did>
+            <unittitle>Library of Congress</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_93ccfed9bafb9fcb35417db3fef53aea" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5af47fd7a182cd01ee053ac6ef6a98d8" parent="aspace_93ccfed9bafb9fcb35417db3fef53aea" type="Folder">1</container>
+          </did>
+          <scopecontent id="aspace_457c0a8cc646c6e6fb3fba9cbc02bade">
+            <head>Scope and Contents</head>
+            <p>5 images</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_bd1b90510cb23c048f09fa1a3df7e33b" level="file">
+          <did>
+            <unittitle>Statues</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_d549b5355581473e1365a80272fc8365" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1435f0338b619ccb3789652d58b4c9b2" parent="aspace_d549b5355581473e1365a80272fc8365" type="Folder">2</container>
+          </did>
+          <scopecontent id="aspace_325066cc563807bdbc650ed7e0583d40">
+            <head>Scope and Contents</head>
+            <p>3 images</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_823beabdd608cf5af1e926de21dadef3" level="file">
+          <did>
+            <unittitle>US Capitol</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_22ddbecaa2cae6153591316e74ae2405" label="mixed materials" type="Box">1</container>
+            <container id="aspace_87ba0d812af3d314c2c901860e795e50" parent="aspace_22ddbecaa2cae6153591316e74ae2405" type="Folder">3</container>
+          </did>
+          <scopecontent id="aspace_05cc492a68b4cb683caae28f3a68bfa7">
+            <head>Scope and Contents</head>
+            <p>3 images</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_8941f4fef3fb675d7a21f7fb27276a9b" level="file">
+          <did>
+            <unittitle>Mount Vernon</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_cef1656fe72550dc7398be0eb66ca39f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e3e08927bda13e93515b05fadcb10331" parent="aspace_cef1656fe72550dc7398be0eb66ca39f" type="Folder">4</container>
+          </did>
+          <scopecontent id="aspace_7f69bec6f94303ac0128f9622f8c87cf">
+            <head>Scope and Contents</head>
+            <p>3 images</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_317b5c58e83978ec55e1ac3f100ed3ee" level="file">
+          <did>
+            <unittitle>Potomac River?</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_b0e080481878a02f0eba8126abe06709" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a93adfe3aace151f786e8361a7438e62" parent="aspace_b0e080481878a02f0eba8126abe06709" type="Folder">5</container>
+          </did>
+          <scopecontent id="aspace_6a4e5e4ed516ba39176ffed337d722b7">
+            <head>Scope and Contents</head>
+            <p>5 images</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_d6d82dab810db4226c2bf627181ecc28" level="file">
+          <did>
+            <unittitle>Petersen House</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_8af1ae360fe36a44e958d3337a377572" label="mixed materials" type="Box">1</container>
+            <container id="aspace_28ba06fb7ef21d5a5bde1e74c4a97fb8" parent="aspace_8af1ae360fe36a44e958d3337a377572" type="Folder">6</container>
+          </did>
+          <scopecontent id="aspace_d404bc337a5e4d4b866ab11437e08b4e">
+            <head>Scope and Contents</head>
+            <p>1 images</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_029a1e9ec0bf86cdc92ac4ebc2cdc9fb" level="file">
+          <did>
+            <unittitle>Unknown</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_c7a3b70badbe71f14a1dc8862c7eb3cc" label="mixed materials" type="Box">1</container>
+            <container id="aspace_92f8f06aab2c5c971f5105cc1f8e67a8" parent="aspace_c7a3b70badbe71f14a1dc8862c7eb3cc" type="Folder">7</container>
+          </did>
+          <scopecontent id="aspace_f34bb60bebe94523b510494ea6ff4fc6">
+            <head>Scope and Contents</head>
+            <p>6 images</p>
+          </scopecontent>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

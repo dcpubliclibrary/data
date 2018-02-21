@@ -1,0 +1,179 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">123Campbell</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Campbell (Beatrice Murphy) Collection</titleproper>
+        <titleproper>Beatrice Murphy Campbell <num>123</num> <num>123</num></titleproper>
+        <subtitle>An inventory of Beatrice Murphy Campbell at DC Public Library</subtitle>
+        <author>Finding aid prepared by Andrea Cheney.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2011-09</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-21 08:00:19 -0500</date>.</creation>
+      <langusage>
+        <language encodinganalog="546" langcode="eng">English</language>
+      </langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Beatrice Murphy Campbell Collection</unittitle>
+      <unitid>123</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.25 linear feet; 1 box</extent>
+      </physdesc>
+      <unitdate normal="1979/1989" type="inclusive">1979-1989</unitdate>
+      <langmaterial id="aspace_4ceaa90618024ae1666263a8522b0f49">English</langmaterial>
+      <langmaterial id="aspace_466995595a6311e5041bc384f35d8c82">English</langmaterial>
+    </did>
+    <bioghist id="aspace_06cacff9504e9f5c2b95a85f90a12100">
+      <head>Biographical / Historical</head>
+      <p>This collection consists of (awards, correspondence, membership data, miscellaneous items, organization finances, organization memorabilia, photographs, plaques, and printed materials).</p>
+    </bioghist>
+    <scopecontent id="aspace_d44d97eb9a17be8cdfc5bf885b3ee4e9">
+      <head>Scope and Contents</head>
+      <p>This collection consists of seven series that include biographical information, correspondence, documentation of community involvement and service through affiliation with organizations, government agencies and departments and also speeches and testimony.</p>
+    </scopecontent>
+    <dsc>
+      <c id="aspace_2a005a61999885eb93c9e1a5535baf82" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_a72569664f1423e4695319ae1b4c7c7e" level="file">
+          <did>
+            <unittitle>Biographical</unittitle>
+            <unitdate normal="1978/1988" type="inclusive">1978-1988</unitdate>
+            <container id="aspace_3d172408ababd15a8a439ce7e93e3c90" label="mixed materials" type="box">1</container>
+            <container id="aspace_72a20a6721e6e83db7ed09dcce6b4900" parent="aspace_3d172408ababd15a8a439ce7e93e3c90" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_4f987c1bd6e8a188383f2a4cef5d5dde" level="file">
+          <did>
+            <unittitle>Incoming Correspondence</unittitle>
+            <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
+            <container id="aspace_f7a0fb0ea086482fb32fb8b9219c00c8" label="mixed materials" type="box">1</container>
+            <container id="aspace_09104576f7ed13e0a005c7350292c681" parent="aspace_f7a0fb0ea086482fb32fb8b9219c00c8" type="folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_edd24ef8c375a6abe3f796631bb1a075" level="file">
+          <did>
+            <unittitle>Outgoing Correspondence</unittitle>
+            <unitdate normal="1978/1985" type="inclusive">1978-1985</unitdate>
+            <container id="aspace_bc7c7c90adab3dc990a4ca2d8e74afd0" label="mixed materials" type="box">1</container>
+            <container id="aspace_deef253bedd09c27db95dfe28b54e5db" parent="aspace_bc7c7c90adab3dc990a4ca2d8e74afd0" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_cd17a51de0da44e1ba0489f46e2e0608" level="file">
+          <did>
+            <unittitle>District of Columbia Commission on Aging</unittitle>
+            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_3e64d0899e2e2745a78535b7dc3d78c1" label="mixed materials" type="box">1</container>
+            <container id="aspace_c734a861625a16ba7ef2ad2d5b20344b" parent="aspace_3e64d0899e2e2745a78535b7dc3d78c1" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_745b5ad6a331b1bfae619345108a2755" level="file">
+          <did>
+            <unittitle>District of Columbia Statewide Health Coordinating Council (SHCC)</unittitle>
+            <unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate>
+            <container id="aspace_215d91f40671d8b7da4f29d7e3a1d57d" label="mixed materials" type="box">1</container>
+            <container id="aspace_87f70b95b3f0189f2c4f899cc2ef1852" parent="aspace_215d91f40671d8b7da4f29d7e3a1d57d" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_e3d8a59831b0edfc7849ec6207f7c319" level="file">
+          <did>
+            <unittitle>Beatrice M. Murphy Foundation</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_7cfa112fd62855aadb3efeae507c130a" label="mixed materials" type="box">1</container>
+            <container id="aspace_cadd73479b35d51286faf3f3c29f9d12" parent="aspace_7cfa112fd62855aadb3efeae507c130a" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_0aa16c4c53d62e203ea2352c3273706d" level="file">
+          <did>
+            <unittitle>Retired Senior Volunteer Program (RSVP)</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_52715b4bef667f98eee76806208fccdf" label="mixed materials" type="box">1</container>
+            <container id="aspace_31463f5df40201c1de4f55128fa00fac" parent="aspace_52715b4bef667f98eee76806208fccdf" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_3ccbfa27d4eb8bead7680ea0b3181079" level="file">
+          <did>
+            <unittitle>Speeches and Testimony</unittitle>
+            <unitdate normal="1979/1984" type="inclusive">1979-1984</unitdate>
+            <container id="aspace_d110e33909d6b132c8981513060748c3" label="mixed materials" type="box">1</container>
+            <container id="aspace_8b2e9d06dd5be278f5c47a761895bbd0" parent="aspace_d110e33909d6b132c8981513060748c3" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_cf3fb3b0402b4be20ead1759c6169121" level="file">
+          <did>
+            <unittitle>Speeches and Testimony</unittitle>
+            <unitdate normal="1979/1984" type="inclusive">1979-1984</unitdate>
+            <container id="aspace_0f423933a5d3003d9f062baa02af01df" label="mixed materials" type="box">1</container>
+            <container id="aspace_849ca2aafcb2c7ba7c0ac5996b757e07" parent="aspace_0f423933a5d3003d9f062baa02af01df" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_55a278c65184c3cf0c9e075766b13edb" level="file">
+          <did>
+            <unittitle>Clippings and Newsletter</unittitle>
+            <unitdate normal="1955/1986" type="inclusive">1955-1986</unitdate>
+            <container id="aspace_1bd7933d7fa43575e4b9b780f8782a75" label="mixed materials" type="box">1</container>
+            <container id="aspace_237b8b60d81dd3a6b19713142e14bb05" parent="aspace_1bd7933d7fa43575e4b9b780f8782a75" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ad168de892a6025e46be6d30b2e7c13d" level="file">
+          <did>
+            <unittitle>Awards - Handicapped Person of the Year</unittitle>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_9b4fab2e8e96c6a6b5309bef12ee8c96" label="mixed materials" type="box">1</container>
+            <container id="aspace_3db03d22cdd9d5accd1971eb73d75050" parent="aspace_9b4fab2e8e96c6a6b5309bef12ee8c96" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_33375150676817a7af862504c162c2bb" level="file">
+          <did>
+            <unittitle>Awards - Handicapped Person of the Year</unittitle>
+            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_79bce9f33dcadc0067afb2d4c20edc8b" label="mixed materials" type="box">1</container>
+            <container id="aspace_74d382a27b8454310338947868512abd" parent="aspace_79bce9f33dcadc0067afb2d4c20edc8b" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_8cd08eee12e8c5e6f05daa21fab0c6aa" level="file">
+          <did>
+            <unittitle>Awards - Women's Hall of Fame, D.C. Commission for Women</unittitle>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_e39e6678e4baa27a5c2b3e85e1c425be" label="mixed materials" type="box">1</container>
+            <container id="aspace_1f0747d3d5c88c24efc0a1d65c20922d" parent="aspace_e39e6678e4baa27a5c2b3e85e1c425be" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_6596619e7f5236f6c7e4d73b839d2f24" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate normal="1980/1985" type="inclusive">1980-1985</unitdate>
+            <container id="aspace_79d6bf2cae4ea4fc09c9825f07691766" label="mixed materials" type="box">1</container>
+            <container id="aspace_6031c9d1d6cd4bc55a2c435750fa6d78" parent="aspace_79d6bf2cae4ea4fc09c9825f07691766" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_d858a2499a82cf08980bcbdd900f8951" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_16f86466babd762361f3162e6505e944" label="mixed materials" type="box">1</container>
+            <container id="aspace_348902a21f72b1e289d6674dac65295c" parent="aspace_16f86466babd762361f3162e6505e944" type="folder">15</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

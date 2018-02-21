@@ -1,0 +1,451 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">P013_MtZion</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Mount Zion United Methodist Church Photograph Collection</titleproper>
+        <titleproper>Mount Zion United Methodist Church <num>P013</num> <num>P013</num></titleproper>
+        <subtitle>An inventory of the Mount Zion United Methodist Church Photograph Collection at DC Public Library</subtitle>
+        <author>Finding aid prepared by Mark S. Greek.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-03</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-21 08:04:43 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Mount Zion United Methodist Church Photograph Collection</unittitle>
+      <unitid>P013</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 box</extent>
+      </physdesc>
+      <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+      <langmaterial id="aspace_8964ea4eedf6237601cbb19e47e36838">English</langmaterial>
+      <langmaterial id="aspace_c04542c128a279d4ec74478e4c267cbe">English</langmaterial>
+    </did>
+    <custodhist id="aspace_718dc116ca2df03f0818bdf6a43ee7a6">
+      <head>Custodial History</head>
+      <p>There is no deed of gift and it is uncertain as to how the library acquired these photographs.</p>
+    </custodhist>
+    <processinfo id="aspace_11d37a3921230df2e640e6fffa49901d">
+      <head>Processing Information</head>
+      <p>Each image was assigned a number and placed in individual polypropylene sleeve. An image number and collection number were added to the rear of each photograph. The completed sleeves were then placed in acid free folders and then in an archival box for storage in the DC Community Archives.</p>
+    </processinfo>
+    <scopecontent id="aspace_e8ce0cd0bb5f817e58e1a3a39f0d5e8f">
+      <head>Scope and Contents</head>
+      <p>The collection consists of forty-four 3x5 (19 color, 25 B and W) and four 8x10 (all B and W) prints of the Mount Zion United Methodist Church's Community House. The Church is located at 1334 29th Street, NW, while the Community House is located around the corner at 2906 O Street, NW. Both structures are in the Georgetown section of the city. In 1984 the church and community house were renovated through private funds, grants from the United Methodist Church, and a historic preservation matching-grant from the District of Columbia. The community house was built in 1811 and is believed to be the last English-style cottage in the District of Columbia. The building currently houses a Museum and archive that contains manuscripts, photographs and artifacts from the church's and Black Georgetown history. </p>
+      <p> Most of the images are of the restoration of the Community Houses and were taken prior to the work being done. There are a few images of the handicap ramp, which was added to the church in 1983. There are no negatives with this collection.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85001932" source="Library of Congress Subject Headings">African Americans</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026263" source="Library of Congress Subject Headings">City churches</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_10e495628891bb0cd7ad9496e82d7f0a" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_25971f062cefcfc5322102b96baeac58" level="file">
+          <did>
+            <unittitle>Exterior of Community House</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_98fac9780022dd2a35fbb1f364755b62" label="mixed materials" type="Box">1</container>
+            <container id="aspace_276e55ad2ad7ff534e76affd1868bdbc" parent="aspace_98fac9780022dd2a35fbb1f364755b62" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_1a5fac4616a08c80c0707b7d7961c216" level="file">
+          <did>
+            <unittitle>Construction/restoration sign</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_7e1315847b51cc5164334e14bf6f857d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_353ebca5f9c4687ae8c09666fc131042" parent="aspace_7e1315847b51cc5164334e14bf6f857d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_e78dbccb5955e34c21a24e31e0794b89" level="file">
+          <did>
+            <unittitle>Exterior of Community House with sign in foreground</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_38fbc781631cba7ebcd8c8dbf5409df4" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e80f471a4bb1ab862724f338d391458d" parent="aspace_38fbc781631cba7ebcd8c8dbf5409df4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_35107c31db121a252d6306b7c031c695" level="file">
+          <did>
+            <unittitle>Exterior of Community House</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_c3270747f2d38e96eb636b684c020e07" label="mixed materials" type="Box">1</container>
+            <container id="aspace_9cc2e77d8648225f623de5ed527000d4" parent="aspace_c3270747f2d38e96eb636b684c020e07" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_10652253f0c2ecf1129f7e6dde206879" level="file">
+          <did>
+            <unittitle>Exterior of Community House</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_2690b105e7cbddaaf43a1b3b3f11cd27" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6d720c5852ced78fc79ae7a1760c633e" parent="aspace_2690b105e7cbddaaf43a1b3b3f11cd27" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_2cd1d30969965d5ff35f2536484d0e1c" level="file">
+          <did>
+            <unittitle>Rear of Community House taken from handicap ramp</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_423abe9ceb9769b4295a33338e688234" label="mixed materials" type="Box">1</container>
+            <container id="aspace_cfb4555e4313b3a267e91de57267492e" parent="aspace_423abe9ceb9769b4295a33338e688234" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_4e0f7c7f1605043a6658cd845861feed" level="file">
+          <did>
+            <unittitle>Rear of Community House taken from handicap ramp</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_7e8893836c896bc86256a575d626fd0b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3ac2ebb67b53042c48020a099f7583d5" parent="aspace_7e8893836c896bc86256a575d626fd0b" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_3e17c927d3909b9ff56f34cfe4c28d09" level="file">
+          <did>
+            <unittitle>Church handicap ramp</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_43683788e9b5a7d2aec697580a579adb" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3844b82f2ecfe79c574358d5495ece4a" parent="aspace_43683788e9b5a7d2aec697580a579adb" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_67121d95a70d323e5833ca2bace577b0" level="file">
+          <did>
+            <unittitle>Church handicap ramp</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_9c7cf20ef173e8c9528784ac952fa8b7" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d68e2d6475c2c385f18afbdde60e8f3f" parent="aspace_9c7cf20ef173e8c9528784ac952fa8b7" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_2cae8117ab0c042f81498b975ade169b" level="file">
+          <did>
+            <unittitle>Rear of Community House taken from handicap ramp</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_62ce480553f50f5fe3dead9663f74a89" label="mixed materials" type="Box">1</container>
+            <container id="aspace_77cb08cd12bf37fd6f06512723537745" parent="aspace_62ce480553f50f5fe3dead9663f74a89" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_6f78f899678a4b9dd5ebd94619877bee" level="file">
+          <did>
+            <unittitle>Rear of Community House and handicap ramp</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_dd324c7ea977efffad1163c073d9b332" label="mixed materials" type="Box">1</container>
+            <container id="aspace_952185225d2a3c9fa0fbc96d5d027511" parent="aspace_dd324c7ea977efffad1163c073d9b332" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_9283ba9a3512607306f776db3597eeaa" level="file">
+          <did>
+            <unittitle>Church handicap ramp</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_fa6e17b74f8630a1b793c0b0f9ea578f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7774352f504e943579ebb098ba55adbd" parent="aspace_fa6e17b74f8630a1b793c0b0f9ea578f" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_85262f92f38c17868c93b273783fb3b9" level="file">
+          <did>
+            <unittitle>Rear of Community House taken from handicap ramp</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_1a2933596a823060dd3b26016a16a39e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_758339f1bb6979927d9c4cc9598b25c8" parent="aspace_1a2933596a823060dd3b26016a16a39e" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_95202120a81346818ba97dc6ca6f35fe" level="file">
+          <did>
+            <unittitle>Church handicap ramp</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_8d9b8e50bc1911808d5b154835d8a972" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4eaf084fb959316d92c64eb9f1f972f6" parent="aspace_8d9b8e50bc1911808d5b154835d8a972" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_adb739d21a47b8f2199edb544ec5a713" level="file">
+          <did>
+            <unittitle>Church handicap ramp</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_b6cd4be7135689ba5bbab21d326b4899" label="mixed materials" type="Box">1</container>
+            <container id="aspace_41f81907be6c74d99339869d56e17616" parent="aspace_b6cd4be7135689ba5bbab21d326b4899" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_294b6eaa1c2ea04b4436055d847437a5" level="file">
+          <did>
+            <unittitle>Church handicap ramp</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_a9396a2ad01ac9fe60d9b0455ee6ea63" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f54ded549b0c36ad15b509d54c6d3866" parent="aspace_a9396a2ad01ac9fe60d9b0455ee6ea63" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_a6ba67d11b5f4c61c2834184a84de8f5" level="file">
+          <did>
+            <unittitle>Bathroom sink and mirror</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_97da4e5bf4864d6264003d8e0d84c287" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f7ad4154599e240b84b08e29047cca89" parent="aspace_97da4e5bf4864d6264003d8e0d84c287" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_0abbfb4b365fb247daf57fb8d613f509" level="file">
+          <did>
+            <unittitle>Bathroom toilet</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_348152d76b511c583f8809d55e82a8ba" label="mixed materials" type="Box">1</container>
+            <container id="aspace_501d8e7e6dad3ffe0c3e8bd3a3061e52" parent="aspace_348152d76b511c583f8809d55e82a8ba" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_919f2493ac93e4d947af418ec53e856c" level="file">
+          <did>
+            <unittitle>Bathroom toilet</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_f71cc5cfed3f96f7f9f6540445dab679" label="mixed materials" type="Box">1</container>
+            <container id="aspace_fda296fcd856b35fb13ef2775b4b2544" parent="aspace_f71cc5cfed3f96f7f9f6540445dab679" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_a79c74fba8860bb9356d1b9c544f6e4f" level="file">
+          <did>
+            <unittitle>Main room with folding chairs</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_f2e82a5acd5e06ce6dfa022293790cb0" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b5999c32564d507ed45bbd93ee9fe62e" parent="aspace_f2e82a5acd5e06ce6dfa022293790cb0" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_32a6a6df1c50d2146619399834901b50" level="file">
+          <did>
+            <unittitle>Main room with folding chairs and chalkboard</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_c9050bc0430292a6d19d075446b4c43b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2dfe329ed20cc9f69fd203decbd39b94" parent="aspace_c9050bc0430292a6d19d075446b4c43b" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_808ac478fa0203daaa961d38bed76d90" level="file">
+          <did>
+            <unittitle>Main room with folding chairs</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_fd428d76c1a94f6ed2cfaf14712c8979" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7c388ea21358a43b935eff6cb5219ecb" parent="aspace_fd428d76c1a94f6ed2cfaf14712c8979" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_b940408e1c94b0b9fd09c497c0d019cc" level="file">
+          <did>
+            <unittitle>Main room with folding chairs</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_5fd752fe05a924a26b3db9bb8800790e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b55e95076f3c975a92998c62f584544e" parent="aspace_5fd752fe05a924a26b3db9bb8800790e" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_3302f3a8be4745d48c40a652db8a7831" level="file">
+          <did>
+            <unittitle>Main room with folding chairs</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_84a8f9ea31de5b9436ff60d4bdaf9849" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f2f48235ccde1e89c6442ae658000f73" parent="aspace_84a8f9ea31de5b9436ff60d4bdaf9849" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ffe849fbd653cc5630d5f57a4f1a5713" level="file">
+          <did>
+            <unittitle>Floor of upper room</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_54bc4ed2db52a4453d51ce01245aaa8a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c72356f66e386202f1053c12fa31fe0a" parent="aspace_54bc4ed2db52a4453d51ce01245aaa8a" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_0591d5178395d6421c657e21bb2b86c0" level="file">
+          <did>
+            <unittitle>Stairs to upper room</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_bba58655d316538f94ffab89d05d66e0" label="mixed materials" type="Box">1</container>
+            <container id="aspace_9a6564363250166d2c6e989e67882bc4" parent="aspace_bba58655d316538f94ffab89d05d66e0" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_1019bd541ddc680ac9c5b905403c2e53" level="file">
+          <did>
+            <unittitle>Floor of upper room</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_928a2f40041df431ff1fed9dc557a6e3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_49d8bb5fc67520eda671da505f544c63" parent="aspace_928a2f40041df431ff1fed9dc557a6e3" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_9a8311c8a23d6983d98a55740584e8dd" level="file">
+          <did>
+            <unittitle>Stairs to upper room</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_c310d8cf8dde5b74d621f79aca686b58" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5b26d415a9d7eeab0307c35c24cc0995" parent="aspace_c310d8cf8dde5b74d621f79aca686b58" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_efcae65e79e31846bb47b0a2697f0e61" level="file">
+          <did>
+            <unittitle>Side door from interior</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_2e1f87235881ab7053b6b22cb136220d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2d55ddaa8029b235615fac2bf660ce80" parent="aspace_2e1f87235881ab7053b6b22cb136220d" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_859332065cbaf9a37f6a3bb8605ebf70" level="file">
+          <did>
+            <unittitle>Ceiling and wall of main room</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_9eba73e19990a4abb09349faee63c1bf" label="mixed materials" type="Box">1</container>
+            <container id="aspace_48d6635f647e7dfee9804c5dbeb2a637" parent="aspace_9eba73e19990a4abb09349faee63c1bf" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_59b6df3ffa4c50572f0cbcd7042f61a7" level="file">
+          <did>
+            <unittitle>Rear Window</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_7f7f0d7b54c5d5751264e9f25a3976e9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7d7e75d240387b19f86814f7eb6660f0" parent="aspace_7f7f0d7b54c5d5751264e9f25a3976e9" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_9bdb3c78dfed6f48fb4c9ce1adfb1f81" level="file">
+          <did>
+            <unittitle>Side door from interior</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_7811f60a70a0f4b559e4d7b9f4cf3a50" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ccbc53f6f2777b0bb428da1e4f1627b7" parent="aspace_7811f60a70a0f4b559e4d7b9f4cf3a50" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_4858ae75f73861ce57fc0429e2bf72e5" level="file">
+          <did>
+            <unittitle>Window latch on rear window</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_2ceecede771c29a895a48660531d10d0" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4c112cfd5e1d66280fce3af74568de9d" parent="aspace_2ceecede771c29a895a48660531d10d0" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_f5a6fb0e3cad24a0988ccd246ceb1a4c" level="file">
+          <did>
+            <unittitle>Rear window and wall</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_976741569a30632e2052a2bff3ac627d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b384f7683d7ce92274e09854de3e2a11" parent="aspace_976741569a30632e2052a2bff3ac627d" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_99726223625f2a1a7e9839840e9ab09a" level="file">
+          <did>
+            <unittitle>Rear room fireplace</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_78cab333ee10cc3f65ac390d21024f89" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7ad0e31c9289ccdbeadce790fd3227c8" parent="aspace_78cab333ee10cc3f65ac390d21024f89" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ff21dd4a8f1210f6005c84cb5019ea49" level="file">
+          <did>
+            <unittitle>Bathroom sink and mirror</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_9c344e00ab94d5492252f2ddb286cc7d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_18bf9d846defc0a55a63481ed226c059" parent="aspace_9c344e00ab94d5492252f2ddb286cc7d" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_9c93b023e483d37e1e88034be927b5b5" level="file">
+          <did>
+            <unittitle>Bathroom toilet</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_d283dd311f4a10f338fbd2f41eafd483" label="mixed materials" type="Box">1</container>
+            <container id="aspace_040633e34991196e6ac7c7b6f9fe5721" parent="aspace_d283dd311f4a10f338fbd2f41eafd483" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ba7eb99ba1cf26abb7551e33c8ebc6f1" level="file">
+          <did>
+            <unittitle>Light fixture</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_e1faf035bf69e8bf39ad05b413d515d9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_bc7af7ab775222d85fee47f4238a2339" parent="aspace_e1faf035bf69e8bf39ad05b413d515d9" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_6a9b3e4c80a373cce3272fdd9e90a4d4" level="file">
+          <did>
+            <unittitle>Front door and gas meter (interior)</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_0e37724898a7de8e6bc2415f599f053e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_76e983ce42437c3f2ea2aa26561e4138" parent="aspace_0e37724898a7de8e6bc2415f599f053e" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_e0e16bffe6212120a44c8fdbebec6424" level="file">
+          <did>
+            <unittitle>Gas meter and pipes going into ceiling</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_420327707a94e2990e3b923200f4f996" label="mixed materials" type="Box">1</container>
+            <container id="aspace_89a10b1e58189fc1d32884a62062abdd" parent="aspace_420327707a94e2990e3b923200f4f996" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_3148c1d5fd22e2ea3c80604fb6c31511" level="file">
+          <did>
+            <unittitle>Furnace in upper room</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_684eb2663082466b0972f913bbb6e8fd" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2f9c89948bd4f27d14485131d1c4da75" parent="aspace_684eb2663082466b0972f913bbb6e8fd" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_0eba0144920ef735daccb963ce08bdee" level="file">
+          <did>
+            <unittitle>Smoke alarm</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_2492a8e626199cbababf6589ed99c692" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8d4c85610f2deb4a2a903c005af1e1e9" parent="aspace_2492a8e626199cbababf6589ed99c692" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_70ebbbedfb9620b812f888e5f5f241f5" level="file">
+          <did>
+            <unittitle>Duct work in lower room ceiling</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_6436c3ab881c665948ff924dddbcbd28" label="mixed materials" type="Box">1</container>
+            <container id="aspace_09abf4e9f99f05c656ff83b995881491" parent="aspace_6436c3ab881c665948ff924dddbcbd28" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_6bb212fed9049db64565f13007651ae8" level="file">
+          <did>
+            <unittitle>Furnace in upper room</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_16ff58343db60aa412ff75c1cc3d86ed" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a24a4535c9e7d02568b2fb13c25de769" parent="aspace_16ff58343db60aa412ff75c1cc3d86ed" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_02d0b47c1d1827565bc7f46a7777c4d2" level="file">
+          <did>
+            <unittitle>Roof of community house</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_a855b7468f4fd45434c76fbbdc8bef57" label="mixed materials" type="Box">1</container>
+            <container id="aspace_801a8b637b895b5adbb2338929cdf730" parent="aspace_a855b7468f4fd45434c76fbbdc8bef57" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_88ee67560a43ad574c6ae62e4903e9dd" level="file">
+          <did>
+            <unittitle>Exterior of community house</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_15937aa1ddff5fbea36064739b533b56" label="mixed materials" type="Box">1</container>
+            <container id="aspace_64f2f74c9553ed2f0af30824c8b90020" parent="aspace_15937aa1ddff5fbea36064739b533b56" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_9dfaa751b5cb06cf9f640eb90b0d3326" level="file">
+          <did>
+            <unittitle>Exterior view of the rear of the community house</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_f8e91ea805f20e15f15c12f6e6c9a68d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1956500b62609bc340a31888e6b01b15" parent="aspace_f8e91ea805f20e15f15c12f6e6c9a68d" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_61504738fade42d00c388682021fed04" level="file">
+          <did>
+            <unittitle>Window in the upper room</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_bfcb3aad4c0e033d95fa92887e1958c9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_db5454b95475e1fa18af321b75d91b47" parent="aspace_bfcb3aad4c0e033d95fa92887e1958c9" type="Folder">48</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

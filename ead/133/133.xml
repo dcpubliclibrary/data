@@ -1,0 +1,483 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">133Cooper</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Cooper (Margaret) Papers</titleproper>
+        <titleproper>Margaret Cooper <num>133</num> <num>133</num></titleproper>
+        <subtitle>An inventory of Margaret Cooper at DC Public Library</subtitle>
+        <author>Finding aid prepared by DC Africana Archives Project.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-21 08:01:24 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Margaret Cooper Papers</unittitle>
+      <unitid>133</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">15 cubic feet; 5 boxes</extent>
+      </physdesc>
+      <unitdate normal="1927/1997" type="inclusive">1927-1997</unitdate>
+      <langmaterial id="aspace_d679aa410548e9d8445993ec6563153a">English</langmaterial>
+      <langmaterial id="aspace_cde746c83366442c9029def2dd47636d">English</langmaterial>
+      <abstract id="aspace_4835926af4a8aadd5bfe361c0721e264">Margaret Cooper was a community activist in the Shaw neighborhood of Washington, DC who worked on numerous projects with various organizations including the Shaw Area Project Committee, Junior Christian Endeavor, Boy Scouts of America, War on Rats, Federation of Civic Associations, and the United Planning Organization. Cooper also served on the Advisory Neighborhood Commission for fifteen years and was one of the first ANC commissioners for the Shaw neighborhood. The Margaret Cooper Papers range from 1927-1997 and contain certificates, DC Council resolutions, newspaper clippings, photographs, programs, and speeches.</abstract>
+    </did>
+    <userestrict id="aspace_139e7ffbfb879737ad6c5e8aef2f683f">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_4d7c2aa8aa0b5c626716dda81f3d8c03">
+      <head>Biographical / Historical</head>
+      <p>Margaret Cooper was born in Warrington, Virginia on August 8, 1900. She attended Martha Washington Vocational School and played saxophone and trumpet. Cooper was known to the Shaw neighborhood as "Mother Cooper." She worked as a Registered Nurse at George Washington University Hospital for fifteen years. Cooper was very active as a member of the Third Avenue Baptist Church in Washington, DC. She worked as an activist in the Shaw neighborhood on numerous projects with various organizations such as the Shaw Project Area Committee, Junior Christian Endeavor, Boy Scouts of America, War on Rats, Federation of Civic associations, and the United Planning Organization. Cooper also served on the Advisory Neighborhood Commission for fifteen years and was one of the first ANC commissioners for the Shaw neighborhood. Before her death in at the Hartland Health Center in Hyattsville, Maryland, Cooper had lived in a house on Warren Street, NW since 1917.</p>
+    </bioghist>
+    <scopecontent id="aspace_d2814c55e09957d8431a4fd9e20a4334">
+      <head>Scope and Contents</head>
+      <p>The Margaret Cooper Papers range from 1927-1997 and contain certificates, DC Council resolutions, newspaper clippings, photographs, programs, and speeches.</p>
+    </scopecontent>
+    <dsc>
+      <c id="aspace_b14bde843f6a254d3275a27e23042d21" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_aaef65d686556d2b121d96090198c8dd" level="file">
+          <did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate normal="1972/1998" type="inclusive">1972-1998</unitdate>
+            <container id="aspace_1e169f830ab4dfa04062fdf71c13b0a8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_66b5ae3289cefbaaa11a6ef82543b9a0" parent="aspace_1e169f830ab4dfa04062fdf71c13b0a8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_1aeedcbdda96679c96a5a22f716ff805" level="file">
+          <did>
+            <unittitle>Queen Esther Household of Ruth</unittitle>
+            <unitdate normal="1927/1983" type="inclusive">1927-1983</unitdate>
+            <container id="aspace_b0afaf7918e6a54e2ad2a21f6c6e1301" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6d60db7ebcea4a15590a20581f58526f" parent="aspace_b0afaf7918e6a54e2ad2a21f6c6e1301" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_68e13cd688ce33ce0cd1fc857e95d7f9" level="file">
+          <did>
+            <unittitle>Environment</unittitle>
+            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_bdf685a207e18f3dc970b8f425c601a3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e0a083264e54b029962e4c264f61cb2d" parent="aspace_bdf685a207e18f3dc970b8f425c601a3" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_27d49f4ba07c1d692edf6cb708fc680f" level="file">
+          <did>
+            <unittitle>Community (1 of 2)</unittitle>
+            <unitdate normal="1978/1998" type="inclusive">1978-1998</unitdate>
+            <container id="aspace_d1a7ed9df77e90f45c6c73dd0bd6000b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_0d5d9db47d5112998225577e476b4947" parent="aspace_d1a7ed9df77e90f45c6c73dd0bd6000b" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ed3470f0912ff19d34c26970bbe7723a" level="file">
+          <did>
+            <unittitle>Community (2 of 2)</unittitle>
+            <unitdate normal="1969/1996" type="inclusive">1969-1996</unitdate>
+            <container id="aspace_9103285518bfc921e5b2aa87f58f8dad" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d36d55f44419cf337119db53ff5eaf3a" parent="aspace_9103285518bfc921e5b2aa87f58f8dad" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_97bf6cef27cb4f3984671a3dc84b3b5c" level="file">
+          <did>
+            <unittitle>Shaw Community/ANC</unittitle>
+            <unitdate normal="1982/1998" type="inclusive">1982-1998</unitdate>
+            <container id="aspace_b65fd42f904320cc8cb8acca9c90f2db" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1dc396b14025bb7d85380e107dc54645" parent="aspace_b65fd42f904320cc8cb8acca9c90f2db" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_e55bfdedd192f19b62af995d1b5933e7" level="file">
+          <did>
+            <unittitle>Scouts</unittitle>
+            <unitdate normal="1976/1989" type="inclusive">1976-1989</unitdate>
+            <container id="aspace_fbcf23433823baf547737ccb68705942" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3143ca801ed4bd725188c95da64b0190" parent="aspace_fbcf23433823baf547737ccb68705942" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_d6c096008a96800697c00bfcbfc056b7" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1956/1997" type="inclusive">1956-1997</unitdate>
+            <container id="aspace_1ab0e53611b03856aff5ecdefa8d403e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e2c04a562969303e78f31769d6e35060" parent="aspace_1ab0e53611b03856aff5ecdefa8d403e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_c2859a86fdd1a1dc4e71c2a351ae4e7f" level="file">
+          <did>
+            <unittitle>DHCD Housing Programs</unittitle>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_aacad399209e7c5e54be4808f909bcfe" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7faa74b2370302058a32e9439429e4dc" parent="aspace_aacad399209e7c5e54be4808f909bcfe" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_959a48a8215e85bbe5d18aad43142c58" level="file">
+          <did>
+            <unittitle>Africare</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_cd0ae1a3d89892efec51729a3376cb9a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3274605a896c5829459a5ad23b34e735" parent="aspace_cd0ae1a3d89892efec51729a3376cb9a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_f4e7a898776b08a8bf5f70058514e832" level="file">
+          <did>
+            <unittitle>Christian Endeavor Songs</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_fd42eaac51b096261542844bfa49e39e" label="mixed materials" type="Box">2</container>
+            <container id="aspace_72f791e91cf6d9469dfbc08844f4174e" parent="aspace_fd42eaac51b096261542844bfa49e39e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_0d6f06525b5b74fc691f780fbb447ae4" level="file">
+          <did>
+            <unittitle>Lott Carey Baptist Herald</unittitle>
+            <unitdate normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_94dda7373bc89e5dfa0f31b945ea4ab0" label="mixed materials" type="Box">2</container>
+            <container id="aspace_cf876e09827a92f5a416dd25c0208788" parent="aspace_94dda7373bc89e5dfa0f31b945ea4ab0" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_b30b7a94e4f2862064cb6c41748bc9ee" level="file">
+          <did>
+            <unittitle>New Samaritan Baptist Church</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_a099e9ccc8c88cbf98e16506c94ec93a" label="mixed materials" type="Box">2</container>
+            <container id="aspace_cf8b25a69c5bb088103683365217edc5" parent="aspace_a099e9ccc8c88cbf98e16506c94ec93a" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_20df732a899154b4cd6aa10e78ce6f98" level="file">
+          <did>
+            <unittitle>Payne Memorial African Methodist Church Annual Conference Program</unittitle>
+            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_5b53f1cb5f5cc52399a2ab6b7970b853" label="mixed materials" type="Box">2</container>
+            <container id="aspace_ac8bdd260ca64d4e0724de6eb25d40bb" parent="aspace_5b53f1cb5f5cc52399a2ab6b7970b853" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_6a6297242d3c3bdd7ac60fb211ca35a3" level="file">
+          <did>
+            <unittitle>The Baptist Sunday Union of Washington and Vicinity</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_e69ac649cdc05490fff8cc0e4bac7126" label="mixed materials" type="Box">2</container>
+            <container id="aspace_7e878fe8b5247fd552768feaf0750c75" parent="aspace_e69ac649cdc05490fff8cc0e4bac7126" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_6edeeb157b774b200eb6d5ac0a9fba9b" level="file">
+          <did>
+            <unittitle>Third Baptist Church Bulletins</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_a933a63d8a214e72be406152b72ab6ed" label="mixed materials" type="Box">2</container>
+            <container id="aspace_a2a464e528c984bad818ccea8c2baa43" parent="aspace_a933a63d8a214e72be406152b72ab6ed" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_13c4353d8652b7d4193285a9ea1a95f2" level="file">
+          <did>
+            <unittitle>Third Baptist Church Bulletins</unittitle>
+            <unitdate normal="1965/1968" type="inclusive">1965-1968</unitdate>
+            <container id="aspace_684a9e8ae1c216d52919727a1a537238" label="mixed materials" type="Box">2</container>
+            <container id="aspace_937b4c73bdf7d63a63ac6a3ab8cfc21a" parent="aspace_684a9e8ae1c216d52919727a1a537238" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_e27941b67d0df3540bef81ced9fbc2d7" level="file">
+          <did>
+            <unittitle>Third Baptist Church Bulletins</unittitle>
+            <unitdate normal="1993/1997" type="inclusive">1993-1997</unitdate>
+            <container id="aspace_24308a1902592add24029d40b099698e" label="mixed materials" type="Box">2</container>
+            <container id="aspace_a2262269abcb8a4e80ae9adc97849e66" parent="aspace_24308a1902592add24029d40b099698e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_624915f83ba68e445e429c142e2e3f3d" level="file">
+          <did>
+            <unittitle>Third Baptist Church Bulletins</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_0ebc60059b47150ddff14e282585e46e" label="mixed materials" type="Box">2</container>
+            <container id="aspace_ad71ec634e229a13fd88c73e100dc333" parent="aspace_0ebc60059b47150ddff14e282585e46e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_c3d7bb57c2d003b030b03c1446df22f7" level="file">
+          <did>
+            <unittitle>Christian Endeavor Night Tickets</unittitle>
+            <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_14c976c7da8de6a274a40346b4144a55" label="mixed materials" type="Box">2</container>
+            <container id="aspace_865c9296c37450c9c5a6ba1d04218bf4" parent="aspace_14c976c7da8de6a274a40346b4144a55" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_50bb4b11c48be2a64473314d895a3c4c" level="file">
+          <did>
+            <unittitle>Certificates/Awards/Nominations (1 of 4)</unittitle>
+            <unitdate normal="1954/1998" type="inclusive">1954-1998</unitdate>
+            <container id="aspace_c69f1adfa12d2b8b44b6106c0d6d064c" label="mixed materials" type="Box">2</container>
+            <container id="aspace_abf7668f1104b80c69d1b761b8584b0b" parent="aspace_c69f1adfa12d2b8b44b6106c0d6d064c" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_f2729098265b1bced756eee65545784c" level="file">
+          <did>
+            <unittitle>Certificates/Awards/Nominations (2 of 4)</unittitle>
+            <unitdate normal="1954/1998" type="inclusive">1954-1998</unitdate>
+            <container id="aspace_28233f20b5a944627861a48c30752309" label="mixed materials" type="Box">2</container>
+            <container id="aspace_cbf34a2bfd0572585d81db382c7bdbd0" parent="aspace_28233f20b5a944627861a48c30752309" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_449af03a3f67f00e3cab55223e686112" level="file">
+          <did>
+            <unittitle>Certificates/Awards/Nominations (3 of 4)</unittitle>
+            <unitdate normal="1954/1998" type="inclusive">1954-1998</unitdate>
+            <container id="aspace_71dbe5c9a56f52f364b38fd974d9f9ae" label="mixed materials" type="Box">2</container>
+            <container id="aspace_6c00f4a75be873ee80c41ba515b34d55" parent="aspace_71dbe5c9a56f52f364b38fd974d9f9ae" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_2e3e0299075b2b6c464758bdcf7d41f5" level="file">
+          <did>
+            <unittitle>Certificates/Awards/Nominations (4 of 4)</unittitle>
+            <unitdate normal="1954/1998" type="inclusive">1954-1998</unitdate>
+            <container id="aspace_3d3f7be722f1fdbc6b9ec1cfef24b245" label="mixed materials" type="Box">2</container>
+            <container id="aspace_71fb9c4cad0f034d1e1ec81ae0c51f13" parent="aspace_3d3f7be722f1fdbc6b9ec1cfef24b245" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_73c89526befcaac75c3fbb1b2c29d56f" level="file">
+          <did>
+            <unittitle>Dues Cards and Donation Envelope</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_e0017e670cc8128805e32f47b30ca39f" label="mixed materials" type="Box">3</container>
+            <container id="aspace_7841666f6939c4bea30d52f9f4193375" parent="aspace_e0017e670cc8128805e32f47b30ca39f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_36facb58f1013d0bdb9d9f8574d9085c" level="file">
+          <did>
+            <unittitle>Mid City Tenants Action Council - Urban Renewal Area</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_3f27f0a7ce1ea4dbee33fd05c0f78ab4" label="mixed materials" type="Box">3</container>
+            <container id="aspace_4b46442f66fe1958811a9f1a1fda91f8" parent="aspace_3f27f0a7ce1ea4dbee33fd05c0f78ab4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_731a71c966c4ee4cecec3bbe462777ce" level="file">
+          <did>
+            <unittitle>Buttons</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_c942b71dc16625e9236ac6b1cfd7afaa" label="mixed materials" type="Box">3</container>
+            <container id="aspace_0424e1ecf8f810579fd4d8a53733d225" parent="aspace_c942b71dc16625e9236ac6b1cfd7afaa" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_b9fb61c88a875bbf0ddad26b03ef2152" level="file">
+          <did>
+            <unittitle>Marjorie Webster Junior College</unittitle>
+            <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
+            <container id="aspace_60b4ab3c74c1594216638f990b1cdc3f" label="mixed materials" type="Box">3</container>
+            <container id="aspace_5dacb7bc0957365e0b991a336b41378c" parent="aspace_60b4ab3c74c1594216638f990b1cdc3f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_bc2baff002325c35431ca599e7411403" level="file">
+          <did>
+            <unittitle>Certificates of Appreciation</unittitle>
+            <unitdate normal="1981/1987" type="inclusive">1981-1987</unitdate>
+            <container id="aspace_917d0d0462a2e037cb5cae5710645495" label="mixed materials" type="Box">3</container>
+            <container id="aspace_a121e99b43ef6c78e4a4fe9a112b1a00" parent="aspace_917d0d0462a2e037cb5cae5710645495" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_cc6c2a31b73ab75365e1917b19057d5e" level="file">
+          <did>
+            <unittitle>Certificate of Election</unittitle>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_0181a68f9153d95850a05149afc12d77" label="mixed materials" type="Box">3</container>
+            <container id="aspace_4a8aea28bfd19a81ab0ac1fc3d49e423" parent="aspace_0181a68f9153d95850a05149afc12d77" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_478c8be176f97e105b7e3f9de2e00292" level="file">
+          <did>
+            <unittitle>Photographs (1 of 2)</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_f2004da8cdac1ee48efa4b23bd02d01d" label="mixed materials" type="Box">4</container>
+            <container id="aspace_1fbee504142aea2fd9aab51063e5eb1c" parent="aspace_f2004da8cdac1ee48efa4b23bd02d01d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_236fbe5d75106f10423cdc9cc4f058f5" level="file">
+          <did>
+            <unittitle>Photographs (2 of 2)</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_69aa6e25ceae5aec297129c011f5f613" label="mixed materials" type="Box">4</container>
+            <container id="aspace_30f22bc52139335c95550559bf7adbe5" parent="aspace_69aa6e25ceae5aec297129c011f5f613" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_dc47d9e93ce0d11e2a2d2d2767158398" level="file">
+          <did>
+            <unittitle>Stickers</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_d23389aeb7668ba18d4543a58f83802a" label="mixed materials" type="Box">4</container>
+            <container id="aspace_e3908cca2e295ebbbf7d74227afce5c8" parent="aspace_d23389aeb7668ba18d4543a58f83802a" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_a0687ae8568e73a1575b326a55c8c159" level="file">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate normal="1949/1997" type="inclusive">1949-1997</unitdate>
+            <container id="aspace_f67cb9589a8a23594754abeb87dd84a3" label="mixed materials" type="Box">4</container>
+            <container id="aspace_8ea1f19e4e6ca38bea660779d9511ecf" parent="aspace_f67cb9589a8a23594754abeb87dd84a3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_8e81532250b468e63a5506216db599e3" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_100b0ece6872f5cdaecf3eb57972b25a" label="mixed materials" type="Box">4</container>
+            <container id="aspace_2302fed34851afcb15bfc430b9bf93c6" parent="aspace_100b0ece6872f5cdaecf3eb57972b25a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_0574687a5e60e73de446b71e0a199789" level="file">
+          <did>
+            <unittitle>Constitution of the Third Baptist Church</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_500492ce225e0ac2b4a33ad6eada3659" label="mixed materials" type="Box">4</container>
+            <container id="aspace_83e5f22c7ac1327edfa9a435e1129024" parent="aspace_500492ce225e0ac2b4a33ad6eada3659" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_a8ef03eef978cf3a66e5c1ac894ff4e0" level="file">
+          <did>
+            <unittitle>DC Statehood</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_b76149096e77ce2a4974bb329e9b200e" label="mixed materials" type="Box">4</container>
+            <container id="aspace_52febc802db7f9232266069c23a4e05b" parent="aspace_b76149096e77ce2a4974bb329e9b200e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ab63b4fad586e208b71ef7bf8cc28793" level="file">
+          <did>
+            <unittitle>Song Lyrics</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_1d5288325c3e9d24d337da6adc803190" label="mixed materials" type="Box">4</container>
+            <container id="aspace_5646b5e8d37213d526392f790f53c6c3" parent="aspace_1d5288325c3e9d24d337da6adc803190" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_b4a8d33804235191d8a1133f896986d7" level="file">
+          <did>
+            <unittitle>Newspaper Articles</unittitle>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_fc1e28edf16b8b2ac9eb4e5ec72f66ac" label="mixed materials" type="Box">4</container>
+            <container id="aspace_94166ee44a2216ce9c56c83ce891e72b" parent="aspace_fc1e28edf16b8b2ac9eb4e5ec72f66ac" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_41f50d76a452b5dacf59aadd7de6b9c9" level="file">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate normal="1948/1997" type="inclusive">1948-1997</unitdate>
+            <container id="aspace_029f05507f4108d6339d6591fa4e5735" label="mixed materials" type="Box">4</container>
+            <container id="aspace_9ab38a376c9c0d4b71b1dcec572515bc" parent="aspace_029f05507f4108d6339d6591fa4e5735" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_65898900d43d96394d983eab044f4bce" level="file">
+          <did>
+            <unittitle>Newsletters and History</unittitle>
+            <unitdate normal="1983/1989" type="inclusive">1983-1989</unitdate>
+            <container id="aspace_b70f06bdade6df33b8dea5aa374848d5" label="mixed materials" type="Box">4</container>
+            <container id="aspace_72b81db2b612249a6b64bc6d6381b3ad" parent="aspace_b70f06bdade6df33b8dea5aa374848d5" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_647e8d09350ac74a3c0b5e9a3c64059f" level="file">
+          <did>
+            <unittitle>Salutes and Tributes to Margaret Cooper</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_ef3ef4b3607f0ee0f26210783fe0beca" label="mixed materials" type="Box">4</container>
+            <container id="aspace_109f3c71d066f1d3f8ba156eedd4552e" parent="aspace_ef3ef4b3607f0ee0f26210783fe0beca" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_adfe2d9a18766974fbe8d26ccb2c6ddb" level="file">
+          <did>
+            <unittitle>Greeting Cards</unittitle>
+            <unitdate normal="1964/1994" type="inclusive">1964-1994</unitdate>
+            <container id="aspace_93978fd2d5b98eabebebebbbed391ec0" label="mixed materials" type="Box">4</container>
+            <container id="aspace_cc1d50f6900dc4979aac4e7a40715fd1" parent="aspace_93978fd2d5b98eabebebebbbed391ec0" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_3471c085aed22616101176d4d1f18120" level="file">
+          <did>
+            <unittitle>The Standard Leadership Curriculum and Course Card of Recognition</unittitle>
+            <unitdate normal="1955/1991" type="inclusive">1955-1991</unitdate>
+            <container id="aspace_72d6912e7003b043c884932688395bd5" label="mixed materials" type="Box">4</container>
+            <container id="aspace_4d8fb1b31c2dab3538202ffebe4f1ac1" parent="aspace_72d6912e7003b043c884932688395bd5" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_43ca6a6b677ba2f45139c7440bb1af17" level="file">
+          <did>
+            <unittitle>Fauntroy Calender and Business Card</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_f152b663b77e0d45795aa197dd822e05" label="mixed materials" type="Box">4</container>
+            <container id="aspace_31ea7c4658667dec1db53c2142c28285" parent="aspace_f152b663b77e0d45795aa197dd822e05" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_fdf46b8dfe71fa5ed3569e6efb26325d" level="file">
+          <did>
+            <unittitle>Resolution</unittitle>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_ee914467090574c72b5b8e136accb122" label="mixed materials" type="Box">5</container>
+            <container id="aspace_0f69a6a6b2843b9138384797d3db99e1" parent="aspace_ee914467090574c72b5b8e136accb122" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_71feea911fb063d9af50d7c18c2dd643" level="file">
+          <did>
+            <unittitle>Diamond Award from United to Serve America</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_50c5ab8ef1fff5d7048e3cee987fdffa" label="mixed materials" type="Box">5</container>
+            <container id="aspace_87119b84d41a2c4f54d83cd66a82e68f" parent="aspace_50c5ab8ef1fff5d7048e3cee987fdffa" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_10e9d2668eee056868eda3f06baa5b47" level="file">
+          <did>
+            <unittitle>DC Department of Public Works Posters</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_08a95cf8166a3ecc75e177a65e7aa82c" label="mixed materials" type="Box">5</container>
+            <container id="aspace_d3631233200937cc2c445c20dbb11367" parent="aspace_08a95cf8166a3ecc75e177a65e7aa82c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_469c2372abd387327c028938e4eecbb2" level="file">
+          <did>
+            <unittitle>Crime Solvers Posters</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_8ae516fbaf1a93b1cc8a192d9604c225" label="mixed materials" type="Box">5</container>
+            <container id="aspace_03e00a83a38f008d4a89ea1388c05427" parent="aspace_8ae516fbaf1a93b1cc8a192d9604c225" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_4356433e198dba86d60ffd6ec6da6a48" level="file">
+          <did>
+            <unittitle>Office of the Mayor DC Proclamation</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_5ce806d1f57c9f156151baf50905ac5b" label="mixed materials" type="Box">5</container>
+            <container id="aspace_2d381e13db7ac5e2fb00e5dde2f1db8d" parent="aspace_5ce806d1f57c9f156151baf50905ac5b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_c6cf32fde3b58f433d014d38b94c1327" level="file">
+          <did>
+            <unittitle>DC Council Resolution</unittitle>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_5f94faec1bf136ede3b6e1431f61b866" label="mixed materials" type="Box">5</container>
+            <container id="aspace_2ae412417b706a3cba89a698af2d1b93" parent="aspace_5f94faec1bf136ede3b6e1431f61b866" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_942cd6e18a9ff34ec4ddb1510948a761" level="file">
+          <did>
+            <unittitle>DC Council Resolution</unittitle>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_a9f1d781366565879e6f11396b2fb424" label="mixed materials" type="Box">5</container>
+            <container id="aspace_3a7e25cfa1df0ae95fc55f67f08ebec1" parent="aspace_a9f1d781366565879e6f11396b2fb424" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_22f8dedfc17b34707598466d7d8d0e71" level="file">
+          <did>
+            <unittitle>DC Council Resolution</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_1aa6a20557f02dcc90d81774b292bfdc" label="mixed materials" type="Box">5</container>
+            <container id="aspace_a8780f241ee86a5c70b4644c54dfe1f8" parent="aspace_1aa6a20557f02dcc90d81774b292bfdc" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

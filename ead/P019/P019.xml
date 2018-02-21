@@ -1,0 +1,305 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">P019_HH</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Hambright and Hoachlander Photograph Collection</titleproper>
+        <titleproper>Hambright and Hoachlander <num>P019</num> <num>P019</num></titleproper>
+        <subtitle>An inventory of the Hambright and Hoachlander Photograph Collection at DC Public Library</subtitle>
+        <author>Finding aid prepared by Mark S. Greek.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-05</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-21 08:05:28 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Hambright and Hoachlander Photograph Collection</unittitle>
+      <unitid>P019</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 box</extent>
+      </physdesc>
+      <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+      <langmaterial id="aspace_43a73a4db4993a7da5284141b80423e8">English</langmaterial>
+      <langmaterial id="aspace_3d6393e9b4e1ed31e43091776dda65c2">English</langmaterial>
+    </did>
+    <custodhist id="aspace_69c48d9cc4a50c24666a382fb8a92de6">
+      <head>Custodial History</head>
+      <p>There is no deed of gift and it is uncertain as to how the library acquired these photographs. The box they were stored in was sent to David Maloney at Historic Preservation from the Quadrangle Development Corporation. There is no indication that either one of these organizations donated the images to the DC Community Archives and/or Washingtoniana.</p>
+    </custodhist>
+    <processinfo id="aspace_dd5754e5422cb4a022fc2782c98a2c45">
+      <head>Processing Information</head>
+      <p>The images were removed from their original housing. Each image was assigned a number and placed in an individual polypropylene sleeve. The images were then placed in an acid-free folder and stored in an archival storage box. The box was then placed in the DC Community Archives for long-term storage. Negatives were assigned a number that directly corresponded to the print and placed in individual archival sleeves. Additionally, the collection name and some intellectual information was added to the sleeve. The negatives were then placed in an archival box and placed in the negative cabinet for long-term storage.</p>
+    </processinfo>
+    <scopecontent id="aspace_bd9a41cf1bac28be8f75e74a53d05fab">
+      <head>Scope and Contents</head>
+      <p>The collection consists of thirty 4x5 black and white photographs each with a corresponding negative. Photographers Anice Hoachlander and Harlan Hambright in 1987 took these images to document buildings on 500 block of 9th Street and the 900 block of E Street in northwest Washington. These buildings were torn down to make way for a larger office building.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85006611" source="Library of Congress Subject Headings">Architecture</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_53dbc8d283a629a2fdd588ac7468b0a2" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_13fb907f998966ed9f5fa3fe601df2f5" level="file">
+          <did>
+            <unittitle>Exterior of 500 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_43562b386849c51d34e96243e575ee49" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e6e9b596c88f269a91c0cefff952d07b" parent="aspace_43562b386849c51d34e96243e575ee49" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_aebc7db2fe7cdb6e4e6ca377ca398a8f" level="file">
+          <did>
+            <unittitle>Exterior of 502 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_d20d80f6a359aa4bfc29a2f2019da50f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2a6913763014a1050aec28220cfdcf8b" parent="aspace_d20d80f6a359aa4bfc29a2f2019da50f" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_708cc25914669acd907450eb1ad3dcfe" level="file">
+          <did>
+            <unittitle>Interior view, staircase, 502 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_f6d63cc7e4a051529db6561cc86864ec" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3802fb9a178d0e99aa85349df77d1b3b" parent="aspace_f6d63cc7e4a051529db6561cc86864ec" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_9fba13c7b8ea4e87035699c4187c47f1" level="file">
+          <did>
+            <unittitle>Interior view, 3rd floor front room (facing southeast), 502 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_e2ba3ea9f23478191e697017b18bda8c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5a77a777c6c492aa74cff479d17a0f21" parent="aspace_e2ba3ea9f23478191e697017b18bda8c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_dea32fd2b7b489df621052eec27d1ab7" level="file">
+          <did>
+            <unittitle>Interior view, 3rd floor closet and Font room door, 502 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_05cf153512210996d8029c015a7e782a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_42912b73028f0abf419e3f182b11bc2e" parent="aspace_05cf153512210996d8029c015a7e782a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_042868b5ce9d9125920c9aa53332e796" level="file">
+          <did>
+            <unittitle>Exterior of 504 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_9605fdf8316c06c225282129b2803c83" label="mixed materials" type="Box">1</container>
+            <container id="aspace_76ffa8a7819c111a7b9f178f6689a6e2" parent="aspace_9605fdf8316c06c225282129b2803c83" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_eabec389b6e51cad297dd0c02ec7ebc2" level="file">
+          <did>
+            <unittitle>Exterior of 506 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_155277859c38d9cfa52fc43c032bd902" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4503883d3c609d2685fe891c601b4f0a" parent="aspace_155277859c38d9cfa52fc43c032bd902" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_93452016c4a8002e04bfdc1636e57705" level="file">
+          <did>
+            <unittitle>Storefront of 506 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_bc2983582d71b9dfdfefc1f023dc9824" label="mixed materials" type="Box">1</container>
+            <container id="aspace_db19da13a20bd9a2d56e48c9148479d6" parent="aspace_bc2983582d71b9dfdfefc1f023dc9824" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_6225163d60cb00237512237438a1ae06" level="file">
+          <did>
+            <unittitle>Interior view, ground floor facing southwest, 506 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_e82a76643c77f4ce216b200def295141" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8009be7845c975725ade1025b800cb4b" parent="aspace_e82a76643c77f4ce216b200def295141" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_5b5fb1444a5e3133c762b7a9cd46960c" level="file">
+          <did>
+            <unittitle>Interior view, 3rd floor landing and stair, 506 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_41cab0f7f775c78e2e04151f673fa2ed" label="mixed materials" type="Box">1</container>
+            <container id="aspace_18c055d9f2992868545b5e69a7166c40" parent="aspace_41cab0f7f775c78e2e04151f673fa2ed" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_925018592e15827dde05526d3f654381" level="file">
+          <did>
+            <unittitle>Interior view 3rd floor front room (facing southwest), 506 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_59ced1a3305737e628b7647fb3e2cb11" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e4e28d4225b1faa3fc9c59215908feba" parent="aspace_59ced1a3305737e628b7647fb3e2cb11" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_2352827bd2689ab97cdc4a0e3435464e" level="file">
+          <did>
+            <unittitle>Exterior of 508 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_307f8b8f404baf8ba173896a5d06c4c3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_dd03be9bddcbf47a38e081529f2ddf2a" parent="aspace_307f8b8f404baf8ba173896a5d06c4c3" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_a4bc8bd38d979dee282e00fdff7355a8" level="file">
+          <did>
+            <unittitle>Exterior (rear of building), 508 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_d51f32dccc03ab5c05ddd8183969e2f7" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4be1eae2102ce83c25e3b8fed0ef5f0f" parent="aspace_d51f32dccc03ab5c05ddd8183969e2f7" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_5f8d471142eccc8d033e0d2ef61fefc4" level="file">
+          <did>
+            <unittitle>Exterior of 510 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_8d1931d159cd06e24454ef05f928301f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f4abf69e4206e00d207b2060d5cd2a8a" parent="aspace_8d1931d159cd06e24454ef05f928301f" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_1cc93380bfe72e737e2acc3ab5c7884d" level="file">
+          <did>
+            <unittitle>Exterior of 512 9th Street, NW (Inter-Ocean building)</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_fb44462fef6f5cad817e0e1178dd61d5" label="mixed materials" type="Box">1</container>
+            <container id="aspace_fc198df6a1272c967f5304ac121952a2" parent="aspace_fb44462fef6f5cad817e0e1178dd61d5" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_56d7ccdd27cd406c3d0ee8aded5f1187" level="file">
+          <did>
+            <unittitle>Exterior (rear of building) 512-518 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_6e7f563776d2075f6a99001be2993f77" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ac5a354fa3f7b4b2c574bf40b7058653" parent="aspace_6e7f563776d2075f6a99001be2993f77" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ccd249a9007e962da3b79752c3122c91" level="file">
+          <did>
+            <unittitle>Exterior (rear of building) 514-518 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_78f165d47de3cf51d70701c1b028aa9b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_cb905eed5a6a02d92e6a1760ecbe9bc3" parent="aspace_78f165d47de3cf51d70701c1b028aa9b" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_c42526cfd478c6afcbb3053943a280ef" level="file">
+          <did>
+            <unittitle>Exterior of 514-518 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_7008651996f67963821c76f3333423c5" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a3cd7f199172f2b9335a22bd5f100681" parent="aspace_7008651996f67963821c76f3333423c5" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_f50c6830546b21587318be37fc9254b0" level="file">
+          <did>
+            <unittitle>Exterior of 514-518 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_e8ff9567ee72f7d3056cf299fe835265" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f5945398db1fc8de1e67dc9d3d19914e" parent="aspace_e8ff9567ee72f7d3056cf299fe835265" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_7188f58c7660cb5f9fe6766f3b2cf50c" level="file">
+          <did>
+            <unittitle>Interior view, 2nd floor facing street, 514 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_116810308e35659f2489ffb1bf463cac" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1db508ace96fb44b8dfa9839b0dc79b8" parent="aspace_116810308e35659f2489ffb1bf463cac" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_0b1818688dda6c53511dcdee2592b288" level="file">
+          <did>
+            <unittitle>Interior view, 2nd floor front room (facing northwest), 514 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_b13ee2f6c7b60139fc0d42cd826782cd" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1ed717e58c8d31fd04e9e8c0084aef23" parent="aspace_b13ee2f6c7b60139fc0d42cd826782cd" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_716842cab4cbb44468991e0acd4827e1" level="file">
+          <did>
+            <unittitle>Interior view, 3rd floor front room (facing street), 514 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_8b0a555c5f875fe614a46635dc1f08f6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1931a3c0cb97213e1f890aed6b2cb080" parent="aspace_8b0a555c5f875fe614a46635dc1f08f6" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ad9f79e2bd5c46963ecc073c520384db" level="file">
+          <did>
+            <unittitle>Interior view, top floor front room (facing rear), 516 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_ab64f2c403c0224da6c5ee4fbad8ba93" label="mixed materials" type="Box">1</container>
+            <container id="aspace_cae08e355b6ddef55c0e10b0adbe7e12" parent="aspace_ab64f2c403c0224da6c5ee4fbad8ba93" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_cc225a6a0535e42ecac2155d40c352bb" level="file">
+          <did>
+            <unittitle>Interior view, tin ceiling and wallpaper in top floor front room, 516 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_969b37880b46e9eb80bd7fb0cd6f2920" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f38dc85395779b500702728132c438af" parent="aspace_969b37880b46e9eb80bd7fb0cd6f2920" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_b48c1d290ac727eaa1ff5bdc79cc4306" level="file">
+          <did>
+            <unittitle>Interior view, gas light fixture top floor hallway (facing front), 516 9th Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_7bd43cf2cb176d6c8acba6c2b41b87fc" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e9872ee892a8fcd275038450c88e0203" parent="aspace_7bd43cf2cb176d6c8acba6c2b41b87fc" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_5858719918f5dca5b791dc0a52eb3914" level="file">
+          <did>
+            <unittitle>Exterior of 500 9th Street, NW (E Street side)</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_993139a39e868f923f33478bd7586967" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f2beffd734ce0d2dcffb5ea7ec744788" parent="aspace_993139a39e868f923f33478bd7586967" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_e3bf05757772a01b2c86f6e1f3e20610" level="file">
+          <did>
+            <unittitle>Exterior of 901 E Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_9a3dcce4dfaec430c6bf14c9f6981222" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d510a828f7537bcecf932dc2ca678b33" parent="aspace_9a3dcce4dfaec430c6bf14c9f6981222" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_b90af0778a2c4bf84d7822f792e1a894" level="file">
+          <did>
+            <unittitle>Exterior of 903 E Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_8d7e85eece4f06c70d20b817c5356073" label="mixed materials" type="Box">1</container>
+            <container id="aspace_589155d605792343b99f0c8a45250985" parent="aspace_8d7e85eece4f06c70d20b817c5356073" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_3084b082cf15804ccef68115fe96d071" level="file">
+          <did>
+            <unittitle>Exterior of 903 E Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_f4d93b6382e73f5cac2f895b699c03ba" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b335cea7030a67a603c51db19c0c2210" parent="aspace_f4d93b6382e73f5cac2f895b699c03ba" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_5611938782da22ee1bab19e4b02a19a7" level="file">
+          <did>
+            <unittitle>Exterior (rear of building) 903 E Street, NW</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_8b13f8e27b44fbce7fd1a515e7fc2615" label="mixed materials" type="Box">1</container>
+            <container id="aspace_0a4008219b6df0b5cf4acde9748d7e21" parent="aspace_8b13f8e27b44fbce7fd1a515e7fc2615" type="Folder">30</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

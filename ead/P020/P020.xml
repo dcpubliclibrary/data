@@ -1,0 +1,197 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">P020_Colony</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Colony Theatre Photograph Collection</titleproper>
+        <titleproper>Colony Theatre <num>P020</num> <num>P020</num></titleproper>
+        <subtitle>An inventory of the Colony Theatre Photograph Collection at DC Public Library</subtitle>
+        <author>Finding aid prepared by Mark S. Greek.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Test</publisher>
+        <p>
+          <date>2006-05</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-21 08:05:34 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Test</corpname>
+      </repository>
+      <unittitle>Colony Theatre Photograph Collection</unittitle>
+      <unitid>P020</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 box</extent>
+      </physdesc>
+      <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+      <langmaterial id="aspace_efeee8b098b0a12d6fae0f16663da4a1">English</langmaterial>
+      <langmaterial id="aspace_37e99111a9661ad945bbe49360049c0a">English</langmaterial>
+    </did>
+    <bioghist id="aspace_1e0c0a1ced24a1931f1101e5b270e51b">
+      <head>Biographical / Historical</head>
+      <p>The theatre opened in 1926 and was designed by John J. Zink. In the 1940s and 1950s the single screen theatre was operated by Warner Brothers studio. In the mid-1970s the theatre housed the DC Black Repertory Theatre Company. After the company folded in the late 1970s the building remained vacant for more than a decade. In 1987 a group began an effort to convert the theatre into apartments, however several setbacks delayed the opening until 1995. The images in this collection are from the period in the 1980s when the theatre was vacant.</p>
+    </bioghist>
+    <custodhist id="aspace_a270b3f821f56761adac38fd681cbe84">
+      <head>Custodial History</head>
+      <p>There is no deed of gift and it is uncertain as to how the library acquired these photographs. A hand written note on a paper entitled "Evaluation of the Colony House Theater" by Betty Bird indicates that it was received on April 29, 1988.</p>
+    </custodhist>
+    <processinfo id="aspace_6738fbb81797cba2d643a897c6cd2553">
+      <head>Processing Information</head>
+      <p>The images were removed from their original housing. Each image was assigned a number and placed in an individual polypropylene sleeve. The images were then placed in an acid-free folder and stored in an archival storage box. The box was then placed in the DC Community Archives for long-term storage.</p>
+    </processinfo>
+    <scopecontent id="aspace_ddba60629811f4f0f718c61c4c80457e">
+      <head>Scope and Contents</head>
+      <p>The collection consists of sixteen 8x10 black &amp; white images. Frederick Figall took all the photographs. The images are of the exterior and interior of the Colony Theatre, which was located 4921 Georgia Avenue, NW.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85099818" source="Library of Congress Subject Headings">Performing Arts</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_8384bbf30849faf69b608e7d2bbb648e" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_95f9683c2df4cfc3b841fc7cabe4817b" level="file">
+          <did>
+            <unittitle>Exterior, corner of Georgia Avenue and Emerson Street</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_a2f9fd9d52116f55862810629641afd7" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5b6e3240d6a4f301e066da258f15e6cb" parent="aspace_a2f9fd9d52116f55862810629641afd7" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_35603dfe026e6480997e08ce691cc682" level="file">
+          <did>
+            <unittitle>Exterior, Georgia Avenue side</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_ee12804a5cceb8c027998ac97e6ffdf6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_00dbdf7eebebb8b153fe860f4e487883" parent="aspace_ee12804a5cceb8c027998ac97e6ffdf6" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_3653387573d4d09e81942684be0a596e" level="file">
+          <did>
+            <unittitle>Exterior, Emerson Street side</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_701c96d1ac207190ad4de40383737150" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d9875fefaf3a07711f77a21ffd1a93f8" parent="aspace_701c96d1ac207190ad4de40383737150" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_5ebbd3402348fe28502a56d9cc64e4fd" level="file">
+          <did>
+            <unittitle>Exterior, rear of theatre</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_687c0068dbd4d4dac5c50fbc22361b44" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2ba88fa7f211fcd7ab88e8eceb885627" parent="aspace_687c0068dbd4d4dac5c50fbc22361b44" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_53a0420ac1d508c87c9e204d5b0d3996" level="file">
+          <did>
+            <unittitle>Interior, lobby of theatre</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_022e5dff7a96c142723b4370216cc79e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_82fae05aea8c574294f1305939af24b3" parent="aspace_022e5dff7a96c142723b4370216cc79e" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_5abf010253a18694a9c855929dfa888d" level="file">
+          <did>
+            <unittitle>Interior, lobby of theatre showing ceiling and chandeliers</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_7b0ebef4c6c21031aed16799b8e7359e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_281312adb9b1e3f47a1788759c87fdaf" parent="aspace_7b0ebef4c6c21031aed16799b8e7359e" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_bc6562ae5ef1ac49ecae70d8c373bce1" level="file">
+          <did>
+            <unittitle>Interior, lobby of theatre showing doors to street</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_da2774a5a5f8d70e063f05383ed30a96" label="mixed materials" type="Box">1</container>
+            <container id="aspace_70052687b95ed958e3ba3f19f4b0b87f" parent="aspace_da2774a5a5f8d70e063f05383ed30a96" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_1694cf1cc2bdffe17d63eafebe239a30" level="file">
+          <did>
+            <unittitle>Interior, seats and stage</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_5db92f4899cd38400ab755ca80013077" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d87eff3770e9270949316fe28e5b2520" parent="aspace_5db92f4899cd38400ab755ca80013077" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_c82d647126d6746d4594c095f3ecb142" level="file">
+          <did>
+            <unittitle>Interior, seats and stage</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_531a73cf195321b786fdcdebbea1454d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_1e692230d5c852c1d687ace01fbf2254" parent="aspace_531a73cf195321b786fdcdebbea1454d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_4a80536407f4cc0e38994e3c7568dffe" level="file">
+          <did>
+            <unittitle>Interior, view of seats taken from the stage</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_ac6e6fbe1f41d178eb9508a92c660d6b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4be2a7000d0517de322501c34b7ecf26" parent="aspace_ac6e6fbe1f41d178eb9508a92c660d6b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_078a37db41bc607b82f427fce7c9986f" level="file">
+          <did>
+            <unittitle>Interior, view of ceiling partially collapsed</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_161d6cf5a74c6e775d601445116c2380" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ac1db09a8e7e43686a6167f39c16230c" parent="aspace_161d6cf5a74c6e775d601445116c2380" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_d7a193afb1856af7129b9f8c3205a385" level="file">
+          <did>
+            <unittitle>Interior, hallway with pealing paint</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_3ece25d877d99f7ae2bb98b508b4b280" label="mixed materials" type="Box">1</container>
+            <container id="aspace_8021cbdc491446e2fd2d34fce596dade" parent="aspace_3ece25d877d99f7ae2bb98b508b4b280" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_4fd9c732660e5c645cd171b1e23161f3" level="file">
+          <did>
+            <unittitle>Interior, kitchen</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_52ef29aca439bedbbd9f6e6bf5b79c9e" label="mixed materials" type="Box">1</container>
+            <container id="aspace_bea9a91683a81dac243e85fd75c6cc13" parent="aspace_52ef29aca439bedbbd9f6e6bf5b79c9e" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_c332cc63b0c0f2b1a988098a47d72827" level="file">
+          <did>
+            <unittitle>Interior, bathtub, sink and open window</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_f984421d06d34050517998125d4da331" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4371c45adb919dbf82f1f2e122c4d0a8" parent="aspace_f984421d06d34050517998125d4da331" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_0af2c08ae53308738fa54525d8a5ef83" level="file">
+          <did>
+            <unittitle>Interior, room with mural on the wall</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_ba2ad6cc5838c92965ce9ea2e8225f3a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6a479f975ba5bd6f1eed559eb5157ffe" parent="aspace_ba2ad6cc5838c92965ce9ea2e8225f3a" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ed943934dbe666e1b47745bdab90099e" level="file">
+          <did>
+            <unittitle>Interior, third floor hallway with doors</unittitle>
+            <unitdate type="inclusive">undated</unitdate>
+            <container id="aspace_f9be74f04c90bbfe1a3465d58125affe" label="mixed materials" type="Box">1</container>
+            <container id="aspace_790b50e3ccc3a6ee2bd8e55a5392e8c1" parent="aspace_f9be74f04c90bbfe1a3465d58125affe" type="Folder">16</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
