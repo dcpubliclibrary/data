@@ -10,7 +10,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-03-26 13:45:21 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-07-24 23:59:28 -0400</date>.</creation>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
@@ -29,6 +29,15 @@
       </physdesc>
       <unitdate normal="2018/2018">2018</unitdate>
     </did>
-    <dsc/>
+    <dsc>
+      <c id="aspace_a2e1ef1c12f92125b09c8edbd396c709" level="file">
+        <did>
+          <unittitle>Test</unittitle>
+          <unitdate normal="0000/0000">Undated</unitdate>
+          <container id="aspace_262775abe47ffcb4d032cba99b343ff2" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_b2be397ec2524c0649440f87f1cf80f8" parent="aspace_262775abe47ffcb4d032cba99b343ff2" type="Folder">1</container>
+        </did>
+      </c>
+    </dsc>
   </archdesc>
 </ead>
