@@ -3,18 +3,18 @@
     <eadid/>
     <filedesc>
       <titlestmt>
-        <titleproper>Neighborhood Blogs of Washington, DC<num>Test</num></titleproper>
+        <titleproper>Archive It Test<num>123456</num></titleproper>
       </titlestmt>
       <publicationstmt>
         <publisher>Stage</publisher>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:18:57 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:11:48 -0400</date>.</creation>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
-  <archdesc level="otherlevel" otherlevel="Web Archive">
+  <archdesc level="collection">
     <did>
       <langmaterial>
         <language langcode="eng">English</language>
@@ -22,19 +22,26 @@
       <repository>
         <corpname>Stage</corpname>
       </repository>
-      <unittitle>Neighborhood Blogs of Washington, DC</unittitle>
-      <unitid>Test</unitid>
+      <unittitle>Archive It Test</unittitle>
+      <unitid>123456</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Gigabytes</extent>
+        <extent altrender="materialtype spaceoccupied">100 Linear feet</extent>
       </physdesc>
-      <unitdate normal="2018/2018">2018</unitdate>
+      <unitdate type="inclusive">undated</unitdate>
     </did>
     <dsc>
-      <c id="aspace_8bbf54c4d3c19bd9277842fb8890ffa2" level="series">
+      <c id="aspace_eec07f37cfecfb80d0a7ec97dd821c72" level="series">
         <did>
-          <unittitle>Test</unittitle>
-          <unitid>dcpl_web001_001</unitid>
+          <unittitle>DCist.com</unittitle>
+          <unitid>1</unitid>
         </did>
+        <phystech id="aspace_7dc53ddb33b20fab159cfefa77fc275e">
+          <head>URL</head>
+          <p>http://dcist.com/</p>
+        </phystech>
+        <controlaccess>
+          <subject source="local">Web Archives</subject>
+        </controlaccess>
       </c>
     </dsc>
   </archdesc>
