@@ -10,7 +10,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:11:48 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-01 14:46:29 -0400</date>.</creation>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
@@ -30,18 +30,34 @@
       <unitdate type="inclusive">undated</unitdate>
     </did>
     <dsc>
-      <c id="aspace_eec07f37cfecfb80d0a7ec97dd821c72" level="series">
+      <c id="aspace_1c2ecc9c1be8e364744344e55d3f3462" level="series">
         <did>
-          <unittitle>DCist.com</unittitle>
-          <unitid>1</unitid>
+          <unittitle>Neighborhood Blogs of Washington, DC</unittitle>
         </did>
-        <phystech id="aspace_7dc53ddb33b20fab159cfefa77fc275e">
-          <head>URL</head>
-          <p>http://dcist.com/</p>
-        </phystech>
-        <controlaccess>
-          <subject source="local">Web Archives</subject>
-        </controlaccess>
+        <c id="aspace_eb4b949f12d0338d7e05a857e5bcdf5a" level="file">
+          <did>
+            <unittitle>14th and You</unittitle>
+            <unitdate normal="2000/2018" type="inclusive">2000-2018</unitdate>
+            <container id="aspace_709f6180f95a17d99487f8130236bd35" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e9c5f0c9db98d4c701f05f663c499f44" parent="aspace_709f6180f95a17d99487f8130236bd35" type="Folder">1</container>
+          </did>
+          <odd id="aspace_01c01a3028c9abd259d74b06f411aa68">
+            <head>General</head>
+            <p>Test</p>
+          </odd>
+        </c>
+        <c id="aspace_ed635607c3d618730a9945360c968cbd" level="file">
+          <did>
+            <unittitle>14th and You</unittitle>
+            <unitdate normal="2000/2018" type="inclusive">2000-2018</unitdate>
+            <container id="aspace_54688e6bfbe696bbf9c6b60b65b74d28" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ceb47e47610517ab7a681e04ac063544" parent="aspace_54688e6bfbe696bbf9c6b60b65b74d28" type="Folder">1</container>
+          </did>
+          <odd id="aspace_7df3f3b224999ef8e6c264ae0aefe8f5">
+            <head>General</head>
+            <p>Test</p>
+          </odd>
+        </c>
       </c>
     </dsc>
   </archdesc>

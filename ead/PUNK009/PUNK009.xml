@@ -1,0 +1,707 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">shepard.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Shepard (Ryan) Collection</titleproper>
+        <titleproper>Ryan Shepard <num>PUNK009</num> <num>PUNK009</num></titleproper>
+        <subtitle>An inventory of Ryan Shepard at DC Public Library</subtitle>
+        <author>Finding aid prepared by Paul Kelly.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Stage</publisher>
+        <p>
+          <date>2017-10-04</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-01 15:02:08 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Stage</corpname>
+      </repository>
+      <unittitle>Ryan Shepard Collection</unittitle>
+      <unitid>PUNK009</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 boxes</extent>
+      </physdesc>
+      <unitdate normal="1977/2006" type="inclusive">1977-2006</unitdate>
+      <langmaterial id="aspace_c6ec2e48f85e2df9dea736cd8711438b">English</langmaterial>
+      <langmaterial id="aspace_7fb07d6d4b830e7ceaa4ec2e5ff4e4c1">English</langmaterial>
+    </did>
+    <dsc>
+      <c id="aspace_996babf611d500b352ec1dbbc88d099c" level="series">
+        <did>
+          <unittitle>Series 1: Printed Material</unittitle>
+        </did>
+        <c id="aspace_b0860acab233c1f53ee882cd5dfe8e45" level="subseries">
+          <did>
+            <unittitle>Subseries 1: Fliers - Activism</unittitle>
+          </did>
+          <c id="aspace_15c35dbb8f72a78e2d6552bdc317b1f1" level="file">
+            <did>
+              <unittitle>Beehive Autonomous Collective</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_7a5f02460ae42cb666a846a609350f4c" label="mixed materials" type="Box">1</container>
+              <container id="aspace_7323f225a7a80f769c54df3eb0cd3ac1" parent="aspace_7a5f02460ae42cb666a846a609350f4c" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_6cc7e8beca52b1e07756ac87b7853046" level="file">
+            <did>
+              <unittitle>Food Not Bombs</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_0fed1abc0c06404ad1ec2a710796dd19" label="mixed materials" type="Box">1</container>
+              <container id="aspace_1eeba27e04cc84fa6905dbd0ae6cc051" parent="aspace_0fed1abc0c06404ad1ec2a710796dd19" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_957dc95bb789128a7e82a4ff4e7fe9b0" level="file">
+            <did>
+              <unittitle>Positive Force</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_da7d7812df39868ee86787e8692dd09e" label="mixed materials" type="Box">1</container>
+              <container id="aspace_9f30f596a24a6cd752531d05bfc0cdf1" parent="aspace_da7d7812df39868ee86787e8692dd09e" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_43825fb3b98ddd2e736151e51b2c80fc" level="file">
+            <did>
+              <unittitle>Positive Force - Women's Festival</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_6c3be72b7b8a2e35379114d96bd508da" label="mixed materials" type="Box">1</container>
+              <container id="aspace_c95e4844ab2a04c1f0130d6a0369e16a" parent="aspace_6c3be72b7b8a2e35379114d96bd508da" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_2d2484fff44bc84d9cc31cb1fc09fda6" level="file">
+            <did>
+              <unittitle>Riot grrrl</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_2c99235b8a58f46f3c11663d047c0a69" label="mixed materials" type="Box">1</container>
+              <container id="aspace_6c2cf85452dc9ea4855b6a275e07480d" parent="aspace_2c99235b8a58f46f3c11663d047c0a69" type="Folder">5</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_a1b8335a460afd2828a384d64a18a6b2" level="subseries">
+          <did>
+            <unittitle>Subseries 2: Fliers - Concerts - DC Venues</unittitle>
+          </did>
+          <c id="aspace_deffd50c7e71ab843e1c8d14d08e7f95" level="file">
+            <did>
+              <unittitle>9:30 Club; 926 N St, NW</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_40cf0060269772e51851ee01031fe6ad" label="mixed materials" type="Box">1</container>
+              <container id="aspace_2e19e0b5d4062eb9d7fdfc8014632a5c" parent="aspace_40cf0060269772e51851ee01031fe6ad" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_a787f9ccaead6b3e690f22476f218da7" level="file">
+            <did>
+              <unittitle>American Legion Post 8</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_ac25c3da779feb8aad91df670b8477bd" label="mixed materials" type="Box">1</container>
+              <container id="aspace_81807b63038d39d735c893a14b4ba91f" parent="aspace_ac25c3da779feb8aad91df670b8477bd" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_0e03eec56debc6dc32c6efe989d5565c" level="file">
+            <did>
+              <unittitle>Black Cat; Bombay Delight</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_414c55f83d162b5b2eb5887114d75bf5" label="mixed materials" type="Box">1</container>
+              <container id="aspace_7d9fee9d64fc975df6f60cde15ff7bd4" parent="aspace_414c55f83d162b5b2eb5887114d75bf5" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_86a5b23fe08c49d960bff7195d4539e0" level="file">
+            <did>
+              <unittitle>Club Asylum; Club Heaven</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_2e701da209f842ed2d5acb5424988bb8" label="mixed materials" type="Box">1</container>
+              <container id="aspace_afd742b7199d4f6dd011b3a738d531e2" parent="aspace_2e701da209f842ed2d5acb5424988bb8" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_8de32524866ba18ed96f4c574aa88fbe" level="file">
+            <did>
+              <unittitle>Club Nocturne</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_7bf4a0afe2e6a16f906a0762fced320c" label="mixed materials" type="Box">1</container>
+              <container id="aspace_a11e9e74122d158d011ffde107f15120" parent="aspace_7bf4a0afe2e6a16f906a0762fced320c" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_d7393589effbf6dbb718f58fd8fa36e9" level="file">
+            <did>
+              <unittitle>d.c. space</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_a34ea49a8d2d5eb6d939fc491e15440d" label="mixed materials" type="Box">1</container>
+              <container id="aspace_0f1395c413989c17fa7a0c14bb11712e" parent="aspace_a34ea49a8d2d5eb6d939fc491e15440d" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ee3229188f5b37932f80b62973f3c1df" level="file">
+            <did>
+              <unittitle>East Side</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_572cec8d3d7f0b83b14aa3f3fe0d33fe" label="mixed materials" type="Box">1</container>
+              <container id="aspace_4c768e3dcfeeac45bad83e56fe61ab92" parent="aspace_572cec8d3d7f0b83b14aa3f3fe0d33fe" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_a76189e5ec87c0d68d695d9523f49a51" level="file">
+            <did>
+              <unittitle>Food for Thought</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_252b206e12a1b6dd137fd0f1ee23cf6b" label="mixed materials" type="Box">1</container>
+              <container id="aspace_bdc605231715ba88183514695a0c8944" parent="aspace_252b206e12a1b6dd137fd0f1ee23cf6b" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_4f9b38dbaabf96d490cbfffe448098a8" level="file">
+            <did>
+              <unittitle>Fort Reno; George Washington University</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_6309376dde1f1d09fba2dc3e4ed9dd21" label="mixed materials" type="Box">1</container>
+              <container id="aspace_13acd745fc9f3dc07e838a412b637f63" parent="aspace_6309376dde1f1d09fba2dc3e4ed9dd21" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_bf29ff0ff79bbcef6921d32545e1f67c" level="file">
+            <did>
+              <unittitle>Mountain Lodge (Georgetown)</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_52acc247425d5913a8be8b0128f3ad61" label="mixed materials" type="Box">1</container>
+              <container id="aspace_50dfe699cfd019a31ceb72fdc7cd1d06" parent="aspace_52acc247425d5913a8be8b0128f3ad61" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_a333cee200f127b983e66d92428977c4" level="file">
+            <did>
+              <unittitle>Nightbreed; Old Cambridge Baptist Church</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_56727c7effe47e4f484bef9f157ec8a1" label="mixed materials" type="Box">1</container>
+              <container id="aspace_07073026a8bb65dad19baac6486748c5" parent="aspace_56727c7effe47e4f484bef9f157ec8a1" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_4d54ce0257004a870138a8fdf0a15731" level="file">
+            <did>
+              <unittitle>St. Stephen's</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_87d97a0b2f560459d5d73c479340ef01" label="mixed materials" type="Box">1</container>
+              <container id="aspace_9106e3461af807de61b067a49aeb36d1" parent="aspace_87d97a0b2f560459d5d73c479340ef01" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_da2db60e9fd06b52d2037a0ca8fdf72f" level="file">
+            <did>
+              <unittitle>Sanctuary Theater; Wilson Center</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_41fb600503fa2f173c11630159a4308a" label="mixed materials" type="Box">1</container>
+              <container id="aspace_86207ece7b75c3d43091e096b3fb886f" parent="aspace_41fb600503fa2f173c11630159a4308a" type="Folder">18</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_c9b036d4e2d3910e03c4521b7cac71a8" level="subseries">
+          <did>
+            <unittitle>Subseries 3: Fliers - Miscellaneous</unittitle>
+          </did>
+          <c id="aspace_25660eef14f30f16cc9b2ad5f218f51c" level="file">
+            <did>
+              <unittitle>Washburn Hall; Episcopal Divinity School</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_313ae368a522bdbb64fded0f0dd1ee99" label="mixed materials" type="Box">1</container>
+              <container id="aspace_2b36668989398986d3012908cbd5131e" parent="aspace_313ae368a522bdbb64fded0f0dd1ee99" type="Folder">19</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_3fb70dd44055c21b1e3df117a82bab9e" level="subseries">
+          <did>
+            <unittitle>Subseries 4: Fliers - Miscellaneous</unittitle>
+          </did>
+          <c id="aspace_02c8128835e8ecfb3a21d94efa71fde4" level="file">
+            <did>
+              <unittitle>Kupid - The Secret Code Cipher</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_39f4611efb77dc645215a09048bb6171" label="mixed materials" type="Box">1</container>
+              <container id="aspace_8b4c3324e1f5754d38d90485fb9f3c4c" parent="aspace_39f4611efb77dc645215a09048bb6171" type="Folder">20</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ef35ed9ef8bb9eefbd6ec98bfc3cae1d" level="series">
+        <did>
+          <unittitle>Series 2: Audio Visual Material</unittitle>
+        </did>
+        <c id="aspace_0d61f30449d7da6948bddfee6c73846b" level="subseries">
+          <did>
+            <unittitle>Subseries 1: Cassettes</unittitle>
+          </did>
+          <c id="aspace_7a4274798a8da282762dc925bdb4050a" level="file">
+            <did>
+              <unittitle>Awl by Hated (Label: Simple Machines)</unittitle>
+              <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+              <container id="aspace_b29bee0ef1eca2e261626793527ea763" label="mixed materials" type="Box">2</container>
+              <container id="aspace_e90d3084a75a503065e775cc454d5c89" parent="aspace_b29bee0ef1eca2e261626793527ea763" type="Folder">1</container>
+            </did>
+            <scopecontent id="aspace_4bbe101fe7ebce119f24b8211489e128">
+              <head>Scope and Contents</head>
+              <p>Original release in 1992. Appears to be a later issue casette from 1995. Inside of the Casette is a business card for "Simple Machines" with a note to Ryan reading "Heres the classic --Cheers, Pat"</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_73f510f5fc30b2101318aff4e05e9785" level="file">
+            <did>
+              <unittitle>12/87 by Fire Party</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_3b00f09412681ce33ccc3e67d5cc4bea" label="mixed materials" type="Box">2</container>
+              <container id="aspace_b6b8496f0b54acdfbe4f4e76c9daac90" parent="aspace_3b00f09412681ce33ccc3e67d5cc4bea" type="Folder">2</container>
+            </did>
+            <scopecontent id="aspace_8b363e63486b19d2cf7a0079dad2ebfd">
+              <head>Scope and Contents</head>
+              <p>Fire Party Could be the name of a mix-casette, and dated 12/87</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_3b93fab7979f19cdbb16c87661f19c63" level="file">
+            <did>
+              <unittitle>Embassy Tapes 1990 to 1992 by Various</unittitle>
+              <unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate>
+              <container id="aspace_0f46ffa4a9f6cd3324408c1a0a22c69b" label="mixed materials" type="Box">2</container>
+              <container id="aspace_9f4c164f993eacd2ffde0eccf3e5ccef" parent="aspace_0f46ffa4a9f6cd3324408c1a0a22c69b" type="Folder">3</container>
+            </did>
+            <scopecontent id="aspace_d40104f4348f192b8505fcac48afb249">
+              <head>Scope and Contents</head>
+              <p>Casette with recordings of various DC bands</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_1473b836939116bc36af7460da645a6b" level="file">
+            <did>
+              <unittitle>Rat Trap by Ape House</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_f6505b8ec40ddd2603d731fb4f6131b4" label="mixed materials" type="Box">2</container>
+              <container id="aspace_9aa8b907d7356e50afc05c742554eff4" parent="aspace_f6505b8ec40ddd2603d731fb4f6131b4" type="Folder">4</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_9ca681ea55f4e7a4d8e92a3260f4deeb" level="subseries">
+          <did>
+            <unittitle>Subseries 2: CDs</unittitle>
+          </did>
+          <c id="aspace_dedb9f1f9d091c89200164227af631e7" level="file">
+            <did>
+              <unittitle>Fantastic Success by Measles Mumps Rubella (Label: Doubling Cube Records)</unittitle>
+              <unitdate normal="2006/2006" type="inclusive">2006</unitdate>
+              <container id="aspace_589fc2c45e009a361901254979f2a7cc" label="mixed materials" type="Box">2</container>
+              <container id="aspace_8fc9e4f5064b6d50fe27ea73498e363c" parent="aspace_589fc2c45e009a361901254979f2a7cc" type="Folder">5</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_19b85fc6e5ed11df13b66e37ad6db7bb" level="subseries">
+          <did>
+            <unittitle>Subseries 3: 7" Records</unittitle>
+          </did>
+          <c id="aspace_e5f7f06c6c9093542279e8e40e519b49" level="file">
+            <did>
+              <unittitle>Red Herring by Antimony (Label: Dischord Records/Regulus)</unittitle>
+              <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+              <container id="aspace_b8354ffb64ff6edd71616bab3d2310b5" label="mixed materials" type="Box">2</container>
+              <container id="aspace_4a617f1c0ac4acdc42c25f112d5a3564" parent="aspace_b8354ffb64ff6edd71616bab3d2310b5" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_a35c2218bdacbc7bd89a1c0ca9ce8e35" level="file">
+            <did>
+              <unittitle>New Radio by Bikini Kill (Label: Kill Rock Stars)</unittitle>
+              <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+              <container id="aspace_8604573503a699c379de192002d51a2b" label="mixed materials" type="Box">2</container>
+              <container id="aspace_1751e67f41c96744ab351e2d0f50795f" parent="aspace_8604573503a699c379de192002d51a2b" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_568aa608c6066200333bd3e5c7f05ad3" level="file">
+            <did>
+              <unittitle>Peel Sessions by Bikini Kill</unittitle>
+              <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+              <container id="aspace_931cd6ee0e43474f76236f3e59cde0df" label="mixed materials" type="Box">2</container>
+              <container id="aspace_106dfb18dcbfb8663db3e4c7d5731cf2" parent="aspace_931cd6ee0e43474f76236f3e59cde0df" type="Folder">8</container>
+            </did>
+            <scopecontent id="aspace_a66fc6049fc5b76f87105e9ab35e6366">
+              <head>Scope and Contents</head>
+              <p>No label listed</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_a40652e8831ef94cf35caa13f71525ce" level="file">
+            <did>
+              <unittitle>May by Bratmobile/Veronica Lake (Label: Simple Machines Records)</unittitle>
+              <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+              <container id="aspace_1e9716e916ec10681c1ddcb5e34903be" label="mixed materials" type="Box">2</container>
+              <container id="aspace_9c139e11170efa20bfbd103333b53696" parent="aspace_1e9716e916ec10681c1ddcb5e34903be" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_368c1299e093690efef7445f8e66a91b" level="file">
+            <did>
+              <unittitle>A New Goal by Circus Lupus/Trenchmouth (Label: Dischord Records)</unittitle>
+              <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+              <container id="aspace_74294196ce0da2ed555db66f0de31599" label="mixed materials" type="Box">2</container>
+              <container id="aspace_e7622cb01506fbcad56c604a2d1925de" parent="aspace_74294196ce0da2ed555db66f0de31599" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_09e873759189f3f7c710c6af9c760799" level="file">
+            <did>
+              <unittitle>A Primer by Crownhate Ruin, The (Label: T.C. Ruin)</unittitle>
+              <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+              <container id="aspace_a97de326ed7a7d862c20183fcb171321" label="mixed materials" type="Box">2</container>
+              <container id="aspace_e38b850604a3a51bf60c41b1c9f8133d" parent="aspace_a97de326ed7a7d862c20183fcb171321" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_a89ce34b1694ab297ffb5cc246064928" level="file">
+            <did>
+              <unittitle>Join Our Club... - Werewolves! by Cupid Car Club (Label: Kill Rock Stars)</unittitle>
+              <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+              <container id="aspace_aff69b54ba78802b9f32f3517c8e3261" label="mixed materials" type="Box">2</container>
+              <container id="aspace_6696b0797586b5db31f8f433062a6610" parent="aspace_aff69b54ba78802b9f32f3517c8e3261" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_5dcd52b67e372aa68525a531cdbfadcd" level="file">
+            <did>
+              <unittitle>Walking in my Sleep by Desiderata (Label: Dischord Records)</unittitle>
+              <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+              <container id="aspace_b394f6f51252d8e500fea6f0f27f1ea4" label="mixed materials" type="Box">2</container>
+              <container id="aspace_a6e2d16bcd1074806801d92eb25371df" parent="aspace_b394f6f51252d8e500fea6f0f27f1ea4" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_58e763367889c152759c4d4a0d77f1eb" level="file">
+            <did>
+              <unittitle>Double-O by Double-O (Label: Dischord Records / R and B Records)</unittitle>
+              <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+              <container id="aspace_9b9233d4ebd5d94adcb5bdff657caf92" label="mixed materials" type="Box">2</container>
+              <container id="aspace_539dd1db00dae3c5a1535faf7421c09e" parent="aspace_9b9233d4ebd5d94adcb5bdff657caf92" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_f74d2512ca9fa17aaa78b74beaece3cd" level="file">
+            <did>
+              <unittitle>Me And You by Egghunt (Label: Dischord Records)</unittitle>
+              <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+              <container id="aspace_4fa53d1d54acd31371dcf16b5d8de3fd" label="mixed materials" type="Box">2</container>
+              <container id="aspace_2884f35ecfa1615a2c050436abcdbfda" parent="aspace_4fa53d1d54acd31371dcf16b5d8de3fd" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_99ad57980c44384bddbe05c2383c2c4e" level="file">
+            <did>
+              <unittitle>3 Songs by Fugazi (Label: Dischord Records)</unittitle>
+              <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+              <container id="aspace_dab68fb51dedf7f53a88c6809f5fc934" label="mixed materials" type="Box">2</container>
+              <container id="aspace_d01f1bd85eeb01258bcd91cb01cbeaa8" parent="aspace_dab68fb51dedf7f53a88c6809f5fc934" type="Folder">16</container>
+            </did>
+            <scopecontent id="aspace_c7ca780a7f4efe50791d6ba879b40d9c">
+              <head>Scope and Contents</head>
+              <p>Recorded and Copyright in 1989. Possibly released in 1990</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_d2e8a47663a5f71583ddb10d57b535f8" level="file">
+            <did>
+              <unittitle>Resurrection by Fury (Label: THD Records)</unittitle>
+              <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+              <container id="aspace_bba17a592eb474449b4f95839af8ff42" label="mixed materials" type="Box">2</container>
+              <container id="aspace_5285c8807fe6fd49565f4ed3445bcb0b" parent="aspace_bba17a592eb474449b4f95839af8ff42" type="Folder">17</container>
+            </did>
+            <scopecontent id="aspace_bf848eb38aea3bd3fd8805202e35aac2">
+              <head>Scope and Contents</head>
+              <p>Included inside is a foldout paper with credits and images</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_cf992eee255f72581826fd0dd4a8dfc7" level="file">
+            <did>
+              <unittitle>Hoover Limited - 02 by Hoover (Label: Dischord Records / Hoover Limited )</unittitle>
+              <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+              <container id="aspace_bf2807d904584137f8793baadd76ef31" label="mixed materials" type="Box">2</container>
+              <container id="aspace_e18bd12de486ec1dae320bd08f3aadc5" parent="aspace_bf2807d904584137f8793baadd76ef31" type="Folder">18</container>
+            </did>
+            <scopecontent id="aspace_8872d71f39a4e47d7451e9486a63fd2f">
+              <head>Scope and Contents</head>
+              <p>split release as Hoover Limited ‎– 02</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_1e224ef7000508d0057b07184004626b" level="file">
+            <did>
+              <unittitle>Sidecar Freddie / Cable by Hoover (Label: Dischord Records / Hoover Limited)</unittitle>
+              <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+              <container id="aspace_aa7b446a75dff0cdbdffaf96e185b55b" label="mixed materials" type="Box">2</container>
+              <container id="aspace_d9fa743ec7d0224f6b240a9307af054c" parent="aspace_aa7b446a75dff0cdbdffaf96e185b55b" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_b6f975a29c2d2ac1e589cbaddb357923" level="file">
+            <did>
+              <unittitle>Two Headed Coin by Hoover/Lincoln (Label: Art Monk Construction)</unittitle>
+              <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+              <container id="aspace_b20bfda81c395b1451bb6723eaffdac1" label="mixed materials" type="Box">2</container>
+              <container id="aspace_d3b7888a09941ce293fdf30651680f86" parent="aspace_b20bfda81c395b1451bb6723eaffdac1" type="Folder">20</container>
+            </did>
+            <scopecontent id="aspace_6ddff8aa5ddc3b3be4e029f38146ff9d">
+              <head>Scope and Contents</head>
+              <p>Inside, and insert is included with biographical information on Herbert C. Hoover and Abraham Lincoln</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_31feb47457411195ceb72eeec65ecd9c" level="file">
+            <did>
+              <unittitle>Tools and Chrome by Jawbox (Label: Dischord Records / Desoto)</unittitle>
+              <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+              <container id="aspace_ffac76148dc30496186010fad8d474bd" label="mixed materials" type="Box">2</container>
+              <container id="aspace_8d6a233f862a587e31241a4bdf40fa4b" parent="aspace_ffac76148dc30496186010fad8d474bd" type="Folder">21</container>
+            </did>
+            <scopecontent id="aspace_6bc37d73689db1df270ce00df7fd9b06">
+              <head>Scope and Contents</head>
+              <p>insert</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_60dc51ee8470974e8dc1147392cfac9a" level="file">
+            <did>
+              <unittitle>Thanks by Lünchmeat/Mission Impossible (Label: Dischord Records / ‎Sammich Records )</unittitle>
+              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <container id="aspace_fa0af78990f44b9413208c96731afb61" label="mixed materials" type="Box">2</container>
+              <container id="aspace_f4bf2e9e5022abc9b2c2409751c059b4" parent="aspace_fa0af78990f44b9413208c96731afb61" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_c9cc870c8a18b8b0a96e8813f0170c0b" level="file">
+            <did>
+              <unittitle>Salad Days by Minor Threat (Label: Dischord Records)</unittitle>
+              <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+              <container id="aspace_283ee2568bc02659dfb545585e83fd6f" label="mixed materials" type="Box">2</container>
+              <container id="aspace_182cbd7f8bbff9e143a4ac42f34d18df" parent="aspace_283ee2568bc02659dfb545585e83fd6f" type="Folder">23</container>
+            </did>
+            <scopecontent id="aspace_c7b4ef36a65ce582a6f9bba079b20eba">
+              <head>Scope and Contents</head>
+              <p>Inner sleeve folds out photos of band members</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_5ee37a53d01caf8ec8f379a6808e8753" level="file">
+            <did>
+              <unittitle>Measles Mumps Rubella by Measles Mumps Rubella (Label: M'alady's)</unittitle>
+              <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+              <container id="aspace_38c93af4856d1f51235300c1c41dc934" label="mixed materials" type="Box">2</container>
+              <container id="aspace_59526291161ed0310810e02287e71446" parent="aspace_38c93af4856d1f51235300c1c41dc934" type="Folder">24</container>
+            </did>
+            <scopecontent id="aspace_7933908adccbcd41957ccf5b573c851c">
+              <head>Scope and Contents</head>
+              <p>Included inside is (1) insert with information and lyrics and (1) small flier for a show in DC in May 2003 at Black Cat</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_a11b9f3d1d2b9e158b63709cdffcd151" level="file">
+            <did>
+              <unittitle>Hearts/Cardiac Arrest by Nurses, The (Label: Round Raoul Records)</unittitle>
+              <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
+              <container id="aspace_2c4585fd32d5bea63343b70e01ab0cc9" label="mixed materials" type="Box">2</container>
+              <container id="aspace_dd8d94f07cdc3b911c1ca768b219eb6b" parent="aspace_2c4585fd32d5bea63343b70e01ab0cc9" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_3be622bae6e1718f28f63ccc208a3fc3" level="file">
+            <did>
+              <unittitle>Incoming by Rain Like the Sound of Trains (Label: Spring)</unittitle>
+              <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+              <container id="aspace_ad36815462231eadf1b14b3f9c975ca0" label="mixed materials" type="Box">2</container>
+              <container id="aspace_588f03b4d96f90cb7d03a1dae152f733" parent="aspace_ad36815462231eadf1b14b3f9c975ca0" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_acf3cac92c067cbf555651cb211a28f8" level="file">
+            <did>
+              <unittitle>Sea Tiger Theme Song by Sea Tiger (Label: Southern Records)</unittitle>
+              <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+              <container id="aspace_d94b1693ae45f1f896b4d17d8652c6da" label="mixed materials" type="Box">2</container>
+              <container id="aspace_7d2164229d27412eb0ef1e8ace7ab94e" parent="aspace_d94b1693ae45f1f896b4d17d8652c6da" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_d4533a9e07845a11f1098f48da0e81bc" level="file">
+            <did>
+              <unittitle>777 by Sevens (Label: Tolotta Recording Co)</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_61ccab2159cbf9f237662b8783bac4f9" label="mixed materials" type="Box">2</container>
+              <container id="aspace_6e0b9a5ac19c4c4119bb7ef8342a83e8" parent="aspace_61ccab2159cbf9f237662b8783bac4f9" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_1bbc81bd9ca7137dffcd55a345ac1cd7" level="file">
+            <did>
+              <unittitle>This Side by Sevens (Label: Dischord Records/Akashic Records)</unittitle>
+              <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+              <container id="aspace_4849d7a6b31cbff7d396396588e0bf36" label="mixed materials" type="Box">2</container>
+              <container id="aspace_c1303dceddf53b58223f3e680ad417ef" parent="aspace_4849d7a6b31cbff7d396396588e0bf36" type="Folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_de08143dca4019167b5773c26e216a6a" level="file">
+            <did>
+              <unittitle>Mersey Mersey Me by Slickee Boys (Label: Limp Records)</unittitle>
+              <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+              <container id="aspace_3684e46b66af2b97e58b68e4c4b9ff8b" label="mixed materials" type="Box">2</container>
+              <container id="aspace_0abd65c9d6db87c4687203f7a8d0fa0f" parent="aspace_3684e46b66af2b97e58b68e4c4b9ff8b" type="Folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_7b13cc64dc55175a1a99b18d2f928a9e" level="file">
+            <did>
+              <unittitle>How Did You Get There by Sorts, The (Label: Southern Records)</unittitle>
+              <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+              <container id="aspace_e01475abb0becbb21c4505fc33b7964e" label="mixed materials" type="Box">2</container>
+              <container id="aspace_fa5aabca32612b8bdf3fd267160bac7f" parent="aspace_e01475abb0becbb21c4505fc33b7964e" type="Folder">31</container>
+            </did>
+          </c>
+          <c id="aspace_c6faf5ac7f2df9f7587b75e8ae802420" level="file">
+            <did>
+              <unittitle>Bass by Soulside (Label: Dischord Records)</unittitle>
+              <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+              <container id="aspace_870599673fc1b27cb292358571be0b26" label="mixed materials" type="Box">2</container>
+              <container id="aspace_a9c26d824555a0793caae6112f586402" parent="aspace_870599673fc1b27cb292358571be0b26" type="Folder">32</container>
+            </did>
+            <scopecontent id="aspace_e9a47b5d552be0887c7d0f59a2cd1ab4">
+              <head>Scope and Contents</head>
+              <p>insert</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_0fbedbaf51d99c61abeacb4849db382d" level="file">
+            <did>
+              <unittitle>Good Girl by Suture (Label: Dischord Records/Decompiosition)</unittitle>
+              <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+              <container id="aspace_211bbbdd645809eea361f21bbe663235" label="mixed materials" type="Box">2</container>
+              <container id="aspace_d89dadee16e66c3f231da66a1faaf2b6" parent="aspace_211bbbdd645809eea361f21bbe663235" type="Folder">33</container>
+            </did>
+          </c>
+          <c id="aspace_d0669e8ceaded1cecc887322098ecd85" level="file">
+            <did>
+              <unittitle>Flameproof Suit by Tsunami (Label: Simple Machines )</unittitle>
+              <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+              <container id="aspace_052c3e15ffc907fedef3029058195eeb" label="mixed materials" type="Box">2</container>
+              <container id="aspace_96e49b7951f4071267f7027439c1740d" parent="aspace_052c3e15ffc907fedef3029058195eeb" type="Folder">34</container>
+            </did>
+            <scopecontent id="aspace_d980d0e4f25ae5ee26a8854b1b224d4f">
+              <head>Scope and Contents</head>
+              <p>Includes insert with with band image and information</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_b7f1ee5428bc6c01f6fd511c854d365b" level="file">
+            <did>
+              <unittitle>Fugitive Family by United Mutation (Label: DSI Records / Dischord Records)</unittitle>
+              <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+              <container id="aspace_15c98ed15efb614bbe0600cc1fe6fb5e" label="mixed materials" type="Box">2</container>
+              <container id="aspace_4f2fa57222ae559c7ead7b964ae56025" parent="aspace_15c98ed15efb614bbe0600cc1fe6fb5e" type="Folder">35</container>
+            </did>
+            <scopecontent id="aspace_923352aa670a74133ddeea5bee687606">
+              <head>Scope and Contents</head>
+              <p>insert with lyrics</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_e1dbe8d067d4265151a09c7a5658371a" level="file">
+            <did>
+              <unittitle>Wedge by Various Artists (Label: Simple Machines )</unittitle>
+              <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+              <container id="aspace_8d3999902b1892fe46af09d905129721" label="mixed materials" type="Box">2</container>
+              <container id="aspace_f55dfe267e33f1c198b8ca93f59644e3" parent="aspace_8d3999902b1892fe46af09d905129721" type="Folder">36</container>
+            </did>
+            <scopecontent id="aspace_42f4c5f2f9009c68c64a94d4c6e5c097">
+              <head>Scope and Contents</head>
+              <p>Insert sheet with band information and label promotional information</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_4425a4b74b286e17834345849712c0e8" level="file">
+            <did>
+              <unittitle>I Don't Care if You Go by Velocity Girl (Label: Slumberland Records)</unittitle>
+              <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+              <container id="aspace_d1c74ecb87955b0abe42b40cfc3c4820" label="mixed materials" type="Box">2</container>
+              <container id="aspace_92ba0d3023c61e05e2558a36b48fae5e" parent="aspace_d1c74ecb87955b0abe42b40cfc3c4820" type="Folder">37</container>
+            </did>
+          </c>
+          <c id="aspace_29a5f5ab187ac9ae3cc8ce4f69bf8fb5" level="file">
+            <did>
+              <unittitle>My Forgotten Favorite by Velocity Girl (Label: Slumberland Records)</unittitle>
+              <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+              <container id="aspace_73f6caa89987c04dd734c27f201b6ca1" label="mixed materials" type="Box">2</container>
+              <container id="aspace_06e00d32a864019cafd550bf5308a925" parent="aspace_73f6caa89987c04dd734c27f201b6ca1" type="Folder">38</container>
+            </did>
+            <scopecontent id="aspace_e414ee98272808e61cb07d68b74e09f7">
+              <head>Scope and Contents</head>
+              <p>Insert sheet with Slumberland catalog</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_bb75337b8d4c45d5e61e6a6536397ad7" level="file">
+            <did>
+              <unittitle>Condensed Flesh by Void (Label: Eye 95 Records)</unittitle>
+              <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
+              <container id="aspace_31810851fcd68e447b11e5acf8b51b2c" label="mixed materials" type="Box">2</container>
+              <container id="aspace_3ed22a06675185b71eecf93e3e2da0e3" parent="aspace_31810851fcd68e447b11e5acf8b51b2c" type="Folder">39</container>
+            </did>
+            <scopecontent id="aspace_38bb94414bf04d18e5d30d33fbd9c7f2">
+              <head>Scope and Contents</head>
+              <p>Clear Vinyl; promotional leaflet for band</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_ac932e0ed06dff1152dcad95f76a8592" level="file">
+            <did>
+              <unittitle>Heavens Of Hell / Never Mind by White Boy (Label: Doodley Squat Records)</unittitle>
+              <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
+              <container id="aspace_81c7fef1a30fc660697ff81c1b52af79" label="mixed materials" type="Box">2</container>
+              <container id="aspace_dd992dfc9c038c822d277841e9831c37" parent="aspace_81c7fef1a30fc660697ff81c1b52af79" type="Folder">40</container>
+            </did>
+            <scopecontent id="aspace_367f3554ab9f1e8e155a02567699eee8">
+              <head>Scope and Contents</head>
+              <p>Insert with lyrics and photos</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_bceda3a9f2e54fb1b430d251abbc7b90" level="file">
+            <did>
+              <unittitle>I Could Puke / Disco Elephant by White Boy (Label: Doodley Squat)</unittitle>
+              <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
+              <container id="aspace_a3b1fb012afa5e8d59ba24dc546493a3" label="mixed materials" type="Box">2</container>
+              <container id="aspace_72f06e2184141c9e881b00c6b2b17166" parent="aspace_a3b1fb012afa5e8d59ba24dc546493a3" type="Folder">41</container>
+            </did>
+          </c>
+          <c id="aspace_91d1edb572a1bf8b0254649ecb06afcc" level="file">
+            <did>
+              <unittitle>Maybe It's Better by Whorl (Label: Slumberland Records)</unittitle>
+              <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+              <container id="aspace_713971b4ef306617ae67df7ba162371b" label="mixed materials" type="Box">2</container>
+              <container id="aspace_a36123849f4a2e4dade5e9111e34220f" parent="aspace_713971b4ef306617ae67df7ba162371b" type="Folder">42</container>
+            </did>
+            <scopecontent id="aspace_b31e9a3d9923c2e6376d03224c5792bc">
+              <head>Scope and Contents</head>
+              <p>Insert with record information and label information</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_66984705da31a2d1f333a652caf23119" level="file">
+            <did>
+              <unittitle>Mind Revolution by Whorl (Label: Slumberland Records)</unittitle>
+              <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+              <container id="aspace_594b7d388af256b61d53de1708c7333a" label="mixed materials" type="Box">2</container>
+              <container id="aspace_cd6709df4f0b118bd19e6ed3ce4303b5" parent="aspace_594b7d388af256b61d53de1708c7333a" type="Folder">43</container>
+            </did>
+            <scopecontent id="aspace_82f1c099830106a908de8d3d14d5c54c">
+              <head>Scope and Contents</head>
+              <p>insert</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_9f75afd9b3ae4438d2d36959f6e99a2d" level="subseries">
+          <did>
+            <unittitle>Subseries 4: DVDs</unittitle>
+          </did>
+          <c id="aspace_3d5758cad4cced11cead4a182fba566a" level="file">
+            <did>
+              <unittitle>Washington DC Ambassador Theater Psychedelic Dance Hall Reunion by Jeff Krulik</unittitle>
+              <unitdate normal="2007/2007" type="inclusive">2007</unitdate>
+              <container id="aspace_10f3d04be41b8d52597f667dbf3a5f3f" label="mixed materials" type="Box">2</container>
+              <container id="aspace_67066a9de012aafdd31162d6dffca6e2" parent="aspace_10f3d04be41b8d52597f667dbf3a5f3f" type="Folder">44</container>
+            </did>
+            <scopecontent id="aspace_c15fd14f188479896ea082520e6cf4c8">
+              <head>Scope and Contents</head>
+              <p>"over two hours of video...taped during DH Historical Studies Conference...what a great oral history!"</p>
+            </scopecontent>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_83fde1d3d13346d7c5c9019f8c7d6bf9" level="series">
+        <did>
+          <unittitle>Series 3: Objects</unittitle>
+        </did>
+        <c id="aspace_529c86bf094500d9736b77f8a2448d35" level="file">
+          <did>
+            <unittitle>d.c. space t-shirt</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_8bda7d549d1db07f01b5bd758e42c453" label="mixed materials" type="Box">3</container>
+            <container id="aspace_dcd739687445917e366b9548926bf91a" parent="aspace_8bda7d549d1db07f01b5bd758e42c453" type="Folder">1</container>
+          </did>
+          <scopecontent id="aspace_6f5a720cbbbae0ab377a7f1aad4b772b">
+            <head>Scope and Contents</head>
+            <p>Temporary Box Number</p>
+          </scopecontent>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

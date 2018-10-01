@@ -1,0 +1,624 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">cpr.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Radio CPR <num>PUNK001</num> <num>PUNK001</num></titleproper>
+        <subtitle>An inventory of Radio CPR at DC Public Library</subtitle>
+        <author>Finding aid prepared by Paul Kelly.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Stage</publisher>
+        <p>
+          <date>2017-10-04</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-01 15:00:25 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Stage</corpname>
+      </repository>
+      <unittitle>Radio CPR Collection</unittitle>
+      <unitid>PUNK001</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">7 boxes</extent>
+      </physdesc>
+      <unitdate normal="1997/2008" type="inclusive">1997-2008</unitdate>
+      <langmaterial id="aspace_a8adb21da1df31ffc0525d60eb2afe05">English</langmaterial>
+      <langmaterial id="aspace_7a365ecd58478afcd10be0d743eef188">English</langmaterial>
+    </did>
+    <dsc>
+      <c id="aspace_778e3cd6682efff9c53ea2e899dad315" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_0e72fc05dbfb3dfe0146241148a95c59" level="file">
+          <did>
+            <unittitle>Stand for our Neighbors</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_7d323ae449681eea49e51108401c9f3a" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e44504ac432e67c2710ee1f1062b4c28" parent="aspace_7d323ae449681eea49e51108401c9f3a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_8492bc53b34f520d36b63e00238b0907" level="file">
+          <did>
+            <unittitle>Prometheus</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_6e11d5dc22afd38a3b734a44fe9b0fc3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_9711668b602cc1a87d745f0de8844fae" parent="aspace_6e11d5dc22afd38a3b734a44fe9b0fc3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_f66d05a6dd4cadb10b3a890c9ea585ce" level="file">
+          <did>
+            <unittitle>Meeting Notes</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_94c6302287dca419100a46410b51b1b6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_af6b6a53ce4d83f58e7f6c03a4129258" parent="aspace_94c6302287dca419100a46410b51b1b6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_113538320fbffcff9eb543de20e52a24" level="file">
+          <did>
+            <unittitle>Radio/Media Clippings</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_6ab9c19ef06e624ba304786fc1c7169f" label="mixed materials" type="Box">1</container>
+            <container id="aspace_947455e0100098baaf062c2f5ee7578d" parent="aspace_6ab9c19ef06e624ba304786fc1c7169f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_3e307ed8f2af3a5814b8eb2b8f0287d5" level="file">
+          <did>
+            <unittitle>MBC Letters Received</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_8a2c2ac1834d0a5f5e65c391a6fc3d91" label="mixed materials" type="Box">1</container>
+            <container id="aspace_9d3c058320a5f68bfe473e611404b6a9" parent="aspace_8a2c2ac1834d0a5f5e65c391a6fc3d91" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_c7aaa4564c43ad1efdd01cde58b068b3" level="file">
+          <did>
+            <unittitle>Norton Letter - MBC Support</unittitle>
+            <unitdate normal="1999-08-02/1999-08-02" type="inclusive">8/2/1999</unitdate>
+            <container id="aspace_d7b130509a681c3395c10505a08e0cfd" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d5ccd5889b44e955c6dbabeef58cee5d" parent="aspace_d7b130509a681c3395c10505a08e0cfd" type="Folder">6</container>
+          </did>
+          <scopecontent id="aspace_255cc53fdd0a30e68d2795b4c0a37f92">
+            <head>Scope and Contents</head>
+            <p>Letter from Eleanor Holmes Norton to The Honorable William E. Kennard</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_a54e2947c7983a80dd0a5e3abef6bc4a" level="file">
+          <did>
+            <unittitle>MBC Petitions</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2eafc47ea7663443b4cbf9361c51af6c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_793f5daaad011b1a1fb03bda3a95e063" parent="aspace_2eafc47ea7663443b4cbf9361c51af6c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_494148b7cf94985d91197c15ddaf2eaf" level="file">
+          <did>
+            <unittitle>MBC Incorporation</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_be59df3cc722eeb6fe9f36b6d0c210d2" label="mixed materials" type="Box">2</container>
+            <container id="aspace_9c29c6e4a574f9efc09478d7a8983aff" parent="aspace_be59df3cc722eeb6fe9f36b6d0c210d2" type="Folder">1</container>
+          </did>
+          <scopecontent id="aspace_57a216ee9bd0439269aa6efa4310092e">
+            <head>Scope and Contents</head>
+            <p>MBC Articles of Incorporation, Bylaws, and Waiver of Notice of Organization Meeting of Directors</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_4c4ef6165040164208c1690c2b433a6a" level="file">
+          <did>
+            <unittitle>Micropower Showdown - 1998</unittitle>
+            <unitdate normal="1998-10/1998-10" type="inclusive">10/1998</unitdate>
+            <container id="aspace_8344c469caaaff3e8c336143dbf37152" label="mixed materials" type="Box">2</container>
+            <container id="aspace_2032004b101ea80fb5964d8b818d4c9d" parent="aspace_8344c469caaaff3e8c336143dbf37152" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_2ccad24301d91d8a194e8093c4774976" level="file">
+          <did>
+            <unittitle>MBC Frequency Search</unittitle>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_9a5e986729cfebf6f1513608583295fa" label="mixed materials" type="Box">2</container>
+            <container id="aspace_8441aba1b594137b9233c5f9265d6a62" parent="aspace_9a5e986729cfebf6f1513608583295fa" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_9df3c934ba966592a851901881a5d587" level="file">
+          <did>
+            <unittitle>MBC Application</unittitle>
+            <unitdate normal="2000-06-05/2000-06-05" type="inclusive">6/5/2000</unitdate>
+            <container id="aspace_58d31d1b4d9590f1a7a4b3c785bcaaaf" label="mixed materials" type="Box">2</container>
+            <container id="aspace_46c7f95507029b09e3bb532769caa867" parent="aspace_58d31d1b4d9590f1a7a4b3c785bcaaaf" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_392f8ab212899b57ce1e6db91aab63cf" level="file">
+          <did>
+            <unittitle>FCC Knock!</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_9b6520d3223c21af19073659bde95889" label="mixed materials" type="Box">2</container>
+            <container id="aspace_ec5b78657c5d4ba9e79689d6bdbaa560" parent="aspace_9b6520d3223c21af19073659bde95889" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_273b12f6669a92b217e3a411ead5c01f" level="file">
+          <did>
+            <unittitle>How to start a pirate station!</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b71e3a1c1065729d09ccb1b426765dc4" label="mixed materials" type="Box">2</container>
+            <container id="aspace_3d8d8aefb310eccb04195434cc6db0a8" parent="aspace_b71e3a1c1065729d09ccb1b426765dc4" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_737a3a4c168de152b42a575e22270a5c" level="file">
+          <did>
+            <unittitle>CPR</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_53a3055ee0254a40c7244b93566e013e" label="mixed materials" type="Box">2</container>
+            <container id="aspace_27e641afabb642c459705421ee0c35f8" parent="aspace_53a3055ee0254a40c7244b93566e013e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_6428fb30768ef3780abcb160a52fce45" level="file">
+          <did>
+            <unittitle>Technical</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_a73608220025a18e2211e4cb06b38a60" label="mixed materials" type="Box">2</container>
+            <container id="aspace_7526b056e104d96be2a503945c10fb5b" parent="aspace_a73608220025a18e2211e4cb06b38a60" type="Folder">8</container>
+          </did>
+          <scopecontent id="aspace_73a47425510b87c4c91006f661dfe3bc">
+            <head>Scope and Contents</head>
+            <p>Article - Micropower Broadcasting: A Technical Primer</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_5f1f37c5cc1daa9f69988688fe4cf0d7" level="file">
+          <did>
+            <unittitle>CPR Packets</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_dccc274487fca38e17c523ac4ceb41c9" label="mixed materials" type="Box">2</container>
+            <container id="aspace_fb7f72829d727cd20a1aad6ced282c22" parent="aspace_dccc274487fca38e17c523ac4ceb41c9" type="Folder">9</container>
+          </did>
+          <scopecontent id="aspace_0bf4e8f9daee63701bc58f0f6619dfed">
+            <head>Scope and Contents</head>
+            <p>Radio CPR, 97.5 FM: Our mission and history</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_e310718a500ca2a63ad4f9b72fefc309" level="file">
+          <did>
+            <unittitle>Microradio Clippings</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_ef1c922870da8ce7221e269999f90bbc" label="mixed materials" type="Box">2</container>
+            <container id="aspace_c9f6fb66359449867b33b267b9831932" parent="aspace_ef1c922870da8ce7221e269999f90bbc" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_fedbf9f603f9c36af750dcd03f87824b" level="file">
+          <did>
+            <unittitle>D.C. Radio in the News</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5ca81ec37db56f7f108c9244c9875d1f" label="mixed materials" type="Box">2</container>
+            <container id="aspace_bb996033e630b1b387623ff5c2e34b93" parent="aspace_5ca81ec37db56f7f108c9244c9875d1f" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ecbc7e82d8ee50ffdd8d80b2567bc7dd" level="file">
+          <did>
+            <unittitle>WGTB</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_7f01a31bae284d852aba3a8a3f571225" label="mixed materials" type="Box">2</container>
+            <container id="aspace_da7944505d52327dc15e086f3dbef2ad" parent="aspace_7f01a31bae284d852aba3a8a3f571225" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_2bae7c8231f16cbdd1787a646e31aaad" level="file">
+          <did>
+            <unittitle>Black Liberation Radio</unittitle>
+            <unitdate normal="1997-02/1997-02" type="inclusive">02/1997</unitdate>
+            <container id="aspace_4593af9049c56515e29becf4cb6aebf0" label="mixed materials" type="Box">2</container>
+            <container id="aspace_888031fe86b484c8bdbf926af6f416a3" parent="aspace_4593af9049c56515e29becf4cb6aebf0" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_756c18d55ecc98b12193d15b39e8220b" level="file">
+          <did>
+            <unittitle>Equipment</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f182e5bd79c9d04e5d6bba12baab7170" label="mixed materials" type="Box">2</container>
+            <container id="aspace_fe6fcc462fe3968317c4d99a9fdcc4d8" parent="aspace_f182e5bd79c9d04e5d6bba12baab7170" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_f9e1ef378104ce386ddb3c43a493dd47" level="file">
+          <did>
+            <unittitle>Reception Tips</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3aa01c252cce240032bec27ba84a76c3" label="mixed materials" type="Box">3</container>
+            <container id="aspace_0d9b2cfdc73ca6965ca8dc37ba23afcd" parent="aspace_3aa01c252cce240032bec27ba84a76c3" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_cc02c6138ad3f352bac376ae9b8b80e4" level="file">
+          <did>
+            <unittitle>Spectrum</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_44cd669723c4f90629a34538ae5461a8" label="mixed materials" type="Box">3</container>
+            <container id="aspace_f85ae056a00a275a4f16ed1093c1a23b" parent="aspace_44cd669723c4f90629a34538ae5461a8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_6a4675cbeb74499d9edf376cd42ac9f5" level="file">
+          <did>
+            <unittitle>Pro-Pirate Resolutions</unittitle>
+            <unitdate normal="1999-10-18/1999-10-18" type="inclusive">10/18/1999</unitdate>
+            <container id="aspace_d27866d22125b165f39cd752932730bc" label="mixed materials" type="Box">3</container>
+            <container id="aspace_725816c7b48f21d09b2c0d5cfe11610d" parent="aspace_d27866d22125b165f39cd752932730bc" type="Folder">3</container>
+          </did>
+          <scopecontent id="aspace_a48db57d728e0d6dc70be9cc0dede12a">
+            <head>Scope and Contents</head>
+            <p>City of Grover Beach, California Proclamation of the City Council of the City of Grover Beach Recognizing Excellent Radio 88.9 FM</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_d16c7304f7a6132694554c47d40cac37" level="file">
+          <did>
+            <unittitle>MBC Policies</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_0db9358580306512fbeb5668dfba4860" label="mixed materials" type="Box">3</container>
+            <container id="aspace_b66108d621b35ef93ab5469bb733cc4e" parent="aspace_0db9358580306512fbeb5668dfba4860" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_78f2ea9d31246bd689963957f62781f7" level="file">
+          <did>
+            <unittitle>MBC Training</unittitle>
+            <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_3124eba0507d31833572a231ca9901de" label="mixed materials" type="Box">3</container>
+            <container id="aspace_82d406cf1933b1aa3157ae655bda6c3e" parent="aspace_3124eba0507d31833572a231ca9901de" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_68f6e2daac6743b2652876d418c1f4bc" level="file">
+          <did>
+            <unittitle>MBC Comments</unittitle>
+            <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_b5fd6989abe995901d404285cbc11230" label="mixed materials" type="Box">3</container>
+            <container id="aspace_3acee4c46eeebecead219b758ccc6d53" parent="aspace_b5fd6989abe995901d404285cbc11230" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_71959e9ec3386b7b14d2f1c4a3a15d61" level="file">
+          <did>
+            <unittitle>Incorporation</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3cf36517fb8145813e66c0023e0ff230" label="mixed materials" type="Box">3</container>
+            <container id="aspace_622649388d969d7fcfe5fc14bc90de28" parent="aspace_3cf36517fb8145813e66c0023e0ff230" type="Folder">7</container>
+          </did>
+          <scopecontent id="aspace_46c221d62c3051e11bc6ad0deea647d9">
+            <head>Scope and Contents</head>
+            <p>Bylaws</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_2f9b67fb05248e0f3b73fc16dc41d76b" level="file">
+          <did>
+            <unittitle>MBC Letterhead</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_ee8d050b3259723e843decebcb50e491" label="mixed materials" type="Box">3</container>
+            <container id="aspace_b9cce874e99ea3d2564dd2e6d4f1cc89" parent="aspace_ee8d050b3259723e843decebcb50e491" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_7a251e9f40cf8ebeb885cd63c7261a2c" level="file">
+          <did>
+            <unittitle>MBC Ideas/Photos</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4f51d79c94252edf152a6ee0cd472cfc" label="mixed materials" type="Box">3</container>
+            <container id="aspace_330d4f97b83614efdfc5c65ccd37eefb" parent="aspace_4f51d79c94252edf152a6ee0cd472cfc" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ca122293ae87fafb8522291b093ecb2e" level="file">
+          <did>
+            <unittitle>Station Program Guides</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_6c6e01ec47b8de7d2781ce3405339791" label="mixed materials" type="Box">3</container>
+            <container id="aspace_6baf3bc58eff6d0627c06492594fd123" parent="aspace_6c6e01ec47b8de7d2781ce3405339791" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_29dac6367577d6011080f708f4922e89" level="file">
+          <did>
+            <unittitle>German Free Radio</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f2505dcaa412e54373abf0666da5c3db" label="mixed materials" type="Box">3</container>
+            <container id="aspace_51f9ceb4f2957209f5e9df87b32a0187" parent="aspace_f2505dcaa412e54373abf0666da5c3db" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_3b2cc1af66251d88a8f125ccd0dc89f9" level="file">
+          <did>
+            <unittitle>Micro Radio Legal</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_a67e3eb6087f68f7906daa4826a0f693" label="mixed materials" type="Box">3</container>
+            <container id="aspace_b8e717ea1c21d57afa8f63a5896ca78c" parent="aspace_a67e3eb6087f68f7906daa4826a0f693" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_7631d61870947a247d969c6c3dee6d0d" level="file">
+          <did>
+            <unittitle>Int'l Free Radio/Other</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_80c9293d819b6f4cb26444095bbe25e1" label="mixed materials" type="Box">3</container>
+            <container id="aspace_77899f7e88db60403300a5cbf89982bb" parent="aspace_80c9293d819b6f4cb26444095bbe25e1" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_6ebefbe7204c46be308cd768d5626859" level="file">
+          <did>
+            <unittitle>MBC Zines</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e96220ae6de7217c7772ff48c9e6f977" label="mixed materials" type="Box">3</container>
+            <container id="aspace_1c39122baa06360574247b3d56812425" parent="aspace_e96220ae6de7217c7772ff48c9e6f977" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_3866aa9aa97ac64a1978ff1e87a6e814" level="file">
+          <did>
+            <unittitle>Emergency Phone List</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c8fc594af2097318656b26bd427c2a1c" label="mixed materials" type="Box">3</container>
+            <container id="aspace_fc65bba0f2b001c7d4abedf022e2a004" parent="aspace_c8fc594af2097318656b26bd427c2a1c" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_baef9775aee660ff30aea91fffec4f74" level="file">
+          <did>
+            <unittitle>Radio CPR 97.5 FM Traffic/Program Log</unittitle>
+            <unitdate normal="2001-02/2001-08" type="inclusive">February 2001 - August 2001</unitdate>
+            <container id="aspace_a2b9b7ca49a1f76f04f6c3ed7492d8dc" label="mixed materials" type="Box">4</container>
+            <container id="aspace_b298411be361193444120722224dd200" parent="aspace_a2b9b7ca49a1f76f04f6c3ed7492d8dc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_4eae231640381fc5df7c0b06e018c6d3" level="file">
+          <did>
+            <unittitle>Radio CPR 97.5 FM Traffic/Program Log</unittitle>
+            <unitdate normal="2001-08/2001-10" type="inclusive">August 2001 - October 2001</unitdate>
+            <container id="aspace_ccd11ab06c56a9d548659e0f84c633c9" label="mixed materials" type="Box">4</container>
+            <container id="aspace_22dc77ea69928f6a611a818ad670140c" parent="aspace_ccd11ab06c56a9d548659e0f84c633c9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ed4bf399525fca75d471248f50dd2848" level="file">
+          <did>
+            <unittitle>Radio CPR 97.5 FM Traffic/Program Log</unittitle>
+            <unitdate normal="2001-11/2001-12" type="inclusive">November 2001 - December 2001</unitdate>
+            <container id="aspace_9d7e4988728c0af1481ed7315f986750" label="mixed materials" type="Box">4</container>
+            <container id="aspace_7be0e45e4735a6e99573070a67382bec" parent="aspace_9d7e4988728c0af1481ed7315f986750" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_470350c3e8c22181724b7a8b4cacdd41" level="file">
+          <did>
+            <unittitle>Radio CPR 97.5 FM Traffic/Program Log</unittitle>
+            <unitdate normal="2002-01/2002-04" type="inclusive">January 2002 - April 2002</unitdate>
+            <container id="aspace_6891660a4875a4c78aa68b8fbc7e9d39" label="mixed materials" type="Box">4</container>
+            <container id="aspace_ab6f25d2ccbc8c0fb2d508257345ae87" parent="aspace_6891660a4875a4c78aa68b8fbc7e9d39" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_082daac9f52c237f528f3891aa070cbe" level="file">
+          <did>
+            <unittitle>Radio CPR 97.5 FM Traffic/Program Log</unittitle>
+            <unitdate normal="2002-04/2002-08" type="inclusive">April 2002 - August 2002</unitdate>
+            <container id="aspace_a5f3f20123e0008f38c05d2fc17c8995" label="mixed materials" type="Box">4</container>
+            <container id="aspace_9eaaec12d73f60a40cc01de5ef143c73" parent="aspace_a5f3f20123e0008f38c05d2fc17c8995" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_c23b429ba44c828a12948483f26ec2bd" level="file">
+          <did>
+            <unittitle>Radio CPR 97.5 FM Traffic/Program Log</unittitle>
+            <unitdate normal="2002-09/2002-12" type="inclusive">September 2002 - December 2002</unitdate>
+            <container id="aspace_4984053a20ffb5c88d99e2983c220b5c" label="mixed materials" type="Box">4</container>
+            <container id="aspace_e20fa02ce6707828b887ea2c94ca4718" parent="aspace_4984053a20ffb5c88d99e2983c220b5c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_060dd66f24b88d96613bc94d4c2d2b6c" level="file">
+          <did>
+            <unittitle>Radio CPR 97.5 FM Traffic/Program Log</unittitle>
+            <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_a4fcc7e1b8a837161c9bf6d777d7035a" label="mixed materials" type="Box">5</container>
+            <container id="aspace_a106f4163866fd09e2c4564a68a8a870" parent="aspace_a4fcc7e1b8a837161c9bf6d777d7035a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_4630abde860ce495b59f71b35955df62" level="file">
+          <did>
+            <unittitle>Radio CPR 97.5 FM Traffic/Program Log</unittitle>
+            <unitdate normal="2004-02/2004-04" type="inclusive">February 2004 - April 2004</unitdate>
+            <container id="aspace_1f7db3da88d60940faf0a511054cac4e" label="mixed materials" type="Box">5</container>
+            <container id="aspace_8cb818e3088306a2b0a7906e94bee297" parent="aspace_1f7db3da88d60940faf0a511054cac4e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_b853e4bbc63c3c05a0c910be7ed2fc9b" level="file">
+          <did>
+            <unittitle>Radio CPR 97.5 FM Traffic/Program Log</unittitle>
+            <unitdate normal="2004-05/2004-06" type="inclusive">May 2004 - June 2004</unitdate>
+            <container id="aspace_89b35bc8f6a5dbd71ac5f010a58537ac" label="mixed materials" type="Box">5</container>
+            <container id="aspace_eb332189bd10c52b86688a1269d6f8b2" parent="aspace_89b35bc8f6a5dbd71ac5f010a58537ac" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_16a03046933076be0879d0a8f7310b3e" level="file">
+          <did>
+            <unittitle>Radio CPR 97.5 FM Traffic/Program Log</unittitle>
+            <unitdate normal="2004-07/2004-09" type="inclusive">July 2004 - September 2004</unitdate>
+            <container id="aspace_2cea7fc397b1ff8ea36aea2ea1709dec" label="mixed materials" type="Box">5</container>
+            <container id="aspace_0e45c8cb18e16419300ee79436e82465" parent="aspace_2cea7fc397b1ff8ea36aea2ea1709dec" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_1f6435b77fe772391c96138da2d5218e" level="file">
+          <did>
+            <unittitle>Radio CPR 97.5 FM Traffic/Program Log</unittitle>
+            <unitdate normal="2004-10/2004-12" type="inclusive">October 2004 - December 2004</unitdate>
+            <container id="aspace_d636d512f93a8f88902853182297c57a" label="mixed materials" type="Box">5</container>
+            <container id="aspace_acf1d5533fa5ba948ca5a51962a0a1ce" parent="aspace_d636d512f93a8f88902853182297c57a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_9660a0ffe638ccc743a19c43c18292b6" level="file">
+          <did>
+            <unittitle>Radio CPR 97.5 FM Traffic/Program Log</unittitle>
+            <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_7cd6590672b33810bf551796f3230c87" label="mixed materials" type="Box">5</container>
+            <container id="aspace_8963b3c9b98b11588da69ed50cc1563e" parent="aspace_7cd6590672b33810bf551796f3230c87" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_65716c3e2f1eb18f8738f6fe95df17b4" level="file">
+          <did>
+            <unittitle>Radio CPR 97.5 FM Traffic/Program Log</unittitle>
+            <unitdate normal="2008/2008" type="inclusive">2008</unitdate>
+            <container id="aspace_23bebe68e168b3909cff92bdf9a5c275" label="mixed materials" type="Box">5</container>
+            <container id="aspace_e2c88ba54e0728b78f37527e36d6aa21" parent="aspace_23bebe68e168b3909cff92bdf9a5c275" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_baa950cbf10acf071b99a6e95c762b5d" level="file">
+          <did>
+            <unittitle>Certificates of Achievement for Radio Broadcasting/Photographs/Move Pa'lante Magazine</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_91062dce4f3bba6a820766288950bbfe" label="mixed materials" type="Box">6</container>
+            <container id="aspace_00c28520ea3a6f3a2f26c06dab290c99" parent="aspace_91062dce4f3bba6a820766288950bbfe" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_5c477b023930a703992421c830cf7e6a" level="file">
+          <did>
+            <unittitle>Mount Pleasant Broadcasting Club Petitions/Nov 2004 Program Calendar</unittitle>
+            <unitdate normal="2004/2004" type="inclusive">2004</unitdate>
+            <container id="aspace_2309ce4226141d7438b46fd1660039bd" label="mixed materials" type="Box">6</container>
+            <container id="aspace_15e57fbbabb7bdb3644e65ee5f1a8876" parent="aspace_2309ce4226141d7438b46fd1660039bd" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_eca6ce80b4f9c09f51d2b1669f3aa41e" level="file">
+          <did>
+            <unittitle>Transistor Diagrams</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_ce3811c30c1f2fc4ff907cb71f1b8024" label="mixed materials" type="Box">6</container>
+            <container id="aspace_c6f8ea81b67be89cebd1cfa82b46ec36" parent="aspace_ce3811c30c1f2fc4ff907cb71f1b8024" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_5e5456d126114f6c69d72a769380b878" level="file">
+          <did>
+            <unittitle>CPR Storybooth</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e36ad8b628dd9d452fb8c184d736b3d3" label="mixed materials" type="Box">6</container>
+            <container id="aspace_cbe8fddc095244cb29cc11bcf42f93d8" parent="aspace_e36ad8b628dd9d452fb8c184d736b3d3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_23bfe984c2c9a8eed33087d68b855ce7" level="file">
+          <did>
+            <unittitle>Understanding Radio Handouts</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_7050c30f8c273c766f03827d8a6fd20d" label="mixed materials" type="Box">6</container>
+            <container id="aspace_02a6cd6375d7e4553e919691195f9dfd" parent="aspace_7050c30f8c273c766f03827d8a6fd20d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_792724a4e73f5f96a2cbb08e931b6190" level="file">
+          <did>
+            <unittitle>CPR Contact Lists Feb 2006</unittitle>
+            <unitdate normal="2006/2006" type="inclusive">2006</unitdate>
+            <container id="aspace_b025af0d4958fc998c87976f310ed521" label="mixed materials" type="Box">6</container>
+            <container id="aspace_6c16d36792d44e5bba04737b0619d56a" parent="aspace_b025af0d4958fc998c87976f310ed521" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_c15e6c811ffe8cea58e5bb3c072c181b" level="file">
+          <did>
+            <unittitle>Benefit Shows</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b3d6206ebaacd00f7bab9572a8ae69cf" label="mixed materials" type="Box">7</container>
+            <container id="aspace_a1945df17056b23b63706cb695801953" parent="aspace_b3d6206ebaacd00f7bab9572a8ae69cf" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_f3ee7b4121f79d7c887019e106fe43ef" level="file">
+          <did>
+            <unittitle>Cabaret Del Barrio</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_43c597832dde1bb6ee48d6f382b3cdac" label="mixed materials" type="Box">7</container>
+            <container id="aspace_00a5e2d9a2e0ca5a3c3d0d14983395cd" parent="aspace_43c597832dde1bb6ee48d6f382b3cdac" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_149ed6100ccb6ddc4efd43ab96aae5ae" level="file">
+          <did>
+            <unittitle>Christmas Eve Sacred Heart Dinners</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_9162e535b3a6b8050f93ccc9e505c330" label="mixed materials" type="Box">7</container>
+            <container id="aspace_69ab51eb07ea122884e63554e49b8f97" parent="aspace_9162e535b3a6b8050f93ccc9e505c330" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_2975457917e5d189d94958dcdf61ec1f" level="file">
+          <did>
+            <unittitle>DJ Show Fliers</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_10147db5fa30de2273f4d73c59fdac8c" label="mixed materials" type="Box">7</container>
+            <container id="aspace_7386f450ec45645e1fdb4e15c066a6ec" parent="aspace_10147db5fa30de2273f4d73c59fdac8c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_d4bc39ab7912c30cc0f5a23a21315193" level="file">
+          <did>
+            <unittitle>Economic Human Rights Campaign/Cheri Honkala</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_1f808c8c4fa780271f03235961307a57" label="mixed materials" type="Box">7</container>
+            <container id="aspace_2e90078e3259fb4906ee5aa308011b88" parent="aspace_1f808c8c4fa780271f03235961307a57" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_f170918b5b8f010977fe221d6823d2eb" level="file">
+          <did>
+            <unittitle>First Broadcast</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5e289391507ff00004730bf61ea686d6" label="mixed materials" type="Box">7</container>
+            <container id="aspace_0e8ca66b2c947aee08d3de57373b937e" parent="aspace_5e289391507ff00004730bf61ea686d6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_e0ec9648039dccfb863aa1b9e417a488" level="file">
+          <did>
+            <unittitle>Lamont Street Halloween</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_077d40b374e582388ef762754ea2e746" label="mixed materials" type="Box">7</container>
+            <container id="aspace_871d7cf83555938d0c15eeec1b601bbc" parent="aspace_077d40b374e582388ef762754ea2e746" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_c6e3b9bddfa764c980fcaaf5d991b579" level="file">
+          <did>
+            <unittitle>MBC, etc.</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5505e32816715e45755f71af015eeb9a" label="mixed materials" type="Box">7</container>
+            <container id="aspace_6b44d2034e6bfeb247e6b17c0a7a6f69" parent="aspace_5505e32816715e45755f71af015eeb9a" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_cdceea0859f9e544fbdad5bc683f1785" level="file">
+          <did>
+            <unittitle>Mount Pleasant Festival - Youth Stage</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3061797ccc22b189314458ca0e37cf4b" label="mixed materials" type="Box">7</container>
+            <container id="aspace_7b94d2f1eed07deea593b0439dafff26" parent="aspace_3061797ccc22b189314458ca0e37cf4b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_1156f6d8bd93b77f991820b5a09d0a4f" level="file">
+          <did>
+            <unittitle>Photos of DJs</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_0569346edac7ce41dbaaaa529a567677" label="mixed materials" type="Box">7</container>
+            <container id="aspace_1f45186a405da340503a8130dd176e3e" parent="aspace_0569346edac7ce41dbaaaa529a567677" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_9ab72442ba897a15edd38d6a361e4119" level="file">
+          <did>
+            <unittitle>Protests</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_8845f5a38753a55c9e7a71fabc86defa" label="mixed materials" type="Box">7</container>
+            <container id="aspace_b7bf2a227d4de7de87a5180e05fe5497" parent="aspace_8845f5a38753a55c9e7a71fabc86defa" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_6c4ecacedb18cde9db3ce9e481f16384" level="file">
+          <did>
+            <unittitle>Schedules</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_0235e97ef147466265c6b6c77972082d" label="mixed materials" type="Box">7</container>
+            <container id="aspace_07994b849a9b923a045d3063018e455b" parent="aspace_0235e97ef147466265c6b6c77972082d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_6a0fb9bf17217a4f6317546a26ee31cf" level="file">
+          <did>
+            <unittitle>Stand for our Neighbors</unittitle>
+            <unitdate normal="1997/1999" type="inclusive">1997-1999</unitdate>
+            <container id="aspace_0719838220b6f9a71f43b0a31a2d7b43" label="mixed materials" type="Box">7</container>
+            <container id="aspace_b916435483e7e14d5c72e07b9232a94a" parent="aspace_0719838220b6f9a71f43b0a31a2d7b43" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_0108a9256a3120966154fb7bb6c292ba" level="file">
+          <did>
+            <unittitle>YARG Youth Radio</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_41c36b0f7a990212f007c712f9f04834" label="mixed materials" type="Box">7</container>
+            <container id="aspace_e91432d8c4a803949d140bd91ddfa04e" parent="aspace_41c36b0f7a990212f007c712f9f04834" type="Folder">14</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

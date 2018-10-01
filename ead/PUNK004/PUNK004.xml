@@ -1,0 +1,511 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">klein.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Klein (Melissa) Collection</titleproper>
+        <titleproper>Melissa Klein <num>PUNK004</num> <num>PUNK004</num></titleproper>
+        <subtitle>An inventory of Melissa Klein at DC Public Library</subtitle>
+        <author>Finding aid prepared by Paul Kelly.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Stage</publisher>
+        <p>
+          <date>2017-10-04</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-01 15:00:59 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Stage</corpname>
+      </repository>
+      <unittitle>Melissa Klein Collection</unittitle>
+      <unitid>PUNK004</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 boxes</extent>
+      </physdesc>
+      <unitdate normal="1982/2002" type="inclusive">1982-2002</unitdate>
+      <langmaterial id="aspace_a3d2632d238232f080bd5439e2184f34">English</langmaterial>
+      <langmaterial id="aspace_9ca27ab8e177984735a3138fa0bc18b6">English</langmaterial>
+    </did>
+    <dsc>
+      <c id="aspace_66516319ecad25ec080fd481e176e00e" level="series">
+        <did>
+          <unittitle>Series 1: Zines</unittitle>
+        </did>
+        <c id="aspace_f98e03333fe4a789e02269380dd046dc" level="file">
+          <did>
+            <unittitle>Another Lo-fi Xtravaganza by Smith, Jen, Olympia, WA</unittitle>
+            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_00e78d078947065184f2492cd7c7726d" label="mixed materials" type="Box">3</container>
+            <container id="aspace_338161cbf7d8b756a283e6df9cc4644b" parent="aspace_00e78d078947065184f2492cd7c7726d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_422d57c0d0dc1b9f309bca43383eab49" level="file">
+          <did>
+            <unittitle>April Fool's Day by Hanna, Kathleen, Olympia, WA</unittitle>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_54dfc395df89e18f9d67d80456b145b3" label="mixed materials" type="Box">3</container>
+            <container id="aspace_b50d734d141f022801ff97879706129b" parent="aspace_54dfc395df89e18f9d67d80456b145b3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_cd108cdc1e9e83ad1ad3d9f72e10bd91" level="file">
+          <did>
+            <unittitle>Back by Nelson, Mark; Nelson, Ryan; Cynthia Connolly; Cristina Calle; Denno; Moats, Charlie; Lam Carlyle, Kim; Cinca, Shelby; Yeats, W.B.; MacDonnell, Katharine; , Washington, DC</unittitle>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_6aab3e6851c3c353752dec61b9782051" label="mixed materials" type="Box">3</container>
+            <container id="aspace_90e3ef1f67ecac1a1c96275bcc814847" parent="aspace_6aab3e6851c3c353752dec61b9782051" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_d688bba827c661289c05a5919603e73b" level="file">
+          <did>
+            <unittitle>Best of Dipper by Shaw, Dale, Washington, DC</unittitle>
+            <unitdate normal="1990/1993" type="inclusive">1990-1993</unitdate>
+            <container id="aspace_e954b4ee55062b230aa83ec4e4f59205" label="mixed materials" type="Box">3</container>
+            <container id="aspace_3e1bbcf9fd2995bb5bbe603cd3a94bd1" parent="aspace_e954b4ee55062b230aa83ec4e4f59205" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_c2095555ce9e88f98e418086efe1d83e" level="file">
+          <did>
+            <unittitle>Bikini Kill A Color and Activity Book by Bikini Kill, Olympia, WA</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c89a8ea251dc4f3c03e8eee1a0c6323e" label="mixed materials" type="Box">3</container>
+            <container id="aspace_4d114e1f61091e77212ee5b22ec08957" parent="aspace_c89a8ea251dc4f3c03e8eee1a0c6323e" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_69593261706b19050cfae7bf4676b404" level="file">
+          <did>
+            <unittitle>Brickthrower #2 by Brickthrower; The Stigmatics, Washington, DC</unittitle>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_511b11ab0d7061cb220ae92fd0c8f8a7" label="mixed materials" type="Box">3</container>
+            <container id="aspace_444e9d1364b65e71cf629546531e5f07" parent="aspace_511b11ab0d7061cb220ae92fd0c8f8a7" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_311f3da3c2ba8160e2c0aee3349f5cc3" level="file">
+          <did>
+            <unittitle>Brickthrower #3 by Brickthrower, Washington, DC</unittitle>
+            <unitdate normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_7fe47c3cbecd75b49846c6085926f5f0" label="mixed materials" type="Box">3</container>
+            <container id="aspace_71cd9c434d63cd39305f6fd7b509f2e3" parent="aspace_7fe47c3cbecd75b49846c6085926f5f0" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_9ac0fa19babc645d3ae16a7348089024" level="file">
+          <did>
+            <unittitle>Fantastic Fanzine #6 by Erika Maria, Chicago, IL</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_94f0480bdf7da871affc1a299a08487b" label="mixed materials" type="Box">3</container>
+            <container id="aspace_c8e22de57cfe52874c4a073ece220db8" parent="aspace_94f0480bdf7da871affc1a299a08487b" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_31b2724472cb3289abf7352d73c9ba4e" level="file">
+          <did>
+            <unittitle>Flamer! by Flamer</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_96d97c70a67ac7fbc11407d191efb2b0" label="mixed materials" type="Box">3</container>
+            <container id="aspace_f90c0d0e2ad56225b305146105f9ad21" parent="aspace_96d97c70a67ac7fbc11407d191efb2b0" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_262d83f859ec7a93d490d83d7026a312" level="file">
+          <did>
+            <unittitle>Flamer! by Flamer</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d1c6f47bb2da61a1e82508d77221e174" label="mixed materials" type="Box">3</container>
+            <container id="aspace_23e7b626522741162c983b5baeccc3a0" parent="aspace_d1c6f47bb2da61a1e82508d77221e174" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_371ef5190a8eec22e53d8ae82630964c" level="file">
+          <did>
+            <unittitle>Girl Germs The Glory on Highway 69 by Girl Germs, Olympia, Wa</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_9017574c48a4289ed85302de752fb5ac" label="mixed materials" type="Box">3</container>
+            <container id="aspace_e93d61f13384051c632f85970d61e18b" parent="aspace_9017574c48a4289ed85302de752fb5ac" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_6af270de8fe3a87f0a24688f385d0a1a" level="file">
+          <did>
+            <unittitle>Hello Friends: Quail Season #2 by The Quails, San Francisco, CA</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_8f26e2eba64e39630886ce22a3d9d0f5" label="mixed materials" type="Box">3</container>
+            <container id="aspace_e378d04d2fa750c83f710fa1b7e2d21e" parent="aspace_8f26e2eba64e39630886ce22a3d9d0f5" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_4f96ebd991debb7d8db6e31846137784" level="file">
+          <did>
+            <unittitle>Hello Friends: Quail Season #3 by The Quails, San Francisco, CA</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3bfdda1516095736ca8513e40246416d" label="mixed materials" type="Box">3</container>
+            <container id="aspace_9a80a25a997c0373d235448e4e87edf9" parent="aspace_3bfdda1516095736ca8513e40246416d" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_9e0e7fd0a82643e67676fd574e5386ec" level="file">
+          <did>
+            <unittitle>Hello Friends: Quail Season #5 by The Quails, San Francisco, CA</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_15b7c711069890802fbcbb7b117b0008" label="mixed materials" type="Box">3</container>
+            <container id="aspace_0bcc8c6b46b65fbbe50bbeb751720177" parent="aspace_15b7c711069890802fbcbb7b117b0008" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_6e77b331aa81a852562bda705f026336" level="file">
+          <did>
+            <unittitle>If This Goes On #3 by If This Goes On, Bethesda, MD</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_9b5d31e8ea09f1d0b85d423c0b3c6fe3" label="mixed materials" type="Box">3</container>
+            <container id="aspace_3efa248e5ca23c1741eb9d58ab1d4715" parent="aspace_9b5d31e8ea09f1d0b85d423c0b3c6fe3" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_d714cc157d054dff138adfac3b22358f" level="file">
+          <did>
+            <unittitle>Interrobang by Cheslow, Sharon , Washington, DC</unittitle>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_9a3f879d5c6d19882d3db57427a44f8e" label="mixed materials" type="Box">3</container>
+            <container id="aspace_08f2b8a13c37ccb0a5d61ef6a5083ec3" parent="aspace_9a3f879d5c6d19882d3db57427a44f8e" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_5dc1115d067c503b223ceb02abc1a316" level="file">
+          <did>
+            <unittitle>Jigsaw #3 by Jigsaw Fanzine, Olympia, Wa</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_7d2eb0de4ac53ad3e7fb2928e536f208" label="mixed materials" type="Box">3</container>
+            <container id="aspace_6b6d27c07b3e44eea0fc7e053f1984cd" parent="aspace_7d2eb0de4ac53ad3e7fb2928e536f208" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_da5707c7660be4daad2fcfa719634837" level="file">
+          <did>
+            <unittitle>Lady Luck by Thompson, Kim, Washington, DC</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_6157bfa40f5d6d945193b44ebfa94ce9" label="mixed materials" type="Box">3</container>
+            <container id="aspace_ab3dcfa349bae2cab87698d6844ce6cc" parent="aspace_6157bfa40f5d6d945193b44ebfa94ce9" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_299b5384fbf69c0e7c9ef6e0cf9478b9" level="file">
+          <did>
+            <unittitle>The Most Beautiful Girl Is A Dead girl by Fingers, Maggie,</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_c9457c3f1b0fb7a463460ef734b110b2" label="mixed materials" type="Box">3</container>
+            <container id="aspace_c8fc9a295f5cf92f9f253a99bbe4d32d" parent="aspace_c9457c3f1b0fb7a463460ef734b110b2" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_0e1bd2981d762bea3a5ec2ae87d81846" level="file">
+          <did>
+            <unittitle>The Quails Tour Diary by Julianna Bright, San Francisco, CA</unittitle>
+            <unitdate normal="2004/2004" type="inclusive">2004</unitdate>
+            <container id="aspace_70b5a4bac9ecd6f2ac9ad7295c4e924a" label="mixed materials" type="Box">3</container>
+            <container id="aspace_e79c9b593b8c261b6e2ebcd0ba0ffc01" parent="aspace_70b5a4bac9ecd6f2ac9ad7295c4e924a" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_870cc3cc7a9c720418a12b005cb1e608" level="file">
+          <did>
+            <unittitle>Quit Whining #1 by Margaret, Bethesda, MD; S. Hadley, MA</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_eb0b4a6c08e4ea55051c2fd37b471693" label="mixed materials" type="Box">3</container>
+            <container id="aspace_911792b56bba92fdfb1b40f6c266c5c5" parent="aspace_eb0b4a6c08e4ea55051c2fd37b471693" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_4d92f2c97f020e497a59a3ed113a5e51" level="file">
+          <did>
+            <unittitle>Red Rover #1 by Smith, Jen, Washington, DC</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_a4afe057e857036a2d79d0d68672080c" label="mixed materials" type="Box">3</container>
+            <container id="aspace_139a733fad1915a4009b2bcf15cd77f1" parent="aspace_a4afe057e857036a2d79d0d68672080c" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_20e07e77a4f96f1e34458a8b7cd3def5" level="file">
+          <did>
+            <unittitle>Red Rover #2 by Smith, Jen, Washington, DC</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_8e63b7cc6ef5d96dd002aea5a97f92fc" label="mixed materials" type="Box">3</container>
+            <container id="aspace_d68355d1e093b72b5dd87c8e4cc07a49" parent="aspace_8e63b7cc6ef5d96dd002aea5a97f92fc" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_42be879746f661a5d65c28d00bc79eb9" level="file">
+          <did>
+            <unittitle>Red Rover #4 by Smith, Jen, Olympia, WA</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_170ad35ece093fdb1e3a277e06ac7f2c" label="mixed materials" type="Box">3</container>
+            <container id="aspace_5d226edae76a6908094e6f949a263469" parent="aspace_170ad35ece093fdb1e3a277e06ac7f2c" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_96d9d396daef1b0debcf80b4cf9494de" level="file">
+          <did>
+            <unittitle>Riot Grrrl #3 by Neuman, Molly, Washington, DC</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_0d5f9fc06476f05d5b589c7857a437f5" label="mixed materials" type="Box">3</container>
+            <container id="aspace_b9408e5298b5e661ffd0722a091344d3" parent="aspace_0d5f9fc06476f05d5b589c7857a437f5" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_75575c8df8b7ff8f489438d5fc4ac1d3" level="file">
+          <did>
+            <unittitle>Riot Grrrl #5 by Neuman, Molly, Arlington, VA</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f4ee22cdf9783cd3cee5958d430991a7" label="mixed materials" type="Box">3</container>
+            <container id="aspace_9457642006435e6bebb61873188329c9" parent="aspace_f4ee22cdf9783cd3cee5958d430991a7" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_021e787cd5234a37d1d07457f8db910c" level="file">
+          <did>
+            <unittitle>Riot Grrrl #6 by Neuman, Molly, Washington, DC</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_269ec2fa525e99bd2121056cafdd02a3" label="mixed materials" type="Box">3</container>
+            <container id="aspace_422a186e7a74fd036252ec641b0c47dd" parent="aspace_269ec2fa525e99bd2121056cafdd02a3" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_95a4ec3f7a84a820224ffaf1d0b1e0da" level="file">
+          <did>
+            <unittitle>Riot Grrrl #1 by Neuman, Molly, Washington, DC</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_0a95d5370cb01c1fcb46827da8cd4269" label="mixed materials" type="Box">3</container>
+            <container id="aspace_f6bb0ce4ce14da440196040cae0c0608" parent="aspace_0a95d5370cb01c1fcb46827da8cd4269" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_11143b35f0766b5673f7d1ec14acce20" level="file">
+          <did>
+            <unittitle>Riot Grrrl! New England #1 by Rooks, Margaret; Allie, South Hadley, MA</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_cee4db300385b917b3305bfbd4d4dbdf" label="mixed materials" type="Box">3</container>
+            <container id="aspace_9fa4b048427155034c1ac7f4324f9947" parent="aspace_cee4db300385b917b3305bfbd4d4dbdf" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_455a17ca5707da95cbc2eecaf8e0a339" level="file">
+          <did>
+            <unittitle>Riot Grrrl! A Valley Girl Production #2 by Wilson, Jessica; Allie; Rooks, Margaret; Smith, Sara; Magruder, Jenna; Gallahorn, Jen; Katsikas, Colette, Northampton, MA</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_d92895f013870d5c39037728f861d721" label="mixed materials" type="Box">3</container>
+            <container id="aspace_46c0239adaf4bdc41ef74dd72b82d745" parent="aspace_d92895f013870d5c39037728f861d721" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ebab6811aac417cd0fccb7d01bb80fac" level="file">
+          <did>
+            <unittitle>Riot Grrrl A Benefit for DC's Battered Women's Shelters by Sherry; Kris; Debbie; Susan, Washington, DC</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_7ec28c4b2f31e523b188a98244de857b" label="mixed materials" type="Box">3</container>
+            <container id="aspace_d4c9ce94beb943adc3360c0d5c9dbaad" parent="aspace_7ec28c4b2f31e523b188a98244de857b" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_888550060e2346160f2ba0b128df21ec" level="file">
+          <did>
+            <unittitle>Serious Headgear by Charmiec, Pete,</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_64127b0f33de4cc757b245b1bd4d2cf5" label="mixed materials" type="Box">3</container>
+            <container id="aspace_5a4d171c9ba4abbc7fcf009fafeee24a" parent="aspace_64127b0f33de4cc757b245b1bd4d2cf5" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_1576623b14d1caebc050eb2d9ea6e418" level="file">
+          <did>
+            <unittitle>Soul Notes 1: heroes..., past. by Thomas, N., Seattle, WA</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d10846a2fff4a02505e0f1189a42021f" label="mixed materials" type="Box">3</container>
+            <container id="aspace_650e1d8f1e0cd0f5ada653695534669f" parent="aspace_d10846a2fff4a02505e0f1189a42021f" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_64f26548f4f26096e47c8cd90ab89809" level="file">
+          <did>
+            <unittitle>Teen Fag #3 by Chow Chow Productions, Seattle, WA</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_509c0087b8be6cf7a3068e745529d6d3" label="mixed materials" type="Box">3</container>
+            <container id="aspace_7cb0d764bb19553f603cd6cca29c7d03" parent="aspace_509c0087b8be6cf7a3068e745529d6d3" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_5db9aba1933df7dc3fbbeffaba344ff8" level="file">
+          <did>
+            <unittitle>Teen Fag #4 by Chow Chow Productions, Seattle, WA</unittitle>
+            <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_3be0c3b2ce5969a727078ad211336bff" label="mixed materials" type="Box">3</container>
+            <container id="aspace_da2fed9093290ca4d66e953f8848284f" parent="aspace_3be0c3b2ce5969a727078ad211336bff" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_bed4e08a8d5def77e2ebd8b70e68589d" level="file">
+          <did>
+            <unittitle>Teen Fag #5 by Chow Chow Productions, Seattle, WA</unittitle>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_89969b99db76bfbd881384770df80d20" label="mixed materials" type="Box">3</container>
+            <container id="aspace_2ba9e171dfe56d6ebdb48a11538d6ec5" parent="aspace_89969b99db76bfbd881384770df80d20" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_b789d9a74169a6130322a39c7c4ce886" level="file">
+          <did>
+            <unittitle>Turn Around Issue II by Thomas, Jenn; Seltzer, Dave, Silver Spring, MD</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_705325f752b18fa6d7803c9bb5cc7951" label="mixed materials" type="Box">3</container>
+            <container id="aspace_cb5cbac4d170e341c927a6a3dcdc5d3a" parent="aspace_705325f752b18fa6d7803c9bb5cc7951" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_d92679466ec726d2c9a46d3f749e26ac" level="file">
+          <did>
+            <unittitle>Untitled [Hi, this is me, Becky] by Becky</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_84a7b024093296aedeb96bace553130b" label="mixed materials" type="Box">3</container>
+            <container id="aspace_db80f4c2184a0529ea92af8613d35de7" parent="aspace_84a7b024093296aedeb96bace553130b" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_cf5c2630fd395a3d2214a27663fe93ff" level="file">
+          <did>
+            <unittitle>Vigil No. 2 by Zipp, Sandy, San Francisco, CA</unittitle>
+            <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_beaaafd35c56655cf529e74542f1968d" label="mixed materials" type="Box">3</container>
+            <container id="aspace_0534755abfd196c6529b87184ae9118c" parent="aspace_beaaafd35c56655cf529e74542f1968d" type="Folder">39</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_a312c168754c2c2e4bfea6873f8d13e8" level="series">
+        <did>
+          <unittitle>Series 2: Printed Materials</unittitle>
+        </did>
+        <c id="aspace_97ebc4a32a270c46cb623109d9c1b70e" level="file">
+          <did>
+            <unittitle>Fliers, Record insert</unittitle>
+            <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_c839fa14d7b0ab0536587b27511fb4b4" label="mixed materials" type="Box">3</container>
+            <container id="aspace_8b571367fe4372b1194aef05524844fc" parent="aspace_c839fa14d7b0ab0536587b27511fb4b4" type="Folder">40</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_002ce01c4913d88f7db3fd0a87573cad" level="series">
+        <did>
+          <unittitle>Series 3: Records</unittitle>
+        </did>
+        <c id="aspace_1e8a3c6d03b365e2df3075f621bdd76f" level="file">
+          <did>
+            <unittitle>Autoclave by Autoclave</unittitle>
+            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_954ab13d4658d490c1d9f3d31bdfc08d" label="mixed materials" type="Box">4</container>
+            <container id="aspace_9072894288bb3207ae805eb3853b8d16" parent="aspace_954ab13d4658d490c1d9f3d31bdfc08d" type="Folder">1</container>
+          </did>
+          <scopecontent id="aspace_6ca7ed8c9b3be06d04da96cb1788c786">
+            <head>Scope and Contents</head>
+            <p>Label: Dischord Records / Mira Records</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_3b61ef25365d13b9a0e9c8ac842c7168" level="file">
+          <did>
+            <unittitle>King Face by King Face</unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_916574651241c0096c3fca43aa904da7" label="mixed materials" type="Box">4</container>
+            <container id="aspace_24393999f9777c5d948fe10f1982499e" parent="aspace_916574651241c0096c3fca43aa904da7" type="Folder">2</container>
+          </did>
+          <scopecontent id="aspace_02a870b0734cd293ed48757581eebdc9">
+            <head>Scope and Contents</head>
+            <p>Label: self-released</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_e442288f214a3e7686feec758e96cdba" level="file">
+          <did>
+            <unittitle>Fugazi by Fugazi</unittitle>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_f1fb29ad35b3a15c7be492a513870bf0" label="mixed materials" type="Box">4</container>
+            <container id="aspace_dc48c0549b11334a00283fa2f90d0d6c" parent="aspace_f1fb29ad35b3a15c7be492a513870bf0" type="Folder">3</container>
+          </did>
+          <scopecontent id="aspace_80d1f10609ff9f1fcbce4210408d1475">
+            <head>Scope and Contents</head>
+            <p>Label: Dischord Records</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_d425de5f5f1cf05f2e1f4039410323e6" level="file">
+          <did>
+            <unittitle>Rites of Spring by Rites of Spring</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_9a1945cac2e5f45e72a9e075cc32e5cb" label="mixed materials" type="Box">4</container>
+            <container id="aspace_6afc1df4f30f44b99291169b743e789d" parent="aspace_9a1945cac2e5f45e72a9e075cc32e5cb" type="Folder">4</container>
+          </did>
+          <scopecontent id="aspace_16276aec65c10c42859a32eb996e901c">
+            <head>Scope and Contents</head>
+            <p>Label: Dischord Records</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_5ab44ddbea252e0accee3cb176f9e1b5" level="file">
+          <did>
+            <unittitle>Flex Your Head by Various Artists</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_1bd957790b6738e98329e9479f6040f2" label="mixed materials" type="Box">4</container>
+            <container id="aspace_a3b6bd15b1fa8b6ea34d92b93cfb8e2d" parent="aspace_1bd957790b6738e98329e9479f6040f2" type="Folder">5</container>
+          </did>
+          <scopecontent id="aspace_c1cd5d065b62fe0cb267e99b4d6716eb">
+            <head>Scope and Contents</head>
+            <p>Label: Dischord Records</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_1bdab27e7d357a5f82cdb7d49d8fa7e2" level="file">
+          <did>
+            <unittitle>Post-Humorous Relief by Vile Cherubs</unittitle>
+            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_0562a32f3d62b80b63888402f952e838" label="mixed materials" type="Box">4</container>
+            <container id="aspace_9d633b395f85a7ae403b7c3ce0ec71c7" parent="aspace_0562a32f3d62b80b63888402f952e838" type="Folder">6</container>
+          </did>
+          <scopecontent id="aspace_ac8260cdbe2657a7f31ee08bd4e128cd">
+            <head>Scope and Contents</head>
+            <p>Label: Dischord Records / Cherubic Delusions</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_6d0673df0412331706469548a3513607" level="file">
+          <did>
+            <unittitle>Repeater by Fugazi</unittitle>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_92160f67b67396addb79a602744e2d01" label="mixed materials" type="Box">4</container>
+            <container id="aspace_db8b252a2648b7e442904db89b7117d8" parent="aspace_92160f67b67396addb79a602744e2d01" type="Folder">7</container>
+          </did>
+          <scopecontent id="aspace_8b9014936408dba19f6793ed088a28bf">
+            <head>Scope and Contents</head>
+            <p>Label: Dischord Records</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_eb1a7b112decaa0ada9c35272767d0b8" level="file">
+          <did>
+            <unittitle>Madhouse by Madhouse</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_2d9b4b8949412cdbd02dbc1693f8ca5d" label="mixed materials" type="Box">4</container>
+            <container id="aspace_6ba3ce520faaa91175ce8cc58882a14c" parent="aspace_2d9b4b8949412cdbd02dbc1693f8ca5d" type="Folder">8</container>
+          </did>
+          <scopecontent id="aspace_17136373533975f44ac3952b43a74cbb">
+            <head>Scope and Contents</head>
+            <p>Label: Fountain of Youth Records</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_26da4b83f10eb2233511032c31b3d1af" level="file">
+          <did>
+            <unittitle>Less Deep Inside Keeps by Soulside</unittitle>
+            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_985ac051f3caa0b81bec8c7ac05895b4" label="mixed materials" type="Box">4</container>
+            <container id="aspace_7da0c39ebfcf783a60c4c97a1f6cb650" parent="aspace_985ac051f3caa0b81bec8c7ac05895b4" type="Folder">9</container>
+          </did>
+          <scopecontent id="aspace_d9f8c8cfe331368db6cdb35030aa3aaf">
+            <head>Scope and Contents</head>
+            <p>Label: Dischord Records / Sammich Records</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_dbe4d307236585412101ddbbd02e4960" level="file">
+          <did>
+            <unittitle>Subject to Change by Faith</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_d3b45e4ade10a20f87e767ffc340dc6a" label="mixed materials" type="Box">4</container>
+            <container id="aspace_2eeec9df4602e6f6d69eb8b87f534c41" parent="aspace_d3b45e4ade10a20f87e767ffc340dc6a" type="Folder">10</container>
+          </did>
+          <scopecontent id="aspace_d2819236dcbdad2ce9f1bec3a15beb26">
+            <head>Scope and Contents</head>
+            <p>Label: Dischord Records</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_d8cad338f4f9178c64a9608db43924a2" level="file">
+          <did>
+            <unittitle>Minor Threat by Minor Threat</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_e316153edb3a8c6fb1174bcdb0f73c35" label="mixed materials" type="Box">4</container>
+            <container id="aspace_846757a138f49b8c4280312d92ec052a" parent="aspace_e316153edb3a8c6fb1174bcdb0f73c35" type="Folder">11</container>
+          </did>
+          <scopecontent id="aspace_3c80519f8fa892a40bbce14de738a939">
+            <head>Scope and Contents</head>
+            <p>Label: Dischord Records</p>
+          </scopecontent>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

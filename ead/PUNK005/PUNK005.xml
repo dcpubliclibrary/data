@@ -1,0 +1,732 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">klirs.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Klirs (Carni) Collection</titleproper>
+        <titleproper>Carni Klirs <num>PUNK005</num> <num>PUNK005</num></titleproper>
+        <subtitle>An inventory of Carni Klirs at DC Public Library</subtitle>
+        <author>Finding aid prepared by Paul Kelly.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Stage</publisher>
+        <p>
+          <date>2017-10-04</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-01 15:01:07 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Stage</corpname>
+      </repository>
+      <unittitle>Carni Klirs Collection</unittitle>
+      <unitid>PUNK005</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 boxes</extent>
+      </physdesc>
+      <unitdate normal="2002/2009" type="inclusive">2002-2009</unitdate>
+      <langmaterial id="aspace_bb156dc4a4dd28e04abf46922e531206">English</langmaterial>
+      <langmaterial id="aspace_8b8e0f4d16850d7fd9c0c1b49fc9f1d6">English</langmaterial>
+    </did>
+    <dsc>
+      <c id="aspace_5c2b3776970ccef89d61a8016f73a50b" level="series">
+        <did>
+          <unittitle>Series 1: Printed Materials</unittitle>
+        </did>
+        <c id="aspace_ae2ef34f7131d86de3c689887ebede5d" level="subseries">
+          <did>
+            <unittitle>Subseries 1: Fliers - Concerts - DC Venues</unittitle>
+          </did>
+          <c id="aspace_96ccb17b3eb51a7988b97dfd395b638b" level="file">
+            <did>
+              <unittitle>A-L</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_71e9b04c3baea443a8e0e6a1dca8556b" label="mixed materials" type="Box">1</container>
+              <container id="aspace_8ca71ca156f0231338655c000ba9e9f8" parent="aspace_71e9b04c3baea443a8e0e6a1dca8556b" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_e31aca9848e7fbbbf5a550cef1d7dd45" level="file">
+            <did>
+              <unittitle>M-Z</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_24c26f818e6f0586f8fc6df12fdec540" label="mixed materials" type="Box">1</container>
+              <container id="aspace_c531ab655ff4dfd4f2601c4348373888" parent="aspace_24c26f818e6f0586f8fc6df12fdec540" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_33ce23313b40258ca63bdb4c511db833" level="file">
+            <did>
+              <unittitle>Alfishaway Cafe / People's Media Center</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_70c51a52522edcbfed0d5b338775eb09" label="mixed materials" type="Box">1</container>
+              <container id="aspace_d7920898279edef40379a62710474ed5" parent="aspace_70c51a52522edcbfed0d5b338775eb09" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_5e0634cc6fe8db0cc483849a27ae6bf5" level="file">
+            <did>
+              <unittitle>American University / Kay Spiritual Center</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_684386496fbcb77fc00a0200a5fa6fdb" label="mixed materials" type="Box">1</container>
+              <container id="aspace_1cd27bf2dbb1980b1fdbd61ae0e1da33" parent="aspace_684386496fbcb77fc00a0200a5fa6fdb" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_2406f00326f1e4c2f207ced68ff9fcb6" level="file">
+            <did>
+              <unittitle>Bervin Haus / Bervin House</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_03a01717f1e4cdf347f6e5daa3e109ec" label="mixed materials" type="Box">1</container>
+              <container id="aspace_8d842e63e91d2ec1398ef8eb3baf6036" parent="aspace_03a01717f1e4cdf347f6e5daa3e109ec" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_3f6e75f835e250ae618723aeaf7172a7" level="file">
+            <did>
+              <unittitle>Black Cat, The</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_94fd27d420027fa8d2df6f31a46f1283" label="mixed materials" type="Box">1</container>
+              <container id="aspace_a910525b258e008b8f7d0571d7f32f65" parent="aspace_94fd27d420027fa8d2df6f31a46f1283" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_9cc04f9d4de224a69b42562353bf6aae" level="file">
+            <did>
+              <unittitle>Bobby Fisher Memorial Building</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_c2bd6034ba2231ea97b18411c695731c" label="mixed materials" type="Box">1</container>
+              <container id="aspace_649882b4851fed5d3762c3067376427d" parent="aspace_c2bd6034ba2231ea97b18411c695731c" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_3abf53d77aa011c7ccd59e97ef75a89f" level="file">
+            <did>
+              <unittitle>Brian Mackenzie Infoshop</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_6629fefa33732c7572478b50d960486d" label="mixed materials" type="Box">1</container>
+              <container id="aspace_0346d84efc6824b009a929ec24f0cad2" parent="aspace_6629fefa33732c7572478b50d960486d" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_a8867f749ef70cd1eb0086f4d7282a61" level="file">
+            <did>
+              <unittitle>Casa, La</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_e9dede9190bc4f780ccffde755521a4b" label="mixed materials" type="Box">1</container>
+              <container id="aspace_911cb754ef42cbc9e467feb49ac06e44" parent="aspace_e9dede9190bc4f780ccffde755521a4b" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_f5e4533736dd1d1008f405c61aee5fdb" level="file">
+            <did>
+              <unittitle>Electric Maid</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_c3d8a431ac1aefb1ea87cb69b8fbe5ca" label="mixed materials" type="Box">1</container>
+              <container id="aspace_e9a3ca1ef6e41038f5575d082f7adeac" parent="aspace_c3d8a431ac1aefb1ea87cb69b8fbe5ca" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_713171f8ad372e3aa3e86fef2a6212b9" level="file">
+            <did>
+              <unittitle>Eternal Life</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_b4439913d240b68730a596cc0573262e" label="mixed materials" type="Box">1</container>
+              <container id="aspace_465a2bdb400d51744f6a57b66ee5692d" parent="aspace_b4439913d240b68730a596cc0573262e" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_bda2e7dee2c3e4dd7a477afbdda42f82" level="file">
+            <did>
+              <unittitle>Flemming Center</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_49c04b56002948174b2d5b507b5f2850" label="mixed materials" type="Box">1</container>
+              <container id="aspace_d763108dbca18631a4b901aa0b39903f" parent="aspace_49c04b56002948174b2d5b507b5f2850" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_1ba92240b0b2907ad5a0f38680f1f39d" level="file">
+            <did>
+              <unittitle>Fort Reno</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_c8127ff875d4962f5f86fc3e59230121" label="mixed materials" type="Box">1</container>
+              <container id="aspace_6edac810e49b83681ba8c16152fd39f1" parent="aspace_c8127ff875d4962f5f86fc3e59230121" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_3158a6c7d9c4f147c69ac888c5ba6ec0" level="file">
+            <did>
+              <unittitle>Girl Cave</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_fad5482250097d02d188bba06a16a6fd" label="mixed materials" type="Box">1</container>
+              <container id="aspace_03287cb32f4fdc06d738b7bdb20b36b6" parent="aspace_fad5482250097d02d188bba06a16a6fd" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_47190cefb8489bf3c5ccd846683579f4" level="file">
+            <did>
+              <unittitle>Not a Squat</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_a16d603dc7a589f344078c65d88aeac1" label="mixed materials" type="Box">1</container>
+              <container id="aspace_2be2de0306a5ffeec6d606bd3782e560" parent="aspace_a16d603dc7a589f344078c65d88aeac1" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_c92a7e00c48437724071ab52afc00c19" level="file">
+            <did>
+              <unittitle>Pinch, The</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_9e222bd2cb05795819e26fdbfe865748" label="mixed materials" type="Box">1</container>
+              <container id="aspace_6cf50f2d13a0ff4b8e341122b9af6396" parent="aspace_9e222bd2cb05795819e26fdbfe865748" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_86c4aefaeb220f15a2155ec946718740" level="file">
+            <did>
+              <unittitle>St. Aloysius</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_a0eb1054ac773b89870877346be14fa0" label="mixed materials" type="Box">1</container>
+              <container id="aspace_c427d9a3084fcd41c03ab00ee217de0f" parent="aspace_a0eb1054ac773b89870877346be14fa0" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_4134e4b5ad4f52362e205ff27d324402" level="file">
+            <did>
+              <unittitle>St, Stephens</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_a2c7d1a94c85b6c8e677623d4e2cc349" label="mixed materials" type="Box">1</container>
+              <container id="aspace_4c0844c2d9a1e8e56dd7d2d54b906420" parent="aspace_a2c7d1a94c85b6c8e677623d4e2cc349" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_095e075c5cabf83cbc185402ed66795d" level="file">
+            <did>
+              <unittitle>Velvet Lounge</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_31a28f96e6fcdedb54eab7bb793ebde7" label="mixed materials" type="Box">1</container>
+              <container id="aspace_3c1de657d88587867184ebc11cc24377" parent="aspace_31a28f96e6fcdedb54eab7bb793ebde7" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ff4fd64abc44cbe6b0bc33f63a8b0bb9" level="file">
+            <did>
+              <unittitle>Warehouse Next Door</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_ea3d4068e4bf0fbde978f563e9f90dcb" label="mixed materials" type="Box">1</container>
+              <container id="aspace_e18b9634a0fdb82ca93e0c6fc2dbecb8" parent="aspace_ea3d4068e4bf0fbde978f563e9f90dcb" type="Folder">20</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_fd641490f87f27ebe18ae326fb389609" level="subseries">
+          <did>
+            <unittitle>Subseries 2: Fliers - Concerts - MD Venues</unittitle>
+          </did>
+          <c id="aspace_7539f65bdf376f8961ad84261887c5ca" level="file">
+            <did>
+              <unittitle>Brothel House, The - Kensington, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_20ab32cbcdde7e3c78cd6af365f4f17a" label="mixed materials" type="Box">1</container>
+              <container id="aspace_fbf2482308faa3c63cd7da11b6265089" parent="aspace_20ab32cbcdde7e3c78cd6af365f4f17a" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_9d3ae41b30d352fed8b5762373c15511" level="file">
+            <did>
+              <unittitle>Corpse Fortress - Silver Spring, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_bec541821fe37da291eb57b726766d95" label="mixed materials" type="Box">1</container>
+              <container id="aspace_506a139d7fb4fdb2c9a193500a5dbebe" parent="aspace_bec541821fe37da291eb57b726766d95" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_1cb0cdcea768022fbaeeaee40f31ba20" level="file">
+            <did>
+              <unittitle>Deathstar - Silver Spring, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_c895d6ef2991d41672db738570a2c5b2" label="mixed materials" type="Box">1</container>
+              <container id="aspace_138114f269273112611d365b474b47df" parent="aspace_c895d6ef2991d41672db738570a2c5b2" type="Folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_f398c263b3105152d04d472c342dc534" level="file">
+            <did>
+              <unittitle>Fort Posi - College Park, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_b621c95d45bbd8bfc3cfedf66caf6d3c" label="mixed materials" type="Box">1</container>
+              <container id="aspace_85b079090ccf9847313e91c4e8fe527c" parent="aspace_b621c95d45bbd8bfc3cfedf66caf6d3c" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_8610faa94cb0f8e0b2d31a9ea9468244" level="file">
+            <did>
+              <unittitle>Jenkin's Church - Pasadena, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_cebf5bf0b70d4229dfbef8fc55c06dc5" label="mixed materials" type="Box">1</container>
+              <container id="aspace_fc4008cde0ffb53ebc457e248c9823ce" parent="aspace_cebf5bf0b70d4229dfbef8fc55c06dc5" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_1732b87fdab949ffc392515663373536" level="file">
+            <did>
+              <unittitle>North Chevy Chase Rec Center - Chevy Chase, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_afb492d7d4b286ed9b308e0cbb4041a7" label="mixed materials" type="Box">1</container>
+              <container id="aspace_970c28b074558d46e73c59f02ca45725" parent="aspace_afb492d7d4b286ed9b308e0cbb4041a7" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_3bbda1c2734fd63ea3f8ce92533025ea" level="file">
+            <did>
+              <unittitle>Ottobar - Baltimore, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_8a6cfa587a1f7d776ee4319cbaeb143a" label="mixed materials" type="Box">1</container>
+              <container id="aspace_f2ecc863762fb03ce9ff91286e5debd3" parent="aspace_8a6cfa587a1f7d776ee4319cbaeb143a" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_599e32bbfced6d838710aed6ddbd81c5" level="file">
+            <did>
+              <unittitle>Nowarehouse - Baltimore, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_b05cf8b44c1496cb47000846b2704f37" label="mixed materials" type="Box">1</container>
+              <container id="aspace_60aa48bbf64e3f0a28c6c4b988e7fdca" parent="aspace_b05cf8b44c1496cb47000846b2704f37" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_b340c40b61e54f9eb4fecf07371abed1" level="file">
+            <did>
+              <unittitle>Talking Head, The - Baltimore, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_64b83bcb96858bfc0e6c236979a8ee96" label="mixed materials" type="Box">1</container>
+              <container id="aspace_e38ee9769f6e1df6856cd4348ffb7c84" parent="aspace_64b83bcb96858bfc0e6c236979a8ee96" type="Folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_5667113999663baeef3d24d8637cb48b" level="file">
+            <did>
+              <unittitle>Treeswing</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_d2715f0ce3a670486cd54c3a359b9230" label="mixed materials" type="Box">1</container>
+              <container id="aspace_c6ce1fc62247d02bc6fc9d2cb6922b36" parent="aspace_d2715f0ce3a670486cd54c3a359b9230" type="Folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_ca68ddebfbe700f24a5094d9df01be45" level="file">
+            <did>
+              <unittitle>University of Maryland</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_9fe636c1addfec16e2b7654bdbe0ab4e" label="mixed materials" type="Box">1</container>
+              <container id="aspace_1e349b486b56aaf53d2cf2ec24f75c35" parent="aspace_9fe636c1addfec16e2b7654bdbe0ab4e" type="Folder">31</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_857991678c8bac5eb1bfc7a7b856bc99" level="subseries">
+          <did>
+            <unittitle>Subseries 3: Fliers- Concerts - VA Venues</unittitle>
+          </did>
+          <c id="aspace_3658288e37660def36701a3c7bd8ef48" level="file">
+            <did>
+              <unittitle>15600 Buck Lane - Montclair, VA</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_bedc1457b9e92e1c9c65cda76f5642a4" label="mixed materials" type="Box">1</container>
+              <container id="aspace_b7583398073bcafdacfb30317d5b2116" parent="aspace_bedc1457b9e92e1c9c65cda76f5642a4" type="Folder">32</container>
+            </did>
+          </c>
+          <c id="aspace_f39c7915b8ec8ba101ca3bfa014e8f07" level="file">
+            <did>
+              <unittitle>George Mason University</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_273f31e3683852b7da81483796592d37" label="mixed materials" type="Box">1</container>
+              <container id="aspace_a9389f3ff09cdf39d0b64d270af3cd44" parent="aspace_273f31e3683852b7da81483796592d37" type="Folder">33</container>
+            </did>
+          </c>
+          <c id="aspace_4d088fc7b20561fb570d9c05377b4f92" level="file">
+            <did>
+              <unittitle>Kansas House - Arlington, VA</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_587c147b42fe16ea1c8e6cfecd598b48" label="mixed materials" type="Box">1</container>
+              <container id="aspace_6bdf131c75c820eb3d1dd8df20d0666d" parent="aspace_587c147b42fe16ea1c8e6cfecd598b48" type="Folder">34</container>
+            </did>
+          </c>
+          <c id="aspace_bafab2ece54b1560ab390c68738a5bcc" level="file">
+            <did>
+              <unittitle>Murky Coffee - Arlington, VA</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_3b416360b8f00d58281b98c23fab87a7" label="mixed materials" type="Box">1</container>
+              <container id="aspace_cbc1b688294876abb5c3971b29573549" parent="aspace_3b416360b8f00d58281b98c23fab87a7" type="Folder">35</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_79ffbdd3818c0e21de6fd2fd145b99bb" level="subseries">
+          <did>
+            <unittitle>Subseries 4: Fliers - Festivals - DC</unittitle>
+          </did>
+          <c id="aspace_cd089f6f49911cd5834a54295d2589c7" level="file">
+            <did>
+              <unittitle>Different Kind of Dude Fest</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_8dc8e29a10341438de7e4ebac2a38818" label="mixed materials" type="Box">1</container>
+              <container id="aspace_9cdd1b79b9fa67dfa325988a8b0b5e75" parent="aspace_8dc8e29a10341438de7e4ebac2a38818" type="Folder">36</container>
+            </did>
+          </c>
+          <c id="aspace_9f24d402022234151d9158064f4acd65" level="file">
+            <did>
+              <unittitle>Positive Youth Fest - Warehouse Theater</unittitle>
+              <unitdate normal="2006/2006" type="inclusive">2006</unitdate>
+              <container id="aspace_17df01ad3c199db8ecbfeea94b03dd13" label="mixed materials" type="Box">1</container>
+              <container id="aspace_9fb27ec1dfac3fcbc52ca2570cb12db7" parent="aspace_17df01ad3c199db8ecbfeea94b03dd13" type="Folder">37</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_d7a5fbc35b4d7cd58fce957c60c1c0f4" level="subseries">
+          <did>
+            <unittitle>Subseries 5: Fliers - Festivals - MD</unittitle>
+          </did>
+          <c id="aspace_eaf50150e61c1e593677324fbde3194b" level="file">
+            <did>
+              <unittitle>Really Really Free Market</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_2074bdbb4a5116933555cc3cf38f8e0b" label="mixed materials" type="Box">1</container>
+              <container id="aspace_815e0f7bbfdf3306703e3c865d1776da" parent="aspace_2074bdbb4a5116933555cc3cf38f8e0b" type="Folder">38</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_c920918db6f312ba1d8a743747259f38" level="series">
+        <did>
+          <unittitle>Series 2: Objects</unittitle>
+        </did>
+        <c id="aspace_932d39a1b02a3b1e84bf14af4add6941" level="file">
+          <did>
+            <unittitle>Patches and Stickers</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_42d2833508a35e20795bf02931c9517c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_cc54889cd7d0ef004a80287ba8af18e7" parent="aspace_42d2833508a35e20795bf02931c9517c" type="Folder">39</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_07e81aeb9fe9a43ccb1741313ac24d9e" level="series">
+        <did>
+          <unittitle>Series 3: Audio-Visual Material</unittitle>
+        </did>
+        <c id="aspace_25f534c40bdc7d9f08b2c94a527a2f70" level="subseries">
+          <did>
+            <unittitle>Subseries 1: Cassettes</unittitle>
+          </did>
+          <c id="aspace_37f7666f3c506678f5c63ee80f428130" level="file">
+            <did>
+              <unittitle>2007 European Tape by Anchors</unittitle>
+              <unitdate normal="2007/2007" type="inclusive">2007</unitdate>
+              <container id="aspace_52793bc5a696222cdc6438ab51e66241" label="mixed materials" type="Box">2</container>
+              <container id="aspace_00fc5add7e1ce4b8579edbb864afa97e" parent="aspace_52793bc5a696222cdc6438ab51e66241" type="Folder">1</container>
+            </did>
+            <scopecontent id="aspace_2256410fb6b66cc8b8202119dbbf1b97">
+              <head>Scope and Contents</head>
+              <p>Includes booklet with song lyrics, housed in a cardboard box</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_e59ed2ea6a92bc82971524f864989c5f" level="file">
+            <did>
+              <unittitle>The Author by Bear and the Butterfly</unittitle>
+              <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+              <container id="aspace_ccb6b99b2a4fdc8471b2c9956fda9ed1" label="mixed materials" type="Box">2</container>
+              <container id="aspace_442f49dbebe4b6618afaa908aecb4863" parent="aspace_ccb6b99b2a4fdc8471b2c9956fda9ed1" type="Folder">2</container>
+            </did>
+            <scopecontent id="aspace_1f730a4a2779efa47b626cff2da9b668">
+              <head>Scope and Contents</head>
+              <p>Labeled "Tape of '05 (summer)"</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_4f6469d1523d36eeb7e238bc06ad6ad8" level="file">
+            <did>
+              <unittitle>BxB by Bear and the Butterfly</unittitle>
+              <unitdate normal="2004/2004" type="inclusive">2004</unitdate>
+              <container id="aspace_ff25541e658a28ecfe065446ab1acbea" label="mixed materials" type="Box">2</container>
+              <container id="aspace_785df8cf9c9c0a62d8ea8e44d9a4c59e" parent="aspace_ff25541e658a28ecfe065446ab1acbea" type="Folder">3</container>
+            </did>
+            <scopecontent id="aspace_c90189a4a3f1ff1e703b056d97e54346">
+              <head>Scope and Contents</head>
+              <p>Includes small zine with drawings, collage, housed in cardboard box</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_4c02fcb5e4a251162ce8d47762f32dd5" level="file">
+            <did>
+              <unittitle>Boost Fine Lines Split by Boost/Fine Lines</unittitle>
+              <unitdate normal="2009/2009" type="inclusive">2009</unitdate>
+              <container id="aspace_7660892a6928f83c8b9201b321096080" label="mixed materials" type="Box">2</container>
+              <container id="aspace_73b3b01f1831f772dab57e30a7146822" parent="aspace_7660892a6928f83c8b9201b321096080" type="Folder">4</container>
+            </did>
+            <scopecontent id="aspace_0c75e91a1a860128c553b6b0d907dd24">
+              <head>Scope and Contents</head>
+              <p>Contains lyrics sheet</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_edc78483edbe2e672e29f35613e549d4" level="file">
+            <did>
+              <unittitle>Hey Girl by Hey Girl</unittitle>
+              <unitdate normal="2011/2011" type="inclusive">2011</unitdate>
+              <container id="aspace_3697b8dda390e7fc0551c1aa0e3b8ae7" label="mixed materials" type="Box">2</container>
+              <container id="aspace_84a8059a63e54c40ffaa95d9053ce161" parent="aspace_3697b8dda390e7fc0551c1aa0e3b8ae7" type="Folder">5</container>
+            </did>
+            <scopecontent id="aspace_304e6754e601ae6858a66e1bbd42d3b4">
+              <head>Scope and Contents</head>
+              <p>Contains lyrics sheet</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_a89d30434922000040d1cddc3058aac5" level="file">
+            <did>
+              <unittitle>Hot Mess by Hot Mess</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_c92676a0957cc868130baa0a62231b24" label="mixed materials" type="Box">2</container>
+              <container id="aspace_b8de3d3c45fbab53cc419b2affb52228" parent="aspace_c92676a0957cc868130baa0a62231b24" type="Folder">6</container>
+            </did>
+            <scopecontent id="aspace_13b08977079c22e92bc332183fe75b99">
+              <head>Scope and Contents</head>
+              <p>Contains lyrics sheet, containede in cloth pouch</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_3228b62d099ca1978cee1eaaeecf7cc9" level="file">
+            <did>
+              <unittitle>Tryangle by Ingrid (Label: Cosmis Debris)</unittitle>
+              <unitdate normal="2007/2007" type="inclusive">2007</unitdate>
+              <container id="aspace_49ccc3a3921ea0bf8d389ee6cc4d666e" label="mixed materials" type="Box">2</container>
+              <container id="aspace_fec9c5a863a2e29f88b35acb14229295" parent="aspace_49ccc3a3921ea0bf8d389ee6cc4d666e" type="Folder">7</container>
+            </did>
+            <scopecontent id="aspace_34e2f8677c215dee338b1f9812cba793">
+              <head>Scope and Contents</head>
+              <p>Contains art insert</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_9e1d9d259bad7c83412d2ab603c9d8d9" level="file">
+            <did>
+              <unittitle>Hey Fragile by Lava Lava</unittitle>
+              <unitdate normal="2004/2004" type="inclusive">2004</unitdate>
+              <container id="aspace_fb27a1f6de73b3a20bfb8ed2945254c1" label="mixed materials" type="Box">2</container>
+              <container id="aspace_304890819bdcb3ef904bcb14a3bf6931" parent="aspace_fb27a1f6de73b3a20bfb8ed2945254c1" type="Folder">8</container>
+            </did>
+            <scopecontent id="aspace_74b2e263957e5b404a48e301fd91ecbf">
+              <head>Scope and Contents</head>
+              <p>Contains Lyrics sheet, collage</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_cb63f52ca9d92504d691fd036b771565" level="file">
+            <did>
+              <unittitle>Mass Movement of the Moth by Mass Movement of the Moth</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_17e7d5c0925b319c3aa16c37a9ada2ca" label="mixed materials" type="Box">2</container>
+              <container id="aspace_27089f2c71b59b6bf34b8a24932dbce3" parent="aspace_17e7d5c0925b319c3aa16c37a9ada2ca" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_dc04f96ff30bd27dc912759156734ec9" level="file">
+            <did>
+              <unittitle>Transgression by Transgression</unittitle>
+              <unitdate normal="2010/2010" type="inclusive">2010</unitdate>
+              <container id="aspace_545947e4827eb3fe94669cae9ac61531" label="mixed materials" type="Box">2</container>
+              <container id="aspace_eb4f8e920e60e01b965fcf1927261bf6" parent="aspace_545947e4827eb3fe94669cae9ac61531" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ccbbd1ee771eb14875727ad93867cfd5" level="file">
+            <did>
+              <unittitle>Order of the Turboslut by Turboslut</unittitle>
+              <unitdate normal="2008/2008" type="inclusive">2008</unitdate>
+              <container id="aspace_89830e9d5e5e6d6ec47109b4516ed575" label="mixed materials" type="Box">2</container>
+              <container id="aspace_e6b24bcbf37ea598b3e28381fb9acc54" parent="aspace_89830e9d5e5e6d6ec47109b4516ed575" type="Folder">11</container>
+            </did>
+            <scopecontent id="aspace_19282a870a0f4e8b76f3c8bcf9c12abf">
+              <head>Scope and Contents</head>
+              <p>Contains lyric sheet, collage</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_15719dae07bd651778d1814646fc88d3" level="subseries">
+          <did>
+            <unittitle>Subseries 2: CDs</unittitle>
+          </did>
+          <c id="aspace_58a152407529f7884a3cd283ceb48344" level="file">
+            <did>
+              <unittitle>4 song demo by 1905</unittitle>
+              <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+              <container id="aspace_c45c9a7685d9afa0a95e178bfb70af7a" label="mixed materials" type="Box">3</container>
+              <container id="aspace_592ee6251f4a068b51d9ba891a31521c" parent="aspace_c45c9a7685d9afa0a95e178bfb70af7a" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_f59745842ac07e07b9b0533123831c61" level="file">
+            <did>
+              <unittitle>ab by Alcian Blue (Label: Safranin Sounds)</unittitle>
+              <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+              <container id="aspace_4e97aa6da1e660656efb0395a94f9cc5" label="mixed materials" type="Box">3</container>
+              <container id="aspace_1495ccafbcb6fee719439f61e11f4fd4" parent="aspace_4e97aa6da1e660656efb0395a94f9cc5" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_be9de70899c2ffe879720cdc0969af06" level="file">
+            <did>
+              <unittitle>An Alarm by An Alarm</unittitle>
+              <container id="aspace_46e81c875b2c3004c284c5e52f6db654" label="mixed materials" type="Box">3</container>
+              <container id="aspace_6c223376c72e8bb066808900f2e047b2" parent="aspace_46e81c875b2c3004c284c5e52f6db654" type="Folder">3</container>
+            </did>
+            <scopecontent id="aspace_9e5335b9e04ec460bc27a1731c15dbb0">
+              <head>Scope and Contents</head>
+              <p>Cased with lyrics sheet in cardboard sheetes</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_a82138c8aa3a50e40e3f368f0ba31cf0" level="file">
+            <did>
+              <unittitle>There are murderers on your thrones by Attentat</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_af9256c5792fdefcf81a1ab72b0eabe3" label="mixed materials" type="Box">3</container>
+              <container id="aspace_cbfd65b4d49413ae2c9bcabc2946c3fc" parent="aspace_af9256c5792fdefcf81a1ab72b0eabe3" type="Folder">4</container>
+            </did>
+            <scopecontent id="aspace_bb3edc1b8ed2844fc34d084ce759685c">
+              <head>Scope and Contents</head>
+              <p>Contains zine</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_a98c75733de094c15b1d3e89e37359cc" level="file">
+            <did>
+              <unittitle>Preface by Attrition</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_59a94fd9686ee4b94ad8d1aae32bbeb0" label="mixed materials" type="Box">3</container>
+              <container id="aspace_0612e9f383762214c174918168143429" parent="aspace_59a94fd9686ee4b94ad8d1aae32bbeb0" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_499157064cd8f58c42800aecdaf5c57e" level="file">
+            <did>
+              <unittitle>Barkitecture Quarry by Bark (Label: J Streeet Records)</unittitle>
+              <unitdate normal="2007/2007" type="inclusive">2007</unitdate>
+              <container id="aspace_1813ebd0ee87fcb4a327c60898c2c97b" label="mixed materials" type="Box">3</container>
+              <container id="aspace_682ee3656d1f1878fa7dbefb74cf02da" parent="aspace_1813ebd0ee87fcb4a327c60898c2c97b" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_043985cb12de2ff825d5629e55ad26af" level="file">
+            <did>
+              <unittitle>Bazhena by Bazhena</unittitle>
+              <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+              <container id="aspace_e4c6b1844613d09f76e29ea007d9af3d" label="mixed materials" type="Box">3</container>
+              <container id="aspace_93ec038694af6a9d1b3eddeb5841a02c" parent="aspace_e4c6b1844613d09f76e29ea007d9af3d" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_8acfefb620f52d629ac0fcb4202542d4" level="file">
+            <did>
+              <unittitle>Nine times! by Chugga Chugga</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_712f99b710bd0f4355949ded38a78c2c" label="mixed materials" type="Box">3</container>
+              <container id="aspace_4b568e4ce8a09d2f3313c9bd109a3a14" parent="aspace_712f99b710bd0f4355949ded38a78c2c" type="Folder">8</container>
+            </did>
+            <scopecontent id="aspace_8c5deff6b4458c8b753d6b1dfbb4ef59">
+              <head>Scope and Contents</head>
+              <p>Contains zine</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_fd088b28b5092aa8a2ac87025c1f1700" level="file">
+            <did>
+              <unittitle>Demo March 2004 by Del Cielo</unittitle>
+              <unitdate normal="2004/2004" type="inclusive">2004</unitdate>
+              <container id="aspace_97b094d358c1929085a464e709498f6e" label="mixed materials" type="Box">3</container>
+              <container id="aspace_167e8e4d6536a1acbffadba1baea8e64" parent="aspace_97b094d358c1929085a464e709498f6e" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_e1b26de5fe24b32440186a563ece1696" level="file">
+            <did>
+              <unittitle>Et At It by Et At It</unittitle>
+              <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+              <container id="aspace_ff653e1c3b0fb0e83a3e27c72bd36726" label="mixed materials" type="Box">3</container>
+              <container id="aspace_8fce3a4e93ccf9907d223c9d12264643" parent="aspace_ff653e1c3b0fb0e83a3e27c72bd36726" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_1423c8860269396ece6eb342601327df" level="file">
+            <did>
+              <unittitle>[demo]lition by Gurth</unittitle>
+              <container id="aspace_94cd01600a0c1443a38dcbd273ad37f6" label="mixed materials" type="Box">3</container>
+              <container id="aspace_02ff0c96a418c8e236ff4db584ff9f50" parent="aspace_94cd01600a0c1443a38dcbd273ad37f6" type="Folder">11</container>
+            </did>
+            <scopecontent id="aspace_e64101c9a92f13b82c75ab72219b9fa5">
+              <head>Scope and Contents</head>
+              <p>contains lyrics sheet</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_88a12395530b408a696e5eaa01f58c2b" level="file">
+            <did>
+              <unittitle>Haram by Haram</unittitle>
+              <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+              <container id="aspace_a0d0c6b215b3386aaa94f62b9c16f804" label="mixed materials" type="Box">3</container>
+              <container id="aspace_13db26ff35f32b132c14ad55ab972aad" parent="aspace_a0d0c6b215b3386aaa94f62b9c16f804" type="Folder">12</container>
+            </did>
+            <scopecontent id="aspace_bd55106ec7693c65f6bf7143e443bb19">
+              <head>Scope and Contents</head>
+              <p>contains lyrics sheet</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_2086f48c2597ef5f9d8ade3f64f2896a" level="file">
+            <did>
+              <unittitle>4567 by Horses</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_878bc313b5a8831fd00e4b93cb33c72d" label="mixed materials" type="Box">3</container>
+              <container id="aspace_c35dc084a26852f64828aea66997728c" parent="aspace_878bc313b5a8831fd00e4b93cb33c72d" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_066e21920a3030e693b88f4a3481a372" level="file">
+            <did>
+              <unittitle>every day i have more to fear but less to lose by How We Tie Knots</unittitle>
+              <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+              <container id="aspace_57e9b697dadaec9fbd3eb8a168c9d41a" label="mixed materials" type="Box">3</container>
+              <container id="aspace_117ac207be5a7809ead84d00223630f5" parent="aspace_57e9b697dadaec9fbd3eb8a168c9d41a" type="Folder">14</container>
+            </did>
+            <scopecontent id="aspace_d0b1319ab02803eca46e5f10258c5984">
+              <head>Scope and Contents</head>
+              <p>contains zine</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_8b093a1ab044f89696b423035e77008c" level="file">
+            <did>
+              <unittitle>Lois Lame by Lois Lame</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_d78e7578519869beb5d6ec88171266ce" label="mixed materials" type="Box">3</container>
+              <container id="aspace_26504b4172ed5de33cae15a2d98bcdd1" parent="aspace_d78e7578519869beb5d6ec88171266ce" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_969c874a76d2c9be6dda8e58c613ff5a" level="file">
+            <did>
+              <unittitle>Owned EP by Magrudergrind</unittitle>
+              <unitdate normal="2004/2004" type="inclusive">2004</unitdate>
+              <container id="aspace_3c3fed9bd21efb647401e2b3ca2ba602" label="mixed materials" type="Box">3</container>
+              <container id="aspace_88070aa043bd5e0fa4641b7b334fbbc6" parent="aspace_3c3fed9bd21efb647401e2b3ca2ba602" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_7081ad6c51e7506654742cf7e59b9732" level="file">
+            <did>
+              <unittitle>Medic by Medic</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_1b610deac3e3b1362610252213a583eb" label="mixed materials" type="Box">3</container>
+              <container id="aspace_f0511e519447682b5663101de530f951" parent="aspace_1b610deac3e3b1362610252213a583eb" type="Folder">17</container>
+            </did>
+            <scopecontent id="aspace_89a79661280043359e9642b3bdfd3438">
+              <head>Scope and Contents</head>
+              <p>contains numbered lyrics sheet</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_c3ac95d0c312bca5623af6890021c0a0" level="file">
+            <did>
+              <unittitle>Polar Demo 2005 by Polar</unittitle>
+              <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+              <container id="aspace_4a683497f7bbf07af359f1e563f0b49c" label="mixed materials" type="Box">3</container>
+              <container id="aspace_e5814c3113ac7cae53386bb9ba4ce520" parent="aspace_4a683497f7bbf07af359f1e563f0b49c" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_9caf342420de40acc076b45877c65075" level="file">
+            <did>
+              <unittitle>X-Polynation by Q and Not U (Label: Dischord Records)</unittitle>
+              <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
+              <container id="aspace_4edbfd9edc3bab854fdadc094f90a49e" label="mixed materials" type="Box">3</container>
+              <container id="aspace_44bb5bd4e3ebb1534349901c8255d3a2" parent="aspace_4edbfd9edc3bab854fdadc094f90a49e" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_f2e8bf1d87fe03257ba842e8754bde6b" level="file">
+            <did>
+              <unittitle>Sampler by Riot Folk! (Label: Riot Folk)</unittitle>
+              <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
+              <container id="aspace_26adbc61785cc78bc8b2fffa2af507f3" label="mixed materials" type="Box">3</container>
+              <container id="aspace_9bc8551479b4f563836fd9966cc7f8a1" parent="aspace_26adbc61785cc78bc8b2fffa2af507f3" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_e1c3fdeec68b955ac92121319038fbbb" level="file">
+            <did>
+              <unittitle>Songs of August Demo CD by Songs of August</unittitle>
+              <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+              <container id="aspace_3ebe0809af38d8d2df5520e368b9df07" label="mixed materials" type="Box">3</container>
+              <container id="aspace_5fac35521410a712c22a6198b712a132" parent="aspace_3ebe0809af38d8d2df5520e368b9df07" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_634801ce650fe09301f6a9f43fe5cc32" level="file">
+            <did>
+              <unittitle>time of the wolf by time of the wolf</unittitle>
+              <unitdate normal="2006/2006" type="inclusive">2006</unitdate>
+              <container id="aspace_a6d7236662b8a7ee9380dfd4207ed15d" label="mixed materials" type="Box">3</container>
+              <container id="aspace_129bc1c7a30d6866093b30bedfb2a4cc" parent="aspace_a6d7236662b8a7ee9380dfd4207ed15d" type="Folder">22</container>
+            </did>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

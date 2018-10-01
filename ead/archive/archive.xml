@@ -3,18 +3,18 @@
     <eadid/>
     <filedesc>
       <titlestmt>
-        <titleproper>Archive-It test<num>archive.it</num></titleproper>
+        <titleproper>http://www.bygonebrookland.com<num>archive.it</num></titleproper>
       </titlestmt>
       <publicationstmt>
         <publisher>Stage</publisher>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:15:14 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-01 14:47:06 -0400</date>.</creation>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
-  <archdesc level="otherlevel" otherlevel="Web Archive">
+  <archdesc level="otherlevel" otherlevel="Web archive">
     <did>
       <langmaterial>
         <language langcode="eng">English</language>
@@ -22,7 +22,7 @@
       <repository>
         <corpname>Stage</corpname>
       </repository>
-      <unittitle>Archive-It test</unittitle>
+      <unittitle>http://www.bygonebrookland.com</unittitle>
       <unitid>archive.it</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">100 Linear Feet</extent>
@@ -30,23 +30,10 @@
       <unitdate normal="2018/2018">2018</unitdate>
     </did>
     <dsc>
-      <c id="aspace_fa671a69043d554c5ba51dcc81d0f7d9" level="series">
+      <c id="aspace_d56f8e6b9dc6ee007e836903ee24ddab" level="otherlevel" otherlevel="Web archive">
         <did>
-          <unittitle>Series 1</unittitle>
+          <unittitle>http://www.bygonebrookland.com</unittitle>
         </did>
-        <c id="aspace_e22c95fc947335b31fe075a780969999" level="otherlevel" otherlevel="Web archive">
-          <did>
-            <unittitle>Frozen Tropics</unittitle>
-            <unitid>http://frozentropics.blogspot.com/</unitid>
-          </did>
-          <phystech id="aspace_5a00706483ef2154b6bd53b938e0f99c">
-            <head>URL</head>
-            <p>http://frozentropics.blogspot.com/</p>
-          </phystech>
-          <controlaccess>
-            <subject source="local">Web collection</subject>
-          </controlaccess>
-        </c>
       </c>
     </dsc>
   </archdesc>

@@ -1,0 +1,956 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">zines.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Zine Library <num>PUNK011</num> <num>PUNK011</num></titleproper>
+        <subtitle>An inventory of Zine Library at DC Public Library</subtitle>
+        <author>Finding aid prepared by Paul Kelly.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Stage</publisher>
+        <p>
+          <date>2017-10-04</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-01 15:02:29 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Stage</corpname>
+      </repository>
+      <unittitle>Zine Library Collection</unittitle>
+      <unitid>PUNK011</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 boxes</extent>
+      </physdesc>
+      <unitdate normal="1974/2011" type="inclusive">1974-2011</unitdate>
+      <langmaterial id="aspace_20ae6647d45fe8a81db3163cef4d2366">English</langmaterial>
+      <langmaterial id="aspace_1acf44b171555708c048328b737d5e9e">English</langmaterial>
+    </did>
+    <dsc>
+      <c id="aspace_e3229c3d94a110545a0dc709ca9bfa43" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_574d922663bd09c08fced376e6897ab1" level="file">
+          <did>
+            <unittitle>Another state of mind</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_5f7a1fb40574725d831f014056b3e5b7" label="mixed materials" type="Box">1</container>
+            <container id="aspace_705d2f72c7697d81a0b8dd26fa6bc66c" parent="aspace_5f7a1fb40574725d831f014056b3e5b7" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_5c7943e5e966b5c1ffdd890acbf4162f" level="file">
+          <did>
+            <unittitle>Binary load lifter, Number 1</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_78c873d031adafcce6aeb02b0e7c1b03" label="mixed materials" type="Box">1</container>
+            <container id="aspace_eb83b2d9d6e86e7641f9744a8182958e" parent="aspace_78c873d031adafcce6aeb02b0e7c1b03" type="Folder">2</container>
+          </did>
+          <scopecontent id="aspace_b0b0efe0b30279677b9b27d21de55c6c">
+            <head>Scope and Contents</head>
+            <p>Special European Vacation Issue; May only be the front page and back page of the zine</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_0a97e3d455651f7012203d266abdb32b" level="file">
+          <did>
+            <unittitle>Boogins, The, Volume 1, Number 1</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_2efd27411a8a94f5d530486c8f5c0e36" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7b04913ca6e092527ca0f5df8658a84b" parent="aspace_2efd27411a8a94f5d530486c8f5c0e36" type="Folder">3</container>
+          </did>
+          <scopecontent id="aspace_00be9e61ba85fbac3a8cd30839a926f8">
+            <head>Scope and Contents</head>
+            <p>Fall Issue</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_49aa1e9612cc123bc001992e8c419125" level="file">
+          <did>
+            <unittitle>Boogins, The, Volume 1, Number 2</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_d0ac65d524da7ac418aa50870a517503" label="mixed materials" type="Box">1</container>
+            <container id="aspace_31beda8779ca39a7a2f2429457c96cd9" parent="aspace_d0ac65d524da7ac418aa50870a517503" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_93db0ef84cc436c7d8220688dd0aba1f" level="file">
+          <did>
+            <unittitle>Boogins, The, Volume 1, Number 3</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_43eb51f6e4be8e14e480b1f525b8eea1" label="mixed materials" type="Box">1</container>
+            <container id="aspace_74b74f40fc7e3ce8d26daaa16c89c86b" parent="aspace_43eb51f6e4be8e14e480b1f525b8eea1" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_2c427debf17165f78782d4bf273cd70a" level="file">
+          <did>
+            <unittitle>Boogins, The, Volume 1, Number 7</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_778f0799025f4ee91828ac81a4dab172" label="mixed materials" type="Box">1</container>
+            <container id="aspace_a041eddd978e3f63e93b7522a7c79501" parent="aspace_778f0799025f4ee91828ac81a4dab172" type="Folder">6</container>
+          </did>
+          <scopecontent id="aspace_c47a58c2e1c2b29a34e5efce71a3cca6">
+            <head>Scope and Contents</head>
+            <p>Autumn Issue</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_e5f1009551eaae6ad362fdaf077ce4ac" level="file">
+          <did>
+            <unittitle>Brand new age, Number 2</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2d2a012be86a885bb1a2ea50819f1b17" label="mixed materials" type="Box">1</container>
+            <container id="aspace_7847d25b96b0adf0ff9cbbff0543b447" parent="aspace_2d2a012be86a885bb1a2ea50819f1b17" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_329662c4824a0dbb1031aff28041d43c" level="file">
+          <did>
+            <unittitle>Bright-eyed crowd, Number 1</unittitle>
+            <unitdate normal="2012-07/2012-07" type="inclusive">2012-07</unitdate>
+            <container id="aspace_094da92e250f02eeff9e963ff2f38ede" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b8b8a1f6f828f98dc45841381f53e840" parent="aspace_094da92e250f02eeff9e963ff2f38ede" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_7069de01a7366918d905948c3d42c8fc" level="file">
+          <did>
+            <unittitle>Bright-eyed crowd, Number 2</unittitle>
+            <unitdate normal="2012-08/2012-08" type="inclusive">2012-08</unitdate>
+            <container id="aspace_1f3127bf778933b84ce19642adecc7e3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_47496e37b28d34e8df38fb34bc6f1adb" parent="aspace_1f3127bf778933b84ce19642adecc7e3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_16607ed882a55198ad0de9e6996669af" level="file">
+          <did>
+            <unittitle>Brimming rag, Number 1</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e3ab2ba7f6fcedec8e2d92bb8f7ab950" label="mixed materials" type="Box">1</container>
+            <container id="aspace_37f673693057ac432eec48d261f29bc3" parent="aspace_e3ab2ba7f6fcedec8e2d92bb8f7ab950" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_3d21982becf52121258a8690ea32ebe9" level="file">
+          <did>
+            <unittitle>Capitol crisis, Number 1</unittitle>
+            <unitdate normal="1980-11/1980-11" type="inclusive">1980-11</unitdate>
+            <container id="aspace_35470ad4a3594cffebb751c724ae0950" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c2ac229831f72dfec66fe6dde5c35926" parent="aspace_35470ad4a3594cffebb751c724ae0950" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_1f787f5eb52cdddecc751835562b6d30" level="file">
+          <did>
+            <unittitle>Capitol crisis, Number 3</unittitle>
+            <unitdate normal="1981-02/1981-02" type="inclusive">1981-02</unitdate>
+            <container id="aspace_2241cf7f824710ddbdcb9495c4abc2f9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c92ad1c013adf2a75d37fadcee203406" parent="aspace_2241cf7f824710ddbdcb9495c4abc2f9" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_cf4ef791ddca6599b2cd01267adba3cb" level="file">
+          <did>
+            <unittitle>Capitol crisis, Number 4</unittitle>
+            <unitdate normal="1981-03/1981-03" type="inclusive">1981-03</unitdate>
+            <container id="aspace_02b642d162a83661290c77aad257078b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_0c2dce02f64dcc6025441864138832c2" parent="aspace_02b642d162a83661290c77aad257078b" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_93c109de27d5717815b4c48ef1349e41" level="file">
+          <did>
+            <unittitle>Capitol crisis, Number 5</unittitle>
+            <unitdate normal="1981-05/1981-05" type="inclusive">1981-05</unitdate>
+            <container id="aspace_c5e75d08ddac72d9a1d84d381aecaccd" label="mixed materials" type="Box">1</container>
+            <container id="aspace_096d618f16dab98dd617c4e1b73e42f2" parent="aspace_c5e75d08ddac72d9a1d84d381aecaccd" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_c3647fc5ec74f6c041d70d963ac1f917" level="file">
+          <did>
+            <unittitle>Cramhole, Number 1</unittitle>
+            <unitdate normal="2007/2007" type="inclusive">2007</unitdate>
+            <container id="aspace_f8676a47159fe40c4e39d906f67352fd" label="mixed materials" type="Box">1</container>
+            <container id="aspace_68693894084541d08ac2e87b78861fcf" parent="aspace_f8676a47159fe40c4e39d906f67352fd" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_bf7685a9e4d4375b10e90b400a8d8d27" level="file">
+          <did>
+            <unittitle>Cramhole, Number 2</unittitle>
+            <unitdate normal="2008-02/2008-02" type="inclusive">2008-02</unitdate>
+            <container id="aspace_411f07713bc6c2d758e01f48d5e85441" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ac0a3d2863c0bffa51f5ab07859f8255" parent="aspace_411f07713bc6c2d758e01f48d5e85441" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_49392e263a8d9da62e47810d0d86de52" level="file">
+          <did>
+            <unittitle>Cramhole, Number 3</unittitle>
+            <unitdate normal="2009/2009" type="inclusive">2009</unitdate>
+            <container id="aspace_27db3ceff48866cc39db4b005b0036f3" label="mixed materials" type="Box">1</container>
+            <container id="aspace_aec5eca575bb1bac7f7b842c89a101e2" parent="aspace_27db3ceff48866cc39db4b005b0036f3" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_f12cc32ad2702adac4a05c8eef8d5674" level="file">
+          <did>
+            <unittitle>Crawl or die!, Number 1</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_37f13a6eb86ad8ba342d1f8587f54f79" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e03f933b6fbd5b81d215f93c0362902b" parent="aspace_37f13a6eb86ad8ba342d1f8587f54f79" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_f26f36c34b5b84580f74d313fbe68769" level="file">
+          <did>
+            <unittitle>DC Punk Presents Nation of Ulysses, Part 1: '88-'90</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_65237e9281f9b4d0ce9f5ea4f9edd85c" label="mixed materials" type="Box">1</container>
+            <container id="aspace_eccb9d6fc951089eb72ea7fca31c02fa" parent="aspace_65237e9281f9b4d0ce9f5ea4f9edd85c" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_763d59b6640757a06cb80a757d501a9c" level="file">
+          <did>
+            <unittitle>DC Punk Presents The Warmers, Part 1</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_bd970ac286949432036d37caadd4b2ae" label="mixed materials" type="Box">1</container>
+            <container id="aspace_0c1168b24cf911e4e86d6b22f80e274b" parent="aspace_bd970ac286949432036d37caadd4b2ae" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_264b48f8d13b5ab04b84483c327a881f" level="file">
+          <did>
+            <unittitle>DC Punk Presents The Warmers, Part 1</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_9da71567538ab5fe3c0780bedf25a1d6" label="mixed materials" type="Box">1</container>
+            <container id="aspace_4d12dae740ea5095fcac45c7f3c5aebe" parent="aspace_9da71567538ab5fe3c0780bedf25a1d6" type="Folder">21</container>
+          </did>
+          <scopecontent id="aspace_2887ea4269b93523575278575dce27e4">
+            <head>Scope and Contents</head>
+            <p>Unfinished Rough</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_201c29bc0a92825a442f5e9bc4542552" level="file">
+          <did>
+            <unittitle>For those concerned, Number 1</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d97c960f3017d8cf3479587e9c618bdf" label="mixed materials" type="Box">1</container>
+            <container id="aspace_dd8b66e5db0070d2701f6467a5b04719" parent="aspace_d97c960f3017d8cf3479587e9c618bdf" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_340508985b533681950c4f3eadc0ae7e" level="file">
+          <did>
+            <unittitle>Girls Rock! DC showcase</unittitle>
+            <unitdate normal="2009/2009" type="inclusive">2009</unitdate>
+            <container id="aspace_121e0d9a1f8f8e5aacbb4bd9f51c9d07" label="mixed materials" type="Box">1</container>
+            <container id="aspace_f7ec50a098eab2f08344ef63e415a1da" parent="aspace_121e0d9a1f8f8e5aacbb4bd9f51c9d07" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_01180131a054b03584b796c54ae05267" level="file">
+          <did>
+            <unittitle>Girls Rock! DC showcase</unittitle>
+            <unitdate normal="2010/2010" type="inclusive">2010</unitdate>
+            <container id="aspace_c95de82775331f23c3e45111849caeed" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3f2d25f804bda466f542b91e1725b4f4" parent="aspace_c95de82775331f23c3e45111849caeed" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_86c59665c8506232c600db7803b2deab" level="file">
+          <did>
+            <unittitle>Girls Rock! DC showcase</unittitle>
+            <unitdate normal="2011/2011" type="inclusive">2011</unitdate>
+            <container id="aspace_2e78fae2f4343e9c7d58bfcaefc984cd" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b5598295ab51464d39658e861e69a1e0" parent="aspace_2e78fae2f4343e9c7d58bfcaefc984cd" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ae273d859e7414939704d78837e7552b" level="file">
+          <did>
+            <unittitle>Girls Rock! Official guide to rock</unittitle>
+            <unitdate normal="2010/2010" type="inclusive">2010</unitdate>
+            <container id="aspace_382f1cbdebe8f3af4375b30563e1f9b7" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ae025082a941aeaef65c4f683ea0e47f" parent="aspace_382f1cbdebe8f3af4375b30563e1f9b7" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_215621afe1fdc3bfa54d81aa00ea2298" level="file">
+          <did>
+            <unittitle>Give me back, Number 1</unittitle>
+            <unitdate normal="2007-02/2007-02" type="inclusive">2007-02</unitdate>
+            <container id="aspace_baa971bdbbb965ffb1f91ead143e4db5" label="mixed materials" type="Box">1</container>
+            <container id="aspace_c0fc630f0940a8d2b3f0670a90f773a3" parent="aspace_baa971bdbbb965ffb1f91ead143e4db5" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_6b7b9d0c377a217d964cd73bb668d06d" level="file">
+          <did>
+            <unittitle>Give me back, Number 4</unittitle>
+            <unitdate normal="2008/2008" type="inclusive">2008</unitdate>
+            <container id="aspace_72021bfb6d46e3b6d1797edfd72254a8" label="mixed materials" type="Box">1</container>
+            <container id="aspace_14fabb4a393e6b021dd8f07684bcbbbb" parent="aspace_72021bfb6d46e3b6d1797edfd72254a8" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_9bc73085d49908d3d1d3cacc74931198" level="file">
+          <did>
+            <unittitle>Give me back, Number 5</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_dff73d6e491ee2bebdbb56c21ab0c297" label="mixed materials" type="Box">1</container>
+            <container id="aspace_b84808937c6d5998a3ecf2c02e04a211" parent="aspace_dff73d6e491ee2bebdbb56c21ab0c297" type="Folder">29</container>
+          </did>
+          <scopecontent id="aspace_217bc1b9425925473c63c3701b370eba">
+            <head>Scope and Contents</head>
+            <p>Late winter issue</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_393ee9ec1dccd6ccd4db6bb6b747cc54" level="file">
+          <did>
+            <unittitle>Give me back, Number 5</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4988a1336f9a0ea50d72aba6d3d16d07" label="mixed materials" type="Box">1</container>
+            <container id="aspace_733a41decee9c280537b903ebe1f0239" parent="aspace_4988a1336f9a0ea50d72aba6d3d16d07" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_471c7207f28dee2c00b921bf34580d3a" level="file">
+          <did>
+            <unittitle>Greed, Volume 1, Number 1</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_93cd5db757c36cbeb877762a5a40be26" label="mixed materials" type="Box">1</container>
+            <container id="aspace_2cd743471de477770fe930d9032f9448" parent="aspace_93cd5db757c36cbeb877762a5a40be26" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_e247b39592332f59d56b19c30690ad1f" level="file">
+          <did>
+            <unittitle>Greed, Volume 1, Number 1</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_07963eb48a3bc311f5fec7a437fcb8ab" label="mixed materials" type="Box">1</container>
+            <container id="aspace_23e13e74c8956f98d56730c52aa55b33" parent="aspace_07963eb48a3bc311f5fec7a437fcb8ab" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_d0678eea4139f0a61ff21dc86193ee9f" level="file">
+          <did>
+            <unittitle>Greed magazine, Number 5</unittitle>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_20276c06e400781cabe7e8ece2087868" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5f8e89e4e79777534ad40cb9ff5231d0" parent="aspace_20276c06e400781cabe7e8ece2087868" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_916d10d5993e0ba2eef820f048339f95" level="file">
+          <did>
+            <unittitle>Greed magazine, Number 6</unittitle>
+            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_505f358783c91f2f9643122fde4d6030" label="mixed materials" type="Box">1</container>
+            <container id="aspace_32f3a4561794857436469f4054df5f5e" parent="aspace_505f358783c91f2f9643122fde4d6030" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_691762030da73e939c71acf70b826431" level="file">
+          <did>
+            <unittitle>groffiti, Number 6</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_9dc2581762e81ca7a1b4b96e60a995d0" label="mixed materials" type="Box">1</container>
+            <container id="aspace_ef5aa8def5cc947863c444be260b95c6" parent="aspace_9dc2581762e81ca7a1b4b96e60a995d0" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_475ae6d267619142d0532d2d2b989f4d" level="file">
+          <did>
+            <unittitle>groffiti, Number 8</unittitle>
+            <unitdate normal="1974-02-04/1974-02-04" type="inclusive">1974-02-04</unitdate>
+            <container id="aspace_90e3c231a1ae7e988f0fe1b93bb1a1f9" label="mixed materials" type="Box">1</container>
+            <container id="aspace_6a8ff3f103897985168f58c58e246b4a" parent="aspace_90e3c231a1ae7e988f0fe1b93bb1a1f9" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_e42d27faefdeeefb9c66b5437ff45906" level="file">
+          <did>
+            <unittitle>groffiti, Number 9</unittitle>
+            <unitdate normal="1974-02-18/1974-02-18" type="inclusive">1974-02-18</unitdate>
+            <container id="aspace_e14ba59d7f4122f2836acf846a65162d" label="mixed materials" type="Box">1</container>
+            <container id="aspace_e8c676fcb60283e75d8b8d99471f5a93" parent="aspace_e14ba59d7f4122f2836acf846a65162d" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_c5caff52e16d81f00c624147310b7b63" level="file">
+          <did>
+            <unittitle>groffiti, Number 10</unittitle>
+            <unitdate normal="1974-03-03/1974-03-03" type="inclusive">1974-03-03</unitdate>
+            <container id="aspace_69a9957af2a8d7118121fc8c0a34e07b" label="mixed materials" type="Box">1</container>
+            <container id="aspace_110c411cbf0a6536c2942b42447abf26" parent="aspace_69a9957af2a8d7118121fc8c0a34e07b" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_9d4508082b545f43ff93681448bbfa4c" level="file">
+          <did>
+            <unittitle>Grown ups are obsolete</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c85c63451bfab9801b4f980edbcc10fd" label="mixed materials" type="Box">1</container>
+            <container id="aspace_d681fec94d29254061260d0bba285aea" parent="aspace_c85c63451bfab9801b4f980edbcc10fd" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_bc30dc27b1c754246507d8a5ad95dbe1" level="file">
+          <did>
+            <unittitle>Hands up!, Number 2</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4edb6b9cf059a984271b071a08d7b25c" label="mixed materials" type="Box">2</container>
+            <container id="aspace_7c52f1bf2d5ee334d152891c91e9e919" parent="aspace_4edb6b9cf059a984271b071a08d7b25c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c0fecdc4e1e6be3299f3390eee9ef8ca" level="file">
+          <did>
+            <unittitle>Hands up!, Number 3</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_d1559169cc16f45b66bd0f4883126ddb" label="mixed materials" type="Box">2</container>
+            <container id="aspace_38c044dd2c10fdc25e477e63ff8fb408" parent="aspace_d1559169cc16f45b66bd0f4883126ddb" type="Folder">2</container>
+          </did>
+          <scopecontent id="aspace_7b2aea55eb81f329e36ab0e1446c5a8f">
+            <head>Scope and Contents</head>
+            <p>Winter issue</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_520680627e882578caf114fb466526bf" level="file">
+          <did>
+            <unittitle>Held like sound, Number 6</unittitle>
+            <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_2469e535f3297b1147b540f08b5f7747" label="mixed materials" type="Box">2</container>
+            <container id="aspace_04915a56f1c66018c3d7bbe4265bd38e" parent="aspace_2469e535f3297b1147b540f08b5f7747" type="Folder">3</container>
+          </did>
+          <scopecontent id="aspace_0d7f4a522047ab91dc4c5968baff6255">
+            <head>Scope and Contents</head>
+            <p>Spring issue</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_e88b3fd2997b5e30d464e249962e3f37" level="file">
+          <did>
+            <unittitle>Held like sound, Number 8</unittitle>
+            <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_8500fb5eb917e69aeeaa371ee05812ce" label="mixed materials" type="Box">2</container>
+            <container id="aspace_0ae82e3f3ca85e25cdd1c8385e54740f" parent="aspace_8500fb5eb917e69aeeaa371ee05812ce" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_76266dc08e92e497e2b585e0b4500ec1" level="file">
+          <did>
+            <unittitle>Highway, Number 2</unittitle>
+            <unitdate normal="2015/2015" type="inclusive">2015</unitdate>
+            <container id="aspace_bb73beaabaf64a139785f05e9463ea25" label="mixed materials" type="Box">2</container>
+            <container id="aspace_d730bd2ca38180b239ca1f40fbafcced" parent="aspace_bb73beaabaf64a139785f05e9463ea25" type="Folder">5</container>
+          </did>
+          <scopecontent id="aspace_846f68de550a3ab955249b3291d4bd43">
+            <head>Scope and Contents</head>
+            <p>Summer/Fall</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_e1d4a74b25e808cee1e8dc54a7a8788f" level="file">
+          <did>
+            <unittitle>Hit and run, Number 1</unittitle>
+            <unitdate normal="1977-07/1977-07" type="inclusive">1977-07</unitdate>
+            <container id="aspace_aabfd2ce565686cf6f2b7477526f6a7c" label="mixed materials" type="Box">2</container>
+            <container id="aspace_9ad3f2bbce788fcafde132181658666e" parent="aspace_aabfd2ce565686cf6f2b7477526f6a7c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_4e90c258f35fc167b538e05f36f42b36" level="file">
+          <did>
+            <unittitle>I am eye, Number 1</unittitle>
+            <unitdate normal="1983-12/1983-12" type="inclusive">1983-12</unitdate>
+            <container id="aspace_a2c61734cc4b5ddb0a447ebaff125299" label="mixed materials" type="Box">2</container>
+            <container id="aspace_0782aa6f636ed87258c7a229a0eee653" parent="aspace_a2c61734cc4b5ddb0a447ebaff125299" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ec706beab8de5b05f95e887528a01914" level="file">
+          <did>
+            <unittitle>If this goes on, Number 1</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_11c1b58f1b7987c1df76fd8ec065ed16" label="mixed materials" type="Box">2</container>
+            <container id="aspace_79487febd76574bb440e4a9ffe982496" parent="aspace_11c1b58f1b7987c1df76fd8ec065ed16" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_39caaf8ac11557f3af2d57501b0de64a" level="file">
+          <did>
+            <unittitle>If this goes on, Number 3</unittitle>
+            <unitdate normal="1983-06/1983-06" type="inclusive">1983-06</unitdate>
+            <container id="aspace_b752d66fa70fbef3b0e215df536ac42a" label="mixed materials" type="Box">2</container>
+            <container id="aspace_2d069856d28193e1ef29e3a1237bf0ff" parent="aspace_b752d66fa70fbef3b0e215df536ac42a" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_103990dc0d955b03e2dfb9ba18002ea0" level="file">
+          <did>
+            <unittitle>Innervoid, Number 6</unittitle>
+            <unitdate normal="1984-12/1984-12" type="inclusive">1984-12</unitdate>
+            <container id="aspace_c882cf7b5173580a3a5b01bb9638106d" label="mixed materials" type="Box">2</container>
+            <container id="aspace_12a1518ab0f49264a6a08adc33405e2e" parent="aspace_c882cf7b5173580a3a5b01bb9638106d" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ae38803ac316f875be7ce7b84524b1ea" level="file">
+          <did>
+            <unittitle>Insurrection, Number 1</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_2f66903e2393b48b83a5c2cc7e8da845" label="mixed materials" type="Box">2</container>
+            <container id="aspace_ccae3be3d10ffbd7490adba25505f752" parent="aspace_2f66903e2393b48b83a5c2cc7e8da845" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_094eaf40197c3c04f32efc525afeee6a" level="file">
+          <did>
+            <unittitle>Interrobang, Number 6</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_db006e51bfa4f06ed6781c7d0b40e140" label="mixed materials" type="Box">2</container>
+            <container id="aspace_ba15a9b87a16fdaf78ce2ee45c6672a3" parent="aspace_db006e51bfa4f06ed6781c7d0b40e140" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_f2ac1c451c17676b7d8102b364742fbd" level="file">
+          <did>
+            <unittitle>Maximum rocknroll</unittitle>
+            <unitdate normal="1988-11/1988-11" type="inclusive">1988-11</unitdate>
+            <container id="aspace_0fd659ccba489e22c20e0a187968e348" label="mixed materials" type="Box">2</container>
+            <container id="aspace_b05fda0f6cd7ffec0996e28020b9666e" parent="aspace_0fd659ccba489e22c20e0a187968e348" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_91348638c94a59a8f67494dcdec9404b" level="file">
+          <did>
+            <unittitle>Mole, Number 3</unittitle>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_3dece87e4f66292a10794d8aa1ea0db4" label="mixed materials" type="Box">2</container>
+            <container id="aspace_f7903a85527a945c9c878b60ee88ad19" parent="aspace_3dece87e4f66292a10794d8aa1ea0db4" type="Folder">14</container>
+          </did>
+          <scopecontent id="aspace_c2ce3a31aeb36d6afbbe00049ddab6e9">
+            <head>Scope and Contents</head>
+            <p>winter</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_3320a910293accad7ac3a18a416dad09" level="file">
+          <did>
+            <unittitle>Mole, Number 4</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_868643477b5e8b8adc9a1919fe34dfbb" label="mixed materials" type="Box">2</container>
+            <container id="aspace_144a7beb30cf8c54e68d0ffaa9f24e2f" parent="aspace_868643477b5e8b8adc9a1919fe34dfbb" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ae6cdce0b050ccbe0ac5859619a9a6d1" level="file">
+          <did>
+            <unittitle>Mole, Number 5</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_6de8b4312541d934c7a459c97d7740a7" label="mixed materials" type="Box">2</container>
+            <container id="aspace_cd0127bcc551edc6f26d076b1e5742ea" parent="aspace_6de8b4312541d934c7a459c97d7740a7" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_bfdc6fcf6eecbbe405285bb17c529628" level="file">
+          <did>
+            <unittitle>Mole, Number 6</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_a06e8597f75e48116668cea8d84a7222" label="mixed materials" type="Box">2</container>
+            <container id="aspace_8921a10e5c71ba9246f169cc93bb7e89" parent="aspace_a06e8597f75e48116668cea8d84a7222" type="Folder">17</container>
+          </did>
+          <scopecontent id="aspace_4ba6be0e7ce5d4a7949879401db8361b">
+            <head>Scope and Contents</head>
+            <p>2 copies</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_88225db5250ee2507bf8ab4c15c1adac" level="file">
+          <did>
+            <unittitle>Mole, Number 7</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_11fc653c0ea78380678cb0e76e85a717" label="mixed materials" type="Box">2</container>
+            <container id="aspace_e5a6d17e4acb7e83838037d556e56dda" parent="aspace_11fc653c0ea78380678cb0e76e85a717" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_c6bfa953d7a156f044b525975fcc19c8" level="file">
+          <did>
+            <unittitle>Mole, Number 12</unittitle>
+            <unitdate normal="1999-05/1999-05" type="inclusive">1999-05</unitdate>
+            <container id="aspace_f58ccd06737588cbdfceeaeed8094bf5" label="mixed materials" type="Box">2</container>
+            <container id="aspace_f79fc48bd82105a9130ad1991eb6c1d0" parent="aspace_f58ccd06737588cbdfceeaeed8094bf5" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_2e1432cfbe0fa4e57acf595cb16e6589" level="file">
+          <did>
+            <unittitle>Mole, Number 13</unittitle>
+            <unitdate normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_22cbb38fea3bda26f34cc0261fbcdb04" label="mixed materials" type="Box">2</container>
+            <container id="aspace_5a5674636c3ff11905108ce649bc1932" parent="aspace_22cbb38fea3bda26f34cc0261fbcdb04" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_caa7e6a3a0f708469a80a1a202063c39" level="file">
+          <did>
+            <unittitle>Most things suck, Volume 4</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_52ae850eb105de728a3102cd0b6a3e2e" label="mixed materials" type="Box">2</container>
+            <container id="aspace_100fc797498b7f1823f0d82dc47e2dca" parent="aspace_52ae850eb105de728a3102cd0b6a3e2e" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_9bdd9f16c1b1d3dfbae0df2a2753b86c" level="file">
+          <did>
+            <unittitle>My rules photozine</unittitle>
+            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_01ed331e3fea50b1351971ec6df7324a" label="mixed materials" type="Box">2</container>
+            <container id="aspace_3a9a545a8e1fd4eeef5fc1815a22217b" parent="aspace_01ed331e3fea50b1351971ec6df7324a" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_7ba6a0ec56969e3b1ff54a422d7dff74" level="file">
+          <did>
+            <unittitle>Noise works magazine, Volume 1, Number 4</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_675ed5cb16ea163291406962c576f7a1" label="mixed materials" type="Box">2</container>
+            <container id="aspace_61a298b0aa3a8857c517860a55c0c245" parent="aspace_675ed5cb16ea163291406962c576f7a1" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_25e5da3b3e82a3bdf9ce3514847142f8" level="file">
+          <did>
+            <unittitle>Off center, Number 1</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_e60bcf79f679fd691993434174002de2" label="mixed materials" type="Box">2</container>
+            <container id="aspace_d3cb596f8b6adc0e02d0b9a913f7be56" parent="aspace_e60bcf79f679fd691993434174002de2" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_bed6628b8ac42b916a61ca6b913b834e" level="file">
+          <did>
+            <unittitle>Off center, Number 3</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c503c3c9d2c60a9145658eaa9f4b5608" label="mixed materials" type="Box">2</container>
+            <container id="aspace_74d813570d0f61e82f2bb881cabc9e96" parent="aspace_c503c3c9d2c60a9145658eaa9f4b5608" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_98790a9ce5686752959928209bdf8e90" level="file">
+          <did>
+            <unittitle>Off center, Number 4</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_1ef5dfb5ca8081b34bd30f0f5ec37a69" label="mixed materials" type="Box">2</container>
+            <container id="aspace_24a045dbb2703e50cfd039aa159bc71c" parent="aspace_1ef5dfb5ca8081b34bd30f0f5ec37a69" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_6f147fc29bdff5c583e95c89fded6038" level="file">
+          <did>
+            <unittitle>Papas, The</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_b1e7cd7ab20f109b0ae79500677e48ee" label="mixed materials" type="Box">2</container>
+            <container id="aspace_e7ac44a14b5438f5427d175482385519" parent="aspace_b1e7cd7ab20f109b0ae79500677e48ee" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_4f0dee8080d599eaa3a29e2728305508" level="file">
+          <did>
+            <unittitle>Positive Youth Fest 5</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_05078ec7ba935aaf0d2f81ef4253d1a6" label="mixed materials" type="Box">2</container>
+            <container id="aspace_052314e093be0b57d907ee2d65b8523a" parent="aspace_05078ec7ba935aaf0d2f81ef4253d1a6" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_e33ad8395e802dbae51f416c21fd7aea" level="file">
+          <did>
+            <unittitle>Positive Youth Fest 2006</unittitle>
+            <unitdate normal="2006/2006" type="inclusive">2006</unitdate>
+            <container id="aspace_9f2ee62b276bfe427414ed8a70323fff" label="mixed materials" type="Box">2</container>
+            <container id="aspace_293ad3196443a06f3d3bd9200e62bf41" parent="aspace_9f2ee62b276bfe427414ed8a70323fff" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_5798283c6ef4df5df4761a07138f20e4" level="file">
+          <did>
+            <unittitle>Shotgun seamstress zine collection</unittitle>
+            <unitdate normal="2012/2012" type="inclusive">2012</unitdate>
+            <container id="aspace_bc52a131d21cfd9c251c54e674ad4751" label="mixed materials" type="Box">2</container>
+            <container id="aspace_56c108c5816cff434a33df72cd715592" parent="aspace_bc52a131d21cfd9c251c54e674ad4751" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_4aeb21faa6853ee50f87f5a2641704bb" level="file">
+          <did>
+            <unittitle>Slanted, Number 2</unittitle>
+            <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_459f918b8dda1c70a99c8c642c879e69" label="mixed materials" type="Box">2</container>
+            <container id="aspace_7ac60d90b14314d55a370afca540db5d" parent="aspace_459f918b8dda1c70a99c8c642c879e69" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_3c72e18d073eb86ac8ece0a46a46cdcd" level="file">
+          <did>
+            <unittitle>Slickzine, Volume 2, Number 6</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_077190224b909be67c9d02d5c9c82c3c" label="mixed materials" type="Box">2</container>
+            <container id="aspace_543384e730c8fc1b6196ba594ba504a4" parent="aspace_077190224b909be67c9d02d5c9c82c3c" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_e507bf04bd8cd0e714508d87b645f882" level="file">
+          <did>
+            <unittitle>Slickzine, Volume 2, Number 7</unittitle>
+            <unitdate normal="1984-02/1984-02" type="inclusive">1984-02</unitdate>
+            <container id="aspace_c1df5c35e91a4d600e4ac37398e77c23" label="mixed materials" type="Box">2</container>
+            <container id="aspace_b04f7a1072dad9a8c0ebbad6329d0532" parent="aspace_c1df5c35e91a4d600e4ac37398e77c23" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_0007d5d1030aa0454f62063527067880" level="file">
+          <did>
+            <unittitle>Slickzine, Volume 2, Number 8</unittitle>
+            <unitdate normal="1984-12/1984-12" type="inclusive">1984-12</unitdate>
+            <container id="aspace_fc089d1e04440ad991c552896336d9ec" label="mixed materials" type="Box">2</container>
+            <container id="aspace_3d65fc7b6bc8756d228390735d957c8f" parent="aspace_fc089d1e04440ad991c552896336d9ec" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_62742aa9514a43ddb8c126df62ec8b93" level="file">
+          <did>
+            <unittitle>Slickzine, Volume 3, Number 1</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_c9a957b102e3876906dd2cf8d63630ad" label="mixed materials" type="Box">2</container>
+            <container id="aspace_15d76a1fc6b350a9264a45f38a2b4ea8" parent="aspace_c9a957b102e3876906dd2cf8d63630ad" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_74614a5b134d8b53c5fbe2a9bff8c367" level="file">
+          <did>
+            <unittitle>Slickzine, Volume 3, Number 2</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_049ca64684c456d8efbb480bf062c6e8" label="mixed materials" type="Box">2</container>
+            <container id="aspace_6fd3ca84ef95b76da40b23a0a1a850b5" parent="aspace_049ca64684c456d8efbb480bf062c6e8" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_5af569cc1c192695b66790e3fbf8439c" level="file">
+          <did>
+            <unittitle>Slickzine, Volume 4, Number 1</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_4548862c39861c6467fd7552b2f02f72" label="mixed materials" type="Box">2</container>
+            <container id="aspace_461b93c3907edd8f4f3be06484a90c28" parent="aspace_4548862c39861c6467fd7552b2f02f72" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_11fb5080d4b69ba6451804aec9716892" level="file">
+          <did>
+            <unittitle>Slickzine, Volume 4, Number 2</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_7c8e8c46bacbd4a7e66f5d3d6c8c2ce0" label="mixed materials" type="Box">2</container>
+            <container id="aspace_7ee28000abfddf2a9eb6787966bc1b76" parent="aspace_7c8e8c46bacbd4a7e66f5d3d6c8c2ce0" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_0d9e17b3f0a368c9dcddc68fa8977478" level="file">
+          <did>
+            <unittitle>Spectrum, Number 1</unittitle>
+            <unitdate normal="2008-04/2008-04" type="inclusive">2008-04</unitdate>
+            <container id="aspace_fc48e091c8ef5de64c2185d61d9ab716" label="mixed materials" type="Box">3</container>
+            <container id="aspace_a81af94aa6c5d8222138115603a1febb" parent="aspace_fc48e091c8ef5de64c2185d61d9ab716" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_14c8c297970366e03213c065b67dd9cd" level="file">
+          <did>
+            <unittitle>State of the union</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_42ba66c4a5d9ba70c3883b6c3fb2aa1a" label="mixed materials" type="Box">3</container>
+            <container id="aspace_5041499e68c305addcfda6a1bf818f73" parent="aspace_42ba66c4a5d9ba70c3883b6c3fb2aa1a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_99f83df4a5c939a7f543ffa274eae419" level="file">
+          <did>
+            <unittitle>Suburban Outcast, Number 2</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_266fd0e5afdbe2a92560f4dfe06075b0" label="mixed materials" type="Box">3</container>
+            <container id="aspace_9636a1b0fa6c13ef0ecdc3ddabd20df7" parent="aspace_266fd0e5afdbe2a92560f4dfe06075b0" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_20ebf07cda7034aaf0afb8fc6c554846" level="file">
+          <did>
+            <unittitle>Suspect Device, Number 1</unittitle>
+            <unitdate normal="2014/2014" type="inclusive">2014</unitdate>
+            <container id="aspace_20e73292bc525ea852a9b69e1f45a992" label="mixed materials" type="Box">3</container>
+            <container id="aspace_421a58d6961ed7a49fa299bd3896ce07" parent="aspace_20e73292bc525ea852a9b69e1f45a992" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_5a6def3dbe1b1364d476589e2c69a306" level="file">
+          <did>
+            <unittitle>To hell with good intentions fanzine, Number 15</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_4199cecba41a50479c8db64fd256b9ba" label="mixed materials" type="Box">3</container>
+            <container id="aspace_6d2d9082abec5d9019c3eeb59a55a963" parent="aspace_4199cecba41a50479c8db64fd256b9ba" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_9c53c17c55cd1a0ad95817409e39ad6d" level="file">
+          <did>
+            <unittitle>To hell with good intentions fanzine, Number 16</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3e645c1bbe831b7f8bbbe8fac8f0ca60" label="mixed materials" type="Box">3</container>
+            <container id="aspace_6c98220cc40fd4136b9501efeb13acd0" parent="aspace_3e645c1bbe831b7f8bbbe8fac8f0ca60" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_2f9c1466dec236d696eb23c0899c560c" level="file">
+          <did>
+            <unittitle>To hell with good intentions fanzine, Number 17</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_443afab34e570594e8241d2a72b3fff6" label="mixed materials" type="Box">3</container>
+            <container id="aspace_b46d84fb4ec21494ba44b6bcfa035b7d" parent="aspace_443afab34e570594e8241d2a72b3fff6" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_191cb7143334930ae727be369901bb03" level="file">
+          <did>
+            <unittitle>To hell with good intentions fanzine, Number 18</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_95117647e06a137f111e1cfb6e85370e" label="mixed materials" type="Box">3</container>
+            <container id="aspace_654f172ce6dd4539dc500a8b5a96369f" parent="aspace_95117647e06a137f111e1cfb6e85370e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_a01cb4c5f2cfde46270fa3548b3af977" level="file">
+          <did>
+            <unittitle>Thrillseeker, Number 2</unittitle>
+            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_19629043f2eda4b332581bb88d858c58" label="mixed materials" type="Box">3</container>
+            <container id="aspace_397ee6a1dab2bfeebc1250b777c9564c" parent="aspace_19629043f2eda4b332581bb88d858c58" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_f47fea1792207559f01a332e8e573f7e" level="file">
+          <did>
+            <unittitle>Thrillseeker</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_6cbdf601ac199e60b2e840f59b12c22c" label="mixed materials" type="Box">3</container>
+            <container id="aspace_28a472fd4518958589e87375721420ed" parent="aspace_6cbdf601ac199e60b2e840f59b12c22c" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_b80ecf73a96ea7abeedd15be465a2fdc" level="file">
+          <did>
+            <unittitle>Truly needy, Volume 2, Number 4</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_ba28b24d44c90efe7289825ab894f5ba" label="mixed materials" type="Box">3</container>
+            <container id="aspace_d887c3b88ef1070645a3f69ca9180cfd" parent="aspace_ba28b24d44c90efe7289825ab894f5ba" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_d979a6ec066487b8fb3e258ae30829e9" level="file">
+          <did>
+            <unittitle>Truly needy, Volume 2, Number 5</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_461e4fd503db7b234e61723fae757174" label="mixed materials" type="Box">3</container>
+            <container id="aspace_add68c1c450d140e85cf3abc55c601c4" parent="aspace_461e4fd503db7b234e61723fae757174" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_2078f2a99d44f919eaf55f7f55525b6a" level="file">
+          <did>
+            <unittitle>Truly Needy, Number 10</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_049ad79dbd6c1668bc13a64320171942" label="mixed materials" type="Box">3</container>
+            <container id="aspace_8c5bcc156fb3af0baa5567c503a386e0" parent="aspace_049ad79dbd6c1668bc13a64320171942" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_38309e83868a55ea50fb92eaaef67bb4" level="file">
+          <did>
+            <unittitle>Turn around, Number 2</unittitle>
+            <unitdate normal="1986-12/1986-12" type="inclusive">1986-12</unitdate>
+            <container id="aspace_70968f1f4641613b7dacb3ea5419e4ae" label="mixed materials" type="Box">3</container>
+            <container id="aspace_1a316d06010d4102df283f91fac22757" parent="aspace_70968f1f4641613b7dacb3ea5419e4ae" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_c82a8b69019f714ad2e10c34eacfc65b" level="file">
+          <did>
+            <unittitle>Uno mas, Volume 1, Number 1</unittitle>
+            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_cd0f016269b249ea7776a51409222880" label="mixed materials" type="Box">3</container>
+            <container id="aspace_6798e4698d56d57d6f741aa7ed950645" parent="aspace_cd0f016269b249ea7776a51409222880" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_7ed71be28a755adc9211599e8ab0175b" level="file">
+          <did>
+            <unittitle>Uno mas, Number 3</unittitle>
+            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_e9ed81ce702858ac475d1d9ac31aa534" label="mixed materials" type="Box">3</container>
+            <container id="aspace_b1ea8f0b6d75950aa74eb2f2d7c4190b" parent="aspace_e9ed81ce702858ac475d1d9ac31aa534" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_d4d7cef3b4cc272bb74b65a5e829709f" level="file">
+          <did>
+            <unittitle>WDC period, Volume 1, Number 5</unittitle>
+            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_67b95287e8e0b4c81b9cff340366d0cd" label="mixed materials" type="Box">3</container>
+            <container id="aspace_c18fc5300f84d8784c390d92f82af0f7" parent="aspace_67b95287e8e0b4c81b9cff340366d0cd" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_c86b9a3c40b69825679cb095dbd0ba57" level="file">
+          <did>
+            <unittitle>WDC period, Volume 1, Number 6</unittitle>
+            <unitdate normal="1984-12/1984-12" type="inclusive">1984-12</unitdate>
+            <container id="aspace_732cb28db83d7b7631c29b802001cc93" label="mixed materials" type="Box">3</container>
+            <container id="aspace_dc6ed29a2b4a4f24c564b865880284bf" parent="aspace_732cb28db83d7b7631c29b802001cc93" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_305c90e4a1514aa9ef8cd3b431cc6cd0" level="file">
+          <did>
+            <unittitle>WDC period, Volume 1, Number 7</unittitle>
+            <unitdate normal="1985-01/1985-01" type="inclusive">1985-01</unitdate>
+            <container id="aspace_3d5785f5524c32e24e6f0500da5a628d" label="mixed materials" type="Box">3</container>
+            <container id="aspace_1705e798a54b0f82d5de879862a89bda" parent="aspace_3d5785f5524c32e24e6f0500da5a628d" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ed0fe737a93e517e735c29adced8e8a8" level="file">
+          <did>
+            <unittitle>WDC period, Volume 1, Number 8</unittitle>
+            <unitdate normal="1985-04/1985-04" type="inclusive">1985-04</unitdate>
+            <container id="aspace_23289fb5760910245eb8aa73c5bf4443" label="mixed materials" type="Box">3</container>
+            <container id="aspace_57d66e815b832637b678a42e767449e2" parent="aspace_23289fb5760910245eb8aa73c5bf4443" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_505a0d456833c3ddfeb7df065b41b28b" level="file">
+          <did>
+            <unittitle>WDC period, Volume 1, Number 9</unittitle>
+            <unitdate normal="1985-06-01/1985-06-01" type="inclusive">1985-06-01</unitdate>
+            <container id="aspace_14031b72b0dd4805d8ad753145fbf227" label="mixed materials" type="Box">3</container>
+            <container id="aspace_368f1636d7748e37e8bee32d2de0fcda" parent="aspace_14031b72b0dd4805d8ad753145fbf227" type="Folder">21</container>
+          </did>
+          <scopecontent id="aspace_89d4888a9ebd7401297dc6a26a04674b">
+            <head>Scope and Contents</head>
+            <p>Volume number does not appear on the zine but is based on other issues in sequence</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ac8226399fda5c07db37c9355c368f59" level="file">
+          <did>
+            <unittitle>WDC period, Volume 1, Number 10</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_56cb641aa12880fe94932323963ea42d" label="mixed materials" type="Box">3</container>
+            <container id="aspace_3469de189d86d5fb4d90e5672d9af3d1" parent="aspace_56cb641aa12880fe94932323963ea42d" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_6e729bb125a584f6992c70b6a9a278b1" level="file">
+          <did>
+            <unittitle>WDC period, Volume 1, Number 11</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_96f82360ddf6c4488da997d935a59cec" label="mixed materials" type="Box">3</container>
+            <container id="aspace_cf56fb80925cb6c4070c37341dbee0bb" parent="aspace_96f82360ddf6c4488da997d935a59cec" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_852035c91cc91da51a202df95af8acdb" level="file">
+          <did>
+            <unittitle>WDC period, Volume 1, Number 12</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_46728f945f3d56b30033ce0f159c7bdf" label="mixed materials" type="Box">3</container>
+            <container id="aspace_7c6fde0837ee1cd466d602dc4973b342" parent="aspace_46728f945f3d56b30033ce0f159c7bdf" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_b27ce41411356f03bdf83c028010c2d7" level="file">
+          <did>
+            <unittitle>WDC period, Volume 1, Number 13</unittitle>
+            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_7d450148c359df08e4933dd7c4c61d5e" label="mixed materials" type="Box">3</container>
+            <container id="aspace_b1f81ea5c89c06962f1347b6e9d8d602" parent="aspace_7d450148c359df08e4933dd7c4c61d5e" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_7260e6e4b27a90b0b95c2eedbd2c9177" level="file">
+          <did>
+            <unittitle>Who cares?</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_a563b19fed041640725d577fd2d646d4" label="mixed materials" type="Box">3</container>
+            <container id="aspace_02f69ac2fc3120590ab5911481afc1ac" parent="aspace_a563b19fed041640725d577fd2d646d4" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_b8c0a14053c1063e797892970220aff2" level="file">
+          <did>
+            <unittitle>Word on the Street</unittitle>
+            <unitdate normal="2010/2010" type="inclusive">2010</unitdate>
+            <container id="aspace_8e3752d12521952e263a6c7ad5cae101" label="mixed materials" type="Box">3</container>
+            <container id="aspace_499c7048a960daf673886655b162a849" parent="aspace_8e3752d12521952e263a6c7ad5cae101" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_645d2d0679d13e7ec3764b120aa2ca2f" level="file">
+          <did>
+            <unittitle>Yet another unslanted opinion, Number 1</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_7be747746461bb786cf54dfeedc70fe1" label="mixed materials" type="Box">3</container>
+            <container id="aspace_76f459c2a886a664b532121f880b851b" parent="aspace_7be747746461bb786cf54dfeedc70fe1" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_fe303270f16a8bf7694ddb16d2e9b21e" level="file">
+          <did>
+            <unittitle>Yet another unslanted opinion, Number 2</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_9adc0db4a297bc67d5d58782a25ba8f9" label="mixed materials" type="Box">3</container>
+            <container id="aspace_1d481dbc901f069d3e02db90d35c4f00" parent="aspace_9adc0db4a297bc67d5d58782a25ba8f9" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_99895996fce13cb9c388915451d79ffe" level="file">
+          <did>
+            <unittitle>Yet another unslanted opinion, Number 5</unittitle>
+            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_4b155f47dec9b6287ff3751dc11e5dc5" label="mixed materials" type="Box">3</container>
+            <container id="aspace_bd34d1531a7328f39589c1a30eded8d3" parent="aspace_4b155f47dec9b6287ff3751dc11e5dc5" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_fd9952630e4f8f48063c71c0f668ce92" level="file">
+          <did>
+            <unittitle>Zone V</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c3591e531f699d51d0fe0fc0f62d6556" label="mixed materials" type="Box">3</container>
+            <container id="aspace_3b0f835287ca673dbdaa8807974cad72" parent="aspace_c3591e531f699d51d0fe0fc0f62d6556" type="Folder">31</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

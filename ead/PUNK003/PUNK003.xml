@@ -1,0 +1,511 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">janney.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Janney (Eddie) Collection</titleproper>
+        <titleproper>Eddie Janney <num>PUNK003</num> <num>PUNK003</num></titleproper>
+        <subtitle>An inventory of Eddie Janney at DC Public Library</subtitle>
+        <author>Finding aid prepared by Paul Kelly.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Stage</publisher>
+        <p>
+          <date>2017-10-04</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-01 15:00:50 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Stage</corpname>
+      </repository>
+      <unittitle>Eddie Janney Collection</unittitle>
+      <unitid>PUNK003</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 boxes</extent>
+      </physdesc>
+      <unitdate type="inclusive">Undated</unitdate>
+      <langmaterial id="aspace_c0313e4c633a9cac9553508b15d51ec6">English</langmaterial>
+      <langmaterial id="aspace_bd50410a9ffb93522b493fc98aae4b65">English</langmaterial>
+    </did>
+    <dsc>
+      <c id="aspace_4082ced385a716038e3178182ef5b36d" level="series">
+        <did>
+          <unittitle>Series 1: Printed Materials</unittitle>
+        </did>
+        <c id="aspace_c04782f2b02b47be524469a6658f8006" level="subseries">
+          <did>
+            <unittitle>Subseries 1: Fliers - Concerts - CA Venues</unittitle>
+          </did>
+          <c id="aspace_e01932980f7f5d046e9517309285b8e0" level="file">
+            <did>
+              <unittitle>Galaxy Rollerrink; Whiskey A Go-Go; Hong Kong Cafe - Los Angeles, CA</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_657988851fbabb4cf09f1c547d4ef713" label="mixed materials" type="Box">1</container>
+              <container id="aspace_c84afd43b9b24c97eb970ea7538a9665" parent="aspace_657988851fbabb4cf09f1c547d4ef713" type="Folder">1</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_4c478e7bd08b3425b9e38ff279635c6d" level="subseries">
+          <did>
+            <unittitle>Subseries 2: Fliers - Concerts - DC Venues</unittitle>
+          </did>
+          <c id="aspace_0459124f1c63e2e22ee326770f319f7d" level="file">
+            <did>
+              <unittitle>9:30 Club</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_abdd63cea7177623a493dadde8272882" label="mixed materials" type="Box">1</container>
+              <container id="aspace_ddeb761795bdfd0eb228c64894b00879" parent="aspace_abdd63cea7177623a493dadde8272882" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_99d4344dd8609aa6794aa32d0fd7e1dc" level="file">
+            <did>
+              <unittitle>American University</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_7bfff6650f5757132b4a0e757d54cfc1" label="mixed materials" type="Box">1</container>
+              <container id="aspace_824e3f53cdf86e342255c10ef77f2501" parent="aspace_7bfff6650f5757132b4a0e757d54cfc1" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_d3e872a79c2840a038a02e5896b533f8" level="file">
+            <did>
+              <unittitle>The Chancery</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_fe881a27cd1138a3d18d2efd26542f33" label="mixed materials" type="Box">1</container>
+              <container id="aspace_82a72c95cb06404272aa415e620f6f35" parent="aspace_fe881a27cd1138a3d18d2efd26542f33" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_02d44ae3be57fdcdb5d7a9833506cbca" level="file">
+            <did>
+              <unittitle>Childe Harold</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_623f8f958516eddcca9f8e1210309387" label="mixed materials" type="Box">1</container>
+              <container id="aspace_54d0483667fd263e1e23569a2f7c487a" parent="aspace_623f8f958516eddcca9f8e1210309387" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ee4dd81ae7b37618e898f3a4a1c2d5f9" level="file">
+            <did>
+              <unittitle>The Complex</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_1dc424665a35170e0b0cddbc38c9db4b" label="mixed materials" type="Box">1</container>
+              <container id="aspace_7badbc00c1ab8d92938b9dc166e96aea" parent="aspace_1dc424665a35170e0b0cddbc38c9db4b" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_73e5a13c5f499bb3c50bcb0f988940bb" level="file">
+            <did>
+              <unittitle>d.c. space</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_a3a90437656b34cc495791432d835a99" label="mixed materials" type="Box">1</container>
+              <container id="aspace_1154ff972b727688613273a19ecdac4c" parent="aspace_a3a90437656b34cc495791432d835a99" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_35e60995cd75a13dabe03a19d91f2b63" level="file">
+            <did>
+              <unittitle>The Embassy</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_60eaa070e8343947e3735191e3c2b9da" label="mixed materials" type="Box">1</container>
+              <container id="aspace_aab7c7fc64393bae950d83de7f317269" parent="aspace_60eaa070e8343947e3735191e3c2b9da" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_dba8f6254a0c0610973f11728d8d06de" level="file">
+            <did>
+              <unittitle>Fort Reno</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_945b7b2f1f3898f4a3967e9e67455183" label="mixed materials" type="Box">1</container>
+              <container id="aspace_6a11e2d965dae79bfc323ee876ac9327" parent="aspace_945b7b2f1f3898f4a3967e9e67455183" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_91a73e9fb00b41b5ddc5a632e50d93db" level="file">
+            <did>
+              <unittitle>Fred's Inn</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_440979b9562aca3d794bc7ead88bde7e" label="mixed materials" type="Box">1</container>
+              <container id="aspace_5f55a2f790d052684b2db40191e41679" parent="aspace_440979b9562aca3d794bc7ead88bde7e" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_c6360098361976942029c2e814ca9329" level="file">
+            <did>
+              <unittitle>George Washington University</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_e0286c142e955a081ae9e0e64607640f" label="mixed materials" type="Box">1</container>
+              <container id="aspace_b258f43234ddbbbfae54dc3a70df4b21" parent="aspace_e0286c142e955a081ae9e0e64607640f" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_0c530db539d322957395a0f4cf12e836" level="file">
+            <did>
+              <unittitle>Georgetown University</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_b20cee602c5b97596e89a696f141672d" label="mixed materials" type="Box">1</container>
+              <container id="aspace_05114c81c07e6141091124e1a2ba2a2a" parent="aspace_b20cee602c5b97596e89a696f141672d" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_994cba247392e082f764461739223d2c" level="file">
+            <did>
+              <unittitle>Lansburg Building</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_1fbbdbdefec9f79b577d1adea6347c86" label="mixed materials" type="Box">1</container>
+              <container id="aspace_0eb814cd6fe45f48251555151f86b7ea" parent="aspace_1fbbdbdefec9f79b577d1adea6347c86" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_72a57c907d89173ac9b6bdf08bd850f2" level="file">
+            <did>
+              <unittitle>Madam's Organ</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_8cac585813c4c7b6c43659fbaa40f450" label="mixed materials" type="Box">1</container>
+              <container id="aspace_ebdd46806da74bce01e44e858081fa8b" parent="aspace_8cac585813c4c7b6c43659fbaa40f450" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_d88e6b8d191bcae0fe4b125199350c05" level="file">
+            <did>
+              <unittitle>Market Five</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_dafbd3d4c98b489432e3100eb0020347" label="mixed materials" type="Box">1</container>
+              <container id="aspace_4f294b038f9f396e3e9fcbfb3f3e6aaf" parent="aspace_dafbd3d4c98b489432e3100eb0020347" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_b45f017f02b58f7f18084692c04181d2" level="file">
+            <did>
+              <unittitle>Ontario Theatre</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_86f2c8bcfe92cad210cd0c206fbb20fc" label="mixed materials" type="Box">1</container>
+              <container id="aspace_5d588c6d9d4b23a6c661fa9c33dbc6f2" parent="aspace_86f2c8bcfe92cad210cd0c206fbb20fc" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_b936eb8caa834775eaf5d23830dee892" level="file">
+            <did>
+              <unittitle>Reek's</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_6d7e3d4b4e31786d83def80f79f5ee7c" label="mixed materials" type="Box">1</container>
+              <container id="aspace_78c965c20131bd5855a14a9857ca400a" parent="aspace_6d7e3d4b4e31786d83def80f79f5ee7c" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_c7586ad757940fc2cfee26d7278ce4d9" level="file">
+            <did>
+              <unittitle>Rumba Club</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_0fcdf9767a950067db28507d642513db" label="mixed materials" type="Box">1</container>
+              <container id="aspace_bfa79fe5461117a8d74e5f642aa58ad2" parent="aspace_0fcdf9767a950067db28507d642513db" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_69c1904c093a47f7fde6ab1ff83a4eb1" level="file">
+            <did>
+              <unittitle>Scandals</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_f8c6cb6a9418c4b70542df67f80bea3c" label="mixed materials" type="Box">1</container>
+              <container id="aspace_430f4bf954bee07741ad7107b68a4d7a" parent="aspace_f8c6cb6a9418c4b70542df67f80bea3c" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_8dd86d948b081bcad46cf78a903f834a" level="file">
+            <did>
+              <unittitle>Washington International School</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_cb0842420e497181922655c29c9bfc85" label="mixed materials" type="Box">1</container>
+              <container id="aspace_86db76d581ad1dce02157de3a32a5058" parent="aspace_cb0842420e497181922655c29c9bfc85" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_9d156d9179b979bb042a31ce60147621" level="file">
+            <did>
+              <unittitle>Wilson Center</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_8418b6ccd551afbc2841d02e1936d2ab" label="mixed materials" type="Box">1</container>
+              <container id="aspace_f78edb436984ded4b2e7ed2ec29ead60" parent="aspace_8418b6ccd551afbc2841d02e1936d2ab" type="Folder">21</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_1df510abc3534c7acbdb407cba436fd5" level="subseries">
+          <did>
+            <unittitle>Subseries 3: Fliers - Concerts - MA Venues</unittitle>
+          </did>
+          <c id="aspace_c1f937f07b380c2663cdc7dedc0cdd89" level="file">
+            <did>
+              <unittitle>VFW Hall - Cambridge, MA</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_5c2d9974ca3f0ad056aa788ac6f400a4" label="mixed materials" type="Box">1</container>
+              <container id="aspace_0a47ffdd7a04bd83e0d62c0f403a953e" parent="aspace_5c2d9974ca3f0ad056aa788ac6f400a4" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_2c4f00a7dee857eca29ce67258e639db" level="file">
+            <did>
+              <unittitle>Gallery East - Boston, MA</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_a676075d1daf87e67e51c85f4957bb62" label="mixed materials" type="Box">1</container>
+              <container id="aspace_9ba4869d0a30fc67503710fea07702f8" parent="aspace_a676075d1daf87e67e51c85f4957bb62" type="Folder">23</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_46ef05ec9337c97a07d84ddccbcb5658" level="subseries">
+          <did>
+            <unittitle>Subseries 4: Fliers - Concerts - MD Venues</unittitle>
+          </did>
+          <c id="aspace_41111994e5dee5f051dc6fded1de991d" level="file">
+            <did>
+              <unittitle>5746 MacArthur Blvd - Brian's Garage</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_7b01a66167e130d1dbbe084cddea9c89" label="mixed materials" type="Box">1</container>
+              <container id="aspace_17b8d8d19f35be5a42a0b9e9cd24ca1a" parent="aspace_7b01a66167e130d1dbbe084cddea9c89" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_0aaa21ad8954aa41cbe4e8f26fd8311b" level="file">
+            <did>
+              <unittitle>Clara Barton School - Cabin John, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_5d7c26cdb3ab4f6fe557a8cffcf69a6b" label="mixed materials" type="Box">1</container>
+              <container id="aspace_aec08cdf5346203fad7ab7a8bafcadb8" parent="aspace_5d7c26cdb3ab4f6fe557a8cffcf69a6b" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_70646458ae6ba584cadf6b0238b4366b" level="file">
+            <did>
+              <unittitle>Janelle's</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_aa9b48feacbc1a95589a80a0c34a28c7" label="mixed materials" type="Box">1</container>
+              <container id="aspace_3abc7c51d217f3623e6f18fea85aac58" parent="aspace_aa9b48feacbc1a95589a80a0c34a28c7" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_90c8af090c3309e84e18f6cc92439b35" level="file">
+            <did>
+              <unittitle>Marble Bar - Baltimore, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_92632277eecc7d4f0e8691b5c3e4063f" label="mixed materials" type="Box">1</container>
+              <container id="aspace_332b692e7342ff17d44c4511dfaab30f" parent="aspace_92632277eecc7d4f0e8691b5c3e4063f" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_61d34996b7d90315d03d90bee12fd995" level="file">
+            <did>
+              <unittitle>Oddfellows Hall - Towson, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_e572c689e2c9a28a38193b7b2414e12e" label="mixed materials" type="Box">1</container>
+              <container id="aspace_56068800bab2aa92a07f8c7b17bc81b7" parent="aspace_e572c689e2c9a28a38193b7b2414e12e" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_3e6bbf23a132025ec99b86f14cd1fdac" level="file">
+            <did>
+              <unittitle>Psyche Delly - Bethesda, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_18c87a494789bdc88405499a38476d1d" label="mixed materials" type="Box">1</container>
+              <container id="aspace_15eda0aa0c115e1decbbf96125242c19" parent="aspace_18c87a494789bdc88405499a38476d1d" type="Folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_d122330867abc308845f92aa760e7166" level="file">
+            <did>
+              <unittitle>Slayton House - Columbia, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_0979aa3535e71f513b71e13dc4a0db11" label="mixed materials" type="Box">1</container>
+              <container id="aspace_61724eaca25095c480f3210d47f07a43" parent="aspace_0979aa3535e71f513b71e13dc4a0db11" type="Folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_42404efb26a132431831a843eb225d68" level="file">
+            <did>
+              <unittitle>Terminal 406 - Baltimore, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_71a1780fec025df88356ccfde84e8c4e" label="mixed materials" type="Box">1</container>
+              <container id="aspace_05b27b789b0345b7729e0ac8581a46bf" parent="aspace_71a1780fec025df88356ccfde84e8c4e" type="Folder">31</container>
+            </did>
+          </c>
+          <c id="aspace_0b8ee606466791763827172aff4b1f3d" level="file">
+            <did>
+              <unittitle>University of Maryland - College Park, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_b058168ab83af253b8c6503c6fcefcc2" label="mixed materials" type="Box">1</container>
+              <container id="aspace_179585a32c4394fcc005834904434f58" parent="aspace_b058168ab83af253b8c6503c6fcefcc2" type="Folder">32</container>
+            </did>
+          </c>
+          <c id="aspace_7dfd2cedad6e4242c1f2e5c18a766827" level="file">
+            <did>
+              <unittitle>YMCA - Bethesda, MD</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_a5c6a865039bf2892d64d1045b0497b1" label="mixed materials" type="Box">1</container>
+              <container id="aspace_83fe9d0ae5467190f1b2bfd5faee07f7" parent="aspace_a5c6a865039bf2892d64d1045b0497b1" type="Folder">33</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_6b1c810144124f9ffb6765ce28d24ee7" level="subseries">
+          <did>
+            <unittitle>Subseries 5: Fliers - Concerts - NY Venues</unittitle>
+          </did>
+          <c id="aspace_4b4a442153bf18710f1125d1ed1a3c3c" level="file">
+            <did>
+              <unittitle>CBGB - New York, NY</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_56b19350921ee2c4b04cc0abe421eff3" label="mixed materials" type="Box">1</container>
+              <container id="aspace_333860088cd0dea459c2f2abb159786f" parent="aspace_56b19350921ee2c4b04cc0abe421eff3" type="Folder">34</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_c3f9bfc64d3e42fb39e1af002e37d1ff" level="subseries">
+          <did>
+            <unittitle>Subseries 6: Fliers - Concerts - PA Venues</unittitle>
+          </did>
+          <c id="aspace_8677e8dc3cfbf38b0892f8ee0a3dee9c" level="file">
+            <did>
+              <unittitle>Love Hall - Philadelphia, PA</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_e694cacd3ba2a3518eebc022cf27ec3b" label="mixed materials" type="Box">1</container>
+              <container id="aspace_38a9f4a28962663ab4f38dc6e43fb10d" parent="aspace_e694cacd3ba2a3518eebc022cf27ec3b" type="Folder">35</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_0228d3d35f92f596cf994d7f80630404" level="subseries">
+          <did>
+            <unittitle>Subseries 7: Fliers - Concerts - UK Venues</unittitle>
+          </did>
+          <c id="aspace_4034bb592d1335ae3fff4d7c875d9477" level="file">
+            <did>
+              <unittitle>Walmer Castle - London, UK</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_2e54df9b1fbf3fb4801c04c3abf14567" label="mixed materials" type="Box">1</container>
+              <container id="aspace_c387c01885700a3472ab7a3e4bf7fbd5" parent="aspace_2e54df9b1fbf3fb4801c04c3abf14567" type="Folder">36</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_c7e5fb832a29402162d0379395972916" level="subseries">
+          <did>
+            <unittitle>Subseries 8: Fliers - Concerts - VA Venues</unittitle>
+          </did>
+          <c id="aspace_fc64950545b4a95bee8879c7ec7bc88f" level="file">
+            <did>
+              <unittitle>Casablanca, The - Richmond, VA</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_ff043a09301729b042c3816abd9b151c" label="mixed materials" type="Box">1</container>
+              <container id="aspace_b928b49fb37e82fd3094fe31672706ea" parent="aspace_ff043a09301729b042c3816abd9b151c" type="Folder">37</container>
+            </did>
+          </c>
+          <c id="aspace_49c0b0c5dab96eb65a778f164078f2d3" level="file">
+            <did>
+              <unittitle>H.B. Woodlawn High School - Arlington, VA</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_d4fcbcd524a4a0f8cb738dd9b6b2097b" label="mixed materials" type="Box">1</container>
+              <container id="aspace_927c6c3f60a6ab78a21d4080bd6e695e" parent="aspace_d4fcbcd524a4a0f8cb738dd9b6b2097b" type="Folder">38</container>
+            </did>
+          </c>
+          <c id="aspace_3e090da88edd7a1e8ba16a4c241a96af" level="file">
+            <did>
+              <unittitle>Imperial 400 Motor Lodge, The - Falls Church, VA</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_cad4cacdda47337f5c87064c6cf53146" label="mixed materials" type="Box">1</container>
+              <container id="aspace_cd96f8b7327dd475fcf2df7b1009e0c6" parent="aspace_cad4cacdda47337f5c87064c6cf53146" type="Folder">39</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_63e8c96309e2a71339c54f6a80468ad0" level="series">
+        <did>
+          <unittitle>Series 2: Zines</unittitle>
+        </did>
+        <c id="aspace_491fd161386a8a94ea3a821605100583" level="file">
+          <did>
+            <unittitle>Insurrection Fanzine No. 1</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_3c51f56952893f3b2cf707ff3be6f558" label="mixed materials" type="Box">1</container>
+            <container id="aspace_63912aa1922a63216d7dfacb41c5eb0e" parent="aspace_3c51f56952893f3b2cf707ff3be6f558" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_d7bff127e2528809b84a7fb2c229b264" level="file">
+          <did>
+            <unittitle>Washington Waves 4</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_9b715ad3819c2c626c735f1ce4e54b15" label="mixed materials" type="Box">1</container>
+            <container id="aspace_176ceb11db5b0e52041bea6f818b8c86" parent="aspace_9b715ad3819c2c626c735f1ce4e54b15" type="Folder">41</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_6278e93dedb2312acb41c5c4e75441a0" level="series">
+        <did>
+          <unittitle>Series 3: Posters</unittitle>
+        </did>
+        <c id="aspace_de1360232fccc63cb187a8d60d178e4a" level="subseries">
+          <did>
+            <unittitle>Subseries 1: Posters - Concerts - DC Venues</unittitle>
+          </did>
+          <c id="aspace_884eca2324e585a248a5b7a1195acb31" level="file">
+            <did>
+              <unittitle>9:30 Club</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_35ffa83b983bd3183ce72f8e321c088f" label="mixed materials" type="Box">2</container>
+              <container id="aspace_645708246532469f5220f4d17ad5d2ea" parent="aspace_35ffa83b983bd3183ce72f8e321c088f" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_542b7c017c409be7fbe8597237254d62" level="file">
+            <did>
+              <unittitle>d.c. space</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_039f6796678f3666d43f6bd5a66e0e2f" label="mixed materials" type="Box">2</container>
+              <container id="aspace_99ea47cde172fed0545c9ded53db666e" parent="aspace_039f6796678f3666d43f6bd5a66e0e2f" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_b69f3edb0da354e6367d2baa4acab3df" level="file">
+            <did>
+              <unittitle>Lansburg Cultural Center</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_adef4a6ffd97a0b9d1838a8da6c8fe23" label="mixed materials" type="Box">2</container>
+              <container id="aspace_730ee657a1a3c748f9440da079f79599" parent="aspace_adef4a6ffd97a0b9d1838a8da6c8fe23" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_0280e5568fb4398ff8575e885d137eb0" level="file">
+            <did>
+              <unittitle>Space II Arcade</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_094165d99b2cabbe528edee4a13dd557" label="mixed materials" type="Box">2</container>
+              <container id="aspace_70d82d823d0463027761eb679968cce1" parent="aspace_094165d99b2cabbe528edee4a13dd557" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_2c9724e58f8518924ccbc3dc7858ce08" level="file">
+            <did>
+              <unittitle>Wilson Center</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_d2a4c1ba135b16bd03a3c64ea4141f01" label="mixed materials" type="Box">2</container>
+              <container id="aspace_02b95f0fefc6970b39f7cd6c9521300f" parent="aspace_d2a4c1ba135b16bd03a3c64ea4141f01" type="Folder">5</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_c4a699f9c416208f75a5f87fc6a92b83" level="subseries">
+          <did>
+            <unittitle>Subseries 2: Posters - Concerts - IL Venues</unittitle>
+          </did>
+          <c id="aspace_0b47117a21a9bd9673ca9efcc8ee7ca4" level="file">
+            <did>
+              <unittitle>Central American Social Club - Chicago, IL</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_69b98e4eccd6798a4703917dd2654dfa" label="mixed materials" type="Box">2</container>
+              <container id="aspace_77f9258618a432089076901454dd10dd" parent="aspace_69b98e4eccd6798a4703917dd2654dfa" type="Folder">6</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_48571d32d46bde29736be7be036de175" level="subseries">
+          <did>
+            <unittitle>Subseries 3: Posters - Concerts - WI</unittitle>
+          </did>
+          <c id="aspace_6e782ab46e800b9be33ff09ecc1049ca" level="file">
+            <did>
+              <unittitle>Merlyns - Madison, WI</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+              <container id="aspace_0ec1de4ee664a061e6d8262465dbffbe" label="mixed materials" type="Box">2</container>
+              <container id="aspace_525f64272dca443632da4f6c969fd418" parent="aspace_0ec1de4ee664a061e6d8262465dbffbe" type="Folder">7</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_85bf4297c8f5abc5d1cdba5bc62ee602" level="series">
+        <did>
+          <unittitle>Series 4: Miscellaneous</unittitle>
+        </did>
+        <c id="aspace_6b60eab5c9cfbfdf56a5f7daa0acc270" level="file">
+          <did>
+            <unittitle>Record Promotional Materials</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_f6ee278b42ef55b1a2a04f1544a378b1" label="mixed materials" type="Box">2</container>
+            <container id="aspace_283049a40aeb35b63e732b908c401adf" parent="aspace_f6ee278b42ef55b1a2a04f1544a378b1" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
