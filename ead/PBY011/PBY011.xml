@@ -10,7 +10,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-01 14:59:10 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-09 09:25:48 -0400</date>.</creation>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
@@ -28,7 +28,7 @@
         <extent altrender="materialtype spaceoccupied">3 Linear feet</extent>
       </physdesc>
       <unitdate certainty="approximate" normal="1800/1900" type="inclusive">1800-1900</unitdate>
-      <langmaterial id="aspace_b0dd33e06a4c2af0dbd54b7a95939f26">English</langmaterial>
+      <langmaterial id="aspace_67316dc2a7496fe12fd140b6a43d0c66">English</langmaterial>
     </did>
     <acqinfo id="aspace_8a88701cc1f8b30a442363997827d7b5">
       <head>Immediate Source of Acquisition</head>
@@ -42,6 +42,35 @@
       <head>Conditions Governing Use</head>
       <p>No known reproduction restrictions are on this collection.</p>
     </userestrict>
-    <dsc/>
+    <dsc>
+      <c id="aspace_e59484a34a9566e2394306cb1dbe0c63" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <scopecontent id="aspace_311d438949edddc6611c9b48372648ae">
+          <head>Scope and Contents</head>
+          <p>A manuscript notebook containing transcriptions of correspondence from Samuel Davidson to the Commissioners for the District of Columbia dating from 1792 to 1809. Possibly transcribed by Henry Henley Dodge (1835 -1898) whose signature "H. H. Dodge" appears on the inside front cover over "Book No. 5-." Samuel's nephew Lewis had a younger sister Elizabeth Grant Davidson (1827 – 1892) who in 1849 married Charles Dodge (1828 – 1890). Henry Henley is probably related to Charles but the connection remains to be determined.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_4e9cea12d157df32b9c89db019ff08fd" level="series">
+        <did>
+          <unittitle>Series 2</unittitle>
+        </did>
+        <scopecontent id="aspace_4547a6696f95dc8c4eb693806c9d3132">
+          <head>Scope and Contents</head>
+          <p>Receipted household, employment, and promissory note invoices paid by Lewis Grant Davidson 1810-1820. Receipts are arranged chronologically into folders by year with one folder containing undated receipts.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_a4f218070d94cc52b3211826d1d9ad15" level="series">
+        <did>
+          <unittitle>Series 3</unittitle>
+        </did>
+        <scopecontent id="aspace_768f1689d5583924405ee19ea2865361">
+          <head>Scope and Contents</head>
+          <p>Diary of Samuel Grant Davidson covering the time period of January 1, 1845 to May 24, 1845. Diary is a copy of the original whose location is unknown and accompanied by two typewritten transcripts. All suffered water damage from 2007 Georgetown Branch Library fire but are serviceable. Included are four typed transcripts of: </p>
+          <p>- September 7, 1844 - "Slave Investment Trust" contract signed by Samuel Grant Davidson and five others for the purchase of Richard Daily ("mulatoe Boy") from Thomas Williams Droven ("…a dealer in Negroes…"). - October 12, 1845 – Unfinished and unsent letter written by Samuel Grant Davidson and perhaps intended for his sister Ann Grant Davidson (1924 - ?) who on July 3, 1845 had married Dr. A. D. Woodruff. - August 2, 1865 – Letter written to Samuel Grant Davidson by a cousin identified only by the letter "L". - Circa 1870s – "A Fragment of an Historical Novel of Late Eighteenth Century Georgetown" apparently written circa 1870s by Samuel Grant Davidson. Accompanied by copy of original 35-page transcript in which the first two pages are missing.</p>
+        </scopecontent>
+      </c>
+    </dsc>
   </archdesc>
 </ead>
