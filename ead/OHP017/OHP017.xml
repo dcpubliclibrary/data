@@ -1,0 +1,73 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid/>
+    <filedesc>
+      <titlestmt>
+        <titleproper>D.C. Public School Survey, Phase II Oral History Project<num>OHP017</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Stage</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-12 12:33:58 -0400</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Stage</corpname>
+      </repository>
+      <unittitle>D.C. Public School Survey, Phase II Oral History Project</unittitle>
+      <unitid>OHP017</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
+      </physdesc>
+      <unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate>
+    </did>
+    <scopecontent id="aspace_8bc81f82244b5a747097f566be0ef570">
+      <head>Scope and Contents</head>
+      <p>Between 1998 and 1999 the Historical Society of Washington conducted a total of 40 oral history interviews with adults who had attended D.C. public schools. Topics include educational experiences, schools attended, dates of graduation. The project director was Karen Washburn, Oral Historian for the Historical Society.</p>
+    </scopecontent>
+    <bioghist id="aspace_966e38d1b14a692654a4f55c86681092">
+      <head>Biographical / Historical</head>
+      <p>Originally known as the Columbia Historical Society, The Historical Society of Washington, D.C. was founded in 1894. The society is an educational foundation and museum dedicated to preserving and displaying the history of Washington, D.C.; providing lectures, exhibits, classes, community events and other educational programs as part of its mission.</p>
+    </bioghist>
+    <acqinfo id="aspace_3cba4bf31e81178fb488c6a39c048eaa">
+      <head>Immediate Source of Acquisition</head>
+      <p>The Historical Society of Washington, D.C. conducted these interviews between 1998 and 1999. The transcripts of these interviews were transferred to the Library in the early 2000s. There is no deed of gift for this collection.</p>
+    </acqinfo>
+    <processinfo id="aspace_f5b353929b00fd2a32f899706e7bd102">
+      <head>Processing Information</head>
+      <p>After the initial deposit of the transcripts in the Library, the transcript were bound, cataloged and added to Washingtoniana book collection. There are no taped interviews for this collection.  In 2014, the tapes and transcripts were digitized and in 2017 the collection was reprocessed. The transcripts were placed into folders and boxed. All administrative documents were placed into the control file.</p>
+    </processinfo>
+    <userestrict id="aspace_a8df72c3f10f91ae275327918918477d">
+      <head>Conditions Governing Use</head>
+      <p>The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from the Historical Society of Washington, D.C. to publish or exhibit information. Reproduction of oral histories without release is not permitted.</p>
+    </userestrict>
+    <dsc>
+      <c id="aspace_f4de0674f5d95b31269802a333420b03" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <scopecontent id="aspace_d698a57252aa73969b634082cdf1f5de">
+          <head>Scope and Contents</head>
+          <p>Materials in this series include transcripts  for all interviews.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_0e46f808c3e1e55e5c61d896048d4f8a" level="series">
+        <did>
+          <unittitle>Series 2</unittitle>
+        </did>
+        <scopecontent id="aspace_3f6ac285e1a57d87befff91dbd0853ba">
+          <head>Scope and Contents</head>
+          <p>Materials in this series include master copies of the oral histories on audio cassette. There are no duplicate copies of any audio recordings. There are no tapes for 19-09 and 19-17.</p>
+        </scopecontent>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
