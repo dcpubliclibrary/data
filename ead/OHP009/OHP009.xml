@@ -10,7 +10,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-12 12:34:27 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-25 00:00:34 -0400</date>.</creation>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
@@ -49,6 +49,9 @@
       <head>Conditions Governing Use</head>
       <p>The Library holds copyright for items in this collection with a signed release. There are no restrictions on the use of these collection materials. Reproduction of an oral history without a signed release is not permitted.</p>
     </userestrict>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85095238" source="Library of Congress Subject Headings">Oral History</subject>
+    </controlaccess>
     <dsc>
       <c id="aspace_df52936ee35e1e156d16b9c6793ee0ea" level="series">
         <did>
@@ -62,24 +65,24 @@
           <did>
             <unittitle>Roger Morigi</unittitle>
             <unitdate normal="1984-07-19/1984-07-19">1984 July 19</unitdate>
-            <container id="aspace_b4998644acbf19d2684adca8abf2b007" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_cbe109c6e2d37b330dda127efe91e766" parent="aspace_b4998644acbf19d2684adca8abf2b007" type="Folder">1</container>
+            <container id="aspace_08fb1ff3f6064669ef5b87a353344ae3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_041bd2069d5be5143d3118b9da4dcbd5" parent="aspace_08fb1ff3f6064669ef5b87a353344ae3" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_1473afe9e35486fc246af5c663f8f368" level="file">
           <did>
             <unittitle>Aldo Paul Petrini</unittitle>
             <unitdate normal="1984-06-20/1984-06-20">1984 June 20</unitdate>
-            <container id="aspace_269b2f7540888fe73415e68ebe463fc9" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_c88e9bd0d5ca930e3b96909ff6436678" parent="aspace_269b2f7540888fe73415e68ebe463fc9" type="Folder">2</container>
+            <container id="aspace_ba481365bdfa17d3b3f87c45fd7f8e7d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_10b994e18fa15f26bd9b49e7d1a3b5db" parent="aspace_ba481365bdfa17d3b3f87c45fd7f8e7d" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_652fe76bd11c43cb8e39d2671897ce79" level="file">
           <did>
             <unittitle>Gino Simi</unittitle>
             <unitdate normal="1984-07-23/1984-07-23">1984 July 23</unitdate>
-            <container id="aspace_1153eabbddb7e40d74f23e4a28c3f67c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_dac0b3e56e8f3fb74d0e991220bb7cba" parent="aspace_1153eabbddb7e40d74f23e4a28c3f67c" type="Folder">3</container>
+            <container id="aspace_dc939628ba73d4996f1c4e343bd97cf1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3940461dde0652b7e9d5ac8c5ff8018a" parent="aspace_dc939628ba73d4996f1c4e343bd97cf1" type="Folder">3</container>
           </did>
         </c>
       </c>

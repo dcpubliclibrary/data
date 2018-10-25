@@ -10,7 +10,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-12 12:34:10 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-24 23:59:34 -0400</date>.</creation>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
@@ -49,6 +49,9 @@
       <head>Conditions Governing Use</head>
       <p>The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from Historic Takoma to publish or exhibit information. Reproduction of oral Histories without release is not permitted.</p>
     </userestrict>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85095238" source="Library of Congress Subject Headings">Oral History</subject>
+    </controlaccess>
     <dsc>
       <c id="aspace_0e522a39d0d7f37306972cd024c19d1b" level="series">
         <did>
@@ -58,6 +61,30 @@
           <head>Scope and Contents</head>
           <p>Materials in this series include transcripts  for all interviews.</p>
         </scopecontent>
+        <c id="aspace_8119b76519b51eabd933a928fa039599" level="file">
+          <did>
+            <unittitle>Dorothy Barnes</unittitle>
+            <unitdate normal="2001-07-25/2001-07-25">2001 July 25</unitdate>
+            <container id="aspace_89ed3829903f25b8a5b455ab9784f188" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e0860a26773e47694e9b66e88d139e7b" parent="aspace_89ed3829903f25b8a5b455ab9784f188" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_e15ee3563ad8d0b4ae57d5fd1752f288" level="file">
+          <did>
+            <unittitle>Roland Dawes</unittitle>
+            <unitdate normal="2001-07-26/2001-07-26">2001 July 26</unitdate>
+            <container id="aspace_3bf76ac4bf7f9a47346e39c5a488feb7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d7f2c934f535c788b6bb8c0c53ce16f6" parent="aspace_3bf76ac4bf7f9a47346e39c5a488feb7" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_3d079755002cca68978b5b46b9273ab1" level="file">
+          <did>
+            <unittitle>Ethel Myers Barile</unittitle>
+            <unitdate normal="2001-09-16/2001-09-16">2001 September 16</unitdate>
+            <container id="aspace_98445a5c575b7a3606839c56bdf37c4c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9f5b20d8b65f9385e569f87b55df0966" parent="aspace_98445a5c575b7a3606839c56bdf37c4c" type="Folder">3</container>
+          </did>
+        </c>
       </c>
     </dsc>
   </archdesc>
