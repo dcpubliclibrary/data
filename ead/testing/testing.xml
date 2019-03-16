@@ -1,0 +1,500 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid/>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Paul test<num>testing.testing</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Stage</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2019-03-15 23:59:26 -0400</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Stage</corpname>
+      </repository>
+      <unittitle>Paul test</unittitle>
+      <unitid>testing.testing</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">20 Linear feet</extent>
+      </physdesc>
+      <unitdate normal="2012/2014" type="inclusive">2012-2014</unitdate>
+    </did>
+    <dsc>
+      <c id="aspace_767c547e2309ef645ed5206c08457ebf" level="series">
+        <did>
+          <unittitle>Series 1</unittitle>
+        </did>
+        <c id="aspace_b1d3ea03e69284eae958afe0b0396262" level="file">
+          <did>
+            <unittitle>http://14thandyou.blogspot.com/</unittitle>
+            <unitdate normal="2007/2012" type="inclusive">2007-2012</unitdate>
+            <container id="aspace_338be777c8452a54d4c361a81ca145fc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d068f70f877762b93a6f5e9c25567c39" parent="aspace_338be777c8452a54d4c361a81ca145fc" type="Folder">1</container>
+          </did>
+          <odd id="aspace_8009e9e2d785df090c3c4b1bb34292c0">
+            <head>General</head>
+            <p>Neighborhood news, events and opinion blog, sometimes covering topics outside of the scope of Logan Circle.</p>
+          </odd>
+        </c>
+        <c id="aspace_209e3dc8d33f59b5730dd2b3ab58fc78" level="file">
+          <did>
+            <unittitle>http://admoblog.com/</unittitle>
+            <unitdate normal="2010/2017" type="inclusive">2010-2017</unitdate>
+            <container id="aspace_c72dff4a56586d06ecbd0378e5e99fc1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1508798ceb5494a5566769e3da5df787" parent="aspace_c72dff4a56586d06ecbd0378e5e99fc1" type="Folder">2</container>
+          </did>
+          <odd id="aspace_a936f3694d896b816c03676434a01a23">
+            <head>General</head>
+            <p>Personal musings regarding Adams Morgan, greater Washington DC and other topics.</p>
+          </odd>
+        </c>
+        <c id="aspace_3b9f3d1888f24170969b09c65e640fe3" level="file">
+          <did>
+            <unittitle>http://anacostianow.blogspot.com/</unittitle>
+            <unitdate normal="2007/2011" type="inclusive">2007-2011</unitdate>
+            <container id="aspace_3efd2ff2708bd5728cd098531056ecc5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5d3e5cdef8febb8aaf699f0f10a4b63d" parent="aspace_3efd2ff2708bd5728cd098531056ecc5" type="Folder">3</container>
+          </did>
+          <odd id="aspace_978cf3dc3f81201270ebf5c4cd17e937">
+            <head>General</head>
+            <p>Community information and musings on the Anacostia neighborhood.</p>
+          </odd>
+        </c>
+        <c id="aspace_186ebe3f47d8dd1fdd6bd852d859edb4" level="file">
+          <did>
+            <unittitle>http://blog.inshaw.com/</unittitle>
+            <unitdate normal="2003/2017" type="inclusive">2003-2017</unitdate>
+            <container id="aspace_1ee053b86aada0934e9438ccaaef988a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e0ce94a4ce118c6290c9ba4da27af148" parent="aspace_1ee053b86aada0934e9438ccaaef988a" type="Folder">4</container>
+          </did>
+          <odd id="aspace_0e959959519ac15aa748ca0ecfa01393">
+            <head>General</head>
+            <p>An opinionated blog relaying community events, news, personal anecdotes, and history.</p>
+          </odd>
+        </c>
+        <c id="aspace_78dc25e4fc3da1f755064883910e0c88" level="file">
+          <did>
+            <unittitle>http://bloomingdaleneighborhood.blogspot.com/</unittitle>
+            <unitdate normal="2005/2017" type="inclusive">2005-2017</unitdate>
+            <container id="aspace_61b7483221401726af9a4efc3b6a55b9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d6d20c4188b8960779e6c54dc073d752" parent="aspace_61b7483221401726af9a4efc3b6a55b9" type="Folder">5</container>
+          </did>
+          <odd id="aspace_89c8116c1965ce2955f462c98fa0a9f5">
+            <head>General</head>
+            <p>Community blog providing news and annnouncements, with a special emphasis on local businesses.</p>
+          </odd>
+        </c>
+        <c id="aspace_f55a52c86bb841d2ad84e82e4b7b97d3" level="file">
+          <did>
+            <unittitle>http://brooklandbridge.com/</unittitle>
+            <unitdate normal="2012/2017" type="inclusive">2012-2017</unitdate>
+            <container id="aspace_5e894de282fbd259b76bb356f92b1c9c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c54d681143941b7f18c81d3529697368" parent="aspace_5e894de282fbd259b76bb356f92b1c9c" type="Folder">6</container>
+          </did>
+          <odd id="aspace_dd3a470a9b09bc0aa921ca067a827f6e">
+            <head>General</head>
+            <p>Neighborhood news and announcements, business profiles and miscellaneous posts about Brookland .</p>
+          </odd>
+        </c>
+        <c id="aspace_0e6e63f4cb24d7b1fe644fac03153a25" level="file">
+          <did>
+            <unittitle>http://distcurm.blogspot.com/</unittitle>
+            <unitdate normal="2010/2014" type="inclusive">2010-2014</unitdate>
+            <container id="aspace_7af3f786c02d3ebedfa0136a58bf52ea" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_38929487651643d8de4f76b45333540b" parent="aspace_7af3f786c02d3ebedfa0136a58bf52ea" type="Folder">7</container>
+          </did>
+          <odd id="aspace_3985ecc5782c6ac55da17ee61fbc36b5">
+            <head>General</head>
+            <p>Opinionated blog offering information and musings on life in DC.</p>
+          </odd>
+        </c>
+        <c id="aspace_54fac83ece10bec18ecd9984c3e3cc4b" level="file">
+          <did>
+            <unittitle>http://eckingtonblog.blogspot.com/</unittitle>
+            <unitdate normal="2006/2010" type="inclusive">2006-2010</unitdate>
+            <container id="aspace_1059227f5883ba1d48eb6a98a5f3c2e6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ba85c7b89d0f7c2885cfe9e8b71353ec" parent="aspace_1059227f5883ba1d48eb6a98a5f3c2e6" type="Folder">8</container>
+          </did>
+          <odd id="aspace_d91939b58a834ca717033f780a3aa91b">
+            <head>General</head>
+            <p>Neighborhood announcements, observations and opinions from one Eckington resident.</p>
+          </odd>
+        </c>
+        <c id="aspace_28c98ebb7597ba0c757135c5b8bee240" level="file">
+          <did>
+            <unittitle>http://eckingtondc.blogspot.com/</unittitle>
+            <unitdate normal="2007/2009" type="inclusive">2007-2009</unitdate>
+            <container id="aspace_d22f5f461d23ed96962a1ec60e9b5253" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2f3c7a97902ce188df8b1ee4c3988054" parent="aspace_d22f5f461d23ed96962a1ec60e9b5253" type="Folder">9</container>
+          </did>
+          <odd id="aspace_1779b6bcbfb8f79295a36029efc86bd2">
+            <head>General</head>
+            <p>Community announcements , information, opinions, and musings for Eckington and the surrounding area.</p>
+          </odd>
+        </c>
+        <c id="aspace_c3e4c4d30e14fb2ea7dd4cf8b81952b1" level="file">
+          <did>
+            <unittitle>http://fairfaxvillage.blogspot.com/</unittitle>
+            <unitdate normal="2009/2014" type="inclusive">2009-2014</unitdate>
+            <container id="aspace_735f09dc196196d8867f35f0c2de9b6d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8bd84dd0a7dc421b60f88fcd8a5bc645" parent="aspace_735f09dc196196d8867f35f0c2de9b6d" type="Folder">10</container>
+          </did>
+          <odd id="aspace_e28667ded7627152e190810bb5768696">
+            <head>General</head>
+            <p>Community updates and personal musings on Fairfax Village life.</p>
+          </odd>
+        </c>
+        <c id="aspace_faf2b6dcd29700ec01d83915a68c2660" level="file">
+          <did>
+            <unittitle>http://frozentropics.blogspot.com/</unittitle>
+            <unitdate normal="2004/2017" type="inclusive">2004-2017</unitdate>
+            <container id="aspace_fe7802b8057f5498d1b1da25f4a2f062" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_72d14a1db2d7de13c779b92a6fc4757d" parent="aspace_fe7802b8057f5498d1b1da25f4a2f062" type="Folder">11</container>
+          </did>
+          <odd id="aspace_847316b69fbffdd136f439e857c0a84b">
+            <head>General</head>
+            <p>Community news, events, and announcements for the Trinidad, H Street, and the surrounding North Capitol Hill area</p>
+          </odd>
+        </c>
+        <c id="aspace_18d245669a51a4789f947be3c3c99f90" level="file">
+          <did>
+            <unittitle>http://gloverparkdc.blogspot.com/</unittitle>
+            <unitdate normal="2009/2015" type="inclusive">2009-2015</unitdate>
+            <container id="aspace_df5e09ecad01ac30dbd69f858967c4e6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_aef7e05434ca6fee2cf1e8d860bbed3a" parent="aspace_df5e09ecad01ac30dbd69f858967c4e6" type="Folder">12</container>
+          </did>
+          <odd id="aspace_7681537ebc9f6f83be3caadda0584803">
+            <head>General</head>
+            <p>Community news and events</p>
+          </odd>
+        </c>
+        <c id="aspace_bffcc59ba57028cf75a5972f6d97fb39" level="file">
+          <did>
+            <unittitle>http://leftforledroit.com/</unittitle>
+            <unitdate normal="2009/2016" type="inclusive">2009-2016</unitdate>
+            <container id="aspace_4b5444603cbb6d368253e197e5b9bc8d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7a54307d7dc8309d026cee42c6efff63" parent="aspace_4b5444603cbb6d368253e197e5b9bc8d" type="Folder">13</container>
+          </did>
+          <odd id="aspace_e46bec3f6c604d356324a65a8971caaf">
+            <head>General</head>
+            <p>LeDroit Park news and event announcements.</p>
+          </odd>
+        </c>
+        <c id="aspace_eff7e3fc1584c3b9b2468abc22b5fedb" level="file">
+          <did>
+            <unittitle>http://lifeontheedgewood.blogspot.com/</unittitle>
+            <unitdate normal="2010/2016" type="inclusive">2010-2016</unitdate>
+            <container id="aspace_8b3f76d66d5fc35ab842c974118bcd9b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e7c0d9ffb432050ca85bc5c6825749e6" parent="aspace_8b3f76d66d5fc35ab842c974118bcd9b" type="Folder">14</container>
+          </did>
+          <odd id="aspace_9cef8c8e8a240028a94e4854f58f67fa">
+            <head>General</head>
+            <p>Community news, events, and announcements. Includes a short Edgewood Business Directory.</p>
+          </odd>
+        </c>
+        <c id="aspace_2d8c081ad25520211386d75f726ce6b9" level="file">
+          <did>
+            <unittitle>http://loganupdates.blogspot.com/</unittitle>
+            <unitdate normal="2005/2011" type="inclusive">2005-2011</unitdate>
+            <container id="aspace_2221c11832858f6ecef32742c1f4e048" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3293f13ee8b76b436a167a8baa0222c7" parent="aspace_2221c11832858f6ecef32742c1f4e048" type="Folder">15</container>
+          </did>
+          <odd id="aspace_f4a9857c878642821b6d3d70a6593215">
+            <head>General</head>
+            <p>Neighborhood news and events.</p>
+          </odd>
+        </c>
+        <c id="aspace_6f61011f9473e0cf1a97abfb27c1e830" level="file">
+          <did>
+            <unittitle>http://newcolumbiaheights.blogspot.com/</unittitle>
+            <unitdate normal="2008/2017" type="inclusive">2008-2017</unitdate>
+            <container id="aspace_a6cf6ce3e4f9f9e9a94d0141df60ebbc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8d794c488362b77309681662f832dce8" parent="aspace_a6cf6ce3e4f9f9e9a94d0141df60ebbc" type="Folder">16</container>
+          </did>
+          <odd id="aspace_15a27e448c69e4b7acc5370e718b2e68">
+            <head>General</head>
+            <p>Neighborhood news, restaurant reviews, and event anouncements.</p>
+          </odd>
+        </c>
+        <c id="aspace_ff7613d742f28729c12ac279c9054cdc" level="file">
+          <did>
+            <unittitle>http://petworthnews.blogs.com/</unittitle>
+            <unitdate normal="2004/2010" type="inclusive">2004-2010</unitdate>
+            <container id="aspace_7203d458221537b05e03f928b5786ef3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8e3a128771db9eba988af7245be65077" parent="aspace_7203d458221537b05e03f928b5786ef3" type="Folder">17</container>
+          </did>
+          <odd id="aspace_61e91846fed5d895c480a6825392e99d">
+            <head>General</head>
+            <p>Petworth Community news and announcements.</p>
+          </odd>
+        </c>
+        <c id="aspace_fffa17910a4679b68282c346c89114fe" level="file">
+          <did>
+            <unittitle>http://pqliving.com/</unittitle>
+            <unitdate normal="2006/2017" type="inclusive">2006-2017</unitdate>
+            <container id="aspace_2d44e8e5da2fa9dddd8c7d6a3c5721c3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6143755d710f82b73fc42a89aade6b59" parent="aspace_2d44e8e5da2fa9dddd8c7d6a3c5721c3" type="Folder">18</container>
+          </did>
+          <odd id="aspace_ca4da09810c4197846d8f7179ae6130d">
+            <head>General</head>
+            <p>Neighborhood news and events and condo listings, written by several different authors.</p>
+          </odd>
+        </c>
+        <c id="aspace_1467edea23d2d232b3fd4a4171b83fb1" level="file">
+          <did>
+            <unittitle>http://princeofpetworth.blogspot.com/</unittitle>
+            <unitdate normal="2006/2007" type="inclusive">2006-2007</unitdate>
+            <container id="aspace_4c0ef4f4e11795d8578052f01c7b4f13" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_77a3d6dc7569ba69fa431ae9b54a0b60" parent="aspace_4c0ef4f4e11795d8578052f01c7b4f13" type="Folder">19</container>
+          </did>
+          <odd id="aspace_4ed99f4f8776c963e80a4d4f6412a416">
+            <head>General</head>
+            <p>News and personal musings regarding Petworth, Columbia Heights, the 14th Street Corridor and surrounding DC neighborhoods.</p>
+          </odd>
+        </c>
+        <c id="aspace_c4201df4ac96ace85435fd02374d0c31" level="file">
+          <did>
+            <unittitle>http://stopblogandroll.blogspot.com/</unittitle>
+            <unitdate normal="2005/2008" type="inclusive">2005-2008</unitdate>
+            <container id="aspace_a3a2be0205139d1674a5ba68923600ed" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_19c0a42ca7279ef24fd51c18acef4cda" parent="aspace_a3a2be0205139d1674a5ba68923600ed" type="Folder">20</container>
+          </did>
+          <odd id="aspace_1a123347dd68c2c1ef93dce498a42062">
+            <head>General</head>
+            <p>Neighborhood news and updates for the Woodridge and Brookland communities</p>
+          </odd>
+        </c>
+        <c id="aspace_f3de29a86b3af256e1040af4b041b039" level="file">
+          <did>
+            <unittitle>http://strongholddc.blogspot.com/</unittitle>
+            <unitdate normal="2013/2013">2013</unitdate>
+            <container id="aspace_2e5899370c4d9eed31f34ca462ca23e5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_853ca2af3a5b5f8f579598fffa82cb94" parent="aspace_2e5899370c4d9eed31f34ca462ca23e5" type="Folder">21</container>
+          </did>
+          <odd id="aspace_a90b1fb78088250339480fe42700d6e2">
+            <head>General</head>
+            <p>Blog offering community news and event information.</p>
+          </odd>
+        </c>
+        <c id="aspace_72707a672a315ed60dc2eb842da7f94a" level="file">
+          <did>
+            <unittitle>http://the42bus.blogspot.com/</unittitle>
+            <unitdate normal="2007/2016" type="inclusive">2007-2016</unitdate>
+            <container id="aspace_26ceba13d3f7a5f7211511f19193740f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b94a666c3696e5587525d4d8ebb58e6f" parent="aspace_26ceba13d3f7a5f7211511f19193740f" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_8b66ab9bcb9148f666352de31581be8d" level="file">
+          <did>
+            <unittitle>http://thebrightwoodian.blogspot.com/</unittitle>
+            <unitdate normal="2010/2012" type="inclusive">2010-2012</unitdate>
+            <container id="aspace_9e9dfa36c4c7fcddd4043e8290549cf6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c093c6574a2f5bdadc1b55a4f080d846" parent="aspace_9e9dfa36c4c7fcddd4043e8290549cf6" type="Folder">23</container>
+          </did>
+          <odd id="aspace_d25453130f3103514f459ef902ad598c">
+            <head>General</head>
+            <p>Brightwood community news and information. Features a Ward 4 local business guide.</p>
+          </odd>
+        </c>
+        <c id="aspace_1a992172a71449d97763d5ec43940f47" level="file">
+          <did>
+            <unittitle>http://thetottenlife.blogspot.com/</unittitle>
+            <unitdate normal="2010/2013" type="inclusive">2010-2013</unitdate>
+            <container id="aspace_b521a5189cbe6c43ca904d171c8ddd66" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8f030c69e618861d88a8c18a70681004" parent="aspace_b521a5189cbe6c43ca904d171c8ddd66" type="Folder">24</container>
+          </did>
+          <odd id="aspace_a43acb28272bcb42562f03e658eb7563">
+            <head>General</head>
+            <p>Community news, events, and updates for the North Michigan Park, Brookland and Fort Totten area. Special tab for DC neighborhood and ANC 5a maps.</p>
+          </odd>
+        </c>
+        <c id="aspace_61423bc6d7391162e1db361d78483d97" level="file">
+          <did>
+            <unittitle>http://www.bygonebrookland.com</unittitle>
+            <container id="aspace_de372d5c718d1f2b8330baa382fb7d70" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ec570ef0c2004127371196563c84a43d" parent="aspace_de372d5c718d1f2b8330baa382fb7d70" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_95de5395ba4b4b96adcaa9289e07b0a6" level="file">
+          <did>
+            <unittitle>http://www.crestwood-dc.org/</unittitle>
+            <container id="aspace_957c7904c1f3a47b6404eee7591a9eba" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a3c29395c43203abf93bd3915ea6d762" parent="aspace_957c7904c1f3a47b6404eee7591a9eba" type="Folder">26</container>
+          </did>
+          <odd id="aspace_fcdcec38fa3d3acd11da9c540b28e999">
+            <head>General</head>
+            <p>Citizens Association blog covering community news, events and history</p>
+          </odd>
+        </c>
+        <c id="aspace_afb0f0cb817659f5047836c2b492476f" level="file">
+          <did>
+            <unittitle>http://www.foresthillsconnection.com/</unittitle>
+            <unitdate normal="2012/2017" type="inclusive">2012-2017</unitdate>
+            <container id="aspace_0d18475dad963c1db5350b95a5da111d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0c54367383cf3e3a4fd5d157965758d3" parent="aspace_0d18475dad963c1db5350b95a5da111d" type="Folder">27</container>
+          </did>
+          <odd id="aspace_b1f416e303b713aaf28d698a5efd14e3">
+            <head>General</head>
+            <p>Neighborhood news and lifestyle-magazine for the Forest Hills community.</p>
+          </odd>
+        </c>
+        <c id="aspace_b7930db80522bfa4832d106c7218d038" level="file">
+          <did>
+            <unittitle>http://www.jdland.com/dc/index.cfm</unittitle>
+            <unitdate normal="2003/2017" type="inclusive">2003-2017</unitdate>
+            <container id="aspace_28d61ab0201d750da9a43727a89c768f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8c8e8181017f24c6bf740fc7e9f1c25b" parent="aspace_28d61ab0201d750da9a43727a89c768f" type="Folder">28</container>
+          </did>
+          <odd id="aspace_3fe257bcb727a1ed8ee9bc2921e44253">
+            <head>General</head>
+            <p>Community information and updates about the Navy Yard area. Includes a special page on Nationals 
+Ball Park, a project directory, and a photo archive.</p>
+          </odd>
+        </c>
+        <c id="aspace_8df31fda25b77097cc428a6c1ad41bbb" level="file">
+          <did>
+            <unittitle>http://www.mvtriangleblog.com/</unittitle>
+            <unitdate normal="2008/2016" type="inclusive">2008-2016</unitdate>
+            <container id="aspace_769237cb1586c2341d98780ba72a855f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_df4056f1929d95555385c4250eff8781" parent="aspace_769237cb1586c2341d98780ba72a855f" type="Folder">29</container>
+          </did>
+          <odd id="aspace_6c8ce4fc81ffee076a4814154a0e0426">
+            <head>General</head>
+            <p>News, updates, 
+and events regarding Mt. Vernon and adjacent communities, as well as community real estate information and listings.</p>
+          </odd>
+        </c>
+        <c id="aspace_ab49a1a209d46f32574fa607ee5c1931" level="file">
+          <did>
+            <unittitle>http://www.popville.com/</unittitle>
+            <unitdate normal="2007/2017" type="inclusive">2007-2017</unitdate>
+            <container id="aspace_a976ec024fa40800cd32a79010acfc6c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4dfb184fc584ac4202bd37354f9eceef" parent="aspace_a976ec024fa40800cd32a79010acfc6c" type="Folder">30</container>
+          </did>
+          <odd id="aspace_5dc944933b6dfcff0e4eb705ae8fcfed">
+            <head>General</head>
+            <p>New and current version of the Prince of Petworth blog. News, events, and updates from all of DC's neighborhoods. Shows special attention to DC restaurants.</p>
+          </odd>
+        </c>
+        <c id="aspace_bd83ca2f5b197247f98f70705e27b60f" level="file">
+          <did>
+            <unittitle>http://www.swtlqtc.com/</unittitle>
+            <unitdate normal="2008/2017" type="inclusive">2008-2017</unitdate>
+            <container id="aspace_637d89374fcbe78a4e985e34011058aa" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c903ca1596f6c64133366a764297c5a9" parent="aspace_637d89374fcbe78a4e985e34011058aa" type="Folder">31</container>
+          </did>
+          <odd id="aspace_1455e0440a0e895b9a22e03ba71ab7c5">
+            <head>General</head>
+            <p>Community information, announcements, and updates on Southwest DC. Special emphasis is given to neihgborhood changes and development. Includes a development map and a tab providing information on the Southwest Waterfront Redevelopment.</p>
+          </odd>
+        </c>
+        <c id="aspace_d98a371dee267be42a40216a5024c408" level="file">
+          <did>
+            <unittitle>http://www.titanoftrinidad.com/</unittitle>
+            <unitdate normal="2012/2014" type="inclusive">2012-2014</unitdate>
+            <container id="aspace_ddcfd6e0f1f11ca28765e34a98c740a5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ede07be943dbbe65bc930a0bc8630200" parent="aspace_ddcfd6e0f1f11ca28765e34a98c740a5" type="Folder">32</container>
+          </did>
+          <odd id="aspace_f999a6aff5d9ef61a5e1f3dd6bd4c945">
+            <head>General</head>
+            <p>Sometime satirical blog providing community news and announcements for the Trinidad neighborhood. Includes an anonymous news tip form.</p>
+          </odd>
+        </c>
+        <c id="aspace_b5dc6c25c297330d622719fe3a6a6917" level="file">
+          <did>
+            <unittitle>https://clevelandpark2.wordpress.com/</unittitle>
+            <unitdate normal="2010/2011" type="inclusive">2010-2011</unitdate>
+            <container id="aspace_2b7379cf7cdb07fdeec2332f5d188e0d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_872e7d50421693df3c574394d9da520a" parent="aspace_2b7379cf7cdb07fdeec2332f5d188e0d" type="Folder">33</container>
+          </did>
+          <odd id="aspace_f1b740af9dd63ca2b03c0c1f166f44f9">
+            <head>General</head>
+            <p>Community news and events in Cleveland Park.</p>
+          </odd>
+        </c>
+        <c id="aspace_9d1d3b84c1848f72bfd5d096b932e8e0" level="file">
+          <did>
+            <unittitle>https://friendshipheightsgirl.wordpress.com/page/2/</unittitle>
+            <unitdate normal="2009/2011" type="inclusive">2009-2011</unitdate>
+            <container id="aspace_8d0b40a58783396d18c91c6a0f28a8b1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_182a4d66220c67ef9bd90dc95f567ddd" parent="aspace_8d0b40a58783396d18c91c6a0f28a8b1" type="Folder">34</container>
+          </did>
+          <odd id="aspace_59015691a0a45517d58e8a21a05b4d42">
+            <head>General</head>
+            <p>Blog documenting the adventures and experiences of a Friendship Heights resident.</p>
+          </odd>
+        </c>
+        <c id="aspace_9af13322e89634ceccbf28ca64c3e8c0" level="file">
+          <did>
+            <unittitle>https://gatewaytothecitydc.com/</unittitle>
+            <unitdate normal="2013/2017" type="inclusive">2013-2017</unitdate>
+            <container id="aspace_499ba1a6d5f6382409644dded08f0188" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_44b4ae55dfbf1e0e2d0bc02715cc153f" parent="aspace_499ba1a6d5f6382409644dded08f0188" type="Folder">35</container>
+          </did>
+          <odd id="aspace_823247177d33d8ae31ae59d480b71de2">
+            <head>General</head>
+            <p>Community news, events, and announcements, authored by the ANC commissioner</p>
+          </odd>
+        </c>
+        <c id="aspace_cb4fed5bb5712d08da3b66caaf7d908a" level="file">
+          <did>
+            <unittitle>https://georgetownmetropolitan.com/</unittitle>
+            <unitdate normal="2008/2017" type="inclusive">2008-2017</unitdate>
+            <container id="aspace_0c77cd9523078b6581d7dda09117c808" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3bec247a4c6102ccb1369f34190813fc" parent="aspace_0c77cd9523078b6581d7dda09117c808" type="Folder">36</container>
+          </did>
+          <odd id="aspace_1e645102ffd9030570c2ac9a2a5cd556">
+            <head>General</head>
+            <p>Neighborhood photos, updates, news, events, and personal musings. Blog shares name with a 19th Century Georgetown newspaper.</p>
+          </odd>
+        </c>
+        <c id="aspace_ffa43213c2e78129f7453a95fb947ae7" level="file">
+          <did>
+            <unittitle>https://mtpleasantdc.wordpress.com/</unittitle>
+            <unitdate normal="2008/2008">2008</unitdate>
+            <container id="aspace_a2f4fa12746e61b8da482297d813a3ee" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3446828c22aaa7c602a302c874469924" parent="aspace_a2f4fa12746e61b8da482297d813a3ee" type="Folder">37</container>
+          </did>
+          <odd id="aspace_2d727e7f296919680393adc98dd815a5">
+            <head>General</head>
+            <p>Mt. Pleasant events, announcements, business reviews, experiences and opinions as relayed by two residents and friends</p>
+          </odd>
+        </c>
+        <c id="aspace_751add142e7259aae87d726c3e62bbb5" level="file">
+          <did>
+            <unittitle>https://newbrightwoodianblog.com/</unittitle>
+            <unitdate normal="2012/2017" type="inclusive">2012-2017</unitdate>
+            <container id="aspace_b46b27643f1471705e5e4e75cc0b48b9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ca1f739132a607ceca56f50cb98db9e7" parent="aspace_b46b27643f1471705e5e4e75cc0b48b9" type="Folder">38</container>
+          </did>
+          <odd id="aspace_11b310f59aaa766490e319c7bd5eb92c">
+            <head>General</head>
+            <p>Brightwood community news and information.</p>
+          </odd>
+        </c>
+        <c id="aspace_7d0ceaf7c149e1ae16a671c28e3c3511" level="file">
+          <did>
+            <unittitle>https://parkviewdc.com/</unittitle>
+            <unitdate normal="2013/2017" type="inclusive">2013-2017</unitdate>
+            <container id="aspace_2c8f7e6839361924574bf7b22a95d5a2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e38dcbea714906224f6a27729d7516dc" parent="aspace_2c8f7e6839361924574bf7b22a95d5a2" type="Folder">39</container>
+          </did>
+          <odd id="aspace_f7587b604d1c29f24deb069cb501aa07">
+            <head>General</head>
+            <p>Neighborhood news and events</p>
+          </odd>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
