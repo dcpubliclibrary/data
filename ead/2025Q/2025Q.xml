@@ -10,7 +10,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-03-15 23:59:43 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2019-03-19 23:59:50 -0400</date>.</creation>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
@@ -34,6 +34,18 @@
         <did>
           <unittitle>Series 1</unittitle>
         </did>
+        <c id="aspace_f215fff475666dd0a6559081a82a5bec" level="file">
+          <did>
+            <unittitle>Finding Aid</unittitle>
+            <unitdate normal="1985/1985">1985</unitdate>
+            <container id="aspace_b7977b927e6f43c28fcfadbcee1a2a23" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ceba3427cf57466c49994010f1cb8e0b" parent="aspace_b7977b927e6f43c28fcfadbcee1a2a23" type="Folder">1</container>
+          </did>
+          <odd id="aspace_59a56584b2bcac83a0fa179fed3203fb">
+            <head>General</head>
+            <p>It's a finding aid!</p>
+          </odd>
+        </c>
       </c>
     </dsc>
   </archdesc>
