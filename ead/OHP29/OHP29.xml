@@ -1,0 +1,105 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid/>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Dupont Circle Citizens Association Oral History Project<num>OHP29</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Stage</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2019-03-22 23:59:21 -0400</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Stage</corpname>
+      </repository>
+      <unittitle>Dupont Circle Citizens Association Oral History Project</unittitle>
+      <unitid>OHP29</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
+      </physdesc>
+      <unitdate normal="1998/2007" type="inclusive">1998-2007</unitdate>
+    </did>
+    <scopecontent id="aspace_5a32e73088415fbaeb5b760da1f213b1">
+      <head>Scope and Contents</head>
+      <p>The collection contains three written transcripts of oral histories from members of Kathryn (Kay) Amelia Eckles, Jewell Fenzi, and Marilyn Newton. Each oral history is accompanied by a photo each.
+The collection also contains a newspaper clipping that announces the first DCCA Oral History Project meeting.
+There is no information on the DCCA Oral History project in regards to when it officially began.</p>
+    </scopecontent>
+    <bioghist id="aspace_c4f77a4a398a59cd51c52d15a92fdb3c">
+      <head>Biographical / Historical</head>
+      <p>The DCCA was founded in 1922 to promote and protect the interests of the residents of the Dupont Circle area. In 1969 DCCA was incorporated as a charitable and educational organization for civil and social improvements in the area.
+DCCA offers community grants for arts and culture, community partnerships, education and historic preservation.</p>
+    </bioghist>
+    <controlaccess>
+      <subject source="Library of Congress Subject Headings">Oral History</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026199" source="Library of Congress Subject Headings">Citizens' Associations</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_b4ee1729b5de72615458c9add15df105" level="series">
+        <did>
+          <unittitle>Administrative Files</unittitle>
+        </did>
+        <c id="aspace_26ca11b94d785b6a7c7b2c087a6f77a2" level="file">
+          <did>
+            <unittitle>Project scope, and related materials</unittitle>
+            <unitdate normal="1998/2007" type="inclusive">1998-2007</unitdate>
+            <container id="aspace_aaf51a4927e3bd66531b98c2412ea41f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fdc34dfb458dbd6ab50cad42cebd3131" parent="aspace_aaf51a4927e3bd66531b98c2412ea41f" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_fa66cfc8ce1eba6e69c59f0b8296a205" level="series">
+        <did>
+          <unittitle>Transcripts</unittitle>
+        </did>
+        <c id="aspace_2aed1dde36afc39d622e8dae539479b2" level="file">
+          <did>
+            <unittitle>Eckles, Kay</unittitle>
+            <unitdate normal="2007-01-11 00:00:00/2007-01-11 00:00:00">2007 January 11 00:00:00</unitdate>
+            <container id="aspace_0e7ff3d5f09afd4504cf70bb8a2ecba5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_68d5afa78a15cac7ac165b20b02e62ab" parent="aspace_0e7ff3d5f09afd4504cf70bb8a2ecba5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_4897d25116128529e770e0dde004e3e9" level="file">
+          <did>
+            <unittitle>Fenzi, Jewell</unittitle>
+            <unitdate normal="2007-01-29 00:00:00/2007-01-29 00:00:00">2007 January 29 00:00:00</unitdate>
+            <container id="aspace_003f4412e47b06969febdf695c5b4051" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5b736413d0898c508af8f08d6029f7a1" parent="aspace_003f4412e47b06969febdf695c5b4051" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_f662c1a6a8fe358183daf15ffb9eb811" level="file">
+          <did>
+            <unittitle>Newton, Marilyn</unittitle>
+            <unitdate normal="2007-02-07 00:00:00/2007-02-07 00:00:00">2007 February 7 00:00:00</unitdate>
+            <container id="aspace_738c57bf73b2d660a1a90341814ae5f9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c77ae4884ab13d44cf0edf7b8b7f1f65" parent="aspace_738c57bf73b2d660a1a90341814ae5f9" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_965f6b8e635f71f6f3100334e0867ec4" level="series">
+        <did>
+          <unittitle>CD-R's</unittitle>
+        </did>
+        <c id="aspace_15b987057e3fc26a18039e61f523288b" level="file">
+          <did>
+            <unittitle>Eckles, Kay</unittitle>
+            <unitdate normal="2007-01-11 00:00:00/2007-01-11 00:00:00">2007 January 11 00:00:00</unitdate>
+            <container id="aspace_f852bb3ce7eaae042eef878fef1c4c86" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a9ede6c886bd7211ea79ea47c25d592e" parent="aspace_f852bb3ce7eaae042eef878fef1c4c86" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
