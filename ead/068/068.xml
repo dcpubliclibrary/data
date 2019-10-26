@@ -16,7 +16,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:07:07 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2019-10-25 23:59:47 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -51,7 +51,7 @@
       <p>The collection consists of three scrapbooks that contain information regarding the DC Militia (National Guard) Engineer Battalion. Materials included in the scrapbooks include: clippings from Washington, DC and national newspapers, correspondence, programs, flyers, maps, blueprints, and photographs (the photographs have been interleaved with acid-free buffer paper). Although the scrapbooks are labeled as "1890-1898," the materials in the scrapbooks extend to 1906. Each scrapbook also contains notes at the beginning regarding the content of the materials contained within.</p>
     </scopecontent>
     <controlaccess>
-      <geogname source="lcsh">United States -- Armed Forces</geogname>
+      <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85139803" source="lcsh">United States -- Armed Forces</geogname>
     </controlaccess>
     <dsc>
       <c id="aspace_acf9512dfde2346b8001ae42d51ac27d" level="series">
@@ -62,24 +62,24 @@
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1890-08/1893-12" type="inclusive">August 1890-December 1893</unitdate>
-            <container id="aspace_c83c80fc8cf20274cef19a0fc6c582ee" label="mixed materials" type="Box">1</container>
-            <container id="aspace_44669fad96c585cea9f0e273e5bd894e" parent="aspace_c83c80fc8cf20274cef19a0fc6c582ee" type="Folder">1</container>
+            <container id="aspace_657b6c2eb74798255ef6369b98776c06" label="mixed materials" type="Box">1</container>
+            <container id="aspace_3ea58265495ff2d61f943ac2d4a094ad" parent="aspace_657b6c2eb74798255ef6369b98776c06" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_cae504b222a425ade5a018a15065257f" level="file">
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1894-01/1897-04-29" type="inclusive">January 1894-April 29, 1897</unitdate>
-            <container id="aspace_190144ac6eafe4dbd6b6aeee9c3dd2bc" label="mixed materials" type="Box">2</container>
-            <container id="aspace_c238aa2cb9fe8a8f6585bfc4408adf03" parent="aspace_190144ac6eafe4dbd6b6aeee9c3dd2bc" type="Folder">1</container>
+            <container id="aspace_0eba24ceffd767f7a845d755c467e79a" label="mixed materials" type="Box">2</container>
+            <container id="aspace_b89ad2ff46353ee87563a9282021cd34" parent="aspace_0eba24ceffd767f7a845d755c467e79a" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_655eca4c7e1520c407c1a372ed188166" level="file">
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1897-04-29/1906" type="inclusive">April 29, 1897-1906</unitdate>
-            <container id="aspace_9509cd91842d21512eab04ee97fa4b8b" label="mixed materials" type="Box">3</container>
-            <container id="aspace_7067d956fcf38d0f0dc010e93241aa48" parent="aspace_9509cd91842d21512eab04ee97fa4b8b" type="Folder">1</container>
+            <container id="aspace_cd890164bf7c2693bb45b1aa2bcf3250" label="mixed materials" type="Box">3</container>
+            <container id="aspace_75b33a052d132cbcacb25a9f3ebcf1e4" parent="aspace_cd890164bf7c2693bb45b1aa2bcf3250" type="Folder">1</container>
           </did>
         </c>
       </c>
