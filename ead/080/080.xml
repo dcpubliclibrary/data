@@ -4,24 +4,35 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Capitol Hill Symphony Society Collection</titleproper>
-        <titleproper>Capitol Hill Symphony Society <num>080</num> <num>080</num></titleproper>
+        <titleproper>Capitol Hill Symphony Society <num>080</num></titleproper>
         <subtitle>An inventory of Capitol Hill Symphony Society at DC Public Library</subtitle>
         <author>Finding aid prepared by Ryan P. Semmes.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-11</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:08:06 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:44:32 -0400</date>.</creation>
       <langusage>
         <language encodinganalog="546" langcode="eng">English</language>
       </langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-07-31</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -29,33 +40,52 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Capitol Hill Symphony Society Collection</unittitle>
       <unitid>080</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.25 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1962/1965" type="inclusive">1962-1965</unitdate>
-      <langmaterial id="aspace_3f3c957a1ead6d419b00c4b95e360c79">English</langmaterial>
       <langmaterial id="aspace_cee7d006ac1e23abf7a5b18653f0621a">English</langmaterial>
     </did>
+    <arrangement id="aspace_adf208ea92fd00fb90b46d701d8913d8">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_82222236850170a29372d3bd455073de">
       <head>Biographical / Historical</head>
-      <p>The Capitol Hill Symphony Society was established on January 30, 1964 at St. Mark's Episcopal Church in Washington, DC. The Society was created "for the purpose of providing 'support for musical activities in the city of Washington, particularly…Capitol Hill.'" It was incorporated as a non-profit organization and was the main source for the newly founded Capitol Hill Symphony Orchestra. The Orchestra, directed by Victor King, was initially made of 90 members, was racially integrated, and was entirely voluntary. The Orchestra's debut concert was held on March 8, 1964 at St. Mark's (3rd and A Street, SE). </p>
-      <p> The initial concept for the Society and Orchestra was born out of the Gault String Ensemble, which was a contributor to the St. Elizabeths Hospital music therapy program. The program gave patient at the hospital a means to express their musical talents. The String Ensemble was incorporated into the Capitol Hill Symphony Society and the music therapy program continued. It is unclear how for how long the Society was in existence. </p>
-      <p> The CHS Orchestra should not be confused with the Capitol City Symphony Orchestra (formerly the Georgetown Symphony Orchestra).</p>
+      <p>The Capitol Hill Symphony Society was established on January 30, 1964 at St. Mark's Episcopal Church in Washington, D.C. The Society was created "for the purpose of providing 'support for musical activities in the city of Washington, particularly…Capitol Hill'" and served as the non-profit organization behind the newly founded Capitol Hill Symphony Orchestra. Musical Director Victor King led the racially-integrated Orchestra, which was initially made up of approximately 90 volunteers. The concept for the Society was born out of the Gault String Ensemble, which was incorporated into the Capitol Hill Symphony Society. The Orchestra's debut concert was held on March 8, 1964 at St. Mark's (3rd and A Street, SE).<br/>
+<br/>
+It is unclear exactly how long the organization existed, though the latest mention of the Capitol Hill Symphony Orchestra in the Washington Star was from 1967. The Capitol Hill Symphony Orchestra should not be confused with the Capitol City Symphony Orchestra (formerly the Georgetown Symphony Orchestra).</p>
     </bioghist>
     <custodhist id="aspace_9c1dbdf7b131374f28a0821a650d5e6f">
       <head>Custodial History</head>
       <p>Arnold Taylor, a member of the Capitol Hill Symphony Society, donated the collection to the library in 1995.</p>
     </custodhist>
+    <processinfo id="aspace_fc1c41b3d893966f89e584f37fd2e660">
+      <head>Processing Information</head>
+      <p>Basic archival procedures were used at the time of processing.</p>
+    </processinfo>
     <scopecontent id="aspace_c68eeb0e2d3631564b42b0245bef10d1">
       <head>Scope and Contents</head>
-      <p>The collection consists of correspondence, memos, by-laws, photographs, programs, meeting minutes, and press releases. The majority of the materials were created in 1964, although the dates range from 1962 to 1965.</p>
+      <p>This collection consists of correspondence, memos, by-laws, photographs, programs, meeting minutes, and press releases related to the Capitol Hill Symphony Society. The majority of the materials were created in 1964, although the dates range from 1962 to 1965.</p>
     </scopecontent>
+    <userestrict id="aspace_30edfeb4d7c4e52d61f281a1b9b955b7">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85088762" source="Library of Congress Subject Headings">Music</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
+      <genreform authfilenumber="http://id.loc.gov/authorities/genreForms/gf2014026128" source="Library of Congress Subject Headings">Minutes (Records)</genreform>
+      <genreform source="material_type">Organizational Records</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99001943" source="Library of Congress Subject Headings">Correspondence</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_8014e28d08272e8318d44c5ff7d52c86" level="series">
@@ -66,218 +96,218 @@
           <did>
             <unittitle>By-Laws</unittitle>
             <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
-            <container id="aspace_c539d1f140592a37d7020368989a03ec" label="mixed materials" type="Box">1</container>
-            <container id="aspace_8ad9750609716cdb82cb38b4d8bc4001" parent="aspace_c539d1f140592a37d7020368989a03ec" type="Folder">1</container>
+            <container id="aspace_bdd9e81864a1d58465f7f577b32181a7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c74b730986648f6876f26f76af09a156" parent="aspace_bdd9e81864a1d58465f7f577b32181a7" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ea72e6150d0a6c714922bb8d0a7a032e" level="file">
           <did>
             <unittitle>"Capitol Hill News"</unittitle>
             <unitdate normal="1964-02/1964-03" type="inclusive">February-March 1964</unitdate>
-            <container id="aspace_70a894a107ca522eedff1aaa7c4cd914" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5e8f1fa8e280d6798b3d1de88a10ddf3" parent="aspace_70a894a107ca522eedff1aaa7c4cd914" type="Folder">2</container>
+            <container id="aspace_19d27aa5c41a82d9064304eb7789ec6d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d1d329cfaa6312cfb2b7c38085a01199" parent="aspace_19d27aa5c41a82d9064304eb7789ec6d" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_c41df53b359a97acbe460019cb450141" level="file">
           <did>
             <unittitle>"Capitol Hill News"</unittitle>
             <unitdate normal="1964-12/1965-01" type="inclusive">December 1964-January 1965</unitdate>
-            <container id="aspace_aadf7241ea943aeef87ec97174ab705f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e5296d79c97494465ba84ddfeee51fd8" parent="aspace_aadf7241ea943aeef87ec97174ab705f" type="Folder">3</container>
+            <container id="aspace_ce8c4a46fb66e9eef553a134b1634c7e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cb6c8cf9938bced3eff2626d44e1ef46" parent="aspace_ce8c4a46fb66e9eef553a134b1634c7e" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_310c2df598dc05b2e56d93418bd955fe" level="file">
           <did>
             <unittitle>"Capitol Spotlight"</unittitle>
             <unitdate normal="1964-01-24/1964-01-24" type="inclusive">January 24 1964</unitdate>
-            <container id="aspace_eca84aea03064b8521c3bf52d5cb4d9b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7b19f99e9c6d724f20ff29cf59b71f5b" parent="aspace_eca84aea03064b8521c3bf52d5cb4d9b" type="Folder">4</container>
+            <container id="aspace_ee6d829128370d0d00be332d5d4e401b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1c5d88493b8b498152df9c1284675e60" parent="aspace_ee6d829128370d0d00be332d5d4e401b" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_c7026f20362669c2b0a0a0155357f967" level="file">
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
-            <container id="aspace_36231d52b429b986c0aa4e35db38b529" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a40a6940702254f82e4447d55a505ea5" parent="aspace_36231d52b429b986c0aa4e35db38b529" type="Folder">5</container>
+            <container id="aspace_c8c79c949c56844b1c8473a1f74b4239" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1695baeb8aed292917d292cde54d6a05" parent="aspace_c8c79c949c56844b1c8473a1f74b4239" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_a8e8760a348b35e534f0d0a711ff718e" level="file">
           <did>
             <unittitle>Meeting Minutes - First Meeting</unittitle>
             <unitdate normal="1964-01-30/1964-01-30" type="inclusive">January 30 1964</unitdate>
-            <container id="aspace_e030429cd99074934da4d517480a9665" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f0d63b861c3241e65820182aa9c2f687" parent="aspace_e030429cd99074934da4d517480a9665" type="Folder">6</container>
+            <container id="aspace_0834e756d9bbe0872e30ffd191a95370" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8ea20fe73d30d8f242b225aea02ee4a7" parent="aspace_0834e756d9bbe0872e30ffd191a95370" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_06843e9be3144bbe2b5c6edba1bb4896" level="file">
           <did>
             <unittitle>Member List</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_59c47faf416962685207e0f7d2846e0b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4cb79a23c031e2635e3a03414fd0b7f5" parent="aspace_59c47faf416962685207e0f7d2846e0b" type="Folder">7</container>
+            <container id="aspace_93060456811807e237003c97fb1af7b2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4720413b5a68c0dcc9a62ae33988168b" parent="aspace_93060456811807e237003c97fb1af7b2" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_a8e2bcb4e03c82f72830ef08380c3134" level="file">
           <did>
             <unittitle>Memoranda</unittitle>
             <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
-            <container id="aspace_1cfb851b388c34ba9724e7cea1422f90" label="mixed materials" type="Box">1</container>
-            <container id="aspace_8445c4a3f58f157edd03b84cfe8cef82" parent="aspace_1cfb851b388c34ba9724e7cea1422f90" type="Folder">8</container>
+            <container id="aspace_283e7f30153e4b63f5aa20d39d6c1b6a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4f8c7a91c6d621f2e5f0262c3ee8b2c6" parent="aspace_283e7f30153e4b63f5aa20d39d6c1b6a" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_88970ce152101dc4dfbc569b7426b9a0" level="file">
           <did>
             <unittitle>Musicians Emergency Fund</unittitle>
             <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
-            <container id="aspace_14f3370a464a7fac906c6e8f075cb6cb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_748995119f6458d31621dae4464f9453" parent="aspace_14f3370a464a7fac906c6e8f075cb6cb" type="Folder">9</container>
+            <container id="aspace_b0db65c541dadc044bfc9ca6c5bfea3a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4e5e7d5abe6c7e9c274987e2afce1206" parent="aspace_b0db65c541dadc044bfc9ca6c5bfea3a" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_c710a616d74762b823379d6aa378267a" level="file">
           <did>
             <unittitle>Photographs</unittitle>
-            <container id="aspace_8af747a6edc305f756ac2d59ddf916bd" label="mixed materials" type="Box">1</container>
-            <container id="aspace_dafcbbbf829708b1a2c77b871397bcf1" parent="aspace_8af747a6edc305f756ac2d59ddf916bd" type="Folder">10</container>
+            <container id="aspace_772151d86758b04cf444dd4137ed9947" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3fd086956dc45496c53ebdd213ad6695" parent="aspace_772151d86758b04cf444dd4137ed9947" type="Folder">10</container>
           </did>
           <c id="aspace_7c4ca7bb22f69bcfb7c77ada7cb7176c" level="item">
             <did>
               <unittitle>Photographs - Ensemble Performances - Hitchcock Hall of St. Elizabeths Hospital</unittitle>
               <unitdate normal="1964-03/1964-03" type="inclusive">March 1964</unitdate>
-              <container id="aspace_e6c1f8b505110de1430d2e8699b35195" label="mixed materials" type="Item">1</container>
+              <container id="aspace_b51d2798c6c78f2e583a21d79e1ec813" label="Mixed Materials" type="Item">1</container>
             </did>
           </c>
           <c id="aspace_79a36a441a7e027e8fe442a0fd87953e" level="item">
             <did>
               <unittitle>Photographs - Ensemble Performances - Bassists James Moore and Nathaneal Turner - Hitchcock Hall of St. Elizabeth's Hospital</unittitle>
               <unitdate normal="1964-03/1964-03" type="inclusive">March 1964</unitdate>
-              <container id="aspace_98bd0cb9886867f5f39f142748837188" label="mixed materials" type="Item">2</container>
+              <container id="aspace_717f75bbb288ca136bc261d2839c4f7b" label="Mixed Materials" type="Item">2</container>
             </did>
           </c>
           <c id="aspace_84dbf7c41a3ba62c045e0c673f5cf61b" level="item">
             <did>
               <unittitle>Photographs - Ensemble Performances - Practice at Lutheran Church of Reformation</unittitle>
               <unitdate normal="1964-03/1964-03" type="inclusive">March 1964</unitdate>
-              <container id="aspace_28cec126b7f7f4a1bd15a778a4438ca8" label="mixed materials" type="Item">3</container>
+              <container id="aspace_35ed24ac6762b6f41a85f07fa6a4284a" label="Mixed Materials" type="Item">3</container>
             </did>
           </c>
           <c id="aspace_e472ccd5fe5451bb4780946e8aedf13f" level="item">
             <did>
               <unittitle>Photographs - Ensemble Performances - St. Mark's Episcopal Church - Carroll Mattoon singing</unittitle>
               <unitdate normal="1964-03-08/1964-03-08" type="inclusive">March 8 1964</unitdate>
-              <container id="aspace_ab0f3b8c6522050cfedddba0b62a8fb1" label="mixed materials" type="Item">4</container>
+              <container id="aspace_fa25acde0c028c52f808597a96f53cb3" label="Mixed Materials" type="Item">4</container>
             </did>
           </c>
           <c id="aspace_cb65885e408f835cc605cd365a2aa12b" level="item">
             <did>
               <unittitle>Photographs - Ensemble Performances - Youth Practicing - St. Mark's Parish Hall</unittitle>
               <unitdate normal="1964-05-01/1964-05-01" type="inclusive">May 1 1964</unitdate>
-              <container id="aspace_2c17a03b9766fb11c23dd674eb8c4a1c" label="mixed materials" type="Item">5</container>
+              <container id="aspace_19f2f2d83bb469c6624ace24d2f3fe08" label="Mixed Materials" type="Item">5</container>
             </did>
           </c>
           <c id="aspace_d758ff3f01207f24ced26d32ead20442" level="item">
             <did>
               <unittitle>Photographs - Ensemble Performances - Practice - St. Mark's Parish Hall</unittitle>
               <unitdate normal="1964-05-01/1964-05-01" type="inclusive">May 1 1964</unitdate>
-              <container id="aspace_7811cb4d6435399b24330670ecd15edd" label="mixed materials" type="Item">6</container>
+              <container id="aspace_a9fbd754d917e05f8edfd2bc13bbf410" label="Mixed Materials" type="Item">6</container>
             </did>
           </c>
           <c id="aspace_f1fb6622953c918a6c9cf78c53f0674a" level="item">
             <did>
               <unittitle>Photographs - Ensemble Performances - Practice - Andrew White - St. Mark's Parish Hall - 3rd and A Streets SE</unittitle>
               <unitdate normal="1964-05-01/1964-05-01" type="inclusive">May 1 1964</unitdate>
-              <container id="aspace_611c528cf270c521b5bb6cc310b29ae3" label="mixed materials" type="Item">7</container>
+              <container id="aspace_89968dcc959f54b3d14c6c71caa1deb0" label="Mixed Materials" type="Item">7</container>
             </did>
           </c>
           <c id="aspace_e7378d6b24b2d1a51cd6ca3c9c8b7988" level="item">
             <did>
               <unittitle>Photographs - Ensemble Performances - Practice - William Vosburgh - St. Mark's Parish Hall - 3rd and A Streets SE</unittitle>
               <unitdate normal="1964-05-01/1964-05-01" type="inclusive">May 1 1964</unitdate>
-              <container id="aspace_f386400e0e60046be9edab0b0b329929" label="mixed materials" type="Item">8</container>
+              <container id="aspace_6b02255950e9f2b229ea6a200a2ba991" label="Mixed Materials" type="Item">8</container>
             </did>
           </c>
           <c id="aspace_8a294da1efcee9c9c9bb1c306d993376" level="item">
             <did>
               <unittitle>Photographs - Ensemble Performances - Practice - Cynthia Ann Powell and Dr. Victor King - St. Mark's Parish Hall - 3rd and A Streets SE</unittitle>
               <unitdate normal="1964-05-17/1964-05-17" type="inclusive">May 17 1964</unitdate>
-              <container id="aspace_afeed6c57bdd6f6d62c913c2d8b7d4e1" label="mixed materials" type="Item">9</container>
+              <container id="aspace_6b6addcd3a40bf58c4400b11ac2b87b0" label="Mixed Materials" type="Item">9</container>
             </did>
           </c>
         </c>
         <c id="aspace_9711c1d879414a0457233caec832c2a8" level="file">
           <did>
             <unittitle>Photographs</unittitle>
-            <container id="aspace_cf87e06f269afe8fde566fea08f33ff6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_eeb7db4e65892882e334b3aa44c924ae" parent="aspace_cf87e06f269afe8fde566fea08f33ff6" type="Folder">11</container>
+            <container id="aspace_337c5c6dcef759973343f7b4175d789d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d12b08ecabccfb27f0701da002a6512f" parent="aspace_337c5c6dcef759973343f7b4175d789d" type="Folder">11</container>
           </did>
           <c id="aspace_a66c4b58de0ba13b8ac1199cd56e7af9" level="item">
             <did>
               <unittitle>Photographs - Individuals - Carroll Mattoon and William Vosburgh</unittitle>
               <unitdate normal="1964-02-25/1964-02-25" type="inclusive">February 25 1964</unitdate>
-              <container id="aspace_56625d45fd7f7d70b72c9a700da1bd91" label="mixed materials" type="Item">1</container>
+              <container id="aspace_95e583eedf19383fc399e5a0037fa536" label="Mixed Materials" type="Item">1</container>
             </did>
           </c>
           <c id="aspace_b50ce76bc80a2e4b38550493de1cfccf" level="item">
             <did>
               <unittitle>Photographs - Individuals - Carroll Mattoon - Soprano (2 copies)</unittitle>
               <unitdate normal="1964-03/1964-03" type="inclusive">March 1964</unitdate>
-              <container id="aspace_37ea90b63f337adecab193708de3aed9" label="mixed materials" type="Item">2</container>
+              <container id="aspace_8d09d6472b01f577ec8b38c5fa36dbde" label="Mixed Materials" type="Item">2</container>
             </did>
           </c>
           <c id="aspace_efe937b34ec4af3f00d93f868ff6c558" level="item">
             <did>
               <unittitle>Photographs - Individuals - William Vosburgh - Concert Master</unittitle>
               <unitdate normal="1964-03/1964-03" type="inclusive">March 1964</unitdate>
-              <container id="aspace_ba96d46c631df051f3abe98095e68227" label="mixed materials" type="Item">3</container>
+              <container id="aspace_0a29d51ac50086515a0ebd9a6f76f93f" label="Mixed Materials" type="Item">3</container>
             </did>
           </c>
           <c id="aspace_a0a3489d954468dd8cf278a79f7e62e1" level="item">
             <did>
               <unittitle>Photographs - Individuals - Cynthia Ann Powell - Pianist</unittitle>
               <unitdate normal="1964-05/1964-05" type="inclusive">May 1964</unitdate>
-              <container id="aspace_b1a5c079f28d077e0730ecc0b50bb288" label="mixed materials" type="Item">4</container>
+              <container id="aspace_1addc710deb9567962253db4061c7d3d" label="Mixed Materials" type="Item">4</container>
             </did>
           </c>
           <c id="aspace_f23f1bfc3ff267f97f2ad60c6cd5d82d" level="item">
             <did>
               <unittitle>Photographs - Individuals - Billy White - Associate Conductor</unittitle>
               <unitdate normal="1964-05-01/1964-05-01" type="inclusive">May 1 1964</unitdate>
-              <container id="aspace_d3987ee1e60bd11d952d27f489e8d960" label="mixed materials" type="Item">5</container>
+              <container id="aspace_debbd75ab5399e66a1eef63ac645c303" label="Mixed Materials" type="Item">5</container>
             </did>
           </c>
           <c id="aspace_829bc7349325e84b5dc8a80c9ca77875" level="item">
             <did>
               <unittitle>Photographs - Individuals - Anitra Earle and Billy White</unittitle>
               <unitdate normal="1964-05-01/1964-05-01" type="inclusive">May 1 1964</unitdate>
-              <container id="aspace_1eb56d4af6eceec1449b253d2a78273c" label="mixed materials" type="Item">6</container>
+              <container id="aspace_b7463c08e7139954c94c19e149b42180" label="Mixed Materials" type="Item">6</container>
             </did>
           </c>
           <c id="aspace_b72b30b41af70b8f13b4548a2b22ffc1" level="item">
             <did>
               <unittitle>Photographs - Individuals - Jacqueline Foreman - Bass Clarinet</unittitle>
               <unitdate normal="1964-05-01/1964-05-01" type="inclusive">May 1 1964</unitdate>
-              <container id="aspace_224dbdb706e54e274f35443421a2fe51" label="mixed materials" type="Item">7</container>
+              <container id="aspace_3608f4b46c0aac8be3533ae20328d87d" label="Mixed Materials" type="Item">7</container>
             </did>
           </c>
           <c id="aspace_67c13b6fe3b168d4580f7421f0e42824" level="item">
             <did>
               <unittitle>Photographs - Individuals - Lyman McCrary - Pianist</unittitle>
               <unitdate normal="1964-05-01/1964-05-01" type="inclusive">May 1 1964</unitdate>
-              <container id="aspace_17e66bc7d4e8bf6d6bc191a9ae4a11c7" label="mixed materials" type="Item">8</container>
+              <container id="aspace_7f5e0df5627465659ae6e6573145fc2c" label="Mixed Materials" type="Item">8</container>
             </did>
           </c>
           <c id="aspace_37da25907be166c585f4926c2594190c" level="item">
             <did>
               <unittitle>Photographs - Individuals - Lyman McCrary - Librarian of Capitol Hill Symphony Orchestra</unittitle>
               <unitdate normal="1964-05-01/1964-05-01" type="inclusive">May 1 1964</unitdate>
-              <container id="aspace_435b52edac047342cc61f27211b90b60" label="mixed materials" type="Item">9</container>
+              <container id="aspace_d344f535ce0ac48e3da24acc5aa2c269" label="Mixed Materials" type="Item">9</container>
             </did>
           </c>
           <c id="aspace_84510eee72c86df661c9db05814f90de" level="item">
             <did>
               <unittitle>Photographs - Individuals - Cynthia Ann Powell, Pianist</unittitle>
               <unitdate normal="1964-05-17/1964-05-17" type="inclusive">May 17 1964</unitdate>
-              <container id="aspace_76619897c282e5cab3278b4efb538719" label="mixed materials" type="Item">10</container>
+              <container id="aspace_7c4b931879e3a8a41b79f654baf0cd4c" label="Mixed Materials" type="Item">10</container>
             </did>
           </c>
         </c>
@@ -285,48 +315,48 @@
           <did>
             <unittitle>Press Releases</unittitle>
             <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
-            <container id="aspace_e7be6900ff9307e907be797060640b1a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9bcbe1fecdc09fa3752972055299d52c" parent="aspace_e7be6900ff9307e907be797060640b1a" type="Folder">12</container>
+            <container id="aspace_b14b505ee070868f8e369dd032096b6c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4df92f8c8ba338429ca5731c32dfc57a" parent="aspace_b14b505ee070868f8e369dd032096b6c" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_3c616f5c61f0574996ed9cfa6bb84084" level="file">
           <did>
             <unittitle>Programs</unittitle>
             <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
-            <container id="aspace_361616861d80fb2ea0e021c459f3af5f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3271cf0d0aca72f193e682d612372256" parent="aspace_361616861d80fb2ea0e021c459f3af5f" type="Folder">13</container>
+            <container id="aspace_829a5f3f729ba8fb578eff3528bb4754" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e4a2f3f2549f95d8d705c184f95e8af9" parent="aspace_829a5f3f729ba8fb578eff3528bb4754" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_fbdc86fe2e4772665819f2df15bae64b" level="file">
           <did>
             <unittitle>Recreational Therapy Branch Programs</unittitle>
             <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
-            <container id="aspace_63f2cea690c32a2b2456755e166661d6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a1cc83ef64139e0a8d2c3742418329d6" parent="aspace_63f2cea690c32a2b2456755e166661d6" type="Folder">14</container>
+            <container id="aspace_56f049bc246b835235b71d0de29f939e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4237da7a180f02b05ab698775bd9ac25" parent="aspace_56f049bc246b835235b71d0de29f939e" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_ec2db07bc86ce3776cfc3ab6e8cdb042" level="file">
           <did>
             <unittitle>Rules and Policies</unittitle>
             <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
-            <container id="aspace_8a77da33c14bb6285f70ea67af2b67d6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c0fcb9d838b677022c88bf9b73f10189" parent="aspace_8a77da33c14bb6285f70ea67af2b67d6" type="Folder">15</container>
+            <container id="aspace_2d962f90fe131821837914dd7f3de368" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8486f83e5b4e4216e4861a3a475aa8af" parent="aspace_2d962f90fe131821837914dd7f3de368" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_50ebdb04adf0272911fb547f68733651" level="file">
           <did>
             <unittitle>"Saint Elizabeths Reporter"</unittitle>
             <unitdate normal="1964-08/1964-08" type="inclusive">August 1964</unitdate>
-            <container id="aspace_42b9d18b0f9f796c32494d46a82ae60d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7346b36f4f38588fcfc1edbb7deda805" parent="aspace_42b9d18b0f9f796c32494d46a82ae60d" type="Folder">16</container>
+            <container id="aspace_2f88195034d2b2ac44b1cf2b1d84f2cf" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_eb84b6763f02c94595bf56e644a2147b" parent="aspace_2f88195034d2b2ac44b1cf2b1d84f2cf" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_2e5232990f4f0dc510dc99961a3b52bd" level="file">
           <did>
             <unittitle>"Washington Star Sunday Magazine"</unittitle>
             <unitdate normal="1964-05-10/1964-05-10" type="inclusive">May 10 1964</unitdate>
-            <container id="aspace_84e7f7e4025cc079c82e3513f106a1fb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d683a1fd19578c3fcc8ab8213fd84444" parent="aspace_84e7f7e4025cc079c82e3513f106a1fb" type="Folder">17</container>
+            <container id="aspace_724166d169137796c080238e63da3f4c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_dd9f849cfbdcb23b1c37f26ade212cb6" parent="aspace_724166d169137796c080238e63da3f4c" type="Folder">17</container>
           </did>
         </c>
       </c>

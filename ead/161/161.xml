@@ -1,16 +1,28 @@
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid/>
+    <eadid url="http://washingtoniana.dclibrary.org">161McIlwee</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>McIlwee, Mamie H. Papers<num>161</num> <num>161</num></titleproper>
+        <titleproper type="filing">McIlwee, Mamie Himmelwright Papers</titleproper>
+        <titleproper>Mamie Himmelwright McIlwee Papers <num>161</num></titleproper>
+        <subtitle>An inventory of the Mamie Himmelwright McIlwee Papers at DC Public Library</subtitle>
+        <author>DC Public Library, Special Collection</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
+        <p>
+          <date>2020-08-25</date>
+        </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-01-08 14:51:49 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:51:13 -0400</date>.</creation>
+      <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
@@ -20,19 +32,61 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
-      <unittitle>McIlwee, Mamie H. Papers</unittitle>
+      <unittitle>Mamie Himmelwright McIlwee Papers</unittitle>
+      <origination label="creator">
+        <persname source="local">McIlwee, Mamie H.</persname>
+      </origination>
       <unitid>161</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">3 Linear feet</extent>
       </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Boxes</extent>
+      </physdesc>
       <unitdate normal="1932/1952" type="bulk">1932-1952</unitdate>
-      <langmaterial id="aspace_612555a6d8b7be087253a53aa6780269">English</langmaterial>
+      <langmaterial id="aspace_7cde0e02dfe172e59acbb0c817dbb566">English</langmaterial>
     </did>
+    <arrangement id="aspace_a237cd263ca815baf43ba347197b3d86">
+      <head>Arrangement</head>
+      <p>Series 1: Correspondence<br/>
+Sub-series 1: Beautification of School Grounds and Petworth Library<br/> 
+Sub-series 2: Civic Action<br/> 
+Series 2: Legal Documents<br/> 
+Series 3: Memoranda<br/> 
+Series 4: Photographs<br/> 
+Series 5: Newspaper Clippings<br/> 
+Series 6: Scrapbook<br/></p>
+    </arrangement>
+    <bioghist id="aspace_f1118f92ce10037a4944fccf060b97c5">
+      <head>Biographical / Historical</head>
+      <p>Mamie Himmelwright McIlwee was born on August 8, 1886 in Star Tannery, Frederick County, Virginia to parents John and Hattie Himelright. Mamie married Branson Gilbert McIlwee and together they raised four children in the District, Mae, Hettie, Jay, and John. Mrs. McIlwee worked to secure funding for expanded classrooms, additional courses, educational materials, and grounds beautification at Roosevelt High School by serving on the Roosevelt Parent Teacher Association as a member of the Legislative Committee and Chairman of the Committee on Beautifying School and Library Grounds. Additionally Mrs. McIlwee was a member of the Petworth and Manor Park Citizens Associations. Mrs. McIlwee passed August 3, 1967 at the National Lutheran Home for the Aged in northeast D.C.</p>
+    </bioghist>
+    <custodhist id="aspace_69f56a91ad364603044964dd4bf79c01">
+      <head>Custodial History</head>
+      <p>Provenance unknown.</p>
+    </custodhist>
+    <processinfo id="aspace_1521ebc992a731c8c0b294ec1f9cd173">
+      <head>Processing Information</head>
+      <p>Standard archival processing procedures were applied to the collection at the time of processing.</p>
+    </processinfo>
+    <scopecontent id="aspace_d683d6637a4510f2844f935cb442a574">
+      <head>Scope and Contents</head>
+      <p>This collection includes correspondence, legal documents, photographs, and newspaper clippings pertaining to Mamie H. McIlwee's work advocating for resources for Petworth public schools and libraries.</p>
+    </scopecontent>
+    <userestrict id="aspace_1d37bd984d557d1f0bf9749ced2316d0">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85108801" source="Library of Congress Subject Headings">Public schools</subject>
-      <persname source="local">McIlwee, E,</persname>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85147274" source="Library of Congress Subject Headings">Women</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85076502" source="Library of Congress Subject Headings">Libraries</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85040989" source="lcsh">Education</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <geogname source="ingest">Petworth, Washington, D.C.</geogname>
+      <persname role="fmo" source="local">McIlwee, E,</persname>
     </controlaccess>
     <dsc>
       <c id="aspace_ca2424e9880f20747c4153bdae1ba3b9" level="series">
@@ -47,32 +101,32 @@
             <did>
               <unittitle>Campaigns and Proposals</unittitle>
               <unitdate normal="1932/1936" type="inclusive">1932-1936</unitdate>
-              <container id="aspace_08300e0488a35e2483dc38577fb18249" label="mixed materials" type="Box">1</container>
-              <container id="aspace_2485d2a3a2f8de60f781de1563092b14" parent="aspace_08300e0488a35e2483dc38577fb18249" type="Folder">1</container>
+              <container id="aspace_a3e4bda70ea4971b9af0e8011c3c736b" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_b6f736c03600634460730b614cb1a647" parent="aspace_a3e4bda70ea4971b9af0e8011c3c736b" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_cedb8fc664f275e3bce3f5a66cb47ff8" level="file">
             <did>
               <unittitle>Campaigns and Proposals</unittitle>
-              <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
-              <container id="aspace_eaf2833f00b9a6d09824d2a917fd1342" label="mixed materials" type="Box">1</container>
-              <container id="aspace_7799d03ea0129ea914fc4b2c09545cda" parent="aspace_eaf2833f00b9a6d09824d2a917fd1342" type="Folder">2</container>
+              <unitdate normal="1937/1937">1937</unitdate>
+              <container id="aspace_6f04b6866951e52fc221d3f01c6d6735" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_a2bbe5b7da001ab08a627acf44afbb58" parent="aspace_6f04b6866951e52fc221d3f01c6d6735" type="Folder">2</container>
             </did>
           </c>
           <c id="aspace_f0de54385bc6c1b2d205bdeff11ea01b" level="file">
             <did>
               <unittitle>Campaigns and Proposals</unittitle>
-              <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
-              <container id="aspace_83d982c099e4d569a0a1004eb47523c5" label="mixed materials" type="Box">1</container>
-              <container id="aspace_fa75618bbae92d44d28b7b1a37c4bae9" parent="aspace_83d982c099e4d569a0a1004eb47523c5" type="Folder">3</container>
+              <unitdate normal="1938/1938">1938</unitdate>
+              <container id="aspace_ac3798318b0167639a0f38c42afd67e4" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_f1756c531627effad8fd2462f6dd5a46" parent="aspace_ac3798318b0167639a0f38c42afd67e4" type="Folder">3</container>
             </did>
           </c>
           <c id="aspace_63a9a1197b6a2f66dce0ddcceb03d264" level="file">
             <did>
               <unittitle>Campaigns and Proposals</unittitle>
               <unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate>
-              <container id="aspace_3649d9f1ad77f40dbc36977ec040fb9d" label="mixed materials" type="Box">1</container>
-              <container id="aspace_f3c50c204ac294e19a2db26b05be6d33" parent="aspace_3649d9f1ad77f40dbc36977ec040fb9d" type="Folder">4</container>
+              <container id="aspace_6af2539afdf38752b048d4d792f9e0b3" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_bbde1ccb6395e397b52f5e9fa77a99f1" parent="aspace_6af2539afdf38752b048d4d792f9e0b3" type="Folder">4</container>
             </did>
           </c>
         </c>
@@ -83,49 +137,49 @@
           <c id="aspace_f502d4839edf173b9b20394326313aeb" level="file">
             <did>
               <unittitle>Department of Health and Physical Education, "Posture Education"</unittitle>
-              <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
-              <container id="aspace_fe361a676ee90ade8c3be37936ecc6a5" label="mixed materials" type="Box">1</container>
-              <container id="aspace_f0fb36330658552f768b6206b6f713bb" parent="aspace_fe361a676ee90ade8c3be37936ecc6a5" type="Folder">7</container>
+              <unitdate normal="1936/1936">1936</unitdate>
+              <container id="aspace_b7c1332f954bff4a004bf0036d547637" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_a83df50effa7b651e4999a70485b0d03" parent="aspace_b7c1332f954bff4a004bf0036d547637" type="Folder">7</container>
             </did>
           </c>
           <c id="aspace_ea96fc329c00443310bd584235273627" level="file">
             <did>
               <unittitle>Protesting Petworth Liquor Licenses</unittitle>
               <unitdate normal="1934/1937" type="inclusive">1934-1937</unitdate>
-              <container id="aspace_6adbb6d33cdc4b7fe27338088737054f" label="mixed materials" type="Box">1</container>
-              <container id="aspace_8c2ce4641934d07bc1f3219d384d373c" parent="aspace_6adbb6d33cdc4b7fe27338088737054f" type="Folder">8</container>
+              <container id="aspace_2810d718028dfc9741164d171b8470b1" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_2049582230b1b8342d5efa34582c7af0" parent="aspace_2810d718028dfc9741164d171b8470b1" type="Folder">8</container>
             </did>
           </c>
           <c id="aspace_4b9e96976ba3b3aee41a4b7257cddb2a" level="file">
             <did>
               <unittitle>Requesting Funds from Board of Commissioners</unittitle>
               <unitdate normal="1934/1936" type="inclusive">1934-1936</unitdate>
-              <container id="aspace_3931062a7baf9e892b696cf285170fe3" label="mixed materials" type="Box">1</container>
-              <container id="aspace_e86559665185bff8ade27b7bccd272bd" parent="aspace_3931062a7baf9e892b696cf285170fe3" type="Folder">9</container>
+              <container id="aspace_7b62a818f6f7b84d61c403e5d95aae11" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_411da37c3d208cf3ff48f9132956a1d0" parent="aspace_7b62a818f6f7b84d61c403e5d95aae11" type="Folder">9</container>
             </did>
           </c>
           <c id="aspace_89243f502bd0ee6cb2ae3ddd622e0bf5" level="file">
             <did>
               <unittitle>Roosevelt High, Petworth Library, Petworth Women's Club</unittitle>
               <unitdate normal="1931/1936" type="inclusive">1931-1936</unitdate>
-              <container id="aspace_bd1287166ddc08e36684e5363864e46c" label="mixed materials" type="Box">1</container>
-              <container id="aspace_f199620871f8aac5306c9392fbe55da4" parent="aspace_bd1287166ddc08e36684e5363864e46c" type="Folder">10</container>
+              <container id="aspace_69cdca638084450998e676619aa61fe8" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_9b2131cbcc337a858f7208f0b7526b7b" parent="aspace_69cdca638084450998e676619aa61fe8" type="Folder">10</container>
             </did>
           </c>
           <c id="aspace_5a6bbbb32002f3fae8e364b2f7cbe3a5" level="file">
             <did>
               <unittitle>Letters Against the "Dog Interest"</unittitle>
               <unitdate normal="1938/1945" type="inclusive">1938-1945</unitdate>
-              <container id="aspace_fb7c2ff110307620bfc001ec0c2f6844" label="mixed materials" type="Box">1</container>
-              <container id="aspace_e01e4d1f0bdca9ac3abfca71127a69f9" parent="aspace_fb7c2ff110307620bfc001ec0c2f6844" type="Folder">11</container>
+              <container id="aspace_cc79fc565d6b4af2442213bd62cfc299" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_8ef96fd8be6563a2050473a0abeadcb6" parent="aspace_cc79fc565d6b4af2442213bd62cfc299" type="Folder">11</container>
             </did>
           </c>
           <c id="aspace_e6e2dc3cfa9cbf9f9301b8b2d9107c43" level="file">
             <did>
               <unittitle>Miscellaneous</unittitle>
               <unitdate normal="1934/1945" type="inclusive">1934-1945</unitdate>
-              <container id="aspace_4729859c7cbfefb95c20d0316366ea97" label="mixed materials" type="Box">1</container>
-              <container id="aspace_2c5145b0124a68974bba514b22e496f6" parent="aspace_4729859c7cbfefb95c20d0316366ea97" type="Folder">12</container>
+              <container id="aspace_1f913906bb43b0fed113069bae109fcb" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_84e7c7f8738c93590ab42da2cbcf7cf8" parent="aspace_1f913906bb43b0fed113069bae109fcb" type="Folder">12</container>
             </did>
           </c>
         </c>
@@ -138,8 +192,8 @@
           <did>
             <unittitle>Legal Documents, District of Columbia Appropriation Bill Excerpts</unittitle>
             <unitdate normal="1938/1942" type="inclusive">1938-1942</unitdate>
-            <container id="aspace_9146e585b8f08dda9ebe4ee1df85c093" label="mixed materials" type="Box">1</container>
-            <container id="aspace_833079646017663b734e26c9e9e93057" parent="aspace_9146e585b8f08dda9ebe4ee1df85c093" type="Folder">13</container>
+            <container id="aspace_49b885449a48fb2eb08171dcf843203f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4eef6beed3303c7431846539e1d3fb6e" parent="aspace_49b885449a48fb2eb08171dcf843203f" type="Folder">13</container>
           </did>
         </c>
       </c>
@@ -151,24 +205,24 @@
           <did>
             <unittitle>The Beautification of School Grounds</unittitle>
             <unitdate normal="1933/1940" type="inclusive">1933-1940</unitdate>
-            <container id="aspace_3fc3cccedf384453bbd629f03f61ae52" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4022b9eac207c58fb45be3f1d5b3585a" parent="aspace_3fc3cccedf384453bbd629f03f61ae52" type="Folder">14</container>
+            <container id="aspace_91e2077f572a8dd33bdfe81f233a9051" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ffeac703f15359c9b6ed77535892e465" parent="aspace_91e2077f572a8dd33bdfe81f233a9051" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_817c36413ff6ac19da0e867b778f26b7" level="file">
           <did>
             <unittitle>Roosevelt High, Coolidge High</unittitle>
             <unitdate normal="1934/1941" type="inclusive">1934-1941</unitdate>
-            <container id="aspace_0db2c150e8f5c6b993a7b5de67d5d5db" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a7447ba9587bdad2342fbcb716130df3" parent="aspace_0db2c150e8f5c6b993a7b5de67d5d5db" type="Folder">15</container>
+            <container id="aspace_b0a58f31252076d7444ca063c468ee31" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6d42841db6d7514acab3f5ea0cd8c18e" parent="aspace_b0a58f31252076d7444ca063c468ee31" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_fadb3dbcd02093faa615eda31b111eb2" level="file">
           <did>
             <unittitle>Petworth Public Library and Neighborhood History</unittitle>
             <unitdate normal="1917/1951" type="inclusive">1917-1951</unitdate>
-            <container id="aspace_a227c1559733e6c60627cd0d98df91ea" label="mixed materials" type="Box">1</container>
-            <container id="aspace_fca95fa1a5d02c8d58590a7c7bf2c0b8" parent="aspace_a227c1559733e6c60627cd0d98df91ea" type="Folder">16</container>
+            <container id="aspace_83587e41a87d09829b3d707cd06dca53" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_eeb1d020b9625b4a93eed8f15f40c8c9" parent="aspace_83587e41a87d09829b3d707cd06dca53" type="Folder">16</container>
           </did>
         </c>
       </c>
@@ -180,45 +234,46 @@
           <did>
             <unittitle>Unidentified buildings</unittitle>
             <unitdate normal="1932/1970" type="inclusive">1932-1970</unitdate>
-            <container id="aspace_5a69278bbe923a739504c321d5667b1b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7395b62e1f7855f026152219049cc1a2" parent="aspace_5a69278bbe923a739504c321d5667b1b" type="Folder">17</container>
+            <container id="aspace_f8ce129d318fd403061668c85229d091" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6f06d56bf4db692d1320fd6a180882cb" parent="aspace_f8ce129d318fd403061668c85229d091" type="Folder">17</container>
           </did>
         </c>
       </c>
       <c id="aspace_0f0086b1e68efd316a5c6ebd2f49a9af" level="series">
         <did>
-          <unittitle>Series 5: Newspaper Clippings</unittitle>
+          <unittitle>Series 5: Newspaper Clippings
+</unittitle>
         </did>
         <c id="aspace_1e8e8fb3b31ef56689181a4197de3383" level="file">
           <did>
             <unittitle>Newspaper Clippings - Washington Post and Evening Star</unittitle>
             <unitdate normal="1933/1945" type="inclusive">1933-1945</unitdate>
-            <container id="aspace_eb7c96b22b43cf1a81b95f9b2367432d" label="mixed materials" type="Box">2</container>
-            <container id="aspace_c3c8e486275275e0c5e49f81fbcf67c9" parent="aspace_eb7c96b22b43cf1a81b95f9b2367432d" type="Folder">18</container>
+            <container id="aspace_d5ae709f843ef8bc6007f70279c0f8b5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_72bbebf024fdb28dd2ec1538dc76391b" parent="aspace_d5ae709f843ef8bc6007f70279c0f8b5" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_fb6968c27cb40ca16267b463a7a82d3a" level="file">
           <did>
             <unittitle>Newspaper Clippings - Petworth Citizen</unittitle>
             <unitdate normal="1916/1930" type="inclusive">1916-1930</unitdate>
-            <container id="aspace_889b3bd2616c5ef085f844eac9412ddf" label="mixed materials" type="Box">2</container>
-            <container id="aspace_700bd14fcf2a2fb5386eb61517f67b63" parent="aspace_889b3bd2616c5ef085f844eac9412ddf" type="Folder">19</container>
+            <container id="aspace_2f47373b257fdd49c0f60534e3ed51d6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_46352f682b5310dc71fb2bc4e3f8a356" parent="aspace_2f47373b257fdd49c0f60534e3ed51d6" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_12ee04bed884b4926e0770d0979cf591" level="file">
           <did>
             <unittitle>Photocopied Clippings - Washington Times, Evening Star and Post</unittitle>
             <unitdate normal="1937/1939" type="inclusive">1937-1939</unitdate>
-            <container id="aspace_4ba2d1bee28ed83b46f7377afd506859" label="mixed materials" type="Box">2</container>
-            <container id="aspace_e38d00880c130264370b83a514ae1fe6" parent="aspace_4ba2d1bee28ed83b46f7377afd506859" type="Folder">20</container>
+            <container id="aspace_80534b61937a4f0b795a20cc613fb82e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_28540b4b9c485590537a8ae1e5f8bd3a" parent="aspace_80534b61937a4f0b795a20cc613fb82e" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_db25d772f5d37be0fee7481989ae0f0e" level="file">
           <did>
             <unittitle>Photocopied Clippings - Washington Times, Evening Star and Post</unittitle>
             <unitdate normal="1939/1952" type="inclusive">1939-1952</unitdate>
-            <container id="aspace_4dfa374ee4fa6d86706e5f4886ac0c1c" label="mixed materials" type="Box">2</container>
-            <container id="aspace_7db53610a0868b4be0e6a0235b9fc945" parent="aspace_4dfa374ee4fa6d86706e5f4886ac0c1c" type="Folder">21</container>
+            <container id="aspace_fe1ca78bf9899de8a7544722c5d5e04f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_20378fae63f6bc77705f83d1fb34125d" parent="aspace_fe1ca78bf9899de8a7544722c5d5e04f" type="Folder">21</container>
           </did>
         </c>
       </c>
@@ -230,8 +285,8 @@
           <did>
             <unittitle>Scrapbook of Newspaper Clippings</unittitle>
             <unitdate normal="1936/1941" type="inclusive">1936-1941</unitdate>
-            <container id="aspace_762a9e835e7a4a1c50ba6eff163bfdcf" label="mixed materials" type="Box">3</container>
-            <container id="aspace_bc829dda4dc684a644e962147900d571" parent="aspace_762a9e835e7a4a1c50ba6eff163bfdcf" type="Folder">1</container>
+            <container id="aspace_60661fba09b2cdc265e3278a2b26d9c3" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_202ca82bc8985ff6538b902966518aea" parent="aspace_60661fba09b2cdc265e3278a2b26d9c3" type="Folder">1</container>
           </did>
         </c>
       </c>

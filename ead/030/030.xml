@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Columbian Newspaper Research Files Collection</titleproper>
-        <titleproper>Columbian Newspaper Research Files <num>030</num> <num>030</num></titleproper>
+        <titleproper>Columbian Newspaper Research Files <num>030</num></titleproper>
         <subtitle>An inventory of Columbian Newspaper Research Files at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:03:03 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:30:16 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2019-10-25</date>
+        <item>Finding aid revised to be more evergreen. </item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,27 +38,49 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Columbian Newspaper Research Files Collection</unittitle>
+      <origination label="creator">
+        <corpname source="local">Columbian Newspaper</corpname>
+      </origination>
       <unitid>030</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3 linear feet; 7 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">7 Boxes</extent>
       </physdesc>
-      <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
-      <langmaterial id="aspace_e34d2428b595afbc4c4cf67468260782">English</langmaterial>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.5 Linear feet</extent>
+      </physdesc>
+      <unitdate normal="1973/1977" type="inclusive">1973-1977</unitdate>
       <langmaterial id="aspace_c35955cafde69e478b928cba848bf1b3">English</langmaterial>
     </did>
+    <arrangement id="aspace_50d904fea061793a15ef3718fcd75777">
+      <head>Arrangement</head>
+      <p>The folders are arranged alphabetically by topic. Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_ada086b2c8a97c2719e65b4b0c87b724">
       <head>Biographical / Historical</head>
-      <p>The Columbian was a community paper covering the Adams Morgan neighborhood, which began publication in the 1970s. It contained articles both in English and Spanish to serve a growing Latino population that began moving to the community in the early 1970s.</p>
+      <p>The Columbian Newspaper, also known as Noticierio Columbian, was a publication that serviced the Latino community in the Adams Morgan neighborhood in the 1970s. Issues included articles written in both English and Spanish.</p>
     </bioghist>
+    <custodhist id="aspace_1a44850cdd1c2773deadaa764438ad59">
+      <head>Custodial History</head>
+      <p>Unknown.</p>
+    </custodhist>
+    <processinfo id="aspace_721b0840bfa0772cca7780605ccea069">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
+    </processinfo>
     <scopecontent id="aspace_1a368106f7a3b6dcb6ead3a6fbf94438">
       <head>Scope and Contents</head>
-      <p>The collection consists of background research materials gathered for issues covered by the newspaper. It includes correspondence, clippings, press releases, photographs, government documents, publications, reports, flyers, legal pleadings, and handwritten notes. The folders are arranged alphabetically by topic.</p>
+      <p>The collection consists of background research materials gathered for issues of the Columbian Newspaper. Included in the materials are correspondence, clippings, press releases, photographs, government documents, publications, reports, flyers, legal pleadings, and handwritten notes. The folders are arranged alphabetically by topic.</p>
     </scopecontent>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85091588" source="Library of Congress Subject Headings">Newspapers</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/names/n97020132" source="Library of Congress Subject Headings">Adams Morgan (Washington, D.C.)</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85126261" source="Library of Congress Subject Headings">Spanish language</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85027084" source="Library of Congress Subject Headings">Clippings (Books, newspapers, etc)</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_5fa2d2d99e795dbbce946d27c0152bf0" level="series">
@@ -58,1448 +91,1448 @@
           <did>
             <unittitle>Abortion</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f48167d5bd25bd19189186c6c9f687e2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0b215f2f7522500bd129ed02d36978c8" parent="aspace_f48167d5bd25bd19189186c6c9f687e2" type="Folder">1</container>
+            <container id="aspace_069d32fcc1aca6a2500e1d9180ec5294" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9c57314816949ae38ec2cf4c2917f013" parent="aspace_069d32fcc1aca6a2500e1d9180ec5294" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_dce8ab50efb535e8ce1a948a01771c03" level="file">
           <did>
             <unittitle>A-M Organizations</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_7cb1feb08e249c0c486d537cc6f700ec" label="mixed materials" type="Box">1</container>
-            <container id="aspace_834de61c12d1bd8a4dc92e2db4a8011f" parent="aspace_7cb1feb08e249c0c486d537cc6f700ec" type="Folder">2</container>
+            <container id="aspace_74bd8d7e9772ec9691c1aacb777a42de" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a971f766dc0149f10573b7f1c8cca370" parent="aspace_74bd8d7e9772ec9691c1aacb777a42de" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_c9ac0325ddef72b8fe636439d2734444" level="file">
           <did>
             <unittitle>Adams Morgan - Housing Co-op</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f8ef90cfd5cac98ccb0b2641d3270c33" label="mixed materials" type="Box">1</container>
-            <container id="aspace_33646923f111894baf9b9a5a9c5de881" parent="aspace_f8ef90cfd5cac98ccb0b2641d3270c33" type="Folder">3</container>
+            <container id="aspace_7ae02cca3ae84ad098b07aa33e953491" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c4c1860d2b19718ef815c395c141d5f2" parent="aspace_7ae02cca3ae84ad098b07aa33e953491" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_f3c0ed92a68fe77bd2b5ddd9558b50d3" level="file">
           <did>
             <unittitle>Adams Morgan - Issues</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_c938fa69d58a35bf059ed6e69ecc55ce" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1fbe45ab7f4e4ee08b1129ce5348d12a" parent="aspace_c938fa69d58a35bf059ed6e69ecc55ce" type="Folder">4</container>
+            <container id="aspace_4f47581a079fe74c99a7554aeaf0b98a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8ff2b186a2986ff7e5e0e137703b921b" parent="aspace_4f47581a079fe74c99a7554aeaf0b98a" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_78c6ab3ad690006f3ae26ceea2892490" level="file">
           <did>
             <unittitle>Adams Morgan - Merchants collective</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f5718029956e889129bff205f150419a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_31409004c4c6f41ccd8967dae79e57b7" parent="aspace_f5718029956e889129bff205f150419a" type="Folder">5</container>
+            <container id="aspace_b0234f51efd1c736684b99d6732fd1b6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_69607e5d0edec559e65b62aced9a208a" parent="aspace_b0234f51efd1c736684b99d6732fd1b6" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_400b23747126e8e363639dcadcfa6b92" level="file">
           <did>
             <unittitle>Adams Morgan - Nature Center</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_ed9f17bad125302e0a3133cd6dbd483b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_75021dbb0df00efea09168d1473594e4" parent="aspace_ed9f17bad125302e0a3133cd6dbd483b" type="Folder">6</container>
+            <container id="aspace_97b2d3a0dd64aeb47908618e2fa320f6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1a422bd1932cf829f2009fff417778a6" parent="aspace_97b2d3a0dd64aeb47908618e2fa320f6" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_01530de9b1dd56f6c0a94008edaa95b5" level="file">
           <did>
             <unittitle>Adams Morgan - Organization-coalition</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_b1fbbd9eaae89589399b854bd70f4026" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7b63a6e1478bd980cebdd8d41631d32b" parent="aspace_b1fbbd9eaae89589399b854bd70f4026" type="Folder">7</container>
+            <container id="aspace_2c154a9b98c382b6d750868e14842d27" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_84844630bbe40c1d201113da8797953d" parent="aspace_2c154a9b98c382b6d750868e14842d27" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_a1afe155cd127cb1cfb71eed5a9c7446" level="file">
           <did>
             <unittitle>Adams Morgan - Peoples Center</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_b066c38f96f8b689ce6afdc1b2a873bf" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a55b007362796872b08f966de201c44e" parent="aspace_b066c38f96f8b689ce6afdc1b2a873bf" type="Folder">8</container>
+            <container id="aspace_4335b0c7022f185e5518d2439262a5dc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_77fe8dc26ef958c0937ef27e5b4e77b1" parent="aspace_4335b0c7022f185e5518d2439262a5dc" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_f0367a058b3471d565e9521c47e7ffeb" level="file">
           <did>
             <unittitle>Adams Morgan - Publications</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_15cb3dfbff5281237044bb4f93f88a78" label="mixed materials" type="Box">1</container>
-            <container id="aspace_56ed8dd8b68047eb820e45f901cb876e" parent="aspace_15cb3dfbff5281237044bb4f93f88a78" type="Folder">9</container>
+            <container id="aspace_8afd28a2f2c32ff74792bc679b093cf1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_89d9e8fe0dbdb75ba1f7fd43b06ef85c" parent="aspace_8afd28a2f2c32ff74792bc679b093cf1" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_718eb2a12aedc70a0b76ec98a92aa00c" level="file">
           <did>
             <unittitle>Adams Morgan - Women's Employment Center</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_22b19b069b1c975001d9bb9a3a9d0722" label="mixed materials" type="Box">1</container>
-            <container id="aspace_70498ee5aa62f55d89c1610bd9efd045" parent="aspace_22b19b069b1c975001d9bb9a3a9d0722" type="Folder">10</container>
+            <container id="aspace_41fe1135c75dd339a1e1f37cd8ea0823" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_839f63dafb715cbec4e9bc635e3c7b19" parent="aspace_41fe1135c75dd339a1e1f37cd8ea0823" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_4abead3dd426c3a0bb56c410f985d183" level="file">
           <did>
             <unittitle>Adams School</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_6c2a7f00fcc9d105f466083415b3cb0d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_00f4c3f055352ec09535926589ad46e7" parent="aspace_6c2a7f00fcc9d105f466083415b3cb0d" type="Folder">11</container>
+            <container id="aspace_411486a0492008d3a8ed920678846895" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_49add554b49a7660977938a14ea33256" parent="aspace_411486a0492008d3a8ed920678846895" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_9e2f938412b791c0d133eed72f7cd075" level="file">
           <did>
             <unittitle>Airy View</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_9e3e83fba1ad0dab7f4c305e5ec2f372" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2ca040a9891a5781b3145583f0060fe6" parent="aspace_9e3e83fba1ad0dab7f4c305e5ec2f372" type="Folder">12</container>
+            <container id="aspace_f85a21165dea46e93f449b3933d24a2c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_af94532f65627ede335aa2889ba44754" parent="aspace_f85a21165dea46e93f449b3933d24a2c" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_5d275285425ed35c633fca1bfa2e4ab9" level="file">
           <did>
             <unittitle>The Alley Library</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_8844fffdde68715b842ca7193f1fab49" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ba8d9bd5066f5c538daf22d649068be9" parent="aspace_8844fffdde68715b842ca7193f1fab49" type="Folder">13</container>
+            <container id="aspace_4e0234c3bca364e7eddfb1aa3da5a76d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fba19d1338837ca4ff18b30e5d22267d" parent="aspace_4e0234c3bca364e7eddfb1aa3da5a76d" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_8ba2b5ee47f6ad9155822db2e2d49553" level="file">
           <did>
             <unittitle>American Indian</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_bd36964bf22a6620aa0a7608efc833c5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7d0cca08090a3f84a9a1fc293b862010" parent="aspace_bd36964bf22a6620aa0a7608efc833c5" type="Folder">14</container>
+            <container id="aspace_e3034ce4ab05f79827698090949f40fe" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cde0ef66dad9df9e9cc3f94b7091dbdc" parent="aspace_e3034ce4ab05f79827698090949f40fe" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_e55962499354962a48077bd38eea6146" level="file">
           <did>
             <unittitle>Antioch School of Law</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_635dbce0f719533e4c4d0a49deef1f7b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f1ffbbfad83dbab8b2335d63105d8ec8" parent="aspace_635dbce0f719533e4c4d0a49deef1f7b" type="Folder">15</container>
+            <container id="aspace_ebad06023667f55a562d2dd77b2c8534" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5fc5a645f47b2b8c12533f097d969319" parent="aspace_ebad06023667f55a562d2dd77b2c8534" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_30115390cb10f5d5b0b5cdcce13386d5" level="file">
           <did>
             <unittitle>Antioch School of Law</unittitle>
             <unitdate>Undated</unitdate>
-            <container id="aspace_a76c55a4636c2ffbece92a28c94a5df5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_db886eaab547b4eee41cc5daafaaaaa9" parent="aspace_a76c55a4636c2ffbece92a28c94a5df5" type="folder">16</container>
+            <container id="aspace_9cc6ca91cdc5dcd41ab43dede69c735e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d260b23eb6ba2097c40feccefd70a72e" parent="aspace_9cc6ca91cdc5dcd41ab43dede69c735e" type="folder">16</container>
           </did>
         </c>
         <c id="aspace_7631e5d946ee88d9934be2e8abc234ed" level="file">
           <did>
             <unittitle>ANC's</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_dfab2238f5766364132e5f3e59f6bd71" label="mixed materials" type="Box">1</container>
-            <container id="aspace_40ed4a220d7b232585751adafbfe4193" parent="aspace_dfab2238f5766364132e5f3e59f6bd71" type="Folder">17</container>
+            <container id="aspace_ebcd9d960456587e0b0434b9b1d9dab7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ace3dbbb72b8172a1b433a3085aea1c9" parent="aspace_ebcd9d960456587e0b0434b9b1d9dab7" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_b605ae5dd3db3fa773d65e669e015732" level="file">
           <did>
             <unittitle>Area B Mental Health Center</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_7963de632a519a56b2429918ee62fcba" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4777af3996c4e530cf5d825c5d6b13e0" parent="aspace_7963de632a519a56b2429918ee62fcba" type="Folder">18</container>
+            <container id="aspace_b96b201947c1b3559597ba487e565996" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9fb1474de206c90cb5b90afe8b5c03d1" parent="aspace_b96b201947c1b3559597ba487e565996" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_51e3d8678b687d3bd1335e45f5282bbd" level="file">
           <did>
             <unittitle>Arts</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_a2a00b87b499b8884bab4dbdc73d90e9" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1a0b8ed45824dc6ffe372699c05e9181" parent="aspace_a2a00b87b499b8884bab4dbdc73d90e9" type="Folder">19</container>
+            <container id="aspace_e6d0e8de3dcc112e6c403751fd0f94a3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_eae386239dfea9b244a35d400f3914ca" parent="aspace_e6d0e8de3dcc112e6c403751fd0f94a3" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_9e9b1737c24ce2e4ad18904e47ab8cca" level="file">
           <did>
             <unittitle>Ayuda</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_16345b3592a283a866bbcc0ed417b2a8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_eabda41c09344e7c19ce2d7a7acd5588" parent="aspace_16345b3592a283a866bbcc0ed417b2a8" type="Folder">20</container>
+            <container id="aspace_bb69b38c75334a6b64b467f88c279cb0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_190199d4d8507480c35f4a545e9a4b59" parent="aspace_bb69b38c75334a6b64b467f88c279cb0" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_1c38f589bf41186033e146a3fa353e30" level="file">
           <did>
             <unittitle>Banks</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_0e8d36472e5eac7f5d32fb02cdb35385" label="mixed materials" type="Box">2</container>
-            <container id="aspace_38d2ef5fff86a4455e740bc5f002795c" parent="aspace_0e8d36472e5eac7f5d32fb02cdb35385" type="Folder">1</container>
+            <container id="aspace_854839b86c620daa303b0eaf08bafa39" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_362e7df01745344e55e5f7073dac8993" parent="aspace_854839b86c620daa303b0eaf08bafa39" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ebfc345527441030f26053bf95bbe920" level="file">
           <did>
             <unittitle>Beacon</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_fd8c7263741eec4f58e69a88e60a5160" label="mixed materials" type="Box">2</container>
-            <container id="aspace_fb472424392cd648f1efb718d0f7ef7f" parent="aspace_fd8c7263741eec4f58e69a88e60a5160" type="Folder">2</container>
+            <container id="aspace_25d02ef28b56d27f364ff484fc00f7fa" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ed16990767ee2120b99591341e5d3b6c" parent="aspace_25d02ef28b56d27f364ff484fc00f7fa" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_3da9c521cefb20cc5d5b22984822b1f5" level="file">
           <did>
             <unittitle>Book Center</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_10f424bc0297235b14a0cc0a0f889168" label="mixed materials" type="Box">2</container>
-            <container id="aspace_d7519d8f85b0a869c6e654be267e0d85" parent="aspace_10f424bc0297235b14a0cc0a0f889168" type="Folder">3</container>
+            <container id="aspace_25b961044ac449669bc052d01f2760b7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0fa062f659bf9a58d9cac33f2f11e661" parent="aspace_25b961044ac449669bc052d01f2760b7" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_3abf73145ee31ab9c58252c4f1f54169" level="file">
           <did>
             <unittitle>BP Tract</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_675b29bf83e039127d4ce4c4170a4139" label="mixed materials" type="Box">2</container>
-            <container id="aspace_0d4e83d22f0300fd6084773ebbdb1c5d" parent="aspace_675b29bf83e039127d4ce4c4170a4139" type="Folder">4</container>
+            <container id="aspace_d459d920a92ce0bac4df6d091fea3b9a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4af42a88ae1d791921b5ff78dc6a00a7" parent="aspace_d459d920a92ce0bac4df6d091fea3b9a" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_9c45686b57ead3feff0ee13018790b9b" level="file">
           <did>
             <unittitle>Barney House</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_331e523334b44309ccb2373392accc22" label="mixed materials" type="Box">2</container>
-            <container id="aspace_3ff2fed27afcac7753e4e2039a9a43b4" parent="aspace_331e523334b44309ccb2373392accc22" type="Folder">5</container>
+            <container id="aspace_e76d837f7d3d0e3fd72dd59dc92263f8" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_fe91b0956c4de5c63441cb88fb9c822f" parent="aspace_e76d837f7d3d0e3fd72dd59dc92263f8" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_26bc6f55f2e3788b39eefe2588d52240" level="file">
           <did>
             <unittitle>Board of Elections</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_d631ec692ce7780a18c4e115f23f61df" label="mixed materials" type="Box">2</container>
-            <container id="aspace_3c3687018a4f1944bb3a55019e893507" parent="aspace_d631ec692ce7780a18c4e115f23f61df" type="Folder">6</container>
+            <container id="aspace_459cb171a4737bcdb8a7d6743873bd41" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6452343adfc9740dc7ef2525f0f018b9" parent="aspace_459cb171a4737bcdb8a7d6743873bd41" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_2d5fea60a634b7a670d91de41fa81f47" level="file">
           <did>
             <unittitle>Borrowed Time Productions</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_99001cfc7420b9cccce16f85bbe892d8" label="mixed materials" type="Box">2</container>
-            <container id="aspace_8771708f43b972cc541d5e4143cafb80" parent="aspace_99001cfc7420b9cccce16f85bbe892d8" type="Folder">7</container>
+            <container id="aspace_ef06e2dcb4a658e58216d500c0761dfd" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a47ca1ed9655feffbee9f7286f23aac1" parent="aspace_ef06e2dcb4a658e58216d500c0761dfd" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_f41402c86911f3e0c4947d8ac86a63bd" level="file">
           <did>
             <unittitle>Board of Education - Ray Kemp</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_bd7fc3853ba0c16509581df74689a1b6" label="mixed materials" type="Box">2</container>
-            <container id="aspace_7ef83a78361911744305da4c705589df" parent="aspace_bd7fc3853ba0c16509581df74689a1b6" type="Folder">8</container>
+            <container id="aspace_2e1697f7ccb2c3ce2b0b8e5137b0593b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2aa01c8f60697891c7207ee4aa3bf45f" parent="aspace_2e1697f7ccb2c3ce2b0b8e5137b0593b" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_2801b39b1e06739135dd69fe2cb9bc9c" level="file">
           <did>
             <unittitle>Funding</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_16d650752017d6701e61a6598fa18e1b" label="mixed materials" type="Box">2</container>
-            <container id="aspace_9dbdaf4d6005fd47d54bb72c3ea0c29a" parent="aspace_16d650752017d6701e61a6598fa18e1b" type="Folder">9</container>
+            <container id="aspace_27821058df8a766af3f056c9fa5b7536" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_199c1ec8290fb12cdbe5f435e659bd9c" parent="aspace_27821058df8a766af3f056c9fa5b7536" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_fe0d9b895e77e2af919b84b2604c27eb" level="file">
           <did>
             <unittitle>Bread and Roses</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_d94971baa65e94f6fbb4dd86529633d3" label="mixed materials" type="Box">2</container>
-            <container id="aspace_2da2f595ba26dd511f1ccb079eb1d265" parent="aspace_d94971baa65e94f6fbb4dd86529633d3" type="Folder">10</container>
+            <container id="aspace_ec67ca471a1a4f876255c39e08aa4385" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b9b10d7f048b2c4ea84f2f584d098cf8" parent="aspace_ec67ca471a1a4f876255c39e08aa4385" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_b491da30a53f48b4b78e44a194e211fd" level="file">
           <did>
             <unittitle>Budget - D.C.</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f0d58a9daa6c402517a35a4b0179a02b" label="mixed materials" type="Box">2</container>
-            <container id="aspace_9f4d07f4b503ddc18949c253202d7417" parent="aspace_f0d58a9daa6c402517a35a4b0179a02b" type="Folder">11</container>
+            <container id="aspace_274d35e789fe77ea774677d5fa449b86" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9230a46a75515231625bb61f5a2c7f67" parent="aspace_274d35e789fe77ea774677d5fa449b86" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_d6d6a599ce8417a0ce055ad9784c1c70" level="file">
           <did>
             <unittitle>CandP Telephone</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_fcb5621603f0f6062e93b8e54f65afb2" label="mixed materials" type="Box">2</container>
-            <container id="aspace_76e18eb5e5e568f2a32bc0a68994f2be" parent="aspace_fcb5621603f0f6062e93b8e54f65afb2" type="Folder">12</container>
+            <container id="aspace_e677cdf98b9426437e074ba6e1507baa" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_40343b7cffc88676ad48ee22e653e933" parent="aspace_e677cdf98b9426437e074ba6e1507baa" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_992a4eed99b2e585fb280ffec8b1f370" level="file">
           <did>
             <unittitle>Community Release Organization</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_c99e0fcce99cf301eabd6ddf7c27d1f7" label="mixed materials" type="Box">2</container>
-            <container id="aspace_d5c53be1fbdb4a6f53686b15ebe5f973" parent="aspace_c99e0fcce99cf301eabd6ddf7c27d1f7" type="Folder">13</container>
+            <container id="aspace_fe289c181abf8211de3026a17e2082ea" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f8bda6688ec814470640c7c5a3370757" parent="aspace_fe289c181abf8211de3026a17e2082ea" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_c1a5671f840350065fa831b14a0c0b4e" level="file">
           <did>
             <unittitle>Jimmy Carter</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_0c73890dabee5f4a67f5b953437fcbcd" label="mixed materials" type="Box">2</container>
-            <container id="aspace_7f9bddec70fdb3636e768d51fc9a3de1" parent="aspace_0c73890dabee5f4a67f5b953437fcbcd" type="Folder">14</container>
+            <container id="aspace_6f2c94e4021123adb4e66a88219dca1c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_519ce1e2aad77762e6a89addfb52df3d" parent="aspace_6f2c94e4021123adb4e66a88219dca1c" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_2102eaf7887916f126afb0b226615208" level="file">
           <did>
             <unittitle>D.C. Chamber of Commerce</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_c653aa2c4d3f32fb4c6e6856172cec4d" label="mixed materials" type="Box">2</container>
-            <container id="aspace_4ad5cfd4981217b864852f2f6812b7d8" parent="aspace_c653aa2c4d3f32fb4c6e6856172cec4d" type="Folder">15</container>
+            <container id="aspace_be7e793b8e383a450f5d095d0cdde4c6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c770de9ad150b6167a55fedc239ac7b6" parent="aspace_be7e793b8e383a450f5d095d0cdde4c6" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_901c5c52f0acdef4980b402988c60a47" level="file">
           <did>
             <unittitle>Childcare</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_175fc021170433d671b92b379e48a7d0" label="mixed materials" type="Box">2</container>
-            <container id="aspace_3443423ce0b9738134bb9985f8779058" parent="aspace_175fc021170433d671b92b379e48a7d0" type="Folder">16</container>
+            <container id="aspace_7f62c7f4e0b86d4bcfbd75a094ad391a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_164608dfb39544857049032c7daf3430" parent="aspace_7f62c7f4e0b86d4bcfbd75a094ad391a" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_022f1e409e6538a02ede86296f57b419" level="file">
           <did>
             <unittitle>Child welfare reform</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_96c4cca6e4322a845029ecc326e2aaef" label="mixed materials" type="Box">2</container>
-            <container id="aspace_c30bf56a2f21e18c9c9b964238e400ff" parent="aspace_96c4cca6e4322a845029ecc326e2aaef" type="Folder">17</container>
+            <container id="aspace_11a288da338c98c6d208470ac639a630" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d299496574b7b33c2fa0b416324d5015" parent="aspace_11a288da338c98c6d208470ac639a630" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_5a884ee2be619cad1144dda9e9905dbf" level="file">
           <did>
             <unittitle>City-wide Housing Coalition</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_c9fd3149bf26062f447c1abe63c37a6b" label="mixed materials" type="Box">2</container>
-            <container id="aspace_654931807c751bceff515080fd71727f" parent="aspace_c9fd3149bf26062f447c1abe63c37a6b" type="Folder">18</container>
+            <container id="aspace_3dfb90146d57a5d3728b9e630e0f529d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a799bfc96065be12c0528eb23aca4d8f" parent="aspace_3dfb90146d57a5d3728b9e630e0f529d" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_e71253dfae500f4331b35ac18c041fcf" level="file">
           <did>
             <unittitle>City Council</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_fa4a66d02db0f01cd06998c449db3c2a" label="mixed materials" type="Box">2</container>
-            <container id="aspace_25db0a27c1840173cf7c0dea90c01519" parent="aspace_fa4a66d02db0f01cd06998c449db3c2a" type="Folder">19</container>
+            <container id="aspace_b5667ba86bf69d698e33f16526f571f3" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e0f533fbe0c801e3f0cb8213728e19e3" parent="aspace_b5667ba86bf69d698e33f16526f571f3" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_b90b9c204a440655155bd3c3f15d9142" level="file">
           <did>
             <unittitle>City organizations</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_a5d393277ce53c3b7c353a4e66693b30" label="mixed materials" type="Box">2</container>
-            <container id="aspace_dc01f9bfd6c884d31c3b73f7c85c3548" parent="aspace_a5d393277ce53c3b7c353a4e66693b30" type="Folder">20</container>
+            <container id="aspace_c09cd59087b07a4a8c1bf3f215aa966f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d11b6055cadfeaaf201675130ab35936" parent="aspace_c09cd59087b07a4a8c1bf3f215aa966f" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_32a239f84e6e67a7d35f5e0ac5b2eddc" level="file">
           <did>
             <unittitle>C.H.O.I.C.E., Clearing House for Options in Children's Education</unittitle>
             <unitdate>Undated</unitdate>
-            <container id="aspace_137327b29fcbb59acdf52226c5719183" label="mixed materials" type="Box">2</container>
-            <container id="aspace_449d51bbf6caa4ad0c9d754486961e03" parent="aspace_137327b29fcbb59acdf52226c5719183" type="folder">21</container>
+            <container id="aspace_0616c7806e66042c0977bea87e47cea9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a6ce75a1b58c388d654136f65888c767" parent="aspace_0616c7806e66042c0977bea87e47cea9" type="folder">21</container>
           </did>
         </c>
         <c id="aspace_448d5c169401189dc83cb353f3ddb67b" level="file">
           <did>
             <unittitle>Committee to Save Alternative Radio</unittitle>
             <unitdate>Undated</unitdate>
-            <container id="aspace_6bd1b31ff87b1ae0701edaff4f4ce8b4" label="mixed materials" type="Box">2</container>
-            <container id="aspace_6e6bfb441c3084055ed3196e23407bda" parent="aspace_6bd1b31ff87b1ae0701edaff4f4ce8b4" type="folder">22</container>
+            <container id="aspace_2e1889143998686f40218eb2e511331f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f1ffb6fb6e6f3e11ce2e6d244bb936c3" parent="aspace_2e1889143998686f40218eb2e511331f" type="folder">22</container>
           </did>
         </c>
         <c id="aspace_5f65c8713fe7e69bdd190b8d0d69af84" level="file">
           <did>
             <unittitle>Community Activities</unittitle>
             <unitdate>Undated</unitdate>
-            <container id="aspace_61220862e13cf66e5c3e11d88313ef76" label="mixed materials" type="Box">2</container>
-            <container id="aspace_c7bd63f7c0d3beac59d6174ece1d642f" parent="aspace_61220862e13cf66e5c3e11d88313ef76" type="folder">23</container>
+            <container id="aspace_f74bd4058e420409a472684dffb59890" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_46172008d5293157957af2bebb32c795" parent="aspace_f74bd4058e420409a472684dffb59890" type="folder">23</container>
           </did>
         </c>
         <c id="aspace_83c6c624dc5c4de277fcfe1813af45a7" level="file">
           <did>
             <unittitle>Community Group Health Foundation</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_1dc59d5a9ff2c366f82ac81f7b94fa18" label="mixed materials" type="Box">2</container>
-            <container id="aspace_4059352efe83f65701f08be155f96425" parent="aspace_1dc59d5a9ff2c366f82ac81f7b94fa18" type="Folder">24</container>
+            <container id="aspace_c969ba5f257524c888b0e080b73edab8" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f33b951a2d456470efa45dd2ad64a141" parent="aspace_c969ba5f257524c888b0e080b73edab8" type="Folder">24</container>
           </did>
         </c>
         <c id="aspace_48f07a7e1171c5d6ea76bb7cc8b73118" level="file">
           <did>
             <unittitle>Community release organization</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_ca1ebb3532e9f292e28f5a70922bdf6b" label="mixed materials" type="Box">2</container>
-            <container id="aspace_5453999603d6d0a66db0ac9756c32158" parent="aspace_ca1ebb3532e9f292e28f5a70922bdf6b" type="Folder">25</container>
+            <container id="aspace_4d5a9384c538702186737d539ac55ec5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d243929c7ec86b9365f984bc77957e60" parent="aspace_4d5a9384c538702186737d539ac55ec5" type="Folder">25</container>
           </did>
         </c>
         <c id="aspace_ad180e9744024e34fec985f0821c27c7" level="file">
           <did>
             <unittitle>Community technology</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_44290be3c510c6103cdfb4347d030f86" label="mixed materials" type="Box">2</container>
-            <container id="aspace_7007f05b77bfea1871d0b3abf4ef2c35" parent="aspace_44290be3c510c6103cdfb4347d030f86" type="Folder">26</container>
+            <container id="aspace_84e8445db5d8e48632db6ad7b5a5c8d1" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_168d465db8f34815a0160487035dd78b" parent="aspace_84e8445db5d8e48632db6ad7b5a5c8d1" type="Folder">26</container>
           </did>
         </c>
         <c id="aspace_84a1d96bbd4aed5c637b269dd4dd4818" level="file">
           <did>
             <unittitle>Community video</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_3f20a182682cbc667e8a67ada4d325c9" label="mixed materials" type="Box">2</container>
-            <container id="aspace_1505f4659709b31022227b570a87d262" parent="aspace_3f20a182682cbc667e8a67ada4d325c9" type="Folder">27</container>
+            <container id="aspace_c3cde981e2863403fbb057877f39fa72" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_fbd9349efa63361624e3413248cb1b20" parent="aspace_c3cde981e2863403fbb057877f39fa72" type="Folder">27</container>
           </did>
         </c>
         <c id="aspace_79b314bfc1140a3ad8feceb2bbf9d1a2" level="file">
           <did>
             <unittitle>Congress-District relations</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_fa29418141f486ab7d18ae62a5578fbf" label="mixed materials" type="Box">2</container>
-            <container id="aspace_05a35dfc88e1728a0bfef2c92d4dcd54" parent="aspace_fa29418141f486ab7d18ae62a5578fbf" type="Folder">28</container>
+            <container id="aspace_22ab50ea477afcc9c838c11b4947db84" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_05bd3e30e97f2a42ffa31bcd9cfa2017" parent="aspace_22ab50ea477afcc9c838c11b4947db84" type="Folder">28</container>
           </did>
         </c>
         <c id="aspace_b797343cd81d25110fd1c48e3650e40f" level="file">
           <did>
             <unittitle>Condominium</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_886fe26fd9a48e95bf541d45cfd6e030" label="mixed materials" type="Box">2</container>
-            <container id="aspace_2efe28a2d17bd5b1e60739ad97370b22" parent="aspace_886fe26fd9a48e95bf541d45cfd6e030" type="Folder">29</container>
+            <container id="aspace_a7db7df2d57e5763291c1c36f417b5c7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_88018c9e9087e2ec5f8f6885bdf279b0" parent="aspace_a7db7df2d57e5763291c1c36f417b5c7" type="Folder">29</container>
           </did>
         </c>
         <c id="aspace_6b1992011fa0aac701af54ca9d2b0896" level="file">
           <did>
             <unittitle>David Clarke</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_d8f410d790ccddfad8a723bee5bd9645" label="mixed materials" type="Box">2</container>
-            <container id="aspace_e0753452289d890351a79fe0e30dd92a" parent="aspace_d8f410d790ccddfad8a723bee5bd9645" type="Folder">30</container>
+            <container id="aspace_79c2831f0343964e2189a4bc13ae867c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e3101a15a957bbd17a2b1cd68383b28b" parent="aspace_79c2831f0343964e2189a4bc13ae867c" type="Folder">30</container>
           </did>
         </c>
         <c id="aspace_cdccf7a16163e7a72a25f68e0b9a0cc8" level="file">
           <did>
             <unittitle>Office of Consumer Affairs</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_6d2035b877774e43d681e000ddec8c68" label="mixed materials" type="Box">2</container>
-            <container id="aspace_6863b1f14f87dfb9f50df707bbbb74cd" parent="aspace_6d2035b877774e43d681e000ddec8c68" type="Folder">31</container>
+            <container id="aspace_2d49707a2e8d6805ccd68e5b1415750a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_02b7e496d737ceb0d94bd002344666e4" parent="aspace_2d49707a2e8d6805ccd68e5b1415750a" type="Folder">31</container>
           </did>
         </c>
         <c id="aspace_ab258fa6b09b3e2f3b5f4ef8e27c82dc" level="file">
           <did>
             <unittitle>Continental walk</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_842961c3d46b25e934534d29a07b5a51" label="mixed materials" type="Box">3</container>
-            <container id="aspace_1b6f9b0162873e67bf19f4b93129fbf0" parent="aspace_842961c3d46b25e934534d29a07b5a51" type="Folder">1</container>
+            <container id="aspace_a1a5af69ee24399ddbd64f586488eb64" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_83c6541b8821ff477d95c06e3096bf07" parent="aspace_a1a5af69ee24399ddbd64f586488eb64" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_26840c531c7cc756e0e0bc60c5b5d07b" level="file">
           <did>
             <unittitle>Cooperacion Latina</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_d14fff695b38b9ee7255a1d168d72e0a" label="mixed materials" type="Box">3</container>
-            <container id="aspace_f921a00d0906039fac8ef06058a04f15" parent="aspace_d14fff695b38b9ee7255a1d168d72e0a" type="Folder">2</container>
+            <container id="aspace_ba79212b79ac636abf3724180ece3723" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_fcbeee2381817d3011cf243bf6eb6457" parent="aspace_ba79212b79ac636abf3724180ece3723" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_e1b1b52c9a1e8f5cec24fb14faaff830" level="file">
           <did>
             <unittitle>Credit union</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_838e96a8ca20c36dd0fa6508427af930" label="mixed materials" type="Box">3</container>
-            <container id="aspace_89ee776362af0daf9a87b6d0312785e6" parent="aspace_838e96a8ca20c36dd0fa6508427af930" type="Folder">3</container>
+            <container id="aspace_58af0b4fc6df0c4b98eae8868b1171f0" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_e61d70d8b306d3216889f5c2f60e9c6d" parent="aspace_58af0b4fc6df0c4b98eae8868b1171f0" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_62a97a2f062288f41405a5de774b3df6" level="file">
           <did>
             <unittitle>Crime</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_af357638e55dcc5126d0e36e76b58a04" label="mixed materials" type="Box">3</container>
-            <container id="aspace_f3c0cbc1c2850f266253a6e9aa7636e5" parent="aspace_af357638e55dcc5126d0e36e76b58a04" type="Folder">4</container>
+            <container id="aspace_2875d3185bcb6cec5e55a6be15df9dd6" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f8f5091e1c6ec9ec5c2ce3be03914af2" parent="aspace_2875d3185bcb6cec5e55a6be15df9dd6" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_8929eb07bac3c699557771b3bf7d5bae" level="file">
           <did>
             <unittitle>D.C. accounting</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_99dc6b153491e795fa1cb731841161bf" label="mixed materials" type="Box">3</container>
-            <container id="aspace_ddb720f060b928fcb6ba36d51319f467" parent="aspace_99dc6b153491e795fa1cb731841161bf" type="Folder">5</container>
+            <container id="aspace_1a87b156e7c09ebf18d11d3e48fea82d" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_ffe78e014ada6c5980db0b73451b3a08" parent="aspace_1a87b156e7c09ebf18d11d3e48fea82d" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_6c4b97f9e72950d62b88691f25b51bda" level="file">
           <did>
             <unittitle>D.C. campaign</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="aspace_8c89c28e83e40c528e5271e93f4633ee" label="mixed materials" type="Box">3</container>
-            <container id="aspace_aef2da84ad0d3f1cba081aceb7f3ce21" parent="aspace_8c89c28e83e40c528e5271e93f4633ee" type="Folder">6</container>
+            <container id="aspace_efb8457d67b5f1d2ab1f8910e6b9de97" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_63a94a6b4d10ad8474b9d3c641c3dbdc" parent="aspace_efb8457d67b5f1d2ab1f8910e6b9de97" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_2a288aa92356d907ef32aaa2545a15e3" level="file">
           <did>
             <unittitle>D.C. courts</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_046d0a6a65a3f21542e0a6c8e15b3748" label="mixed materials" type="Box">3</container>
-            <container id="aspace_cb547e2ab546ced906b5503d5c225d7c" parent="aspace_046d0a6a65a3f21542e0a6c8e15b3748" type="Folder">7</container>
+            <container id="aspace_daca906e392d85ad1ec05d1efad1325f" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_18004b369ecf11b08a2c2deb5676fe2f" parent="aspace_daca906e392d85ad1ec05d1efad1325f" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_39447ca777ebecbf54239e0b66fcc72e" level="file">
           <did>
             <unittitle>D.C. jail</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_719f33a393708705e6dfbc2afc1960c7" label="mixed materials" type="Box">3</container>
-            <container id="aspace_4323bfb92c765f6d52917e4b6a101b87" parent="aspace_719f33a393708705e6dfbc2afc1960c7" type="Folder">8</container>
+            <container id="aspace_5b50dc1208b5413684ae4f641ce221f5" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_5397fb2597884a137913be9e50cbea5c" parent="aspace_5b50dc1208b5413684ae4f641ce221f5" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_5c7824390a87bcdbfed16930074723b1" level="file">
           <did>
             <unittitle>D.C. Public Interest Research Group</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_0cf5c6c5943dcf4416c66ef15b07f3a9" label="mixed materials" type="Box">3</container>
-            <container id="aspace_cb103400cb53bb89311e9697146ff910" parent="aspace_0cf5c6c5943dcf4416c66ef15b07f3a9" type="Folder">9</container>
+            <container id="aspace_b96b1ebe40a05b67cf9e02a2e90bc4d2" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_49e073a69db739ff544c1e88e23a5c30" parent="aspace_b96b1ebe40a05b67cf9e02a2e90bc4d2" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_e795c9aec39b32baaf8887c2498a598f" level="file">
           <did>
             <unittitle>Dance forum</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_11c748d914d596c277892cbe9fba1c86" label="mixed materials" type="Box">3</container>
-            <container id="aspace_ec6fdb8ec1ed9a1ee261aa6599c70b6e" parent="aspace_11c748d914d596c277892cbe9fba1c86" type="Folder">10</container>
+            <container id="aspace_80d52a3eaf1843fa46f6c2d3a840b7a5" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_918a32834a97444625e61c4344c79eff" parent="aspace_80d52a3eaf1843fa46f6c2d3a840b7a5" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_9035fdd38e76340ff3696e20807efd93" level="file">
           <did>
             <unittitle>Democrats</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_ea128bb071c66c523e1de98138cb3301" label="mixed materials" type="Box">3</container>
-            <container id="aspace_5dc8d05ee3b72fab92e59db5c0ee3f6f" parent="aspace_ea128bb071c66c523e1de98138cb3301" type="Folder">11</container>
+            <container id="aspace_531cce5ce7f50b03808cd8ea438eaa55" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_110211dd3e27254d5951901cd067bca7" parent="aspace_531cce5ce7f50b03808cd8ea438eaa55" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_f6accaed76ae9d62b63ce65330066309" level="file">
           <did>
             <unittitle>Demographics</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f260a698b48dfc9e468a6fb2b037f44d" label="mixed materials" type="Box">3</container>
-            <container id="aspace_f541ed5166fd3a0b2b048439b2ce6534" parent="aspace_f260a698b48dfc9e468a6fb2b037f44d" type="Folder">12</container>
+            <container id="aspace_2e752e192ea7cad15ee66110c0fa4de1" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_3c537ffa234fd6099258f30b97cc14fe" parent="aspace_2e752e192ea7cad15ee66110c0fa4de1" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_3192d86f61435e38a7622472dc7bf50d" level="file">
           <did>
             <unittitle>District committee's House and Senate</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_52548372830010e9efca23c65f521523" label="mixed materials" type="Box">3</container>
-            <container id="aspace_986cb8b757982f84abf4c3df1fefb2e8" parent="aspace_52548372830010e9efca23c65f521523" type="Folder">14</container>
+            <container id="aspace_24a1c0f758b612ebae953d9ecaee46f4" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b9ca72f2f40b7b74b5cf272a5d134a9f" parent="aspace_24a1c0f758b612ebae953d9ecaee46f4" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_745f457febe6750924a8a1dafbdbfb42" level="file">
           <did>
             <unittitle>District issues</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_df4e02ee43b2312bcdbf904c1842fc55" label="mixed materials" type="Box">3</container>
-            <container id="aspace_b701e3e4de3649e987ee91d5400fcfc9" parent="aspace_df4e02ee43b2312bcdbf904c1842fc55" type="Folder">15</container>
+            <container id="aspace_34002dc782d4f11f11abcd1b8d49ac03" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_edda5984520b65d03c19668e604a8bcf" parent="aspace_34002dc782d4f11f11abcd1b8d49ac03" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_5071dfc22f3d7b2c121a25550e81dc00" level="file">
           <did>
             <unittitle>Divorce</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_8e0b771299f6bc7f5ca7e4eddc0098ec" label="mixed materials" type="Box">3</container>
-            <container id="aspace_cfaab148d6bf207d5e7e8906468e2e20" parent="aspace_8e0b771299f6bc7f5ca7e4eddc0098ec" type="Folder">16</container>
+            <container id="aspace_d43c46549ac1f8f793debbb74f482c88" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_3d654b522ddfd4a8476f50837809aa5c" parent="aspace_d43c46549ac1f8f793debbb74f482c88" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_1b16e3b970ba8860656cf85c70b3ae9e" level="file">
           <did>
             <unittitle>Dravilas</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_5bfae5e283cd54e998fcb028c5041277" label="mixed materials" type="Box">3</container>
-            <container id="aspace_f5763f0862e09bc5b68c2a5e00f7937b" parent="aspace_5bfae5e283cd54e998fcb028c5041277" type="Folder">17</container>
+            <container id="aspace_60986d85bf315e80deffee974586ff1e" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_4675d49dec5c010e42c09ca3a7203e73" parent="aspace_60986d85bf315e80deffee974586ff1e" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_8fae606170b78813944185f19a73177d" level="file">
           <did>
             <unittitle>Drugs</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_a0c268193c8f0b989cc4790b66109394" label="mixed materials" type="Box">3</container>
-            <container id="aspace_d074fc04cf141201df95edeb1b44b1e3" parent="aspace_a0c268193c8f0b989cc4790b66109394" type="Folder">18</container>
+            <container id="aspace_c91e297e930aa15219996fb541f48d2a" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_34f85af00f2f6ff122e095c769867e05" parent="aspace_c91e297e930aa15219996fb541f48d2a" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_9fb949f1156f674a476614f921f0e0f4" level="file">
           <did>
             <unittitle>Education</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_cd8da799283fee5d41a9e5f78d50cad3" label="mixed materials" type="Box">3</container>
-            <container id="aspace_aec1b73beda51df225dda204ab463717" parent="aspace_cd8da799283fee5d41a9e5f78d50cad3" type="Folder">19</container>
+            <container id="aspace_edb1f46c39158d3583e9d1ac93800145" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_029a6059bb3712c9e65c5c5af13b6aea" parent="aspace_edb1f46c39158d3583e9d1ac93800145" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_d0353a356d089b04d0523a011c60301f" level="file">
           <did>
             <unittitle>Elder</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_a8ab85b91b28fb3af52e064ce8db98eb" label="mixed materials" type="Box">3</container>
-            <container id="aspace_4bd8216b336037c3482278aa3b921aa6" parent="aspace_a8ab85b91b28fb3af52e064ce8db98eb" type="Folder">20</container>
+            <container id="aspace_9451071979eedeeb310192da0c1c5c31" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_3a28c24a09dfbe50f41f2065f4421787" parent="aspace_9451071979eedeeb310192da0c1c5c31" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_dc25692cf62ee9988a1d8d7eae614d80" level="file">
           <did>
             <unittitle>Election</unittitle>
             <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
-            <container id="aspace_8af0bbbf02233faf8dedd4fe4085b901" label="mixed materials" type="Box">3</container>
-            <container id="aspace_bedfb965b3f994c1a13a787e4f85cabd" parent="aspace_8af0bbbf02233faf8dedd4fe4085b901" type="Folder">21</container>
+            <container id="aspace_32feecf0f861f5daa9b42c97c24f9025" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d8452a086753513ad29cf0a0be47d11e" parent="aspace_32feecf0f861f5daa9b42c97c24f9025" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_9925b3a01c404cea27a8773866d12ab8" level="file">
           <did>
             <unittitle>Environment</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_1f208d2f94a9e38680ac253462545edf" label="mixed materials" type="Box">4</container>
-            <container id="aspace_67970a1765124fbda3736b269196d056" parent="aspace_1f208d2f94a9e38680ac253462545edf" type="Folder">1</container>
+            <container id="aspace_3f47f8dea6e885c2b283779dc3f5d8ce" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_93b52742d5c7274511741fd37971567d" parent="aspace_3f47f8dea6e885c2b283779dc3f5d8ce" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_d727aef05865599df812cf4a8dd03995" level="file">
           <did>
             <unittitle>Farm workers</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_b4032520396734ff0fc77702fcad666b" label="mixed materials" type="Box">4</container>
-            <container id="aspace_825a446c334b6f198fd352da595f0e22" parent="aspace_b4032520396734ff0fc77702fcad666b" type="Folder">2</container>
+            <container id="aspace_fab6fc604916b5f467891f0682c15c38" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0bdf6a6d6436bf1008e207258a6e02ce" parent="aspace_fab6fc604916b5f467891f0682c15c38" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_1821027825cb233e4b0113de30976082" level="file">
           <did>
             <unittitle>Fire Department of D.C.</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_ec533017027405a9c0d7bdbaafa43fc7" label="mixed materials" type="Box">4</container>
-            <container id="aspace_a4910ab643164f023d391fe63c6e34e0" parent="aspace_ec533017027405a9c0d7bdbaafa43fc7" type="Folder">3</container>
+            <container id="aspace_9c647b90b6173d76867a9bd9605b5dc3" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0e8f824e72f2be93a88f20193b9ee048" parent="aspace_9c647b90b6173d76867a9bd9605b5dc3" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_906754ddfdfcf23c05cfdf6ba58699b9" level="file">
           <did>
             <unittitle>First Church of Christ Scientist</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_4a954aff4684f5cdd59ff8e32874ba85" label="mixed materials" type="Box">4</container>
-            <container id="aspace_3ae2b93bdc51d9c92e9345670151320b" parent="aspace_4a954aff4684f5cdd59ff8e32874ba85" type="Folder">4</container>
+            <container id="aspace_58117f5e1196b947a838942fcf392287" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_8476d5ad62975050e41d3677a511dfbf" parent="aspace_58117f5e1196b947a838942fcf392287" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_bf79c99a23a44094310ace3ee169b7ac" level="file">
           <did>
             <unittitle>Food</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_6a7120984f9c34275da6b18c8be7c1c6" label="mixed materials" type="Box">4</container>
-            <container id="aspace_ef0fdcab8b20c62eea61f87ae1eb1bbd" parent="aspace_6a7120984f9c34275da6b18c8be7c1c6" type="Folder">5</container>
+            <container id="aspace_3eafb4fe1b02107838a0da8e719f9ba8" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_db67c899f18d8fdbcdf44785371b1a34" parent="aspace_3eafb4fe1b02107838a0da8e719f9ba8" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_c5b2c366035ea4cf813b7f70f572f282" level="file">
           <did>
             <unittitle>Food stamps</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_4b38187d14102f4be05d47c5fbff3d2e" label="mixed materials" type="Box">4</container>
-            <container id="aspace_6730b77848bf35b8da2ce17690309c00" parent="aspace_4b38187d14102f4be05d47c5fbff3d2e" type="Folder">6</container>
+            <container id="aspace_787366dfad027f0ae2fc4b7199ecb836" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_9a103d038ad9f207d69d8f107b2beac5" parent="aspace_787366dfad027f0ae2fc4b7199ecb836" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_cf68f5f29e1fa14d4fa6d386c0d11f11" level="file">
           <did>
             <unittitle>Food stamps</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_d794a38006cd9031bdff89b709488007" label="mixed materials" type="Box">4</container>
-            <container id="aspace_48a507624de8cb8ae8ba9317373381c8" parent="aspace_d794a38006cd9031bdff89b709488007" type="Folder">7</container>
+            <container id="aspace_cc7ed86427feea9e3ec811b3bb400ce4" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_5eacfb0cafdd395723844dd87be51540" parent="aspace_cc7ed86427feea9e3ec811b3bb400ce4" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_5b860f5ac8107aa724c2c93a44c0a747" level="file">
           <did>
             <unittitle>Food stores</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_8c2f56bb052b5c20d245fa8c6ef0d432" label="mixed materials" type="Box">4</container>
-            <container id="aspace_57ba97678f1451f822ba5108ed0a9f0e" parent="aspace_8c2f56bb052b5c20d245fa8c6ef0d432" type="Folder">8</container>
+            <container id="aspace_fdaba7e5a403608acdc6eb95cee11915" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_77b8b311fa0fa34044e501d9bd98a305" parent="aspace_fdaba7e5a403608acdc6eb95cee11915" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_55aee3e9b8c9d1bbfe9ee44d1bc55262" level="file">
           <did>
             <unittitle>Food tax</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_0b6f16db159abf02b92694fc2da47bee" label="mixed materials" type="Box">4</container>
-            <container id="aspace_582dcb37be9d0c3842a8526fd1b2a2cf" parent="aspace_0b6f16db159abf02b92694fc2da47bee" type="Folder">9</container>
+            <container id="aspace_5d429a020ecb6b3e688b7007ca4adc6d" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0a214eb79ffd1198c3edb4e7a39bd2c1" parent="aspace_5d429a020ecb6b3e688b7007ca4adc6d" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_b654e0fd8df9b0bbeff926256b92d6dc" level="file">
           <did>
             <unittitle>Foundation for Multi-lingualism and polyculturalism</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_84a2aeba6cc30b7e7235f1a151ef5da1" label="mixed materials" type="Box">4</container>
-            <container id="aspace_06c16205651f31de5ff657e73dd495b5" parent="aspace_84a2aeba6cc30b7e7235f1a151ef5da1" type="Folder">10</container>
+            <container id="aspace_d7d6c5da2cfda655eea95be734dfce05" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_4b583b55bfe36b5daf98940c58372813" parent="aspace_d7d6c5da2cfda655eea95be734dfce05" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_5097373717b694b56636777a8d0867d9" level="file">
           <did>
             <unittitle>Gun control</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_904cd30e9a7dbfc375fe5b369177bb89" label="mixed materials" type="Box">4</container>
-            <container id="aspace_45e0417e53581adf3a8df80138fe5099" parent="aspace_904cd30e9a7dbfc375fe5b369177bb89" type="Folder">11</container>
+            <container id="aspace_6b1f9f5089e039daaa705be7c884638c" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_10c1ba2cc9da291026da4c1844652308" parent="aspace_6b1f9f5089e039daaa705be7c884638c" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_6473bf98831e5c098f9dd1042f7b5cc9" level="file">
           <did>
             <unittitle>Hatch Act</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_0025c3528b88cd188897e038d37ff73c" label="mixed materials" type="Box">4</container>
-            <container id="aspace_aa57410995cc01cf0f4d89912c159d6f" parent="aspace_0025c3528b88cd188897e038d37ff73c" type="Folder">12</container>
+            <container id="aspace_6d0080ba83132582beee7a13fd4f1eb7" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_896da86009482c4181563a829aa28cdb" parent="aspace_6d0080ba83132582beee7a13fd4f1eb7" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_b4306e6ba511a29667e32bc76a429d78" level="file">
           <did>
             <unittitle>Housing</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_1a02145e513c06a9c85fc47c7950f973" label="mixed materials" type="Box">4</container>
-            <container id="aspace_61f0de20026783ec63e13f58e3bec526" parent="aspace_1a02145e513c06a9c85fc47c7950f973" type="Folder">13</container>
+            <container id="aspace_cba20fb4ec3f50638968d165d304391a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0328625ada1a0631348fa4b30dc68837" parent="aspace_cba20fb4ec3f50638968d165d304391a" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_325b26ab7ab9688839d68b32c1ed3e2f" level="file">
           <did>
             <unittitle>Health</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f36746c60df2a7e1a90074be73a528a0" label="mixed materials" type="Box">4</container>
-            <container id="aspace_250fd3d9948c979e58003a89213c8590" parent="aspace_f36746c60df2a7e1a90074be73a528a0" type="Folder">14</container>
+            <container id="aspace_7afbdde1ab81c236734c76fa7f607e96" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_232ea649cac8926f339db31bdecb4cf1" parent="aspace_7afbdde1ab81c236734c76fa7f607e96" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_262302c38797e9f3186d21fc139753f0" level="file">
           <did>
             <unittitle>Institute for cultural affairs</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_01555e84bd204719fb9280fd8b97e075" label="mixed materials" type="Box">4</container>
-            <container id="aspace_f769c5b075530f9122e4de9c65883109" parent="aspace_01555e84bd204719fb9280fd8b97e075" type="Folder">15</container>
+            <container id="aspace_638aadc0e5c10864a657b5139214748e" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_f5d196e5a757ebbd8b1396f5e7157d0c" parent="aspace_638aadc0e5c10864a657b5139214748e" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_e70d659c86482814a504fea54896881e" level="file">
           <did>
             <unittitle>Institute for local self-reliance</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_3e500542db55883fef3a78819ce203da" label="mixed materials" type="Box">4</container>
-            <container id="aspace_5b1b04987fc6870ad40db169ba87b912" parent="aspace_3e500542db55883fef3a78819ce203da" type="Folder">16</container>
+            <container id="aspace_484b8e8f9c54d0bf5363cc60d0c65013" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_c12b8e4631bd3896b84c72be7db5ac68" parent="aspace_484b8e8f9c54d0bf5363cc60d0c65013" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_00bf06e30edbda2de1ec8095c25a6242" level="file">
           <did>
             <unittitle>Jan Van Dyke</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_65791027d12861da67e65b9fcb4f8934" label="mixed materials" type="Box">4</container>
-            <container id="aspace_0e501da58b0972b478d32d1a0c659133" parent="aspace_65791027d12861da67e65b9fcb4f8934" type="Folder">17</container>
+            <container id="aspace_f32868bd11321af29a9f31240e058205" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0d81bbde63863d26ab2a290022701197" parent="aspace_f32868bd11321af29a9f31240e058205" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_8603ee50fd86cea94b193ea4eac79a49" level="file">
           <did>
             <unittitle>Jobs</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_dc9cfc48a0bc14e454d32efb6bdc9035" label="mixed materials" type="Box">4</container>
-            <container id="aspace_0670efdd60cdbdb8288d4ff7ba1fd68c" parent="aspace_dc9cfc48a0bc14e454d32efb6bdc9035" type="Folder">18</container>
+            <container id="aspace_2eedd004c6045df87aabd183f19b1f92" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_d1cd59044212707e306d339fbe2e5b81" parent="aspace_2eedd004c6045df87aabd183f19b1f92" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_33d332c29d39e0ca6119caa4969f323e" level="file">
           <did>
             <unittitle>Jubilee housing</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_662a9f8d5a11d8bbb43998d0480628f5" label="mixed materials" type="Box">4</container>
-            <container id="aspace_932b18fcb9d540623cab7719b5b53cfc" parent="aspace_662a9f8d5a11d8bbb43998d0480628f5" type="Folder">19</container>
+            <container id="aspace_6615774c9307cf721a8aa9cd31eb430f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_edd706602735193f63435506f5af4642" parent="aspace_6615774c9307cf721a8aa9cd31eb430f" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_50952607e881393ace19e0b6998211e4" level="file">
           <did>
             <unittitle>Kalorama Citizens Association</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_cbec7192ebfa6809272e8c9a768a4ff2" label="mixed materials" type="Box">4</container>
-            <container id="aspace_adce11efb5a48f3991d986629e42a21e" parent="aspace_cbec7192ebfa6809272e8c9a768a4ff2" type="Folder">20</container>
+            <container id="aspace_3264ef68c78b3333e43836ac7d99c4c8" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_86591759fee02194e75cc44668b9fc08" parent="aspace_3264ef68c78b3333e43836ac7d99c4c8" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_474be239baeb02c2dadaafee83643185" level="file">
           <did>
             <unittitle>Lakers</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_058eff581454c7580e83fd07c24d1567" label="mixed materials" type="Box">4</container>
-            <container id="aspace_0a9759c5067d2bd1cb4fd11e7a18e1e8" parent="aspace_058eff581454c7580e83fd07c24d1567" type="Folder">21</container>
+            <container id="aspace_f4df3d8a312148353d69def1a7aaa95b" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_6c428227190a78376c42857c88e67180" parent="aspace_f4df3d8a312148353d69def1a7aaa95b" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_39cb8d54611139a53fe3e325fd3f77c6" level="file">
           <did>
             <unittitle>La Mesa Redonda</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_32e03a66e218e25b7d4c8c9d1befafe9" label="mixed materials" type="Box">4</container>
-            <container id="aspace_cb5eb2f9d8b54ca544230fa82b5f5e3c" parent="aspace_32e03a66e218e25b7d4c8c9d1befafe9" type="Folder">22</container>
+            <container id="aspace_81b0cac83b29e7d51f4fd6b2b1db0877" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_8743a9ed39bddd214de28663a7e15a23" parent="aspace_81b0cac83b29e7d51f4fd6b2b1db0877" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_160233adb1cd555a27319256b6c4b220" level="file">
           <did>
             <unittitle>Land speculation</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_7cdb87d5c7cfa7e90aa54e18d713717c" label="mixed materials" type="Box">4</container>
-            <container id="aspace_01bf98b850122db0c40341816d0b6f33" parent="aspace_7cdb87d5c7cfa7e90aa54e18d713717c" type="Folder">23</container>
+            <container id="aspace_eace0de7d5c8272e3f3ac42f0ee97746" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7ebb518788e564ab1bd1769d9d545386" parent="aspace_eace0de7d5c8272e3f3ac42f0ee97746" type="Folder">23</container>
           </did>
         </c>
         <c id="aspace_f1e7637972a6c04070a4a27dca3ac790" level="file">
           <did>
             <unittitle>Latino</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_343a4b587f84a05b94b1562dade7092f" label="mixed materials" type="Box">5</container>
-            <container id="aspace_2aab7acfa50a48753677fc7b22498ac3" parent="aspace_343a4b587f84a05b94b1562dade7092f" type="Folder">1</container>
+            <container id="aspace_4c7042c6acb18642ab7c87d5bb4482b5" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_709fcaadad234a095b42a7e0339e28d0" parent="aspace_4c7042c6acb18642ab7c87d5bb4482b5" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_f1085f0ef4f7ebe35e1591faa2b8202d" level="file">
           <did>
             <unittitle>Legal gambling</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_1923adb1ce26efd0b064db2cbabe879d" label="mixed materials" type="Box">5</container>
-            <container id="aspace_b0720436114e2639963b3636f5fd5e62" parent="aspace_1923adb1ce26efd0b064db2cbabe879d" type="Folder">2</container>
+            <container id="aspace_d5b3588e44341e03901cb6e452fc1022" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_e939425924160e5c1832ee7c66c74858" parent="aspace_d5b3588e44341e03901cb6e452fc1022" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_e9d045bcefbed75aa42b6d61a9f6f9ff" level="file">
           <did>
             <unittitle>Literacy action</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_88e102758037821b91b1ed5564c15807" label="mixed materials" type="Box">5</container>
-            <container id="aspace_66cb2c993db2de78a081a81b2754a867" parent="aspace_88e102758037821b91b1ed5564c15807" type="Folder">3</container>
+            <container id="aspace_548302af387fdc682207f815160dcdbb" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_01d6e6da0bfdfbe25a55caafc46dc8ce" parent="aspace_548302af387fdc682207f815160dcdbb" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_a2cbdac6f479b7ef1a108731d7d8dbbc" level="file">
           <did>
             <unittitle>Marijuana law revisions</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_745b58c93d04e40c997a8fdf45e46bf8" label="mixed materials" type="Box">5</container>
-            <container id="aspace_e07d5d7b6488cfe1033f3624d0b79798" parent="aspace_745b58c93d04e40c997a8fdf45e46bf8" type="Folder">4</container>
+            <container id="aspace_cba59d9fd7c3ef16fdc07f1b9a930112" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_1b15f70d724bee087aa794d885eed88b" parent="aspace_cba59d9fd7c3ef16fdc07f1b9a930112" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_6d4e3112cfff66ae4a6cdbacb29ea8fe" level="file">
           <did>
             <unittitle>Massage</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_ac97f4db921d93af144b764985950578" label="mixed materials" type="Box">5</container>
-            <container id="aspace_0b1401fc7cae7c244b6321889a89d9b8" parent="aspace_ac97f4db921d93af144b764985950578" type="Folder">5</container>
+            <container id="aspace_b81e2e5d46af60854becf152d0eab90f" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_ac94f6a2b33ce65e1f378c0ab2471718" parent="aspace_b81e2e5d46af60854becf152d0eab90f" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ad9b5c7dda8a4807edbb62bce704c7a2" level="file">
           <did>
             <unittitle>Mayor Washington</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_eae76ce010588ef8b36720373f7f60de" label="mixed materials" type="Box">5</container>
-            <container id="aspace_430cd85798673d55885fc34c9dea6c73" parent="aspace_eae76ce010588ef8b36720373f7f60de" type="Folder">6</container>
+            <container id="aspace_d01f3cdd6b1bec480838611e25de8422" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_677c3b3d8950fd8600979fb3d3a8ef98" parent="aspace_d01f3cdd6b1bec480838611e25de8422" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_589f2ba5770e826e36330747633096c5" level="file">
           <did>
             <unittitle>Mayor's Committee for Spanish Affairs</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_866398eb60155bbde6189c02480220b3" label="mixed materials" type="Box">5</container>
-            <container id="aspace_01657947c35fd6793e28793081ed5917" parent="aspace_866398eb60155bbde6189c02480220b3" type="Folder">7</container>
+            <container id="aspace_30587fcf591d81b39e9f520f8ba23413" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_2934caff2b1219e8ae4e8d20a2ae8609" parent="aspace_30587fcf591d81b39e9f520f8ba23413" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_edabfbe441f38315e8081ab61da645ac" level="file">
           <did>
             <unittitle>Mailing lists</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_30c7d6f351bc3fab2d293b0f9df070d2" label="mixed materials" type="Box">5</container>
-            <container id="aspace_de971d7f9d65866c1b65573da482184b" parent="aspace_30c7d6f351bc3fab2d293b0f9df070d2" type="Folder">8</container>
+            <container id="aspace_48605b016b654ed3359cd3b93c48b122" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_d496bbed30a60af53f709093609c338d" parent="aspace_48605b016b654ed3359cd3b93c48b122" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_06030387462b9d9843c442f047e09583" level="file">
           <did>
             <unittitle>Metro</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_b41e0b3d66e6c6c071ae5dad9a0a736e" label="mixed materials" type="Box">5</container>
-            <container id="aspace_b23183726e21beb2215e23c83bab1475" parent="aspace_b41e0b3d66e6c6c071ae5dad9a0a736e" type="Folder">9</container>
+            <container id="aspace_f742ca16e9e2072916aea6b4d7c1a411" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_4c3aefa26cac2f5233ff842ffa9a43cb" parent="aspace_f742ca16e9e2072916aea6b4d7c1a411" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ce560d07919e270a289555ab733fe89e" level="file">
           <did>
             <unittitle>Morgan school</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_14b490186fd7bf2a375a497b5a0bbfb9" label="mixed materials" type="Box">5</container>
-            <container id="aspace_3a104d5d00045fbfdc3f7e3c5ff7b901" parent="aspace_14b490186fd7bf2a375a497b5a0bbfb9" type="Folder">10</container>
+            <container id="aspace_235f03e5591eedb9fb25538f806bf138" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_30e928c009bee951a1fab858197b5397" parent="aspace_235f03e5591eedb9fb25538f806bf138" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_13347820a504060c8ec7f2a6cafe22ce" level="file">
           <did>
             <unittitle>Music center</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_06a062edd7c88077098a4ea2918ec561" label="mixed materials" type="Box">5</container>
-            <container id="aspace_8641fd3e0c8a256813f5e4e6a851069a" parent="aspace_06a062edd7c88077098a4ea2918ec561" type="Folder">11</container>
+            <container id="aspace_3e80cf49302ce52776a2427118aa564c" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_240cc9acea245e06ada9fdeac755a4b8" parent="aspace_3e80cf49302ce52776a2427118aa564c" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_f9215db88d4272d0b9213f5659b0bcf7" level="file">
           <did>
             <unittitle>Mt. Pleasant</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_13058d6da97431bb69e71399f1be4ede" label="mixed materials" type="Box">5</container>
-            <container id="aspace_5be53612838d25c7ea32745470c2a055" parent="aspace_13058d6da97431bb69e71399f1be4ede" type="Folder">12</container>
+            <container id="aspace_9d6fce7ac620bb968ba4dccd8f0be95c" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_5577bab452083e0ff0176d1a3f0ec91e" parent="aspace_9d6fce7ac620bb968ba4dccd8f0be95c" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_eabf67575fc484acd2fe0e193be71fdc" level="file">
           <did>
             <unittitle>Nahikian Marie</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f43bba3fe9695b6852cf4b6f8ea6f5bc" label="mixed materials" type="Box">5</container>
-            <container id="aspace_0d99898db06617fb296ed954f8822735" parent="aspace_f43bba3fe9695b6852cf4b6f8ea6f5bc" type="Folder">13</container>
+            <container id="aspace_a8ecdf629459e19736798a8cd321a7ec" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_43e10ab3663ee617dd9955985542a996" parent="aspace_a8ecdf629459e19736798a8cd321a7ec" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_0cb5927f44c2b5ec5df358e47a12e84d" level="file">
           <did>
             <unittitle>Alliance for Neighborhood Government</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_27dbd186b4acc8e83543f77898e8fb2d" label="mixed materials" type="Box">5</container>
-            <container id="aspace_bf981a83d10399f16e0a077dfe8221ce" parent="aspace_27dbd186b4acc8e83543f77898e8fb2d" type="Folder">14</container>
+            <container id="aspace_815ce988b2f59c486bf5809df279d34a" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_6bdba965353e58a34a634ae87d46a05d" parent="aspace_815ce988b2f59c486bf5809df279d34a" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_f5c47dca5fd6738b4764f92a6ff4dfdb" level="file">
           <did>
             <unittitle>Neighborhood Planning Council</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_b14a32c3ab8d29dbd77c3b12e782921f" label="mixed materials" type="Box">5</container>
-            <container id="aspace_b74ba11aa35b2f76cc424ab9fec5b078" parent="aspace_b14a32c3ab8d29dbd77c3b12e782921f" type="Folder">15</container>
+            <container id="aspace_7059b3c04dc9f1fec7df2dc1317e97a6" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_f689a124cb5f0cb89b901669a57bfc35" parent="aspace_7059b3c04dc9f1fec7df2dc1317e97a6" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_a3afdccd85d11eff93db66ca2b8a3157" level="file">
           <did>
             <unittitle>National Public Radio</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_601e28dd7c6d2f08c255ac94a727e804" label="mixed materials" type="Box">5</container>
-            <container id="aspace_f7b7c82cd2d48ffe1de3d0cdef5f3086" parent="aspace_601e28dd7c6d2f08c255ac94a727e804" type="Folder">16</container>
+            <container id="aspace_f9b0a453e189bb0b607edc4e35f16c52" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_22404aad2526ab655fd86024caf8dcc3" parent="aspace_f9b0a453e189bb0b607edc4e35f16c52" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_b85e9e6afbeecc00912e80fd5dc4e402" level="file">
           <did>
             <unittitle>P Street Paper Works</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_117c4d5ad0c83eebc02c2494e7cfeb3c" label="mixed materials" type="Box">5</container>
-            <container id="aspace_3a54f760c4f4f06cdf55f9ee802ac8d8" parent="aspace_117c4d5ad0c83eebc02c2494e7cfeb3c" type="Folder">17</container>
+            <container id="aspace_fbf1242c8d601a000f44c131d080195b" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_6bde8acb6e2bfba004c5a799509ca0b5" parent="aspace_fbf1242c8d601a000f44c131d080195b" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_c7ac1bfabd948647318c64b243ff6a86" level="file">
           <did>
             <unittitle>Protection of Elderly People</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_1163346ae102df77be8def887a3bdb75" label="mixed materials" type="Box">5</container>
-            <container id="aspace_ca2f4e518820bcef07ec3c4f48fe47d6" parent="aspace_1163346ae102df77be8def887a3bdb75" type="Folder">18</container>
+            <container id="aspace_85b1f8a1f2de843ed14cce837693edcb" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_42c3e24bc50a8f864d80d59dfde607ee" parent="aspace_85b1f8a1f2de843ed14cce837693edcb" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_3a71f0b70682ec58d3172294749928b2" level="file">
           <did>
             <unittitle>PEPCO</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_d3d05e0309dc41aba00f7320b4bb2e41" label="mixed materials" type="Box">5</container>
-            <container id="aspace_4aa675f55e1ea3f1767d87359aedc862" parent="aspace_d3d05e0309dc41aba00f7320b4bb2e41" type="Folder">19</container>
+            <container id="aspace_5af8346db968f8e040144d3ec76dfe3a" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_223825503874f006f6fefdd4f06a4101" parent="aspace_5af8346db968f8e040144d3ec76dfe3a" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_a342ce78e0613360882c8b05cc9d5067" level="file">
           <did>
             <unittitle>Perpetual</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_4985675badaa6652f95e2668b04ce106" label="mixed materials" type="Box">5</container>
-            <container id="aspace_a18b0150744b6b12c9a6d3d6e1712b76" parent="aspace_4985675badaa6652f95e2668b04ce106" type="Folder">20</container>
+            <container id="aspace_a9e04c635dda75aba687ad0916237ec6" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_f10cacf5f70873c6be1ab2b516b24618" parent="aspace_a9e04c635dda75aba687ad0916237ec6" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_24c25ac0ce2e5931db4f9df108318d5c" level="file">
           <did>
             <unittitle>Police</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_df507b1f74dcd2953b181536487e148f" label="mixed materials" type="Box">5</container>
-            <container id="aspace_429bc26098eba9e4acd021d6b0e315c0" parent="aspace_df507b1f74dcd2953b181536487e148f" type="Folder">21</container>
+            <container id="aspace_d995a9e234aed07e0acf2298b8e076f6" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_775976dcf8a86fc3725fcc76af89da5c" parent="aspace_d995a9e234aed07e0acf2298b8e076f6" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_785b62c08ffdb4a0891b3df73913fb28" level="file">
           <did>
             <unittitle>Police-Community relations</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_328bad35c19ae3bec8204c2bb6b06dd8" label="mixed materials" type="Box">5</container>
-            <container id="aspace_d0581798be26a4527cf1c35ae2c4b327" parent="aspace_328bad35c19ae3bec8204c2bb6b06dd8" type="Folder">22</container>
+            <container id="aspace_c5a2919e09d7f92e7b57ef811f5b13ee" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_b12cf6b81a26c915e96ca617665ddcda" parent="aspace_c5a2919e09d7f92e7b57ef811f5b13ee" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_f5baaefb16a20d105c4b03b7a0f10bfd" level="file">
           <did>
             <unittitle>Polycultural Institute</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_12348bbcf63759421e736916c1fa23e5" label="mixed materials" type="Box">5</container>
-            <container id="aspace_c065f2e5a2c7ca7fe36065e7ec8fe80d" parent="aspace_12348bbcf63759421e736916c1fa23e5" type="Folder">23</container>
+            <container id="aspace_1f48040db67f306884970158a897ef95" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_5f02e26166028c059775b936d08306a7" parent="aspace_1f48040db67f306884970158a897ef95" type="Folder">23</container>
           </did>
         </c>
         <c id="aspace_74423e0185b33af0ef691ba4dfe17094" level="file">
           <did>
             <unittitle>Potter's House City Center</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_e55755d5741af3ca4270d4f0ee7d379a" label="mixed materials" type="Box">5</container>
-            <container id="aspace_c2dc6f2be5300f8bbeaa1a5ad47e6c8e" parent="aspace_e55755d5741af3ca4270d4f0ee7d379a" type="Folder">24</container>
+            <container id="aspace_3e9c5eebbb60c9f9b0737b43c4e82983" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_d5a78fd0258f8f7e29c39389854b892c" parent="aspace_3e9c5eebbb60c9f9b0737b43c4e82983" type="Folder">24</container>
           </did>
         </c>
         <c id="aspace_1d00ba02806ca01fba08de2db38a2e83" level="file">
           <did>
             <unittitle>Press</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_19485691e23a3fd539c235af33026407" label="mixed materials" type="Box">5</container>
-            <container id="aspace_44a06df620e8b87eda261980c56bfb42" parent="aspace_19485691e23a3fd539c235af33026407" type="Folder">25</container>
+            <container id="aspace_204ba0e95609e204bd85547f3c66fe41" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_cf1e477ef905c795d59da17dc1dbd889" parent="aspace_204ba0e95609e204bd85547f3c66fe41" type="Folder">25</container>
           </did>
         </c>
         <c id="aspace_51064f61671a8154273c5fe8f2a4aaf9" level="file">
           <did>
             <unittitle>Preterm</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_3f3a60aabdfaeea10adfb13131754392" label="mixed materials" type="Box">5</container>
-            <container id="aspace_71780f606d64b00a67203a58405e830a" parent="aspace_3f3a60aabdfaeea10adfb13131754392" type="Folder">26</container>
+            <container id="aspace_c311a3dc88d0f2ebf8560e112bcea600" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_94e952a580283a36d8682e1a61f719b8" parent="aspace_c311a3dc88d0f2ebf8560e112bcea600" type="Folder">26</container>
           </did>
         </c>
         <c id="aspace_fb744ee279eab473825fd13cd9592693" level="file">
           <did>
             <unittitle>Pride Incorporated</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_38eb2256e545e8f7b73ca73451a67d8c" label="mixed materials" type="Box">5</container>
-            <container id="aspace_fe5d2c4707fec553197330f90f7840cb" parent="aspace_38eb2256e545e8f7b73ca73451a67d8c" type="Folder">27</container>
+            <container id="aspace_f6aec661f67bce48cccd9f85b67fb084" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_e9914f9c2ac2e27ccb00d2d916f684e5" parent="aspace_f6aec661f67bce48cccd9f85b67fb084" type="Folder">27</container>
           </did>
         </c>
         <c id="aspace_2ba79accc1cd093bddab6b252d951376" level="file">
           <did>
             <unittitle>Prison</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_be4b1c4d0dad67f7fbaf69e31d805981" label="mixed materials" type="Box">5</container>
-            <container id="aspace_412371b6b328e0cade3c8da66a2ab65f" parent="aspace_be4b1c4d0dad67f7fbaf69e31d805981" type="Folder">28</container>
+            <container id="aspace_490ab058bfe957d3acb7992d130d8738" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_cd280ef64730b9219d7bf4d5848332b0" parent="aspace_490ab058bfe957d3acb7992d130d8738" type="Folder">28</container>
           </did>
         </c>
         <c id="aspace_aace637c2c544d7bb134ba0c08d2a679" level="file">
           <did>
             <unittitle>Quaker House</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_39977377113e7386a3e326c2f25a9928" label="mixed materials" type="Box">5</container>
-            <container id="aspace_2b3402cca9e5c71203ec5038ab296e9c" parent="aspace_39977377113e7386a3e326c2f25a9928" type="Folder">29</container>
+            <container id="aspace_c44bac2733fc7242d5a83304bc0a3f51" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_96d58041ebc94b1efb8beb37c92e28c2" parent="aspace_c44bac2733fc7242d5a83304bc0a3f51" type="Folder">29</container>
           </did>
         </c>
         <c id="aspace_b77eaaec654e6d3ab39b17032d309356" level="file">
           <did>
             <unittitle>Property taxes</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_9a0ac8788f29bade3d4fbd2c1343e6fc" label="mixed materials" type="Box">5</container>
-            <container id="aspace_caeb1e5d491dc867d393b1cb83ec7638" parent="aspace_9a0ac8788f29bade3d4fbd2c1343e6fc" type="Folder">30</container>
+            <container id="aspace_ada5cf4c18f7cd30c548c6ab7f187619" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_0b5eaa9ddcc3146c20fb1c93abd36307" parent="aspace_ada5cf4c18f7cd30c548c6ab7f187619" type="Folder">30</container>
           </did>
         </c>
         <c id="aspace_4bee093a79c2eb13cbeccb2f965305d7" level="file">
           <did>
             <unittitle>Public assistance</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_03ca3ea9e6d19f31adf66959492c9410" label="mixed materials" type="Box">5</container>
-            <container id="aspace_8df68f4d19c01c7a2727d44c7b957706" parent="aspace_03ca3ea9e6d19f31adf66959492c9410" type="Folder">31</container>
+            <container id="aspace_606fd42575de9aa740a3af31aebddb06" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_8260a959501d7ac64fb5f837899d8a2b" parent="aspace_606fd42575de9aa740a3af31aebddb06" type="Folder">31</container>
           </did>
         </c>
         <c id="aspace_52c2c3294a703ea2689a22c0469e55bc" level="file">
           <did>
             <unittitle>Radio CB</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_aeb9e75314a04f6d811aeb856334be45" label="mixed materials" type="Box">6</container>
-            <container id="aspace_d90e0742bb3b12668d301f0584dcd17e" parent="aspace_aeb9e75314a04f6d811aeb856334be45" type="Folder">1</container>
+            <container id="aspace_a5f317948084571422ebf86a69ab7b48" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_e94868ce677e7c2601e7ed665ce4683d" parent="aspace_a5f317948084571422ebf86a69ab7b48" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_a4b4738f68bdf8ea0c76e6c69a4fb3c8" level="file">
           <did>
             <unittitle>RAP Inc.</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_7fd67a4ceecb8b9f858d05c0d564d1b4" label="mixed materials" type="Box">6</container>
-            <container id="aspace_2dab57f967dcadd2e96780ea58149350" parent="aspace_7fd67a4ceecb8b9f858d05c0d564d1b4" type="Folder">2</container>
+            <container id="aspace_bafa6509532ff4b6ae3bc0b63ed77ed8" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_7d20a95e7a547dc081341d321a5a3fe6" parent="aspace_bafa6509532ff4b6ae3bc0b63ed77ed8" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_92e37a7d74d989cc996f620d89d4cf39" level="file">
           <did>
             <unittitle>Rape</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_94b6e2f333abb270ffd6b10c1f449ad6" label="mixed materials" type="Box">6</container>
-            <container id="aspace_52094129eaf57964f516ab759ebf4069" parent="aspace_94b6e2f333abb270ffd6b10c1f449ad6" type="Folder">3</container>
+            <container id="aspace_379409692e488a436f455b93979e189e" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_68373dbc3364c846063e866d43a699c5" parent="aspace_379409692e488a436f455b93979e189e" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_287623bf139e61dd1f4da49e1ad1ca63" level="file">
           <did>
             <unittitle>Rates - AD</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_c3a758badc12665576d82e8c13298cdb" label="mixed materials" type="Box">6</container>
-            <container id="aspace_270df9597bd8a4ee49a7b902fe116e12" parent="aspace_c3a758badc12665576d82e8c13298cdb" type="Folder">4</container>
+            <container id="aspace_59c0ea929b3b141b0eb4b374e3602ed1" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_92a05cf891b8604fcfb9d3445833186e" parent="aspace_59c0ea929b3b141b0eb4b374e3602ed1" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_79e5692d6a38b4766a87b61a0e6590a1" level="file">
           <did>
             <unittitle>Real estate transaction tax</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_beed651f374edb54913d5dcfb1022289" label="mixed materials" type="Box">6</container>
-            <container id="aspace_89aa9fb6497a01a9ffb6ae2cfe2337b1" parent="aspace_beed651f374edb54913d5dcfb1022289" type="Folder">5</container>
+            <container id="aspace_77975ba1d1aded8a5da2c4218a7155dd" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_1e90ec27f37686ff77c3c4e7c846f561" parent="aspace_77975ba1d1aded8a5da2c4218a7155dd" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_e6d2863f4a1450443c4d5452f705abf1" level="file">
           <did>
             <unittitle>Recipes</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_542cc6ac74eee25f00c6a34d097edd62" label="mixed materials" type="Box">6</container>
-            <container id="aspace_fb1841ee70bcc0f36211ff20ea5a8d61" parent="aspace_542cc6ac74eee25f00c6a34d097edd62" type="Folder">6</container>
+            <container id="aspace_09fd0fa218ba1242510ed9bbda939c72" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_ffcb3554ddd47e2a677f4bcd6de1e034" parent="aspace_09fd0fa218ba1242510ed9bbda939c72" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_5913779e5c4dd97a33133d7c7eba4fc2" level="file">
           <did>
             <unittitle>Recreation</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_76fee9970f1bfe447ec2537e19184e1b" label="mixed materials" type="Box">6</container>
-            <container id="aspace_b0034099537152648466ba3a9690dcbd" parent="aspace_76fee9970f1bfe447ec2537e19184e1b" type="Folder">7</container>
+            <container id="aspace_6aa3320741dbee413f01e6b2101eac14" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_15fc2e9056cf0a671a2023bda6053c94" parent="aspace_6aa3320741dbee413f01e6b2101eac14" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_5e279209a2917b65fe8f9f1ce4a196d0" level="file">
           <did>
             <unittitle>Rent control</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_a1c079b68801fc8362e3dda5b9d05ea3" label="mixed materials" type="Box">6</container>
-            <container id="aspace_e36730fd607988c302dffd7a5677d41e" parent="aspace_a1c079b68801fc8362e3dda5b9d05ea3" type="Folder">8</container>
+            <container id="aspace_341b1ca72bb691aa142078a14cdfa54c" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_396a378babc03bc0a26c08aaca61d904" parent="aspace_341b1ca72bb691aa142078a14cdfa54c" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_d844ab50c504dbd36df04d65accf801a" level="file">
           <did>
             <unittitle>Residency</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_bd9b35cda76dd5c3d902343cc5dac86c" label="mixed materials" type="Box">6</container>
-            <container id="aspace_2b1706aab71d6681e0f4cca06e285082" parent="aspace_bd9b35cda76dd5c3d902343cc5dac86c" type="Folder">9</container>
+            <container id="aspace_5503552ee32d242de9de47ffd46bb63a" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_98f5fa449a0a7f44ea0b49b852ec7e1f" parent="aspace_5503552ee32d242de9de47ffd46bb63a" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_b0cec876da18742beb5626b6cb3605fd" level="file">
           <did>
             <unittitle>Revenue sharing</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_4a58439f2db3cf9ad3426d765395badc" label="mixed materials" type="Box">6</container>
-            <container id="aspace_e5f301e9d2774a7a51dd456a8cc44de5" parent="aspace_4a58439f2db3cf9ad3426d765395badc" type="Folder">10</container>
+            <container id="aspace_d327452fea45891c832e42142eb4df77" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_22176b7fa80f8082f462832c3cf627d4" parent="aspace_d327452fea45891c832e42142eb4df77" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_5768abbd1e8de33371a936b8242a1e10" level="file">
           <did>
             <unittitle>Service Area Community</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_c2314d6664402c208cca35fc1e2c1644" label="mixed materials" type="Box">6</container>
-            <container id="aspace_84f9a28a7311a160192d9b4a72f0d556" parent="aspace_c2314d6664402c208cca35fc1e2c1644" type="Folder">11</container>
+            <container id="aspace_e6c53f019c6636f05db7e129104ae082" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_92de828a653f5d3676054b38a7cf9924" parent="aspace_e6c53f019c6636f05db7e129104ae082" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_79151d7af2276585779687c779245865" level="file">
           <did>
             <unittitle>SAJA</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_166bd63affd68028fd29616ba9ca1c98" label="mixed materials" type="Box">6</container>
-            <container id="aspace_4568791578d5b200e64bfa272e194e03" parent="aspace_166bd63affd68028fd29616ba9ca1c98" type="Folder">12</container>
+            <container id="aspace_4efb9bc9f297b66191e6850ea7b5d0e4" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_8bf650cd3852b21bb19f8295d536aee8" parent="aspace_4efb9bc9f297b66191e6850ea7b5d0e4" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_0aac49dab0f38cf738d2d2818b72897d" level="file">
           <did>
             <unittitle>School Board</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_49705554d40f2e25ec357273bc39a445" label="mixed materials" type="Box">6</container>
-            <container id="aspace_672e73619a51c7359452f09a8114b24a" parent="aspace_49705554d40f2e25ec357273bc39a445" type="Folder">13</container>
+            <container id="aspace_02d0edcc5aa06220c43436de9be6d07e" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_3c88984588d8fc87a49827f575d2e89c" parent="aspace_02d0edcc5aa06220c43436de9be6d07e" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_453fa586d73b2251e96e8b2bdcaf535c" level="file">
           <did>
             <unittitle>Seaton Street</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_fce3532e9b11ab968c498c69a0e0734b" label="mixed materials" type="Box">6</container>
-            <container id="aspace_be2df86c277f58cff74465d6be5458c2" parent="aspace_fce3532e9b11ab968c498c69a0e0734b" type="Folder">14</container>
+            <container id="aspace_924f689467563051094a28bc6edc34ec" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_d7dab356de51ffdcbd718471d3783ee9" parent="aspace_924f689467563051094a28bc6edc34ec" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_fe25477227b6abe517af72ddd2f55144" level="file">
           <did>
             <unittitle>P. Sanchez</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_dd1d0c52a7f204a1549685749c40dd7a" label="mixed materials" type="Box">6</container>
-            <container id="aspace_afc6eddadc6148671fd14d2e18f0b5f9" parent="aspace_dd1d0c52a7f204a1549685749c40dd7a" type="Folder">15</container>
+            <container id="aspace_e5c33c480c38ba5cb27bf37732754de4" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_4283c032100e7c6e1d1642d5006b7395" parent="aspace_e5c33c480c38ba5cb27bf37732754de4" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_62eda7706b05ac591e0cf1a52e0b68a7" level="file">
           <did>
             <unittitle>Shapiro tract</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f0dd144e6d0f03dfa962eb40a1b81008" label="mixed materials" type="Box">6</container>
-            <container id="aspace_b45482b8f175fdb4d0ede330e8e7770d" parent="aspace_f0dd144e6d0f03dfa962eb40a1b81008" type="Folder">16</container>
+            <container id="aspace_03d3a124ec87943d9fff029c326dffe4" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_f340551d1d069b42c38a19926cbbac1b" parent="aspace_03d3a124ec87943d9fff029c326dffe4" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_395c35b20529194cc0aa6c15639e1d1b" level="file">
           <did>
             <unittitle>Senior citizens</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_6aa33e9f2e4795ecae1abfad69fc25d1" label="mixed materials" type="Box">6</container>
-            <container id="aspace_9ffeff63fb16a2802f2d7d1a2b1da629" parent="aspace_6aa33e9f2e4795ecae1abfad69fc25d1" type="Folder">17</container>
+            <container id="aspace_b9756ed527383d0f1d9547e04d2d7a7d" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_06962e18751fbbed253fa575bba958ae" parent="aspace_b9756ed527383d0f1d9547e04d2d7a7d" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_f9f9bfeb1952e1bcee2417513de8f9f5" level="file">
           <did>
             <unittitle>Senior citizens motor pool</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f508843516b25957229f36df710d6f05" label="mixed materials" type="Box">6</container>
-            <container id="aspace_276bd0be066113ebd6b5226631c745d2" parent="aspace_f508843516b25957229f36df710d6f05" type="Folder">18</container>
+            <container id="aspace_c0022ebd897b39e20876e6bb9849df44" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_3ee49aa3cf463f930a507632458917b0" parent="aspace_c0022ebd897b39e20876e6bb9849df44" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_4a30c69e5e5e3d539588c90593476cd9" level="file">
           <did>
             <unittitle>B. Sizemore</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_06ef7a307d1fdaa6848edf3c932a11c0" label="mixed materials" type="Box">6</container>
-            <container id="aspace_1bd0bb68b99134bfc70855279ddb990a" parent="aspace_06ef7a307d1fdaa6848edf3c932a11c0" type="Folder">19</container>
+            <container id="aspace_01b98a5bc4c35818afc7c4ff8959f77a" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_4471c3104124fe44f4fa3e93a53eb481" parent="aspace_01b98a5bc4c35818afc7c4ff8959f77a" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_04eeb00eaa23445f396b03b89493a22a" level="file">
           <did>
             <unittitle>Shopping guide</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_074d288a37a6d4ab872dddab35628f91" label="mixed materials" type="Box">6</container>
-            <container id="aspace_a00beb9bd463812b02f9d3a24416d11e" parent="aspace_074d288a37a6d4ab872dddab35628f91" type="Folder">20</container>
+            <container id="aspace_95382c28bf13b0a9cbbd0650b34909f4" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_5e0b28e1210ad2afa1e5e13a4a73341b" parent="aspace_95382c28bf13b0a9cbbd0650b34909f4" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_ca632d13cd273cfc21284987e3a4f0a2" level="file">
           <did>
             <unittitle>Social services</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_b50b90b1919370120c0295399cec26cc" label="mixed materials" type="Box">6</container>
-            <container id="aspace_7d0875e5a29e1ebc8aa47c52f559a699" parent="aspace_b50b90b1919370120c0295399cec26cc" type="Folder">21</container>
+            <container id="aspace_79b04d0654c25c121fc291aeca3ac523" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_1b57f8bb1d4d665f7443acf8636e64be" parent="aspace_79b04d0654c25c121fc291aeca3ac523" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_b385ca5a5b3fc1ea2faab9a29a44bcd5" level="file">
           <did>
             <unittitle>Spanish American police association</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_afd0df73f2cbd0cd733f8641f1a3bf90" label="mixed materials" type="Box">6</container>
-            <container id="aspace_2054f6434a681320401545e0e1749b29" parent="aspace_afd0df73f2cbd0cd733f8641f1a3bf90" type="Folder">22</container>
+            <container id="aspace_542c6755da12f28c91ee0d797285750b" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_8a944fa4817a141cf9b10ed65eb191b9" parent="aspace_542c6755da12f28c91ee0d797285750b" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_4d006537672d6fbd2ea709082c5cc211" level="file">
           <did>
             <unittitle>Spanish Education Development Center</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_4184b38c0b70f36b28f480d8f54bfe67" label="mixed materials" type="Box">6</container>
-            <container id="aspace_3aae2e6818d2b1a6c8662f2e4fbef23c" parent="aspace_4184b38c0b70f36b28f480d8f54bfe67" type="Folder">23</container>
+            <container id="aspace_e8ef2220211bc4da7eadc4452df69f2c" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_f9c7e9df0b3f20a9a717a806c69d98de" parent="aspace_e8ef2220211bc4da7eadc4452df69f2c" type="Folder">23</container>
           </did>
         </c>
         <c id="aspace_06c85fe3b93fb620f77feaeb0d7e8155" level="file">
           <did>
             <unittitle>Spanish leadership</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_1c57ceaf899625bc8d9fc51c3c4377f2" label="mixed materials" type="Box">6</container>
-            <container id="aspace_8823a5e4d5e64ac5d24f6fad45701ce3" parent="aspace_1c57ceaf899625bc8d9fc51c3c4377f2" type="Folder">24</container>
+            <container id="aspace_dd67cbd0d560a715de03b83e7c6debed" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_9144d4c14a5dfc78bb5262b8e8898ca4" parent="aspace_dd67cbd0d560a715de03b83e7c6debed" type="Folder">24</container>
           </did>
         </c>
         <c id="aspace_bd9805c33fec667783df6f1f5ff2cbbb" level="file">
           <did>
             <unittitle>Spanish speaking committee of Virginia</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_4856868bc4d01a2544c024482831761e" label="mixed materials" type="Box">6</container>
-            <container id="aspace_346a9dcb78564bb7fb09b5003e32cec2" parent="aspace_4856868bc4d01a2544c024482831761e" type="Folder">25</container>
+            <container id="aspace_699a82ca11c1d83efccf95c2cf3e182d" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_9a2c6d5ac90c48bcd35dd49ed2ab7ed8" parent="aspace_699a82ca11c1d83efccf95c2cf3e182d" type="Folder">25</container>
           </did>
         </c>
         <c id="aspace_e46bb3674ec8d4c5995284c7c5a60f2e" level="file">
           <did>
             <unittitle>Speculation – real estate</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_37300099c461ab333c7de93790b863f7" label="mixed materials" type="Box">6</container>
-            <container id="aspace_66df9a71e934e6cb6e4cc6e245157df5" parent="aspace_37300099c461ab333c7de93790b863f7" type="Folder">26</container>
+            <container id="aspace_7d41e076be715d20270a6178dd8c3f3e" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_b5e9e159e7aabc788dbc6c7a061a7c98" parent="aspace_7d41e076be715d20270a6178dd8c3f3e" type="Folder">26</container>
           </did>
         </c>
         <c id="aspace_8eab905e96bf78baa3d5db128eac18bf" level="file">
           <did>
             <unittitle>Sprout House School</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_980acbb7bdb2ea612c1235af7d4d9568" label="mixed materials" type="Box">6</container>
-            <container id="aspace_47c69746cf610cc0a475156cc8764f44" parent="aspace_980acbb7bdb2ea612c1235af7d4d9568" type="Folder">27</container>
+            <container id="aspace_18a2d4d62bfca8bef610a004fe1a64f3" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_70de20be2c4fb0e13c32c72a311f69e7" parent="aspace_18a2d4d62bfca8bef610a004fe1a64f3" type="Folder">27</container>
           </did>
         </c>
         <c id="aspace_2d02980475f3a783ef23225bf0882b2f" level="file">
           <did>
             <unittitle>St. Elizabeth's</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f92bfcc54875576887ff272ac387f354" label="mixed materials" type="Box">6</container>
-            <container id="aspace_723961df90911b13c466408f01287d9f" parent="aspace_f92bfcc54875576887ff272ac387f354" type="Folder">28</container>
+            <container id="aspace_bdbc93b73c5438ecbe34aa48469811db" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_16ea3279f8c3160cd8174ee032b9802f" parent="aspace_bdbc93b73c5438ecbe34aa48469811db" type="Folder">28</container>
           </did>
         </c>
         <c id="aspace_37a864f2d2aadb2fabd6181e221f19a7" level="file">
           <did>
             <unittitle>St. Stephens</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_19bd131599d82fed96895bdfef8bc918" label="mixed materials" type="Box">6</container>
-            <container id="aspace_57cce0b878478f3498915fd82b71138d" parent="aspace_19bd131599d82fed96895bdfef8bc918" type="Folder">29</container>
+            <container id="aspace_d20cc552aba3b37ebb4aba38a44c46d0" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_11d90bad97477ca48cbfdcce5c00d120" parent="aspace_d20cc552aba3b37ebb4aba38a44c46d0" type="Folder">29</container>
           </did>
         </c>
         <c id="aspace_3a35a81ed01f1bb28bcfe86f8cc3e4e6" level="file">
           <did>
             <unittitle>Strongforce</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_b70433929266c382273cd06545a67387" label="mixed materials" type="Box">6</container>
-            <container id="aspace_3a48c827da13822550ce2404c58341b9" parent="aspace_b70433929266c382273cd06545a67387" type="Folder">30</container>
+            <container id="aspace_13362decf7d68738b4ed1939530f47e6" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_ad8dc579f4d16891afb2ff3d34e127e8" parent="aspace_13362decf7d68738b4ed1939530f47e6" type="Folder">30</container>
           </did>
         </c>
         <c id="aspace_c0ca8eeae6cd476621e29ecf874980d8" level="file">
           <did>
             <unittitle>Summer in the Parks</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_4f8222dad4d083c3e475a704bd2d9432" label="mixed materials" type="Box">6</container>
-            <container id="aspace_9e7243d2ff8b65a5d1c857237286d60f" parent="aspace_4f8222dad4d083c3e475a704bd2d9432" type="Folder">31</container>
+            <container id="aspace_7a27077e0e99fa094e059da79c9a2f24" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_f25c9f138bb275e23b3c2b8dc5b13b4f" parent="aspace_7a27077e0e99fa094e059da79c9a2f24" type="Folder">31</container>
           </did>
         </c>
         <c id="aspace_86610452cabf1bcc786387b6358a5fa6" level="file">
           <did>
             <unittitle>Tax commuter</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_62ab68a8e5cd4e5ccbad2ce6369d9608" label="mixed materials" type="Box">7</container>
-            <container id="aspace_214064569321daa281def83eab95aa37" parent="aspace_62ab68a8e5cd4e5ccbad2ce6369d9608" type="Folder">1</container>
+            <container id="aspace_9fed59099c408b75702e212e7e59d83d" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_e728e9a6879c0d154b632bdc8774fe29" parent="aspace_9fed59099c408b75702e212e7e59d83d" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_fa7296fe549a99d3b4602b6fff5d095c" level="file">
           <did>
             <unittitle>Tax income</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_1d8c39c6708c481db61c27565f6cb4dc" label="mixed materials" type="Box">7</container>
-            <container id="aspace_109dfe6057d80b10b4532fdf2cefe015" parent="aspace_1d8c39c6708c481db61c27565f6cb4dc" type="Folder">2</container>
+            <container id="aspace_c0e3cb6595b69bbb6e89ad6edc9a5df8" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_2ea287bb361b16200a4a82f48c6f468a" parent="aspace_c0e3cb6595b69bbb6e89ad6edc9a5df8" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_2beb881eb6ccafad83452b6d4e8163d3" level="file">
           <did>
             <unittitle>Tax speculation</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_64d63bb3158a8d96713956513267440d" label="mixed materials" type="Box">7</container>
-            <container id="aspace_c3422b3b3570d03e402b8b39f5130b3c" parent="aspace_64d63bb3158a8d96713956513267440d" type="Folder">3</container>
+            <container id="aspace_7e18c981bbd4922a9a7419d03e2d3d49" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_91efeed396f9b3709a664ed901c3fee4" parent="aspace_7e18c981bbd4922a9a7419d03e2d3d49" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_8c721aa20decac235c1a9172f3084cac" level="file">
           <did>
             <unittitle>Tenants union</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_eac14cbaca96689f8270661e94864ecd" label="mixed materials" type="Box">7</container>
-            <container id="aspace_1b355efb3508bf2232e3a0ad127c03a6" parent="aspace_eac14cbaca96689f8270661e94864ecd" type="Folder">4</container>
+            <container id="aspace_2ed5abb818e32ea013aedeae9d63fb75" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_6b4bbdaae0eb09b59f751b6cdcd9ec8e" parent="aspace_2ed5abb818e32ea013aedeae9d63fb75" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_c7f0044ed325baa255d99576c2f6d29a" level="file">
           <did>
             <unittitle>Tess community center</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_9a893d8ebb04632a04616ced577e37d8" label="mixed materials" type="Box">7</container>
-            <container id="aspace_db3f0830df7609b780593d287c5f1e98" parent="aspace_9a893d8ebb04632a04616ced577e37d8" type="Folder">5</container>
+            <container id="aspace_a4f8275906eec5b5b6820d132d81baba" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_3a8a0d5b6b6e7dfd3ec7f22c6913c16a" parent="aspace_a4f8275906eec5b5b6820d132d81baba" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_8d94763b17e6dc264f1857323436dc8c" level="file">
           <did>
             <unittitle>Two-W project</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_c47b5b1579bef9506ec6bf0de208491c" label="mixed materials" type="Box">7</container>
-            <container id="aspace_7347431a9c9584936b08929381b51faa" parent="aspace_c47b5b1579bef9506ec6bf0de208491c" type="Folder">6</container>
+            <container id="aspace_fcf9dc9000b67b42af2e2bac00b7c7e5" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_d9053c93a394bbd3424827fb415b8b60" parent="aspace_fcf9dc9000b67b42af2e2bac00b7c7e5" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_4d7099e79c0f884edd4f345ff400dc30" level="file">
           <did>
             <unittitle>Unemployment jobs</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_148c8ff01b4a1c521742dd7bf65b18fd" label="mixed materials" type="Box">7</container>
-            <container id="aspace_e0d655acdfd5ff8b1226a2cb07e429b5" parent="aspace_148c8ff01b4a1c521742dd7bf65b18fd" type="Folder">7</container>
+            <container id="aspace_33652f01acf9389d0c42a8926e6037a3" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_92a928f8c84051cc4de58870fdb92664" parent="aspace_33652f01acf9389d0c42a8926e6037a3" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_2eaa85781e381a13ca13b7d7d942d717" level="file">
           <did>
             <unittitle>Unity</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_a6872e59045117b147be79059b54b9c0" label="mixed materials" type="Box">7</container>
-            <container id="aspace_08f3db8285b2ccca578d3b0e0caf3caf" parent="aspace_a6872e59045117b147be79059b54b9c0" type="Folder">8</container>
+            <container id="aspace_de593c6a15b68301675d0ec361c53ff9" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_78e7065eef41511f209f1d7c6e1df3d8" parent="aspace_de593c6a15b68301675d0ec361c53ff9" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_18fda6cd93a674a7039ee129d9c6e5c8" level="file">
           <did>
             <unittitle>Universidad Boricua</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_788ed09b77d6c56db82900c8c13569cd" label="mixed materials" type="Box">7</container>
-            <container id="aspace_5b677edc1b3eb57dc01800f081e3fe53" parent="aspace_788ed09b77d6c56db82900c8c13569cd" type="Folder">9</container>
+            <container id="aspace_2d0a1110d5f90b591eb740d19a3a6ad3" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_833b51c351aa1e905f4034df9429e42b" parent="aspace_2d0a1110d5f90b591eb740d19a3a6ad3" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ad52cf31cc7ec4fb76b54e0d359de0dd" level="file">
           <did>
             <unittitle>Video</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_d826ea2daf74b2112e2e14cddaa19aa9" label="mixed materials" type="Box">7</container>
-            <container id="aspace_0cabb9c356d61c8271b777deb3f1d68c" parent="aspace_d826ea2daf74b2112e2e14cddaa19aa9" type="Folder">10</container>
+            <container id="aspace_a4d8bd961c31c319497d5bbede09a4d4" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_72655f6aa04ef46e3856b72d286b5e06" parent="aspace_a4d8bd961c31c319497d5bbede09a4d4" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_a07a82579c46db896e8a996c13dd1db1" level="file">
           <did>
             <unittitle>Voluntary service response</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_a091461aa87ab6e08022e871f6758439" label="mixed materials" type="Box">7</container>
-            <container id="aspace_003822a81fa57b16dc79197e0d65e709" parent="aspace_a091461aa87ab6e08022e871f6758439" type="Folder">11</container>
+            <container id="aspace_7f1fe3919ddb3f08209ff972e3ec53b9" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_e6a052b44b1443878a6ce3b79a4df0b6" parent="aspace_7f1fe3919ddb3f08209ff972e3ec53b9" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_4f1fcb82eb7860d26ffdefd04344d94a" level="file">
           <did>
             <unittitle>Voter registration</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_e5a68ecc16ef804afa4f1f5b857a0f06" label="mixed materials" type="Box">7</container>
-            <container id="aspace_04226033cfd91656490594f09aa75758" parent="aspace_e5a68ecc16ef804afa4f1f5b857a0f06" type="Folder">12</container>
+            <container id="aspace_af191d7cee2ec325b3f0b749a6de200a" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_08d71b75e46290b1b370621f679c63f2" parent="aspace_af191d7cee2ec325b3f0b749a6de200a" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_ede8e7b5487563cd37e1430acbda5918" level="file">
           <did>
             <unittitle>WAMU</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_5013c7d350f1937975056efe687585d1" label="mixed materials" type="Box">7</container>
-            <container id="aspace_0e738c110d33116d02dd445e97c32c59" parent="aspace_5013c7d350f1937975056efe687585d1" type="Folder">13</container>
+            <container id="aspace_e8931f25465a135c06e1ed02aca47ec7" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_1920cf90a5ac3c5aabb620a092a2f041" parent="aspace_e8931f25465a135c06e1ed02aca47ec7" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_2814c3c5919ef36d9933b77f123e50c8" level="file">
           <did>
             <unittitle>WMOD</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_d582cf0926c26d15f6801f0b96bec905" label="mixed materials" type="Box">7</container>
-            <container id="aspace_5760dbfecccab63dd6411a224acd949b" parent="aspace_d582cf0926c26d15f6801f0b96bec905" type="Folder">14</container>
+            <container id="aspace_05318136b13c708ba3705a9a6af52d4d" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_23c6c730cc2f538a3136911140cfbe19" parent="aspace_05318136b13c708ba3705a9a6af52d4d" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_8f4505c899939a0cd01bb4acaf8f6056" level="file">
           <did>
             <unittitle>WTOP-TV9</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_9833fe1a5b0155501073d53b27a612b1" label="mixed materials" type="Box">7</container>
-            <container id="aspace_30874ca16cc473e711baabfe6cb16c58" parent="aspace_9833fe1a5b0155501073d53b27a612b1" type="Folder">15</container>
+            <container id="aspace_8aa6fce511e3b95336d3d5a0776bcc1f" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_110b0dc69e5e60aa502a3b362a50024c" parent="aspace_8aa6fce511e3b95336d3d5a0776bcc1f" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_c0d6035a5bdea082a473c9e9d7dcb9a3" level="file">
           <did>
             <unittitle>Ward Democrats</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_eaeee371f0153af1d394f262c36e3dda" label="mixed materials" type="Box">7</container>
-            <container id="aspace_e8ad73d9deab2b33f42f4facac8847d6" parent="aspace_eaeee371f0153af1d394f262c36e3dda" type="Folder">16</container>
+            <container id="aspace_ed4fdba3439111813415514bb6a8b11d" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_1d2dea894e1cba430b5439a0799462e4" parent="aspace_ed4fdba3439111813415514bb6a8b11d" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_7670ac8d37efde47890ca0fd8298e2fc" level="file">
           <did>
             <unittitle>Washington area bicycle association</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_de7de9ac7466cedb02558895741550cf" label="mixed materials" type="Box">7</container>
-            <container id="aspace_9f12b1f0853c9c3ca898080bd555625c" parent="aspace_de7de9ac7466cedb02558895741550cf" type="Folder">17</container>
+            <container id="aspace_eabe31898189719f7c6b5e81c094884c" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_67eaf4debc44ec4bfbbabb015af22f8d" parent="aspace_eabe31898189719f7c6b5e81c094884c" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_86864ee0731091f2f2fc99d0200e98c9" level="file">
           <did>
             <unittitle>M. Vest (dancer photographs)</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_655da053859148782c4e0526b5496896" label="mixed materials" type="Box">7</container>
-            <container id="aspace_e2a90feccee8f647022969f3f2c1f80d" parent="aspace_655da053859148782c4e0526b5496896" type="Folder">18</container>
+            <container id="aspace_5a7bad8fde74f30ef911b760482b5e58" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_607dc13a129747a4979f149aeabc95ee" parent="aspace_5a7bad8fde74f30ef911b760482b5e58" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_58f03c99259a642ef422bde16b71e4d0" level="file">
           <did>
             <unittitle>Widening horizons</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_e3e5497a416e8befb508132e1a3c2cbe" label="mixed materials" type="Box">7</container>
-            <container id="aspace_9d901b77a0c92b0632ca42889fc7907f" parent="aspace_e3e5497a416e8befb508132e1a3c2cbe" type="Folder">19</container>
+            <container id="aspace_263aa77b2e516ed88121952bbee55186" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_979221a3e357bf6b0eb08a73c14bf400" parent="aspace_263aa77b2e516ed88121952bbee55186" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_15919cff50a01273d50552a6423d0483" level="file">
           <did>
             <unittitle>Women</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_3a82c54560a02a4eb75dc04bf83dd6a6" label="mixed materials" type="Box">7</container>
-            <container id="aspace_efbb19ec9797a835c60296498a505927" parent="aspace_3a82c54560a02a4eb75dc04bf83dd6a6" type="Folder">20</container>
+            <container id="aspace_804a297b4e0f2c27163c43e5f92c8cf1" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_47b8e360896bfa8b744c243c2c1b6a2b" parent="aspace_804a297b4e0f2c27163c43e5f92c8cf1" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_f4707530a7b6e69cc0c7125930980460" level="file">
           <did>
             <unittitle>Women in community service</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_a3019f0316bd64f7a8db5c2778d3d62c" label="mixed materials" type="Box">7</container>
-            <container id="aspace_8946881800af0a76526e7878f3cc3bac" parent="aspace_a3019f0316bd64f7a8db5c2778d3d62c" type="Folder">21</container>
+            <container id="aspace_b049510815daaaa9142c51718df34353" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_6363dcce16df305323ef0cb8a52704b0" parent="aspace_b049510815daaaa9142c51718df34353" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_2cb72d65f83dd94fc1b73572c3f2df1a" level="file">
           <did>
             <unittitle>Woodley</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_788adc3ca07310d7791056846c3cf7bd" label="mixed materials" type="Box">7</container>
-            <container id="aspace_a97e9e5cf4d24517eaf807f35e3cceb8" parent="aspace_788adc3ca07310d7791056846c3cf7bd" type="Folder">22</container>
+            <container id="aspace_2282f9f6bb2d4ef5ba03130b6a1431d5" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_0b371be018b2ec7e3191d092bd7fb645" parent="aspace_2282f9f6bb2d4ef5ba03130b6a1431d5" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_dbe2ee1b9bf098a881495611f18ce0b4" level="file">
           <did>
             <unittitle>Woodrow Wilson International Center</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_009ff9503a659c37802c134e440942f3" label="mixed materials" type="Box">7</container>
-            <container id="aspace_5df573fdf262fd7ba50ecd3456053ee2" parent="aspace_009ff9503a659c37802c134e440942f3" type="Folder">23</container>
+            <container id="aspace_b55f9bfabb854e9608ae37fbf5595afd" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_172dc1667eec2057bc41b6e62ae93a9b" parent="aspace_b55f9bfabb854e9608ae37fbf5595afd" type="Folder">23</container>
           </did>
         </c>
         <c id="aspace_d05e674b92fbd757dd9e042537e9cc46" level="file">
           <did>
             <unittitle>Joe Yeldell</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_535b85cb33e0902c028c41e0b6cc9860" label="mixed materials" type="Box">7</container>
-            <container id="aspace_49be3090234f9c7d25961192604671d1" parent="aspace_535b85cb33e0902c028c41e0b6cc9860" type="Folder">24</container>
+            <container id="aspace_f9fdd926e408a19032c06df58cd81b15" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_45e326eea1164b4d03eededfbd9d6167" parent="aspace_f9fdd926e408a19032c06df58cd81b15" type="Folder">24</container>
           </did>
         </c>
         <c id="aspace_1827fddd5cf8748923be29551bd14b60" level="file">
           <did>
             <unittitle>I-50</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_5a364c7632e347591706ccfdbcb5a0b0" label="mixed materials" type="Box">7</container>
-            <container id="aspace_f29543c6440cf5eb1e90962b94f1ccb2" parent="aspace_5a364c7632e347591706ccfdbcb5a0b0" type="Folder">25</container>
+            <container id="aspace_21f4f7ac0fe9a8d20b5a2dc9553f76ef" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_ca7c954e57f6f05ab8f3a382be7882b7" parent="aspace_21f4f7ac0fe9a8d20b5a2dc9553f76ef" type="Folder">25</container>
           </did>
         </c>
       </c>

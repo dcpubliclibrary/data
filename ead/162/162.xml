@@ -1,16 +1,28 @@
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid/>
+    <eadid url="http://washingtoniana.dclibrary.org">162Hagemeyer</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>Hagemeyer, Alice Papers<num>162</num> <num>162</num></titleproper>
+        <titleproper type="filing">Hagemeye, Alice L. Papers</titleproper>
+        <titleproper>Alice L. Hagemeyer Papers <num>162</num></titleproper>
+        <subtitle>An inventory of the Alice L. Hagemeyer Papers at DC Public LIbrary.</subtitle>
+        <author>DC Public Library, Special Collections</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
+        <p>
+          <date>2020-08-26</date>
+        </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-01-08 14:52:09 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:51:19 -0400</date>.</creation>
+      <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
@@ -20,20 +32,56 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
-      <unittitle>Hagemeyer, Alice Papers</unittitle>
+      <unittitle>Alice L. Hagemeyer Papers</unittitle>
+      <origination label="creator">
+        <persname authfilenumber="http://id.loc.gov/authorities/names/n93106460" source="LCSH">Hagemeyer, Alice Lougee</persname>
+      </origination>
       <unitid>162</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">2 Linear feet</extent>
-        <extent altrender="carrier">Total Boxes: 2</extent>
       </physdesc>
-      <unitdate normal="1974/2007" type="bulk">1974-2007</unitdate>
-      <langmaterial id="aspace_0dfcd12be68108531f2d12684467e01e">English</langmaterial>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Boxes</extent>
+      </physdesc>
+      <unitdate normal="1974/2007" type="inclusive">1974-2007</unitdate>
     </did>
+    <arrangement id="aspace_68469a11c36c4ae085a4027c4000ffa9">
+      <head>Arrangement</head>
+      <p>Series 1: Events<br/> 
+Series 2: Organizations<br/>
+Series 3: Photographs<br/>
+Series 4: Printed Materials</p>
+    </arrangement>
+    <bioghist id="aspace_0e3dd6330f187b00784ceea558a619d7">
+      <head>Biographical / Historical</head>
+      <p>Alice Lougee Hagemeyer received her early education at the Nebraska School for the Deaf (NSD) and secured a job as clerk at the DC Public Library shortly before her graduation from Gallaudet University in 1957. While pursuing her master's degree in library and information science in the 1970s from the University of Maryland she wrote two handbooks: Deaf Awareness Handbook for Public Librarians and The Public Library Talks To You, for deaf library users. In 1986 Hagemeyer founded Friends of Libraries for Deaf Action (FOLDA) to promote library access and quality deaf resources for the deaf community, and served as the organization's president. In 1994, FOLDA-USA was formed at the National Association of the Deaf (NAD) to motivate the American deaf community to become involved in friends-of-libraries activities, and to support the FOLDA goal. In 1979 and 1991, Hagemeyer participated as a delegate-at-large at the White House Conference on Library and Information Services, where she pushed for quality library and information services for the deaf community. Hagemeyer retired from the D.C. Public Library in 1991 to become an advocate for the deaf community through the company Library for Deaf Action (LDA).</p>
+    </bioghist>
+    <custodhist id="aspace_16dc6b9068731d912cb541a17bce9462">
+      <head>Custodial History</head>
+      <p>Alice Hagemeyer donated the collection to DC Public Library.</p>
+    </custodhist>
+    <processinfo id="aspace_c1da33bafbcf40b9a68a7fe875989036">
+      <head>Processing Information</head>
+      <p>Standard archival processing procedures were applied to the collection at the time of processing.</p>
+    </processinfo>
+    <scopecontent id="aspace_969b5cb1c1577c9b423a934d0f8fa26f">
+      <head>Content Description</head>
+      <p>This collection includes publications, photos, and letters that pertain to Alice Hagermeyer's advocacy for deaf people and libraries.</p>
+    </scopecontent>
+    <userestrict id="aspace_99b326299fa4fc0c0f737f6fc7c892b0">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85036047" source="Library of Congress Subject Headings">Deaf people</subject>
-      <persname source="local">Hagermeyer, Alice</persname>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85076502" source="Library of Congress Subject Headings">Libraries</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85076491" source="lcsh">Librarians</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/names/n50027688" source="lcsh">District of Columbia. Public Library</subject>
+      <genreform source="material_type">Ephemera</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99001943" source="Library of Congress Subject Headings">Correspondence</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_1615ef78ff258d8c9111000abe10d52d" level="series">
@@ -43,81 +91,81 @@
         <c id="aspace_ca980ae6122fb3f0116864bfb265d013" level="file">
           <did>
             <unittitle>Celebration in Honor of Alice Hagemeyer - Correspondence</unittitle>
-            <unitdate normal="2007-06-07/2007-06-07" type="inclusive">2007 June 7</unitdate>
-            <container id="aspace_17f7e316a29562180377b1b548eabf05" label="mixed materials" type="Box">1</container>
-            <container id="aspace_aeb292a7b6f760c388a450bcdd494461" parent="aspace_17f7e316a29562180377b1b548eabf05" type="Folder">1</container>
+            <unitdate normal="2007-06-07/2007-06-07">2007 June 7</unitdate>
+            <container id="aspace_225bcbfa318e452b15fd0b93e1cedce6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b3a016f40c318963932e1dcc28f616aa" parent="aspace_225bcbfa318e452b15fd0b93e1cedce6" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_14ec684bc008ca90e41393acb37ebffb" level="file">
           <did>
             <unittitle>Celebration in honor of Alice Hagemeyer - Programs and Photographs</unittitle>
-            <unitdate normal="2007-06-23/2007-06-23" type="inclusive">2007 June 23</unitdate>
-            <container id="aspace_7acd3ee345ad794d7625b4f108b96909" label="mixed materials" type="Box">1</container>
-            <container id="aspace_51a62c5150c9e64fb9c0a6c754e2204f" parent="aspace_7acd3ee345ad794d7625b4f108b96909" type="Folder">2</container>
+            <unitdate normal="2007-06-23/2007-06-23">2007 June 23</unitdate>
+            <container id="aspace_5439120030325d0070c66492c07fca74" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c4d1292d3bf31e890c9e3210f14a8548" parent="aspace_5439120030325d0070c66492c07fca74" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_dcc60a05832e1264fb45b3c67ca2e400" level="file">
           <did>
             <unittitle>Deaf Awareness Week</unittitle>
-            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
-            <container id="aspace_6457bbb0fd332c350321dcb0e769d275" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a96d20fa3a6873a3a3ebcf119b61aa2d" parent="aspace_6457bbb0fd332c350321dcb0e769d275" type="Folder">3</container>
+            <unitdate normal="1976/1976">1976</unitdate>
+            <container id="aspace_55c5675edc930b96e0fc4829b2fa1301" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_646a8e443e442e9bd2a8306d90c71117" parent="aspace_55c5675edc930b96e0fc4829b2fa1301" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_5e7d528c48c0361a9e494c5f8861ca91" level="file">
           <did>
             <unittitle>Deaf Action Week</unittitle>
-            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
-            <container id="aspace_b84186059dd568ca6eab6030aec17c21" label="mixed materials" type="Box">1</container>
-            <container id="aspace_84b73509ba2c3863e2071ae3e10b7435" parent="aspace_b84186059dd568ca6eab6030aec17c21" type="Folder">4</container>
+            <unitdate normal="1977/1977">1977</unitdate>
+            <container id="aspace_fd13d4e16ad8a860d41654f009527f10" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f07a20f7a89c57ec9503716333960565" parent="aspace_fd13d4e16ad8a860d41654f009527f10" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_1eb973dc782764d1f7a47c526eee743a" level="file">
           <did>
             <unittitle>Deaf Action Week</unittitle>
-            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
-            <container id="aspace_34b5a811e89e36401ac59fe4852dd8d7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_01efa88316ca3428529b5972a06b513c" parent="aspace_34b5a811e89e36401ac59fe4852dd8d7" type="Folder">5</container>
+            <unitdate normal="1978/1978">1978</unitdate>
+            <container id="aspace_58e57d29ce8a997fcb9094609dfe656d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_257686c88404960e5979b0876c71ffd7" parent="aspace_58e57d29ce8a997fcb9094609dfe656d" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_1d0b1b83737996f3741a5db32563e0e0" level="file">
           <did>
             <unittitle>Deaf Action Week</unittitle>
-            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
-            <container id="aspace_1e5af56b4a952734a22b3db3254d07a3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_96a2627612ab03350d59a59ed4264998" parent="aspace_1e5af56b4a952734a22b3db3254d07a3" type="Folder">6</container>
+            <unitdate normal="1979/1979">1979</unitdate>
+            <container id="aspace_9b0d4e07f2eb3086b966d4b7a365c4c5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_060de4c25737147c27c0173ced26bf7c" parent="aspace_9b0d4e07f2eb3086b966d4b7a365c4c5" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_935a062e67897f89a18ac48839760921" level="file">
           <did>
             <unittitle>Deaf Action Week</unittitle>
-            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
-            <container id="aspace_66893319123b46249bb15f027286082c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_77dadefee0492d0db60ea2a4361f8ab6" parent="aspace_66893319123b46249bb15f027286082c" type="Folder">7</container>
+            <unitdate normal="1980/1980">1980</unitdate>
+            <container id="aspace_0a106f7cd1d85a544a07f4d03f9b81a2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_25cf502fd6d15d4a5aa2015c218340e2" parent="aspace_0a106f7cd1d85a544a07f4d03f9b81a2" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_143082822d256df43157e52e0ac218ba" level="file">
           <did>
             <unittitle>Deaf Action Week</unittitle>
-            <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
-            <container id="aspace_44e7ef499c9152a431b77746f2d184bf" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1b45e834ec1bdab76e7107e6f679cd6b" parent="aspace_44e7ef499c9152a431b77746f2d184bf" type="Folder">8</container>
+            <unitdate normal="1981/1981">1981</unitdate>
+            <container id="aspace_6b42695e6ed69ae6537ce447efb3b8e2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e9f0991a9ac8811870cdbd22ea47b068" parent="aspace_6b42695e6ed69ae6537ce447efb3b8e2" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_114c8356660b564c673b6492b95a6962" level="file">
           <did>
             <unittitle>Deaf Heritage Week</unittitle>
-            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
-            <container id="aspace_8a987c2b343307f356661f3c6d641da1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_45af869a4d332bc24afc88dc8fc000c2" parent="aspace_8a987c2b343307f356661f3c6d641da1" type="Folder">9</container>
+            <unitdate normal="1982/1982">1982</unitdate>
+            <container id="aspace_92b0ca427226c4dd09b400d332554098" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f73cf8cc476ae65b328ae5da1b36ad76" parent="aspace_92b0ca427226c4dd09b400d332554098" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_30cfaf12ec5dba913c02935c02a7f657" level="file">
           <did>
             <unittitle>Ephphatha Conference</unittitle>
-            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
-            <container id="aspace_07f0b422b10641c186dcf597c709b552" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a7c8a9c30592d30c9558df84460168fe" parent="aspace_07f0b422b10641c186dcf597c709b552" type="Folder">10</container>
+            <unitdate normal="1992/1992">1992</unitdate>
+            <container id="aspace_0c3e368e1de7ba50a73b6c0a7c8e9b58" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b658722b5647fd8686f3996351863e91" parent="aspace_0c3e368e1de7ba50a73b6c0a7c8e9b58" type="Folder">10</container>
           </did>
         </c>
       </c>
@@ -128,25 +176,25 @@
         <c id="aspace_e5626779a95c9489889b233ade418c8c" level="file">
           <did>
             <unittitle>FOLDA - Friends of Libraries for Deaf Action</unittitle>
-            <unitdate normal="2012/2012" type="inclusive">2012</unitdate>
-            <container id="aspace_279d95b10b1f48326ac07b5978a068f6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_6713372b8ecec69aa493ba9c0a49a5a2" parent="aspace_279d95b10b1f48326ac07b5978a068f6" type="Folder">11</container>
+            <unitdate normal="2012/2012">2012</unitdate>
+            <container id="aspace_e3171535a40c4adee8bd85a82ae125dd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_679074ba336ad2f26527c56e4b7bb2dc" parent="aspace_e3171535a40c4adee8bd85a82ae125dd" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_1a4c7338c5b1f77849d868f0d6222e7d" level="file">
           <did>
             <unittitle>FOLDA - Friends of Libraries for Deaf Action</unittitle>
-            <unitdate normal="2013/2013" type="inclusive">2013</unitdate>
-            <container id="aspace_e2dd617b58756190be54af2ca76115eb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_8808eff1ece1b9502edae6f3d16f017f" parent="aspace_e2dd617b58756190be54af2ca76115eb" type="Folder">12</container>
+            <unitdate normal="2013/2013">2013</unitdate>
+            <container id="aspace_6bc300c2d4a5885d0c61ed039e76de8b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fefb60402a49631d664c9d48185887ef" parent="aspace_6bc300c2d4a5885d0c61ed039e76de8b" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_af2f1c33ef8d8913576bf00a00dbd88b" level="file">
           <did>
             <unittitle>FOLDA - Friends of Libraries for Deaf Action</unittitle>
-            <unitdate normal="2013/2013" type="inclusive">2013</unitdate>
-            <container id="aspace_63988b913ca139b38c0ba8db37463e5a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_647af72645c3acd0cd586e4d655dbebb" parent="aspace_63988b913ca139b38c0ba8db37463e5a" type="Folder">13</container>
+            <unitdate normal="2013/2013">2013</unitdate>
+            <container id="aspace_a8da8bc6e98b3bb90a040851998273a8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_30d8fc677f42b1910f94bab666a900f1" parent="aspace_a8da8bc6e98b3bb90a040851998273a8" type="Folder">13</container>
           </did>
         </c>
       </c>
@@ -157,17 +205,17 @@
         <c id="aspace_40211eac40ecfde45e7dbeb0241a0e4b" level="file">
           <did>
             <unittitle>DCPL Staff</unittitle>
-            <unitdate normal="1974/1974" type="inclusive">Ca. 1974</unitdate>
-            <container id="aspace_3c0f8fef49112d81b082f5488ead50a6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c6a4bee087964c56ec06d308a1e4523f" parent="aspace_3c0f8fef49112d81b082f5488ead50a6" type="Folder">15</container>
+            <unitdate normal="1974/1974">Ca. 1974</unitdate>
+            <container id="aspace_6a8eaed6e795b8d63642b391c2e640b3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7e1c86b735c532a60851f7ef976e4237" parent="aspace_6a8eaed6e795b8d63642b391c2e640b3" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_0765a58bdb36b4dd88fce9787a9e2256" level="file">
           <did>
             <unittitle>"Great Memories" (photocopies)</unittitle>
             <unitdate normal="1974/1988" type="inclusive">1974-1988</unitdate>
-            <container id="aspace_207874d0829423855037ee3496fb8c7d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_95eb9142643b601ad18cf2fe75348f01" parent="aspace_207874d0829423855037ee3496fb8c7d" type="Folder">14</container>
+            <container id="aspace_75c8a290d9feccbf824d0da5cfa8c198" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_83e24f52841fa448555a3bef28948269" parent="aspace_75c8a290d9feccbf824d0da5cfa8c198" type="Folder">14</container>
           </did>
         </c>
       </c>
@@ -179,24 +227,24 @@
           <did>
             <unittitle>National Theatre of the Deaf Programs and Articles</unittitle>
             <unitdate normal="1988/1992" type="inclusive">1988-1992</unitdate>
-            <container id="aspace_db152112d823ae8ad03d437e0ada842a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_93b27a33f826cc211db9c58424d6e1af" parent="aspace_db152112d823ae8ad03d437e0ada842a" type="Folder">16</container>
+            <container id="aspace_cbb15afe97364ba16350c91dbd4105d7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_59656ed708b367e6c16c61b1fa500cf7" parent="aspace_cbb15afe97364ba16350c91dbd4105d7" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_21488a5bdd8301f1fdedf75d81dd77e5" level="file">
           <did>
             <unittitle>Mayoral Proclamations</unittitle>
             <unitdate normal="1975/2011" type="inclusive">1975-2011</unitdate>
-            <container id="aspace_dda3f20ea0e0bafb411172eae8ab982a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7737b68f31019dd13cf85d7ff9881fa4" parent="aspace_dda3f20ea0e0bafb411172eae8ab982a" type="Folder">17</container>
+            <container id="aspace_735f2e96120c6796aaed1ea68de5dcf7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_417d10fadbf00c034826608e5e51286a" parent="aspace_735f2e96120c6796aaed1ea68de5dcf7" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_5719dd8247b2591f0bfadc505f367f04" level="file">
           <did>
             <unittitle>Newsletters, programs</unittitle>
             <unitdate normal="1983/2011" type="inclusive">1983-2011</unitdate>
-            <container id="aspace_b38c91e023a9794a7c0590bca0b67a4a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_82991bc79f033666571c28dcbe752039" parent="aspace_b38c91e023a9794a7c0590bca0b67a4a" type="Folder">18</container>
+            <container id="aspace_8ffb8fafa03f864527f1d0548ffbea4e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_89c3b809b9186cbbce115ca1a3637b73" parent="aspace_8ffb8fafa03f864527f1d0548ffbea4e" type="Folder">18</container>
           </did>
         </c>
       </c>

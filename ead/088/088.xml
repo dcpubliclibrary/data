@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">National Christmas Tree Collection</titleproper>
-        <titleproper>National Christmas Tree <num>088</num> <num>088</num></titleproper>
+        <titleproper>National Christmas Tree <num>088</num></titleproper>
         <subtitle>An inventory of National Christmas Tree at DC Public Library</subtitle>
         <author>Finding aid prepared by Ryan P. Semmes.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-11</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:08:47 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:45:14 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-07-31</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,29 +38,52 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>National Christmas Tree Collection</unittitle>
       <unitid>088</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.25 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1923/1969" type="inclusive">1923-1969</unitdate>
-      <langmaterial id="aspace_c99e807988749657f657fec4fb75a8aa">English</langmaterial>
       <langmaterial id="aspace_1d04f6298b913752d5cdf153d5f558da">English</langmaterial>
     </did>
+    <arrangement id="aspace_d0d3abf70dba9d8c3ac7f2a059e35755">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_ca92c7c7b53846e40ed881b4c096b060">
       <head>Biographical / Historical</head>
-      <p>The first Christmas Tree lighting ceremony in Washington, DC occurred during the Woodrow Wilson administration in 1913 at the U.S. Capitol. The first tree lighting at the White House occurred at the Ellipse in 1923 during the Calvin Coolidge administration. The tree lighting ceremony moved from the Ellipse to Sherman Park from 1924 to 1933. In 1934 the tree was moved to Lafayette Park and the ceremony continued there until 1939 when it was returned to the Ellipse. From 1941 to 1953 the tree was located on the grounds of the White House. In 1954 it was permanently moved to the Ellipse and the ceremony has taken place there since.</p>
+      <p>The first Christmas tree lighting ceremony in Washington, D.C. occurred during the Woodrow Wilson administration in 1913 at the U.S. Capitol. Over the years, the ceremony took place at many different locations, including the Ellipse, Sherman Park, Lafayette Park, and the grounds of the White House. The event was permanently moved to the Ellipse in 1954, the first year that the Pageant of Peace festivities began.</p>
     </bioghist>
     <custodhist id="aspace_73d81b0239dd6e1ce5bea41af559f5c9">
       <head>Custodial History</head>
-      <p>The collection has been in the DC Community Archives since 1983.</p>
+      <p>The collection has been with the DC Public Library since 1983.</p>
     </custodhist>
+    <processinfo id="aspace_14992c5a425c605bbe6d8659dffd3cc4">
+      <head>Processing Information</head>
+      <p>Basic archival procedures were used at the time of processing.</p>
+    </processinfo>
     <scopecontent id="aspace_84b0a8d94d415493cc6c91109d259927">
       <head>Scope and Contents</head>
-      <p>The collection consists of correspondence, speeches, invitations, parking passes, sheet music, clippings, and photographs regarding the history and raising of the National Christmas Tree. Also included in this collection are materials related to the Christmas Pageant of Peace, which began in 1954.</p>
+      <p>This collection consists of correspondence, speeches, invitations, parking passes, sheet music, clippings, and photographs related to the history and raising of the National Christmas Tree, as well as items from the Christmas Pageant of Peace, which began in 1954.</p>
     </scopecontent>
+    <userestrict id="aspace_3f4ef040966d474fdb06fefce96707f6">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85088762" source="Library of Congress Subject Headings">Music</subject>
+      <genreform source="material_type">Ephemera</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85126460" source="Library of Congress Subject Headings">Speeches, addresses, etc</subject>
+      <subject source="Library of Congress Subject Headings">Christmas</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85061453" source="Library of Congress Subject Headings">Holidays</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99001943" source="Library of Congress Subject Headings">Correspondence</subject>
+    </controlaccess>
     <dsc>
       <c id="aspace_fe05596adc1db8d061ea7a6f248d5cab" level="series">
         <did>
@@ -59,64 +93,64 @@
           <did>
             <unittitle>Christmas Carols (sheet music)</unittitle>
             <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
-            <container id="aspace_ba11ae0426496ce9f32129cb68765682" label="mixed materials" type="Box">1</container>
-            <container id="aspace_66340597c95999d3a041d39bc5a629c8" parent="aspace_ba11ae0426496ce9f32129cb68765682" type="Folder">1</container>
+            <container id="aspace_666c99f440221b8532c7809597baad6c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_08189e22537a2ac2e8d5fb34919a5475" parent="aspace_666c99f440221b8532c7809597baad6c" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_acf8a4de3f0ba3fb87315ad4c85ddb48" level="file">
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1937/1969" type="inclusive">1937-1969</unitdate>
-            <container id="aspace_c866670861a1e59b9fd027770ad03111" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2d1095acb51192ec11ce87b6d2a4012d" parent="aspace_c866670861a1e59b9fd027770ad03111" type="Folder">2</container>
+            <container id="aspace_f23f9cce56edaa96a58baf9efa14ddb9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0d691392bb53cb3f9144579766e501bf" parent="aspace_f23f9cce56edaa96a58baf9efa14ddb9" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_1832e9255f99a7261e9a1e8aa669fff5" level="file">
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate normal="1940/1963" type="inclusive">1940-1963</unitdate>
-            <container id="aspace_4f2173e489171c7006d8c8d6c8118a43" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2a2488b9d95c5726949c94026271fd4f" parent="aspace_4f2173e489171c7006d8c8d6c8118a43" type="Folder">3</container>
+            <container id="aspace_cc1325e0e817d75a5d4fcb69c21ac78a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8f93a5f0ab5096de8d447ff01c30df2a" parent="aspace_cc1325e0e817d75a5d4fcb69c21ac78a" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_af2b36bdf3c984b1d075913c3b41d0f2" level="file">
           <did>
             <unittitle>History</unittitle>
             <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
-            <container id="aspace_2ce0654f038a89998a74ba8878b04bee" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e59ac0407300af753e68f80e60d99322" parent="aspace_2ce0654f038a89998a74ba8878b04bee" type="Folder">4</container>
+            <container id="aspace_1f4396ed89890592c59ad1c799fed2ee" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c27641de8a08a2002300a2c2ed4e01b8" parent="aspace_1f4396ed89890592c59ad1c799fed2ee" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_c26e78cdc9a5f90bae013ccfddb1c3b9" level="file">
           <did>
             <unittitle>Passes and Tickets</unittitle>
             <unitdate normal="1947/1960" type="inclusive">1947-1960</unitdate>
-            <container id="aspace_6d750bdbd0fdc7efd7e146812a62cdd8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_df709cb0dd09b5f1af022f661a86ba3d" parent="aspace_6d750bdbd0fdc7efd7e146812a62cdd8" type="Folder">5</container>
+            <container id="aspace_84dcb75df966443b28a9e39f4a1d8625" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_79670063b92f888f99e83f654ff725fe" parent="aspace_84dcb75df966443b28a9e39f4a1d8625" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_62a8f8a0406fc373d729366b6367ab89" level="file">
           <did>
             <unittitle>Photographs</unittitle>
             <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
-            <container id="aspace_d9a8b7a02ea5ad1e54982a716479eaef" label="mixed materials" type="Box">1</container>
-            <container id="aspace_cdc374f6e9a724497fdcd4556337a61b" parent="aspace_d9a8b7a02ea5ad1e54982a716479eaef" type="Folder">6</container>
+            <container id="aspace_0681286830470d943b70cff279393526" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_da25d72c885885927608ddb126c5b8c2" parent="aspace_0681286830470d943b70cff279393526" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_7c876af7e69cf2ae266bcafeb51d044b" level="file">
           <did>
             <unittitle>Programs</unittitle>
             <unitdate normal="1923/1965" type="inclusive">1923-1965</unitdate>
-            <container id="aspace_54dc85a78dea3196a5455ab94b3e8732" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a1176a038beb823d33bd6b91b45c99ec" parent="aspace_54dc85a78dea3196a5455ab94b3e8732" type="Folder">7</container>
+            <container id="aspace_4bcddfa2f87056366f3551ff54b88bca" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_def5adb46beeb447ba2353511f3c233a" parent="aspace_4bcddfa2f87056366f3551ff54b88bca" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_6da894e59a8db7027d7ea0ea57f38c64" level="file">
           <did>
             <unittitle>Speech</unittitle>
             <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
-            <container id="aspace_85e8380fb9d65fe5b50233eeb1531006" label="mixed materials" type="Box">1</container>
-            <container id="aspace_91b7f3b01bc3f3a4e73b6a2bd24602ee" parent="aspace_85e8380fb9d65fe5b50233eeb1531006" type="Folder">8</container>
+            <container id="aspace_15835c551e1e0f959e676fe8740fbfd8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c061236c9bfe41c674d4f1d68803d4b2" parent="aspace_15835c551e1e0f959e676fe8740fbfd8" type="Folder">8</container>
           </did>
         </c>
       </c>

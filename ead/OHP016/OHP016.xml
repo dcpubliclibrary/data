@@ -1,16 +1,28 @@
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid/>
+    <eadid url="http://washingtoniana.dclibrary.org">OHP016ShawStriver</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>Northern Shaw Striver Historic Survey Oral History Project<num>OHP016</num></titleproper>
+        <titleproper type="filing">Northern Shaw Striver Historic Survey Oral History Project </titleproper>
+        <titleproper>Northern Shaw Striver Historic Survey Oral History Project  <num>OHP016</num></titleproper>
+        <subtitle>An inventory of Northern Shaw Striver Historic Survey Oral History Project at DC Public Library</subtitle>
+        <author>DC Public Library, Special Collections</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
+        <p>
+          <date>2020-08-27</date>
+        </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-27 00:02:44 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:53:57 -0400</date>.</creation>
+      <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
@@ -20,37 +32,56 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Northern Shaw Striver Historic Survey Oral History Project</unittitle>
+      <origination label="creator">
+        <persname source="local">Koenreich, Jeff</persname>
+      </origination>
       <unitid>OHP016</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">0.5 Linear feet</extent>
       </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Boxes</extent>
+      </physdesc>
       <unitdate normal="1993/1993">1993</unitdate>
     </did>
-    <scopecontent id="aspace_4a2765c295db21b4b88e741230360a3e">
-      <head>Scope and Contents</head>
-      <p>In 1993, Jeff Koenreich conducted these oral histories for the Library's Oral History Project. Residents of the Striver Section of the Shaw neighborhood were interviewed. Topics include the history of the neighborhood, childhood, family, segregation, the Civil Rights movement, and the community.</p>
-    </scopecontent>
+    <arrangement id="aspace_bbfe55642268904931e6514d81605e60">
+      <head>Arrangement</head>
+      <p>Series 1: Transcripts<br/>
+Materials in this series include transcripts for all interviews.<br/>
+<br/>
+Series 2: Interviews<br/>
+Materials in this series include master copies of the oral histories on audio cassette. There are two copies for all audio recordings.</p>
+    </arrangement>
     <bioghist id="aspace_eedeb4497110b4875be0f71d7fb3c5c5">
       <head>Biographical / Historical</head>
-      <p>Jeff Koenreich (1954-2008) was born in Salem, Ohio and attended Ohio State University. He came to Washington, D.C. in 1978 and worked for the American Red Cross. A community organizer he helped found the Cardozo Shaw Neighborhood Association and led an effort to restore the Lincoln Theatre.</p>
+      <p>Jeff Koenreich (1954-2008) was born in Salem, Ohio and attended Ohio State University. He came to Washington, D.C. in 1978 and worked for the American Red Cross. As a community organizer, he helped found the Cardozo-Shaw Neighborhood Association and led an effort to restore the Lincoln Theatre.</p>
     </bioghist>
-    <acqinfo id="aspace_e98c4db890fd9a80dc3c8cf1d21def3e">
-      <head>Immediate Source of Acquisition</head>
+    <custodhist id="aspace_e98c4db890fd9a80dc3c8cf1d21def3e">
+      <head>Custodial History</head>
       <p>Jeff Koenreich conducted these interviews in 1993 and the Tapes and transcripts were transferred to the Library in the mid 1990s. There is no deed of gift for this collection.</p>
-    </acqinfo>
+    </custodhist>
     <processinfo id="aspace_337b6de03cf876154487fea506f988f0">
       <head>Processing Information</head>
-      <p>After the initial donation to the Library, the transcripts were placed in folders and stored them in a filing cabinet with other oral histories. Tapes were duplicated by the Library with use copies being placed a cabinet, while the originals were placed into off-site cold storage. In 2014, the tapes and transcripts were digitized and in 2017 the collection was reprocessed. Transcripts were placed into folders and boxed. Tapes were organized and boxed for long term storage. All administrative documents, including releases, were placed into the control file.</p>
+      <p>After the initial donation to the Library, the transcripts were placed in folders and stored them in a filing cabinet with other oral histories. Tapes were duplicated by the Library with use copies placed in a cabinet, while the originals were placed into off-site cold storage. In 2014, the tapes and transcripts were digitized, and in 2017, the collection was reprocessed. Transcripts were placed into folders and boxed. Tapes were organized and boxed for long-term storage. All administrative documents, including releases, were placed into the control file.</p>
     </processinfo>
+    <scopecontent id="aspace_4a2765c295db21b4b88e741230360a3e">
+      <head>Scope and Contents</head>
+      <p>In 1993, Jeff Koenreich conducted these oral histories for the Library's Oral History Project. Residents of the Striver Section of the Shaw neighborhood were interviewed. Topics include the history of the neighborhood, childhood, family, segregation, the Civil Rights Movement, and the community.</p>
+    </scopecontent>
     <userestrict id="aspace_272b974f89221cfe2f500c1de54f9237">
       <head>Conditions Governing Use</head>
-      <p>The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission to publish or exhibit information. Reproduction of oral Histories without release is not permitted.</p>
+      <p>The DC Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission to publish or exhibit information. Reproduction of oral histories without release is not permitted.</p>
     </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85095238" source="Library of Congress Subject Headings">Oral History</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85119585" source="Library of Congress Subject Headings">Segregation</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <geogname source="ingest">Shaw (Washington, D.C.)</geogname>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85047009" source="Library of Congress Subject Headings">Families</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026384" source="Library of Congress Subject Headings">Civil rights movement</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_8fbf271fd27bc49626c3bfd0e62103d3" level="series">
@@ -65,32 +96,32 @@
           <did>
             <unittitle>Lucille Johnson</unittitle>
             <unitdate normal="1993-08-27/1993-08-27">1993 August 27</unitdate>
-            <container id="aspace_bcea1f09da26f509c6faca88374cc10c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_01d19e01297255e761292a6e8b53b39f" parent="aspace_bcea1f09da26f509c6faca88374cc10c" type="Folder">1</container>
+            <container id="aspace_ce79cdc3217bc057c3da52dbb46d6ef6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_239d6930934df1b00974791eb04d8775" parent="aspace_ce79cdc3217bc057c3da52dbb46d6ef6" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_d19f7bbbd20604fb0d4ec606effa76ba" level="file">
           <did>
             <unittitle>Helena Seegers</unittitle>
             <unitdate normal="1993-08-27/1993-08-27">1993 August 27</unitdate>
-            <container id="aspace_7692c36adea427a5a2b53ab0d0e91145" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_67fbaae6534bbf0800089db5b0ce32fd" parent="aspace_7692c36adea427a5a2b53ab0d0e91145" type="Folder">2</container>
+            <container id="aspace_c71df08fd5ee91c4acf2d41dbb5b10a7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1d0b9672c21c3efeb212938677d7bc07" parent="aspace_c71df08fd5ee91c4acf2d41dbb5b10a7" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ef3e3c5cae53a3590f9e4c2ab243ecbb" level="file">
           <did>
             <unittitle>Norman Wood</unittitle>
             <unitdate normal="1993-08-27/1993-08-27">1993 August 27</unitdate>
-            <container id="aspace_25b9ba7772fa2a03afc0d7d7b4a30cff" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_0c565bf4195f7d422f0a1b9605df40dc" parent="aspace_25b9ba7772fa2a03afc0d7d7b4a30cff" type="Folder">3</container>
+            <container id="aspace_f7bf72e4ec98252a51cf7d1220c071d3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4f0051a72a8a142832022617ff7e2e24" parent="aspace_f7bf72e4ec98252a51cf7d1220c071d3" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ba8e28f77223ee3ee69b60f8d877a404" level="file">
           <did>
             <unittitle>Ethel Bordley</unittitle>
             <unitdate normal="1993-09-06/1993-09-06">1993 September 6</unitdate>
-            <container id="aspace_84b1fbe575fd3f0f39c2f2616b12b285" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_265b234e03094cb791d9167e7eb556cd" parent="aspace_84b1fbe575fd3f0f39c2f2616b12b285" type="Folder">4</container>
+            <container id="aspace_0a87cb8e3e3988ac6c04a9bdf12db2f9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_95b4bdf523c6a82740ac4b762efdf4c9" parent="aspace_0a87cb8e3e3988ac6c04a9bdf12db2f9" type="Folder">4</container>
           </did>
         </c>
       </c>
@@ -106,32 +137,32 @@
           <did>
             <unittitle>Lucille Johnson</unittitle>
             <unitdate normal="1993-08-27/1993-08-27">1993 August 27</unitdate>
-            <container id="aspace_809e434d4a1863fd85861b379888cad9" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_cf750b815a862deab5fb67c23ca5b752" parent="aspace_809e434d4a1863fd85861b379888cad9" type="Folder">16-01</container>
+            <container id="aspace_a783c4b91a0df2b30b5540ea319f23f5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_785a277b117037de9ebc02e95c04ae2b" parent="aspace_a783c4b91a0df2b30b5540ea319f23f5" type="Folder">16-01</container>
           </did>
         </c>
         <c id="aspace_0645dae3fd398358bfdbb50c1b227fa0" level="file">
           <did>
             <unittitle>Helena Seegers</unittitle>
             <unitdate normal="1993-08-27/1993-08-27">1993 August 27</unitdate>
-            <container id="aspace_5849181deab2f7f8718e56e6197c3800" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_74081dcbfd27f34b74bb3650f1315640" parent="aspace_5849181deab2f7f8718e56e6197c3800" type="Folder">16-02</container>
+            <container id="aspace_57fd708f1de28e6df4658bb8f0b1da97" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4fb13644a3992ffe9ed368d3bcd88204" parent="aspace_57fd708f1de28e6df4658bb8f0b1da97" type="Folder">16-02</container>
           </did>
         </c>
         <c id="aspace_31b0f22854abdf62ebd9ef8b5949ebb2" level="file">
           <did>
             <unittitle>Norman Wood</unittitle>
             <unitdate normal="1993-08-27/1993-08-27">1993 August 27</unitdate>
-            <container id="aspace_0bb38058a8164446faa7c2410dd09a28" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_d4a7625d058d69bc80a9cb2971e46b51" parent="aspace_0bb38058a8164446faa7c2410dd09a28" type="Folder">16-03</container>
+            <container id="aspace_0918590db0c6760f31cca87738d49f6c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_71d9a76a14c353f347ca6717fc3669fe" parent="aspace_0918590db0c6760f31cca87738d49f6c" type="Folder">16-03</container>
           </did>
         </c>
         <c id="aspace_d1dd6495ca845aaa2893f117afcdca8a" level="file">
           <did>
             <unittitle>Ethel Bordley</unittitle>
             <unitdate normal="1993-09-06/1993-09-06">1993 September 6</unitdate>
-            <container id="aspace_d35892b6174b7952522da520fdc5a765" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_08be92447302bcbc7fe969afb79e6ff8" parent="aspace_d35892b6174b7952522da520fdc5a765" type="Folder">16-04</container>
+            <container id="aspace_952e689852b9b1fd5046c2ade20d5619" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_38f3bfa465ee4b2791b76d3d3d16875a" parent="aspace_952e689852b9b1fd5046c2ade20d5619" type="Folder">16-04</container>
           </did>
         </c>
       </c>

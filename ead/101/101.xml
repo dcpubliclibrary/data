@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Go-Go Music Collection</titleproper>
-        <titleproper>Go-Go Music <num>101</num> <num>101</num></titleproper>
+        <titleproper>Go-Go Music <num>101</num></titleproper>
         <subtitle>An inventory of Go-Go Music at DC Public Library</subtitle>
         <author>Finding aid prepared by Rachel Telford/Ryan P. Semmes.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2007-06</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:09:59 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:46:27 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-03-17</date>
+        <item>Updated biography note. </item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,7 +38,7 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Go-Go Music Collection</unittitle>
       <unitid>101</unitid>
@@ -35,12 +46,20 @@
         <extent altrender="materialtype spaceoccupied">1.5 linear feet; 2 boxes</extent>
       </physdesc>
       <unitdate normal="1988/2000" type="inclusive">1988-2000</unitdate>
-      <langmaterial id="aspace_fc220325d50fd240dd629edc239d1365">English</langmaterial>
       <langmaterial id="aspace_c588bd31bbcd90d1fe78332c81b0ed03">English</langmaterial>
     </did>
     <bioghist id="aspace_6b3477ad5ca604d37cd35e4e83bb3070">
       <head>Biographical / Historical</head>
-      <p>The papers contain a series of bibliographical notes prepared by Mr. Cooke of his lectures, addresses, remarks, and speeches as well as his copies of dramatic scripts, articles and other writings. The papers also include reports, clippings, and programs regarding the Miner Teachers College, Xi Omega Chapter of Alpha Kappa Alpha Sorority, the Washington Chapter of the Union for Democratic Action, and desegregation in the District of Columbia in the 1950s.</p>
+      <p>Originating in Washington, D.C., Go-Go music is a heavily percussive subgenre of funk which combines rapping, singing, and call and response from the gospel tradition. Go-Go creates a dialogue between the audience and the musicians, making both central to the performance of the music. This genre is significant to the African American community of D.C. and often comments on contemporary issues and culture. 
+<br/>
+<br/>
+Go-Go performance thrived in parks, schools, community centers, playgrounds, college campuses, and dance clubs in D.C. during the 1970s and 1980s. While Go-Go cannot be traced back to a single person, as various bands and artists influenced the genre, Chuck Brown contributed significantly to the early development of the musical style and is considered the godfather of the genre. The most popular bands attracted hundreds, and sometimes, thousands of people. Local radio stations devoted hours of airtime exclusively to the music. 
+<br/>
+<br/>
+Go-Go played an important role in many neighborhoods throughout the D.C. area. The early artists who played their musical instruments in these spaces inspired many children to join school bands where they learned to read standard musical notation. Black-owned businesses sold Go-Go artists' records, concert tickets, and urban wear associated with the genre.
+<br/>
+<br/>
+Go-Go prospered in the 1970s and 1980s, but attempts by musicians and promoters to take the music into the mainstream in the mid 1980s with the feature film "Good to Go" and a promotional deal with Island records were unsuccessful. After a series of violent incidents in Go- Go halls, D.C. officials enacted new legislation which drove the music back underground. In the late 1990s and early 2000s as gentrification increased in D.C., Go-Go shifted to Maryland. The genre was perceived as being  associated with crime and illicit activity. Club owners banned the music and politicians publicly denounced it. However, Go-Go artists continue to fight stigmatization collaborating for anti-drug and anti-violence benefits.</p>
     </bioghist>
     <scopecontent id="aspace_16983033c307c9cc35b01d3938841ca9">
       <head>Scope and Contents</head>
@@ -48,6 +67,7 @@
     </scopecontent>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85088762" source="Library of Congress Subject Headings">Music</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2002012156" source="Library of Congress Subject Headings">Go-go (Music)</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_e1d870cccaab542e49e4cca14fe65022" level="series">
@@ -58,40 +78,40 @@
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate type="inclusive">1985-1990, 2000</unitdate>
-            <container id="aspace_801c55c07ad80a17754966bf1ee6f6b3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b9bfe864984fbbce08f270307a062461" parent="aspace_801c55c07ad80a17754966bf1ee6f6b3" type="Folder">1</container>
+            <container id="aspace_bfe4aec474690eb021d6c4fae6f27596" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_23b7d15d4d455c35b65b7a09aae867cf" parent="aspace_bfe4aec474690eb021d6c4fae6f27596" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_f5cef16147dce4d8a057f386793ca350" level="file">
           <did>
             <unittitle>Interviews</unittitle>
             <unitdate normal="1988/2000" type="inclusive">1988-2000</unitdate>
-            <container id="aspace_9dea25b318f075648cb9552c9598da93" label="mixed materials" type="Box">1</container>
-            <container id="aspace_46ce4711da2c761178b6961618c83d9a" parent="aspace_9dea25b318f075648cb9552c9598da93" type="Folder">2</container>
+            <container id="aspace_8014255d7509d1cf57790533b0a577a5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c62924650b1db4d8a3dee47a274a226f" parent="aspace_8014255d7509d1cf57790533b0a577a5" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_18215a460c4fe45c3d52c65b5da9e86a" level="file">
           <did>
             <unittitle>Interviews</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_5a9a4f2b39c12d266ca9582fef5591ec" label="mixed materials" type="Box">1</container>
-            <container id="aspace_68704a64a2fdf80b9dc8139ee24bda14" parent="aspace_5a9a4f2b39c12d266ca9582fef5591ec" type="Folder">3</container>
+            <container id="aspace_b0932989bf574cccd2e6eac32a6dea43" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2a66675f7a63fe8849e882496615183a" parent="aspace_b0932989bf574cccd2e6eac32a6dea43" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_25c39f578d1c5a805d250e92f9d3a535" level="file">
           <did>
             <unittitle>Miscellaneous</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_a76b9a5fea28f7d82f50a448e40b8bcd" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0a1edf1c632d6c69c3946068ab09ed24" parent="aspace_a76b9a5fea28f7d82f50a448e40b8bcd" type="Folder">4</container>
+            <container id="aspace_99c8739b5fc0436655e0fdba7db4347b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_94831ca57f46301c6852209476d6be2a" parent="aspace_99c8739b5fc0436655e0fdba7db4347b" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_f6f1b3eff69905e39228613992311dc8" level="file">
           <did>
             <unittitle>Promotional Materials</unittitle>
             <unitdate normal="1998/2000" type="inclusive">1998-2000</unitdate>
-            <container id="aspace_856c690a6b45872c7e50de0fbe08977b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_680049887a76b471b16a026063485d7a" parent="aspace_856c690a6b45872c7e50de0fbe08977b" type="Folder">5</container>
+            <container id="aspace_fcc9f62de785d12b4d294c9e176ad9d1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c8dcb59b88c065796d2198dabb705990" parent="aspace_fcc9f62de785d12b4d294c9e176ad9d1" type="Folder">5</container>
           </did>
         </c>
       </c>

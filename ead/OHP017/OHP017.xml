@@ -1,16 +1,28 @@
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid/>
+    <eadid url="http://washingtoniana.dclibrary.org">OHP017DCPS</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>D.C. Public School Survey, Phase II Oral History Project<num>OHP017</num></titleproper>
+        <titleproper type="filing">D.C. Public School Survey, Phase II Oral History Project</titleproper>
+        <titleproper>D.C. Public School Survey, Phase II Oral History Project <num>OHP017</num></titleproper>
+        <subtitle>An inventory of the D.C. Public School Survey, Phase II Oral History Project at DC Public Library</subtitle>
+        <author>DC Public Library, Special Collections</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
+        <p>
+          <date>2020-08-26</date>
+        </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-27 00:02:51 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:54:03 -0400</date>.</creation>
+      <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
@@ -20,37 +32,54 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>D.C. Public School Survey, Phase II Oral History Project</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/no89016537" source="LCSH">Historical Society of Washington, D.C.</corpname>
+      </origination>
       <unitid>OHP017</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
       </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Boxes</extent>
+      </physdesc>
       <unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate>
     </did>
-    <scopecontent id="aspace_8bc81f82244b5a747097f566be0ef570">
-      <head>Scope and Contents</head>
-      <p>Between 1998 and 1999 the Historical Society of Washington conducted a total of 40 oral history interviews with adults who had attended D.C. public schools. Topics include educational experiences, schools attended, dates of graduation. The project director was Karen Washburn, Oral Historian for the Historical Society.</p>
-    </scopecontent>
+    <arrangement id="aspace_bb241b3714cebf53a0d40388d1204694">
+      <head>Arrangement</head>
+      <p>Series 1: Transcripts<br/>
+Materials in this series include transcripts for all interviews. <br/>
+<br/>
+Series 2<br/>
+Materials in this series include master copies of the oral histories on audio cassette. There are no duplicate copies of any audio recordings. There are no tapes for 19-09 and 19-17.</p>
+    </arrangement>
     <bioghist id="aspace_966e38d1b14a692654a4f55c86681092">
       <head>Biographical / Historical</head>
-      <p>Originally known as the Columbia Historical Society, The Historical Society of Washington, D.C. was founded in 1894. The society is an educational foundation and museum dedicated to preserving and displaying the history of Washington, D.C.; providing lectures, exhibits, classes, community events and other educational programs as part of its mission.</p>
+      <p>Originally known as the Columbia Historical Society, the Historical Society of Washington, D.C. was founded in 1894. The society is an educational foundation and museum dedicated to preserving and displaying the history of the District, providing lectures, exhibits, classes, community events and other educational programs as part of its mission.</p>
     </bioghist>
-    <acqinfo id="aspace_3cba4bf31e81178fb488c6a39c048eaa">
-      <head>Immediate Source of Acquisition</head>
+    <custodhist id="aspace_3cba4bf31e81178fb488c6a39c048eaa">
+      <head>Custodial History</head>
       <p>The Historical Society of Washington, D.C. conducted these interviews between 1998 and 1999. The transcripts of these interviews were transferred to the Library in the early 2000s. There is no deed of gift for this collection.</p>
-    </acqinfo>
+    </custodhist>
     <processinfo id="aspace_f5b353929b00fd2a32f899706e7bd102">
       <head>Processing Information</head>
-      <p>After the initial deposit of the transcripts in the Library, the transcript were bound, cataloged and added to Washingtoniana book collection. There are no taped interviews for this collection.  In 2014, the tapes and transcripts were digitized and in 2017 the collection was reprocessed. The transcripts were placed into folders and boxed. All administrative documents were placed into the control file.</p>
+      <p>After the initial deposit of the transcripts in the Library, they were bound, cataloged and added to the Washingtoniana book collection. There are no taped interviews for this collection. In 2014, the tapes and transcripts were digitized and in 2017, the collection was reprocessed. The transcripts were placed into folders and boxed. All administrative documents were placed into the control file.</p>
     </processinfo>
+    <scopecontent id="aspace_8bc81f82244b5a747097f566be0ef570">
+      <head>Scope and Contents</head>
+      <p>Between 1998 and 1999, the Historical Society of Washington, D.C. conducted a total of 40 oral history interviews with adults who had attended D.C. public schools. Topics include educational experiences, schools attended, and dates of graduation. The project director was Karen Washburn, Oral Historian for the Historical Society.</p>
+    </scopecontent>
     <userestrict id="aspace_a8df72c3f10f91ae275327918918477d">
       <head>Conditions Governing Use</head>
-      <p>The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from the Historical Society of Washington, D.C. to publish or exhibit information. Reproduction of oral histories without release is not permitted.</p>
+      <p>The DC Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from the Historical Society of Washington, D.C. to publish or exhibit information. Reproduction of oral histories without release is not permitted.</p>
     </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85095238" source="Library of Congress Subject Headings">Oral History</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85040989" source="lcsh">Education</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99004940" source="Library of Congress Subject Headings">Childhood and youth</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_f4de0674f5d95b31269802a333420b03" level="series">
@@ -65,288 +94,288 @@
           <did>
             <unittitle>Al Cruz</unittitle>
             <unitdate normal="1998-09-20/1998-09-20">1998 September 20</unitdate>
-            <container id="aspace_c0c5640c0bc911b6e7983f1c94aacdce" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_7fc6e5e5ad6cd0f0bbc599ed17fc4474" parent="aspace_c0c5640c0bc911b6e7983f1c94aacdce" type="Folder">1</container>
+            <container id="aspace_7a14fd19a6a7b0d8ceced016435deb6d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6a54c67cfbedede89e9d7e2ddc331084" parent="aspace_7a14fd19a6a7b0d8ceced016435deb6d" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ed43ec3a3e6864dab1a6ebbd39cc76b5" level="file">
           <did>
             <unittitle>Stoff Smolson</unittitle>
             <unitdate normal="1998-09-20/1998-09-20">1998 September 20</unitdate>
-            <container id="aspace_a4ed956bcace8c5503249597dfd23a9c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d44ac6bdd617c0d5f0293fd319bfad9f" parent="aspace_a4ed956bcace8c5503249597dfd23a9c" type="Folder">2</container>
+            <container id="aspace_e972b15186aebf95ae535bcaba9a827f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_686a9853050acf64302d046c1a207120" parent="aspace_e972b15186aebf95ae535bcaba9a827f" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_b519acc780e7ae688381a2e5ffd0d4d2" level="file">
           <did>
             <unittitle>John Webster</unittitle>
             <unitdate normal="1998-09-20/1998-09-20">1998 September 20</unitdate>
-            <container id="aspace_37bae771d8e12ac01014a41b87cc624a" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_87c13a45c546f169b54776ea0ce3e8cc" parent="aspace_37bae771d8e12ac01014a41b87cc624a" type="Folder">3</container>
+            <container id="aspace_a8f5140831d60c1be17163c0d656bd2c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1837db8f4f25c3c407b7f82d59975b0a" parent="aspace_a8f5140831d60c1be17163c0d656bd2c" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_e575dd3ec9c983a11d3f1067efc54cc4" level="file">
           <did>
             <unittitle>Dianne Dale and Gerald Boyd</unittitle>
             <unitdate normal="1998-09-28/1998-09-28">1998 September 28</unitdate>
-            <container id="aspace_bc06e07f1f012c37205a45fac6b49245" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_a3d61bd160c1f08dab71e17382e03505" parent="aspace_bc06e07f1f012c37205a45fac6b49245" type="Folder">4</container>
+            <container id="aspace_0e63f125483f789df8ff46abb5237e74" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_281ac9cde57b47fe35f27219be75b33e" parent="aspace_0e63f125483f789df8ff46abb5237e74" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_3d3502b10335a55d73d7850763dcda8b" level="file">
           <did>
             <unittitle>Austin Daindridge</unittitle>
             <unitdate normal="1998-09-28/1998-09-28">1998 September 28</unitdate>
-            <container id="aspace_324bbdb3cf9f53ddb7e045d5b622e6bb" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_4cffa682174ad3857cc3bf0787131308" parent="aspace_324bbdb3cf9f53ddb7e045d5b622e6bb" type="Folder">5</container>
+            <container id="aspace_122bb6a240125ae02dae9269d5ce3f1f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_134a032dac98ea65d672794f4dee23b0" parent="aspace_122bb6a240125ae02dae9269d5ce3f1f" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_982dfca67acec03d9bf5e9dd4ed3d127" level="file">
           <did>
             <unittitle>Doris Haynes</unittitle>
             <unitdate normal="1998-09-28/1998-09-28">1998 September 28</unitdate>
-            <container id="aspace_f0535bb757ce348803bb63ac657b350a" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d464ec81b3941eae4bf5a17a49e60f16" parent="aspace_f0535bb757ce348803bb63ac657b350a" type="Folder">6</container>
+            <container id="aspace_b9a8ee1e2e4f9407620ffb23d2d3f5f9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2d5bdee6a17dc435938d4fbbf5fc3588" parent="aspace_b9a8ee1e2e4f9407620ffb23d2d3f5f9" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_dd6e5e5bcb2a852ba5dfa040906e7d9b" level="file">
           <did>
             <unittitle>Lucille Johnson</unittitle>
             <unitdate normal="1998-09-20/1998-09-20">1998 September 20</unitdate>
-            <container id="aspace_7e77825cc3fc8e0450b96cb75997f092" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_78742b7af3b6795186ef912a58f2bea2" parent="aspace_7e77825cc3fc8e0450b96cb75997f092" type="Folder">7</container>
+            <container id="aspace_ff3c9b0e99d112de5bb4da2fcc246215" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_67616edd3f88f6d58a305b5e76d8677f" parent="aspace_ff3c9b0e99d112de5bb4da2fcc246215" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_f303c8b095e5c07da43ad6f9ef762e85" level="file">
           <did>
             <unittitle>Ellen Nesheim</unittitle>
             <unitdate normal="1998-09-28/1998-09-28">1998 September 28</unitdate>
-            <container id="aspace_0f30f18c0fda66c0268f8183b4ec9bd4" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d19ec46b0899b42a0c3715b08f1757da" parent="aspace_0f30f18c0fda66c0268f8183b4ec9bd4" type="Folder">8</container>
+            <container id="aspace_6ec584abd15e2f1a1035d6f41962cb14" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_81ccda602e45024f2d9e6d154c165ffd" parent="aspace_6ec584abd15e2f1a1035d6f41962cb14" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ce48b938b1ddb04e9676c6f9862de469" level="file">
           <did>
             <unittitle>Robert Silverman</unittitle>
             <unitdate normal="1998-09-28/1998-09-28">1998 September 28</unitdate>
-            <container id="aspace_1105677a40eaaa7fa9940001c5c9bb2a" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_0a778a7ddf204bd00fb5682b3bd52584" parent="aspace_1105677a40eaaa7fa9940001c5c9bb2a" type="Folder">9</container>
+            <container id="aspace_e9b3a647d9b8692f6c324c075759cf13" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b854eacfcd03cc0f3e6e004f5f39a634" parent="aspace_e9b3a647d9b8692f6c324c075759cf13" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_284748ac8586b3a97648dc9cd472658a" level="file">
           <did>
             <unittitle>Trudy Standig</unittitle>
             <unitdate normal="1998-09-28/1998-09-28">1998 September 28</unitdate>
-            <container id="aspace_edaef84826d1d4115501065b687a9a3a" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b2f1fa6ebb4b2fa6b46bf47c19c409b0" parent="aspace_edaef84826d1d4115501065b687a9a3a" type="Folder">10</container>
+            <container id="aspace_7496c66498a95017cfc2182cd901ad81" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3b2ba2f6f4b413b046cbf05dc46eda5c" parent="aspace_7496c66498a95017cfc2182cd901ad81" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_adc3a994673408aa47b96a80008923b1" level="file">
           <did>
             <unittitle>Carter Bowman</unittitle>
             <unitdate normal="1998-09-09/1998-09-09">1998 September 9</unitdate>
-            <container id="aspace_03e66087f477049b8ce476c4bba01e08" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d8fd73c0ef5a6e75b19de0015b3d3600" parent="aspace_03e66087f477049b8ce476c4bba01e08" type="Folder">11</container>
+            <container id="aspace_d78c14427c5008f75875effcb0bec47f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2ae32a5fe696c0e7d3acad8248b3b3b9" parent="aspace_d78c14427c5008f75875effcb0bec47f" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_0893637f37ec10c3f09b74755aafd5d0" level="file">
           <did>
             <unittitle>Mamie Bowman</unittitle>
             <unitdate normal="1998-09-09/1998-09-09">1998 September 9</unitdate>
-            <container id="aspace_828fd42e10e6179195b0d1c16473217e" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_fe8062de49d8ca27d51cb23398505902" parent="aspace_828fd42e10e6179195b0d1c16473217e" type="Folder">12</container>
+            <container id="aspace_11ca8527fbe2902bd3ecd32ffa48299c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d3fb5d7b30bfd5556ad5a6d8d1ca4c98" parent="aspace_11ca8527fbe2902bd3ecd32ffa48299c" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_7f208772a2721d623021c3f9e5fa3da0" level="file">
           <did>
             <unittitle>Henry Brylawski. Molly Brylawski, Julien Brylawski, and Anita Summers Brylawski</unittitle>
             <unitdate normal="1998-09-09/1998-09-09">1998 September 9</unitdate>
-            <container id="aspace_793ed504e3414b00bea6cd7fe3731c6f" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_0bb79a885a03b7006b6d79369a419947" parent="aspace_793ed504e3414b00bea6cd7fe3731c6f" type="Folder">13</container>
+            <container id="aspace_b9784c717c3e2ffbf4dd643991a751d0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2b79a9258c81150cc7748e4b418bb347" parent="aspace_b9784c717c3e2ffbf4dd643991a751d0" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_9f0f38f68f3bc6a6ee1a1753157b67be" level="file">
           <did>
             <unittitle>Cynthia Jackson</unittitle>
             <unitdate normal="1998-09-09/1998-09-09">1998 September 9</unitdate>
-            <container id="aspace_823e5f88885140801fa0ba7e4fbc6871" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_8f66015542ad7c1c91566b3869d62f68" parent="aspace_823e5f88885140801fa0ba7e4fbc6871" type="Folder">14</container>
+            <container id="aspace_ed2ae0f96434b06fd9cb95d83cd12b8a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c2fb0dab72d71194bd13479c8af0d591" parent="aspace_ed2ae0f96434b06fd9cb95d83cd12b8a" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_d7ed7174cca147fb7d1b95755efc3862" level="file">
           <did>
             <unittitle>Nancy Pierce</unittitle>
             <unitdate normal="1998-09-19/1998-09-19">1998 September 19</unitdate>
-            <container id="aspace_4dd92d31f17931906d442d4edf987451" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_4c0df976e15fc4107a5007f9c992b4fe" parent="aspace_4dd92d31f17931906d442d4edf987451" type="Folder">15</container>
+            <container id="aspace_c71d1c42942d0b020b77e071fb7fa4b4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e1df34d711edabf1eb304a0f1a67492b" parent="aspace_c71d1c42942d0b020b77e071fb7fa4b4" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_5df443a1a94b247984d5c3e41ba33da4" level="file">
           <did>
             <unittitle>Charles Volkman</unittitle>
             <unitdate normal="1998-09-19/1998-09-19">1998 September 19</unitdate>
-            <container id="aspace_fd1d68262a32f10baa15ab1898c7978b" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_8c42f139b27337ec55592d5fac696d7b" parent="aspace_fd1d68262a32f10baa15ab1898c7978b" type="Folder">16</container>
+            <container id="aspace_dac7ec5013e786385b4e513e09a0255e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0ea1a8a55e47c3110e8d9de3b680a49e" parent="aspace_dac7ec5013e786385b4e513e09a0255e" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_860261ef1159926888522fc79229ea20" level="file">
           <did>
             <unittitle>James Banks</unittitle>
             <unitdate normal="1998-11-03/1998-11-03">1998 November 3</unitdate>
-            <container id="aspace_434fe67e663835dbde40491fcdcf9603" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d3aa1c4bd69fab922671e9d0d26fb9c2" parent="aspace_434fe67e663835dbde40491fcdcf9603" type="Folder">17</container>
+            <container id="aspace_6ebbe8c46197e03a5b57dd270b3d54a3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cddf68e702fadba77d222c064ed2ce6f" parent="aspace_6ebbe8c46197e03a5b57dd270b3d54a3" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_a769b8fc908876a2679927a15205d553" level="file">
           <did>
             <unittitle>Carl Cole</unittitle>
             <unitdate normal="1998-11-09/1998-11-09">1998 November 9</unitdate>
-            <container id="aspace_b9323691abe2f7ad9ac9ee478c831831" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_9b5b2e73196073a6cc6b484eaaf78750" parent="aspace_b9323691abe2f7ad9ac9ee478c831831" type="Folder">18</container>
+            <container id="aspace_cf7d14eab9f78ddb661cdf1bc48475c9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7a710a8ec193e94ef2f8e260fd4f2108" parent="aspace_cf7d14eab9f78ddb661cdf1bc48475c9" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_6228af3f7942de0c6f6b7e4970cc6c24" level="file">
           <did>
             <unittitle>Lois Sinclair</unittitle>
             <unitdate normal="1998-10-26/1998-10-26">1998 October 26</unitdate>
-            <container id="aspace_7602908b2af6bf78828499b71a4522c5" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_c37b2760d3ae6b7d4a213cf6ea66aebf" parent="aspace_7602908b2af6bf78828499b71a4522c5" type="Folder">19</container>
+            <container id="aspace_0dcb38e000141a6587ed11544f3fba29" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6d2f18c504164233c1e14930dec2feda" parent="aspace_0dcb38e000141a6587ed11544f3fba29" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_2108502d469a16ef01d105c5e951afc9" level="file">
           <did>
             <unittitle>Nancy Suggs</unittitle>
             <unitdate normal="1998-11-03/1998-11-03">1998 November 3</unitdate>
-            <container id="aspace_dc1c4bc3a2dd067b5c2d1e3e90020278" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_248a1463108837c2a4df22316e9c4c11" parent="aspace_dc1c4bc3a2dd067b5c2d1e3e90020278" type="Folder">20</container>
+            <container id="aspace_411977c31c41f88e4ac0fef4c1c6156c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_948f8328dc9185d811b04ca51f8a7a5e" parent="aspace_411977c31c41f88e4ac0fef4c1c6156c" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_523bdd0b9ac9cc5591e126f6d728a293" level="file">
           <did>
             <unittitle>Thelma Baltimore</unittitle>
             <unitdate normal="1999-08-23/1999-08-23">1999 August 23</unitdate>
-            <container id="aspace_d322f0ff12457efc8b28ab0504ed96c7" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_4fae2dc105bc6d3488485217cad957a4" parent="aspace_d322f0ff12457efc8b28ab0504ed96c7" type="Folder">1</container>
+            <container id="aspace_8f5a3506b10753126dfdb025387c1a0a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_35dad26b4282cb0230b114f6fb07f4fb" parent="aspace_8f5a3506b10753126dfdb025387c1a0a" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_410c4b82e5dfd838e31190f724fef020" level="file">
           <did>
             <unittitle>Barbara Brooks</unittitle>
             <unitdate normal="1998-11-17/1998-11-17">1998 November 17</unitdate>
-            <container id="aspace_71b605ff0faf86e05e758c5a18d766a0" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_6c6942dd8a66f89a3a1e3c86d2c22363" parent="aspace_71b605ff0faf86e05e758c5a18d766a0" type="Folder">2</container>
+            <container id="aspace_c1aed03d26a579bdaf41e220073ba011" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_cb70f815f8a18352c18314dd632ba833" parent="aspace_c1aed03d26a579bdaf41e220073ba011" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_2d7a2284bcfbdefb67b10e17197d4b03" level="file">
           <did>
             <unittitle>Morris Butler</unittitle>
             <unitdate normal="1999-05-17/1999-05-17">1999 May 17</unitdate>
-            <container id="aspace_236b44f69e60fd3baacf717dfb0898c1" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f1a6af0922588801f45bdbef79165e02" parent="aspace_236b44f69e60fd3baacf717dfb0898c1" type="Folder">3</container>
+            <container id="aspace_a7a74657e88cd3d14b779f0989e97e1c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_37a63347dd3aa523e8c8fc0bcf667bc8" parent="aspace_a7a74657e88cd3d14b779f0989e97e1c" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_b9b3f06d8d530f628666a93191451219" level="file">
           <did>
             <unittitle>Bill Carnahan</unittitle>
             <unitdate normal="1999-03-26/1999-03-26">1999 March 26</unitdate>
-            <container id="aspace_016181f74f2f63418cf85f19f771d7a5" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_d75485e22ae0c76746d94412254968d7" parent="aspace_016181f74f2f63418cf85f19f771d7a5" type="Folder">4</container>
+            <container id="aspace_b014d3b41a9051e5657be91c55ec9e7e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_707d99905b4e5dd6d0cd5bf0ddfff19e" parent="aspace_b014d3b41a9051e5657be91c55ec9e7e" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_a28adfa88f9158edc6d4122d488f1b16" level="file">
           <did>
             <unittitle>Charles Cassell</unittitle>
             <unitdate normal="1998-11-17/1998-11-17">1998 November 17</unitdate>
-            <container id="aspace_cb513c4848ccf04dfa7b5ddacc9f8e3f" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_32c5dffe67b678592a6936f8e1fe38c0" parent="aspace_cb513c4848ccf04dfa7b5ddacc9f8e3f" type="Folder">5</container>
+            <container id="aspace_00b57756461063e27d685c37180dceed" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e678671d61db7f4fc0873771dbcc6321" parent="aspace_00b57756461063e27d685c37180dceed" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_e39d82c43ecc267e64cb945303486ee2" level="file">
           <did>
             <unittitle>Edna Juanita Jones Coleman</unittitle>
             <unitdate normal="1999-04-05/1999-04-05">1999 April 5</unitdate>
-            <container id="aspace_5c4e16c152224d57f83ddab399cdd696" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_8de93ac4da6ad5af95e59b03cb98c085" parent="aspace_5c4e16c152224d57f83ddab399cdd696" type="Folder">6</container>
+            <container id="aspace_8c9f9a9df713c1288a9a6a49ab07a92e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_915d3526fa0fd694eee63837fe7d4600" parent="aspace_8c9f9a9df713c1288a9a6a49ab07a92e" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_e0579a8fd422142c677e9fd46e8e9b60" level="file">
           <did>
             <unittitle>Paul Phillips Cooke</unittitle>
             <unitdate normal="1999-07-07/1999-07-07">1999 July 7</unitdate>
-            <container id="aspace_efeea77d0c6f5a7808eec60517e17e41" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_ea585ca30ec3a2454b4f470b0494aaae" parent="aspace_efeea77d0c6f5a7808eec60517e17e41" type="Folder">7</container>
+            <container id="aspace_3197534a6728c50aedaa32dddeb11358" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_60bff7c2a368e666ebbad9bc3f4de29d" parent="aspace_3197534a6728c50aedaa32dddeb11358" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_847d9a70d747d750bb16941ab0791769" level="file">
           <did>
             <unittitle>John Davis</unittitle>
             <unitdate normal="1999-04-13/1999-04-13">1999 April 13</unitdate>
-            <container id="aspace_e20fa46d5becb9ef0b6bfb7ad4fd752b" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_75beeb39ef11f92247253285c985c915" parent="aspace_e20fa46d5becb9ef0b6bfb7ad4fd752b" type="Folder">8</container>
+            <container id="aspace_c9c30f805759059a30353d7ca8e5a725" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_89ac1fe04202e6bb708f5a11d5cfd9de" parent="aspace_c9c30f805759059a30353d7ca8e5a725" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_e18747d23dcf33760c3ac662c8447c2f" level="file">
           <did>
             <unittitle>Grace Ridgeley Drew</unittitle>
             <unitdate normal="1999-04-06/1999-04-06">1999 April 6</unitdate>
-            <container id="aspace_fce9c8ac0dfe0f1e8f36b872c822c59e" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_d87070d3e0210e4b9ffece4807c11393" parent="aspace_fce9c8ac0dfe0f1e8f36b872c822c59e" type="Folder">9</container>
+            <container id="aspace_f3bf1b32bc9fdcd96687b6759d132c60" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_24090b14a8a0e7d20d48f63e8de91d8e" parent="aspace_f3bf1b32bc9fdcd96687b6759d132c60" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_449e705edcdae6c83614cc116af1a75b" level="file">
           <did>
             <unittitle>Oliver Gasch</unittitle>
             <unitdate normal="1999-04-29/1999-04-29">1999 April 29</unitdate>
-            <container id="aspace_724f7a1119432aeb06b15ce8e9efa5bd" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_729b34fa34a8140f80b08dd694b52ade" parent="aspace_724f7a1119432aeb06b15ce8e9efa5bd" type="Folder">10</container>
+            <container id="aspace_a10816d6098d671f9cd469d088a196a7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8ae620f8a70949541d4dbf21f4a9645a" parent="aspace_a10816d6098d671f9cd469d088a196a7" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_1d213e650346490d92dd264f2dda47ec" level="file">
           <did>
             <unittitle>Russell Gregory</unittitle>
             <unitdate normal="1999-03-29/1999-03-29">1999 March 29</unitdate>
-            <container id="aspace_b626fe56b71dc48d9e47ba3ab3fb5aa9" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_7290604f919ab6166f37e837a183d194" parent="aspace_b626fe56b71dc48d9e47ba3ab3fb5aa9" type="Folder">11</container>
+            <container id="aspace_2331e2ae8aa3d65e71fef04cb1e3b371" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_54ec1f8eeeb30315785b7444e6108b4f" parent="aspace_2331e2ae8aa3d65e71fef04cb1e3b371" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_88f2fdf62f20e479beaad642dcc822a3" level="file">
           <did>
             <unittitle>Austin Kiplinger</unittitle>
             <unitdate normal="1999-07-03/1999-07-03">1999 July 3</unitdate>
-            <container id="aspace_13c8be03fd8e936d73bcc78737dc8aa8" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_14ae6b3cdf60d339d60983ba79c8110e" parent="aspace_13c8be03fd8e936d73bcc78737dc8aa8" type="Folder">12</container>
+            <container id="aspace_a6e80d3ca703a704bf6baf13b2173e3f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d67d77c9e61d3ca3a10707a7af5f713c" parent="aspace_a6e80d3ca703a704bf6baf13b2173e3f" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_b616a29cd38b03e67fa4aa1bbb8c9a26" level="file">
           <did>
             <unittitle>Marian Reid</unittitle>
             <unitdate normal="1999-03-19/1999-03-19">1999 March 19</unitdate>
-            <container id="aspace_4ac9654f9ce62cb5aa8e7eece0da08d5" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_d214420cac0c501607b87dde64913b6e" parent="aspace_4ac9654f9ce62cb5aa8e7eece0da08d5" type="Folder">13</container>
+            <container id="aspace_b20e18f26e0b863a2bb6840cf1c32029" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_106baaf94a53ec09b5ccdb11f2dc45cd" parent="aspace_b20e18f26e0b863a2bb6840cf1c32029" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_a8e11861adc1726bd6f6f32fd083819e" level="file">
           <did>
             <unittitle>Martha J. Roche</unittitle>
             <unitdate normal="1999-03-30/1999-03-30">1999 March 30</unitdate>
-            <container id="aspace_e6a23cd56a61f8af053f5f27f98a2515" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_9dfa6900abbdfcc3d937272f193d8803" parent="aspace_e6a23cd56a61f8af053f5f27f98a2515" type="Folder">14</container>
+            <container id="aspace_d88622738921d81325ed487ae5dcd1b8" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_943f7a056fab0279d6520b3315ca00bc" parent="aspace_d88622738921d81325ed487ae5dcd1b8" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_1a78cc90bb2fb9131c861d85fd4dc97f" level="file">
           <did>
             <unittitle>Joseph Rogers</unittitle>
             <unitdate normal="1999-03-01/1999-03-01">1999 March 1</unitdate>
-            <container id="aspace_305d16cfe23e4f38ae6389058cdd84d6" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_72f147a61704df149a2b9735a4343122" parent="aspace_305d16cfe23e4f38ae6389058cdd84d6" type="Folder">15</container>
+            <container id="aspace_e14ae64efe71adb03a66dca3f7e04319" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_1b50225dd814cbceb8dae3f716f8b0d9" parent="aspace_e14ae64efe71adb03a66dca3f7e04319" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_7ea2a7c84ffa3927f91acf2c4634c146" level="file">
           <did>
             <unittitle>Burke Syphax</unittitle>
             <unitdate normal="1999-07-28/1999-07-28">1999 July 28</unitdate>
-            <container id="aspace_2fd9ea476ddc2cb685c70b5806006a4c" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_b09b9cd981a3246705dbf645ccec6023" parent="aspace_2fd9ea476ddc2cb685c70b5806006a4c" type="Folder">16</container>
+            <container id="aspace_4964c4f420bc9878bdce094bde340c51" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_eb55b7f698f2350a4cc07c3739d2b999" parent="aspace_4964c4f420bc9878bdce094bde340c51" type="Folder">16</container>
           </did>
         </c>
       </c>

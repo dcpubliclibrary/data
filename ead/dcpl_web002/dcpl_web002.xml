@@ -1,0 +1,909 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid/>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Advisory Neighborhood Commissions (ANCs) of Washington, D.C. Web Archive<num>dcpl_web002</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:51:58 -0400</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
+      </repository>
+      <unittitle>Advisory Neighborhood Commissions (ANCs) of Washington, D.C. Web Archive</unittitle>
+      <origination label="creator">
+        <corpname source="local">Advisory Neighborhood Commissions (ANCs) of Washington, D.C.</corpname>
+      </origination>
+      <unitid>dcpl_web002</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">33 Web Sites Captured</extent>
+      </physdesc>
+      <unitdate normal="1988/2018" type="inclusive">1988-2018</unitdate>
+    </did>
+    <odd id="aspace_92635b420b42e4f0949370abd51b1747">
+      <head>General</head>
+      <p>A collection of websites documenting the activities of Washington, DC's Advisory Neighborhood Commissions (ANCs).</p>
+    </odd>
+    <phystech id="aspace_c835d7e20198bf5c1221264e166c8393">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>This collection is comprised of dynamic snapshots of sites as they existed at a specific moment, or moments, in time, and should not be confused with current versions of the sites depicted. Due to limitations in web crawling technology, certain page elements may not display as originally intended. This is normal, and we are constantly working to improve capture quality.</p>
+    </phystech>
+    <dsc>
+      <c id="aspace_3e0f66dad9fc35eba6ccbd9b4ff75e18" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>anc | Advisory Neighborhood Commissions</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">939 Captures</extent>
+          </physdesc>
+          <unitdate normal="2017/2017">2017</unitdate>
+        </did>
+        <odd id="aspace_8c7ab5654fc65ab415651374dea04ed2">
+          <head>General</head>
+          <p>D.C. Government homepage for the city's network of Advisory Neighborhood commissions.</p>
+        </odd>
+        <acqinfo id="aspace_5e49228745294c68bee3dab8d9d9fa91">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_92af4eb9bf324ff2a7b4780cf76cc17c">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_bb808f29fdf449849272512750927b91">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_93b69da125e12dc3dbb4df3dbaf000e5" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 1A Home</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">61 Captures</extent>
+          </physdesc>
+          <unitdate normal="2008/2017" type="inclusive">2008-2017</unitdate>
+        </did>
+        <odd id="aspace_840801c1b0c5d13b5484bd3ac1a80eab">
+          <head>General</head>
+          <p>Website for ANC covering the Park View and Columbia Heights neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_65c248a31c6e412d9bdff5e226768b74">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_43785fb9bfe3446dbd688f3f72ffe4b7">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_3e0fc04b407c48efbcfbf720d79f56a6">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_381afd6ceb8f9ef3162ea7c57934e1d1" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC-1B - Keeping You Up to Date In Your NeighborhoodWelcome to ANC 1B - ANC-1B</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">211 Captures</extent>
+          </physdesc>
+          <unitdate normal="2003/2017" type="inclusive">2003-2017</unitdate>
+        </did>
+        <odd id="aspace_5d18194c28ca44ee646f990b7e86e614">
+          <head>General</head>
+          <p>Website for ANC covering the U Street Corridor, Shaw, Pleasant Plains, LeDroit Park, and Columbia Heights neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_4f0cb0f26c1048c48805d1f8a30bd09c">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_ab5f6a8203e84adbaba756884489dbff">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_c47f3cad421e4dc69f4b782e7a7bb161">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_b9ef52fb092f21e284740bf0349acd49" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 1C</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">312 Captures</extent>
+          </physdesc>
+          <unitdate normal="2000/2017" type="inclusive">2000-2017</unitdate>
+        </did>
+        <odd id="aspace_cc4c6fbcfdc765af92ba13b4fbc878ed">
+          <head>General</head>
+          <p>Website for ANC covering the Adams Morgan neighborhood of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_fe8bf3cf628a406ebc005f2e1029cb47">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_acadbc96861249ae8f842af7cebddf22">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_808f65e406ba461b951339e1dff7bcff">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_8b563623f3b831c218810c43a3becc6d" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC1D</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">144 Captures</extent>
+          </physdesc>
+          <unitdate normal="2004/2017" type="inclusive">2004-2017</unitdate>
+        </did>
+        <odd id="aspace_f5f58c070340fb9232a3c4e3e9d8750c">
+          <head>General</head>
+          <p>Website for ANC covering the Mount Pleasant neighborhood of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_6f9743cc1c7540f89492f0196a5b2053">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_19c6adaacf6a40debd3b6c2cb6fae5d3">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_0c2b7259783f44e8a22f60240e701619">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_070e7e9529e21ca0820b800817d99505" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 2A</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">112 Captures</extent>
+          </physdesc>
+          <unitdate normal="2010/2017" type="inclusive">2010-2017</unitdate>
+        </did>
+        <odd id="aspace_ea89807b9d1e4b9c1c7114cd3856da0c">
+          <head>General</head>
+          <p>Website for ANC covering the West End and Foggy Bottom neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_ceb47b1595e040e79314eb813109a581">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_72502736e1c74999a44f57e27a4064de">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_b0b43ca1668e4f1195e177deea6a1a4c">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_f1580df408ce2490cd40021e4c426cfa" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>Dupont Circle ANC 2B | Washington, DC's best place to live, work and play!</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">289 Captures</extent>
+          </physdesc>
+          <unitdate normal="1988/2017" type="inclusive">1988-2017</unitdate>
+        </did>
+        <odd id="aspace_a724a4205c53902975bb47f6cf0d98f7">
+          <head>General</head>
+          <p>Website for ANC covering the Dupont Circle neighborhood of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_f0654d750efe4ceeb247aa92cd75c299">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_d286f1d941b6409a92bfcb01e029d1fe">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_2f71c13a3d7c4a7e9a7289316ae08867">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_27ff6b38e879cc93b0dc7a1e570d2c2c" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 2C</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">44 Captures</extent>
+          </physdesc>
+          <unitdate normal="2013/2017" type="inclusive">2013-2017</unitdate>
+        </did>
+        <odd id="aspace_913e0aee02a328753a3bc5c4b8f7888b">
+          <head>General</head>
+          <p>Website for ANC covering the Penn Quarter, Downtown, and Chinatown neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_e368eb694e7c41d888ece39c6812d532">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_efed424b91694df282ec6a7344a6ecee">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_91d084c070ca48baba744056110d838f">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_d22f32afe6f3b735657757ef0e59c9cf" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 2D</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">60 Captures</extent>
+          </physdesc>
+          <unitdate normal="2012/2017" type="inclusive">2012-2017</unitdate>
+        </did>
+        <odd id="aspace_d5c2637cfbb8751fac98909a820dd8df">
+          <head>General</head>
+          <p>Website for ANC covering the Sheridan-Kalorama neighborhood of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_d503a2eee7ff49368109a7c6cc7ed7df">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_6d743ac48b1546b788aeec9c33ba33e5">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_37088f51c65d4d7d9bcd4806131eddbe">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_fd58c168f04331c266e04f12fb78da29" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 2E</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">212 Captures</extent>
+          </physdesc>
+          <unitdate normal="2004/2017" type="inclusive">2004-2017</unitdate>
+        </did>
+        <odd id="aspace_20a84a0e845ae858db116f54d13afb49">
+          <head>General</head>
+          <p>Website for ANC covering the Burleith and Georgetown neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_c24ad43262e94b27884fb95b4b0c69df">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_7b13cc97de3d4dbbb96826d31a0e2292">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_0b8390bafc544505bbe0558f8869dee7">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_96d1e61f6e33cf08fc6c67b4433209a6" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 2F</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">444 Captures</extent>
+          </physdesc>
+          <unitdate normal="2003/2017" type="inclusive">2003-2017</unitdate>
+        </did>
+        <odd id="aspace_63e68670f305519103ae6c593bcc2010">
+          <head>General</head>
+          <p>Website for ANC covering the Downtown, Shaw, and Logan Circle neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_429fa36bb72040069f59265815635499">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_7b553768cadd436abaace64b0ab4ec07">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_cc4d695fe1904a8082ec9550b5f35966">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_f53f77d7613ef6dd0cee7b08841153e6" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC3B | Serving Glover Park and Cathedral Heights | Washington DC</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">124 Captures</extent>
+          </physdesc>
+          <unitdate normal="2011/2017" type="inclusive">2011-2017</unitdate>
+        </did>
+        <odd id="aspace_b62fa73cb9f0e55482c53be36511d648">
+          <head>General</head>
+          <p>Website for ANC covering the Cathedral Heights and Glover Park neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_fb58c875ebee4a1ba75c175691b0f464">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_7b69f75d161a4d22a3b0b1cf40e73e9f">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_19b980e82f754628b6def38d821f6abc">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_e7ef523350208668b85508f314c28430" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 3C</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">112 Captures</extent>
+          </physdesc>
+          <unitdate normal="2006/2017" type="inclusive">2006-2017</unitdate>
+        </did>
+        <odd id="aspace_ef58c7b52c5175e317f09235e69586b0">
+          <head>General</head>
+          <p>Website for ANC covering the Woodley Park, McLean Gardens, Massachusetts Heights, Woodland-Normanstone Terrace, Cleveland Park, and Cathedral Heights neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_7a83ba59e70b4fd8bc23f27d04de1bea">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_7740cb7a1d5d4f3d8894845f9ef3c745">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_c2f2e637f3ac46b08d11c55e6d365ee6">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_e8950f5edcf6f019324702ec17690779" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>Home - Advisory Neighborhood Commission 3D</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">558 Captures</extent>
+          </physdesc>
+          <unitdate normal="2011/2017" type="inclusive">2011-2017</unitdate>
+        </did>
+        <odd id="aspace_562155c9b1bdd20c421ce872115db1fb">
+          <head>General</head>
+          <p>Website for ANC covering the Wesley Heights, Spring Valley, Palisades, The, Kent, Foxhall, and American University Park neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_8cb3c51676754704a7daa874586fa180">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_93c933607a614a5abf3134872f5f06b5">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_33aca9455f614cbea88cf2c85d73219f">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_0987ab7583fb74eb0c54699ce6b9b341" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC3E</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">238 Captures</extent>
+          </physdesc>
+          <unitdate normal="2017/2017">2017</unitdate>
+        </did>
+        <odd id="aspace_96aa2134d88f5cd34b8431c129e927f7">
+          <head>General</head>
+          <p>Website for ANC covering the Friendship Heights, Tenleytown, and American University Park neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_b9cc9355c37046e7b52bf831d545b22d">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_2dec7f3097f641ea9fb1c28f05b7cfcc">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_efa1391137ca47a090b640e9ca783693">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_5150d3e0706da06ba4ce0542fd2c28d5" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 3F</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">114 Captures</extent>
+          </physdesc>
+          <unitdate normal="2015/2017" type="inclusive">2015-2017</unitdate>
+        </did>
+        <odd id="aspace_f55594de45453166f585888daef8e260">
+          <head>General</head>
+          <p>Website for ANC covering the Forest Hills, Wakefield, and North Cleveland Park neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_7a75a9cddb984bff9d090d3cd40ba95b">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_fe3f9875487f49499266cb79f941a3d0">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_01d77fa7cd0f4f9487751a5e339a57fb">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_3f3a6f7c8376d3cd8ca4e4291c5c76bb" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>Advisory Neighborhood Commission</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">94 Captures</extent>
+          </physdesc>
+          <unitdate normal="2005/2017" type="inclusive">2005-2017</unitdate>
+        </did>
+        <odd id="aspace_e345ea51300abb682e752344cff463ac">
+          <head>General</head>
+          <p>Website for ANC covering the Chevy Chase neighborhood of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_93fb6ee751664c1388d5682489d9d8ce">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_6f3af62623e94a6596a4a1629e1d3d0b">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_4bfb002db7234e31805a981cdbf9fba9">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_4fbb407b6caf392ab1482fab1729b6b5" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 4A Home</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">93 Captures</extent>
+          </physdesc>
+          <unitdate normal="2011/2017" type="inclusive">2011-2017</unitdate>
+        </did>
+        <odd id="aspace_ce42e715fd29e8e7757d96b97968a680">
+          <head>General</head>
+          <p>Website for ANC covering the Shepherd Park, Brightwood, 16th Street Heights, Crestwood, and Colonial Village neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_ed172d17e24c45cfbf0f9ce4324f545e">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_209fd05c55de4439987f10d72f44459d">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_6e59860046ae46ce80ea20219daedd99">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_5d8a3f8b9c468fd734aa675757ba8384" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 4B</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">66 Captures</extent>
+          </physdesc>
+          <unitdate normal="2006/2017" type="inclusive">2006-2017</unitdate>
+        </did>
+        <odd id="aspace_6793ef905750a7452b918d2859b8c072">
+          <head>General</head>
+          <p>Website for ANC covering the Takoma Park, Riggs Park, Manor Park, Lamond Riggs, and Brightwood neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_fbb445dcc6f943d69ff9900b89e02bf8">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_f4353f50bd3344c885687dfaec1b5f99">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_88af21fdd4724b1eb4c0a6fd1858e229">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_c2ec86a832863d1481e00e03966bc7c9" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 4C</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">99 Captures</extent>
+          </physdesc>
+          <unitdate normal="2015/2017" type="inclusive">2015-2017</unitdate>
+        </did>
+        <odd id="aspace_b7ab12ec9c8cba3a878c98d4864fb799">
+          <head>General</head>
+          <p>Website for ANC covering the 16th Street Heights, Petworth, and Columbia Heights neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_09450be617e94c38aaa69019f8e2ba15">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_f083df9405084ddab08bfbf5a07018f6">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_e4f5d5282c834375a26f7cc939e1304a">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_934a7d6b8a4ff5d69a646df4741768a9" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 4D</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">58 Captures</extent>
+          </physdesc>
+          <unitdate normal="2015/2017" type="inclusive">2015-2017</unitdate>
+        </did>
+        <odd id="aspace_7fcfe84601770aa2f32df5ffb7b55e17">
+          <head>General</head>
+          <p>Website for ANC covering the Petworth and Brightwood neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_248e260e79e4483fb7d02fe34fd0a677">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_dff3de8929374cba9b1e104711c692fd">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_0f5356690544456f8c60d6fe0ca9899e">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_6ca20e99b5eabcae1416934327756b42" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 5A</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">95 Captures</extent>
+          </physdesc>
+          <unitdate normal="2010/2017" type="inclusive">2010-2017</unitdate>
+        </did>
+        <odd id="aspace_b3c42370f5864202e0b7201c5f03a465">
+          <head>General</head>
+          <p>Website for ANC covering the Woodridge, Queens Chapel, North Michigan Park, Michigan Park, Lamond Riggs, and Fort Lincoln neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_16443cc76cd34150912d206bb544b928">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_79070870fd6e4710ac23345b8c7fc041">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_0fe8ba969aea46e2971e11f2c9d663fd">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_78076858ead141934fdb58ef5c066691" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 5B Home</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">34 Captures</extent>
+          </physdesc>
+          <unitdate normal="2015/2016" type="inclusive">2015-2016</unitdate>
+        </did>
+        <odd id="aspace_e96e7cae44306c0b1a4a01251e645ab6">
+          <head>General</head>
+          <p>Website for ANC covering the Brookland, Michigan Park, North Michigan Park, Queens Chapel, and Woodridge neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_4181afa75e9341969beacf12f786a0d2">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_4773a1be0ff244339c893b2e1e0bacc9">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_7e76d73887bd445ca7d0c2e7e3a065dd">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_cc4550d96ebb2624cb7253e6736f1825" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 5C | Advisory Neighborhood Commission 5C</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">36 Captures</extent>
+          </physdesc>
+          <unitdate normal="2013/2016" type="inclusive">2013-2016</unitdate>
+        </did>
+        <odd id="aspace_69b64450a566fbefb96c1ee30fcf898f">
+          <head>General</head>
+          <p>Website for ANC covering the Woodridge, Langdon, Gateway, Fort Lincoln, Brentwood, and Arboretum neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_84a08c3e5e8d4f22a03a090ef53f18a0">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_b567de4c7ee34ad89fbeb8e3b4ae0e28">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_243ea406902040cba32e9b09151fc85f">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_4a7bbb16748e5a3bb652573d9f7eb01b" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 5D | ANC 5D represents the Washington, D.C. neighborhoods of Carver-Langston, Ivy City and Trinidad.</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">57 Captures</extent>
+          </physdesc>
+          <unitdate normal="2013/2016" type="inclusive">2013-2016</unitdate>
+        </did>
+        <odd id="aspace_3f7808cfced7a8a3261ecaad9979edc6">
+          <head>General</head>
+          <p>Website for ANC covering the Ivy City, Gallaudet, Trinidad, and Carver Langston neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_2ad74caa18b54f25a6d21dc9f70cbb9a">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_81ec93f77a824c78ad4617fba0211183">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_203f181067e5498fbf43ccd14a4dadee">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_dfdcd9b252b7716fa1aba3cedab7441d" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>Advisory Neighborhood Commission 6A</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">183 Captures</extent>
+          </physdesc>
+          <unitdate normal="2016/2017" type="inclusive">2016-2017</unitdate>
+        </did>
+        <odd id="aspace_abff6b49f6c6b27e0f602bc0bdcf18b0">
+          <head>General</head>
+          <p>Website for ANC covering the Capitol Hill neighborhood of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_fad764d66a514470a72b1bc383538594">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_60f0119533a343658cf2fed0d073be40">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_6f64d2110e8c47b08bc0b52554446577">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_2c98a079fb8613aa4f308c76dcb13478" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>Advisory Neighborhood Commission 6B | Serving Capitol Hill / South East</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">138 Captures</extent>
+          </physdesc>
+          <unitdate normal="2013/2017" type="inclusive">2013-2017</unitdate>
+        </did>
+        <odd id="aspace_77f88e9fefa016d83b364ee75af5661f">
+          <head>General</head>
+          <p>Website for ANC covering the Capitol Hill neighborhood of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_73d19b6d2b694f2b882815fb67e75f13">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_95ca9b5aa19e452693a183984caa51df">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_af6675330e13451da16709d4b9f72f8e">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_0e2b5483dcdcc4c0bbea61032d7bd33d" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>Advisory Neighborhood Commission 6C</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">146 Captures</extent>
+          </physdesc>
+          <unitdate normal="2009/2017" type="inclusive">2009-2017</unitdate>
+        </did>
+        <odd id="aspace_80171ce86ea2bb559fb1e483cd205d92">
+          <head>General</head>
+          <p>Website for ANC covering the NoMa/Sursum Corda, and Near Northeast neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_937fe9067b1a45faa77747ac4044c958">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_cb76a0e8732f4ec4b7a11a816dc22c29">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_c7066a2c3a5147bf808ca67e1de65e8e">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_9faaf5f774c7c45d83a602409bd47043" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 6D</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">85 Captures</extent>
+          </physdesc>
+          <unitdate normal="2009/2017" type="inclusive">2009-2017</unitdate>
+        </did>
+        <odd id="aspace_7cd7838e5fd45e1055fed2574f801a5f">
+          <head>General</head>
+          <p>Website for ANC covering the Navy Yard neighborhood of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_91c27ac1daa844ababa9a68d97421e5f">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_2b4503a59871454ea94da72c92edbc8d">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_a805b1f9ff534c11864a44e89bf55426">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_17f420d690e0cdbcd4d55ed4a70c8cc2" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>Advisory Neighborhood Commission 6E | Proudly Representing the Neighborhoods of Mount Vernon Square, NW One, Shaw, and a wee part of Truxton Circle!</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">67 Captures</extent>
+          </physdesc>
+          <unitdate normal="2011/2016" type="inclusive">2011-2016</unitdate>
+        </did>
+        <odd id="aspace_95ef755a811a0a490d27c49561ba71dd">
+          <head>General</head>
+          <p>Website for ANC covering the Truxton Circle, Shaw, and Mount Vernon Square neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_7af0a740b47e4bcca98e3f7611ab9d4e">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_e6e9ef1ce6784e138bab7177c71d5c8a">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_21e54a17e5da418188452e81099abe8e">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_0cd69f5869495b115d76c78309b9dbfc" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 7D Home</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">27 Captures</extent>
+          </physdesc>
+          <unitdate normal="2009/2016" type="inclusive">2009-2016</unitdate>
+        </did>
+        <odd id="aspace_2921fe65e677ddfe29c757b89359948a">
+          <head>General</head>
+          <p>Website for ANC covering the River Terrace, Mayfair, Marshall Heights, Kingman Park, Kenilworth, and Eastland Gardens neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_5f5c487f6a64409abf501fdab32a78e4">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_d8f399a1fdb84e5683cec150297b2090">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_39e1146273ff46bdad1d6ce29835d07d">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_9fb07dc5e24f9c28983bea349a699bdf" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>Advisory Neighborhood Commission 7E - Home of the ANC 7E Online Community</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">35 Captures</extent>
+          </physdesc>
+          <unitdate normal="2015/2016" type="inclusive">2015-2016</unitdate>
+        </did>
+        <odd id="aspace_b898aac03e571905a987d109e5994c8b">
+          <head>General</head>
+          <p>Website for ANC covering the Marshall Heights, Capitol View, and Benning Heights neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_885c72f29a0741ca8cd4f8e48141736f">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_4ebcbb92a7984af9915c034ee15598c5">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_a9dfc818c0c045bb91c7d7a097e81bdf">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+      <c id="aspace_bc202198c8864257603f631b6749ee92" level="otherlevel" otherlevel="Web Archives">
+        <did>
+          <unittitle>ANC 8A</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">42 Captures</extent>
+          </physdesc>
+          <unitdate normal="2013/2016" type="inclusive">2013-2016</unitdate>
+        </did>
+        <odd id="aspace_7a8cb4ec62727450da69402cdb25d130">
+          <head>General</head>
+          <p>Website for ANC covering the Fairlawn and Anacostia neighborhoods of Washington, D.C.</p>
+        </odd>
+        <acqinfo id="aspace_8775c126c00d4870b1ff902172261c22">
+          <head>Acquisition of Web Archives with Archive-It</head>
+          <p>Web crawling is managed through the Internet Archive's Archive-It service. This page includes links to both DCPL's collection and the Internet Archive's public collection.</p>
+          <p>Crawling is performed periodically by DCPL.</p>
+        </acqinfo>
+        <accessrestrict id="aspace_d226bf347b6f40b38301885d2ae28c80">
+          <head>Access to WARC Files</head>
+          <p>Researchers interested in data analysis with web archives may request a WARC file. WARC files are very large and difficult to work with. Your request may take time to process, and we may be unable to deliver your request remotely. Please consult an archivist if you are interested in advanced research with web archives.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_ef7c1eaa3d5d41fdb19d593466893416">
+          <head>Web Archives from General Internet Archive Collections</head>
+          <p>This data is not held by DC Public Library, but within the Internet Archive's collections. The DC Public Library web archiving program has contributed to the Internet Archive's collections since 2016, but has no control over their acquisition processes.</p>
+        </acqinfo>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

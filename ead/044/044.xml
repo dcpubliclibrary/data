@@ -4,19 +4,24 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Adams v. Clinton Collection</titleproper>
-        <titleproper>Adams v. Clinton <num>044</num> <num>044</num></titleproper>
+        <titleproper>Adams v. Clinton <num>044</num></titleproper>
         <subtitle>An inventory of Adams v. Clinton at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:04:37 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:31:55 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -27,20 +32,25 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Adams v. Clinton Collection</unittitle>
+      <origination label="creator">
+        <persname source="local">LaRoche, George</persname>
+      </origination>
       <unitid>044</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.5 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate>
-      <langmaterial id="aspace_d3b2173bf6dcb211e5e5bee96c87947d">English</langmaterial>
       <langmaterial id="aspace_10c60bbca3bd26d9a6054c37860d98b4">English</langmaterial>
     </did>
     <bioghist id="aspace_6058e4d08da74e83f169d8d3e64c6d72">
       <head>Biographical / Historical</head>
-      <p>The Adams v. Clinton case was brought in the US District Court for D.C. seeking full voter representation in Congress, equal treatment and protection from Congress, and autonomous local self-government under the Due Process Clause of the 5th Amendment of the United States Constitution. The three judges of the DC District Court dismissed the case and in 2000 the US Supreme Court declined to review the case, affirming the lower court's ruling that denied the Citizens of the District of Columbia congressional representation.</p>
+      <p>The Adams v. Clinton case was brought in the US District Court for D.C. seeking full voter representation in Congress, equal treatment and protection from Congress, and autonomous local self-government under the Due Process Clause of the 5th Amendment of the United States Constitution.  The three judges of the D.C. District Court dismissed the case and in 2000 the US Supreme Court declined to review the case, affirming the lower court's ruling that denied the Citizens of the District of Columbia congressional representation.</p>
     </bioghist>
     <custodhist id="aspace_f208f22e5403361666b4c204a350fb3d">
       <head>Custodial History</head>
@@ -48,10 +58,14 @@
     </custodhist>
     <scopecontent id="aspace_8f1c2ae5bec130af03e6ea6591248016">
       <head>Scope and Contents</head>
-      <p>The documents include approximately one-third of the materials at the time of the donation, which are before the U.S. District Court for D.C. The collection does not contain procedural documents and related documents such as "Friends of the Court" filings nor rebuttal arguments concerning the plaintiffs' application for a 3-Judge court since the application was granted by the Court. Also included are the original complaint, motions by various defendants to dismiss, oppositions to those motions, motions for summary judgment, and affidavits by historians Kenneth R. Bowling and Howard Gillette. An annotated index to the complete set of documents prepared by Mr. LaRouche is contained in the collection. The documents are arranged chronologically with the index appearing first.</p>
+      <p>The documents include approximately one-third of the materials at the time of the donation, which are before the U.S. District Court for D.C. The collection does not contain procedural documents and related documents such as "Friends of the Court" filings nor rebuttal arguments concerning the plaintiffs' application for a 3-Judge court since the application was granted by the Court.  Also included are the original complaint, motions by various defendants to dismiss, oppositions to those motions, motions for summary judgment, and affidavits by historians Kenneth R. Bowling and Howard Gillette.  An annotated index to the complete set of documents prepared by Mr. LaRouche is contained in the collection. The documents are arranged chronologically with the index appearing first.</p>
     </scopecontent>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2002011436" source="Library of Congress Subject Headings">Politics and government</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85038556" source="Library of Congress Subject Headings">District courts</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85075742" source="Library of Congress Subject Headings">Legal documents</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85129645" source="Library of Congress Subject Headings">Suffrage</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85075742" source="Library of Congress Subject Headings">Legal documents</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_ec036c0398f4371c7b173d5ca64b83f6" level="series">
@@ -62,184 +76,184 @@
           <did>
             <unittitle>Index</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_761ba0857ece072704afbb99262c3fc4" label="mixed materials" type="Box">1</container>
-            <container id="aspace_81ecd5c217e1b450c96910497d9de03e" parent="aspace_761ba0857ece072704afbb99262c3fc4" type="Folder">1</container>
+            <container id="aspace_bcb5ae8b276eebbb94b01f7ffabc4188" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5495fc8193a09942722b97c90cf6071a" parent="aspace_bcb5ae8b276eebbb94b01f7ffabc4188" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_65ad16111985bacee78b840f0942e87b" level="file">
           <did>
             <unittitle>Complaint</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_6a5723794eb39b6a05a1bb91bf3a5e2c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1e687021e7d8cbe13d8156c49a923616" parent="aspace_6a5723794eb39b6a05a1bb91bf3a5e2c" type="Folder">2</container>
+            <container id="aspace_b55a0927a0e33f7a0d284c22ba92ea93" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1e4f5ad4d059b8e83605305c6397de13" parent="aspace_b55a0927a0e33f7a0d284c22ba92ea93" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_355376d4a7ef3481d15dd9ea15a132c7" level="file">
           <did>
             <unittitle>Plaintiff's Application for a Three-judge District Court</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_0d9648171070deb96d42bb469529fea3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_147d165bd6c599b619b3e4c8ab62d16d" parent="aspace_0d9648171070deb96d42bb469529fea3" type="Folder">3</container>
+            <container id="aspace_639441ac5f69b2105f13ee0395fb6bdf" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6927d775cb32b1fb9f14a4ece360e61e" parent="aspace_639441ac5f69b2105f13ee0395fb6bdf" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_1edc37f316c9d42035fb729829818fd3" level="file">
           <did>
             <unittitle>Motion to Dismiss</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_e660ea804ba0dbfde1e6097a861293ee" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d9e08d9ec7c667d176ba090e1d096600" parent="aspace_e660ea804ba0dbfde1e6097a861293ee" type="Folder">4</container>
+            <container id="aspace_a7806111e971a9b6cb782c85a53ce690" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cccbf1b5ffebd8875403a7d446d4ead1" parent="aspace_a7806111e971a9b6cb782c85a53ce690" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_33386602f76e55c56949ed7a8164a328" level="file">
           <did>
             <unittitle>Plaintiffs' Opposition to the Motion to Dismiss</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_cf6ca7bf1cb5fb72af6884b2378cc1fa" label="mixed materials" type="Box">1</container>
-            <container id="aspace_bdfe5c4bea1a6f8f957933cadb0eba41" parent="aspace_cf6ca7bf1cb5fb72af6884b2378cc1fa" type="Folder">5</container>
+            <container id="aspace_e0b742f617f8383b5da487a1456352dd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6cf729439c8321df83d821655fc7df22" parent="aspace_e0b742f617f8383b5da487a1456352dd" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_55642dc75ba3f42f7b29c408584cafb1" level="file">
           <did>
             <unittitle>Motion to Dismiss of Defendants Carle and Livingood</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f949f8e9b5f3aec0fa0da28f471dbcff" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f02d520f83ced5f9e0aea06189d8f25c" parent="aspace_f949f8e9b5f3aec0fa0da28f471dbcff" type="Folder">6</container>
+            <container id="aspace_67eef832c9fa1cbaef08fe69243e121a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_476c215e106ae0e79ba544a14173c311" parent="aspace_67eef832c9fa1cbaef08fe69243e121a" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_1a3c5e801305ed1a48af79ec7e8aec8a" level="file">
           <did>
             <unittitle>President's Motion to Dismiss</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_af694892df5c97a99c513a9e28f5c271" label="mixed materials" type="Box">1</container>
-            <container id="aspace_76ef4c56fcee4f43a169c93b8f7d3c68" parent="aspace_af694892df5c97a99c513a9e28f5c271" type="Folder">7</container>
+            <container id="aspace_a683313a4bd619bf43db7a24f815e6d3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_df6d8f3b0f47b941e217665ef313fbd5" parent="aspace_a683313a4bd619bf43db7a24f815e6d3" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_d56faf3dcc9d8b23b533f55f4efdd50f" level="file">
           <did>
             <unittitle>Order to Show Cause</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_eaf3217254ffef8debc9a5aec2416677" label="mixed materials" type="Box">1</container>
-            <container id="aspace_49bbd673c01ab198b760ea87ead8c34c" parent="aspace_eaf3217254ffef8debc9a5aec2416677" type="Folder">8</container>
+            <container id="aspace_a1a3292b51a8a7230676a8709b156e32" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_df2e26ba468cb7f78b7acb75336b3e71" parent="aspace_a1a3292b51a8a7230676a8709b156e32" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_7425517f78ac1332b1fb9543aff455a1" level="file">
           <did>
             <unittitle>Memorandum of Plaintiffs Showing Cause</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_e1c4c92a5cce96562242bb32d3724d92" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ce621d20e540b6630e851b5a9b3deadf" parent="aspace_e1c4c92a5cce96562242bb32d3724d92" type="Folder">9</container>
+            <container id="aspace_0f62a7fe765ae2f91ee8f1c070bca8b3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_083aead8b5406304f9aefa9db9a78b63" parent="aspace_0f62a7fe765ae2f91ee8f1c070bca8b3" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_3cf48bfa9766c3e2441930864f3fc6e0" level="file">
           <did>
             <unittitle>Plaintiffs' Opposition to the Federal Defendants' Motion to Dismiss</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_c2ff927a2477c12c60549048e1a4d5f2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b7c7c7c49a4b9980c8557a5d04d8f837" parent="aspace_c2ff927a2477c12c60549048e1a4d5f2" type="Folder">10</container>
+            <container id="aspace_3e5ad93e65199dcbf6dffb75a203c838" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_18f9c8963716ddc77ae16adb5a73bc2e" parent="aspace_3e5ad93e65199dcbf6dffb75a203c838" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_690170a19fb2c8f88ebdb455aecd372b" level="file">
           <did>
             <unittitle>Memorandum and Order</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_a63c90331bbd24e8206ddd0d7da9ddc4" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f5ae109d01e26fdea6c1b4badf627b58" parent="aspace_a63c90331bbd24e8206ddd0d7da9ddc4" type="Folder">11</container>
+            <container id="aspace_820b99045b6a8ca2ddf8ec7b0302c5fc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4b3e5dd3896fca261f25b2da5c429f5d" parent="aspace_820b99045b6a8ca2ddf8ec7b0302c5fc" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_24395474d0abfe8b0088fa2cf6c6300a" level="file">
           <did>
             <unittitle>Request for designation of a Three-judge Court</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_a73d172a35ebb7b5146ccb2697c4d7f5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0d312a7e94746451ad7344766656978d" parent="aspace_a73d172a35ebb7b5146ccb2697c4d7f5" type="Folder">12</container>
+            <container id="aspace_b3bd276723e00a9cf9304037123e8bd2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_410c55601bf6f6d5247f85474f98c115" parent="aspace_b3bd276723e00a9cf9304037123e8bd2" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_79b789e525eb0dd6aa82c52395e4ec65" level="file">
           <did>
             <unittitle>Designation of Judges to Serve on Three-judge District Court</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_1def262e35f9c31a036af71e22c0c4cf" label="mixed materials" type="Box">1</container>
-            <container id="aspace_296e29ddd8d4cae4a4ccc93bdb32e07e" parent="aspace_1def262e35f9c31a036af71e22c0c4cf" type="Folder">13</container>
+            <container id="aspace_899982bfd32e12ab30c1664aa3c04796" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_811b04a0aeabb711161638ffb2761bdf" parent="aspace_899982bfd32e12ab30c1664aa3c04796" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_21e88c8054d6dfbb023e1f09c6f4cbbf" level="file">
           <did>
             <unittitle>Plaintiffs' Motion for Summary Judgment</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_4ce1010ab10f4fc393eee67d3ae60839" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b5dd35637db3a426c8d517bc6937f206" parent="aspace_4ce1010ab10f4fc393eee67d3ae60839" type="Folder">14</container>
+            <container id="aspace_98d7d2a9e325245da06b2bcfd50e7741" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_51ce1ceb8491116ceed826bd318a1f1d" parent="aspace_98d7d2a9e325245da06b2bcfd50e7741" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_f3ad5b06ea7b165b3d05f5740977694d" level="file">
           <did>
             <unittitle>Statement in Support, Amended</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_e02e2a304c230e921dd4616cff010e90" label="mixed materials" type="Box">1</container>
-            <container id="aspace_28387e714f3966f897e02c505afe0264" parent="aspace_e02e2a304c230e921dd4616cff010e90" type="Folder">15</container>
+            <container id="aspace_d7d149b5cdd5854027284fd55d234997" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4634048153fb122e51e2cb92d3dd1ede" parent="aspace_d7d149b5cdd5854027284fd55d234997" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_954347a5a916ca0b7bc334ab6891b2f9" level="file">
           <did>
             <unittitle>Documents in Support of Summary Judgment</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_e59b3b61b5c0706568835c8bb863d2cd" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1c1367d0fcc0be85641582c32a6fde91" parent="aspace_e59b3b61b5c0706568835c8bb863d2cd" type="Folder">16</container>
+            <container id="aspace_7c4c4d5af864015898f594e0581d1736" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_911d10e49fda0640efc4717c526b43f7" parent="aspace_7c4c4d5af864015898f594e0581d1736" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_f4dd8558f83dd300f07604ca44a25ab8" level="file">
           <did>
             <unittitle>Memorandum in Support of Motion for Summary Judgment</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_77842ffa6bd460bfa529693353e3e52f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f7a5ddef4005a56a8d6a7c0f0d23e276" parent="aspace_77842ffa6bd460bfa529693353e3e52f" type="Folder">17</container>
+            <container id="aspace_5927e653d307c6a27e251e68007c8f76" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ad89b392db54546713378d1a385df6c2" parent="aspace_5927e653d307c6a27e251e68007c8f76" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_6e8fdf2a3245f1b62dfeb9d7659e6e62" level="file">
           <did>
             <unittitle>Control Board's Opposition to Plaintiffs' Motion for Summary Judgment</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_41ef6e5f1e277ffdc2624f3fb5c01219" label="mixed materials" type="Box">1</container>
-            <container id="aspace_fe4ad9c1491dd2b70652674c633f08fa" parent="aspace_41ef6e5f1e277ffdc2624f3fb5c01219" type="Folder">18</container>
+            <container id="aspace_09581d05d7f15cad68caaaf9d7d65fff" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3783a44c63a3737ddc5243e204bb08b5" parent="aspace_09581d05d7f15cad68caaaf9d7d65fff" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_4398796bf55d13cae1553f4eb63d5b31" level="file">
           <did>
             <unittitle>Defendants' Opposition to Motion for Summary Judgment</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_68c1e2bf44b2c5f9a376f4d5650ef730" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5c74bc37779ebf4c73c0c2e08cef2b9b" parent="aspace_68c1e2bf44b2c5f9a376f4d5650ef730" type="Folder">19</container>
+            <container id="aspace_81ecf4c77db752b20fd0a93e4237c45f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3648a970439049f18cb12e6c144d3699" parent="aspace_81ecf4c77db752b20fd0a93e4237c45f" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_3242cb7168b39aeda22941a13cfd02d1" level="file">
           <did>
             <unittitle>Clinton's Opposition to Motion for Summary Judgment</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_56d3861db70c7ce73c6350e87911d203" label="mixed materials" type="Box">1</container>
-            <container id="aspace_bf161a28589df42669e943a9f52c235f" parent="aspace_56d3861db70c7ce73c6350e87911d203" type="Folder">20</container>
+            <container id="aspace_f04d0dca49b38024261d75178b4b7db7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1ce410d2492ed0d393495dd85fcd7734" parent="aspace_f04d0dca49b38024261d75178b4b7db7" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_0c2ab681380f1008437a4ad416db1708" level="file">
           <did>
             <unittitle>Plaintiffs' Reply to Control Board's Opposition</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_bee89e8b4964623ea8b21c3f408b2781" label="mixed materials" type="Box">1</container>
-            <container id="aspace_98b2a9f75cfb2d403e045d16ec1e39aa" parent="aspace_bee89e8b4964623ea8b21c3f408b2781" type="Folder">21</container>
+            <container id="aspace_713d2d6fd2010e8202bb74ad83777a41" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_818b5866b31b01eab2b627ad01b6c863" parent="aspace_713d2d6fd2010e8202bb74ad83777a41" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_e4a86f93634197ae9089df12565b1a1a" level="file">
           <did>
             <unittitle>Plaintiffs' Reply to Clinton's Opposition</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_cbccff1fc2e4e416dfca27457e143bd0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_814ccf9184a36cdabad29317b9c7f86c" parent="aspace_cbccff1fc2e4e416dfca27457e143bd0" type="Folder">22</container>
+            <container id="aspace_24d1af350389d630adeabeb2091e72b5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a568e970678e64c7f06bd65ec44b3370" parent="aspace_24d1af350389d630adeabeb2091e72b5" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_2f2d36446a9359f29eea246e1e037d11" level="file">
           <did>
             <unittitle>Plaintiffs' Reply to Defendants House Officers' Opposition</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_501edd843b4f408a39f422b9d4e32c66" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0e12e499b89d18c2f3a0860a2ae6f180" parent="aspace_501edd843b4f408a39f422b9d4e32c66" type="Folder">23</container>
+            <container id="aspace_a82ffea9d8774cd04fb0137854aa52ed" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f0e504f57557b446fa74b06332dde8c8" parent="aspace_a82ffea9d8774cd04fb0137854aa52ed" type="Folder">23</container>
           </did>
         </c>
       </c>

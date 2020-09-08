@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Bachrach Photograph Collection</titleproper>
-        <titleproper>Bachrach <num>P024</num> <num>P024</num></titleproper>
+        <titleproper>Bachrach <num>P024</num></titleproper>
         <subtitle>An inventory of the Bachrach Photograph Collection at DC Public Library</subtitle>
         <author>Finding aid prepared by Mark S. Greek.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-08</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:17:19 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:56:44 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-04-22</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,31 +38,61 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Bachrach Photograph Collection</unittitle>
+      <origination label="creator">
+        <corpname rules="local" source="local">Bachrach Studios</corpname>
+      </origination>
       <unitid>P024</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">12 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">12 Boxes</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 Linear feet</extent>
       </physdesc>
       <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
-      <langmaterial id="aspace_7bde2c5148e334e8fd013b60023bef00">English</langmaterial>
       <langmaterial id="aspace_697c9a470daf41ce7ad6cb0df0b3f481">English</langmaterial>
     </did>
+    <arrangement id="aspace_c5d858f9bd9b3168bf1a71e183c23f1b">
+      <head>Arrangement</head>
+      <p>Processed at item level without series.</p>
+    </arrangement>
+    <bioghist id="aspace_ba082e38c8da62d674b8e55369e5109b">
+      <head>Biographical / Historical</head>
+      <p>The Bachrach Studio was founded in Baltimore, Maryland in 1868 by David Bachrach, Jr., who is believed to have taken the only known photograph of Abraham Lincoln at the dedication of the Gettysburg National Cemetery. The studio has photographed every United States President since President Lincoln. Mr. Bachrach sought to photograph those he considered to be important people of the time including: Charles Lindbergh, Albert Einstein, Thomas Edison, Henry Ford, Eleanor Roosevelt, and Muhammad Ali, among others. Bachrach Studios remains a family owned business as of 2020.</p>
+    </bioghist>
     <custodhist id="aspace_4c198f5931a927ad7d9ecb75c7fec093">
       <head>Custodial History</head>
       <p>There is no deed of gift. However, a letter from archivist Faye Haskins indicates that the collection was donated in June 2002 after the exhibit, Washington's Millennium Leaders – Through the Bachrach Lens, concluded.</p>
     </custodhist>
     <processinfo id="aspace_e873a8e1c48668f21a16532ac9e0b6f3">
       <head>Processing Information</head>
-      <p>After exhibition the portrait panels were accessioned into the DC Community Archives collection and placed in archival storage boxes. In 2006, sheets of buffer paper were placed between each image for added protection and the boxes were returned to the DC Community Archives for long-term storage.</p>
+      <p>After the exhibition the portrait panels were accessioned into the Library's collection and placed in archival storage boxes. In 2006, sheets of buffer paper were placed between each image for added protection and the boxes were returned to the Archives for long-term storage.</p>
     </processinfo>
     <scopecontent id="aspace_c59c9962ac081d5fdb2fff7a173278cf">
       <head>Scope and Contents</head>
-      <p>The collection consists of 156 8x10 portraits, of which only one is in black &amp; white. The images were used in an exhibit entitled Washington's Millennium Leaders – Through the Bachrach Lens, which was on display at the Martin Luther King, Jr. Memorial Library from January 24, 2002 through April 2002. During that time two images, Congresswoman Eleanor Holmes Norton and Armstrong Williams, were stolen and never recovered. Bachrach Studios was asked to replace the missing images, however the request from Ms. Haskins went unanswered. Each portrait is matted and permanently mounted between sheets of mat board. As part of the exhibit, each person's names and affiliations have been placed on each mounting. The collection is arranged alphabetically by surname, which is believed to be the exhibits original order.</p>
+      <p>The collection consists of 156 8x10 inch portraits, of which only one is in black and white. The images were used in an exhibit titled Washington's Millennium Leaders – Through the Bachrach Lens, which was on display at the Martin Luther King, Jr. Memorial Library from January 24, 2002 through April 2002. During the exhibition two images, Congresswoman Eleanor Holmes Norton and Armstrong Williams, were stolen and never recovered. Bachrach Studios was asked to replace the missing images, however the request from Ms. Haskins went unanswered. Each portrait is matted and permanently mounted between sheets of mat board. As part of the exhibit, each person's names and affiliations have been placed on each mounting. The collection is arranged alphabetically by surname, which is believed to be the exhibits original order.</p>
     </scopecontent>
+    <userestrict id="aspace_b83be5d5aa7f0e7226947fe8b4c773c0">
+      <head>Conditions Governing Use</head>
+      <p>Bachrach Studios retains all copyright to the images in this collection and patrons are NOT permitted to order photographic reproductions through the DC Public Library without written permission from the Bachrach Studios. It is the patron's responsibility to contact and obtain reproductions/permissions from Bachrach Studios.</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85046354" source="Library of Congress Subject Headings">Exhibitions</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026944" source="Library of Congress Subject Headings">Clergy</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh96010352" source="Library of Congress Subject Headings">Businesspeople</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85076491" source="lcsh">Librarians</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh88004175" source="Library of Congress Subject Headings">Civic leaders</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85104461" source="Library of Congress Subject Headings">Politicians</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85118696" source="Library of Congress Subject Headings">Scientists</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85004141" source="Library of Congress Subject Headings">Ambassadors</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85088712" source="Library of Congress Subject Headings">Museum curators</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85070788" source="Library of Congress Subject Headings">Journalists</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101610" source="Library of Congress Subject Headings">Physicians</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85140391" source="Library of Congress Subject Headings">United States--Officials and employees</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85028378" source="Library of Congress Subject Headings">College teachers</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_1477c8a51ee6dd31ea594d0527a28cb0" level="series">
@@ -62,8 +103,8 @@
           <did>
             <unittitle>Abrahams, Gary R.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c75f2a8f286274302e8b6077a07e9a0c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_fe7ac2b5817b8fd6656873ae69216d57" parent="aspace_c75f2a8f286274302e8b6077a07e9a0c" type="Folder">1</container>
+            <container id="aspace_49250540473953f0c4471cf396bfddd5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_56404bb1de2eea0409596777d021a054" parent="aspace_49250540473953f0c4471cf396bfddd5" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_211bf41d66a52a4f44a38589b6c15a4d">
             <head>Scope and Contents</head>
@@ -74,8 +115,8 @@
           <did>
             <unittitle>Allard, Bill</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ecf28b35de6cc10c13aa27e53186c5b7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_733ad4aa2bfed24f643219abd86180ef" parent="aspace_ecf28b35de6cc10c13aa27e53186c5b7" type="Folder">2</container>
+            <container id="aspace_b7ad2b211ca9c653647c2f8ec429bb5f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_28b13a1f3ec24a6fee76c2596e617661" parent="aspace_b7ad2b211ca9c653647c2f8ec429bb5f" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_4ffdb06de66dc85248d3264651fb1eaa">
             <head>Scope and Contents</head>
@@ -86,8 +127,8 @@
           <did>
             <unittitle>Allen, Doug</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_fb233a49f44f6613c6c93327a017877b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3cf5aeded25312adae931121c66545ff" parent="aspace_fb233a49f44f6613c6c93327a017877b" type="Folder">3</container>
+            <container id="aspace_b200d0082fd32c05354635113b47b62b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c23562623db778b41d9bc9183e2d03c1" parent="aspace_b200d0082fd32c05354635113b47b62b" type="Folder">3</container>
           </did>
           <scopecontent id="aspace_83e8c34abd0fb595f9ee2e92113bcdc0">
             <head>Scope and Contents</head>
@@ -98,8 +139,8 @@
           <did>
             <unittitle>Armacost, Michael</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_a4cfcfef2b1d38f97d06ed555cff4575" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f9b3696b3e074cf6b414ed542ecd57ec" parent="aspace_a4cfcfef2b1d38f97d06ed555cff4575" type="Folder">4</container>
+            <container id="aspace_7cb8908f56c7ddbf2101b0d2c974e7cd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b94b1cc89528fd64816ca83ca4610f35" parent="aspace_7cb8908f56c7ddbf2101b0d2c974e7cd" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_d938783c196e8d5439a9d85f3cc21033">
             <head>Scope and Contents</head>
@@ -110,8 +151,8 @@
           <did>
             <unittitle>Armstrong, Alexandra</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_b2b60c4ff1a4b790808f9ae03bc1765a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b0b205a520fecea8ae5c9687b37af2d6" parent="aspace_b2b60c4ff1a4b790808f9ae03bc1765a" type="Folder">5</container>
+            <container id="aspace_090e50c4f54aba1c48a6d2a81debd5a3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c32fb7e65bf3f5d87a257d413a3267f1" parent="aspace_090e50c4f54aba1c48a6d2a81debd5a3" type="Folder">5</container>
           </did>
           <scopecontent id="aspace_7cb0f0a1f0ac41c0f42666e554017ac8">
             <head>Scope and Contents</head>
@@ -122,8 +163,8 @@
           <did>
             <unittitle>Asim, Waheed</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_fdaef5f722c87c3cb05171188f92feb0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1e561bbf0307a087550bc14a2028c012" parent="aspace_fdaef5f722c87c3cb05171188f92feb0" type="Folder">6</container>
+            <container id="aspace_459eae61fa7c92fca647e78b605d9e92" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_336c838e126889e49869e8dbd9189281" parent="aspace_459eae61fa7c92fca647e78b605d9e92" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_7c94e2b52cc4cbdfa99554394b439f3b">
             <head>Scope and Contents</head>
@@ -134,8 +175,8 @@
           <did>
             <unittitle>Barthello, Andrea and Bill Ritche</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_b014c24d293c1fc23d79f1522ccdbf58" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b6c5f67ce7265b46f7c941954cf9432c" parent="aspace_b014c24d293c1fc23d79f1522ccdbf58" type="Folder">7</container>
+            <container id="aspace_2486a9a9274c653a404a9c881e735ef6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_abf7bdcfb7b49c95c99ee2f6eb5fb4ff" parent="aspace_2486a9a9274c653a404a9c881e735ef6" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_f460ee51104c7a74296b0d38daf8b146">
             <head>Scope and Contents</head>
@@ -146,8 +187,8 @@
           <did>
             <unittitle>Bell, T. David</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_02aa0810743fce29e9e6db63653fea87" label="mixed materials" type="Box">1</container>
-            <container id="aspace_54e6189d36d0e1626185d4caa00019e2" parent="aspace_02aa0810743fce29e9e6db63653fea87" type="Folder">8</container>
+            <container id="aspace_16ef6caf5e5293d342b8d5f0f078b842" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3a383c5a5840a034a7a3452f66f064eb" parent="aspace_16ef6caf5e5293d342b8d5f0f078b842" type="Folder">8</container>
           </did>
           <scopecontent id="aspace_4174d1d80b62330fe9eb6b750a37d061">
             <head>Scope and Contents</head>
@@ -158,8 +199,8 @@
           <did>
             <unittitle>Belser, Burkey</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_1609f936fcfe196b78af003633ae3a01" label="mixed materials" type="Box">1</container>
-            <container id="aspace_6297902188bb66015595ef2b92c72c4f" parent="aspace_1609f936fcfe196b78af003633ae3a01" type="Folder">9</container>
+            <container id="aspace_fb240e625a8f6f22b8349383d5a72949" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5a8931ee2eb184b1d982d905b06e7314" parent="aspace_fb240e625a8f6f22b8349383d5a72949" type="Folder">9</container>
           </did>
           <scopecontent id="aspace_2c592758053cbad29c021b8261eca45a">
             <head>Scope and Contents</head>
@@ -170,8 +211,8 @@
           <did>
             <unittitle>Bersoff, Dr. Edward H.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ac42894ebeb97470416a74d3ee4ca553" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a353f602ae6b94dd434489f916e48947" parent="aspace_ac42894ebeb97470416a74d3ee4ca553" type="Folder">10</container>
+            <container id="aspace_3ee9f310733da271304714e6f8701ff9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0388981c3289d10ef21657e307be72ed" parent="aspace_3ee9f310733da271304714e6f8701ff9" type="Folder">10</container>
           </did>
           <scopecontent id="aspace_bb2e013b50a469864047b53e38728957">
             <head>Scope and Contents</head>
@@ -182,8 +223,8 @@
           <did>
             <unittitle>Bilski, Nanine</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_0d1c3a323b9197a63c4e1f5a9e1d0b89" label="mixed materials" type="Box">1</container>
-            <container id="aspace_09c7d6a7cc056a8f5bfe054379f09050" parent="aspace_0d1c3a323b9197a63c4e1f5a9e1d0b89" type="Folder">11</container>
+            <container id="aspace_1451520ac68e971d5de215b75d18c8e6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3fafe4c094548f9ae593b3f73523f2ca" parent="aspace_1451520ac68e971d5de215b75d18c8e6" type="Folder">11</container>
           </did>
           <scopecontent id="aspace_d97ff96c7833cf6cb225b987962e97a3">
             <head>Scope and Contents</head>
@@ -194,8 +235,8 @@
           <did>
             <unittitle>Bloom, John</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_a7185e7306ae79a3fe68671e49091035" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9c090e77366b8616f99d28594dcac1cf" parent="aspace_a7185e7306ae79a3fe68671e49091035" type="Folder">12</container>
+            <container id="aspace_2916b64991018a34e2c98791abd11a31" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f9dad20eac6169071434feba321d3dd1" parent="aspace_2916b64991018a34e2c98791abd11a31" type="Folder">12</container>
           </did>
           <scopecontent id="aspace_6dcf33a7cd97ca82a1fe8fd4c773d39c">
             <head>Scope and Contents</head>
@@ -206,8 +247,8 @@
           <did>
             <unittitle>Bohan, Gloria</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ac18cc28792195dc4c3aa95fbced39f9" label="mixed materials" type="Box">1</container>
-            <container id="aspace_22be927a638d346a335b1fde17616bd9" parent="aspace_ac18cc28792195dc4c3aa95fbced39f9" type="Folder">13</container>
+            <container id="aspace_26c30c2be0a754650c5dd17043a20f45" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_eece2bf402b2386474f6cd1f229606ef" parent="aspace_26c30c2be0a754650c5dd17043a20f45" type="Folder">13</container>
           </did>
           <scopecontent id="aspace_034cbda27ea31368e7e0ba868fcef186">
             <head>Scope and Contents</head>
@@ -218,8 +259,8 @@
           <did>
             <unittitle>Bonsack, Deborah</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_7ef654d983d896e6079fb710389b0d5e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_25c573a77998d1a57327592785c906a5" parent="aspace_7ef654d983d896e6079fb710389b0d5e" type="Folder">14</container>
+            <container id="aspace_85eaf13f65121c7cefe4649a81f45386" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5c58ac3f077e578b84a8ea3ef2c3d88d" parent="aspace_85eaf13f65121c7cefe4649a81f45386" type="Folder">14</container>
           </did>
           <scopecontent id="aspace_57b675ad1f2e6e74700a6d56b7e69fb1">
             <head>Scope and Contents</head>
@@ -230,8 +271,8 @@
           <did>
             <unittitle>Broun, Elizabeth</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e497d3dae02689e6d8a95c17d7d5d77e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0a9df947b17446433922c257b7c5f022" parent="aspace_e497d3dae02689e6d8a95c17d7d5d77e" type="Folder">15</container>
+            <container id="aspace_18c472e17abd09b2b0b26516162aa4bb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e701bb3ba717656750fc7751532c0a14" parent="aspace_18c472e17abd09b2b0b26516162aa4bb" type="Folder">15</container>
           </did>
           <scopecontent id="aspace_788bb0e7fdcae43d261ff44597d285ce">
             <head>Scope and Contents</head>
@@ -242,8 +283,8 @@
           <did>
             <unittitle>Brown, J. Carter</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_a357f1ad402d45a7b32ac568d67d9396" label="mixed materials" type="Box">2</container>
-            <container id="aspace_55008c1125c8579d8aaf948e38f122ee" parent="aspace_a357f1ad402d45a7b32ac568d67d9396" type="Folder">1</container>
+            <container id="aspace_79d872b1d64ef91706ae0b701e0dce74" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e9b315f4a4dead55c508cedfa0ba2da9" parent="aspace_79d872b1d64ef91706ae0b701e0dce74" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_dad69f4ca9e262d9df44cc94265c60a2">
             <head>Scope and Contents</head>
@@ -254,8 +295,8 @@
           <did>
             <unittitle>Buchanan, Patrick J.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_a998ff7f1a2e7600637600fc7c8ffde0" label="mixed materials" type="Box">2</container>
-            <container id="aspace_2d29b5351afa8b52590b375ceaafe17f" parent="aspace_a998ff7f1a2e7600637600fc7c8ffde0" type="Folder">2</container>
+            <container id="aspace_36604d5a24b339670389fd8dc68a6194" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6fbd0233b5b95451d89d649cab844a4a" parent="aspace_36604d5a24b339670389fd8dc68a6194" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_70a751a8aaa45179a725b43be0cbbb64">
             <head>Scope and Contents</head>
@@ -266,8 +307,8 @@
           <did>
             <unittitle>Burson, Bunny Cornell</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_630b812db2f19e60a2f45db7c945e6b5" label="mixed materials" type="Box">2</container>
-            <container id="aspace_b338ecdc43effb0470b6051f78080ccf" parent="aspace_630b812db2f19e60a2f45db7c945e6b5" type="Folder">3</container>
+            <container id="aspace_4252107a6b4bb39c4dd612dcdd9c589b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ef47603681cd4d8874433cf82689df5a" parent="aspace_4252107a6b4bb39c4dd612dcdd9c589b" type="Folder">3</container>
           </did>
           <scopecontent id="aspace_7334699812e591abcaec6c1b236e58f0">
             <head>Scope and Contents</head>
@@ -278,8 +319,8 @@
           <did>
             <unittitle>Carr, Carolyn K.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_1d64ad7f090ae335ade78da380dce6a1" label="mixed materials" type="Box">2</container>
-            <container id="aspace_8c92fe9673c9f4b5d4ef90147ea21488" parent="aspace_1d64ad7f090ae335ade78da380dce6a1" type="Folder">4</container>
+            <container id="aspace_0ab81f94c29cba824fd18dcecf143b61" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8225c3ad289d5742d909dda4ff2f52c4" parent="aspace_0ab81f94c29cba824fd18dcecf143b61" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_34b75a6625b7e15c93e6e7d82326a747">
             <head>Scope and Contents</head>
@@ -290,8 +331,8 @@
           <did>
             <unittitle>Carr, Kathleen Walsh</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_0e929002424bab5486dafb19ca5e162c" label="mixed materials" type="Box">2</container>
-            <container id="aspace_1dc124354a5d4089b6f8fdf34983ceab" parent="aspace_0e929002424bab5486dafb19ca5e162c" type="Folder">5</container>
+            <container id="aspace_ed521e9a66a0ee2d207b34116c4a560a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ab905180c8d3da40ab08734c497a6fe2" parent="aspace_ed521e9a66a0ee2d207b34116c4a560a" type="Folder">5</container>
           </did>
           <scopecontent id="aspace_de91d3fc711d251d037c9132d6fa274f">
             <head>Scope and Contents</head>
@@ -302,8 +343,8 @@
           <did>
             <unittitle>Casey, Mrs. Eugene B.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_d2e4865bdff02b0f2d4e998ccbae2b3c" label="mixed materials" type="Box">2</container>
-            <container id="aspace_7de159732100c42891a5d822cd5d8acf" parent="aspace_d2e4865bdff02b0f2d4e998ccbae2b3c" type="Folder">6</container>
+            <container id="aspace_fe489f67c6e9dc7f7cdc5f065cadb789" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_968dc187253d70f19046c7f3a6c3b433" parent="aspace_fe489f67c6e9dc7f7cdc5f065cadb789" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_315d5c6e620d0537e54a99dc8dd8c2b4">
             <head>Scope and Contents</head>
@@ -314,8 +355,8 @@
           <did>
             <unittitle>Causey, Mike</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_2b1a7047c3efda5f61641f722120ec65" label="mixed materials" type="Box">2</container>
-            <container id="aspace_c820e08cf3c2b1aabe937c7af23cba11" parent="aspace_2b1a7047c3efda5f61641f722120ec65" type="Folder">7</container>
+            <container id="aspace_64e7a216c41f18ef5e1716b08b551683" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_02735ad120e6e22853efdf8768d9ad41" parent="aspace_64e7a216c41f18ef5e1716b08b551683" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_0d23cc7f03f3e660d6c1a6f5904162c1">
             <head>Scope and Contents</head>
@@ -326,8 +367,8 @@
           <did>
             <unittitle>Chandoff, Bruce</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_5f3cb73cbc0602aaf3f1c559a6b11624" label="mixed materials" type="Box">2</container>
-            <container id="aspace_b5bb6c06767d1c2f08e2827a97b2c81c" parent="aspace_5f3cb73cbc0602aaf3f1c559a6b11624" type="Folder">8</container>
+            <container id="aspace_49074ed57627cbb80b0288531d33d0f7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_16e452fc7a48937c141eb374fec7b7d0" parent="aspace_49074ed57627cbb80b0288531d33d0f7" type="Folder">8</container>
           </did>
           <scopecontent id="aspace_5ff26e02bdddc705ec24350bebc14dcc">
             <head>Scope and Contents</head>
@@ -338,8 +379,8 @@
           <did>
             <unittitle>Chao, Elaine L.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_17375f2654003d59f77a5c4dfafdb6c8" label="mixed materials" type="Box">2</container>
-            <container id="aspace_52db6ce47e8fff64afe1f3c3dead8352" parent="aspace_17375f2654003d59f77a5c4dfafdb6c8" type="Folder">9</container>
+            <container id="aspace_1d713c342c592ee611519e20ddd35312" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_19133a60258369bd0b1a9f4d7d697055" parent="aspace_1d713c342c592ee611519e20ddd35312" type="Folder">9</container>
           </did>
           <scopecontent id="aspace_833ad16c553fad8bbc485694c6ac2602">
             <head>Scope and Contents</head>
@@ -350,8 +391,8 @@
           <did>
             <unittitle>Clark, Kathy</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_cba8c69598018e4aa463daed18ceafc5" label="mixed materials" type="Box">2</container>
-            <container id="aspace_95759a0bd8b0ac043a4ef8dad81f4396" parent="aspace_cba8c69598018e4aa463daed18ceafc5" type="Folder">10</container>
+            <container id="aspace_6755903834d7b62444e4d351a4d35a1b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_38170a676092c587f841d0094b18fc21" parent="aspace_6755903834d7b62444e4d351a4d35a1b" type="Folder">10</container>
           </did>
           <scopecontent id="aspace_b532033a302956f6be6e603fb37bc6ba">
             <head>Scope and Contents</head>
@@ -362,8 +403,8 @@
           <did>
             <unittitle>Clift, Eleanor</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_4711e46bd7e5bb3a1601f573f22a8b26" label="mixed materials" type="Box">2</container>
-            <container id="aspace_ff9ada26cb4d5c5598485ca02a8a779f" parent="aspace_4711e46bd7e5bb3a1601f573f22a8b26" type="Folder">11</container>
+            <container id="aspace_67b08fb15650cf178679c500f66926e1" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f15f0fc2782667431b8813d14f7fe51d" parent="aspace_67b08fb15650cf178679c500f66926e1" type="Folder">11</container>
           </did>
           <scopecontent id="aspace_18c38b82aad36124919fb6dc4a104d1d">
             <head>Scope and Contents</head>
@@ -374,8 +415,8 @@
           <did>
             <unittitle>Collins, William L., III</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_d8dc3fa9e786ceb9a18625331900c3fa" label="mixed materials" type="Box">2</container>
-            <container id="aspace_8dc43c9021e8f51f8deade9d3358c8c0" parent="aspace_d8dc3fa9e786ceb9a18625331900c3fa" type="Folder">12</container>
+            <container id="aspace_d389f0db3190095ba2d9dcc8b212e7d2" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_72a150de2712723c5846ede66b06cd6d" parent="aspace_d389f0db3190095ba2d9dcc8b212e7d2" type="Folder">12</container>
           </did>
           <scopecontent id="aspace_394fac9e0fb750a200c6fdccef2a9c5c">
             <head>Scope and Contents</head>
@@ -386,8 +427,8 @@
           <did>
             <unittitle>Combest, Larry</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_75f67968eebaac8fe99f6847c0c19e61" label="mixed materials" type="Box">2</container>
-            <container id="aspace_869e26349bb90613f33b1125c052929e" parent="aspace_75f67968eebaac8fe99f6847c0c19e61" type="Folder">13</container>
+            <container id="aspace_a4730444700859224281a597130dfa84" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_08a39eb83b72ad3216ad28111a74c8c2" parent="aspace_a4730444700859224281a597130dfa84" type="Folder">13</container>
           </did>
           <scopecontent id="aspace_2aa499da27ef5520278683a512c06e11">
             <head>Scope and Contents</head>
@@ -398,8 +439,8 @@
           <did>
             <unittitle>Coughlin, Timothy C.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_0b1df7c39d84bb9f2e7a2984771c0e13" label="mixed materials" type="Box">2</container>
-            <container id="aspace_6ab12abaa0ad68b09c4c1a7db4bc09f6" parent="aspace_0b1df7c39d84bb9f2e7a2984771c0e13" type="Folder">14</container>
+            <container id="aspace_54f1bd4bc190d52bbd0d50cf923abcaa" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7a22894d4d55e0f6f8445d7b20d9540c" parent="aspace_54f1bd4bc190d52bbd0d50cf923abcaa" type="Folder">14</container>
           </did>
           <scopecontent id="aspace_f101501fe570f0382978e2328af387f6">
             <head>Scope and Contents</head>
@@ -410,8 +451,8 @@
           <did>
             <unittitle>Cropp, Linda W.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_8ba4cc5d8f8a2c8b4db14d80a30cbe3d" label="mixed materials" type="Box">2</container>
-            <container id="aspace_3d1288756b3977e28d7672e237f2dc53" parent="aspace_8ba4cc5d8f8a2c8b4db14d80a30cbe3d" type="Folder">15</container>
+            <container id="aspace_ad9ed8ad4515c27e15db04d3494b3ff8" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_70371603c0c04cb8e3441559da540b8e" parent="aspace_ad9ed8ad4515c27e15db04d3494b3ff8" type="Folder">15</container>
           </did>
           <scopecontent id="aspace_61457843ac5a466cea8445e2b6fc9e6c">
             <head>Scope and Contents</head>
@@ -422,8 +463,8 @@
           <did>
             <unittitle>Curley, Thomas</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_4e192c7bd4eb08668ac1626eb7259d4c" label="mixed materials" type="Box">3</container>
-            <container id="aspace_a6274a41c430607e1f8d9e9042f48300" parent="aspace_4e192c7bd4eb08668ac1626eb7259d4c" type="Folder">1</container>
+            <container id="aspace_c7945c20048d51c55d00956c8dbf37ed" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_00a135f4b2e770118ed4fcdb574f69fe" parent="aspace_c7945c20048d51c55d00956c8dbf37ed" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_7613c73e8d36e068f54a217580f92a46">
             <head>Scope and Contents</head>
@@ -434,8 +475,8 @@
           <did>
             <unittitle>Cutlet, Walter</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ffe0111fe4d83d4d9f5981ed015b09f1" label="mixed materials" type="Box">3</container>
-            <container id="aspace_0a63bdb14a6a1063a78d4367ce8c60de" parent="aspace_ffe0111fe4d83d4d9f5981ed015b09f1" type="Folder">2</container>
+            <container id="aspace_e5b01fee4403108456869cf1fa432ca8" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f785598b8e0a8b981f6b18bd177f7d3a" parent="aspace_e5b01fee4403108456869cf1fa432ca8" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_59ec627ec94e109e60de29f9295c7b0c">
             <head>Scope and Contents</head>
@@ -446,8 +487,8 @@
           <did>
             <unittitle>Daly, Leo A.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_977344284b59430a1b07d946e877eccf" label="mixed materials" type="Box">3</container>
-            <container id="aspace_e823dfa09116f1a6d1d6b6d7cd2a7f32" parent="aspace_977344284b59430a1b07d946e877eccf" type="Folder">3</container>
+            <container id="aspace_29034633c3d2fbb263b7f9b32031f332" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_e6cf507b4ecbdcbf2048f044c4bd3aef" parent="aspace_29034633c3d2fbb263b7f9b32031f332" type="Folder">3</container>
           </did>
           <scopecontent id="aspace_476d238a28693a2d84546bc8cf825964">
             <head>Scope and Contents</head>
@@ -458,8 +499,8 @@
           <did>
             <unittitle>Darenblum, Jamie</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ac4c4c098b4b5ba488becfae85fed978" label="mixed materials" type="Box">3</container>
-            <container id="aspace_4333c6cf51f08b6fa7ffbf97868cf94a" parent="aspace_ac4c4c098b4b5ba488becfae85fed978" type="Folder">4</container>
+            <container id="aspace_3bf65d92a265a85df31ffb9c5a8f2ea2" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b79231d40e01c0679a10646c74e62ab3" parent="aspace_3bf65d92a265a85df31ffb9c5a8f2ea2" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_bec6ef9c9a922aaf2d525e30988bc0b3">
             <head>Scope and Contents</head>
@@ -470,8 +511,8 @@
           <did>
             <unittitle>Dean, Arthur</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c9e23e8e10ae448a95a8e96c0d91bbd9" label="mixed materials" type="Box">3</container>
-            <container id="aspace_b30489d1c07b5f6fe3808be4a1d0bc3a" parent="aspace_c9e23e8e10ae448a95a8e96c0d91bbd9" type="Folder">5</container>
+            <container id="aspace_a989b77327e0933d334ebf801ff80fa0" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_8fc0683a438b1c60b64267b99cc17581" parent="aspace_a989b77327e0933d334ebf801ff80fa0" type="Folder">5</container>
           </did>
           <scopecontent id="aspace_db6f38364e079d300d98bfd7175c7aac">
             <head>Scope and Contents</head>
@@ -482,8 +523,8 @@
           <did>
             <unittitle>Denton, Jane</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_18482edf112bab1d56cc31d5ea257fc8" label="mixed materials" type="Box">3</container>
-            <container id="aspace_3f70318de4d2c015ab64727add289d43" parent="aspace_18482edf112bab1d56cc31d5ea257fc8" type="Folder">6</container>
+            <container id="aspace_1f799d7b2793b25bd3b25af7c887a56a" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f44ca08696d74426cba972c43ec0cd2f" parent="aspace_1f799d7b2793b25bd3b25af7c887a56a" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_bbf59077c6b95f41a68067b88daf930d">
             <head>Scope and Contents</head>
@@ -494,8 +535,8 @@
           <did>
             <unittitle>Derrick, John M., Jr.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e3de25e03552ad026de9d0e2a19467b7" label="mixed materials" type="Box">3</container>
-            <container id="aspace_9806ebe5d5f3fadcd6e3d23f3a6501bc" parent="aspace_e3de25e03552ad026de9d0e2a19467b7" type="Folder">7</container>
+            <container id="aspace_c15c2566f75c1e873dda485067cca7d2" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_a11fcdca79a79ca5f8d8db27417066ee" parent="aspace_c15c2566f75c1e873dda485067cca7d2" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_a81006263a8e06b6493b6b85690d5e2a">
             <head>Scope and Contents</head>
@@ -506,8 +547,8 @@
           <did>
             <unittitle>Didden George</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_852b8ea27ec0f48ef6cd16a9e38cde1c" label="mixed materials" type="Box">3</container>
-            <container id="aspace_b5ad35e79ab2ef04f8847b891b023cb1" parent="aspace_852b8ea27ec0f48ef6cd16a9e38cde1c" type="Folder">8</container>
+            <container id="aspace_560d813f62b9d67ae3bae97bd560130c" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_979212b6073c9de935651e5e82fcfbc3" parent="aspace_560d813f62b9d67ae3bae97bd560130c" type="Folder">8</container>
           </did>
           <scopecontent id="aspace_ab970bb8f5a64fdc99c29aaa1c8c5c44">
             <head>Scope and Contents</head>
@@ -518,8 +559,8 @@
           <did>
             <unittitle>Dine, Thomas A.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_f6568fd92d332dfdce698c95c9198b80" label="mixed materials" type="Box">3</container>
-            <container id="aspace_760b970352a2f7dbb96777f7c070feac" parent="aspace_f6568fd92d332dfdce698c95c9198b80" type="Folder">9</container>
+            <container id="aspace_749122c8905c2d9b0e1f659314141350" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_9c32e1e9c4f2cd15df80b37f9acc7f6d" parent="aspace_749122c8905c2d9b0e1f659314141350" type="Folder">9</container>
           </did>
           <scopecontent id="aspace_3dda1ce14511996e7c067e1ab509f8ab">
             <head>Scope and Contents</head>
@@ -530,8 +571,8 @@
           <did>
             <unittitle>Dollar, Dennis</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_3e863c2d41d2b6a0cee58da8ba7049d4" label="mixed materials" type="Box">3</container>
-            <container id="aspace_577bdce34a17bb393e77580a255d9671" parent="aspace_3e863c2d41d2b6a0cee58da8ba7049d4" type="Folder">10</container>
+            <container id="aspace_3635a776bd1358f15ead2fa80f819a03" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_6d5fd936d95f1a6ccb1f1bbbdf879624" parent="aspace_3635a776bd1358f15ead2fa80f819a03" type="Folder">10</container>
           </did>
           <scopecontent id="aspace_d4909b10014071aa2b1355d5fbcab1b8">
             <head>Scope and Contents</head>
@@ -542,8 +583,8 @@
           <did>
             <unittitle>Downs, Thomas</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_d2eec9c0fbe99f888cb49f2a9b9cfd7f" label="mixed materials" type="Box">3</container>
-            <container id="aspace_025e477e6423298e27afef01ad3c4158" parent="aspace_d2eec9c0fbe99f888cb49f2a9b9cfd7f" type="Folder">11</container>
+            <container id="aspace_21a34e9e2f64f5abb3e0423023adb942" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_6ef3aa596223ce9faf41b27c4eb2f442" parent="aspace_21a34e9e2f64f5abb3e0423023adb942" type="Folder">11</container>
           </did>
           <scopecontent id="aspace_d56632914a5b5a1bfa40da59515382d6">
             <head>Scope and Contents</head>
@@ -554,8 +595,8 @@
           <did>
             <unittitle>Driskell, David C.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_62326cff456bbebb57a560bcd5d837ef" label="mixed materials" type="Box">3</container>
-            <container id="aspace_0189208718ae0d5c3a3abafc94835d7b" parent="aspace_62326cff456bbebb57a560bcd5d837ef" type="Folder">12</container>
+            <container id="aspace_53a6a4e5c86feeb36bb1192beec1b5ed" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_109a0f0415a8ad834511efb11f31016c" parent="aspace_53a6a4e5c86feeb36bb1192beec1b5ed" type="Folder">12</container>
           </did>
           <scopecontent id="aspace_cd151aa723ce575d995c1da8e2e1266e">
             <head>Scope and Contents</head>
@@ -566,8 +607,8 @@
           <did>
             <unittitle>Drumheller, Dan</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ef68c348fa4970517b0e2f7a66d94b2a" label="mixed materials" type="Box">3</container>
-            <container id="aspace_b96ca7336c44d134e639b0da6cf6bb4c" parent="aspace_ef68c348fa4970517b0e2f7a66d94b2a" type="Folder">13</container>
+            <container id="aspace_b88f31a77578dd6710cfca679b05d580" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_ae712f68f71cce3cf702e9f1f294299f" parent="aspace_b88f31a77578dd6710cfca679b05d580" type="Folder">13</container>
           </did>
           <scopecontent id="aspace_e321600a1f5c21c4a58806303d7f50e2">
             <head>Scope and Contents</head>
@@ -578,8 +619,8 @@
           <did>
             <unittitle>Edelman, Ric</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_f797cc9e0717a46d88b6589fa7baf362" label="mixed materials" type="Box">3</container>
-            <container id="aspace_d6ee9e561173f05753e261d60815b3e6" parent="aspace_f797cc9e0717a46d88b6589fa7baf362" type="Folder">14</container>
+            <container id="aspace_a49a428ed6929664649b7a71ecef09e0" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_dbffa36c085c62bd649c8fd187523657" parent="aspace_a49a428ed6929664649b7a71ecef09e0" type="Folder">14</container>
           </did>
           <scopecontent id="aspace_7be5d3a12a389208d825fedc04896c4d">
             <head>Scope and Contents</head>
@@ -590,8 +631,8 @@
           <did>
             <unittitle>Eliasson, Jan</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_bdf68e63156cf8f2d667994ac349f9a7" label="mixed materials" type="Box">3</container>
-            <container id="aspace_b19c06a1c580fe37321dc0e11a996541" parent="aspace_bdf68e63156cf8f2d667994ac349f9a7" type="Folder">15</container>
+            <container id="aspace_54a5b6ed39d356156bdae1f97022bff9" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_6eecaf03818bdc1c722da946154b29ed" parent="aspace_54a5b6ed39d356156bdae1f97022bff9" type="Folder">15</container>
           </did>
           <scopecontent id="aspace_b331bdda483c882266f70cc60ffd2347">
             <head>Scope and Contents</head>
@@ -602,8 +643,8 @@
           <did>
             <unittitle>Faulkner, Patricia</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_a5bb693e61d519503146988c3daa8bec" label="mixed materials" type="Box">4</container>
-            <container id="aspace_a1b1db5b4613ad33c9df14375fce38e7" parent="aspace_a5bb693e61d519503146988c3daa8bec" type="Folder">1</container>
+            <container id="aspace_85290ea96acc6a49b90b981783dfedf7" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_952061e679e0f693c13641982ecefbf5" parent="aspace_85290ea96acc6a49b90b981783dfedf7" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_9c2c8263b10c44095fc00f01304b1fcf">
             <head>Scope and Contents</head>
@@ -614,8 +655,8 @@
           <did>
             <unittitle>Federspiel, Ulrik A.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_48ac4628ed408770a24d8c6dc81a619d" label="mixed materials" type="Box">4</container>
-            <container id="aspace_8f2daa721b7b6df87f574a833fb3972f" parent="aspace_48ac4628ed408770a24d8c6dc81a619d" type="Folder">2</container>
+            <container id="aspace_70566a157af014f99c592d2758c24993" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_23cc8d53ed943b733103fca6f76c39b9" parent="aspace_70566a157af014f99c592d2758c24993" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_45560a00903005082d5b8b90caaed28b">
             <head>Scope and Contents</head>
@@ -626,8 +667,8 @@
           <did>
             <unittitle>Fenn, Scott A.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_4c72c8982347a8fc0f8aff8cd60a4df5" label="mixed materials" type="Box">4</container>
-            <container id="aspace_028f87ea35f6d18d8e98769ce994ad2e" parent="aspace_4c72c8982347a8fc0f8aff8cd60a4df5" type="Folder">3</container>
+            <container id="aspace_494bd919b365ee1c49e9535511f566bd" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_d089f5a4e13ca450c1ac533c6959013a" parent="aspace_494bd919b365ee1c49e9535511f566bd" type="Folder">3</container>
           </did>
           <scopecontent id="aspace_e44d5e307e68d7ec03f65c9e3b00d370">
             <head>Scope and Contents</head>
@@ -638,8 +679,8 @@
           <did>
             <unittitle>Fernandez, Marlene</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_151264b15dfa67f21903b18c801d3906" label="mixed materials" type="Box">4</container>
-            <container id="aspace_65172af9a593211aef97b83da095f4b8" parent="aspace_151264b15dfa67f21903b18c801d3906" type="Folder">4</container>
+            <container id="aspace_de4bb06516353515101b45c74db8677f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_5bf7894d2bd4cc53807775d2fc641449" parent="aspace_de4bb06516353515101b45c74db8677f" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_55061003626cce9e08d66a1a47248217">
             <head>Scope and Contents</head>
@@ -650,8 +691,8 @@
           <did>
             <unittitle>Feulner, Edwin J.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_62e28cdd34524b0ee6707527d967483b" label="mixed materials" type="Box">4</container>
-            <container id="aspace_8f139ec5cc411e6ff72526980c11f8a8" parent="aspace_62e28cdd34524b0ee6707527d967483b" type="Folder">5</container>
+            <container id="aspace_5f9d618a3d7e5d92a30c98f02b00138f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_768381d35150ced299bc75a27c62330c" parent="aspace_5f9d618a3d7e5d92a30c98f02b00138f" type="Folder">5</container>
           </did>
           <scopecontent id="aspace_eb5ab3d7413005baf17b52076fc3172f">
             <head>Scope and Contents</head>
@@ -662,8 +703,8 @@
           <did>
             <unittitle>Floyd, Aaron B.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_736c7c1c73eda666f57d1bcbb92afeb0" label="mixed materials" type="Box">4</container>
-            <container id="aspace_744477ce35df0c98d636829073fbc69e" parent="aspace_736c7c1c73eda666f57d1bcbb92afeb0" type="Folder">6</container>
+            <container id="aspace_6411d4d4a1477b1b4b139abf501547f9" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_c5f7d25955844f83ab329aecb06cf3c4" parent="aspace_6411d4d4a1477b1b4b139abf501547f9" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_014713e265de77c08efccd2a1921439f">
             <head>Scope and Contents</head>
@@ -674,8 +715,8 @@
           <did>
             <unittitle>Fowler, Dr. Raymond D.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_d40349f18cab59aec9b1275639b16cc2" label="mixed materials" type="Box">4</container>
-            <container id="aspace_110db9cffdca6fa876fd3b01fe0ebce8" parent="aspace_d40349f18cab59aec9b1275639b16cc2" type="Folder">7</container>
+            <container id="aspace_16d1c6e01634a4b864ab4ba2942094a2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_ab23de0cda8c70f775bdd51752f8de7e" parent="aspace_16d1c6e01634a4b864ab4ba2942094a2" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_cecd07bfacc1e4b18a44f600d6bdcf9c">
             <head>Scope and Contents</head>
@@ -686,8 +727,8 @@
           <did>
             <unittitle>Fox, Jan</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_6515ea58fb4f2704fd88b1a158a1e1e4" label="mixed materials" type="Box">4</container>
-            <container id="aspace_41aa71bec2b68e5e9cec6584fe8e879e" parent="aspace_6515ea58fb4f2704fd88b1a158a1e1e4" type="Folder">8</container>
+            <container id="aspace_e5bd2ff0e78385203eca3682cb71fb10" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_4a0a9ed62306fbd6fc2decc6d5c5f70b" parent="aspace_e5bd2ff0e78385203eca3682cb71fb10" type="Folder">8</container>
           </did>
           <scopecontent id="aspace_ea90643a44f6f8dc37f3c54709b3ae76">
             <head>Scope and Contents</head>
@@ -698,8 +739,8 @@
           <did>
             <unittitle>Frank, Barney</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c88123793ed4d8bd1822af0c565853fa" label="mixed materials" type="Box">4</container>
-            <container id="aspace_6bdda676b64e3b8694232445a2d1998c" parent="aspace_c88123793ed4d8bd1822af0c565853fa" type="Folder">9</container>
+            <container id="aspace_942a7a4b11332b873695d1ff00d4d21d" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_824f729473fc95c4dc038a1cafcfa1be" parent="aspace_942a7a4b11332b873695d1ff00d4d21d" type="Folder">9</container>
           </did>
           <scopecontent id="aspace_736ec98043cc6d1b929ad089a59d7ebe">
             <head>Scope and Contents</head>
@@ -710,8 +751,8 @@
           <did>
             <unittitle>Frost, Brig. Gen. Kathryn G.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_96e0c6c5f10509c76e67d003d349ad45" label="mixed materials" type="Box">4</container>
-            <container id="aspace_23240079807f37035350d5312002c2c1" parent="aspace_96e0c6c5f10509c76e67d003d349ad45" type="Folder">10</container>
+            <container id="aspace_b71b2b085134b03f45827999e645fd69" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7bd11cf90f31881235daa3bc368fb1d0" parent="aspace_b71b2b085134b03f45827999e645fd69" type="Folder">10</container>
           </did>
           <scopecontent id="aspace_94b49580adac225f8db7198968c812f4">
             <head>Scope and Contents</head>
@@ -722,8 +763,8 @@
           <did>
             <unittitle>Frost, Martin</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_f3d028070c6ae4cbaaf7990b0afde3b9" label="mixed materials" type="Box">4</container>
-            <container id="aspace_2d0475c33c46dec2d58c87233e75780a" parent="aspace_f3d028070c6ae4cbaaf7990b0afde3b9" type="Folder">11</container>
+            <container id="aspace_8338b9f68694b263234a6f9072ffca3a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_75af4a57ed1f6ff920fe10ed39174329" parent="aspace_8338b9f68694b263234a6f9072ffca3a" type="Folder">11</container>
           </did>
           <scopecontent id="aspace_57096247825d5755ae17a9e2f783e2e1">
             <head>Scope and Contents</head>
@@ -734,8 +775,8 @@
           <did>
             <unittitle>Ginsburg, Justice Ruth Bader</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_64d3757b06453b0d705f8cf8dde8e476" label="mixed materials" type="Box">4</container>
-            <container id="aspace_ab6177f3971ce6b0966ec31fb44ed7f0" parent="aspace_64d3757b06453b0d705f8cf8dde8e476" type="Folder">12</container>
+            <container id="aspace_108ff40dee81fa843ba92f5c90c4652d" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_101b8ed7b17d5e63bd27977a2d220510" parent="aspace_108ff40dee81fa843ba92f5c90c4652d" type="Folder">12</container>
           </did>
           <scopecontent id="aspace_653ad499018f1ab16cda1b201a234778">
             <head>Scope and Contents</head>
@@ -746,8 +787,8 @@
           <did>
             <unittitle>Gomez, Douglas</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_d4caea6af5b605aaea16c351c24d3086" label="mixed materials" type="Box">4</container>
-            <container id="aspace_df7b05e52c4154e8e36b6d480050f82e" parent="aspace_d4caea6af5b605aaea16c351c24d3086" type="Folder">13</container>
+            <container id="aspace_e77b6e36f358dcdfd39f3884e4f0d3a0" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0e6adff27c1490e565bc141342125d11" parent="aspace_e77b6e36f358dcdfd39f3884e4f0d3a0" type="Folder">13</container>
           </did>
           <scopecontent id="aspace_0775524ecbadbafde9bdebcd5c9b66f6">
             <head>Scope and Contents</head>
@@ -758,8 +799,8 @@
           <did>
             <unittitle>Gretschel, Mike</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_50ca60686c1b5bf9451b9c3dd17c45bc" label="mixed materials" type="Box">4</container>
-            <container id="aspace_c9287b849060d1d41de99d3e5b02c84f" parent="aspace_50ca60686c1b5bf9451b9c3dd17c45bc" type="Folder">14</container>
+            <container id="aspace_421855b7100de86f986cd1be452abd97" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_e894144e800a7e2dd00adaca346ea417" parent="aspace_421855b7100de86f986cd1be452abd97" type="Folder">14</container>
           </did>
           <scopecontent id="aspace_e65f0332ebe6a0bb5ba54f550037f031">
             <head>Scope and Contents</head>
@@ -770,8 +811,8 @@
           <did>
             <unittitle>Gundersheimer, Werner</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_bcee280bbccf9367c0a94fe950f4648c" label="mixed materials" type="Box">4</container>
-            <container id="aspace_dd97c90a50af0bb693190721a172bc74" parent="aspace_bcee280bbccf9367c0a94fe950f4648c" type="Folder">15</container>
+            <container id="aspace_80b86d6632f70adea583e074ff54ff5d" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_17f7b88ac51aabd0a771e8525ca76ee9" parent="aspace_80b86d6632f70adea583e074ff54ff5d" type="Folder">15</container>
           </did>
           <scopecontent id="aspace_d024560ab84b9ef42ebec61c4d863889">
             <head>Scope and Contents</head>
@@ -782,8 +823,8 @@
           <did>
             <unittitle>Halpin, Jerry</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_d9484dfbc96f1862a41dfaecefb61c01" label="mixed materials" type="Box">5</container>
-            <container id="aspace_39ae4d59b0a6360e205384757398d11f" parent="aspace_d9484dfbc96f1862a41dfaecefb61c01" type="Folder">1</container>
+            <container id="aspace_24a47de33e67be59359ab330ec1c3a9d" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_60f6edab9028408b01a285d985aa430b" parent="aspace_24a47de33e67be59359ab330ec1c3a9d" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_07e90028fe8c432c6604c264abd9131e">
             <head>Scope and Contents</head>
@@ -794,8 +835,8 @@
           <did>
             <unittitle>Hammer, John</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_656aebc176148761deedeb409f2b22ef" label="mixed materials" type="Box">5</container>
-            <container id="aspace_b6c1718a9a7fd0b773c669b9710777a2" parent="aspace_656aebc176148761deedeb409f2b22ef" type="Folder">2</container>
+            <container id="aspace_d53e5c8ff0d32a5e69d224af06958d00" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_cf5036e32d88e6c6bab0d7748da0f19f" parent="aspace_d53e5c8ff0d32a5e69d224af06958d00" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_95fdea472ea6cf197225d044ee772e3c">
             <head>Scope and Contents</head>
@@ -806,8 +847,8 @@
           <did>
             <unittitle>Hannibalsson, Jon Baldwin</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_aac472f6f66467668204965f39cedbb9" label="mixed materials" type="Box">5</container>
-            <container id="aspace_1d8982b238c31942dc3e1cb2e5cfcb5c" parent="aspace_aac472f6f66467668204965f39cedbb9" type="Folder">3</container>
+            <container id="aspace_1f104c956864b68ade7c4e045aab6113" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_b4a76aa1d8ab155aacbfa632b92a90de" parent="aspace_1f104c956864b68ade7c4e045aab6113" type="Folder">3</container>
           </did>
           <scopecontent id="aspace_6329642320039f60da45f305baad1c5a">
             <head>Scope and Contents</head>
@@ -818,8 +859,8 @@
           <did>
             <unittitle>Hartzog, General William</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_fd3ba9e16fbde0688026eb7b5e9d9113" label="mixed materials" type="Box">5</container>
-            <container id="aspace_4caa4f04b9a8e7a2cffd6ec3c10714be" parent="aspace_fd3ba9e16fbde0688026eb7b5e9d9113" type="Folder">4</container>
+            <container id="aspace_11e28f0a6569897f9558a564d0a4e19e" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_2f32f5f27dbbb77b6d536dcd5938b7fe" parent="aspace_11e28f0a6569897f9558a564d0a4e19e" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_466153da6945e77a35a2169eceafc466">
             <head>Scope and Contents</head>
@@ -830,8 +871,8 @@
           <did>
             <unittitle>Heller, Roderick</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_84e61411bc8f6d13efb581aa13319336" label="mixed materials" type="Box">5</container>
-            <container id="aspace_88ad433c9d807fb7480bb18c0939e360" parent="aspace_84e61411bc8f6d13efb581aa13319336" type="Folder">5</container>
+            <container id="aspace_7981349a04d0c643afb815122388ff23" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_00af5dffb80816a71150eff0ab822dea" parent="aspace_7981349a04d0c643afb815122388ff23" type="Folder">5</container>
           </did>
           <scopecontent id="aspace_1efd10d5ce37f806728be51c54aa6e3d">
             <head>Scope and Contents</head>
@@ -842,8 +883,8 @@
           <did>
             <unittitle>Henderson, Laura</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_31c116a269619ae550d53553e99f3790" label="mixed materials" type="Box">5</container>
-            <container id="aspace_c5e23b370ba5788a3e425151bd588300" parent="aspace_31c116a269619ae550d53553e99f3790" type="Folder">6</container>
+            <container id="aspace_6b4f91b07fc8302732ba8896a57176dd" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_5d81bae6d126fe676ca6ccb841ec8c88" parent="aspace_6b4f91b07fc8302732ba8896a57176dd" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_b19310b497d69683e26bf00e09bc3be6">
             <head>Scope and Contents</head>
@@ -854,8 +895,8 @@
           <did>
             <unittitle>Hickey, Cardinal James</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ada23e8f7ccbf0b64061a84f334cb341" label="mixed materials" type="Box">5</container>
-            <container id="aspace_a8dafde197e6a1af23fb3bcfd900d276" parent="aspace_ada23e8f7ccbf0b64061a84f334cb341" type="Folder">7</container>
+            <container id="aspace_e878ea0799f2a8577fae0263b93c7775" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_3668275db5c6db1acff20abb952bc224" parent="aspace_e878ea0799f2a8577fae0263b93c7775" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_653e4024cb6c304ca9eada5f79d395cf">
             <head>Scope and Contents</head>
@@ -866,8 +907,8 @@
           <did>
             <unittitle>Hishmeh, Suhail</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_4c592560dcd622397f861f16a7d0c263" label="mixed materials" type="Box">5</container>
-            <container id="aspace_78fbb643ad7bb2b05233c0dddef1d1a8" parent="aspace_4c592560dcd622397f861f16a7d0c263" type="Folder">8</container>
+            <container id="aspace_c7343e896b4d29c68c0bcc473fd329f6" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_e38e9986515d30c8b96d5d267c318552" parent="aspace_c7343e896b4d29c68c0bcc473fd329f6" type="Folder">8</container>
           </did>
           <scopecontent id="aspace_83f19f41ebe752942c4cb61a94d782d3">
             <head>Scope and Contents</head>
@@ -878,8 +919,8 @@
           <did>
             <unittitle>Holmer, Alan</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_9bf9107eb9be69e147dac674867fe2ba" label="mixed materials" type="Box">5</container>
-            <container id="aspace_6ca957a71707af0482e4e4c547ca1df7" parent="aspace_9bf9107eb9be69e147dac674867fe2ba" type="Folder">9</container>
+            <container id="aspace_cfcbd39ab01d6250e36d70c34853bd17" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_672b3fe30c7801e7def1f255906ce139" parent="aspace_cfcbd39ab01d6250e36d70c34853bd17" type="Folder">9</container>
           </did>
           <scopecontent id="aspace_0b482d265eb02a7374a4764f28ef2645">
             <head>Scope and Contents</head>
@@ -890,8 +931,8 @@
           <did>
             <unittitle>Hurwitz, Mark</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_f3700cea9a068c15a651020dbadc7e99" label="mixed materials" type="Box">5</container>
-            <container id="aspace_648fe8942cfdbbecc4fe7bcd366ac813" parent="aspace_f3700cea9a068c15a651020dbadc7e99" type="Folder">10</container>
+            <container id="aspace_d344fc9973cdf654d0e4107861c290df" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_590092ace57440c2207baa9407b1c8eb" parent="aspace_d344fc9973cdf654d0e4107861c290df" type="Folder">10</container>
           </did>
           <scopecontent id="aspace_d86a73a9bb4b84c5c9ae2946d3359dde">
             <head>Scope and Contents</head>
@@ -902,8 +943,8 @@
           <did>
             <unittitle>Jeszenszky, Geza</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_140763f005ea3dfbcb44bc298afd29b1" label="mixed materials" type="Box">5</container>
-            <container id="aspace_6009ad5fb69953bfe7e731baf6dfa39a" parent="aspace_140763f005ea3dfbcb44bc298afd29b1" type="Folder">11</container>
+            <container id="aspace_b7718db36165a8d67168314e51a4fb43" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_f803da59a9c2e22b59c73085995de54a" parent="aspace_b7718db36165a8d67168314e51a4fb43" type="Folder">11</container>
           </did>
           <scopecontent id="aspace_73b0df73a746f1616f06a25c4b989346">
             <head>Scope and Contents</head>
@@ -914,8 +955,8 @@
           <did>
             <unittitle>Jones, Elizabeth F. "Penny"</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_01f2d9f34bc4504abaf2f5f38343fba2" label="mixed materials" type="Box">5</container>
-            <container id="aspace_2745c92cbed68581be20a98b952ae514" parent="aspace_01f2d9f34bc4504abaf2f5f38343fba2" type="Folder">12</container>
+            <container id="aspace_8139eca711459f429292553966cd4f46" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_641badaa08eaf559a09a4fea0bc097cb" parent="aspace_8139eca711459f429292553966cd4f46" type="Folder">12</container>
           </did>
           <scopecontent id="aspace_1fa46f063dba04e7c1ec891504c92705">
             <head>Scope and Contents</head>
@@ -926,8 +967,8 @@
           <did>
             <unittitle>Jones, Terrence</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_5ebc34e3ca15a6374e48a7f7a5f822cb" label="mixed materials" type="Box">5</container>
-            <container id="aspace_339ecde8ca3102d090fd3f984af1e8df" parent="aspace_5ebc34e3ca15a6374e48a7f7a5f822cb" type="Folder">13</container>
+            <container id="aspace_c95eb699000494f5ebfc047b9e5e6a38" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_664ae22c45aeb8a89905dc241c413fcb" parent="aspace_c95eb699000494f5ebfc047b9e5e6a38" type="Folder">13</container>
           </did>
           <scopecontent id="aspace_26bbbd3eaff9bffb3689bf00922fa0da">
             <head>Scope and Contents</head>
@@ -938,8 +979,8 @@
           <did>
             <unittitle>Jordan, I. King</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_494c8458a93f118d5b42f4ea5f3707e0" label="mixed materials" type="Box">5</container>
-            <container id="aspace_49735fe7bf197904149025dbed8c7fb1" parent="aspace_494c8458a93f118d5b42f4ea5f3707e0" type="Folder">14</container>
+            <container id="aspace_39eb247c0c1ac473968d3df3aac9243e" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_d5de56b2083760cb5362040c30a4797d" parent="aspace_39eb247c0c1ac473968d3df3aac9243e" type="Folder">14</container>
           </did>
           <scopecontent id="aspace_70e6240a8a8403f090953da6e55e8c5e">
             <head>Scope and Contents</head>
@@ -950,8 +991,8 @@
           <did>
             <unittitle>Kanjorski, Paul</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_5356656359f20d2b91885b503caa1509" label="mixed materials" type="Box">6</container>
-            <container id="aspace_70073dc33e717559f5b2c021a83bb805" parent="aspace_5356656359f20d2b91885b503caa1509" type="Folder">1</container>
+            <container id="aspace_545c7f6e2e839db572b00a985aeb5f62" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_284e1706941b9e17ef3144c7ca73874f" parent="aspace_545c7f6e2e839db572b00a985aeb5f62" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_a2c0f9a7826b3e11cdde7b89fba3386f">
             <head>Scope and Contents</head>
@@ -962,8 +1003,8 @@
           <did>
             <unittitle>Kaufman, Rob</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ee566d1009843b58550f6cebd332fd6b" label="mixed materials" type="Box">6</container>
-            <container id="aspace_0c21d7515cbc073fe92bf45e534529c9" parent="aspace_ee566d1009843b58550f6cebd332fd6b" type="Folder">2</container>
+            <container id="aspace_52113c9c34a9d4dc379450f64d3dc4bd" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_23de5059c2f8647633154163f03d1448" parent="aspace_52113c9c34a9d4dc379450f64d3dc4bd" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_485ce841f27780d7ac2424def8b7a7cb">
             <head>Scope and Contents</head>
@@ -974,8 +1015,8 @@
           <did>
             <unittitle>Kautt, Glenn</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_4a7e72cc2f1f237b72d9696a38bd3e3b" label="mixed materials" type="Box">6</container>
-            <container id="aspace_eb1479a6ef6f523cd278e9c9ce287fbd" parent="aspace_4a7e72cc2f1f237b72d9696a38bd3e3b" type="Folder">3</container>
+            <container id="aspace_feb155e0c5fdfcdaef18199be5a14832" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_a8cb29d44db8d1d4b75a87bca63b79fe" parent="aspace_feb155e0c5fdfcdaef18199be5a14832" type="Folder">3</container>
           </did>
           <scopecontent id="aspace_20daf40a51309ef955e97beb574f3515">
             <head>Scope and Contents</head>
@@ -986,8 +1027,8 @@
           <did>
             <unittitle>Kay, Jack</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_00ce6686df5c7f43e261da379edff5ca" label="mixed materials" type="Box">6</container>
-            <container id="aspace_d91493cf8502a02a008c1e9d81bc359f" parent="aspace_00ce6686df5c7f43e261da379edff5ca" type="Folder">4</container>
+            <container id="aspace_66e41d5554261c0538ce76a04688ea2d" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_4e55582de95e00820c16f6bc7e805b71" parent="aspace_66e41d5554261c0538ce76a04688ea2d" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_af6a70086853bfa8dc1ef91dbf4720ba">
             <head>Scope and Contents</head>
@@ -998,8 +1039,8 @@
           <did>
             <unittitle>Keehan, Sister Carol</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_fb39fa23b8af90e8dc59cc1278ff7d28" label="mixed materials" type="Box">6</container>
-            <container id="aspace_4ea198e737779ce8f767eeb9d28c7071" parent="aspace_fb39fa23b8af90e8dc59cc1278ff7d28" type="Folder">5</container>
+            <container id="aspace_aa518d209c5999a54a595727231d7fe4" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_1b781e63b714f13edb1607a815c8e4b4" parent="aspace_aa518d209c5999a54a595727231d7fe4" type="Folder">5</container>
           </did>
           <scopecontent id="aspace_0169d08a02712deef6e5284af5a77fe6">
             <head>Scope and Contents</head>
@@ -1010,8 +1051,8 @@
           <did>
             <unittitle>Kelly, James F.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_44f457aad446070a26573cf4589260ee" label="mixed materials" type="Box">6</container>
-            <container id="aspace_4de59fcaf938a5af8ab4a6a8c67cb5c8" parent="aspace_44f457aad446070a26573cf4589260ee" type="Folder">6</container>
+            <container id="aspace_f7ac1fbf9311ca935e02655f793b0876" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_024d7a02a2677735175831e97015de93" parent="aspace_f7ac1fbf9311ca935e02655f793b0876" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_0b353c8ddbcf7e8a853ebb9cef37d055">
             <head>Scope and Contents</head>
@@ -1022,8 +1063,8 @@
           <did>
             <unittitle>Kennedy, Karen Syence</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_63bdc87b9b1e9aad11b068dc74858821" label="mixed materials" type="Box">6</container>
-            <container id="aspace_d53169dbf8d691ae03f5ebbf0ca7ee63" parent="aspace_63bdc87b9b1e9aad11b068dc74858821" type="Folder">7</container>
+            <container id="aspace_f416f00f26d07561a1062c3672cd2572" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_d21a585667345ace19677b21ce58257c" parent="aspace_f416f00f26d07561a1062c3672cd2572" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_31ab804b903ff97809a369c1f708d098">
             <head>Scope and Contents</head>
@@ -1034,8 +1075,8 @@
           <did>
             <unittitle>Kiplinger, Knight</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_a737640b2992984c3c4e43c4986e41c1" label="mixed materials" type="Box">6</container>
-            <container id="aspace_0dbf30a10cd00b60f0f013eaf98612c5" parent="aspace_a737640b2992984c3c4e43c4986e41c1" type="Folder">8</container>
+            <container id="aspace_7eac62a0b92811005c9b75797b0a1811" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_819c7255d3518c734a336ec58477f2d3" parent="aspace_7eac62a0b92811005c9b75797b0a1811" type="Folder">8</container>
           </did>
           <scopecontent id="aspace_f9b45160c50cb7a2f4909cd27f505d32">
             <head>Scope and Contents</head>
@@ -1046,8 +1087,8 @@
           <did>
             <unittitle>Kirkpatrick, Jeane</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_827581b7bab24c055499e82a15895e4a" label="mixed materials" type="Box">6</container>
-            <container id="aspace_593729d2a2b91c8cbbfe77754f0cdc4d" parent="aspace_827581b7bab24c055499e82a15895e4a" type="Folder">9</container>
+            <container id="aspace_c6dab722f4132efa9860646cc945d510" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_e5fb043ee3197ecc246a829ce4c98752" parent="aspace_c6dab722f4132efa9860646cc945d510" type="Folder">9</container>
           </did>
           <scopecontent id="aspace_b2822d222649a30de9fc64c73023451b">
             <head>Scope and Contents</head>
@@ -1058,8 +1099,8 @@
           <did>
             <unittitle>Klemm, Rebecca</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_f23391a07c64c51f4914253cab344e61" label="mixed materials" type="Box">6</container>
-            <container id="aspace_a7d5dc10862b0b43c225a8d14596bd67" parent="aspace_f23391a07c64c51f4914253cab344e61" type="Folder">10</container>
+            <container id="aspace_0d0fe3aa53c40bc6538a31c55b7e92bd" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_339e5d158d9e62dcd3cc3167e3d9317f" parent="aspace_0d0fe3aa53c40bc6538a31c55b7e92bd" type="Folder">10</container>
           </did>
           <scopecontent id="aspace_67bcb3de0ce14f66f8cfc9827df8cd61">
             <head>Scope and Contents</head>
@@ -1070,8 +1111,8 @@
           <did>
             <unittitle>Kozakou-Marcoullis, Erato</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c91888e66991d7e2082eb85f6300236e" label="mixed materials" type="Box">6</container>
-            <container id="aspace_147def7619702dafbe883dd25bc6e768" parent="aspace_c91888e66991d7e2082eb85f6300236e" type="Folder">11</container>
+            <container id="aspace_58f1e62d215c614fb68db00ce08e8edc" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_441a3d06fc2477cf58c540be4e0cdf20" parent="aspace_58f1e62d215c614fb68db00ce08e8edc" type="Folder">11</container>
           </did>
           <scopecontent id="aspace_46fa020bf68ae72ca5437648516441e0">
             <head>Scope and Contents</head>
@@ -1082,8 +1123,8 @@
           <did>
             <unittitle>Krumsiek, Barbara J.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_bf7180328287f7616e52cc87b7bfb839" label="mixed materials" type="Box">6</container>
-            <container id="aspace_d159cd53966ad27c7130109ba99efb72" parent="aspace_bf7180328287f7616e52cc87b7bfb839" type="Folder">12</container>
+            <container id="aspace_bf9a2092c910c1fc0019e228acd0e451" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_1c90732a8508995c647ee67449d78b7b" parent="aspace_bf9a2092c910c1fc0019e228acd0e451" type="Folder">12</container>
           </did>
           <scopecontent id="aspace_dd0cec89dbfe1a0292d8a44fcf36f111">
             <head>Scope and Contents</head>
@@ -1094,8 +1135,8 @@
           <did>
             <unittitle>Lahat, Marla</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_571e42a2589f246cb65608d6eab906b8" label="mixed materials" type="Box">7</container>
-            <container id="aspace_ebcbf750d00064fb44350fd114f2a9a0" parent="aspace_571e42a2589f246cb65608d6eab906b8" type="Folder">1</container>
+            <container id="aspace_57285e0075fb748376a90c6855cbd6ec" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_490cdc8dbebd38a36efa90809b6d0910" parent="aspace_57285e0075fb748376a90c6855cbd6ec" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_093e20e163d6d64ec4a056445ad55c8e">
             <head>Scope and Contents</head>
@@ -1106,8 +1147,8 @@
           <did>
             <unittitle>Levy, David C.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_4a421596d6688b9e9df0166b7935b582" label="mixed materials" type="Box">7</container>
-            <container id="aspace_ff91d3363f7b2144cb7156c315572512" parent="aspace_4a421596d6688b9e9df0166b7935b582" type="Folder">2</container>
+            <container id="aspace_e2984a2eee687f06fac5925cd1f52762" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_2c58c48194b13922d1c60de3812521b3" parent="aspace_e2984a2eee687f06fac5925cd1f52762" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_16ddfa64ec7e5d6988b804a4609d1d6b">
             <head>Scope and Contents</head>
@@ -1118,8 +1159,8 @@
           <did>
             <unittitle>Lichstrahl, Howard</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_226b93a755bcab982a29f82fa5630e75" label="mixed materials" type="Box">7</container>
-            <container id="aspace_a407260d40fc925b5f4a2e4c2cf4cb3f" parent="aspace_226b93a755bcab982a29f82fa5630e75" type="Folder">3</container>
+            <container id="aspace_993e879e94f902f699ac395333648816" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_b1d046fa75af885a5449bb6005bca7f4" parent="aspace_993e879e94f902f699ac395333648816" type="Folder">3</container>
           </did>
           <scopecontent id="aspace_7500c01f487b23fd58968590c793f576">
             <head>Scope and Contents</head>
@@ -1130,8 +1171,8 @@
           <did>
             <unittitle>Ljungholm, Lars</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_8ba59cfeb3855051f8f04edf71284b10" label="mixed materials" type="Box">7</container>
-            <container id="aspace_0d4c51270b23c2e3f9ea444d835d57e1" parent="aspace_8ba59cfeb3855051f8f04edf71284b10" type="Folder">4</container>
+            <container id="aspace_c5b02e178900f13fb4015578a0761246" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_4ad45fc8ffe07f62cc20d5af9d7893a5" parent="aspace_c5b02e178900f13fb4015578a0761246" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_0a30231570d2c49997b92da65c993c5a">
             <head>Scope and Contents</head>
@@ -1142,8 +1183,8 @@
           <did>
             <unittitle>Lockhart-Boyd, Mildred</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ae937d8e087982a8d1615bf0fe4a0a48" label="mixed materials" type="Box">7</container>
-            <container id="aspace_3674601733fa79187c36351bc75b4dda" parent="aspace_ae937d8e087982a8d1615bf0fe4a0a48" type="Folder">5</container>
+            <container id="aspace_a5bc1c258792dd9b66d521b05ea6a765" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_9d233d7f001ebc6dc6beba8de4d12091" parent="aspace_a5bc1c258792dd9b66d521b05ea6a765" type="Folder">5</container>
           </did>
           <scopecontent id="aspace_080b46980ca9d04f94321d127f57de3f">
             <head>Scope and Contents</head>
@@ -1154,8 +1195,8 @@
           <did>
             <unittitle>Luce, Bryan R.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_8d36b6ce6fed49b2b9fe342e40bf6105" label="mixed materials" type="Box">7</container>
-            <container id="aspace_36ed4a9ab6ff9a6efc7d2468d9304a46" parent="aspace_8d36b6ce6fed49b2b9fe342e40bf6105" type="Folder">6</container>
+            <container id="aspace_edfa03a9b9df3ab66ddbc65250d0277d" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_858a369922e081469a78e95a66217464" parent="aspace_edfa03a9b9df3ab66ddbc65250d0277d" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_932f285901926db8a39474637167641b">
             <head>Scope and Contents</head>
@@ -1166,8 +1207,8 @@
           <did>
             <unittitle>Malbin, Susan L.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_fbee61e0481578847e327ff3ac85c0be" label="mixed materials" type="Box">7</container>
-            <container id="aspace_0e272fd5b5947fb69558fe43933d2d6f" parent="aspace_fbee61e0481578847e327ff3ac85c0be" type="Folder">7</container>
+            <container id="aspace_c248c4b9f2a0b1ff0bcdf85203bc39af" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_ec60cf6762b877346909e5d900650759" parent="aspace_c248c4b9f2a0b1ff0bcdf85203bc39af" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_bc9f9a0b599a491dc303462043f3cda6">
             <head>Scope and Contents</head>
@@ -1178,8 +1219,8 @@
           <did>
             <unittitle>Marriott, Bill</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_b55d816d1fe9bcd42cbb06a93c2fdf0d" label="mixed materials" type="Box">7</container>
-            <container id="aspace_40ce36ad4ae5439a430d4ea3b0fabb09" parent="aspace_b55d816d1fe9bcd42cbb06a93c2fdf0d" type="Folder">8</container>
+            <container id="aspace_7c17746e59b74b4c850541831e1e4997" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_e61e7405356c4a4bc5d4a1890f196729" parent="aspace_7c17746e59b74b4c850541831e1e4997" type="Folder">8</container>
           </did>
           <scopecontent id="aspace_2f652f382ee09ba8e856b7960c297737">
             <head>Scope and Contents</head>
@@ -1190,8 +1231,8 @@
           <did>
             <unittitle>Matthews, James</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_37fbbccf9116ab272727de5cd67eb5ac" label="mixed materials" type="Box">7</container>
-            <container id="aspace_f7b0e2ceaaa70ad09945f99fa4debf8c" parent="aspace_37fbbccf9116ab272727de5cd67eb5ac" type="Folder">9</container>
+            <container id="aspace_2a1dc19eaf053b55206f14f91844fa7d" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_fba93819c797c9dedf0b0440d60d340a" parent="aspace_2a1dc19eaf053b55206f14f91844fa7d" type="Folder">9</container>
           </did>
           <scopecontent id="aspace_c909942d780934bb0e82cc83662d5484">
             <head>Scope and Contents</head>
@@ -1202,8 +1243,8 @@
           <did>
             <unittitle>McCorkindale, Douglas</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_f056c1244e0e5ccfbf00c7a46d09ea3b" label="mixed materials" type="Box">7</container>
-            <container id="aspace_46ff436b64f06d22cf455630f2d67ee6" parent="aspace_f056c1244e0e5ccfbf00c7a46d09ea3b" type="Folder">10</container>
+            <container id="aspace_2898a408105b3fa0a8fb87f0a8a44d9d" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_bae263b58d686e38d30e8f6d17d0f6c9" parent="aspace_2898a408105b3fa0a8fb87f0a8a44d9d" type="Folder">10</container>
           </did>
           <scopecontent id="aspace_c4355ffd4f7645b4f1636e66f8727c5c">
             <head>Scope and Contents</head>
@@ -1214,8 +1255,8 @@
           <did>
             <unittitle>McCracken, Ursula</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_fbf4b45a659d2adfe520bae6a54d4fe9" label="mixed materials" type="Box">7</container>
-            <container id="aspace_baa86d42436d741ed83598eda0df0493" parent="aspace_fbf4b45a659d2adfe520bae6a54d4fe9" type="Folder">11</container>
+            <container id="aspace_475fb1930a74b7e0dece8d5df950727a" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_a72f3ddc35143f6f919a26d0593ff017" parent="aspace_475fb1930a74b7e0dece8d5df950727a" type="Folder">11</container>
           </did>
           <scopecontent id="aspace_2080d1b8da4155a5bd96cc1af136fd53">
             <head>Scope and Contents</head>
@@ -1226,8 +1267,8 @@
           <did>
             <unittitle>McEnearney, John</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e91c8c72beb4087cb0a8d6f8f1707500" label="mixed materials" type="Box">7</container>
-            <container id="aspace_462fc474e6114c76e15697e9bcd115fd" parent="aspace_e91c8c72beb4087cb0a8d6f8f1707500" type="Folder">12</container>
+            <container id="aspace_822e7a142a89b750a83385988ded7195" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_d4a278652cc2a914982dfc7859ccf20c" parent="aspace_822e7a142a89b750a83385988ded7195" type="Folder">12</container>
           </did>
           <scopecontent id="aspace_b6b5a43e833951ea32381f8295f7e807">
             <head>Scope and Contents</head>
@@ -1238,8 +1279,8 @@
           <did>
             <unittitle>Meade, Barbara</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_a22a6a08161a5ddc45b6e69d19c5b683" label="mixed materials" type="Box">8</container>
-            <container id="aspace_e1170db0ca5e7436de2f7adaac8a6118" parent="aspace_a22a6a08161a5ddc45b6e69d19c5b683" type="Folder">1</container>
+            <container id="aspace_838eb5cb7cea3750d4a482ddd4103015" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_31ef65b181fc89c7b2986c8635dad05d" parent="aspace_838eb5cb7cea3750d4a482ddd4103015" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_fc3e40a329e9c8bd7ecb57e6cfda660e">
             <head>Scope and Contents</head>
@@ -1250,8 +1291,8 @@
           <did>
             <unittitle>Meeks Frank</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_fcc118aae5f108445fd98c3e70889597" label="mixed materials" type="Box">8</container>
-            <container id="aspace_c90acf197f53c5aaf725ed6f163628bf" parent="aspace_fcc118aae5f108445fd98c3e70889597" type="Folder">2</container>
+            <container id="aspace_83fd72f07980d21bad38c29975af288f" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_454916bc2aa6b1d11f4f4fb3726e238e" parent="aspace_83fd72f07980d21bad38c29975af288f" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_8c22ff8c056f87f28ffa871e32c2586c">
             <head>Scope and Contents</head>
@@ -1262,8 +1303,8 @@
           <did>
             <unittitle>Mendouga, Jerome</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e7714ca5973baeec2ea2f7b9871b3513" label="mixed materials" type="Box">8</container>
-            <container id="aspace_83fabfe7118d049d52e4a9b3f2cc8490" parent="aspace_e7714ca5973baeec2ea2f7b9871b3513" type="Folder">3</container>
+            <container id="aspace_3b08cc6f3cc967fbca72cbb9765dbeb6" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_58b1d7cf73b3076ab7e2d9d4ac6e5fe9" parent="aspace_3b08cc6f3cc967fbca72cbb9765dbeb6" type="Folder">3</container>
           </did>
           <scopecontent id="aspace_ad6c206961505a584ccdffb46ee4c4e0">
             <head>Scope and Contents</head>
@@ -1274,8 +1315,8 @@
           <did>
             <unittitle>Merten, Alan G.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_67a9524ffb112adfdd62e9818470c448" label="mixed materials" type="Box">8</container>
-            <container id="aspace_81beeeb97caaabe1e67469a54ea5639a" parent="aspace_67a9524ffb112adfdd62e9818470c448" type="Folder">4</container>
+            <container id="aspace_8556362c000a50a855165141ec3113ed" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_57c9c0ed57c36fabb8b81a9d682e67a2" parent="aspace_8556362c000a50a855165141ec3113ed" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_3f7b2518e00693db5761550e4d2f816a">
             <head>Scope and Contents</head>
@@ -1286,8 +1327,8 @@
           <did>
             <unittitle>Michaux, Richard</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_007f346a1bfcc4b8d848a34e6cea3eb9" label="mixed materials" type="Box">8</container>
-            <container id="aspace_72f8fbd11a7594f8355468b2c7ca6be7" parent="aspace_007f346a1bfcc4b8d848a34e6cea3eb9" type="Folder">5</container>
+            <container id="aspace_963425b794147a4a6e0d54c0832b2203" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_3d0893a38ed2de8b973d0c95994cd25e" parent="aspace_963425b794147a4a6e0d54c0832b2203" type="Folder">5</container>
           </did>
           <scopecontent id="aspace_e56f7a2a46492c7bc7fe47290e0424ce">
             <head>Scope and Contents</head>
@@ -1298,8 +1339,8 @@
           <did>
             <unittitle>Millender-McDonald, Juanita</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_a23bae5a4c0823234a23a6632070c272" label="mixed materials" type="Box">8</container>
-            <container id="aspace_4d284f4407d55208c84e765412ab5997" parent="aspace_a23bae5a4c0823234a23a6632070c272" type="Folder">6</container>
+            <container id="aspace_55fe600c4c6451892619cda9b9b34d3f" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_7e885e0db51b019cdadb20f479397364" parent="aspace_55fe600c4c6451892619cda9b9b34d3f" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_66ffa400e12d95e344b8675c34ba04f3">
             <head>Scope and Contents</head>
@@ -1310,8 +1351,8 @@
           <did>
             <unittitle>Mink, Patsy</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_50954529939c7cc107aca482614be0ab" label="mixed materials" type="Box">8</container>
-            <container id="aspace_787d127a2faf46e71d63529e94d16f5a" parent="aspace_50954529939c7cc107aca482614be0ab" type="Folder">7</container>
+            <container id="aspace_a1350ba5c1c0306f1957f44daaa0c56e" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_1f98aaeb436bae87feab097524fd1112" parent="aspace_a1350ba5c1c0306f1957f44daaa0c56e" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_d5db5f8a152740217e4caf675c49e2dd">
             <head>Scope and Contents</head>
@@ -1322,8 +1363,8 @@
           <did>
             <unittitle>Morris, Susan</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_800f7e873c643641a5fbcf0674a02151" label="mixed materials" type="Box">8</container>
-            <container id="aspace_52b8cc16bed80d2226fb874f5a664e85" parent="aspace_800f7e873c643641a5fbcf0674a02151" type="Folder">8</container>
+            <container id="aspace_31fe89921e051ad0018a3b2bd156742a" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_fb1b9b29da352f3b1e87213fd3eda3a9" parent="aspace_31fe89921e051ad0018a3b2bd156742a" type="Folder">8</container>
           </did>
           <scopecontent id="aspace_ff7b98ccc1a2482f4aa8c88537a3b429">
             <head>Scope and Contents</head>
@@ -1334,8 +1375,8 @@
           <did>
             <unittitle>Mosley, Mark</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_80cfbf45fd9345d2ac340078a54d4b0b" label="mixed materials" type="Box">8</container>
-            <container id="aspace_e42d60906816934110ea2cdef456e8a8" parent="aspace_80cfbf45fd9345d2ac340078a54d4b0b" type="Folder">9</container>
+            <container id="aspace_a01ed6cbb14a21eda522ae23c905d264" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_84f4e244a273ed54ba261a9edb5f7def" parent="aspace_a01ed6cbb14a21eda522ae23c905d264" type="Folder">9</container>
           </did>
           <scopecontent id="aspace_da11dfc7c09fb9f6a87e3a93f4362bdb">
             <head>Scope and Contents</head>
@@ -1346,8 +1387,8 @@
           <did>
             <unittitle>Mowry, Clayton</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_fd9c61d325151b37217ec43cac263ac5" label="mixed materials" type="Box">8</container>
-            <container id="aspace_f1202ce30dfb25350afd64b2ac70fe4d" parent="aspace_fd9c61d325151b37217ec43cac263ac5" type="Folder">10</container>
+            <container id="aspace_f994a0797ec1abf6eb32763e4e790aa6" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_1201395280ed4919b51e9be2b0d7ea51" parent="aspace_f994a0797ec1abf6eb32763e4e790aa6" type="Folder">10</container>
           </did>
           <scopecontent id="aspace_bebb56d23a0c886e6e8fc1ffbe0a0d19">
             <head>Scope and Contents</head>
@@ -1358,8 +1399,8 @@
           <did>
             <unittitle>Murphy, L. Christian</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c7239b3d5cea6b5b03bccd088f2b6834" label="mixed materials" type="Box">8</container>
-            <container id="aspace_c1d79fc7eff26a24edbd24af5f195d4d" parent="aspace_c7239b3d5cea6b5b03bccd088f2b6834" type="Folder">11</container>
+            <container id="aspace_6872b6ef3317c33b8d435bbfd4e35a1b" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_9a3ded4efd5e924cdf8898f638f2e432" parent="aspace_6872b6ef3317c33b8d435bbfd4e35a1b" type="Folder">11</container>
           </did>
           <scopecontent id="aspace_0a2f7e954ee5d31702d8acc3eb48ce10">
             <head>Scope and Contents</head>
@@ -1370,8 +1411,8 @@
           <did>
             <unittitle>Nicholson, Jim</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_eccf88908d8f8d5bd16c28aa2614d775" label="mixed materials" type="Box">9</container>
-            <container id="aspace_51746d0e76c9617c13b9f774fd110881" parent="aspace_eccf88908d8f8d5bd16c28aa2614d775" type="Folder">1</container>
+            <container id="aspace_e3d0f5105e64202d287b83b4e3487e85" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_0943b1219b0bc2d34eb255d0b859e249" parent="aspace_e3d0f5105e64202d287b83b4e3487e85" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_e77b9e1b74a8f1a0b64e17968e3e5e75">
             <head>Scope and Contents</head>
@@ -1382,8 +1423,8 @@
           <did>
             <unittitle>Novak, Robert</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_7dbccd48e1bce86e3c272cb723b8e2dc" label="mixed materials" type="Box">9</container>
-            <container id="aspace_0feb1be46d715afa8f235975659c298a" parent="aspace_7dbccd48e1bce86e3c272cb723b8e2dc" type="Folder">2</container>
+            <container id="aspace_d0a30b3b1afc6c53f02c336267aade8a" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_544632d7f18bf1cf91788469ca5327ae" parent="aspace_d0a30b3b1afc6c53f02c336267aade8a" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_8c6f5ee1e08555060b6f33db71e82e9c">
             <head>Scope and Contents</head>
@@ -1394,8 +1435,8 @@
           <did>
             <unittitle>O'Connell, Father David M.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_63a7d85ecba5653595d3f63f630cf07b" label="mixed materials" type="Box">9</container>
-            <container id="aspace_65261ee85abd6c91bfcf7d06f7a0c43f" parent="aspace_63a7d85ecba5653595d3f63f630cf07b" type="Folder">3</container>
+            <container id="aspace_db3977051b0525e3007cee0c20292a8a" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_797a5baa8b29371c51576e3022492608" parent="aspace_db3977051b0525e3007cee0c20292a8a" type="Folder">3</container>
           </did>
           <scopecontent id="aspace_9afe30b25c456c721a8ee35fb4e37a68">
             <head>Scope and Contents</head>
@@ -1406,8 +1447,8 @@
           <did>
             <unittitle>O'Huiginn, Sean</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_153b7e16cf403534e433223d42b7061d" label="mixed materials" type="Box">9</container>
-            <container id="aspace_1a4ed9d394940295759be22750cc7ac9" parent="aspace_153b7e16cf403534e433223d42b7061d" type="Folder">4</container>
+            <container id="aspace_8ecaa0e7b2932e3af1f8a198f683856c" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_a9d7cb86415700e9054f25deaee509fc" parent="aspace_8ecaa0e7b2932e3af1f8a198f683856c" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_619350cbf2a216824b9e1472c9e51df9">
             <head>Scope and Contents</head>
@@ -1418,8 +1459,8 @@
           <did>
             <unittitle>Paone, Louis</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_18e970621abdfc2e3f957356c7ee63d7" label="mixed materials" type="Box">9</container>
-            <container id="aspace_f661a7c865d35634b214b5c8a03356b2" parent="aspace_18e970621abdfc2e3f957356c7ee63d7" type="Folder">5</container>
+            <container id="aspace_ed061a3676cbeade1409b9f3e1c8b82f" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_1111894e4025a00a1ed0c7763a34415f" parent="aspace_ed061a3676cbeade1409b9f3e1c8b82f" type="Folder">5</container>
           </did>
           <scopecontent id="aspace_e8b52931476ed4978614c6a60049f43c">
             <head>Scope and Contents</head>
@@ -1430,8 +1471,8 @@
           <did>
             <unittitle>Petrou, David</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_9cf468c36869464cfa8fb9344c67896c" label="mixed materials" type="Box">9</container>
-            <container id="aspace_bde7ab366966903f2b042e710081172c" parent="aspace_9cf468c36869464cfa8fb9344c67896c" type="Folder">6</container>
+            <container id="aspace_74e38b553651b7b35ce404cac939ad14" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_f81b1e3911487a37bec2bbcf80b862b3" parent="aspace_74e38b553651b7b35ce404cac939ad14" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_370f6602bf61d632ea4417c54e5bbc72">
             <head>Scope and Contents</head>
@@ -1442,8 +1483,8 @@
           <did>
             <unittitle>Putnam, Adam H.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c8d0e9eae9b837d261e72d78b436716b" label="mixed materials" type="Box">9</container>
-            <container id="aspace_cb8e9feceb500847201aa6fd902cad27" parent="aspace_c8d0e9eae9b837d261e72d78b436716b" type="Folder">7</container>
+            <container id="aspace_c8882c6b4b642c862883d8f754caab35" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_23192fb0588d58adb6cbab7ecd9cd849" parent="aspace_c8882c6b4b642c862883d8f754caab35" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_5b0b6f0872298cd1e695e807e89bd110">
             <head>Scope and Contents</head>
@@ -1454,8 +1495,8 @@
           <did>
             <unittitle>Ramsey, Chief Charles</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_f6ce1cee92a9f1884852bb438a722aa3" label="mixed materials" type="Box">9</container>
-            <container id="aspace_0d97a0b046de3c6ba56600866b18d0ce" parent="aspace_f6ce1cee92a9f1884852bb438a722aa3" type="Folder">8</container>
+            <container id="aspace_6cc1188c01c728b819db1eae7eb30bf1" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_f10742e21f05d1a9022e3d5dbc1fb09c" parent="aspace_6cc1188c01c728b819db1eae7eb30bf1" type="Folder">8</container>
           </did>
           <scopecontent id="aspace_99e7dcc994633a392654db5e573d2a00">
             <head>Scope and Contents</head>
@@ -1466,8 +1507,8 @@
           <did>
             <unittitle>Raphael, Molly</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_1656d47d31b093a7d244ed1d624ae036" label="mixed materials" type="Box">9</container>
-            <container id="aspace_2b2252773c65fe076df34e21cfdc2cec" parent="aspace_1656d47d31b093a7d244ed1d624ae036" type="Folder">9</container>
+            <container id="aspace_c08ee3133fdceff60f4f9d0d4d4d4fde" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_8a12e4b1c1dddb4aee84f538d7e97adf" parent="aspace_c08ee3133fdceff60f4f9d0d4d4d4fde" type="Folder">9</container>
           </did>
           <scopecontent id="aspace_1d8cca560916ed580060465e3aca1a03">
             <head>Scope and Contents</head>
@@ -1478,8 +1519,8 @@
           <did>
             <unittitle>Ridings, Dorothy S.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_41bbf96663410ea437b9849304aac4ec" label="mixed materials" type="Box">9</container>
-            <container id="aspace_539b809b564d4bf74ea8dd79736a30a7" parent="aspace_41bbf96663410ea437b9849304aac4ec" type="Folder">10</container>
+            <container id="aspace_7225253e37c36887ce0ed4ac6133a124" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_e9f44452d171c7eae1705e13ff8f653a" parent="aspace_7225253e37c36887ce0ed4ac6133a124" type="Folder">10</container>
           </did>
           <scopecontent id="aspace_7e95eea626ef1aed6da8cd59410cf826">
             <head>Scope and Contents</head>
@@ -1490,8 +1531,8 @@
           <did>
             <unittitle>Rieger, Wendy</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_259ad740154d9b62d37d1dcd4d10de51" label="mixed materials" type="Box">9</container>
-            <container id="aspace_9cfe4b1003372e5e6aead920dcce4643" parent="aspace_259ad740154d9b62d37d1dcd4d10de51" type="Folder">11</container>
+            <container id="aspace_7b52268fe4e82a64ac2f3079ed1d4198" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_5cdeedd69fba1b9a177687bd21c345ab" parent="aspace_7b52268fe4e82a64ac2f3079ed1d4198" type="Folder">11</container>
           </did>
           <scopecontent id="aspace_dd2394f1dd4d48c64d21009bd8659aaa">
             <head>Scope and Contents</head>
@@ -1502,8 +1543,8 @@
           <did>
             <unittitle>Rinaldi, Joseph F., III</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_5f1a456220992c4275b23ed85bccff00" label="mixed materials" type="Box">9</container>
-            <container id="aspace_45a2413f2bca1f3dd0202b217b669ab3" parent="aspace_5f1a456220992c4275b23ed85bccff00" type="Folder">12</container>
+            <container id="aspace_710d4b8b626b7d2c191c0db93fecbc6d" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_aee3adf82b158b43de1a8a3b7aa04691" parent="aspace_710d4b8b626b7d2c191c0db93fecbc6d" type="Folder">12</container>
           </did>
           <scopecontent id="aspace_07fcf58a47be0211a6dd5adcd63f80d8">
             <head>Scope and Contents</head>
@@ -1514,8 +1555,8 @@
           <did>
             <unittitle>Roeltgen, Kenneth</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_3ae756bebc4fa5b8a8dce7027ade1939" label="mixed materials" type="Box">9</container>
-            <container id="aspace_68529265d7afccee8ab24950a45fd609" parent="aspace_3ae756bebc4fa5b8a8dce7027ade1939" type="Folder">13</container>
+            <container id="aspace_99771cafbd5cbf93bc471f688d0178b4" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_1e1ce19df011b62f187fabd5ad0f1841" parent="aspace_99771cafbd5cbf93bc471f688d0178b4" type="Folder">13</container>
           </did>
           <scopecontent id="aspace_3b042cc6ba33e9e7eb4444c387618647">
             <head>Scope and Contents</head>
@@ -1526,8 +1567,8 @@
           <did>
             <unittitle>Rove, Karl C.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_28a78bf5441012c2f7654f9ac8df2645" label="mixed materials" type="Box">9</container>
-            <container id="aspace_40382f886a06784c5744504dcbab72a4" parent="aspace_28a78bf5441012c2f7654f9ac8df2645" type="Folder">14</container>
+            <container id="aspace_527411b41071b280414d5cbd61a04529" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_0d8e868808132e09add00ed6d5c977ed" parent="aspace_527411b41071b280414d5cbd61a04529" type="Folder">14</container>
           </did>
           <scopecontent id="aspace_be0292b506cb018e73cd0476ba8b0e3b">
             <head>Scope and Contents</head>
@@ -1538,8 +1579,8 @@
           <did>
             <unittitle>Ryan, Karen</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_b6ff04eb0fa01004f46f3ca2cf8d8fd3" label="mixed materials" type="Box">9</container>
-            <container id="aspace_a221af35d6e6f0cb83ae7334147a1772" parent="aspace_b6ff04eb0fa01004f46f3ca2cf8d8fd3" type="Folder">15</container>
+            <container id="aspace_9fb07739baecaf9a47f25188b519e53c" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_0ea7ce7b6319a8dd122a21fd1cb9fb1d" parent="aspace_9fb07739baecaf9a47f25188b519e53c" type="Folder">15</container>
           </did>
           <scopecontent id="aspace_b13edc433765a7364ecf6dbece068700">
             <head>Scope and Contents</head>
@@ -1550,8 +1591,8 @@
           <did>
             <unittitle>Schapiro, Mary L.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_65a8bbfad8b6ce5b8c63949376c5ca26" label="mixed materials" type="Box">10</container>
-            <container id="aspace_f7f13d47ae6b1bdacfe5a26f29314d84" parent="aspace_65a8bbfad8b6ce5b8c63949376c5ca26" type="Folder">1</container>
+            <container id="aspace_412072525989faf495cc679969822c7b" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_f46cb28b400f636b218e568c711f236f" parent="aspace_412072525989faf495cc679969822c7b" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_86b6511d5debf3b742ef443a706c271e">
             <head>Scope and Contents</head>
@@ -1562,8 +1603,8 @@
           <did>
             <unittitle>Shane, Francis J.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_7cf11b21859ad578dc54ce796a4b735c" label="mixed materials" type="Box">10</container>
-            <container id="aspace_454e058de38b2c5680f9f7981e3bbc6b" parent="aspace_7cf11b21859ad578dc54ce796a4b735c" type="Folder">2</container>
+            <container id="aspace_71bee4080f270280568b703ae5628709" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_18f6017ca6f11ed3d05cbb824bfb37f4" parent="aspace_71bee4080f270280568b703ae5628709" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_ec307a8af5220ac3b1d3551a9f3cbf76">
             <head>Scope and Contents</head>
@@ -1574,8 +1615,8 @@
           <did>
             <unittitle>Shefrin, Ivan Hart</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_68689600230e64df1dd560f8bb268113" label="mixed materials" type="Box">10</container>
-            <container id="aspace_d39e9bfade250ae828eb4bbf05d0e114" parent="aspace_68689600230e64df1dd560f8bb268113" type="Folder">3</container>
+            <container id="aspace_810186f2bdb04b3d873a284dce8cb5b2" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_d6010724dbce80f92f56f6954f82903b" parent="aspace_810186f2bdb04b3d873a284dce8cb5b2" type="Folder">3</container>
           </did>
           <scopecontent id="aspace_9ccac371d7f698b69985c90f6505e7aa">
             <head>Scope and Contents</head>
@@ -1586,8 +1627,8 @@
           <did>
             <unittitle>Shrivastava, Satyendra</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_474fb259b455dd796d6bf51751758f7f" label="mixed materials" type="Box">10</container>
-            <container id="aspace_b742188c4b3a8503817ec77eab99acf9" parent="aspace_474fb259b455dd796d6bf51751758f7f" type="Folder">4</container>
+            <container id="aspace_6f7762b00803497e0f30b90c8704a416" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_624cc5be1efbd89e512e16c03135661f" parent="aspace_6f7762b00803497e0f30b90c8704a416" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_e6f9ddf567c93164d72547f1f914553b">
             <head>Scope and Contents</head>
@@ -1598,8 +1639,8 @@
           <did>
             <unittitle>Singer, Maxine</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e77571b6b7f46b4aa578449cc28705c7" label="mixed materials" type="Box">10</container>
-            <container id="aspace_6a7cd6ce7f483c159e551e26304fa7aa" parent="aspace_e77571b6b7f46b4aa578449cc28705c7" type="Folder">5</container>
+            <container id="aspace_45e4fc572bb7dafa14c0661eb0b4d42d" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_147058f9907032789f4823fa4e158a12" parent="aspace_45e4fc572bb7dafa14c0661eb0b4d42d" type="Folder">5</container>
           </did>
           <scopecontent id="aspace_67660d932a7b976483375c9d64c78607">
             <head>Scope and Contents</head>
@@ -1610,8 +1651,8 @@
           <did>
             <unittitle>Skeen, Joe</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_442ad29f7fe58ef73b6829c13ea03242" label="mixed materials" type="Box">10</container>
-            <container id="aspace_271c64d0c6275fb09f38c70fee861d88" parent="aspace_442ad29f7fe58ef73b6829c13ea03242" type="Folder">6</container>
+            <container id="aspace_7b9f4ad1ef83c693b5ebc70a23dcfc18" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_000ac43aaf90040592b9bdc3be9a5dd3" parent="aspace_7b9f4ad1ef83c693b5ebc70a23dcfc18" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_1a180eeb64ad22d08f7439f49a3a4452">
             <head>Scope and Contents</head>
@@ -1622,8 +1663,8 @@
           <did>
             <unittitle>Smith, Arthur L.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_3adc5009e2db72aefcc45ead4a2762c7" label="mixed materials" type="Box">10</container>
-            <container id="aspace_8cdfa86aebd2a00318989548a0082227" parent="aspace_3adc5009e2db72aefcc45ead4a2762c7" type="Folder">7</container>
+            <container id="aspace_b6ba18d1cdd1f46b6684021c607746c3" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_375a862db15d524517bf44f3dbd03b77" parent="aspace_b6ba18d1cdd1f46b6684021c607746c3" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_f140397a7837b9a23af28364db2550d4">
             <head>Scope and Contents</head>
@@ -1634,8 +1675,8 @@
           <did>
             <unittitle>Smith, Gordon</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_6489c5dc9907d62506d47b0e4d386b4f" label="mixed materials" type="Box">10</container>
-            <container id="aspace_86cbefc96b9b677ee2b21cd452b21acd" parent="aspace_6489c5dc9907d62506d47b0e4d386b4f" type="Folder">8</container>
+            <container id="aspace_f1e7413c9c88bc42cb576e6c448920ab" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_c8d234c0c267b37a90e4bd66186cd711" parent="aspace_f1e7413c9c88bc42cb576e6c448920ab" type="Folder">8</container>
           </did>
           <scopecontent id="aspace_16f938d998279364f5e8fdf5d16a2abb">
             <head>Scope and Contents</head>
@@ -1646,8 +1687,8 @@
           <did>
             <unittitle>Smith, Robert</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_5b2c6d7d03d17940c65d154a1b9f7cf3" label="mixed materials" type="Box">10</container>
-            <container id="aspace_18a7f0b4c0b9441e83e881f2d1df59aa" parent="aspace_5b2c6d7d03d17940c65d154a1b9f7cf3" type="Folder">9</container>
+            <container id="aspace_f6ed80a331e3cc9ed6a52488b26c72e7" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_bbdd0b21599d2d4ab2635c2acb66fc51" parent="aspace_f6ed80a331e3cc9ed6a52488b26c72e7" type="Folder">9</container>
           </did>
           <scopecontent id="aspace_9939e8075c5126d1440bc0e08e044741">
             <head>Scope and Contents</head>
@@ -1658,8 +1699,8 @@
           <did>
             <unittitle>Soza, William</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ea1ef153ce7c9a96401f40994f0eeb1d" label="mixed materials" type="Box">10</container>
-            <container id="aspace_08ae58c9fca283b58a260f5f8112d897" parent="aspace_ea1ef153ce7c9a96401f40994f0eeb1d" type="Folder">10</container>
+            <container id="aspace_f4f4fc51ae833e91b4d41cb3bff6d274" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_78f20a02dd1e0c3394e5fdb61f3c4c20" parent="aspace_f4f4fc51ae833e91b4d41cb3bff6d274" type="Folder">10</container>
           </did>
           <scopecontent id="aspace_250f5b18b079f53147d1a3c84668156b">
             <head>Scope and Contents</head>
@@ -1670,8 +1711,8 @@
           <did>
             <unittitle>Spilhaus, Dr. Fred</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_1f0c05d0d8943a84664cc98e5dbd5ddb" label="mixed materials" type="Box">11</container>
-            <container id="aspace_d87cb545440a2f6337221da92a778993" parent="aspace_1f0c05d0d8943a84664cc98e5dbd5ddb" type="Folder">1</container>
+            <container id="aspace_166f5fcac870594151d9708ea865e335" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_7eafb545d563364ca510b929d3e8ca55" parent="aspace_166f5fcac870594151d9708ea865e335" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_762b3bc8d338acea220792571446d02e">
             <head>Scope and Contents</head>
@@ -1682,8 +1723,8 @@
           <did>
             <unittitle>Stampfli, Sheila</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e50be1bb220d3f51bdbcc071c2ad4bcd" label="mixed materials" type="Box">11</container>
-            <container id="aspace_483cc9434593f9666600b7637571e82f" parent="aspace_e50be1bb220d3f51bdbcc071c2ad4bcd" type="Folder">2</container>
+            <container id="aspace_872f57a93d9e30c549cb190e0bf3cc68" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_c0fc5eae9bf8d3f9117f5cfe3ab1dd73" parent="aspace_872f57a93d9e30c549cb190e0bf3cc68" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_4da95f53802d1fa24509c06af7e2f41b">
             <head>Scope and Contents</head>
@@ -1694,8 +1735,8 @@
           <did>
             <unittitle>Stearns, Cliff</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_538c07a1f54713209189475da01af315" label="mixed materials" type="Box">11</container>
-            <container id="aspace_6dabd34c065ed1f09faea18afb65b40e" parent="aspace_538c07a1f54713209189475da01af315" type="Folder">3</container>
+            <container id="aspace_de8be7e99aca1b240aa80a1c40865f2f" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_561b96c2178fb89d0dac0cb7351e5b6c" parent="aspace_de8be7e99aca1b240aa80a1c40865f2f" type="Folder">3</container>
           </did>
           <scopecontent id="aspace_6193b29a787545b0d9c397bfadd6c5b7">
             <head>Scope and Contents</head>
@@ -1706,8 +1747,8 @@
           <did>
             <unittitle>Storm, Al</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_f2b42e03f4d7eab6403ccb860d7cac22" label="mixed materials" type="Box">11</container>
-            <container id="aspace_97f65f09c4f3d500bc7d838174fe3197" parent="aspace_f2b42e03f4d7eab6403ccb860d7cac22" type="Folder">4</container>
+            <container id="aspace_d2ce497e11469c72f8dc79e20b6b8aa0" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_2d530dc26e22582c344b9ae2e446c6f0" parent="aspace_d2ce497e11469c72f8dc79e20b6b8aa0" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_beae7a65d13e3ec73b7316587a691bc3">
             <head>Scope and Contents</head>
@@ -1718,16 +1759,16 @@
           <did>
             <unittitle>Stroud, Dr. Franklin</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_22f738711afefb43f12fb81fefb07de1" label="mixed materials" type="Box">11</container>
-            <container id="aspace_4cd7ef986ac15e7db0fddd395ff4fa26" parent="aspace_22f738711afefb43f12fb81fefb07de1" type="Folder">5</container>
+            <container id="aspace_6f064b104ed3c6c03f95b6d1e965687f" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_8119cf2dfe73126e08ce2c774bf6658e" parent="aspace_6f064b104ed3c6c03f95b6d1e965687f" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_60c7857e039ca46c02cad9502ed8fb7b" level="file">
           <did>
             <unittitle>Sweeney, Patrick</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_720ff8f80d34ebfe0736d92dea3fbb75" label="mixed materials" type="Box">11</container>
-            <container id="aspace_104022aeb331385c2887a411a212366c" parent="aspace_720ff8f80d34ebfe0736d92dea3fbb75" type="Folder">6</container>
+            <container id="aspace_5197829e7776e70dd55cb6ca73f58b73" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_bbaa62298de0e657fee8319a9e3b4cb5" parent="aspace_5197829e7776e70dd55cb6ca73f58b73" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_5d2827aeadc811ec948f46dad19ddcf0">
             <head>Scope and Contents</head>
@@ -1738,8 +1779,8 @@
           <did>
             <unittitle>Theisman, Joe</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ccf6b6d5d7a693c36ecfa75a3b401783" label="mixed materials" type="Box">11</container>
-            <container id="aspace_bd0a139b07ed576ff97449effdd6ba77" parent="aspace_ccf6b6d5d7a693c36ecfa75a3b401783" type="Folder">7</container>
+            <container id="aspace_bb8297f9bc3f956f98e4a158987c4339" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_9750da06abe02930bbbc094b3ae9c3bf" parent="aspace_bb8297f9bc3f956f98e4a158987c4339" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_3b099d91aca79dc714936f9af42119ba">
             <head>Scope and Contents</head>
@@ -1750,8 +1791,8 @@
           <did>
             <unittitle>Thompson, W. Fred</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_a377c62cd64261b65aa661eb130d62f4" label="mixed materials" type="Box">11</container>
-            <container id="aspace_4d3139932a7aabd20a8e2b56e0044442" parent="aspace_a377c62cd64261b65aa661eb130d62f4" type="Folder">8</container>
+            <container id="aspace_f2b32831378e6f2f273008c601f3fe24" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_dc9b289d23c2cd144bc6bd688c5beb8a" parent="aspace_f2b32831378e6f2f273008c601f3fe24" type="Folder">8</container>
           </did>
           <scopecontent id="aspace_42f60c81971e02f463b9e924c2a6cf0a">
             <head>Scope and Contents</head>
@@ -1762,8 +1803,8 @@
           <did>
             <unittitle>Townsend, Ann Van DeVanter</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_7fdc3b46d347dc483bab7e3d70694eb8" label="mixed materials" type="Box">11</container>
-            <container id="aspace_c34b296a8c84e9c552f0a8e9af5005aa" parent="aspace_7fdc3b46d347dc483bab7e3d70694eb8" type="Folder">9</container>
+            <container id="aspace_e55074883529e30d1d6eef3149fbe8cf" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_59742404a6fc7659a56460aedb7dec57" parent="aspace_e55074883529e30d1d6eef3149fbe8cf" type="Folder">9</container>
           </did>
           <scopecontent id="aspace_150968dc78b24307167ef1a761474fec">
             <head>Scope and Contents</head>
@@ -1774,8 +1815,8 @@
           <did>
             <unittitle>Trachtenberg, Stephen J.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_8ff73f02ae3255d3d4e5ae30436ed41e" label="mixed materials" type="Box">11</container>
-            <container id="aspace_da3b010da9363c84d74e78e3f972b9fc" parent="aspace_8ff73f02ae3255d3d4e5ae30436ed41e" type="Folder">10</container>
+            <container id="aspace_51abe9ced3ff3bb130f08bd254faf38c" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_db85eb4cdc79955596b6ea95807f4d75" parent="aspace_51abe9ced3ff3bb130f08bd254faf38c" type="Folder">10</container>
           </did>
           <scopecontent id="aspace_52c274ab4666509de1dec8c44f83f48f">
             <head>Scope and Contents</head>
@@ -1786,8 +1827,8 @@
           <did>
             <unittitle>Valenti, Jack</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_d6bad80ceb12d2a866d49d21b9fbb832" label="mixed materials" type="Box">11</container>
-            <container id="aspace_b77ea8e61124995a14f2119d0b5bdfba" parent="aspace_d6bad80ceb12d2a866d49d21b9fbb832" type="Folder">11</container>
+            <container id="aspace_3a917782233fe7f57eedfbb3306fdad1" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_09c9f9ad5272b8a1d0aa1273227480b8" parent="aspace_3a917782233fe7f57eedfbb3306fdad1" type="Folder">11</container>
           </did>
           <scopecontent id="aspace_76c655b236edebdcd3d7f8f25abc3b85">
             <head>Scope and Contents</head>
@@ -1798,8 +1839,8 @@
           <did>
             <unittitle>Vos, Joris</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_96330a5b06e6589788b265f614245d4c" label="mixed materials" type="Box">12</container>
-            <container id="aspace_9b8b059f05b17e5b118d1a29c36c9077" parent="aspace_96330a5b06e6589788b265f614245d4c" type="Folder">1</container>
+            <container id="aspace_b1c4bb158a2d9577287b1e807f350078" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_9c8936abf96ad0799f4927f6fa185f44" parent="aspace_b1c4bb158a2d9577287b1e807f350078" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_e6a22ec2a36587f4db29f3e802dbb4f4">
             <head>Scope and Contents</head>
@@ -1810,8 +1851,8 @@
           <did>
             <unittitle>Wallace, Lorraine</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_93b4ba72a301ec76e598b11ab5b21829" label="mixed materials" type="Box">12</container>
-            <container id="aspace_7033c3d72b421762ba997a636f548061" parent="aspace_93b4ba72a301ec76e598b11ab5b21829" type="Folder">2</container>
+            <container id="aspace_8fed058dd4f922eed9a0e0c607b6d605" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_890bcb22311db7ee51b553ed7c6c6405" parent="aspace_8fed058dd4f922eed9a0e0c607b6d605" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_de5d3f99ab4917d1b8efe906cd77d7f9">
             <head>Scope and Contents</head>
@@ -1822,8 +1863,8 @@
           <did>
             <unittitle>Warner, John</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_b8932eee25e83fff26078ab57beee4c9" label="mixed materials" type="Box">12</container>
-            <container id="aspace_6435df920198c89d0fd985530d89625d" parent="aspace_b8932eee25e83fff26078ab57beee4c9" type="Folder">3</container>
+            <container id="aspace_1d11462034a62a7128bd5b106802f3c0" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_51f7f819822c30c570fb3186a628576b" parent="aspace_1d11462034a62a7128bd5b106802f3c0" type="Folder">3</container>
           </did>
           <scopecontent id="aspace_9832f336f468c2b0d0211359b5271383">
             <head>Scope and Contents</head>
@@ -1834,8 +1875,8 @@
           <did>
             <unittitle>Watson, Alexander</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_1e6047211aefbd2c8a8c9031ddb99176" label="mixed materials" type="Box">12</container>
-            <container id="aspace_cf1025db0b4d44f37a94aaa6b6047fe8" parent="aspace_1e6047211aefbd2c8a8c9031ddb99176" type="Folder">4</container>
+            <container id="aspace_c079fdb1827afd65871871ebc8dc373c" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_683b789ba9d6b385323d1aa0565ae86b" parent="aspace_c079fdb1827afd65871871ebc8dc373c" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_7a8fd596026055c65249642cf28874ef">
             <head>Scope and Contents</head>
@@ -1846,8 +1887,8 @@
           <did>
             <unittitle>Weinberger, Caspar Willard</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_78cb60d044089da78312c2afbaf18ff2" label="mixed materials" type="Box">12</container>
-            <container id="aspace_5b4555f3f0b524310afb7280ec5766c0" parent="aspace_78cb60d044089da78312c2afbaf18ff2" type="Folder">5</container>
+            <container id="aspace_f435f31c68443694a1e00dedfa059ffd" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_f07c1f11614ef823f10b4219d375707b" parent="aspace_f435f31c68443694a1e00dedfa059ffd" type="Folder">5</container>
           </did>
           <scopecontent id="aspace_a01c8ddd35742f0f5fc9b59dfca49373">
             <head>Scope and Contents</head>
@@ -1858,8 +1899,8 @@
           <did>
             <unittitle>Widmeyer, Scott D.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ef0aee9acdd5533c092e89d94e3dafa1" label="mixed materials" type="Box">12</container>
-            <container id="aspace_bddcda10664adf44f7e14f7a336ce9f6" parent="aspace_ef0aee9acdd5533c092e89d94e3dafa1" type="Folder">6</container>
+            <container id="aspace_d529a2d44f000e8c8522c2170b15e6e1" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_8fef977275bb423046b6b5a47e67171f" parent="aspace_d529a2d44f000e8c8522c2170b15e6e1" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_ee288c24f5100ce5ab2a41b7a7688d90">
             <head>Scope and Contents</head>
@@ -1870,8 +1911,8 @@
           <did>
             <unittitle>Wilker, Lawrence J.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_22eb72380ea694f5cc0fe4695c073361" label="mixed materials" type="Box">12</container>
-            <container id="aspace_abb591f01252659c44ab46b633c7cb6f" parent="aspace_22eb72380ea694f5cc0fe4695c073361" type="Folder">7</container>
+            <container id="aspace_5cca8727961dea118cbda9dcad7910ee" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_ea625d1f4288a90771aff09e4799e78b" parent="aspace_5cca8727961dea118cbda9dcad7910ee" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_63e147cc94d259f70d585ec6bdaa02e8">
             <head>Scope and Contents</head>
@@ -1882,8 +1923,8 @@
           <did>
             <unittitle>Williams, Anthony</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_7b6f2a9b7b7811abb1861f70540d2603" label="mixed materials" type="Box">12</container>
-            <container id="aspace_5f47ee32a844ca59febff77cda4bb328" parent="aspace_7b6f2a9b7b7811abb1861f70540d2603" type="Folder">8</container>
+            <container id="aspace_e1bd9bda748354cfd868b7cd17d9c3c3" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_0ded90ac575303934ae37dd9229a032e" parent="aspace_e1bd9bda748354cfd868b7cd17d9c3c3" type="Folder">8</container>
           </did>
           <scopecontent id="aspace_680557ea48c3ad24626dbec7f6ba2482">
             <head>Scope and Contents</head>
@@ -1894,8 +1935,8 @@
           <did>
             <unittitle>Williams, Eddie</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_74ae16c4f0492feb14f47d06f7692268" label="mixed materials" type="Box">12</container>
-            <container id="aspace_5ef51c62857e9c82031cc2f4919f97d5" parent="aspace_74ae16c4f0492feb14f47d06f7692268" type="Folder">9</container>
+            <container id="aspace_62cf5c73ff1e08f8f2d7632d0d2db8a3" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_d63ac4e8e55ca78f133474715000e2cf" parent="aspace_62cf5c73ff1e08f8f2d7632d0d2db8a3" type="Folder">9</container>
           </did>
           <scopecontent id="aspace_ce4bc6f2aa754c65f987e203b51368ca">
             <head>Scope and Contents</head>
@@ -1906,8 +1947,8 @@
           <did>
             <unittitle>Woolanin, Barbara</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_a6cd7347cc7569e413fc07086d851cc3" label="mixed materials" type="Box">12</container>
-            <container id="aspace_fa2f672b162ee24d76d035ddea9f05d6" parent="aspace_a6cd7347cc7569e413fc07086d851cc3" type="Folder">10</container>
+            <container id="aspace_ab8b726d5ddb1a0f05cf1be506dc8c13" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_9bd0b9cd1b62d3cde40ff58c6613b1f6" parent="aspace_ab8b726d5ddb1a0f05cf1be506dc8c13" type="Folder">10</container>
           </did>
           <scopecontent id="aspace_7dcf8bcca8dd9ceaa475ab8d15a5b316">
             <head>Scope and Contents</head>
@@ -1918,8 +1959,8 @@
           <did>
             <unittitle>Wulf, William</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_59b870c7de1cb720c1b6443bcbd24669" label="mixed materials" type="Box">12</container>
-            <container id="aspace_61f655f88cce6f7d4b6a45de2535797f" parent="aspace_59b870c7de1cb720c1b6443bcbd24669" type="Folder">11</container>
+            <container id="aspace_57ec5741e85c25e0ea426ae95fdc860a" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_6afe3d02ba1792c327f69d6f3e78b7a2" parent="aspace_57ec5741e85c25e0ea426ae95fdc860a" type="Folder">11</container>
           </did>
           <scopecontent id="aspace_87bd7ebd8aba3d7021e67d4478ae9770">
             <head>Scope and Contents</head>

@@ -1,16 +1,28 @@
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid/>
+    <eadid url="http://washingtoniana.dclibrary.org">OHP015EasternMarket</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>Eastern Market Oral History Project<num>OHP015</num></titleproper>
+        <titleproper type="filing">Eastern Market Oral History Project</titleproper>
+        <titleproper>Eastern Market Oral History Project <num>OHP015</num></titleproper>
+        <subtitle>An inventory of the Eastern Market Oral History Project at DC Public Library</subtitle>
+        <author>DC Public Library, Special Collections</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
+        <p>
+          <date>2020-08-26</date>
+        </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-27 00:02:35 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:53:51 -0400</date>.</creation>
+      <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
@@ -20,37 +32,55 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Eastern Market Oral History Project</unittitle>
+      <origination label="creator">
+        <corpname source="local">Friends of Eastern Market</corpname>
+      </origination>
       <unitid>OHP015</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">0.75 Linear feet</extent>
       </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Boxes</extent>
+      </physdesc>
       <unitdate normal="1992/1993" type="inclusive">1992-1993</unitdate>
     </did>
-    <scopecontent id="aspace_8814f36169b4fb67b730cdfd80f850ef">
-      <head>Scope and Contents</head>
-      <p>From 1992 – 1993, a total of 12 oral history interviews were conducted through the Eastern Market Oral History Project, of which the Washingtoniana division holds resources for 9 interviews. The goal of the project was to capture the undocumented history of the Eastern Market, the last vestige of the Washington market system, which for more than 100 years played a vital role in the life of the city. The stories told by the interviewees show the important role that public markets played in feeding the city throughout the 19th and early 20th century, providing work and a social gathering place while connecting the city and its people to the surrounding countryside. Topics include family history, business, relations between vendors, and neighborhood and industry changes over time. The project was done under a planning grant from the D.C. Community Humanities Council, and Valerie Pawlewicz served as project manager.</p>
-    </scopecontent>
+    <arrangement id="aspace_8cd238f17aaf5896f8a47bd0b7ccf22c">
+      <head>Arrangement</head>
+      <p>Series 1: Transcripts Scope and Contents<br/>
+Materials in this series include transcripts of the interviews. There is no transcript for 15-11. <br/>
+<br/>
+Series 2: Interviews Scope and Contents<br/>
+Materials in this series include master copies of the oral histories on audio cassette. There are no duplicate copies of any audio recordings.</p>
+    </arrangement>
     <bioghist id="aspace_68612af2f8ea5b1aacfd956c4ec4ad63">
       <head>Biographical / Historical</head>
       <p>Eastern Market is a public market in the Capitol Hill neighborhood of Washington, D.C., which was designed by Adolf Cluss and constructed in 1871.</p>
     </bioghist>
-    <acqinfo id="aspace_365bb74d1e59d034a0fc412fa4fdc493">
-      <head>Immediate Source of Acquisition</head>
+    <custodhist id="aspace_365bb74d1e59d034a0fc412fa4fdc493">
+      <head>Custodial History</head>
       <p>The Friends of Eastern Market conducted these interviews between 1992 and 1993 as a part of a grant from the D.C. Humanities Council. Duplicates of the original tapes and indexes were transferred to the Library in 1993. There is no deed of gift for this collection.</p>
-    </acqinfo>
+    </custodhist>
     <processinfo id="aspace_c87491b01da7f18d15efcad7516d0a47">
       <head>Processing Information</head>
-      <p>After the initial deposit of the tapes and indexes in the Library, the indexes were placed in folders and stored them in a filing cabinet with other oral histories. Tapes were placed a cabinet for public use. In 2014, the tapes and transcripts were digitized and in 2017 the collection was reprocessed. Indexes were placed into folders and boxed. All known tapes were boxed for long term storage. All administrative documents were placed into the control file. There are no tapes or transcripts for 15-06 and 15-10.</p>
+      <p>After the initial deposit of the tapes and indexes in the Library, the indexes were placed in folders and stored in a filing cabinet with other oral histories. Tapes were placed in a cabinet for public use. In 2014, the tapes and transcripts were digitized and in 2017, the collection was reprocessed. Indexes were placed into folders and boxed. All known tapes were boxed for long-term storage. All administrative documents were placed into the control file. There are no tapes or transcripts for 15-06 and 15-10.</p>
     </processinfo>
+    <scopecontent id="aspace_8814f36169b4fb67b730cdfd80f850ef">
+      <head>Scope and Contents</head>
+      <p>From 1992 to 1993, a total of 12 oral history interviews were conducted through the Eastern Market Oral History Project, of which the Library holds resources for nine interviews. The goal of the project was to capture the undocumented history of the Eastern Market, the last vestige of the Washington market system, which for more than 100 years played a vital role in the life of the city. The stories told by the interviewees show the important roles that public markets played in feeding the city throughout the 19th and early 20th centuries, and providing work and a social gathering place while connecting the city and its people to the surrounding countryside. Topics include family history, business, relations between vendors, and neighborhood and industry changes over time. The project was done under a planning grant from the D.C. Community Humanities Council, and Valerie Pawlewicz served as project manager.</p>
+    </scopecontent>
     <userestrict id="aspace_6e72bc351531ebc54f15771aa9c02811">
       <head>Conditions Governing Use</head>
-      <p>The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from the Friends of Eastern Market to publish or exhibit information. Reproduction of oral Histories without release is not permitted.</p>
+      <p>The DC Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from the Friends of Eastern Market to publish or exhibit information. Reproduction of oral Histories without release is not permitted.</p>
     </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85095238" source="Library of Congress Subject Headings">Oral History</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <geogname authfilenumber="http://id.loc.gov/authorities/names/n97020465" source="Library of Congress Subject Headings">Capitol Hill (Washington, D.C.)</geogname>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85081355" source="Library of Congress Subject Headings">Markets</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh96010352" source="Library of Congress Subject Headings">Businesspeople</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_f67cac44202efd61ecd7054689a78013" level="series">
@@ -65,72 +95,72 @@
           <did>
             <unittitle>Jessie Buscher</unittitle>
             <unitdate normal="1992-06-12/1992-06-12">1992 June 12</unitdate>
-            <container id="aspace_7ca9f6cc62f56a31a4c53cdb64e46f53" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_7d6b3d895c9a93cc9ed062377c627ad2" parent="aspace_7ca9f6cc62f56a31a4c53cdb64e46f53" type="Folder">1</container>
+            <container id="aspace_15a16f95cacd6ea9a200675cb8f2680a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3794310efa0ee80a0fd728649536f3bb" parent="aspace_15a16f95cacd6ea9a200675cb8f2680a" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_8934fe35ab0996acf6d39970c01f4ed0" level="file">
           <did>
             <unittitle>Ray Bowers</unittitle>
             <unitdate normal="1992-07-10/1992-07-10">1992 July 10</unitdate>
-            <container id="aspace_54c3a75cdeecf50f549dc1173c387640" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_94f4b903b1322b2932b37b28a95f13ee" parent="aspace_54c3a75cdeecf50f549dc1173c387640" type="Folder">2</container>
+            <container id="aspace_7aaf6eb68f64b9e30a06cf0c340adcb3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e7534abd9be21227901c138c161f07a3" parent="aspace_7aaf6eb68f64b9e30a06cf0c340adcb3" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_bf897bd7ba17671b6ffad95df67b3638" level="file">
           <did>
             <unittitle>Ernest Higgins</unittitle>
             <unitdate normal="1992-07-25/1992-07-25">1992 July 25</unitdate>
-            <container id="aspace_1210c1fb8b48b935154090d30ea30be6" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_fc44a8e0b289c1aa78c907b2a2049bac" parent="aspace_1210c1fb8b48b935154090d30ea30be6" type="Folder">3</container>
+            <container id="aspace_8dda8cf7df0e477c7183e70dbbd096ec" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d6d43b2271d22421a19b1504ba799634" parent="aspace_8dda8cf7df0e477c7183e70dbbd096ec" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_847e01717bd6650ea249e5143eef1292" level="file">
           <did>
             <unittitle>Chris Calomiris</unittitle>
             <unitdate normal="1992-08-24/1992-08-24">1992 August 24</unitdate>
-            <container id="aspace_1c43be72d8d119ffec25a8b06b2fbcf4" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_1d118f652455741a0ee04ea3a3beb452" parent="aspace_1c43be72d8d119ffec25a8b06b2fbcf4" type="Folder">4</container>
+            <container id="aspace_995239e2a6f2865d12dd210331a3aade" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_aa2e1db939379653a58ce15f41b71ab0" parent="aspace_995239e2a6f2865d12dd210331a3aade" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_8e834df89b6feba8d90540241c88c7a2" level="file">
           <did>
             <unittitle>Thomas J. Cooper</unittitle>
             <unitdate normal="1992-12-01/1992-12-01">1992 December 1</unitdate>
-            <container id="aspace_0d7ae06d128d5fa1d766d19799929823" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_70e38ff3477333fefa09cdd13c00cdf5" parent="aspace_0d7ae06d128d5fa1d766d19799929823" type="Folder">5</container>
+            <container id="aspace_ff64e29cd970aea765a5ab1ac002813d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d535ad30a8ac2e0bfb3e7959cd7cee34" parent="aspace_ff64e29cd970aea765a5ab1ac002813d" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_a149dfbcf91b8541cd1fb08b2d9ecf5e" level="file">
           <did>
             <unittitle>Harry Hodges</unittitle>
             <unitdate normal="1992-12-16/1992-12-16">1992 December 16</unitdate>
-            <container id="aspace_1d033eebdc733ffd0b9bea265bd4165c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_7ac239a681065b5962544161b42e0785" parent="aspace_1d033eebdc733ffd0b9bea265bd4165c" type="Folder">6</container>
+            <container id="aspace_519e260ddaf8b0c0ff220ab28cd8b4b3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d865246bfdc7331e9cf38528be5e68d2" parent="aspace_519e260ddaf8b0c0ff220ab28cd8b4b3" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_12ad869a30dd7bc6e45cca31bd93887f" level="file">
           <did>
             <unittitle>Esther Hodges</unittitle>
             <unitdate normal="1993-01-14/1993-01-14">1993 January 14</unitdate>
-            <container id="aspace_4cdf388d1391d303f767b1be95c27b72" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d75abd5148501c57bf266fb0cbfb677e" parent="aspace_4cdf388d1391d303f767b1be95c27b72" type="Folder">7</container>
+            <container id="aspace_3b9eb5f2704624d6d0a609a03373e4bb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e1c874f63ff0cc85bcb258886540c3f0" parent="aspace_3b9eb5f2704624d6d0a609a03373e4bb" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_3c4c14e955f64e0e6e058373777e33fa" level="file">
           <did>
             <unittitle>Charles Glasgow</unittitle>
             <unitdate normal="1993-01-13/1993-01-13">1993 January 13</unitdate>
-            <container id="aspace_4df004b6022bb30e82c7d68c4eeac5f7" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_03a5c9cc0469f16896863621d1e83c40" parent="aspace_4df004b6022bb30e82c7d68c4eeac5f7" type="Folder">8</container>
+            <container id="aspace_088112e5e610ed9d596271de5ec7ff86" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e865613a562c50333dd0c4caa1a01be8" parent="aspace_088112e5e610ed9d596271de5ec7ff86" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_3f71bacfc23b66deaa3890bffa6a9b74" level="file">
           <did>
             <unittitle>Charles Sherzer</unittitle>
             <unitdate normal="1993-01-22/1993-01-22">1993 January 22</unitdate>
-            <container id="aspace_7851dd78bce319b0b5cd1fa50cbf3a4d" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_47af963bf4fe4184f55fa481e5e1cc1b" parent="aspace_7851dd78bce319b0b5cd1fa50cbf3a4d" type="Folder">9</container>
+            <container id="aspace_d0575021d4fe2f71b4e7267e6a346bc2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ebc2e23118979860bb42b0935f5b0737" parent="aspace_d0575021d4fe2f71b4e7267e6a346bc2" type="Folder">9</container>
           </did>
         </c>
       </c>
@@ -146,79 +176,79 @@
           <did>
             <unittitle>Jessie Buscher</unittitle>
             <unitdate normal="1992-06-12/1992-06-12">1992 June 12</unitdate>
-            <container id="aspace_54536c894f37e84f80cb1043e570ae58" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_2bb7157aa18f03e0e05730b29d8bbd44" parent="aspace_54536c894f37e84f80cb1043e570ae58" type="Folder">15-01</container>
+            <container id="aspace_2808402009edeff12842352dcf4d8c2b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_76996b899cc57da856d33e86c37bd78a" parent="aspace_2808402009edeff12842352dcf4d8c2b" type="Folder">15-01</container>
           </did>
         </c>
         <c id="aspace_3a725d456b8626261baea0e8c16a77be" level="file">
           <did>
             <unittitle>Ray Bowers</unittitle>
             <unitdate normal="1992-07-10/1992-07-10">1992 July 10</unitdate>
-            <container id="aspace_c17d9a352115f8cd5ba705c970422b9f" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_1acdcca0db233f0fd9ba4042b5e46ded" parent="aspace_c17d9a352115f8cd5ba705c970422b9f" type="Folder">15-02</container>
+            <container id="aspace_ef76361a1c5a6449aa305ec8f8367d42" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_3df72d0e95a44ec9de8a729eb031974c" parent="aspace_ef76361a1c5a6449aa305ec8f8367d42" type="Folder">15-02</container>
           </did>
         </c>
         <c id="aspace_281abdeba981eaf2c03d91a45d2f3031" level="file">
           <did>
             <unittitle>Ernest Higgins</unittitle>
             <unitdate normal="1992-07-25/1992-07-25">1992 July 25</unitdate>
-            <container id="aspace_9c6364a73665b2a02294ef56fdf8f07f" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_b95c209e78b41ec25ae6679bb53ef17c" parent="aspace_9c6364a73665b2a02294ef56fdf8f07f" type="Folder">15-03</container>
+            <container id="aspace_96165a629d073cb51fa812532a1dd577" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_842d40a379e7ceb9afa1147f645db3c0" parent="aspace_96165a629d073cb51fa812532a1dd577" type="Folder">15-03</container>
           </did>
         </c>
         <c id="aspace_389d4184b0a6eabc70e069fb014c88e3" level="file">
           <did>
             <unittitle>Chris Calomiris</unittitle>
             <unitdate normal="1992-08-24/1992-08-24">1992 August 24</unitdate>
-            <container id="aspace_3842a5b206b84f3183644f7d79f5f8dd" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_005f69cf13e4d1255e7a2fab83f8c531" parent="aspace_3842a5b206b84f3183644f7d79f5f8dd" type="Folder">15-04</container>
+            <container id="aspace_5c3b0c5a0b0b0b42553a4f59d309a6d4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_3ac1743142ab8c6b7f66a7d50247cb6c" parent="aspace_5c3b0c5a0b0b0b42553a4f59d309a6d4" type="Folder">15-04</container>
           </did>
         </c>
         <c id="aspace_aec75dd23b504ab0179a1485a5798fb9" level="file">
           <did>
             <unittitle>Thomas J. Cooper</unittitle>
             <unitdate normal="1992-12-01/1992-12-01">1992 December 1</unitdate>
-            <container id="aspace_9fffba56b4520dfb9d3fb9f9e1ade02f" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_bfd2ac65d66390565cbce308ff149775" parent="aspace_9fffba56b4520dfb9d3fb9f9e1ade02f" type="Folder">15-05</container>
+            <container id="aspace_8bc5b834664741d1a07f2c9568e944e5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0a5dd4c16f096ba41428adc42d7b855d" parent="aspace_8bc5b834664741d1a07f2c9568e944e5" type="Folder">15-05</container>
           </did>
         </c>
         <c id="aspace_c1df0dfa8ee1ab86e35c3572c3029b1c" level="file">
           <did>
             <unittitle>Harry Hodges</unittitle>
             <unitdate normal="1992-12-16/1992-12-16">1992 December 16</unitdate>
-            <container id="aspace_97c5b93bfbe532efa8fc7175db1a1ffd" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_11865e9f146ccc7605528d4f7e67f75e" parent="aspace_97c5b93bfbe532efa8fc7175db1a1ffd" type="Folder">15-07</container>
+            <container id="aspace_ddc7db6fbb39a8d5e2005c05938e105c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_1b791a6f95d6ff0123f31414a04631e7" parent="aspace_ddc7db6fbb39a8d5e2005c05938e105c" type="Folder">15-07</container>
           </did>
         </c>
         <c id="aspace_2ad78b774d37fa5815b4f96cee6162ff" level="file">
           <did>
             <unittitle>Esther Hodges</unittitle>
             <unitdate normal="1993-01-14/1993-01-14">1993 January 14</unitdate>
-            <container id="aspace_7ae543725a239414f5612b27b1e41a0a" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_09a8af5887c6991e0129e88f4566fe25" parent="aspace_7ae543725a239414f5612b27b1e41a0a" type="Folder">15-08</container>
+            <container id="aspace_bf41413b612de3d3e9ee631929ef049c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_32abd770deed3d6034169e0200b6324a" parent="aspace_bf41413b612de3d3e9ee631929ef049c" type="Folder">15-08</container>
           </did>
         </c>
         <c id="aspace_78e6cba2cf605c6cb98dd2ee22924e81" level="file">
           <did>
             <unittitle>Charles Glasgow</unittitle>
             <unitdate normal="1993-01-13/1993-01-13">1993 January 13</unitdate>
-            <container id="aspace_8b0b73372178dcc8ac688a887c6da9c0" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_1e083659ecbb61ab33fd138955bc2857" parent="aspace_8b0b73372178dcc8ac688a887c6da9c0" type="Folder">15-09</container>
+            <container id="aspace_0424b34516acff8e37750d0b2179ada9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f6f0ffab6b521026f4f0757a6834080d" parent="aspace_0424b34516acff8e37750d0b2179ada9" type="Folder">15-09</container>
           </did>
         </c>
         <c id="aspace_182d8e0946435f5d748fd219197ebb62" level="file">
           <did>
             <unittitle>David Fowler</unittitle>
-            <container id="aspace_03738a0f67fc2d838cf4ebecb6266ae8" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_86988b3e37c449570293c87152b8490e" parent="aspace_03738a0f67fc2d838cf4ebecb6266ae8" type="Folder">15-11</container>
+            <container id="aspace_88a0115203b05ca771ee38afd25d172d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_867faec08e539237a230fb02801fa5d0" parent="aspace_88a0115203b05ca771ee38afd25d172d" type="Folder">15-11</container>
           </did>
         </c>
         <c id="aspace_e58b1282aba41c09d31c2fc159641cfc" level="file">
           <did>
             <unittitle>Charles Sherzer</unittitle>
             <unitdate normal="1993-01-22/1993-01-22">1993 January 22</unitdate>
-            <container id="aspace_b67a524f3eb878805fe2d7ae1d1599bb" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_88c4d3429c58b626d901f00a377288f3" parent="aspace_b67a524f3eb878805fe2d7ae1d1599bb" type="Folder">15-12</container>
+            <container id="aspace_2cf9a92a34c6ddffdfc3c933bf8a2762" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b60ceecf516699fb366c6fb58cb3362a" parent="aspace_2cf9a92a34c6ddffdfc3c933bf8a2762" type="Folder">15-12</container>
           </did>
         </c>
       </c>

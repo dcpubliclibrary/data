@@ -1,0 +1,428 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid/>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Southwest Neighborhood Assembly Collection<num>1997.010</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:51:39 -0400</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
+      </repository>
+      <unittitle>Southwest Neighborhood Assembly Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n2003081624" source="LCSH">Southwest Neighborhood Assembly (Washington, D.C.)</corpname>
+      </origination>
+      <unitid>1997.010</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">7 Linear feet</extent>
+      </physdesc>
+      <unitdate normal="1963/2011" type="bulk">1963-2011</unitdate>
+    </did>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090663" source="Library of Congress Subject Headings">Neighborhood associations</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_bb1b0d7cd3b6c496e4ae297cf1472da8" level="file">
+        <did>
+          <unittitle>Before 1963 Binder - Org Records</unittitle>
+          <container id="aspace_34dcb97dcbd6b04cce60b0906d6702cb" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_fce038b271d02af759327fa1cf96e996" parent="aspace_34dcb97dcbd6b04cce60b0906d6702cb" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_2c85b2cbce202349b1f42b7e20b568c2" level="file">
+        <did>
+          <unittitle>1963 - Early Records of SWNA binder</unittitle>
+          <unitdate normal="1963/1963">1963</unitdate>
+          <container id="aspace_35a27c7e87ac7e48936955d2be934bec" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_7ad3ce9a888888b6f15202b157ac205e" parent="aspace_35a27c7e87ac7e48936955d2be934bec" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_93d8a5bc163edf739ac11536a767c7a6" level="file">
+        <did>
+          <unittitle>1964 - General Documents binder</unittitle>
+          <unitdate normal="1964/1964">1964</unitdate>
+          <container id="aspace_e1672a00cad673777c739cd7fdd2e686" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_57a067d5325ab541dc5824a7a68d283d" parent="aspace_e1672a00cad673777c739cd7fdd2e686" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_4baa718abb54c9c9e7b6e70e89f0bb69" level="file">
+        <did>
+          <unittitle>1965 - General Documents and Org Records binder</unittitle>
+          <unitdate normal="1965/1965">1965</unitdate>
+          <container id="aspace_ea1ad2470af74b0034aadd18358ec809" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_12a7aad49eefc7fa52aa557f87ab6b7d" parent="aspace_ea1ad2470af74b0034aadd18358ec809" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_4f3af4ec39a8e1c4de564c30feb06028" level="file">
+        <did>
+          <unittitle>Bylaws Binder</unittitle>
+          <unitdate normal="1967/2008" type="inclusive">1967 - 2008</unitdate>
+          <container id="aspace_5601e159f57acd2ff3d8e1b9a7b55b09" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_22a6854bb679186b85bba6c52627bcf4" parent="aspace_5601e159f57acd2ff3d8e1b9a7b55b09" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_7082586b6be1bde2fabaef3de80954a2" level="file">
+        <did>
+          <unittitle>Annual Reports Binder</unittitle>
+          <unitdate normal="1995/2006" type="inclusive">1995 - 2006</unitdate>
+          <container id="aspace_74bb6fa75d3bb8b30d50bea8638d7141" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_a06ef1a70dd6cf05d2c4ca152613b71e" parent="aspace_74bb6fa75d3bb8b30d50bea8638d7141" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_03fedf671267db5790d27a59772ae81d" level="file">
+        <did>
+          <unittitle>Bylaws, Reports, Meeting Minutes Binder</unittitle>
+          <unitdate normal="1984/1994" type="inclusive">1984 - 1994</unitdate>
+          <container id="aspace_213d6de2c115184e07a32210e9ff081f" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_703025b7b733f7ae8868c38adba39645" parent="aspace_213d6de2c115184e07a32210e9ff081f" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_4d1f39de3dc52fd103740de787531fac" level="file">
+        <did>
+          <unittitle>Bylaws, Reports, Meeting Minutes Binder</unittitle>
+          <unitdate normal="1995/1997" type="inclusive">1995 - 1997</unitdate>
+          <container id="aspace_2a1cd302f644784f65e94194bfcb664f" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_fb48d1136ca07c89c32ad09abc39ed2d" parent="aspace_2a1cd302f644784f65e94194bfcb664f" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_04a376e9f354980ccfdb327f62a794c7" level="file">
+        <did>
+          <unittitle>Minutes and Other Records Binder</unittitle>
+          <unitdate normal="1998/1998">1998 (compiled 2006)</unitdate>
+          <container id="aspace_a751a15e43430c123bbabd896abccf14" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_1f56cf22918574ccea313c9204c042cf" parent="aspace_a751a15e43430c123bbabd896abccf14" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_fa2c930bfe94b8ef7f912176a8eb34bd" level="file">
+        <did>
+          <unittitle>Annual Reports Folder</unittitle>
+          <unitdate normal="1998/2006" type="inclusive">1998 - 2006</unitdate>
+          <container id="aspace_979baaf265b074e2f92fccc3d3191511" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_3f24d633172592843309c4814639129d" parent="aspace_979baaf265b074e2f92fccc3d3191511" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ad127d697cd7eab67cbd99227fea1822" level="file">
+        <did>
+          <unittitle>Meeting Minutes, Agendas Binder</unittitle>
+          <unitdate normal="2007/2008" type="inclusive">2007 - 2008</unitdate>
+          <container id="aspace_ba114038011b786e00835b524cca3002" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_ffe0b61f9ddb4af9ec8fa9fbef7c3c0c" parent="aspace_ba114038011b786e00835b524cca3002" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_2d688c2cb3f5e9ab9bc6a43d5d236825" level="file">
+        <did>
+          <unittitle>Articles, Grant Program Materials Folder</unittitle>
+          <unitdate normal="2002/2003" type="inclusive">2002 - 2003</unitdate>
+          <container id="aspace_cef1b94fcf829235fff5d2120b8aa952" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_6a1d4033581c63926071c295bbb1dba8" parent="aspace_cef1b94fcf829235fff5d2120b8aa952" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_2f3d11eb6f34ce5e5dc3be3038a963f4" level="file">
+        <did>
+          <unittitle>Call box project materials</unittitle>
+          <unitdate normal="2000/2001" type="inclusive">2000 - 2001</unitdate>
+          <container id="aspace_ae1b395a424d856281678d3cba6bbdba" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_c2a4f46346b5b317c3257be8e35c3113" parent="aspace_ae1b395a424d856281678d3cba6bbdba" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ab4a8d1edfc8d2918034428f25a7bb71" level="file">
+        <did>
+          <unittitle>Call box project materials and ADA documents folder</unittitle>
+          <container id="aspace_c0ccd2a1923a8aef08ff5fb20e0b9fef" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_a4546fe126e76ebda9230cf90dba43ed" parent="aspace_c0ccd2a1923a8aef08ff5fb20e0b9fef" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_fb9cd95557a223ad870c0e316b640651" level="file">
+        <did>
+          <unittitle>Minutes, letters, emails, Heritage Trail</unittitle>
+          <unitdate normal="2004/2004">2004</unitdate>
+          <container id="aspace_6aa7516d1fcdc3ac2552a9a7ecf26be1" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_bf02e0f58490c3036e9dd80769ab4126" parent="aspace_6aa7516d1fcdc3ac2552a9a7ecf26be1" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_f9db2f9e8d30d585d831905780c30bea" level="file">
+        <did>
+          <unittitle>Budget and Expense Reports</unittitle>
+          <unitdate normal="2007/2007">2007</unitdate>
+          <container id="aspace_bca83d296525f98289e11c259166bfed" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_543904a159f2dd7dec0c231b1d15fe90" parent="aspace_bca83d296525f98289e11c259166bfed" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_12b9652044773b9a9c6d27bccb408bc2" level="file">
+        <did>
+          <unittitle>Meeting Agenda, Board Members List, By-Laws Binder</unittitle>
+          <unitdate normal="1999/1999">1999</unitdate>
+          <container id="aspace_a4844dec2a0ae8b6744a5f32f1dcba2b" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_e7c10b7948fbaa1f5051c121ebe1e78b" parent="aspace_a4844dec2a0ae8b6744a5f32f1dcba2b" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_06d6953829813a6a5d4a715124250b91" level="file">
+        <did>
+          <unittitle>Meeting Minutes Binder</unittitle>
+          <unitdate normal="2005-04/2006-03" type="inclusive">2005-2006 (April to March)</unitdate>
+          <container id="aspace_375a7559aaa8ba3724c5098988e99d9a" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_e32576a6029ef10c59be23ee31c16b8d" parent="aspace_375a7559aaa8ba3724c5098988e99d9a" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_0a92c07f7835c8010232870322e8c986" level="file">
+        <did>
+          <unittitle>Call Box Materials, Waterside Mall and Towers, 11th Street Bridge Project, Minutes folder</unittitle>
+          <unitdate normal="2006-08/2006-12" type="inclusive">August - December, 2006</unitdate>
+          <container id="aspace_68a6ecfc37eb336fe28c1efc4f2ac795" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_d7fa64a271a45bb42282cd9dd3217fda" parent="aspace_68a6ecfc37eb336fe28c1efc4f2ac795" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_f43936bc2f81528826e046afe71b0699" level="file">
+        <did>
+          <unittitle>Compact Disc "History of Old SW," Budget Meetings, Anacostia Waterfront, Walking Tour, and Neighborhood History, folder</unittitle>
+          <unitdate normal="2006-01/2006-07" type="inclusive">January - July 2006</unitdate>
+          <container id="aspace_5627da5ee2e5fb98a9968c8a60840f7f" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_92def150b3ffab537b4c7389621c1641" parent="aspace_5627da5ee2e5fb98a9968c8a60840f7f" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_db87bec238567a10ec34fe4abf5d82fc" level="file">
+        <did>
+          <unittitle>Redevelopment documents, urban renewal, Call Boxes, Dupont Circle Call Box Art, Fundraising, Baseball Stadium folder</unittitle>
+          <unitdate normal="2005-05/2005-12" type="inclusive">May - December 2005</unitdate>
+          <container id="aspace_eea4860fdbd55bf43b13627c5c379451" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_c3d14b72f6eaa304a991cdbeb226375a" parent="aspace_eea4860fdbd55bf43b13627c5c379451" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_27a076854080f9a67cad153ba374d54a" level="file">
+        <did>
+          <unittitle>Call Box materials, grant application, Waterside Towers Petition to save businesses folder</unittitle>
+          <unitdate normal="2005-01/2005-04" type="inclusive">January - April 2005</unitdate>
+          <container id="aspace_d6dbce0ae19466377801730648b6f3ed" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_8c4e11e7213e9206d0bb5d8198b82cbc" parent="aspace_d6dbce0ae19466377801730648b6f3ed" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_875872b5274e431dc48c46e5c4cdf9b7" level="file">
+        <did>
+          <unittitle>Art on Call Call Box Project, Call Box Correspondence, Committee Task Force Reports folder</unittitle>
+          <unitdate normal="2005-01/2005-03" type="inclusive">January - March 2005</unitdate>
+          <container id="aspace_8fddbad0d6fb727c75bd061d957be5ae" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_1a42d3101281613001a44bd63a96856d" parent="aspace_8fddbad0d6fb727c75bd061d957be5ae" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_7cf946395ed19d70cb3972f785072212" level="file">
+        <did>
+          <unittitle>Call Boxes map and related materials, meeting agendas and minutes, Cherry Blossom Festival</unittitle>
+          <unitdate normal="2008-04/2008-12" type="inclusive">April - December 2008</unitdate>
+          <container id="aspace_2d584ed558789ba984a21904695e4e12" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_c3d0e6285acb3d9ddcd01fa919f9f907" parent="aspace_2d584ed558789ba984a21904695e4e12" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_fe94ee7c1d89d91fe77fca4f05792203" level="file">
+        <did>
+          <unittitle>Call Box Correspondence, Annual Reports, Cherry Blossom Festival folder</unittitle>
+          <unitdate normal="2008-03/2008-03">2008-03-01 00:00:00</unitdate>
+          <container id="aspace_a8d82ccd0e5f1d1adc7c708ab3bf0a22" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_203c53ec51af927af0c4049533d55ade" parent="aspace_a8d82ccd0e5f1d1adc7c708ab3bf0a22" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_5da94870d5b76c2add3ab02f76076b00" level="file">
+        <did>
+          <unittitle>Call Box Materials--articles and letters, Washington Studies Conference</unittitle>
+          <unitdate normal="2007-08/2007-12" type="inclusive">August - December 2007</unitdate>
+          <container id="aspace_da94e0e1f53175c6bc6b8b5cb0f89b76" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_6477651faf2d0a4c1197814574d91318" parent="aspace_da94e0e1f53175c6bc6b8b5cb0f89b76" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_58dbe9a5d1997c2de0705b51cf584838" level="file">
+        <did>
+          <unittitle>Call Box Unveiling events and related email correspondence, and Submission Guidelines folder</unittitle>
+          <unitdate normal="2009-05/2009-12" type="inclusive">May - December 2009</unitdate>
+          <container id="aspace_cce136625bf632a00318ecd58626c95e" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_c4c9da8d19cf99a07e5b5e802962ae7d" parent="aspace_cce136625bf632a00318ecd58626c95e" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_08d596a71fc3bcb552cc5902f8c072b1" level="file">
+        <did>
+          <unittitle>Call Box Unveiling events and related email correspondence folder</unittitle>
+          <unitdate normal="2009-01/2009-04" type="inclusive">January - April 2009</unitdate>
+          <container id="aspace_04e1bd18ad1b337751e1f5e6edc24125" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_ca46c80325bba658c1eecd5d8c72117a" parent="aspace_04e1bd18ad1b337751e1f5e6edc24125" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_c61cefb4cc8ae64992355553b7797b13" level="file">
+        <did>
+          <unittitle>Cherry Blossom Festival, Unveiling Call Box for ADA loose items,</unittitle>
+          <unitdate normal="2010/2010">2010</unitdate>
+          <container id="aspace_3b7d1058e2b7730c1dbcab0563791dd4" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_9abb1b008bf93ccc656c84873cc394de" parent="aspace_3b7d1058e2b7730c1dbcab0563791dd4" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_807e70306eebeffe71b6b5a9dcd8d7f9" level="file">
+        <did>
+          <unittitle>ADA Call Box information, Southwesters, call box project brochures, newspaper articles, and call box maps folder</unittitle>
+          <unitdate normal="2010/2010">2010</unitdate>
+          <container id="aspace_55cadf439615c33d1ee914c1ae37a964" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_c4c55a1a02be22c1914179bb67e55444" parent="aspace_55cadf439615c33d1ee914c1ae37a964" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_62b8c9728049182654e43e8c4692c9fa" level="file">
+        <did>
+          <unittitle>Cherry Blossom Festival, Southwester, SWNA Annual Reports (loose items)</unittitle>
+          <unitdate normal="2011/2011">2011</unitdate>
+          <container id="aspace_a2b4451b11f6d27aced636673233a0d5" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_e58279e2e70d36285440ee210c179e37" parent="aspace_a2b4451b11f6d27aced636673233a0d5" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_e48ba54af00e4484a264d0b63dd5020e" level="file">
+        <did>
+          <unittitle>National Registry Registration Form, Public Hearing for Development of Waterfront, Correspondence, Correspondence and DC Heritage Project</unittitle>
+          <unitdate normal="2011/2011">2011</unitdate>
+          <container id="aspace_327193a6a96d1d76b1b9b86e951ed1c3" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_404f60a09398cf9b5f675c51b3bba039" parent="aspace_327193a6a96d1d76b1b9b86e951ed1c3" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_2315d0f63ab4ccafc06f0472fbc4958f" level="file">
+        <did>
+          <unittitle>Cherry Blossom Festival, Conference DC, Call Box Map cards, Southwester issues</unittitle>
+          <unitdate normal="2012/2013" type="inclusive">2012 - 2013, 2015</unitdate>
+          <container id="aspace_47af5a25dae980cc7d838b5550e1e27c" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_798efd2dd727163c46b5b70c7c4e3bd3" parent="aspace_47af5a25dae980cc7d838b5550e1e27c" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_0761a89d52bf6b650ae7e4b7898fa79c" level="file">
+        <did>
+          <unittitle>Southwester loose issues/"old copies"</unittitle>
+          <unitdate normal="1973/1981" type="inclusive">1973 - 1981</unitdate>
+          <container id="aspace_e1c0f868d05d7126550d557dfdcbb24e" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_ff011d1a801e60ea6a6542d96624490d" parent="aspace_e1c0f868d05d7126550d557dfdcbb24e" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_2e923ed82fc9a986a5171ddf8f3707b8" level="file">
+        <did>
+          <unittitle>Southwester loose issues</unittitle>
+          <unitdate normal="1976/1990" type="inclusive">1976 - 1990</unitdate>
+          <container id="aspace_8c8312afe89eb65124176556edc95964" label="Mixed Materials" type="Box">7</container>
+          <container id="aspace_28465242c83abcde7c6db6921867dad1" parent="aspace_8c8312afe89eb65124176556edc95964" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_b5e06f67e6c248693826e8771ae6ab75" level="file">
+        <did>
+          <unittitle>Southwester loose issues</unittitle>
+          <unitdate normal="2008/2018" type="inclusive">2008 - 2018</unitdate>
+          <container id="aspace_80ecaf59b79fe5d0ef77df075bc438de" label="Mixed Materials" type="Box">8</container>
+          <container id="aspace_46d33a5f016d646a34654fbf0e887d5e" parent="aspace_80ecaf59b79fe5d0ef77df075bc438de" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_5ee503a4754ccfa213f4456871fdd9e5" level="file">
+        <did>
+          <unittitle>Southwester loose issues</unittitle>
+          <unitdate normal="2005/2012" type="inclusive">2005 - 2012</unitdate>
+          <container id="aspace_c762c2413edd8a281ca490c34e5f69d5" label="Mixed Materials" type="Box">9</container>
+          <container id="aspace_4091a17109c26a14de70916da29a9c58" parent="aspace_c762c2413edd8a281ca490c34e5f69d5" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_4da829a16f853763534e144323b9e701" level="file">
+        <did>
+          <unittitle>Southwester "early" issues binder</unittitle>
+          <unitdate normal="1966/1980" type="inclusive">1966 - 1980</unitdate>
+          <container id="aspace_cd6db1bc5c2ab3c66a454cb7dd97d813" label="Mixed Materials" type="Box">10</container>
+          <container id="aspace_b11c7578eea41343b69ee42936961142" parent="aspace_cd6db1bc5c2ab3c66a454cb7dd97d813" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_e0a218447ce59817502fe871c59bffe1" level="file">
+        <did>
+          <unittitle>Southwester cardboard covers</unittitle>
+          <unitdate normal="1980/1981" type="inclusive">1980 - 1981</unitdate>
+          <container id="aspace_fa2745abf90389dcdb23ba13373397c7" label="Mixed Materials" type="Box">10</container>
+          <container id="aspace_2566e432d3ba803f37d5af0a8828f4db" parent="aspace_fa2745abf90389dcdb23ba13373397c7" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_129dabe0169ba8028ce02976010b4a19" level="file">
+        <did>
+          <unittitle>Southwester cardboard covers</unittitle>
+          <unitdate normal="1985/1989" type="inclusive">1985 - 1989</unitdate>
+          <container id="aspace_b4d0df62f32567171157384e4183b7c4" label="Mixed Materials" type="Box">10</container>
+          <container id="aspace_0049d5d121e7e3b543265ccab9859835" parent="aspace_b4d0df62f32567171157384e4183b7c4" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_3bd9a12d166aa3dcf308af978d2aaf24" level="file">
+        <did>
+          <unittitle>Southwester cardboard covers</unittitle>
+          <unitdate normal="1985/1985">1985</unitdate>
+          <container id="aspace_84e4956e5b09406592f2bf798bbb24fa" label="Mixed Materials" type="Box">10</container>
+          <container id="aspace_09171179d4f954cd1a7333bfc49716df" parent="aspace_84e4956e5b09406592f2bf798bbb24fa" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_41b7361c21395e1fe435340a92b23590" level="file">
+        <did>
+          <unittitle>Southwester cardboard covers</unittitle>
+          <unitdate normal="1982/1984" type="inclusive">1982 - 1984</unitdate>
+          <container id="aspace_aee156721ac8a47ba3aa382ac6d8da51" label="Mixed Materials" type="Box">10</container>
+          <container id="aspace_a28cb756dc726952255184b912da902b" parent="aspace_aee156721ac8a47ba3aa382ac6d8da51" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_94ad32f2385b2389b0cbd10d9e337d00" level="file">
+        <did>
+          <unittitle>SWNA Meeting Minutes binder</unittitle>
+          <unitdate normal="2000/2005" type="inclusive">2000 - 2005</unitdate>
+          <container id="aspace_37d531e526ee6ee2adb941cf435dc183" label="Mixed Materials" type="Box">10</container>
+          <container id="aspace_235caec1b4fb9e80ae3fa8a751126ddd" parent="aspace_37d531e526ee6ee2adb941cf435dc183" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_64663eaccde5907c5fa78fa6f6708bbd" level="file">
+        <did>
+          <unittitle>Articles of Incorporation - Southwest Community Council, List of Board Members, and Treasurer's Report</unittitle>
+          <unitdate normal="1964/1968" type="inclusive">1964 - 1968</unitdate>
+          <container id="aspace_bb437c3b2ed1eacb7fb1a08ad89f4370" label="Mixed Materials" type="Box">10</container>
+          <container id="aspace_3bc314a8976f2a8145aa44b0ae965af6" parent="aspace_bb437c3b2ed1eacb7fb1a08ad89f4370" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_1d5992a9e281e8888a51bdf88b8fd1fc" level="file">
+        <did>
+          <unittitle>Southwesters Bound (7 items)</unittitle>
+          <unitdate normal="2001/2004" type="inclusive">2001 - 2004</unitdate>
+          <container id="aspace_e2be8a4a9db59dd3cd6022270b4b4acb" label="Mixed Materials" type="Box">10</container>
+          <container id="aspace_2168518197f28786e4f59bbd04a38e01" parent="aspace_e2be8a4a9db59dd3cd6022270b4b4acb" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_30553e51b36a20489ab828a3af46a218" level="file">
+        <did>
+          <unittitle>Southwesters Bound (20 items)</unittitle>
+          <unitdate normal="1978/1981" type="inclusive">1978 - 1981</unitdate>
+          <container id="aspace_d2594b5e7efe7d6a1be6bfdc57149aee" label="Mixed Materials" type="Box">11</container>
+          <container id="aspace_8de25e281c961c809e5e92ee9d5cff33" parent="aspace_d2594b5e7efe7d6a1be6bfdc57149aee" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_8d17f635d1972fdc2314b920d4ba2dc8" level="file">
+        <did>
+          <unittitle>Southwesters Bound (13 items)</unittitle>
+          <unitdate normal="1980/1985" type="inclusive">1980 - 1985</unitdate>
+          <container id="aspace_9b5bc25ce721600b4b9710c53887dc99" label="Mixed Materials" type="Box">12</container>
+          <container id="aspace_df9cec3c4346d80102aa88fec95ab288" parent="aspace_9b5bc25ce721600b4b9710c53887dc99" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_63d4bf654360e62ec6c5d1c197a8f37e" level="file">
+        <did>
+          <unittitle>Southwesters Bound (19 items) and SW Community Park booklet and Southwester Index</unittitle>
+          <unitdate normal="1986/2005" type="inclusive">1986 - 2005</unitdate>
+          <container id="aspace_334d2d88f20dd387c879ce39da653a86" label="Mixed Materials" type="Box">13</container>
+          <container id="aspace_74fedfe698d3fa346b00b76fc524e203" parent="aspace_334d2d88f20dd387c879ce39da653a86" type="Folder">1</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

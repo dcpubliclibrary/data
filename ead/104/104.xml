@@ -3,23 +3,34 @@
     <eadid url="http://washingtoniana.dclibrary.org">104YWCA</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper type="filing">Young Women's Christian Association Collection</titleproper>
-        <titleproper>Young Women's Christian Association <num>104</num> <num>104</num></titleproper>
-        <subtitle>An inventory of Young Women's Christian Association at DC Public Library</subtitle>
+        <titleproper type="filing">Young Women's Christian Association (YWCA) Collection</titleproper>
+        <titleproper>Young Women's Christian Association (YWCA) Collection <num>104</num></titleproper>
+        <subtitle>An inventory of Young Women's Christian Association (YWCA) Collection at DC Public Library</subtitle>
         <author>Finding aid prepared by Rachel Telford.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2007-01</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:10:05 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:46:33 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-08-26</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,29 +38,57 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
-      <unittitle>Young Women's Christian Association Collection</unittitle>
+      <unittitle>Young Women's Christian Association (YWCA) Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/nr2004018673" source="LCSH">Young Women's Christian Association (YWCA)</corpname>
+      </origination>
       <unitid>104</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.5 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1912/1989" type="inclusive">1912-1989</unitdate>
-      <langmaterial id="aspace_7be8611e16d12dd34bbbf7af0d9f92d0">English</langmaterial>
       <langmaterial id="aspace_ea415519190e852e675b693067127926">English</langmaterial>
     </did>
+    <arrangement id="aspace_43b674591ffad1602f5e2f1d3599dc71">
+      <head>Arrangement</head>
+      <p>Series 1: Clippings<br/>
+This series contains clippings from local newspapers regarding the YWCA.<br/>
+<br/>
+Series 2: Pamphlets and publications<br/>
+This series includes pamphlets and publications on membership, educational, recreational and health programs, and organizational information related to the YWCA.</p>
+    </arrangement>
     <bioghist id="aspace_54149a46d21aae9b2054a66b8def0980">
       <head>Biographical / Historical</head>
-      <p>The YWCA of Washington, DC was organized on May 5, 1905, with Bettie G. Francis as President. The organization was incorporated on June 30, 1905, and by the end of its first year has 193 members. The mission of the YWCA was "to provide employment, housing, and moral development for young women," but over the years it has expanded to include programs for men, women and children in all areas of health, fitness, education, career training, youth programs and the arts.</p>
+      <p>The YWCA of Washington, D.C. was organized on May 5, 1905 and incorporated later that year, on June 30. Bettie G. Francis served as the first President. By the end of its first year, the organization had 193 members. The original mission of the YWCA was "to provide employment, housing, and moral development for young women." Over the years, however, the organization's reach expanded to include programs for men, women, and children in all areas of health, fitness, education, career training, youth programs and the arts.</p>
     </bioghist>
+    <custodhist id="aspace_534e4726d0c9cc3d96d54f6a06c15667">
+      <head>Custodial History</head>
+      <p>The provenance of this collection is unknown.</p>
+    </custodhist>
+    <processinfo id="aspace_ab09390324e430693d045f282906fb9c">
+      <head>Processing Information</head>
+      <p>Standard archival procedures were used at the time of processing.</p>
+    </processinfo>
     <scopecontent id="aspace_8abdfa4aead90b60836670f2e9b7ea5c">
       <head>Scope and Contents</head>
-      <p>The collection consists of clippings, pamphlets, promotional materials, and organizational information. The materials are divided into two series: Clippings and Pamphlets &amp; Publications.</p>
+      <p>This collection consists of clippings, pamphlets, promotional materials, and organizational information pertaining to the Young Women's Christian Association (YWCA) in Washington, D.C.</p>
     </scopecontent>
+    <userestrict id="aspace_fba1a11715d70dbc2f5576f328138348">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008810" source="lcsh">Associations, institutions, etc</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85141324" source="Library of Congress Subject Headings">Urban renewal</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85053952" source="lcsh">Gentrification</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85040989" source="lcsh">Education</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85147274" source="Library of Congress Subject Headings">Women</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101540" source="Library of Congress Subject Headings">Physical fitness</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_9fe9639c12af7e2ce1e03afe88a23bbf" level="series">
@@ -64,24 +103,24 @@
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1912/1949" type="inclusive">1912-1949</unitdate>
-            <container id="aspace_5313fbe63f84ed7aee74f9a6f55ab8a5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c2a40beda75891ea934a803c58ae6ff5" parent="aspace_5313fbe63f84ed7aee74f9a6f55ab8a5" type="Folder">1</container>
+            <container id="aspace_27331b76d097a0eb4fb1ae3649c6f7d7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fb7ebe9a6cefb6ab3c7598cf66b75177" parent="aspace_27331b76d097a0eb4fb1ae3649c6f7d7" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_d59c56bb6381386821c669712e7929a3" level="file">
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1950/1971" type="inclusive">1950-1971</unitdate>
-            <container id="aspace_7f61e5c3530ef7b02be0d5ec4fa425ed" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a5ee695a151ec023f2e4f0368fd32002" parent="aspace_7f61e5c3530ef7b02be0d5ec4fa425ed" type="Folder">2</container>
+            <container id="aspace_497e8238b27cdd7844e7b425104d6bcc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7ec00ccce61522f1be1f14f918a27bec" parent="aspace_497e8238b27cdd7844e7b425104d6bcc" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_75a3eafd041f8bc5cfb81ade02765a14" level="file">
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1973/1989" type="inclusive">1973-1989</unitdate>
-            <container id="aspace_5429aff527da2ce09b12ce8980a41546" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9fc941c6b5d5280ecf6c3eb084c95992" parent="aspace_5429aff527da2ce09b12ce8980a41546" type="Folder">3</container>
+            <container id="aspace_bb74cf2ffa3980ca9dce8fc1a34a3add" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_879cbb575cac21d4f3547fc12de51457" parent="aspace_bb74cf2ffa3980ca9dce8fc1a34a3add" type="Folder">3</container>
           </did>
         </c>
       </c>
@@ -97,48 +136,48 @@
           <did>
             <unittitle>Education</unittitle>
             <unitdate normal="1922/1932" type="inclusive">1922-1932</unitdate>
-            <container id="aspace_f85da08006545b88f59e4bbd99e3c013" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0b18598edfbf6f1492158afb13e6e181" parent="aspace_f85da08006545b88f59e4bbd99e3c013" type="Folder">4</container>
+            <container id="aspace_5d1911ca67e0a43c6285b9f801a1e851" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3ed6a3e9d0d899294e3ce0ffed766b57" parent="aspace_5d1911ca67e0a43c6285b9f801a1e851" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_57ba2d7275fce06dd87700ddda53b2f4" level="file">
           <did>
             <unittitle>Education</unittitle>
             <unitdate normal="1932/1945" type="inclusive">1932-1945</unitdate>
-            <container id="aspace_b0dc4dc06395ab87f726e374821293db" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a2777373304064a91c475e7b12e79116" parent="aspace_b0dc4dc06395ab87f726e374821293db" type="Folder">5</container>
+            <container id="aspace_0c9757b9178fb99d4947794968963665" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5e323a224c92afdbb92e24b8677c11a0" parent="aspace_0c9757b9178fb99d4947794968963665" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_56d99afca8a1f168c4346d7c80cd1489" level="file">
           <did>
             <unittitle>Education</unittitle>
             <unitdate normal="1945/1988" type="inclusive">1945-1988</unitdate>
-            <container id="aspace_856ee30169968f4b78ca7c8239011604" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a3a2e310777de8fc61e5c3e6f3346485" parent="aspace_856ee30169968f4b78ca7c8239011604" type="Folder">6</container>
+            <container id="aspace_dd941d2aa720fddd049c8eb3538329ff" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c26dd62ee192e573f950d539c4d8cc13" parent="aspace_dd941d2aa720fddd049c8eb3538329ff" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_83065ccfecabd6148231de5441c2f49a" level="file">
           <did>
             <unittitle>Health and Recreation</unittitle>
             <unitdate normal="1921/1948" type="inclusive">1921-1948</unitdate>
-            <container id="aspace_7ab39f76fc4b933a7fe093db7581bb31" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1f394ab5dcd5abad7c806afd7880744c" parent="aspace_7ab39f76fc4b933a7fe093db7581bb31" type="Folder">7</container>
+            <container id="aspace_5db28486710e27ee5c3139df275574cb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_98f053f6bd76b8da74b5f5076636c9cd" parent="aspace_5db28486710e27ee5c3139df275574cb" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_d5470fa231808cf96db8dd659dc2130c" level="file">
           <did>
             <unittitle>Membership</unittitle>
             <unitdate normal="1936/1942" type="inclusive">1936-1942</unitdate>
-            <container id="aspace_a5c4a1d9cd6901d634c8d1c1c4c04ddc" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5a72ebfa8037f0a75fd78572a242bddc" parent="aspace_a5c4a1d9cd6901d634c8d1c1c4c04ddc" type="Folder">8</container>
+            <container id="aspace_e75ed9f48847b6d8c73f1574ced1a743" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_590fd2848d4e4761618b5094bede2c18" parent="aspace_e75ed9f48847b6d8c73f1574ced1a743" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_7f5f25b6c0a2b51b3c292ece064039b3" level="file">
           <did>
             <unittitle>Organizational Information</unittitle>
             <unitdate normal="1912/1989" type="inclusive">1912-1989</unitdate>
-            <container id="aspace_e72e2ab552be7dbaf4b98cc71f7bf848" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e93364f46f01bd0eaf6a3bb4e9026b96" parent="aspace_e72e2ab552be7dbaf4b98cc71f7bf848" type="Folder">9</container>
+            <container id="aspace_1793cabc3a02a7b80301eb52cc81f778" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4ccf6a187e9e9cc09483381960b57976" parent="aspace_1793cabc3a02a7b80301eb52cc81f778" type="Folder">9</container>
           </did>
         </c>
       </c>

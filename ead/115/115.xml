@@ -3,23 +3,34 @@
     <eadid url="http://washingtoniana.dclibrary.org">115USDaughters</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper type="filing">United States Daughters of 1812, DC Collection</titleproper>
-        <titleproper>United States Daughters of 1812, DC <num>115</num> <num>115</num></titleproper>
-        <subtitle>An inventory of United States Daughters of 1812, DC at DC Public Library</subtitle>
+        <titleproper type="filing">National Society United States Daughters of 1812, District of Columbia Society</titleproper>
+        <titleproper>National Society United States Daughters of 1812, District of Columbia Society <num>115</num></titleproper>
+        <subtitle>An inventory of National Society United States Daughters of 1812, District of Columbia Society at DC Public Library</subtitle>
         <author>Finding aid prepared by Lindsay Halkola.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2007-07</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:11:09 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:47:36 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-08-13</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,25 +38,54 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
-      <unittitle>United States Daughters of 1812, DC Collection</unittitle>
+      <unittitle>National Society United States Daughters of 1812, District of Columbia Society</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n86129871" source="LCSH">National Society, United States Daughters of 1812. District of Columbia Society</corpname>
+      </origination>
       <unitid>115</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.25 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1923/1958" type="inclusive">1923-1958</unitdate>
-      <langmaterial id="aspace_833b3ba224365a74db5234db5ff642c9">English</langmaterial>
       <langmaterial id="aspace_7cb2bf245cfd65cfdcfbe6bf16ae8258">English</langmaterial>
     </did>
+    <arrangement id="aspace_433f60a906a3456de6e12a9af3a50820">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_bd9d9beadc5725377c562b8ec85b0cd7">
       <head>Biographical / Historical</head>
-      <p>The National Society of the United States Daughters of 1812 is a society that aims to promote patriotism, preserve and increase the knowledge of the early American people, and emphasize the heroic deeds of those who molded the government between the end of the American Revolution and the period of the War of 1812.</p>
+      <p>Founded in 1892, the National Society of the United States Daughters of 1812 is a service organization for women focused on promoting patriotism, preserving and promoting the legacy of the early American people, especially between the end of the American Revolution and the War of 1812. The Society was incorporated on February 25, 1901 by an Act of the United State Congress.</p>
     </bioghist>
+    <custodhist id="aspace_53aea10962fa2cd369aa091f7cdc1c28">
+      <head>Custodial History</head>
+      <p>Provenence unknown.</p>
+    </custodhist>
+    <processinfo id="aspace_920c7ed91f099030f0826c4e30982da0">
+      <head>Processing Information</head>
+      <p>Basic archival procedures were used at the time of processing.</p>
+    </processinfo>
     <scopecontent id="aspace_eacfbc58b65e2d8e947d99c70bf86d8f">
       <head>Scope and Contents</head>
-      <p>The collection consists of Yearbooks, By-Laws, clippings, and a banquet invitation and program.</p>
+      <p>The collection consists of yearbooks, by-laws, clippings, a banquet invitation, and a program.</p>
     </scopecontent>
+    <userestrict id="aspace_c71057c420852ac3607a7a3f933f804e">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85147274" source="Library of Congress Subject Headings">Women</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85149058" source="Library of Congress Subject Headings">Yearbooks</subject>
+      <genreform source="material_type">Organizational Records</genreform>
+      <genreform source="material_type">Ephemera</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85123946" source="Library of Congress Subject Headings">Social groups</subject>
+    </controlaccess>
     <dsc>
       <c id="aspace_d0cbf6fa9a8fc91ce493e18dd217e971" level="series">
         <did>
@@ -55,112 +95,112 @@
           <did>
             <unittitle>Yearbook</unittitle>
             <unitdate normal="1923/1924" type="inclusive">1923-1924</unitdate>
-            <container id="aspace_a21fb3d6390e225704107f675b7a3f5f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_966f3899f089486eb040c642e8fa80e0" parent="aspace_a21fb3d6390e225704107f675b7a3f5f" type="Folder">1</container>
+            <container id="aspace_8efe3454ce15c74e8aa53749d4437cdf" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ba793f6a6965f4091e005b64deb40ab3" parent="aspace_8efe3454ce15c74e8aa53749d4437cdf" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_66d4f964a90135f9e674c5a01454578b" level="file">
           <did>
             <unittitle>Yearbook</unittitle>
             <unitdate normal="1931/1932" type="inclusive">1931-1932</unitdate>
-            <container id="aspace_04091833d7a5a7750318030e3a15d2c1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e7b33e78722583a63af3bdbf10ed4727" parent="aspace_04091833d7a5a7750318030e3a15d2c1" type="Folder">2</container>
+            <container id="aspace_0e373ee9a83bfc9a4e88021704e10c17" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ee125a4f01c7dab3d061b4a31ed95027" parent="aspace_0e373ee9a83bfc9a4e88021704e10c17" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_8fbd992a41ec0647765c465ba93e4960" level="file">
           <did>
             <unittitle>Yearbook</unittitle>
             <unitdate normal="1934/1935" type="inclusive">1934-1935</unitdate>
-            <container id="aspace_eb9c7376294a053d7cce11bf36d0a11a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e74336e8dd13756f4f8abff8f18f8d93" parent="aspace_eb9c7376294a053d7cce11bf36d0a11a" type="Folder">3</container>
+            <container id="aspace_d73f606d2b925eb7a502df1a80ba0e4f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2ba91117cc53efce7fb44b12c889098a" parent="aspace_d73f606d2b925eb7a502df1a80ba0e4f" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_e3e964195c518abf5566852e9334ca8f" level="file">
           <did>
             <unittitle>Yearbook (2 copies)</unittitle>
             <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate>
-            <container id="aspace_8b151063602067363808c47e89d70f30" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d9259027b705f3f47dc840562ee57196" parent="aspace_8b151063602067363808c47e89d70f30" type="Folder">4</container>
+            <container id="aspace_d3259f1401c1f24cd133fa63e9e0a178" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0b6f3f6cffa3ab217d3fec5823f874e3" parent="aspace_d3259f1401c1f24cd133fa63e9e0a178" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_7703e3f04b04a60ed2e1fd0b0c24fe42" level="file">
           <did>
             <unittitle>Yearbook</unittitle>
             <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
-            <container id="aspace_4f487e24bc8c4570da88c623e732bde3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3fe1cec2978006f3743f5f329a1343d0" parent="aspace_4f487e24bc8c4570da88c623e732bde3" type="Folder">5</container>
+            <container id="aspace_591671f6d10a9c59d173b82442e2cdf7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d066a461a93e81fb3d2f36a92261c1ca" parent="aspace_591671f6d10a9c59d173b82442e2cdf7" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_6f6682bd61655bb973d487ecd99bb943" level="file">
           <did>
             <unittitle>Yearbook</unittitle>
             <unitdate normal="1943/1944" type="inclusive">1943-1944</unitdate>
-            <container id="aspace_9898b9d356584e855c01566d9024e082" label="mixed materials" type="Box">1</container>
-            <container id="aspace_fbd7c9f94d1a276ad097c6e590ab35c0" parent="aspace_9898b9d356584e855c01566d9024e082" type="Folder">6</container>
+            <container id="aspace_d6b70d70f74065f9fa4490d7af6961df" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9eb53ae2806e69802a7ebfdd79e6c799" parent="aspace_d6b70d70f74065f9fa4490d7af6961df" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_c170d5372e07d24a43d9a44b64c50fe7" level="file">
           <did>
             <unittitle>Yearbook</unittitle>
             <unitdate normal="1949/1952" type="inclusive">1949-1952</unitdate>
-            <container id="aspace_5aa019407787ae0ec3a11d3bd98f389b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c8669f15b4789abb34d020548f13f296" parent="aspace_5aa019407787ae0ec3a11d3bd98f389b" type="Folder">7</container>
+            <container id="aspace_c9c279f1016ef09a89dc515950e15243" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5e04811b96fcfa6f3847a076e8a87d9f" parent="aspace_c9c279f1016ef09a89dc515950e15243" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_534035ecf19d3cbb89654664e79fd608" level="file">
           <did>
             <unittitle>Yearbook</unittitle>
             <unitdate normal="1952/1955" type="inclusive">1952-1955</unitdate>
-            <container id="aspace_94ce2049751d92c514ad7d3a2910a93c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c21b5f7ee5c081332348e550f96f3735" parent="aspace_94ce2049751d92c514ad7d3a2910a93c" type="Folder">8</container>
+            <container id="aspace_807a63cec14baf4fb324f475417eb9ae" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9eae53a937e3186749617428e308145e" parent="aspace_807a63cec14baf4fb324f475417eb9ae" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ec96c323636ef91741baf912ee76b449" level="file">
           <did>
             <unittitle>Yearbook</unittitle>
             <unitdate normal="1955/1958" type="inclusive">1955-1958</unitdate>
-            <container id="aspace_39d6fdc9838f2abdda0ccd6ba4c38732" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c507e143aac7f5f1f4d710e8c008d0d2" parent="aspace_39d6fdc9838f2abdda0ccd6ba4c38732" type="Folder">9</container>
+            <container id="aspace_7626dec43b6fc35b85d3b4492769bcc0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_22688cc3f4069cb47235ce19a64a8946" parent="aspace_7626dec43b6fc35b85d3b4492769bcc0" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_c4588ed798edfc01e29509ac0bb77a6f" level="file">
           <did>
             <unittitle>By-Laws</unittitle>
             <unitdate normal="1911/1911" type="inclusive">1911</unitdate>
-            <container id="aspace_d2bd0092f0304fd17f65fdc4a9518a95" label="mixed materials" type="Box">1</container>
-            <container id="aspace_fcdf2166782df215e6156bf93658bffc" parent="aspace_d2bd0092f0304fd17f65fdc4a9518a95" type="Folder">10</container>
+            <container id="aspace_01d2a4a4f96b4daf77eb65230ef97ef0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1bb40b02a0c60f7b7d9a8973a3216b4a" parent="aspace_01d2a4a4f96b4daf77eb65230ef97ef0" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_3557e069ba802c1de3f4cbe608fb4665" level="file">
           <did>
             <unittitle>By-Laws</unittitle>
             <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
-            <container id="aspace_189392da8f636fb01bd91226b0e48ac2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f12e8f9534431b59cbb316c7ec4efd94" parent="aspace_189392da8f636fb01bd91226b0e48ac2" type="Folder">11</container>
+            <container id="aspace_8da45890140ed7501d3edb0a77db13b4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_40c3e0b876e1e9df3ebcbb98956fa93a" parent="aspace_8da45890140ed7501d3edb0a77db13b4" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_8d51c86b18c46f1f5f7c6e6aa4e384da" level="file">
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1931/1968" type="inclusive">1931-1968</unitdate>
-            <container id="aspace_7c51ebbd3f2e4707506a68278a0659f2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5497091206300fb25816e962e12827d1" parent="aspace_7c51ebbd3f2e4707506a68278a0659f2" type="Folder">12</container>
+            <container id="aspace_bcf30abeb142df51c1e6cff4fff8787a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_330ce9adedb383e9d625a4ad439ebddf" parent="aspace_bcf30abeb142df51c1e6cff4fff8787a" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_247195608a464de6b13037d71471aa17" level="file">
           <did>
             <unittitle>Program</unittitle>
             <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
-            <container id="aspace_0adb62e330add7ba38ee9eeb0947e5b1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4dcc87a140305bef77e063aee2f1a183" parent="aspace_0adb62e330add7ba38ee9eeb0947e5b1" type="Folder">13</container>
+            <container id="aspace_45a2c7a0c2c6f3c31905c2bc76760ba9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9064aa422282915ad92b54146712ed99" parent="aspace_45a2c7a0c2c6f3c31905c2bc76760ba9" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_c9009ed8c4c6ddd5c0fe47ed76daab71" level="file">
           <did>
             <unittitle>Invitations</unittitle>
             <unitdate normal="1940/1953" type="inclusive">1940-1953</unitdate>
-            <container id="aspace_01de4b4da87f110842cb41dc6521f7d8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_6ee7b5b00918453ab92ffb13636dbff2" parent="aspace_01de4b4da87f110842cb41dc6521f7d8" type="Folder">14</container>
+            <container id="aspace_c4be9ff894ac59bd5f91078011032d18" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_faa1f2cab4b47e595ee541cc1da0f722" parent="aspace_c4be9ff894ac59bd5f91078011032d18" type="Folder">14</container>
           </did>
         </c>
       </c>

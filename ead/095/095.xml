@@ -4,24 +4,35 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Political Study Club Collection</titleproper>
-        <titleproper>Political Study Club <num>095</num> <num>095</num></titleproper>
+        <titleproper>Political Study Club <num>095</num></titleproper>
         <subtitle>An inventory of Political Study Club at DC Public Library</subtitle>
         <author>Finding aid prepared by Rachel Telford.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-11</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:09:28 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:45:57 -0400</date>.</creation>
       <langusage>
         <language encodinganalog="546" langcode="eng">English</language>
       </langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-08-21</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -29,32 +40,51 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Political Study Club Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n2013033758" source="LCSH">Political Study Club of Washington, D.C.</corpname>
+      </origination>
       <unitid>095</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.25 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1914/1968" type="inclusive">1914-1968</unitdate>
-      <langmaterial id="aspace_80108d22780725730c246804c6600631">English</langmaterial>
       <langmaterial id="aspace_19e1639a78f934a0e19beca05af0eec1">English</langmaterial>
     </did>
+    <arrangement id="aspace_617efcd9b3073dc102f7d91c8988042a">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_411fb53657ea20d803af88855109de9c">
       <head>Biographical / Historical</head>
-      <p>The collection consists of 28 annual club programs.</p>
+      <p>The Political Study Club of the District of Columbia was organized on October 13, 1899, by Helen Rand Tindall. The club was originally an afternoon suffrage club, but after the adoption of the 19th Amendment, the objective became "the study of the United States government in its home and foreign relations (non-partisan)."</p>
     </bioghist>
     <custodhist id="aspace_b04582495b0701c87b13d7c0495461f4">
       <head>Custodial History</head>
       <p>This collection was removed from the vertical files.</p>
     </custodhist>
+    <processinfo id="aspace_669cd67e3ba305a261232187a05dccc3">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection at the time of processing.</p>
+    </processinfo>
     <scopecontent id="aspace_4cd94828f889bbf38a3e53772cde17eb">
       <head>Scope and Contents</head>
-      <p>This collection consists of yearbooks, annual breakfast programs and clippings.</p>
+      <p>This collection consists of records pertaining to the Political Study Club of Washington, D.C. including yearbooks, annual breakfast programs, and clippings.</p>
     </scopecontent>
+    <userestrict id="aspace_0217c73bb34fd05f454f314031eac7bb">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
     <controlaccess>
-      <subject authfilenumber="http://id.loc.gov/vocabulary/geographicAreas/n-us-dc" source="lcsh">Washington (D.C.)</subject>
-      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008810" source="lcsh">Associations, institutions, etc</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85149058" source="Library of Congress Subject Headings">Yearbooks</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
+      <genreform source="material_type">Ephemera</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2002011436" source="Library of Congress Subject Headings">Politics and government</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_303aaf119ac39ffc696b90b2c9a935fc" level="series">
@@ -64,84 +94,84 @@
         <c id="aspace_01379cd6406eefbbd44167bfec4c3352" level="file">
           <did>
             <unittitle>Yearbooks</unittitle>
-            <container id="aspace_7d73311382478bd5894aa6bb47a56edc" label="mixed materials" type="Box">1</container>
-            <container id="aspace_176004e8dbf4f79d0cc3ef985cac1681" parent="aspace_7d73311382478bd5894aa6bb47a56edc" type="Folder">1</container>
+            <container id="aspace_83f2025ff292a744c3cf7f170e80e090" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6284aaeb636724074370cb82f3c8b788" parent="aspace_83f2025ff292a744c3cf7f170e80e090" type="Folder">1</container>
           </did>
           <c id="aspace_64704282baeff81bc71e23da0453fd6f" level="item">
             <did>
               <unittitle>Yearbooks</unittitle>
               <unitdate normal="1927/1928" type="inclusive">1927-1928</unitdate>
-              <container id="aspace_c90cba9010aeb305c447de89b85560a2" label="mixed materials" type="Item">1</container>
+              <container id="aspace_3d23a3bbe24203c59ef0efcfc123e0a8" label="Mixed Materials" type="Item">1</container>
             </did>
           </c>
           <c id="aspace_2cb2c4953132a6879e08621c758a8ee8" level="item">
             <did>
               <unittitle>Yearbooks</unittitle>
               <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate>
-              <container id="aspace_a1ced4ba96afbb6250322ece4474a214" label="mixed materials" type="Item">2</container>
+              <container id="aspace_e613ec01dd881adb11d612d0365172f6" label="Mixed Materials" type="Item">2</container>
             </did>
           </c>
           <c id="aspace_9cf07e9dd149d49b9a23a7bef4c8b04a" level="item">
             <did>
               <unittitle>Yearbooks</unittitle>
               <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate>
-              <container id="aspace_81ae2b382bdf9c47da3d707571c45585" label="mixed materials" type="Item">3</container>
+              <container id="aspace_179ddc7872f2a191a4108c924d663de1" label="Mixed Materials" type="Item">3</container>
             </did>
           </c>
           <c id="aspace_865b0a79c645367d3a98465ced929abf" level="item">
             <did>
               <unittitle>Yearbooks</unittitle>
               <unitdate normal="1939/1941" type="inclusive">1939-1941</unitdate>
-              <container id="aspace_97b01610eb45af5f32b2a33d430384ef" label="mixed materials" type="Item">4</container>
+              <container id="aspace_0eba8b7d191c42750ec92d4ef177b306" label="Mixed Materials" type="Item">4</container>
             </did>
           </c>
           <c id="aspace_940aeb5037f37af31468f4f8a26f77e5" level="item">
             <did>
               <unittitle>Yearbooks</unittitle>
               <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
-              <container id="aspace_d5a13d0fcbd8db8762ed0e44952cdc89" label="mixed materials" type="Item">5</container>
+              <container id="aspace_2c8d3fbe8c6a8721bc0b50f00d3fc228" label="Mixed Materials" type="Item">5</container>
             </did>
           </c>
           <c id="aspace_cd0c0fc0b2d122f93f331e6d925066b3" level="item">
             <did>
               <unittitle>Yearbooks</unittitle>
               <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
-              <container id="aspace_6d6d15cdf168a67196af824abcb2caf9" label="mixed materials" type="Item">6</container>
+              <container id="aspace_19c859f887cbb8125703ee808d28612d" label="Mixed Materials" type="Item">6</container>
             </did>
           </c>
         </c>
         <c id="aspace_feced9beceb439f8dd1086175390fede" level="file">
           <did>
             <unittitle>Programs</unittitle>
-            <container id="aspace_24305e27a27ae03682a478a45cf8f10e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_eceae776fe558be24fec895ffd323173" parent="aspace_24305e27a27ae03682a478a45cf8f10e" type="Folder">2</container>
+            <container id="aspace_689ee08d9667dc3d2577a264425bcfb6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1b0a00fb4cc90dbf7e8adba2849a99a8" parent="aspace_689ee08d9667dc3d2577a264425bcfb6" type="Folder">2</container>
           </did>
           <c id="aspace_5bdead1f8f4951329e0b7a12e239054a" level="item">
             <did>
               <unittitle>Annual Breakfast Programs</unittitle>
               <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
-              <container id="aspace_c70805a5043c19f8f656a67953f10e66" label="mixed materials" type="Item">1</container>
+              <container id="aspace_e0a0061d02d7d2d3704f5e5c8b4198b9" label="Mixed Materials" type="Item">1</container>
             </did>
           </c>
           <c id="aspace_e6f41e0986872b19851e4719f4f1a0a4" level="item">
             <did>
               <unittitle>Annual Breakfast Programs</unittitle>
               <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
-              <container id="aspace_f50d2aa5b229eab45a7db4ed70cb0c3d" label="mixed materials" type="Item">2</container>
+              <container id="aspace_8849fdb4494d7e258ca93c2fa3c7a9bd" label="Mixed Materials" type="Item">2</container>
             </did>
           </c>
           <c id="aspace_2561a85c5d186abe74951f7b167c97db" level="item">
             <did>
               <unittitle>Annual Breakfast Programs</unittitle>
               <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
-              <container id="aspace_877f85fc8e034adb05dcf05f7204820b" label="mixed materials" type="Item">3</container>
+              <container id="aspace_292644947cc18ce9954af431ced5df53" label="Mixed Materials" type="Item">3</container>
             </did>
           </c>
           <c id="aspace_69f5c7c7ad17f3c8a5b20db5850a0398" level="item">
             <did>
               <unittitle>Annual Breakfast Programs</unittitle>
               <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
-              <container id="aspace_0421cc50aacc9c4450ba1500f8b35584" label="mixed materials" type="Item">4</container>
+              <container id="aspace_a61b568935501898d7b308039783f252" label="Mixed Materials" type="Item">4</container>
             </did>
           </c>
         </c>
@@ -149,8 +179,8 @@
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1914/1968" type="inclusive">1914-1968</unitdate>
-            <container id="aspace_bf7791d572c51cb0ce4a48ff0029f39d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c33cde6ec2c15c4a0914e35213aa94e8" parent="aspace_bf7791d572c51cb0ce4a48ff0029f39d" type="Folder">3</container>
+            <container id="aspace_ec60715f19e6d8b32f5ce316f74c93e9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f6fed74c47fd3fd368b1bbcd6ab6dbde" parent="aspace_ec60715f19e6d8b32f5ce316f74c93e9" type="Folder">3</container>
           </did>
         </c>
       </c>

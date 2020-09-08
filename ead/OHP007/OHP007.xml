@@ -1,18 +1,34 @@
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid/>
+    <eadid url="http://washingtoniana.dclibrary.org">OHP007ChildrensMuseum</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>Capital Children's Museum - "Changing Communication in the Family" Oral History Project<num>OHP007</num></titleproper>
+        <titleproper type="filing">Capital Children's Museum - "Changing Communication in the Family" Oral History Project </titleproper>
+        <titleproper>Capital Children's Museum - "Changing Communication in the Family" Oral History Project  <num>OHP007</num></titleproper>
+        <subtitle>An inventory of the Capital Children's Museum - "Changing Communication in the Family" Oral History Project at DC Public Library
+</subtitle>
+        <author>DC Public Library, Special Collections Department</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-27 00:00:52 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:53:01 -0400</date>.</creation>
+      <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-07-15</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -20,39 +36,446 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Capital Children's Museum - "Changing Communication in the Family" Oral History Project</unittitle>
       <unitid>OHP007</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">3.25 Linear feet</extent>
       </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Boxes</extent>
+      </physdesc>
       <unitdate normal="1983/1983">1983</unitdate>
     </did>
-    <scopecontent id="aspace_a5041767949d4907e5186668790ce09c">
-      <head>Scope and Contents</head>
-      <p>in 1983, the Capital Children's Museum in Washington, D.C., conducted approximately 39 oral history interviews with adults over 60 years of age. The project focused om the childhood experiences of the interviewees. Topics also includes general life experiences and historical milestones. The project's director was Tom Lane and adolescents conducted the interviews.</p>
-    </scopecontent>
+    <arrangement id="aspace_61cb961f4aa28e875a00ea6f450688e9">
+      <head>Arrangement</head>
+      <p>Series 1: Indexes<br/>
+Materials in this series include indexes for most interviews.<br/> 
+<br/>
+Series 2: Interviews<br/>
+Materials in this series include master and patron access copies of the oral histories on audio cassette. There are two copies for all audio recordings except 07-04.</p>
+    </arrangement>
     <bioghist id="aspace_da1ac761d2cbbc715185aefa56f647c8">
       <head>Biographical / Historical</head>
-      <p>Founded in 1974 it was first located at 220 H Street, NE and was designated by Congress in 2003 as the  only national museum dedicated entirely to children and their families. For many years the museum operated as a "museum without walls," forging partnerships with organizations and participating in community events, educational outreach programs and traveling exhibits. In 2019 the Museum relocated to the Ronald Reagan Building and International Trade Center in Federal Triangle.</p>
+      <p>Founded in 1974, the Capital Children's Museum was first located at 220 H Street, NE and was designated by Congress in 2003 as the only national museum dedicated entirely to children and families. For many years the museum operated as a "museum without walls," forging partnerships with organizations and participating in community events, educational outreach programs and traveling exhibits. In 2019 the Museum relocated to the Ronald Reagan Building and International Trade Center in Federal Triangle and changed their name to the National Children's Museum.</p>
     </bioghist>
-    <acqinfo id="aspace_b752483fdc545f1cff3f176857277afb">
-      <head>Immediate Source of Acquisition</head>
+    <custodhist id="aspace_b752483fdc545f1cff3f176857277afb">
+      <head>Custodial History</head>
       <p>The Capital Children's Museum conducted these interviews in 1983 and donated the tapes and indexes to the Library. There is no deed of gift for this collection.</p>
-    </acqinfo>
+    </custodhist>
     <processinfo id="aspace_ea5c7bd64554eec6df9c0f7b103db8a5">
       <head>Processing Information</head>
-      <p>After the initial donation to the Library the indexes were foldered and placed into a filing cabinet for patron use. Tapes were duplicated by the Library with the original being placed into off site deep storage, and patrons given access to the use copy.  In 2014, the indexes were digitized. Following digitization the collection was reprocessed and indexes were placed in new folders and boxed. All administrative documents, including releases, were placed into the control file.</p>
+      <p>After the initial donation to the Library the indexes were foldered and placed into a filing cabinet for patron use. Tapes were duplicated by the Library with the original being placed into off site deep storage, and patrons given access to the use copy. In 2014, the indexes were digitized. Following digitization the collection was reprocessed following standard archival procedures and indexes were placed in new folders and boxed. All administrative documents, including releases, were placed into the control file.</p>
     </processinfo>
+    <scopecontent id="aspace_a5041767949d4907e5186668790ce09c">
+      <head>Scope and Contents</head>
+      <p>In 1983, the Capital Children's Museum in Washington, D.C., conducted approximately 39 oral history interviews with adults over 60 years of age. The project focused on the childhood experiences of the interviewees. Topics also include general life experiences and historical milestones. The project's director was Tom Lane and adolescents conducted the interviews.</p>
+    </scopecontent>
     <userestrict id="aspace_59e7927ee7fbb8ba452b8ded208befc8">
       <head>Conditions Governing Use</head>
-      <p>The D.C. Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from the National Children's Museum to publish or exhibit information. Reproduction of oral histories without release is not permitted.</p>
+      <p>The DC Public Library does not hold copyright. It is the responsibility of the researcher to obtain permission from the National Children's Museum to publish or exhibit information. Reproduction of oral histories without release is not permitted.</p>
     </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85095238" source="Library of Congress Subject Headings">Oral History</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99004940" source="Library of Congress Subject Headings">Childhood and youth</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85047009" source="Library of Congress Subject Headings">Families</subject>
     </controlaccess>
     <dsc>
+      <c id="aspace_31c9f6b1eb14ce88252bdda54dc9fe59" level="series">
+        <did>
+          <unittitle>Series 1: Indexes</unittitle>
+        </did>
+        <scopecontent id="aspace_bc2a132da916c021e4ce4a547e477ddd">
+          <head>Scope and Contents</head>
+          <p>Materials in this series include indexes for most interviews.</p>
+        </scopecontent>
+        <c id="aspace_0800db015c82c64b417d04ac3142a1d4" level="file">
+          <did>
+            <unittitle>Myrtle Hill</unittitle>
+            <unitdate normal="1983-01-18/1983-01-18">1983 January 18</unitdate>
+            <container id="aspace_00109f36b0243c9f848507e3287106a8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2db749d3f83fab655d723f7b3e3d44c6" parent="aspace_00109f36b0243c9f848507e3287106a8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_e42e30911a7e257bd3b08ba3f1cf7df5" level="file">
+          <did>
+            <unittitle>Pauline Jones</unittitle>
+            <unitdate normal="1983-02-02/1983-02-02">1983 February 2</unitdate>
+            <container id="aspace_8eaeaf1a66c6db423fc01dbe785f34d4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bda520e12db9a623c9b9623c6ccdcedb" parent="aspace_8eaeaf1a66c6db423fc01dbe785f34d4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_1de3c44db27a1c027aa49654bed7a89c" level="file">
+          <did>
+            <unittitle>Mildred Chambers</unittitle>
+            <unitdate normal="1983-01-27/1983-01-27">1983 January 27</unitdate>
+            <container id="aspace_fd4ea33e02daf0bff6ef7bd2a69a59e9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_53a1d2606469c8d72a3176ff062f0cb0" parent="aspace_fd4ea33e02daf0bff6ef7bd2a69a59e9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_39bd2db561ea0a61408ba868c998540f" level="file">
+          <did>
+            <unittitle>Oswald Glymph</unittitle>
+            <unitdate normal="1983-01-20/1983-01-20">1983 January 20</unitdate>
+            <container id="aspace_a9b805eb2828fa1c75c1a87a22f2185f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f814c88fabf63a540b5757181136794a" parent="aspace_a9b805eb2828fa1c75c1a87a22f2185f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_d72ac190ab9e901a6ae3e24ae501e4e9" level="file">
+          <did>
+            <unittitle>Emily Gaskins</unittitle>
+            <unitdate normal="1983-01-20/1983-01-20">1983 January 20</unitdate>
+            <container id="aspace_1a4797c567e844b74779feba7561093b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_38f2d83821ddb105f7ac437ceb506b56" parent="aspace_1a4797c567e844b74779feba7561093b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_0b8c9f9a71a80dc4908630f906309cde" level="file">
+          <did>
+            <unittitle>Alice Lawrence</unittitle>
+            <unitdate normal="1983-02-09/1983-02-09">1983 February 9</unitdate>
+            <container id="aspace_fc7971a85d8318adc3cdb9164e7a9c78" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9131d427992af8b8e64b6b8afb18a28d" parent="aspace_fc7971a85d8318adc3cdb9164e7a9c78" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_9cf1560773e72d5761e8e687729a4149" level="file">
+          <did>
+            <unittitle>Mildred Taylor</unittitle>
+            <unitdate normal="1983-01-20/1983-01-20">1983 January 20</unitdate>
+            <container id="aspace_093b1fa56b07a247a5aae8964416288e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_81581ac2c98f0018acc3bab0df92db25" parent="aspace_093b1fa56b07a247a5aae8964416288e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_80ba9ce36480de6d6057f67a1d17925a" level="file">
+          <did>
+            <unittitle>Lydia Muldron</unittitle>
+            <unitdate normal="1983-01-27/1983-01-27">1983 January 27</unitdate>
+            <container id="aspace_a71d1f6fb3113bede035ef3f4ce72899" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cf195481d742c77f46f6a2be1fdbe4e9" parent="aspace_a71d1f6fb3113bede035ef3f4ce72899" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_a6a9146c37d891a80f3425037aa6a066" level="file">
+          <did>
+            <unittitle>Maggie Chism</unittitle>
+            <unitdate normal="1983-01-13/1983-01-13">1983 January 13</unitdate>
+            <container id="aspace_274aabe0d26af7c25df81e72c10567be" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_76fd6be4f28b3c240ad1ff8aeae83b64" parent="aspace_274aabe0d26af7c25df81e72c10567be" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_cf6bd06bf4c7a418287b7bc4c09e5413" level="file">
+          <did>
+            <unittitle>Hazel Turner</unittitle>
+            <unitdate normal="1983-01-18/1983-01-18">1983 January 18</unitdate>
+            <container id="aspace_ac9634c9668f006269da4e862a11fe63" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_19ca9b7e06b99a2a5eba36a93a7df90b" parent="aspace_ac9634c9668f006269da4e862a11fe63" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_518363c8296d50b5393ad09c061f92e8" level="file">
+          <did>
+            <unittitle>Lucille Garmany</unittitle>
+            <unitdate normal="1983-02-04/1983-02-04">1983 February 4</unitdate>
+            <container id="aspace_a8d030dfe339e2ebc5f41855e8a8a5e6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fb77d0a6eecd13f03d9f89d6f6df280b" parent="aspace_a8d030dfe339e2ebc5f41855e8a8a5e6" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_c401cc96c946e57c903dd92ac0471be3" level="file">
+          <did>
+            <unittitle>Warren Jenkins</unittitle>
+            <unitdate normal="1983-01-13/1983-01-13">1983 January 13</unitdate>
+            <container id="aspace_3728e96b0ae5a07dd85c11770ddda47f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7f8691d268e23fe0b10a96ef6533e09c" parent="aspace_3728e96b0ae5a07dd85c11770ddda47f" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_2e5a0e41663afc23b110d51a7e6cf331" level="file">
+          <did>
+            <unittitle>Henrietta Chisholm</unittitle>
+            <unitdate normal="1983-02-10/1983-02-10">1983 February 10</unitdate>
+            <container id="aspace_7d87f14a1dcd27b35491e57d8f35d7e7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b273ce6001dc0a9b4a4c4246c9cc2aa2" parent="aspace_7d87f14a1dcd27b35491e57d8f35d7e7" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_0537589cb471c53e6ce5149ec89fa081" level="file">
+          <did>
+            <unittitle>Gertrude Butler</unittitle>
+            <unitdate normal="1983-01-27/1983-01-27">1983 January 27</unitdate>
+            <container id="aspace_15c398216536d8bc30fe92af4e9d336d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_335e6a4e50b4c0d08aa841a39f6f7261" parent="aspace_15c398216536d8bc30fe92af4e9d336d" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_8ce9b19c1693cc088bcabb331da28b01" level="file">
+          <did>
+            <unittitle>Helen Harrison</unittitle>
+            <unitdate normal="1983-01-20/1983-01-20">1983 January 20</unitdate>
+            <container id="aspace_42461d6b66e643dee1cc50f53ee67ca9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5e9c911c35b54f170609b98a4f1f68b4" parent="aspace_42461d6b66e643dee1cc50f53ee67ca9" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_4d7facc46d2be4e31b5a3fa9fbef00cd" level="file">
+          <did>
+            <unittitle>Margaret Watts</unittitle>
+            <unitdate normal="1983-01-27/1983-01-27">1983 January 27</unitdate>
+            <container id="aspace_2303d7c2178ff7d447bb4edf1427aeb3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_002f9f703d6bea2e63141457f5554f09" parent="aspace_2303d7c2178ff7d447bb4edf1427aeb3" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_0f5c47020556dee6f98a343d12dc8389" level="file">
+          <did>
+            <unittitle>Nellie Walker</unittitle>
+            <unitdate normal="1983-02-04/1983-02-04">1983 February 4</unitdate>
+            <container id="aspace_70814815829c5292855d6d09eaa8c040" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c65e137b7030b68e38b771663769f717" parent="aspace_70814815829c5292855d6d09eaa8c040" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_b35f6920012f01c5c4b836b9430eae09" level="file">
+          <did>
+            <unittitle>Delma Dockett</unittitle>
+            <unitdate normal="1983-01-13/1983-01-13">1983 January 13</unitdate>
+            <container id="aspace_05f491a87bec3f1b6bff81cb186904ba" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ea76bc00a8f9fd6d2a6f716448fdbc45" parent="aspace_05f491a87bec3f1b6bff81cb186904ba" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_9c61aada5d031333d723289f0757c2a4" level="file">
+          <did>
+            <unittitle>Odessa Swann</unittitle>
+            <unitdate normal="1983-01-13/1983-01-13">1983 January 13</unitdate>
+            <container id="aspace_ebe96a212b7709a3d8ae679439c72607" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_862d87f7b977e6a6d00074c36a0a630e" parent="aspace_ebe96a212b7709a3d8ae679439c72607" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_85d00f483934b9b1ac79a7b83b8e9378" level="file">
+          <did>
+            <unittitle>Mary Butt</unittitle>
+            <container id="aspace_5f8acc8f3381c6f0e7de7ef6339b3fe9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3eab8847143da85f895980024c538f22" parent="aspace_5f8acc8f3381c6f0e7de7ef6339b3fe9" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_55da1e89203b27bd5c7c8046202d168c" level="file">
+          <did>
+            <unittitle>Naomi Singer</unittitle>
+            <unitdate normal="1983-01-20/1983-01-20">1983 January 20</unitdate>
+            <container id="aspace_378bf7136740d7159f1bee96d254636c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f4580710b53fbb281ab6c81dee408aae" parent="aspace_378bf7136740d7159f1bee96d254636c" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_52869767f3542373fe4a16a32d2990ed" level="file">
+          <did>
+            <unittitle>Ruby Carter</unittitle>
+            <unitdate normal="1983-02-02/1983-02-02">1983 February 2</unitdate>
+            <container id="aspace_148b6d991f9efb9883f6c8b0812713f6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_93ac206170ffc60c785a249ca6b9f3f0" parent="aspace_148b6d991f9efb9883f6c8b0812713f6" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_24c071e00f9cbe4237022041de6c564c" level="file">
+          <did>
+            <unittitle>Charles Cocley</unittitle>
+            <unitdate normal="1983-01-27/1983-01-27">1983 January 27</unitdate>
+            <container id="aspace_d5930c5bd7584b7e0ebcb008694d18a8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_986eb72f07525756336bffc34c8a2e67" parent="aspace_d5930c5bd7584b7e0ebcb008694d18a8" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_798ffff609f35e2531a94160fd7da6f2" level="file">
+          <did>
+            <unittitle>Charles Queen</unittitle>
+            <unitdate normal="1983-02-10/1983-02-10">1983 February 10</unitdate>
+            <container id="aspace_543f1354d5dda19c0704f93090616e41" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_98589467cd3c422facd6bf8ff80cba73" parent="aspace_543f1354d5dda19c0704f93090616e41" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_c93f87d244df43aadc94f33d62ef0c38" level="file">
+          <did>
+            <unittitle>Louise Venney</unittitle>
+            <unitdate normal="1983-02-08/1983-02-08">1983 February 8</unitdate>
+            <container id="aspace_60602d562ed6699dce57ae790093c47a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5fc64a611da8f26194975e3497ce1b71" parent="aspace_60602d562ed6699dce57ae790093c47a" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_4262ac3c0858d389d8065a71da87476b" level="file">
+          <did>
+            <unittitle>Viola Wilson</unittitle>
+            <container id="aspace_0506dd1f8ac3cee7e011c1b900356fe3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b05704cc663a113f681ec09bad15acb1" parent="aspace_0506dd1f8ac3cee7e011c1b900356fe3" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_b126db3bf8d0b744ea66ef1c8d3515fa" level="file">
+          <did>
+            <unittitle>Odessa Swann</unittitle>
+            <container id="aspace_ffd850b4ab27f579c245b80bc67b0634" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_35a3289ff8677ec67155234c38bf133e" parent="aspace_ffd850b4ab27f579c245b80bc67b0634" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_9ee481e7a2e972f71d26b6fb6441ab1f" level="file">
+          <did>
+            <unittitle>Justine Briscoe</unittitle>
+            <unitdate normal="1983-01-18/1983-01-18">1983 January 18</unitdate>
+            <container id="aspace_7478bdb5d2130e6a4c7f68e7e7837f00" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e1c13f7024dd9a07e7a26c80df7f3475" parent="aspace_7478bdb5d2130e6a4c7f68e7e7837f00" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_d2095ba0659ddc1e9f228ab620eb3693" level="file">
+          <did>
+            <unittitle>Bernie Fonteneau</unittitle>
+            <unitdate normal="1983-01-20/1983-01-20">1983 January 20</unitdate>
+            <container id="aspace_dda1a36e72216d7e92c6813b2aa96435" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5291e907b6742abc83ca780f2ee06a7b" parent="aspace_dda1a36e72216d7e92c6813b2aa96435" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_79d3f5733acc906e326003bad8d57f59" level="file">
+          <did>
+            <unittitle>Gertrude Butler</unittitle>
+            <container id="aspace_8c245a7a380bfc777f25af108785f5e6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f8a3fc0e26c88d30ac12338f163d9068" parent="aspace_8c245a7a380bfc777f25af108785f5e6" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_64811ce03142e5aee6afd038eae4303c" level="file">
+          <did>
+            <unittitle>Hazel Turner</unittitle>
+            <container id="aspace_109fb56054b31dbf10b768f5eaf5577a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bf0621c11b05f53deb20d1d8a3b1db84" parent="aspace_109fb56054b31dbf10b768f5eaf5577a" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_571510b4021d87753935cf88f2916825" level="file">
+          <did>
+            <unittitle>Nellie Walker</unittitle>
+            <container id="aspace_982de67926e0a8ebecaf930a4b4bcf3e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4cc3094709fe865655542186c98aca34" parent="aspace_982de67926e0a8ebecaf930a4b4bcf3e" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_865e0b120604ccc3a827fa3de05ed8f7" level="file">
+          <did>
+            <unittitle>Delma Dockett</unittitle>
+            <container id="aspace_88f4dc9a1c839cfb92d492142b000e8d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d7feae2d56d570b1da79c8c0d83d449c" parent="aspace_88f4dc9a1c839cfb92d492142b000e8d" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_19d99c772b927e40de877958b60f3c67" level="file">
+          <did>
+            <unittitle>Alfred C. Gilkesson</unittitle>
+            <unitdate normal="1983-01-18/1983-01-18">1983 January 18</unitdate>
+            <container id="aspace_c9519ca9eb790503bffd488a8efd7dad" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d70090ae16c683c8bff733ed26ca76fa" parent="aspace_c9519ca9eb790503bffd488a8efd7dad" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_af74369fef38d3b252c97dd7eb1ecf52" level="file">
+          <did>
+            <unittitle>Delma Docket and Hazel Turner</unittitle>
+            <unitdate normal="1983-02-03/1983-02-03">1983 February 3</unitdate>
+            <container id="aspace_32d17bec3206f266bc9d3644d5d2f55f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e86a64108d33831cb2177163d4eb9ae8" parent="aspace_32d17bec3206f266bc9d3644d5d2f55f" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_f364568af66ecd8ae0231ae7d4aeddf8" level="file">
+          <did>
+            <unittitle>Mary Haynes</unittitle>
+            <unitdate normal="1983-02-02/1983-02-02">1983 February 2</unitdate>
+            <container id="aspace_5efbca1b15a04652d45af7e0ad6313e8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5eb7c28362e434f8cbf33816abc288ac" parent="aspace_5efbca1b15a04652d45af7e0ad6313e8" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_2f8c83dbdd98f36391ade97f8bf425bc" level="file">
+          <did>
+            <unittitle>Henrietta Chisholm</unittitle>
+            <container id="aspace_c62eabe63eb0732f29bb0f2dd72d9f1c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_769a9a4c88d699e71a0ab891c1d055b2" parent="aspace_c62eabe63eb0732f29bb0f2dd72d9f1c" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_59eab1c381e3f17949cd9fb87f9421bf" level="file">
+          <did>
+            <unittitle>Warren Jenkins</unittitle>
+            <container id="aspace_df226fc07b0f9a5a8a5101d1e7764ca7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_818a364dbfdf59745c6f27a3218a6aa9" parent="aspace_df226fc07b0f9a5a8a5101d1e7764ca7" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_7bb288fbce2a50e843dc41fe5db5edb9" level="file">
+          <did>
+            <unittitle>Mabel Mosley</unittitle>
+            <unitdate normal="1983-02-04/1983-02-04">1983 February 4</unitdate>
+            <container id="aspace_126b52760b7a29af4cb2143645436ce4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_968af4ec607592b68761186de9b9e450" parent="aspace_126b52760b7a29af4cb2143645436ce4" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_7b0ff665af01e2eab388dcda551c62e4" level="file">
+          <did>
+            <unittitle>Louise Brooks</unittitle>
+            <unitdate normal="1983-01-18/1983-01-18">1983 January 18</unitdate>
+            <container id="aspace_9024533af3e956735fad31e39aa92956" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2b9278007d8b358fdd9d2c162da6f7bc" parent="aspace_9024533af3e956735fad31e39aa92956" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_16cf33280a79eace411ced462e847905" level="file">
+          <did>
+            <unittitle>Mildred Chambers</unittitle>
+            <container id="aspace_64e456972491d50b26e535167a03fd8d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a347d9ba7a4e7aa3bc49315f2fb817fb" parent="aspace_64e456972491d50b26e535167a03fd8d" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_1c8901de0e15e3c382107c8a6efc0fbf" level="file">
+          <did>
+            <unittitle>Clara P. Brown</unittitle>
+            <unitdate normal="1983-01-13/1983-01-13">1983 January 13</unitdate>
+            <container id="aspace_4012d93342576234868d7c6c9196dc78" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4d7285b02de6f429de32ab0adea8ba26" parent="aspace_4012d93342576234868d7c6c9196dc78" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_73d19b67f4164803d2386d23a086406c" level="file">
+          <did>
+            <unittitle>Justine Briscoe</unittitle>
+            <container id="aspace_22269e6c9a033a13ccbb37fc374ab4b1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_565537067ff695e914ca131448e2bb3e" parent="aspace_22269e6c9a033a13ccbb37fc374ab4b1" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_f3bdd4c4a92ff076ce469e1c4918aba5" level="file">
+          <did>
+            <unittitle>Emily Gaskins</unittitle>
+            <unitdate normal="1983-02-09/1983-02-09">1983 February 9</unitdate>
+            <container id="aspace_c7ce82546381721929dbe3b031a849f7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_55c99541f7be7c0833c32db7c7cbe1c9" parent="aspace_c7ce82546381721929dbe3b031a849f7" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_90b27ccff6c45fe406331a524c9c77c7" level="file">
+          <did>
+            <unittitle>Mary Haynes</unittitle>
+            <container id="aspace_df8ab9f2688c73981353d0e05224ab74" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c5ee8e06bff0f256a175e67591844c5a" parent="aspace_df8ab9f2688c73981353d0e05224ab74" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_77c4dcbf1e98ac79eff1c47cc87ef72d" level="file">
+          <did>
+            <unittitle>Clifford Bray</unittitle>
+            <unitdate normal="1983-01-27/1983-01-27">1983 January 27</unitdate>
+            <container id="aspace_c71bb667163b7f6c7a7820789403dd4b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_73decfd8154a6eb30e329d19c99a4db2" parent="aspace_c71bb667163b7f6c7a7820789403dd4b" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_2e4c870afac041e745e8adf1e1a3d7af" level="file">
+          <did>
+            <unittitle>Myrtle Hill</unittitle>
+            <unitdate normal="1983-02-02/1983-02-02">1983 February 2</unitdate>
+            <container id="aspace_2412c990caf6de5cb78b40530396ffa0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b681882d2534130347944725cf052e71" parent="aspace_2412c990caf6de5cb78b40530396ffa0" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_3ec17de986652772ecd6ec93be3db615" level="file">
+          <did>
+            <unittitle>Oswald Glymph</unittitle>
+            <container id="aspace_49254b9471c184e92004c56c72a43c66" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5b9c9dbb31f4ad8987ee6626caebb345" parent="aspace_49254b9471c184e92004c56c72a43c66" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_eddaf5258b95030ab1b330f9c32a952e" level="file">
+          <did>
+            <unittitle>Maggie James</unittitle>
+            <container id="aspace_78a305d890ce978da95b0122648a7f31" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_00314d906e2698ca63d784830028edfd" parent="aspace_78a305d890ce978da95b0122648a7f31" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_a2f7fd34dea9b408062345c74bb8dfa2" level="file">
+          <did>
+            <unittitle>Mildred Taylor</unittitle>
+            <container id="aspace_73f4bfa5fc0ab4eb750173d27f076f80" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ad62ae6cb065049dea55c8e52c635c88" parent="aspace_73f4bfa5fc0ab4eb750173d27f076f80" type="Folder">50</container>
+          </did>
+        </c>
+      </c>
       <c id="aspace_277c5fd29f5b97871949fd9a572cc493" level="series">
         <did>
           <unittitle>Series 2: Interviews</unittitle>
@@ -65,385 +488,385 @@
           <did>
             <unittitle>Myrtle Hill</unittitle>
             <unitdate normal="1983-01-18/1983-01-18">1983 January 18</unitdate>
-            <container id="aspace_a02c8a9c8c2da05e0da83a2ee12b8849" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_99db8b33b405a77352e78e8afb0efedf" parent="aspace_a02c8a9c8c2da05e0da83a2ee12b8849" type="Folder">07-01A</container>
+            <container id="aspace_8a51dd6e9bf43d600dd66d79dd3584a4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_bbed37d9804176fec78edb96d1adee75" parent="aspace_8a51dd6e9bf43d600dd66d79dd3584a4" type="Folder">07-01A</container>
           </did>
         </c>
         <c id="aspace_b810cc18227f9a255efdcaecde9d7fc2" level="file">
           <did>
             <unittitle>Pauline Jones</unittitle>
             <unitdate normal="1983-02-02/1983-02-02">1983 February 2</unitdate>
-            <container id="aspace_a5d5b511c83bd96d004b361f403dab5a" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_57af5eef0c1ed87c3ee2ec777e66218b" parent="aspace_a5d5b511c83bd96d004b361f403dab5a" type="Folder">07-01B</container>
+            <container id="aspace_153b3699c77f176bfbb7871fcb681fbd" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_3524aaee5d0ae68d8c32e10184635b4e" parent="aspace_153b3699c77f176bfbb7871fcb681fbd" type="Folder">07-01B</container>
           </did>
         </c>
         <c id="aspace_3dd0f150840f2f1e05a6e4dcef997577" level="file">
           <did>
             <unittitle>Mildred Chambers</unittitle>
             <unitdate normal="1983-01-27/1983-01-27">1983 January 27</unitdate>
-            <container id="aspace_d33063cdcac1d7df0ded51926ba70d3c" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_84967d06d9dde3fc3a9ae4d1f5b436f2" parent="aspace_d33063cdcac1d7df0ded51926ba70d3c" type="Folder">07-02A</container>
+            <container id="aspace_6568729cb75988b96060c191ed96ea22" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b430b22a7a0fdb7708cbeeaacfe59bde" parent="aspace_6568729cb75988b96060c191ed96ea22" type="Folder">07-02A</container>
           </did>
         </c>
         <c id="aspace_59e2453615a666739301bcd174a93d91" level="file">
           <did>
             <unittitle>Oswald Glymph</unittitle>
             <unitdate normal="1983-01-20/1983-01-20">1983 January 20</unitdate>
-            <container id="aspace_03863a192eb10032bf7b398028e2eede" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_d5464abf2ada82fa935502b9b4a9f82b" parent="aspace_03863a192eb10032bf7b398028e2eede" type="Folder">07-02B</container>
+            <container id="aspace_6d2fb25b1addca0a71dc1ef20d712b3b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9c5008e63327be3d8c8a14bacfae05b3" parent="aspace_6d2fb25b1addca0a71dc1ef20d712b3b" type="Folder">07-02B</container>
           </did>
         </c>
         <c id="aspace_f5619065651f180bde16f76f2427b3d8" level="file">
           <did>
             <unittitle>Emily Gaskins</unittitle>
             <unitdate normal="1983-01-20/1983-01-20">1983 January 20</unitdate>
-            <container id="aspace_3f302c9e6deef7a5ea793abceb3042a0" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_3f4878a96c758071dc7ba4d71e5e662d" parent="aspace_3f302c9e6deef7a5ea793abceb3042a0" type="Folder">07-03</container>
+            <container id="aspace_6f38377ebdf1b4d88793ab251ff71881" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7026eaeb2b414ac8003eda6f63745e5e" parent="aspace_6f38377ebdf1b4d88793ab251ff71881" type="Folder">07-03</container>
           </did>
         </c>
         <c id="aspace_fc6837777836cbd6e61f0e073dd95b58" level="file">
           <did>
             <unittitle>Alice Lawrence</unittitle>
             <unitdate normal="1983-02-09/1983-02-09">1983 February 9</unitdate>
-            <container id="aspace_d74c13cb6d16e4ff20cf4706134357de" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_46fdad940918f11558f90e7f362662b5" parent="aspace_d74c13cb6d16e4ff20cf4706134357de" type="Folder">07-04</container>
+            <container id="aspace_e6552f54f9845aac095f589da9e8f037" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_84d432cf0e35af9355fd5d48d94d6340" parent="aspace_e6552f54f9845aac095f589da9e8f037" type="Folder">07-04</container>
           </did>
         </c>
         <c id="aspace_818d435eabc52424ff4884d351c85db5" level="file">
           <did>
             <unittitle>Mildred Taylor</unittitle>
             <unitdate normal="1983-01-20/1983-01-20">1983 January 20</unitdate>
-            <container id="aspace_30bdfabaead2a71819f10497889c5172" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_7fd5baf874e1f64d872a550c37ab6ee3" parent="aspace_30bdfabaead2a71819f10497889c5172" type="Folder">07-05A</container>
+            <container id="aspace_186b59a4a3ec1f6ec41a34f0a065887f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_144bea844cd236b33e6ecb6259ca5c60" parent="aspace_186b59a4a3ec1f6ec41a34f0a065887f" type="Folder">07-05A</container>
           </did>
         </c>
         <c id="aspace_cbef2d748b7a64a648600d45aba8da02" level="file">
           <did>
             <unittitle>Lydia Muldron</unittitle>
             <unitdate normal="1983-01-27/1983-01-27">1983 January 27</unitdate>
-            <container id="aspace_4588e13978b7e0a98f18f439fc91748c" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_ef262b5449a3acb2c94ec82d7e0aa2a8" parent="aspace_4588e13978b7e0a98f18f439fc91748c" type="Folder">07-05B</container>
+            <container id="aspace_04e100ebb16a0da93d2e5489a800c2e4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4a9b09fc40f2ef57292ef954d702a108" parent="aspace_04e100ebb16a0da93d2e5489a800c2e4" type="Folder">07-05B</container>
           </did>
         </c>
         <c id="aspace_695158ca250dad707dcd201cb0b07a7a" level="file">
           <did>
             <unittitle>Maggie Chism</unittitle>
             <unitdate normal="1983-01-13/1983-01-13">1983 January 13</unitdate>
-            <container id="aspace_b1d7d8c1a65bbb591210f5ed1ab971ba" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_e7ca4b01fa5a12219a09a58697a7d900" parent="aspace_b1d7d8c1a65bbb591210f5ed1ab971ba" type="Folder">07-06A</container>
+            <container id="aspace_d064058f352f320da710e666958177e6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8d4f968a0c2645854d23117b7bb16db7" parent="aspace_d064058f352f320da710e666958177e6" type="Folder">07-06A</container>
           </did>
         </c>
         <c id="aspace_2bffaeb2a161759c37ab81dd1ab8c055" level="file">
           <did>
             <unittitle>Hazel Turner</unittitle>
             <unitdate normal="1983-01-18/1983-01-18">1983 January 18</unitdate>
-            <container id="aspace_080d96470d52f41267136f90cf040d9d" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_ba145ceef21d45cf3a12fcf3e0d7fb65" parent="aspace_080d96470d52f41267136f90cf040d9d" type="Folder">07-06B</container>
+            <container id="aspace_5afadd257b6a3c112b9a70a7f4dab49f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_057e6cdb9632fb3c015cc8474488bc87" parent="aspace_5afadd257b6a3c112b9a70a7f4dab49f" type="Folder">07-06B</container>
           </did>
         </c>
         <c id="aspace_ccbffbc1329b61a0fb91cb0962d772ae" level="file">
           <did>
             <unittitle>Lucille Garmany</unittitle>
             <unitdate normal="1983-02-04/1983-02-04">1983 February 4</unitdate>
-            <container id="aspace_5ec6376aa9f3d58c6c94f221804e4b30" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_301e46c1e2d9b08e037faabd5f42da61" parent="aspace_5ec6376aa9f3d58c6c94f221804e4b30" type="Folder">07-07A</container>
+            <container id="aspace_23cc3b4b725697144a26f9770cd3dfb1" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_95982d5632f4806e0a12d6c1234b616d" parent="aspace_23cc3b4b725697144a26f9770cd3dfb1" type="Folder">07-07A</container>
           </did>
         </c>
         <c id="aspace_869f0c19459c9bd4f4a5c8c18595cdf6" level="file">
           <did>
             <unittitle>Warren Jenkins</unittitle>
             <unitdate normal="1983-01-13/1983-01-13">1983 January 13</unitdate>
-            <container id="aspace_420d6b10402d0fe8ca198c4bdef9e6ed" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_b47f3a558196f54d9531e06f8a25d836" parent="aspace_420d6b10402d0fe8ca198c4bdef9e6ed" type="Folder">07-07B</container>
+            <container id="aspace_cc0a4e023518cfb43a6f8b7fb2a79467" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_eb30a0f826b874cfd00ed7a86241f002" parent="aspace_cc0a4e023518cfb43a6f8b7fb2a79467" type="Folder">07-07B</container>
           </did>
         </c>
         <c id="aspace_914f95c20928eec620d1b09dc8376dfe" level="file">
           <did>
             <unittitle>Henrietta Chisholm</unittitle>
             <unitdate normal="1983-02-10/1983-02-10">1983 February 10</unitdate>
-            <container id="aspace_189b401d14c0e2c1ea6d2c1b76454de1" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_a53e95ccf9af60a44a2e46d419be7690" parent="aspace_189b401d14c0e2c1ea6d2c1b76454de1" type="Folder">07-08A</container>
+            <container id="aspace_4486c75348578eda15bab3d93f30c2b4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_70aabbc44bd356fd2f948302410af9db" parent="aspace_4486c75348578eda15bab3d93f30c2b4" type="Folder">07-08A</container>
           </did>
         </c>
         <c id="aspace_a41b7b9caa31d6736743450f224d1744" level="file">
           <did>
             <unittitle>Gertrude Butler</unittitle>
             <unitdate normal="1983-01-27/1983-01-27">1983 January 27</unitdate>
-            <container id="aspace_7f46bbafbc35ac49d16b1f37daa677de" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_06ec183abf5c889fa581de30a9b3b1b9" parent="aspace_7f46bbafbc35ac49d16b1f37daa677de" type="Folder">07-08B</container>
+            <container id="aspace_1fc69c892b945221e49c2a7774f29805" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_12b8da6a04cbdb09364462f5f5252ae1" parent="aspace_1fc69c892b945221e49c2a7774f29805" type="Folder">07-08B</container>
           </did>
         </c>
         <c id="aspace_7d5defa538cad50c222cf695396db833" level="file">
           <did>
             <unittitle>Helen Harrison</unittitle>
             <unitdate normal="1983-01-20/1983-01-20">1983 January 20</unitdate>
-            <container id="aspace_c60005fb0fcda5ba5ef3496956ec1597" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_be7395701c705a3b62d68952644c973d" parent="aspace_c60005fb0fcda5ba5ef3496956ec1597" type="Folder">07-09A</container>
+            <container id="aspace_660f5740ce591bd3030f05490ae05fd1" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_732a8c13a39e48b6b17ff1edbbd7ded4" parent="aspace_660f5740ce591bd3030f05490ae05fd1" type="Folder">07-09A</container>
           </did>
         </c>
         <c id="aspace_ef851b550ad451cb4fa48578c52f4816" level="file">
           <did>
             <unittitle>Margaret Watts</unittitle>
             <unitdate normal="1983-01-27/1983-01-27">1983 January 27</unitdate>
-            <container id="aspace_99f9b36097dc0f7fcff4fcac9b5d7ab6" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_9391f1b20c9d8b7fac5e07b9461bf65b" parent="aspace_99f9b36097dc0f7fcff4fcac9b5d7ab6" type="Folder">07-09B</container>
+            <container id="aspace_6870d4008b320d09a8c054269552c628" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_62a57d32f8eadef1fda4282012c0c2e4" parent="aspace_6870d4008b320d09a8c054269552c628" type="Folder">07-09B</container>
           </did>
         </c>
         <c id="aspace_bbbc1ca68c3d4eac2b7a62a9f1a72e31" level="file">
           <did>
             <unittitle>Nellie Walker</unittitle>
             <unitdate normal="1983-02-04/1983-02-04">1983 February 4</unitdate>
-            <container id="aspace_37bc5c6d4ef08754f229270f0005700c" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_c1f1dfcc03d8a1e092e65bf57b5cd89a" parent="aspace_37bc5c6d4ef08754f229270f0005700c" type="Folder">07-10A</container>
+            <container id="aspace_5a8db4dea66537ad1c313a73ba2ae4c0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_3792a4c8517518c8c63fe4e8145e685d" parent="aspace_5a8db4dea66537ad1c313a73ba2ae4c0" type="Folder">07-10A</container>
           </did>
         </c>
         <c id="aspace_767041824c578559c287e447723d1fac" level="file">
           <did>
             <unittitle>Delma Dockett</unittitle>
             <unitdate normal="1983-01-13/1983-01-13">1983 January 13</unitdate>
-            <container id="aspace_9153da8225d6213a44134f61c154fa75" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_aa594c06036db714cc946ee0918cd116" parent="aspace_9153da8225d6213a44134f61c154fa75" type="Folder">07-10B</container>
+            <container id="aspace_73d19552ef0417e7e800f87c375e4e9b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5c7f18592395eac97e41bb5f13d8c6e0" parent="aspace_73d19552ef0417e7e800f87c375e4e9b" type="Folder">07-10B</container>
           </did>
         </c>
         <c id="aspace_a67e9312d12877d73b4f03c3a48fee04" level="file">
           <did>
             <unittitle>Odessa Swann</unittitle>
             <unitdate normal="1983-01-13/1983-01-13">1983 January 13</unitdate>
-            <container id="aspace_aaf72d04bae5127f1a3597d397a51547" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_bca29a561aba65d1052ad89c2c3b25c3" parent="aspace_aaf72d04bae5127f1a3597d397a51547" type="Folder">07-11A</container>
+            <container id="aspace_ff7df2f48264e4c6395f8d88046d257e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_fcf0530ec2299dc2f23afe55fd4080be" parent="aspace_ff7df2f48264e4c6395f8d88046d257e" type="Folder">07-11A</container>
           </did>
         </c>
         <c id="aspace_eb1e0f0f8d0d788d343d26637ed46109" level="file">
           <did>
             <unittitle>Mary Butt</unittitle>
-            <container id="aspace_c908c1d2c792f47a035f73e657c73f0e" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_9055eb56f19ae4d14e84899518e41e7e" parent="aspace_c908c1d2c792f47a035f73e657c73f0e" type="Folder">07-11B</container>
+            <container id="aspace_d8f236eef4c48cb0bf33f168535ab6ac" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2b2d7779e28f88bef875b41aa3668fd0" parent="aspace_d8f236eef4c48cb0bf33f168535ab6ac" type="Folder">07-11B</container>
           </did>
         </c>
         <c id="aspace_b7041712824b687d9602008a85ad0222" level="file">
           <did>
             <unittitle>Naomi Singer</unittitle>
             <unitdate normal="1983-01-20/1983-01-20">1983 January 20</unitdate>
-            <container id="aspace_62690639bd84759a79ab44b5118203d9" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_25ef66e1ae4eca1f878da454e511a213" parent="aspace_62690639bd84759a79ab44b5118203d9" type="Folder">07-12A</container>
+            <container id="aspace_056078ba51a9a47ea1c2c268c833bcdb" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_dac22d4fe77bdef6be5c396e81e5613f" parent="aspace_056078ba51a9a47ea1c2c268c833bcdb" type="Folder">07-12A</container>
           </did>
         </c>
         <c id="aspace_58c8b5ff8c2d7253f18942b52c73fdff" level="file">
           <did>
             <unittitle>Ruby Carter</unittitle>
             <unitdate normal="1983-02-02/1983-02-02">1983 February 2</unitdate>
-            <container id="aspace_96ad8cb0a154ab354ffe04ec6350c3f2" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_c9b5b1360734edf2803cd119659f8e60" parent="aspace_96ad8cb0a154ab354ffe04ec6350c3f2" type="Folder">07-12B</container>
+            <container id="aspace_8dfaec13e8fd0eba1298135f0eb14574" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_05bf260369a8daea253d46f4ff465999" parent="aspace_8dfaec13e8fd0eba1298135f0eb14574" type="Folder">07-12B</container>
           </did>
         </c>
         <c id="aspace_c291b0823a6504ea09627585d049289d" level="file">
           <did>
             <unittitle>Charles Cooley</unittitle>
             <unitdate normal="1983-01-27/1983-01-27">1983 January 27</unitdate>
-            <container id="aspace_9ac35592d6ee7d509d0d6fd6654d8fdd" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_e239bc5d79d06559f3d8ddfd7e802107" parent="aspace_9ac35592d6ee7d509d0d6fd6654d8fdd" type="Folder">07-13A</container>
+            <container id="aspace_7164d2ca93f63b69727454eba2fdcf84" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f47bff09d5d5c9b929f6d725e6f39449" parent="aspace_7164d2ca93f63b69727454eba2fdcf84" type="Folder">07-13A</container>
           </did>
         </c>
         <c id="aspace_f284353bf41f56af6cd568f99df06018" level="file">
           <did>
             <unittitle>Charles Queen</unittitle>
             <unitdate normal="1983-02-10/1983-02-10">1983 February 10</unitdate>
-            <container id="aspace_fe7c7ff00181c62ef8ae75dd0d0dc0f0" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_2923913fdbd1841b77e61c970c452ef5" parent="aspace_fe7c7ff00181c62ef8ae75dd0d0dc0f0" type="Folder">07-13B</container>
+            <container id="aspace_2563d013a8a1bba7bbdd56d65986ee84" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0f80374c6d95f8ae4e0bec945afd843b" parent="aspace_2563d013a8a1bba7bbdd56d65986ee84" type="Folder">07-13B</container>
           </did>
         </c>
         <c id="aspace_3bfa7199608e7c762f3e55497b41a0fc" level="file">
           <did>
             <unittitle>Louise Venney</unittitle>
             <unitdate normal="1983-02-08/1983-02-08">1983 February 8</unitdate>
-            <container id="aspace_7b108e122480f7d6bbbcbb2ff2255498" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_5d249e072a9eb18ec554f2b288f53f37" parent="aspace_7b108e122480f7d6bbbcbb2ff2255498" type="Folder">07-14A</container>
+            <container id="aspace_683efd14afad901d5759955578d62f3b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_fdb74470c68da483fdfd50853d64b6e2" parent="aspace_683efd14afad901d5759955578d62f3b" type="Folder">07-14A</container>
           </did>
         </c>
         <c id="aspace_3c424f152f632e0005f170b702047a37" level="file">
           <did>
             <unittitle>Viola Wilson</unittitle>
-            <container id="aspace_b4360fd0e69e06f85d9ec7ab5e7d403f" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_c36df5807ae1f416a1824a51185b4bfb" parent="aspace_b4360fd0e69e06f85d9ec7ab5e7d403f" type="Folder">07-14B</container>
+            <container id="aspace_38cae706a074b77a6eef7223e2438da7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7a8e98fe42cb8dd2b53e9b10171c7135" parent="aspace_38cae706a074b77a6eef7223e2438da7" type="Folder">07-14B</container>
           </did>
         </c>
         <c id="aspace_211cd8c82873a709674dc8259907350a" level="file">
           <did>
             <unittitle>Odessa Swann</unittitle>
-            <container id="aspace_f440035d45f7226f686f6c76a101fa5a" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_9d9aedf90d9c1cf7a0ec224b9edffa2a" parent="aspace_f440035d45f7226f686f6c76a101fa5a" type="Folder">07-15A</container>
+            <container id="aspace_090a5624b0582b57462bec8e40deb56c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d23d42a32cd02d5cf12838898619023e" parent="aspace_090a5624b0582b57462bec8e40deb56c" type="Folder">07-15A</container>
           </did>
         </c>
         <c id="aspace_48caea7428f344f6bdec2763938d51d3" level="file">
           <did>
             <unittitle>Justine Briscoe</unittitle>
             <unitdate normal="1983-01-18/1983-01-18">1983 January 18</unitdate>
-            <container id="aspace_7990738a8cccf01e29d267cbba27d2d7" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_e043bd553d6eb14f1371fb91463c7381" parent="aspace_7990738a8cccf01e29d267cbba27d2d7" type="Folder">07-15B</container>
+            <container id="aspace_a5a0b90c27b0b05f11b540929a9ffd22" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0c83bc643a83a7b04aa8415ef891d032" parent="aspace_a5a0b90c27b0b05f11b540929a9ffd22" type="Folder">07-15B</container>
           </did>
         </c>
         <c id="aspace_ae04df970656952545e2c662dafa31c1" level="file">
           <did>
             <unittitle>Bernie Fonteneau</unittitle>
             <unitdate normal="1983-01-20/1983-01-20">1983 January 20</unitdate>
-            <container id="aspace_5512cc95fecc45890873c571efcb7110" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_2cf2171495305ec34c19068825523552" parent="aspace_5512cc95fecc45890873c571efcb7110" type="Folder">07-16A</container>
+            <container id="aspace_97e382b0471a2668c0e59667ae2e7ae0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_35fa5b123bb059a6879904f8ed1b2cdc" parent="aspace_97e382b0471a2668c0e59667ae2e7ae0" type="Folder">07-16A</container>
           </did>
         </c>
         <c id="aspace_46ed3df50db9722cec82c264ccb93ff0" level="file">
           <did>
             <unittitle>Gertrude Butler</unittitle>
-            <container id="aspace_4994841ec1f7804f05f96b36e4af969f" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_a3af87f985fc1a7fda2527beeab5cf62" parent="aspace_4994841ec1f7804f05f96b36e4af969f" type="Folder">07-16B</container>
+            <container id="aspace_4763da64b0b0afa315cef1dfe539a28e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_19888afa89eb7f253d0e9194e2f02875" parent="aspace_4763da64b0b0afa315cef1dfe539a28e" type="Folder">07-16B</container>
           </did>
         </c>
         <c id="aspace_45c574a0601166fbc20bdabb3f81040d" level="file">
           <did>
             <unittitle>Hazel Turner</unittitle>
-            <container id="aspace_89e1d2e5954e9f3ff0cd093f120dde4b" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_92bc183ad43e1b992b667b69bf2c1518" parent="aspace_89e1d2e5954e9f3ff0cd093f120dde4b" type="Folder">07-17A</container>
+            <container id="aspace_d0d38d17d83f2ae100173644d5c6d8b9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e15ebc3536a1110e243b00dcf3796949" parent="aspace_d0d38d17d83f2ae100173644d5c6d8b9" type="Folder">07-17A</container>
           </did>
         </c>
         <c id="aspace_f3b3838588e1049d403f9563b13ab7d2" level="file">
           <did>
             <unittitle>Nellie Walker</unittitle>
-            <container id="aspace_755486b94313f00d2063d09ba4e5e5f7" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_0b3d5e5b8d96e288b0d25ed4f00268b1" parent="aspace_755486b94313f00d2063d09ba4e5e5f7" type="Folder">07-17B</container>
+            <container id="aspace_087c49d9897adc15d505350b4ab74485" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d045503c958c1bc3b8a5cfb1130439ba" parent="aspace_087c49d9897adc15d505350b4ab74485" type="Folder">07-17B</container>
           </did>
         </c>
         <c id="aspace_82cb6477a2db0cd0350f100b9f294c74" level="file">
           <did>
             <unittitle>Delma Dockett</unittitle>
-            <container id="aspace_586e5682097cacd2b81b28799e284efe" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_b27e640d793f00a83496a8a9307c8673" parent="aspace_586e5682097cacd2b81b28799e284efe" type="Folder">07-18A</container>
+            <container id="aspace_9d8e36656ad510ccc9018236e7b1ea9e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5224ba4ee7ce626778d885f5ce065753" parent="aspace_9d8e36656ad510ccc9018236e7b1ea9e" type="Folder">07-18A</container>
           </did>
         </c>
         <c id="aspace_b12456648521fbbd65051cecca5ce31d" level="file">
           <did>
             <unittitle>Alfred C. Gilkesson</unittitle>
             <unitdate normal="1983-01-18/1983-01-18">1983 January 18</unitdate>
-            <container id="aspace_f9f19bb0faaa61be658dfa2919a542db" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_580aa43cb7c633d5f0d08946afc49ca2" parent="aspace_f9f19bb0faaa61be658dfa2919a542db" type="Folder">07-18B</container>
+            <container id="aspace_195c6d3d6e31202b28f97b725b8f4334" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_bf6b573a8cd5e6abecd6a81831cf13eb" parent="aspace_195c6d3d6e31202b28f97b725b8f4334" type="Folder">07-18B</container>
           </did>
         </c>
         <c id="aspace_4c4f59f3d5caef21ca538a18ff7f19db" level="file">
           <did>
             <unittitle>Delma Docket and Hazel Turner</unittitle>
             <unitdate normal="1983-02-03/1983-02-03">1983 February 3</unitdate>
-            <container id="aspace_2e6e86aed90cb203560586a01757fa2e" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_9efedca964e3ccd89cbdec17ffd9a3dd" parent="aspace_2e6e86aed90cb203560586a01757fa2e" type="Folder">07-19A</container>
+            <container id="aspace_58b0fd37dd6eec7147ba0b5f87e3b251" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_930bc1346aedf3fa4681afb4ddbbe3c2" parent="aspace_58b0fd37dd6eec7147ba0b5f87e3b251" type="Folder">07-19A</container>
           </did>
         </c>
         <c id="aspace_3e4a05eb94fd0e3cd94d24ab383c9a65" level="file">
           <did>
             <unittitle>Mary Haynes</unittitle>
             <unitdate normal="1983-02-02/1983-02-02">1983 February 2</unitdate>
-            <container id="aspace_258cac53e07b50d773bd56eb5aef000e" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_fc4983ed5b60e59e1fddf611c344068c" parent="aspace_258cac53e07b50d773bd56eb5aef000e" type="Folder">07-19B</container>
+            <container id="aspace_11f06eb0a86f9af8a949483f8aeab75e" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_bb13c823ae96310770937a32a21cd4cd" parent="aspace_11f06eb0a86f9af8a949483f8aeab75e" type="Folder">07-19B</container>
           </did>
         </c>
         <c id="aspace_3c5b4081efa652d663a05ad533de19b1" level="file">
           <did>
             <unittitle>Henrietta Chisholm</unittitle>
-            <container id="aspace_56904d5e755b98dcd3b7433f0a8d5fa5" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_eafe4d2f2a7b369b2389e6fdc9cde65e" parent="aspace_56904d5e755b98dcd3b7433f0a8d5fa5" type="Folder">07-20</container>
+            <container id="aspace_08f035fe7238689ed94503f1ddf3ba38" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_67e4ba8a058b010cb329b1c3a6fb59d1" parent="aspace_08f035fe7238689ed94503f1ddf3ba38" type="Folder">07-20</container>
           </did>
         </c>
         <c id="aspace_30f5e8eaf898af951574ee927dcf5049" level="file">
           <did>
             <unittitle>Warren Jenkins</unittitle>
-            <container id="aspace_58b3c7efdddd04030418a080c400943d" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_acd65bca397e22689f0955ddbdde203f" parent="aspace_58b3c7efdddd04030418a080c400943d" type="Folder">07-21A</container>
+            <container id="aspace_66235505a003294d66a76bbcd481d0b6" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d230932489c3fb95dba3634b50d8a65c" parent="aspace_66235505a003294d66a76bbcd481d0b6" type="Folder">07-21A</container>
           </did>
         </c>
         <c id="aspace_e5185b5219d669c167983ee2f2fb614e" level="file">
           <did>
             <unittitle>Mabel Mosley</unittitle>
             <unitdate normal="1983-02-04/1983-02-04">1983 February 4</unitdate>
-            <container id="aspace_650f92d666be122ae0c2f220e75f41da" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_f0f2fab7dfbe15e6c5a5800c9ca12307" parent="aspace_650f92d666be122ae0c2f220e75f41da" type="Folder">07-21B</container>
+            <container id="aspace_60b75bca1b1a3759bb56eb370aa38cbb" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_0b2e7f313bbf18d2805d1d4c62d81df0" parent="aspace_60b75bca1b1a3759bb56eb370aa38cbb" type="Folder">07-21B</container>
           </did>
         </c>
         <c id="aspace_885c60fb321e4008b018672dfd750a6d" level="file">
           <did>
             <unittitle>Louise Brooks</unittitle>
             <unitdate normal="1983-01-18/1983-01-18">1983 January 18</unitdate>
-            <container id="aspace_f807fc078a80d7eb1828e5bfab975095" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_23673369982ee733bb8a1c75e0844643" parent="aspace_f807fc078a80d7eb1828e5bfab975095" type="Folder">07-22A</container>
+            <container id="aspace_0696327570bca4db44d7c0c6e77afbcb" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_49f6f4f29e0d10059a7b0e3d017d1200" parent="aspace_0696327570bca4db44d7c0c6e77afbcb" type="Folder">07-22A</container>
           </did>
         </c>
         <c id="aspace_3dbd9d06ae6b8939b9af81c0afa45116" level="file">
           <did>
             <unittitle>Mildred Chambers</unittitle>
-            <container id="aspace_362b3e7b901c42773d9c0043f7a149c3" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_25f6e1d443b207798a484e7a26597546" parent="aspace_362b3e7b901c42773d9c0043f7a149c3" type="Folder">07-22B</container>
+            <container id="aspace_0c4638a12a9f92a73ce6ac0eda93723d" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_60ca0a6647dc7c280606be003a1b52e3" parent="aspace_0c4638a12a9f92a73ce6ac0eda93723d" type="Folder">07-22B</container>
           </did>
         </c>
         <c id="aspace_3495ea8e2a9b4c65b3864fd6b3af62f5" level="file">
           <did>
             <unittitle>Clara P. Brown</unittitle>
             <unitdate normal="1983-01-13/1983-01-13">1983 January 13</unitdate>
-            <container id="aspace_17576f78395e875adde329bac484a483" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_4c7a2c426623184e8149a7f62af24054" parent="aspace_17576f78395e875adde329bac484a483" type="Folder">07-23A</container>
+            <container id="aspace_337669d6a05475970f9b0ed32721d106" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_977c9ae51f09d7e35647a753011fa23e" parent="aspace_337669d6a05475970f9b0ed32721d106" type="Folder">07-23A</container>
           </did>
         </c>
         <c id="aspace_e3b9471284c555d87be736156ad90c06" level="file">
           <did>
             <unittitle>Justine Briscoe</unittitle>
-            <container id="aspace_d9048243116d77484876b9f06805e111" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_6439ada6d3e24227e1008cf3dd81ba39" parent="aspace_d9048243116d77484876b9f06805e111" type="Folder">07-23B</container>
+            <container id="aspace_ca1bf98c876271c0a5f5a4cb5154a9ea" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_fba86de4c13ea9555ee36c587d7f0187" parent="aspace_ca1bf98c876271c0a5f5a4cb5154a9ea" type="Folder">07-23B</container>
           </did>
         </c>
         <c id="aspace_6285f62a74f6c978f5a518208a9145b3" level="file">
           <did>
             <unittitle>Emily Gaskins</unittitle>
             <unitdate normal="1983-02-09/1983-02-09">1983 February 9</unitdate>
-            <container id="aspace_a910153ee917fb402f682c6a3639c63a" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_6ff1d0d83f884e9fc0bfb6d95208f9be" parent="aspace_a910153ee917fb402f682c6a3639c63a" type="Folder">07-24A</container>
+            <container id="aspace_06b929131cbb8367024e4e2a1631e723" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_6edae219698ba6c8fca7bb8e2026da28" parent="aspace_06b929131cbb8367024e4e2a1631e723" type="Folder">07-24A</container>
           </did>
         </c>
         <c id="aspace_4f60cc51796a511f2eb943b25a53ed32" level="file">
           <did>
             <unittitle>Mary Haynes</unittitle>
-            <container id="aspace_b0b82e9236e47af82af743f3d93a84d9" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_fbd0fe07a1108d0e6045e0e3052849ee" parent="aspace_b0b82e9236e47af82af743f3d93a84d9" type="Folder">07-24B</container>
+            <container id="aspace_14cf162960187f77c65efc9ab5060d8c" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_4988cd744a38ff35a3eb543886c62675" parent="aspace_14cf162960187f77c65efc9ab5060d8c" type="Folder">07-24B</container>
           </did>
         </c>
         <c id="aspace_2db0c127270f530fe558a3ef654c409a" level="file">
           <did>
             <unittitle>Clifford Bray</unittitle>
             <unitdate normal="1983-01-27/1983-01-27">1983 January 27</unitdate>
-            <container id="aspace_dc4d10dcaf2996ed6f6c96c10cf1e527" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_51e1803a3497ebf3b115476c887f8b3c" parent="aspace_dc4d10dcaf2996ed6f6c96c10cf1e527" type="Folder">07-25A</container>
+            <container id="aspace_d29a0330d0fb4fb7f863dee0efa6709c" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_bc9ea07c4f3542e289eec57bdf209b66" parent="aspace_d29a0330d0fb4fb7f863dee0efa6709c" type="Folder">07-25A</container>
           </did>
         </c>
         <c id="aspace_592e8389d4b303a7bbd8ed096aeea5ab" level="file">
           <did>
             <unittitle>Myrtle Hill</unittitle>
             <unitdate normal="1983-02-02/1983-02-02">1983 February 2</unitdate>
-            <container id="aspace_339534df4605bf6cf9b353a329e16fc1" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_8c83469921146f9c90a36e63acc496ad" parent="aspace_339534df4605bf6cf9b353a329e16fc1" type="Folder">07-25B</container>
+            <container id="aspace_20b99658d9ee1208a42e8043f8c4c473" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_1b0351b998282308ea27903e23173d56" parent="aspace_20b99658d9ee1208a42e8043f8c4c473" type="Folder">07-25B</container>
           </did>
         </c>
         <c id="aspace_11743a91708d6ae38106eeb9b2ee9a9d" level="file">
           <did>
             <unittitle>Oswald Glymph</unittitle>
-            <container id="aspace_a57db117f64dcc1567f67399c95ab7a9" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_ca5ee4368151e3a0303c25affcae2089" parent="aspace_a57db117f64dcc1567f67399c95ab7a9" type="Folder">07-26</container>
+            <container id="aspace_f0221cfe3e265c4738df347ed5e0f7d1" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_575255e21eac675c4719ae9f65ef7776" parent="aspace_f0221cfe3e265c4738df347ed5e0f7d1" type="Folder">07-26</container>
           </did>
         </c>
         <c id="aspace_47a40c218563acc91a90264affd9bc81" level="file">
           <did>
             <unittitle>Maggie James</unittitle>
-            <container id="aspace_14e276b6d64d500bc75edf2d78707535" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_be557d273d1b2e06b797483b15db386c" parent="aspace_14e276b6d64d500bc75edf2d78707535" type="Folder">07-27</container>
+            <container id="aspace_eafe39a3b7e0ebc01c08c03c78280e11" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_cb60f4af598c83149c94a71f01c083ea" parent="aspace_eafe39a3b7e0ebc01c08c03c78280e11" type="Folder">07-27</container>
           </did>
         </c>
         <c id="aspace_f3ac9fe674e6e992288728d5ba7de01f" level="file">
           <did>
             <unittitle>Mildred Taylor</unittitle>
-            <container id="aspace_1a0af71c32edccc009fc170c9ebb0210" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_80d6b17b49764d8d53cf482fbcf5fcaa" parent="aspace_1a0af71c32edccc009fc170c9ebb0210" type="Folder">07-28</container>
+            <container id="aspace_b7436751c84611065749575bfd2824a6" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_84eab515c522efd5a62c7bb73965332c" parent="aspace_b7436751c84611065749575bfd2824a6" type="Folder">07-28</container>
           </did>
         </c>
       </c>

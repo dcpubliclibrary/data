@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">King (Messiah and Bertha) Collection</titleproper>
-        <titleproper>Messiah and Bertha King <num>063</num> <num>063</num></titleproper>
-        <subtitle>An inventory of Messiah and Bertha King at DC Public Library</subtitle>
+        <titleproper>Messiah and Bertha King Collection <num>063</num></titleproper>
+        <subtitle>An inventory of Messiah and Bertha King Collection at DC Public Library</subtitle>
         <author>Finding aid prepared by Ryan P. Semmes.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-03</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:06:43 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:43:06 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-06-29</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,25 +38,38 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Messiah and Bertha King Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/no2005097742" source="LCSH">Metropolitan Baptist Church (Washington, D.C.)</corpname>
+      </origination>
       <unitid>063</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.5 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1906/1960" type="inclusive">1906-1960</unitdate>
-      <langmaterial id="aspace_6433c4108a54e9461f572755589dbd2a">English</langmaterial>
       <langmaterial id="aspace_43a5a45a819f57cc45c82b352ed8bdb3">English</langmaterial>
     </did>
+    <arrangement id="aspace_575a9808c7cdb50c873d7b4fc76143ff">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_92ad15702daaf021a0af3ae8484f9769">
       <head>Biographical / Historical</head>
-      <p>The records consist of meeting minutes, attendance records, financial records, correspondence, clippings, pamphlets, photographs and yearbooks, all related to the activities of the Abracadabra Club and its members. The collection also contains two gavels and a block used to call meetings to order. The records reflect the intellectual interests of the members of the Club and cover a wide variety of topics spanning over a century of time. The collection is divided into six (6) Series: I. Meeting Minutes; II. Yearbooks; III Photographs; IV. Biographical Files; V. Financial Records; and VI Ephemera.</p>
+      <p>Dr. Messiah K. King and his wife Bertha King were members of the Metropolitan Baptist Church in Washington, D.C.. The Metropolitan Baptist Church was founded in Washington, D.C. in 1864 in a Quaker Civil War barracks.</p>
     </bioghist>
     <custodhist id="aspace_5b71f15a194e36a8aea9ac713c7a37f2">
       <head>Custodial History</head>
-      <p>The collection was originally a part of the Washingtoniana Washington Vertical File Collection. The materials were removed due to their unique nature among the "Church Series" of the Vertical File Collection. It is not known as to how the Washingtoniana acquired the materials.</p>
+      <p>The collection was originally a part of the Library Washington Vertical File Collection. The materials were removed due to their unique nature among the "Church Series" of the Vertical File Collection. It is not known as to how the Library  acquired the materials.</p>
     </custodhist>
+    <processinfo id="aspace_c739c459f404373834138a7fed3c007d">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
+    </processinfo>
     <scopecontent id="aspace_57e7cfca5f5d472583961c705f65cabe">
       <head>Scope and Contents</head>
       <p>The items in this collection consist of correspondence, church bulletins and programs, a prayer book, and various early twentieth century ephemera.</p>
@@ -54,6 +78,8 @@
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026263" source="Library of Congress Subject Headings">City churches</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85141324" source="Library of Congress Subject Headings">Urban renewal</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85053952" source="lcsh">Gentrification</subject>
+      <genreform source="material_type">Ephemera</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99001943" source="Library of Congress Subject Headings">Correspondence</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_20620cbfacadbec5120eab45ea78ed90" level="series">
@@ -64,40 +90,40 @@
           <did>
             <unittitle>Church Bulletins</unittitle>
             <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
-            <container id="aspace_ce1210d53f59793f7e9c9288b1eac096" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ab0fbded0f7f556d5310779e26e72c49" parent="aspace_ce1210d53f59793f7e9c9288b1eac096" type="Folder">1</container>
+            <container id="aspace_56ba22fb647939bd042e69fa1f4fdee3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8a07a2639aafbd728ecc5baa69b94795" parent="aspace_56ba22fb647939bd042e69fa1f4fdee3" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_7b17a85011d60da597f1996fff28aff1" level="file">
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate normal="1916/1928" type="inclusive">1916-1928</unitdate>
-            <container id="aspace_596904333af8d82a5481a77f0fd448b7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e4c6fab69ce4360810165b38cc26587f" parent="aspace_596904333af8d82a5481a77f0fd448b7" type="Folder">2</container>
+            <container id="aspace_4002a10637f9d2e76ea7d16f5a571386" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_01140203f42c6dcf55449ee72b05cf6e" parent="aspace_4002a10637f9d2e76ea7d16f5a571386" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_1072d532ab82a2507cbf23e004d39172" level="file">
           <did>
             <unittitle>Ephemera</unittitle>
             <unitdate normal="1914/1960" type="inclusive">1914-1960</unitdate>
-            <container id="aspace_064eb10b5011c1d75be2dbf8f5a054de" label="mixed materials" type="Box">1</container>
-            <container id="aspace_42970a08204790c79f863ebf0ab30ee2" parent="aspace_064eb10b5011c1d75be2dbf8f5a054de" type="Folder">3</container>
+            <container id="aspace_1a02169b1d1cbc67526b4e6fb45c61c6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5d4086ea8acfc7fffeef201a60b897ec" parent="aspace_1a02169b1d1cbc67526b4e6fb45c61c6" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_059c40eec0c7e5f4722ee5e97601877e" level="file">
           <did>
             <unittitle>Prayer Book - "The Meaning of Prayer" by Harry Emerson Fosdick</unittitle>
             <unitdate normal="1917/1917" type="inclusive">1917</unitdate>
-            <container id="aspace_0d67d8a60746e362c37d8ee9966e4aea" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3433e0b492a9bd3c0f307623ddcf1600" parent="aspace_0d67d8a60746e362c37d8ee9966e4aea" type="Folder">4</container>
+            <container id="aspace_95ddfd8f5fd9324849ac03aac23b86a5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_799159c25c7a0d3a106df14e964e2f55" parent="aspace_95ddfd8f5fd9324849ac03aac23b86a5" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_4fc3ed38c9b5160e8eedff70002fd63b" level="file">
           <did>
             <unittitle>Programs</unittitle>
             <unitdate normal="1906/1928" type="inclusive">1906-1928</unitdate>
-            <container id="aspace_a3e56433f5bb79f235bcbc8ce51ecfb6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4ad39ea11577403a07b5a0351609dc48" parent="aspace_a3e56433f5bb79f235bcbc8ce51ecfb6" type="Folder">5</container>
+            <container id="aspace_e5a7892c4ae5a33feda2f593b2040cbd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_37ff42ff2659774a36f4e7cc701ffe6e" parent="aspace_e5a7892c4ae5a33feda2f593b2040cbd" type="Folder">5</container>
           </did>
         </c>
       </c>

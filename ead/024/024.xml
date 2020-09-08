@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Woodridge Book Club Records</titleproper>
-        <titleproper>Woodridge Book Club <num>024</num> <num>024</num></titleproper>
+        <titleproper>Woodridge Book Club <num>024</num></titleproper>
         <subtitle>An inventory of Woodridge Book Club at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:02:13 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:29:26 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-04-08</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,29 +38,50 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Woodridge Book Club Records</unittitle>
+      <origination label="creator">
+        <corpname rules="local" source="local">Woodridge Book Club</corpname>
+      </origination>
       <unitid>024</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.5 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1931/1964" type="inclusive">1931-1964</unitdate>
-      <langmaterial id="aspace_ddf7b3916a85e71ce9bf3ef4c9aecbeb">English</langmaterial>
       <langmaterial id="aspace_14660e6e331f24b4e12bef2513f99254">English</langmaterial>
     </did>
+    <arrangement id="aspace_a3beff4655beca4c4810776797a10ddb">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_76ea2d0177297e89936535843cec1516">
       <head>Biographical / Historical</head>
-      <p>The Woodridge Book Club, primarily a woman's organization, was founded in 1927 to both study and promote appreciation of art, literature, and science. Meetings were held the second Tuesday of every month with topics varying monthly. Women led panels, discussion groups, and headed organizational committees. Topics of discussion ranged from international affairs to current issues in the arts and sciences.</p>
+      <p>The Woodridge Book Club, primarily a woman's organization, was founded in 1927 to both study and promote art, literature, and science. Meetings were held the second Tuesday of the month with varying topics. Club members led panels, discussion groups, and headed committees. Topics of discussion ranged from international affairs to current issues in the arts and sciences.</p>
     </bioghist>
     <custodhist id="aspace_893c1064f74d833b2a5a35692fdac013">
       <head>Custodial History</head>
-      <p>Most of the items in this collection were originally part of the Washingtoniana Division's vertical files, a set of files maintained for ease of reference on various topics related to D.C. history and current events. The vertical files primarily contain clippings but also include other rare items such as signed letters, original programs, and reports. To ensure the physical preservation of rare documents in the vertical file on the Woodridge Book Club, they were removed in 1999 to create this collection. Photocopies of clippings and other less rare items were retained in the vertical file.</p>
+      <p>Most of the items in this collection were originally part of the Washingtoniana Vertical Files, a set of files maintained for reference on various topics related to D.C. history and current events. The Vertical Files primarily contain clippings but also include other rare items such as signed letters, original programs, and reports.</p>
     </custodhist>
+    <processinfo id="aspace_9a4a5578d79c00ce495e0f6b259d934b">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection when it was processed. In 1999 items were removed from the Woodridge Book Club to ensure the preservation of rare documents. Photocopies of clippings and other less rare items were retained in the Vertical File.</p>
+    </processinfo>
     <scopecontent id="aspace_1a6232dcb9ee55eb82e823dc758af571">
       <head>Scope and Contents</head>
-      <p>The Woodridge Book Club collection consists of the Club's yearly handbooks from 1931 through 1964. Significant items in the collection are those handbooks covering China and the USSR during the years of 1942 through 1946.</p>
+      <p>The Woodridge Book Club collection consists of yearly handbooks from 1931 through 1964. Significant items in the collection are handbooks covering China and the Union of Soviet Socialist Republics (USSR) during the years of 1942 through 1946.</p>
     </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008324" source="Library of Congress Subject Headings">Arts</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85147274" source="Library of Congress Subject Headings">Women</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85118553" source="Library of Congress Subject Headings">Science</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2003003058" source="Library of Congress Subject Headings">Book clubs (Discussion groups)</subject>
+      <geogname authfilenumber="http://id.loc.gov/authorities/names/n97033811" source="Library of Congress Subject Headings">Woodridge (Washington, D.C.)</geogname>
+    </controlaccess>
     <dsc>
       <c id="aspace_27a25488fc84a3b88d098597aad0a3cc" level="series">
         <did>
@@ -59,48 +91,48 @@
           <did>
             <unittitle>Handbooks</unittitle>
             <unitdate normal="1931/1964" type="inclusive">1931-1964</unitdate>
-            <container id="aspace_2e3527d8a5864d96ca55ed9ef6a0dea6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ac9aa5bd9e99062246c4bd5d1a36c999" parent="aspace_2e3527d8a5864d96ca55ed9ef6a0dea6" type="Folder">1</container>
+            <container id="aspace_f15f467606018d57cc689a3e909de312" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_96613060bdc43d8c8232cf4ce95a0441" parent="aspace_f15f467606018d57cc689a3e909de312" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_685e06bbd26352f29ef8c60d10f1bdbc" level="file">
           <did>
             <unittitle>Handbooks</unittitle>
             <unitdate normal="1931/1964" type="inclusive">1931-1964</unitdate>
-            <container id="aspace_33d6ab4ac23cd73c82c884fc6531fa79" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0cb6fc369cb17e5f7b9d173da9defb34" parent="aspace_33d6ab4ac23cd73c82c884fc6531fa79" type="Folder">2</container>
+            <container id="aspace_834fcef162f2b4c8986fe72e763b71b3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3d26053f1945a946a39422ab3de1a773" parent="aspace_834fcef162f2b4c8986fe72e763b71b3" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_a255a593c17290c480604559122e1aff" level="file">
           <did>
             <unittitle>Handbooks</unittitle>
             <unitdate normal="1931/1964" type="inclusive">1931-1964</unitdate>
-            <container id="aspace_c7f7581dff2856195c0ad0f1ced146e8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_18f6440073a856f04e3c10774f08e2ea" parent="aspace_c7f7581dff2856195c0ad0f1ced146e8" type="Folder">3</container>
+            <container id="aspace_a74e2267c9c085140b9b6c2ca6e5b9ae" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_69298b186171b45d74b3b80084bd0927" parent="aspace_a74e2267c9c085140b9b6c2ca6e5b9ae" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_2fbaf0c7d73ea8af929b9639505d1c5b" level="file">
           <did>
             <unittitle>Handbooks</unittitle>
             <unitdate normal="1931/1964" type="inclusive">1931-1964</unitdate>
-            <container id="aspace_517171d9da9dbc851a226c00cd74fc49" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1a1a04a8b0d33cb4e08eccc37d8a9473" parent="aspace_517171d9da9dbc851a226c00cd74fc49" type="Folder">4</container>
+            <container id="aspace_9634a34d19afba111b12a38fa51a1957" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a808822a3ef9a3ddece7e95c3babdb9a" parent="aspace_9634a34d19afba111b12a38fa51a1957" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_c80d1d0f5af3ee758e301f8ae1c95321" level="file">
           <did>
             <unittitle>Handbooks</unittitle>
             <unitdate normal="1931/1964" type="inclusive">1931-1964</unitdate>
-            <container id="aspace_fe0ebd71549efde020bee876152e619b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5efb69ec0fbad170153b514714c60cf8" parent="aspace_fe0ebd71549efde020bee876152e619b" type="Folder">5</container>
+            <container id="aspace_8d70d8f77c05a823ee6da6e6067fdbc1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ef6176262ed8d41e0bd0ad6c35617717" parent="aspace_8d70d8f77c05a823ee6da6e6067fdbc1" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_482c73e1526e79cc289fe24873d06824" level="file">
           <did>
             <unittitle>Handbooks</unittitle>
             <unitdate normal="1931/1964" type="inclusive">1931-1964</unitdate>
-            <container id="aspace_50fa186e1aaed32a7661d086a172945b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2154862a5ff2038366e58c32b866f416" parent="aspace_50fa186e1aaed32a7661d086a172945b" type="Folder">6</container>
+            <container id="aspace_3eb7921263d9a4dee4a57e776e5fa6d0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4ec0530ff4072c69dd8f4015a7b630ba" parent="aspace_3eb7921263d9a4dee4a57e776e5fa6d0" type="Folder">6</container>
           </did>
         </c>
       </c>

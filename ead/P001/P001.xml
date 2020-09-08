@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Kauffmann (Samuel Hay) Family Photographs Collection</titleproper>
-        <titleproper>Samuel Hay Kauffmann <num>P001</num> <num>P001</num></titleproper>
+        <titleproper>Samuel Hay Kauffmann Family Photographs Collection <num>P001</num></titleproper>
         <subtitle>An inventory of the Samuel Hay Kauffmann Family Photographs Collection at DC Public Library</subtitle>
         <author>Finding aid prepared by Susan G. Anderson.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>1988-10</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:15:42 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:54:54 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-06-12</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,36 +38,66 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Samuel Hay Kauffmann Family Photographs Collection</unittitle>
+      <origination label="creator">
+        <persname authfilenumber="http://id.loc.gov/authorities/names/n80108230" source="LCSH">Kauffman, Samuel H.</persname>
+      </origination>
       <unitid>P001</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Linear Foot</extent>
+        <extent altrender="materialtype spaceoccupied">0.5 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1844/1916" type="inclusive">1844-1916</unitdate>
-      <langmaterial id="aspace_b352617202f28682fb3a772d2f90c2bf">English</langmaterial>
       <langmaterial id="aspace_1bc2d0e3d0a1c66527281c4ea51428c4">English</langmaterial>
     </did>
     <arrangement id="aspace_83e2fccc46d01e8aa6f1c32b7f8247a9">
       <head>Arrangement</head>
-      <p>Items were arranged into the following four series; they were arranged chronologically within each series: S.H. Kauffmann; Louise Kauffmann Simpson; Victor Kauffmann; Related Photographs and Papers.</p>
+      <p>Items were arranged into the following four series; they were arranged chronologically within each series:  S.H. Kauffmann; Louise Kauffmann Simpson; Victor Kauffmann; Related Photographs and Papers.</p>
+    </arrangement>
+    <arrangement id="aspace_774f0ce2707c434cc983ca7f6b99099e">
+      <head>Arrangement</head>
+      <p>Series 1: S.H. Kauffmann<br/>
+Series 2: Louise Kauffmann Simpson<br/>
+Series 3: Victor Kauffmann<br/>
+Series 4: Related Photographs and Papers</p>
     </arrangement>
     <bioghist id="aspace_87b6db8b592f171809a02bfa625123c8">
       <head>Biographical / Historical</head>
-      <p>Samuel Hay Kauffmann was born in Wayne County, Ohio on April 30, 1829. Early on he learned the printing trade and became an editor and publisher in Zanesville, Ohio. In 1861 he was appointed to a position in the United States Treasury under Secretary Salmon P. Chase. He purchased an interest in the Washington Evening Star (Washington, D.C.) in 1867 and was elected its president in 1868. He was president of the newspaper from 1868-1879 and again from 1886 until his death in February 1906.</p>
-      <p> Samuel and his wife, Sarah, had at least three children, Rudolph, Louise and Victor. Louise married Dr. John Crayke Simpson in 1905 and continued to live in Washington, D.C. until her death in 1930. Rudolph worked for The Star, married and had a family. Victor also worked for The Star as an editor, and with his wife Jessie (Christopher) had two sons, Philip Christopher Kauffmann and Samuel Hay Kauffmann. They in turn grew up to work for The Star. The S.H. Kauffmann family traveled widely and was active in Washington, D.C. society.</p>
+      <p>Samuel Hay Kauffmann was born in Wayne County, Ohio on April 30, 1829. Early on he learned the printing trade and became an editor and publisher in Zanesville, Ohio. In 1861 he was appointed to a position in the United States Treasury under Secretary Salmon P. Chase. He purchased an interest in the Washington Evening Star in 1867 and was elected its president in 1868. He was president of the newspaper from 1868-1879 and again from 1886 until his death in February 1906. Samuel Kauffmann and his wife, Sarah, had at least three children, Rudolph, Louise and Victor. Louise married Dr. John Crayke Simpson in 1905 and continued to live in Washington, D.C. until her death in 1930. Rudolph worked for The Star, married and had a family. Victor also worked for The Star as an editor, and with his wife Jessie (Christopher) had two sons, Philip Christopher Kauffmann and Samuel Hay Kauffmann. They in turn grew up to work for The Star.</p>
     </bioghist>
+    <custodhist id="aspace_5221f9de62f10693244b59b29e0a8cc7">
+      <head>Custodial History</head>
+      <p>There is no deed of gift for this collection and it is uncertain how the Library acquired the photographs. The collection was accessioned into the collection in 1975.</p>
+    </custodhist>
     <processinfo id="aspace_82393c9cf4d0346b2188810ff03f678f">
       <head>Processing Information</head>
-      <p>Processing procedures consisted of identifying the photographic processes and images, then arranging and housing the photographs. Names and dates had previously been recorded on some of the prints. The dates were not always found to be reliable (see envelope-level descriptions for dates). Photographs were housed in preservation-quality paper envelopes and polyester sleeves. Support paper was placed behind brittle photographs before sleaving. Cases were made from folder paper for the S.H. Kauffmann daguerreotype and tintype. Preservation copying of the Union Case patent information was performed by temporarily removing the tintype; copy is enclosed in the case.</p>
+      <p>Standard archival procedures were applied and consisted of item level identifying the photographic processes and images, then arranging and housing the photographs. Names and dates had previously been recorded on some of the prints. Photographs were housed in preservation-quality paper envelopes and polyester sleeves. Support paper was placed behind brittle photographs before sleeving. Cases were made from folder paper for the daguerreotype and tintype. Preservation copying of the Union Case patent information was performed by temporarily removing the tintype; copy is enclosed in the Case. Additional preservation work on the collection was completed in 2014.</p>
     </processinfo>
+    <relatedmaterial id="aspace_42677911589e90fde2b5c73d18bb3aa6">
+      <head>Related Materials</head>
+      <p>DCPL Collections:<br/>
+Washington Star Papers (061)<br/>
+<br/>
+External Collections:<br/>
+Samuel Hay Kauffmann Papers; Library of Congress; control Number mm81028225</p>
+    </relatedmaterial>
     <scopecontent id="aspace_d68d91faa041709ef3b3695146c7d107">
       <head>Scope and Contents</head>
-      <p>Approximately 80 photographs ca. 1840-1916 of Samuel Hay Kauffmann (April 30, 1829-February, 1906), his daughter, Louise Kauffmann Simpson (May 31, 1869-March 9, 1930), his son, Victor Kauffmann, Victor's wife, Jessie Christopher Kauffmann, and their children, Philip Christopher Kauffmann and Samuel Hay Kauffmann. Collection is mostly portrait photographs, including a daguerreotype, tintypes, albumen cartes-de-visite and cabinet cards, gelatin silver developing out paper, and platinum prints. Of note: a tintype Union Case, a Brady carte-de-visite, Japanese albumen photographic prints with hand coloring, and a hand-written will by S.H. Kauffmann to his wife, Sarah F. Kauffmann (signed November, 1878).</p>
+      <p>Approximately 80 photographs of the Kauffmann family including: Samuel Hay Kauffmann, Louise Kauffmann Simpson, Victor Kauffmann, Jessie Christopher Kauffmann, Philip Christopher Kauffmann, and Samuel Hay Kauffmann II. Collection is mostly portrait photographs, including a daguerreotype, tintypes, albumen cartes-de-visite and cabinet cards, gelatin silver developing out paper, and platinum prints. Of note: a tintype Union Case, a Mathew Brady carte-de-visite, Japanese albumen photographic prints with hand coloring, and a hand-written will by S.H. Kauffmann to his wife, Sarah F. Kauffmann dated 1878.</p>
     </scopecontent>
+    <userestrict id="aspace_f2aac82171f57430c3bdccb936b901a1">
+      <head>Conditions Governing Use</head>
+      <p>There is no known restrictions on the use of the collection.</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85047009" source="Library of Congress Subject Headings">Families</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85105182" source="lcsh">Portraits</subject>
+      <genreform source="material_type">Prints and Photographs</genreform>
     </controlaccess>
     <dsc>
       <c id="aspace_c90d09a1b9d10c9bba2fcd764b516df0" level="series">
@@ -67,8 +108,8 @@
           <did>
             <unittitle>Daguerreotype - uncased</unittitle>
             <unitdate normal="1844/1849" type="inclusive">ca. 1844-1849</unitdate>
-            <container id="aspace_ed87e0adcef316f6d9215957b6651946" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a2f5623de0972d7b2ccfaa16e78f84ce" parent="aspace_ed87e0adcef316f6d9215957b6651946" type="Folder">1</container>
+            <container id="aspace_241d0756d82b1b3dbef4e716163dd401" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0dfb16e4c084a023f4ee8f046491067d" parent="aspace_241d0756d82b1b3dbef4e716163dd401" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_76784cbee4399f348b32ee1e291f5791">
             <head>Scope and Contents</head>
@@ -79,8 +120,8 @@
           <did>
             <unittitle>Tintype in Union Case</unittitle>
             <unitdate normal="1855/1855" type="inclusive">ca. 1855</unitdate>
-            <container id="aspace_12c588bfcb81b5be122733b67eb4aea8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9d6d322d23025bdcac3df77f60944074" parent="aspace_12c588bfcb81b5be122733b67eb4aea8" type="Folder">2</container>
+            <container id="aspace_c66e5e6d0e8d6a878043e1b354bad3ef" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_975bbf1205f1ccc40faeef98103afdbf" parent="aspace_c66e5e6d0e8d6a878043e1b354bad3ef" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_2946dc774b20097c6809d66b0fff18dd">
             <head>Scope and Contents</head>
@@ -91,16 +132,16 @@
           <did>
             <unittitle>Gelatin silver developing out paper print copy of tintype</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_fb5fb5ba69ecf5e6ac6b2e6068b14a5e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_56ccb4d64a141c07053d89e6fbd1c064" parent="aspace_fb5fb5ba69ecf5e6ac6b2e6068b14a5e" type="Folder">3</container>
+            <container id="aspace_f4d6371186d46df83dbc91a163a2cb98" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0f07dd77b461b450c1c22738107f2abb" parent="aspace_f4d6371186d46df83dbc91a163a2cb98" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_21547d1c5d48b34cd4a41d8884d7919f" level="file">
           <did>
             <unittitle>Cartes-de-visite (4) - albumen</unittitle>
             <unitdate normal="1862/1865" type="inclusive">ca. 1862-1865</unitdate>
-            <container id="aspace_7688181e03efe700172dd0b057113dd9" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d700f606732dd4d441fd883b92b61803" parent="aspace_7688181e03efe700172dd0b057113dd9" type="Folder">4</container>
+            <container id="aspace_a7c716110fea859ceb6aca2708b75408" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_677cdc17ad98b46e56acc0f4ddf38ead" parent="aspace_a7c716110fea859ceb6aca2708b75408" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_879499a24e77df85b49bbd5924baddf4">
             <head>Scope and Contents</head>
@@ -111,8 +152,8 @@
           <did>
             <unittitle>Cartes-de-visite (5) - albumen</unittitle>
             <unitdate normal="1870/1874" type="inclusive">ca. 1870-1874</unitdate>
-            <container id="aspace_f6da5708cbcd72f3b10b4999187984a1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2ff82b57a1b9dc30dbde96b92720f8cd" parent="aspace_f6da5708cbcd72f3b10b4999187984a1" type="Folder">5</container>
+            <container id="aspace_649ee605717282ff733d7d51024e3f67" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1ca0e6704884dc421ebce57d020dd34c" parent="aspace_649ee605717282ff733d7d51024e3f67" type="Folder">5</container>
           </did>
           <scopecontent id="aspace_cf2bb4a622fbaa570dfd9186cfbc6f78">
             <head>Scope and Contents</head>
@@ -123,8 +164,8 @@
           <did>
             <unittitle>Cartes-de-visite (4) - albumen</unittitle>
             <unitdate normal="1876/1876" type="inclusive">ca. 1876</unitdate>
-            <container id="aspace_ff398c37b34327ae986c196b7fcd9884" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b6710aa164200cacdebad8b363eadba6" parent="aspace_ff398c37b34327ae986c196b7fcd9884" type="Folder">6</container>
+            <container id="aspace_8a925e898b271272ae070739f49c23dd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_23edecca642a6e3b3ba770cbdb2a049f" parent="aspace_8a925e898b271272ae070739f49c23dd" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_901cf7b5a08412087698ca2d58428b34">
             <head>Scope and Contents</head>
@@ -135,8 +176,8 @@
           <did>
             <unittitle>Cabinet cards (4) - albumen</unittitle>
             <unitdate normal="1876/1880" type="inclusive">ca. 1876-early 1880s</unitdate>
-            <container id="aspace_8d58d6e809ddbc541b6df7ac528ccf19" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ef0226b80d486202bc6a7b0f19600855" parent="aspace_8d58d6e809ddbc541b6df7ac528ccf19" type="Folder">7</container>
+            <container id="aspace_14e7814bf1c0bb7f6412200c98fe905c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_65362f1928243717bce46e5c3ea41621" parent="aspace_14e7814bf1c0bb7f6412200c98fe905c" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_4ea30352c7e24bd02260b458540c66d0">
             <head>Scope and Contents</head>
@@ -147,8 +188,8 @@
           <did>
             <unittitle>Cabinet cards (4)</unittitle>
             <unitdate normal="1880/1880" type="inclusive">albumen - ca. early 1880s</unitdate>
-            <container id="aspace_c85ecfcbf8c38706bca2357f665cb5b7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_89704e61bbf68f1b9b17531926cf415c" parent="aspace_c85ecfcbf8c38706bca2357f665cb5b7" type="Folder">8</container>
+            <container id="aspace_81d41b3632da023d1ebd5e3f7d6d691b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_912ebe7204cca0f905a7f09239fac353" parent="aspace_81d41b3632da023d1ebd5e3f7d6d691b" type="Folder">8</container>
           </did>
           <scopecontent id="aspace_441b92a324449e9504d07a95d29f0c08">
             <head>Scope and Contents</head>
@@ -159,8 +200,8 @@
           <did>
             <unittitle>Cartes-de-visite (4) - albumen</unittitle>
             <unitdate normal="1893/1893" type="inclusive">ca. 1893</unitdate>
-            <container id="aspace_3443832d3a6665ccc02fda1ed188bdbb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d467cfb9f40f528e3e66644776164a09" parent="aspace_3443832d3a6665ccc02fda1ed188bdbb" type="Folder">9</container>
+            <container id="aspace_e751456029d1e75a0d546f2713b34f46" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3bf6fb5620812aa141ccab5461cc39a8" parent="aspace_e751456029d1e75a0d546f2713b34f46" type="Folder">9</container>
           </did>
           <scopecontent id="aspace_d0c15107adfa552da77fba4491cc1cb9">
             <head>Scope and Contents</head>
@@ -171,8 +212,8 @@
           <did>
             <unittitle>Cabinet card - albumen</unittitle>
             <unitdate normal="1893/1893" type="inclusive">ca. 1893</unitdate>
-            <container id="aspace_3b2348c29be3cc04896b6a9d2f232123" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4969b4375d2242118029a3dcacf12fe8" parent="aspace_3b2348c29be3cc04896b6a9d2f232123" type="Folder">10</container>
+            <container id="aspace_ef9b2787155130bec83a1ebb67016b18" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_29d0bb9894ce2208a3ea426868e593c7" parent="aspace_ef9b2787155130bec83a1ebb67016b18" type="Folder">10</container>
           </did>
           <scopecontent id="aspace_68d9f0bb8dc3faf7693b3b9df4df1a6b">
             <head>Scope and Contents</head>
@@ -183,24 +224,24 @@
           <did>
             <unittitle>Albumen photo of bas relief profile</unittitle>
             <unitdate normal="1890/1890" type="inclusive">ca. 1890s</unitdate>
-            <container id="aspace_6b057068c45391b0ea63a61db558dc89" label="mixed materials" type="Box">1</container>
-            <container id="aspace_90df036e10378c0412c4e5ef990fdbfe" parent="aspace_6b057068c45391b0ea63a61db558dc89" type="Folder">11</container>
+            <container id="aspace_91593512f623a6913c0899cdeac5e095" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6ee1e215f3971fe8027cd297436f76b4" parent="aspace_91593512f623a6913c0899cdeac5e095" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_7b6e050503db710827fd6bf5dac4c268" level="file">
           <did>
             <unittitle>Cabinet card - platinum</unittitle>
             <unitdate normal="1900/1905" type="inclusive">ca. 1900-1905</unitdate>
-            <container id="aspace_46d577a668dd2bd1f6e31a2cee8dc3b8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5394ee24bb3c5f940e2aa787672125bf" parent="aspace_46d577a668dd2bd1f6e31a2cee8dc3b8" type="Folder">12</container>
+            <container id="aspace_e68a10d1d809b5553afb7d2f955b7390" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_89ac6367529985bff7d44a2e5302e603" parent="aspace_e68a10d1d809b5553afb7d2f955b7390" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_d359739dd5f5a5920e3fbc1a6776c2cb" level="file">
           <did>
             <unittitle>Platinum print</unittitle>
             <unitdate normal="1900/1905" type="inclusive">ca. 1900-1905</unitdate>
-            <container id="aspace_1dfcf3d881f9e82ca5f1ed9e29b44e2e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9ff02c706b518fa47c10265f15afd967" parent="aspace_1dfcf3d881f9e82ca5f1ed9e29b44e2e" type="Folder">13</container>
+            <container id="aspace_f664750fe69e8b2cd935fbfc8b85272c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9296dbd28fb1a6f145099b4963afdbc0" parent="aspace_f664750fe69e8b2cd935fbfc8b85272c" type="Folder">13</container>
           </did>
           <scopecontent id="aspace_ab6ee729cc072574076949f2512eab66">
             <head>Scope and Contents</head>
@@ -211,8 +252,8 @@
           <did>
             <unittitle>Platinum print</unittitle>
             <unitdate normal="1900/1905" type="inclusive">ca. 1900-1905</unitdate>
-            <container id="aspace_32c0c3217cf80f7b8384b20cd3a8b7e0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_6b6b90092636e855c36a40930b9d1709" parent="aspace_32c0c3217cf80f7b8384b20cd3a8b7e0" type="Folder">14</container>
+            <container id="aspace_5e7f9a80f52f093c4de27316d84e82b5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9c9eca2036bb6d843be78341b3e64879" parent="aspace_5e7f9a80f52f093c4de27316d84e82b5" type="Folder">14</container>
           </did>
           <scopecontent id="aspace_885d47684b790c6286cb689d0c7fc357">
             <head>Scope and Contents</head>
@@ -223,8 +264,8 @@
           <did>
             <unittitle>Platinum print</unittitle>
             <unitdate normal="1900/1905" type="inclusive">ca. 1900-1905</unitdate>
-            <container id="aspace_e96046c4c68715e4767d0bb34a03e4a5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a452e6b324fe1f2262ac61226476661a" parent="aspace_e96046c4c68715e4767d0bb34a03e4a5" type="Folder">15</container>
+            <container id="aspace_c084041e8f6bac9e31c38e04653917fa" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f6252f143d5181220bcd89c8b682f852" parent="aspace_c084041e8f6bac9e31c38e04653917fa" type="Folder">15</container>
           </did>
           <scopecontent id="aspace_fadb806acdc9f6b90a2f8f3a2dfae5bb">
             <head>Scope and Contents</head>
@@ -235,8 +276,8 @@
           <did>
             <unittitle>Platinum print</unittitle>
             <unitdate normal="1900/1905" type="inclusive">ca. 1900-1905</unitdate>
-            <container id="aspace_9c632e908c915c8a2118d82be1201f47" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5015b724454a52c9fe54e495f3890100" parent="aspace_9c632e908c915c8a2118d82be1201f47" type="Folder">16</container>
+            <container id="aspace_d769cf28ceb6093c17dad5e89418ce8b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_864d6be73ef0ec18dfe38a6f702f65ee" parent="aspace_d769cf28ceb6093c17dad5e89418ce8b" type="Folder">16</container>
           </did>
           <scopecontent id="aspace_d1cfd26dfa376330317ceba105496ed9">
             <head>Scope and Contents</head>
@@ -252,8 +293,8 @@
           <did>
             <unittitle>Cartes-de-visite (7) - albumen</unittitle>
             <unitdate normal="1870/1876" type="inclusive">ca. 1870-1876</unitdate>
-            <container id="aspace_75b0b0f101c84bdefbdccc5c1c0fb4c7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d7fe6d73796dd5d8ae2a0fe334853d4e" parent="aspace_75b0b0f101c84bdefbdccc5c1c0fb4c7" type="Folder">17</container>
+            <container id="aspace_969a90a94490b41fa3deccd208f1bb87" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4106fa19c5028362695d18191010cd24" parent="aspace_969a90a94490b41fa3deccd208f1bb87" type="Folder">17</container>
           </did>
           <scopecontent id="aspace_36ea1669db54edeba5ad1169b1b3abcb">
             <head>Scope and Contents</head>
@@ -264,8 +305,8 @@
           <did>
             <unittitle>Cabinet cards (4) - albumen</unittitle>
             <unitdate normal="1872/1872" type="inclusive">ca. 1872</unitdate>
-            <container id="aspace_3a5739a5ec7c181eac2791a8fcfb7ad2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5a63139fabc9ad8a3118e961af607f8c" parent="aspace_3a5739a5ec7c181eac2791a8fcfb7ad2" type="Folder">18</container>
+            <container id="aspace_b1171d6b9d713bcd264363c16d922d1e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a0dfd23d989cdf05cf64cdc2c936e161" parent="aspace_b1171d6b9d713bcd264363c16d922d1e" type="Folder">18</container>
           </did>
           <scopecontent id="aspace_edf919b11cb74b5650d05b56b494b4ab">
             <head>Scope and Contents</head>
@@ -276,8 +317,8 @@
           <did>
             <unittitle>Cabinet card - albumen - Western studio scene</unittitle>
             <unitdate normal="1875/1875" type="inclusive">ca. 1875</unitdate>
-            <container id="aspace_4380ba7dcb1ecac1d4264b52c485f7d1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f4f707d5644eec0ec7ae5fa5d67d7d24" parent="aspace_4380ba7dcb1ecac1d4264b52c485f7d1" type="Folder">19</container>
+            <container id="aspace_0fbb5e7e36b4e6e6f1aefd7c4db5dbee" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_85300e2ad96d4cff5c62a36e6828c9a5" parent="aspace_0fbb5e7e36b4e6e6f1aefd7c4db5dbee" type="Folder">19</container>
           </did>
           <scopecontent id="aspace_6c3387c23c9b8a673849de1aa332adb7">
             <head>Scope and Contents</head>
@@ -288,8 +329,8 @@
           <did>
             <unittitle>Cabinet cards (3) - albumen</unittitle>
             <unitdate normal="1876/1876" type="inclusive">ca. 1876</unitdate>
-            <container id="aspace_d19bfe0be5e26cd844f5fea6713a17b1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7ce6def3266c725cb3f974fb754eabb4" parent="aspace_d19bfe0be5e26cd844f5fea6713a17b1" type="Folder">20</container>
+            <container id="aspace_90f9a9165b1c693d55d7dad7b5679d81" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_39ed55b310aad54b456c11537a47ccb7" parent="aspace_90f9a9165b1c693d55d7dad7b5679d81" type="Folder">20</container>
           </did>
           <scopecontent id="aspace_b2a278e599fdebff7bd5580a62ef8548">
             <head>Scope and Contents</head>
@@ -300,8 +341,8 @@
           <did>
             <unittitle>Tintype in paper mat with Mary Chambers</unittitle>
             <unitdate normal="1876/1876" type="inclusive">ca. 1876</unitdate>
-            <container id="aspace_8fdb34a5ed14c44857b36d8995697486" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f4214ac125ea283ee2930d944ac350c7" parent="aspace_8fdb34a5ed14c44857b36d8995697486" type="Folder">21</container>
+            <container id="aspace_cd3f431876d344da2c8d6903b687b135" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_94d06d018c3ea5e8746cc64fe0ee5a39" parent="aspace_cd3f431876d344da2c8d6903b687b135" type="Folder">21</container>
           </did>
           <scopecontent id="aspace_938f250708e668d56b4c5de8b85bd824">
             <head>Scope and Contents</head>
@@ -312,8 +353,8 @@
           <did>
             <unittitle>Cabinet cards (3) - albumen</unittitle>
             <unitdate normal="1877/1877" type="inclusive">ca. 1877</unitdate>
-            <container id="aspace_da18cb0ad8c9003f28ba05eb9ca458ec" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b12e79053e81c611bbaa7bc429745442" parent="aspace_da18cb0ad8c9003f28ba05eb9ca458ec" type="Folder">22</container>
+            <container id="aspace_535b1debc736cd41a0657e4e46db1655" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d6078ca6ed26fc5f0418e40454e93355" parent="aspace_535b1debc736cd41a0657e4e46db1655" type="Folder">22</container>
           </did>
           <scopecontent id="aspace_6fece0d59b12dfb584e9e721f629c3d1">
             <head>Scope and Contents</head>
@@ -324,8 +365,8 @@
           <did>
             <unittitle>Cabinet cards (3) - albumen</unittitle>
             <unitdate normal="1880/1889" type="inclusive">ca. 1880-1889</unitdate>
-            <container id="aspace_4b5f6674494f6b450293e0693a09e395" label="mixed materials" type="Box">1</container>
-            <container id="aspace_cd3a5da369521729f558722d1d98624d" parent="aspace_4b5f6674494f6b450293e0693a09e395" type="Folder">23</container>
+            <container id="aspace_4e33e128bd6e359554159942aba94365" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b86afaeb4a564bae413548feee842a7d" parent="aspace_4e33e128bd6e359554159942aba94365" type="Folder">23</container>
           </did>
           <scopecontent id="aspace_978b7176dbe70e8b5885d403cd80874c">
             <head>Scope and Contents</head>
@@ -336,8 +377,8 @@
           <did>
             <unittitle>Cabinet card with trimmed print with Alma Johnson - albumen</unittitle>
             <unitdate normal="1889/1889" type="inclusive">ca. 1889</unitdate>
-            <container id="aspace_3bd6a3cf913b7b8c23097366f51019d7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2a2be0ebdcdc446bdae58a1f5a4d585f" parent="aspace_3bd6a3cf913b7b8c23097366f51019d7" type="Folder">24</container>
+            <container id="aspace_8c6a026c512bd21c4cb4e34c6ae4f379" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f90f85936b7e2a95282f7ff340cfb040" parent="aspace_8c6a026c512bd21c4cb4e34c6ae4f379" type="Folder">24</container>
           </did>
           <scopecontent id="aspace_06148db8bb697debad942dc8eefcf591">
             <head>Scope and Contents</head>
@@ -348,8 +389,8 @@
           <did>
             <unittitle>Interior of Washington Cottage - Nantucket - Mass. - albumen</unittitle>
             <unitdate normal="1883/1883" type="inclusive">ca. 1883</unitdate>
-            <container id="aspace_7a5060ef5c58a4da9cb58e8a3f373dcf" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e2a576eb38f51b1c176732d0a11eb076" parent="aspace_7a5060ef5c58a4da9cb58e8a3f373dcf" type="Folder">25</container>
+            <container id="aspace_5827dcb0c08070d338d177a8e49a0b75" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_48e16d2887963231573d081f01f79069" parent="aspace_5827dcb0c08070d338d177a8e49a0b75" type="Folder">25</container>
           </did>
           <scopecontent id="aspace_0c19cb6222e58e14dd17bf70cf5aaab2">
             <head>Scope and Contents</head>
@@ -360,8 +401,8 @@
           <did>
             <unittitle>Cabinet cards (2) - albumen</unittitle>
             <unitdate normal="1890/1890" type="inclusive">ca. 1890.</unitdate>
-            <container id="aspace_1e5de5cc60fff994cb5cd0f2ea64fb03" label="mixed materials" type="Box">1</container>
-            <container id="aspace_17101b2805d4346f26cc24efc9c5f0bc" parent="aspace_1e5de5cc60fff994cb5cd0f2ea64fb03" type="Folder">26</container>
+            <container id="aspace_95ed7df8b718945a430bb4034a41a6d0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8e210d141f5c9acf650b9d00b9535964" parent="aspace_95ed7df8b718945a430bb4034a41a6d0" type="Folder">26</container>
           </did>
           <scopecontent id="aspace_0d7084540ead117da486b2fbba928868">
             <head>Scope and Contents</head>
@@ -372,8 +413,8 @@
           <did>
             <unittitle>Cabinet cards (2 - dup.) - albumen</unittitle>
             <unitdate normal="1890/1890" type="inclusive">ca. 1890</unitdate>
-            <container id="aspace_f6f78c74a9436c3a9252a606d6ae58a8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a5236990e281b188df645e9912b730d0" parent="aspace_f6f78c74a9436c3a9252a606d6ae58a8" type="Folder">27</container>
+            <container id="aspace_6bbba541ac571c16fee456fb5a84c544" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a08640298d3982117d5b83710547f7de" parent="aspace_6bbba541ac571c16fee456fb5a84c544" type="Folder">27</container>
           </did>
           <scopecontent id="aspace_f4c0d70a50dcfbbc362be33a155d970b">
             <head>Scope and Contents</head>
@@ -384,8 +425,8 @@
           <did>
             <unittitle>Cabinet cards (2 - dup.) - albumen</unittitle>
             <unitdate normal="1893/1893" type="inclusive">ca. 1893</unitdate>
-            <container id="aspace_e2834df9a7aadde647b629ad21189577" label="mixed materials" type="Box">1</container>
-            <container id="aspace_51a97b32cfdc1019d9edb8904f97defd" parent="aspace_e2834df9a7aadde647b629ad21189577" type="Folder">28</container>
+            <container id="aspace_c536a6a9f7051487f5165f56fe482e2e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b405b3ca1b2da70c100cd3e8acb4f57c" parent="aspace_c536a6a9f7051487f5165f56fe482e2e" type="Folder">28</container>
           </did>
           <scopecontent id="aspace_8f3c3198a4311c8211225e7980e218bd">
             <head>Scope and Contents</head>
@@ -396,8 +437,8 @@
           <did>
             <unittitle>Japanese studio print - albumen cabinet card with hand-applied color</unittitle>
             <unitdate normal="1894/1894" type="inclusive">ca. 1894</unitdate>
-            <container id="aspace_5de39886049976852f3d3c6874734695" label="mixed materials" type="Box">1</container>
-            <container id="aspace_160e152f19a9d8e88db5be40ac76133d" parent="aspace_5de39886049976852f3d3c6874734695" type="Folder">29</container>
+            <container id="aspace_9f3341b928a9c1af770a9f83ce423ea8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d6a3f6c02b40d22ac98f6f82daf038b5" parent="aspace_9f3341b928a9c1af770a9f83ce423ea8" type="Folder">29</container>
           </did>
           <scopecontent id="aspace_e24d7c959f286deac1b2245aa70b7d60">
             <head>Scope and Contents</head>
@@ -408,16 +449,16 @@
           <did>
             <unittitle>Duplicate of item 29</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_d55c1b1d4262fe403d0fb9270e4fa5c5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2436063fc6b8944f52bab588565085ae" parent="aspace_d55c1b1d4262fe403d0fb9270e4fa5c5" type="Folder">30</container>
+            <container id="aspace_33ab32d2a6d447ce36a799e1dd2495c4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c54cbb7fc22167558ca9306566ebc812" parent="aspace_33ab32d2a6d447ce36a799e1dd2495c4" type="Folder">30</container>
           </did>
         </c>
         <c id="aspace_c91dca1e00cbb44ba1e510bb9fc4b9d4" level="file">
           <did>
             <unittitle>Japanese studio print - albumen cabinet card with hand-applied color</unittitle>
             <unitdate normal="1894/1894" type="inclusive">ca. 1894</unitdate>
-            <container id="aspace_9fc0d5c251f46a6ffb0cc3b988cdd57c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b6cf969a0ce4f84568196756677f9ab0" parent="aspace_9fc0d5c251f46a6ffb0cc3b988cdd57c" type="Folder">31</container>
+            <container id="aspace_185e2e41213d632e68b02190b35b632f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_08ded68c3ce8d2862c73fb9a3c6ef8b8" parent="aspace_185e2e41213d632e68b02190b35b632f" type="Folder">31</container>
           </did>
           <scopecontent id="aspace_91395244b87f50a102fb694e9195ef00">
             <head>Scope and Contents</head>
@@ -428,16 +469,16 @@
           <did>
             <unittitle>Gelatin silver developing out paper copy photo</unittitle>
             <unitdate normal="1900/1900" type="inclusive">ca. 1900</unitdate>
-            <container id="aspace_681aca3386930ab2675b1a66bec0b3ca" label="mixed materials" type="Box">1</container>
-            <container id="aspace_530bb1fc02a2e96b66e34d9e23dec45e" parent="aspace_681aca3386930ab2675b1a66bec0b3ca" type="Folder">32</container>
+            <container id="aspace_1d1ea695d843d319ba16c2d479872acf" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f407ca4694d93b07c6a26b2be9fc8cb1" parent="aspace_1d1ea695d843d319ba16c2d479872acf" type="Folder">32</container>
           </did>
         </c>
         <c id="aspace_b8f4df8b1ded7ab21f8ce2491ccae869" level="file">
           <did>
             <unittitle>Portrait - platinum print</unittitle>
             <unitdate normal="1908/1908" type="inclusive">ca. 1908</unitdate>
-            <container id="aspace_74df5a3c3ad61f13a3e89b26106ab5d3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ddfdbfd0adcece9958d8f74364a15d2b" parent="aspace_74df5a3c3ad61f13a3e89b26106ab5d3" type="Folder">33</container>
+            <container id="aspace_b362ddf967870c798fc59c180173a737" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6caef796fcd326a428536992fec24f71" parent="aspace_b362ddf967870c798fc59c180173a737" type="Folder">33</container>
           </did>
           <scopecontent id="aspace_03b0f5309a68f839fb7abf786252fbb2">
             <head>Scope and Contents</head>
@@ -453,8 +494,8 @@
           <did>
             <unittitle>Cartes-de-visite - albumen - with Mary Downey (Irish servant)</unittitle>
             <unitdate normal="1870/1870" type="inclusive">ca. 1870</unitdate>
-            <container id="aspace_0b7caa9a3db7cf8b171961041455b127" label="mixed materials" type="Box">1</container>
-            <container id="aspace_eb84748016c6105af6db2ba22184fba9" parent="aspace_0b7caa9a3db7cf8b171961041455b127" type="Folder">34</container>
+            <container id="aspace_65cd3db07770fe28e08d1b26601402a7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d1a9ab999c6eb0d8c5cd298862d31aaa" parent="aspace_65cd3db07770fe28e08d1b26601402a7" type="Folder">34</container>
           </did>
           <scopecontent id="aspace_e35b52cd54e063c704192260d4f3a26a">
             <head>Scope and Contents</head>
@@ -465,8 +506,8 @@
           <did>
             <unittitle>Cabinet card - albumen</unittitle>
             <unitdate normal="1886/1886" type="inclusive">ca. 1886</unitdate>
-            <container id="aspace_c0d63dc5eb24c7f0ec12afa5a6949cce" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a18ed45efa3829ef2db4e89233b27528" parent="aspace_c0d63dc5eb24c7f0ec12afa5a6949cce" type="Folder">35</container>
+            <container id="aspace_c6f62d22dc761457ed4466b0bc6e7b2e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9fd29623b6015b4939e0c8b1d579a99d" parent="aspace_c6f62d22dc761457ed4466b0bc6e7b2e" type="Folder">35</container>
           </did>
           <scopecontent id="aspace_883b1b4f12b3fb302b11ef6285e9f25a">
             <head>Scope and Contents</head>
@@ -477,8 +518,8 @@
           <did>
             <unittitle>Cabinet card - albumen</unittitle>
             <unitdate normal="1889/1889" type="inclusive">ca. 1889</unitdate>
-            <container id="aspace_13565955c718709bc3f5d422ac39d5e5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_50ee59351b97a96fc05e4b5526b71ec3" parent="aspace_13565955c718709bc3f5d422ac39d5e5" type="Folder">36</container>
+            <container id="aspace_a93492df1a368c17572083a1a47cfc48" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b3c797264521550b2af4094e1eaf51d4" parent="aspace_a93492df1a368c17572083a1a47cfc48" type="Folder">36</container>
           </did>
           <scopecontent id="aspace_021c20bf68bb6c2c68117bc52082ed55">
             <head>Scope and Contents</head>
@@ -489,8 +530,8 @@
           <did>
             <unittitle>Cartes-de-visite - albumen - with Louise Kauffmann</unittitle>
             <unitdate normal="1889/1889" type="inclusive">ca. 1889</unitdate>
-            <container id="aspace_b19f19c4570dc25efd67aee105b4f92d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_78b2029764f20d124b773b64f77216c8" parent="aspace_b19f19c4570dc25efd67aee105b4f92d" type="Folder">37</container>
+            <container id="aspace_286b04cc93e5c6d390f79b1d672e6b76" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d563b0aabd90ca90aabd018715bb4f6e" parent="aspace_286b04cc93e5c6d390f79b1d672e6b76" type="Folder">37</container>
           </did>
           <scopecontent id="aspace_f51ea08d0a6717d18fc5bb9735a78030">
             <head>Scope and Contents</head>
@@ -506,24 +547,24 @@
           <did>
             <unittitle>Pencil and watercolor caricature of S.H. Kauffmann at easel</unittitle>
             <unitdate normal="1880/1880" type="inclusive">ca. late 1880s</unitdate>
-            <container id="aspace_63f1ab4955da8349ad144aa08a91c1c9" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b39ded5b7985eaac54ad75e7dd57460e" parent="aspace_63f1ab4955da8349ad144aa08a91c1c9" type="Folder">38</container>
+            <container id="aspace_cae0ed56bfe717e9d2c92307f2010779" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_655489a27c68451d2de6b79d63dae7e9" parent="aspace_cae0ed56bfe717e9d2c92307f2010779" type="Folder">38</container>
           </did>
         </c>
         <c id="aspace_0c74df499d065a9d3511291fc23d46e5" level="file">
           <did>
             <unittitle>Handwritten - signed will from S.H. Kauffmann to wife</unittitle>
             <unitdate normal="1878-11-23/1878-11-23" type="inclusive">November 23 1878</unitdate>
-            <container id="aspace_57a8e58f450ab28c3747fc97d760c8a0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5ca5f2edb1364d52f927fefb187169e4" parent="aspace_57a8e58f450ab28c3747fc97d760c8a0" type="Folder">39</container>
+            <container id="aspace_9f5f0ceb62cda8212fd6272ce86c5fa9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_427601412fc89bae06a4a748d51853b5" parent="aspace_9f5f0ceb62cda8212fd6272ce86c5fa9" type="Folder">39</container>
           </did>
         </c>
         <c id="aspace_37c19a27473727fee67add6b6987717f" level="file">
           <did>
             <unittitle>Philip Christopher Kauffmann (son of Victor and Jessie Christopher Kauffmann; grandson of S.H. Kauffmann) - platinum print</unittitle>
             <unitdate normal="1901/1901" type="inclusive">ca. 1901</unitdate>
-            <container id="aspace_7e71ee37c2d03b6d66d7a084d90ee611" label="mixed materials" type="Box">1</container>
-            <container id="aspace_dbf1316f82a867f986049dfff3a0c8d0" parent="aspace_7e71ee37c2d03b6d66d7a084d90ee611" type="Folder">40</container>
+            <container id="aspace_2611344207ce3503bd94ac79a67e2374" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e021b2fd867c7997039c39ea1913a9bc" parent="aspace_2611344207ce3503bd94ac79a67e2374" type="Folder">40</container>
           </did>
           <scopecontent id="aspace_b6c32f496055f7070543132a6cdffdd3">
             <head>Scope and Contents</head>
@@ -534,8 +575,8 @@
           <did>
             <unittitle>Samuel Hay Kauffmann (son of Victor and Jessie Christopher Kauffmann; grandson of S.H. Kauffmann) - platinum print</unittitle>
             <unitdate normal="1901/1901" type="inclusive">ca. 1901</unitdate>
-            <container id="aspace_9ee28a44fe9a5a5e4a7d0fff1de4fbfc" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a806cf3b06326df9b0c602629a463aef" parent="aspace_9ee28a44fe9a5a5e4a7d0fff1de4fbfc" type="Folder">41</container>
+            <container id="aspace_f1d1fae660578288aafb8f103b530e7c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c579005f19c8f766eb4f06ce65129814" parent="aspace_f1d1fae660578288aafb8f103b530e7c" type="Folder">41</container>
           </did>
           <scopecontent id="aspace_68951fd4a9bae8de4d250bf036da5282">
             <head>Scope and Contents</head>
@@ -546,16 +587,16 @@
           <did>
             <unittitle>Jessie Christopher Kauffmann with sons Philip Christopher Kauffmann and Samuel Hay Kauffmann - gelatin printing out paper (?)</unittitle>
             <unitdate normal="1916/1916" type="inclusive">ca. 1916</unitdate>
-            <container id="aspace_77a2b2362660c92fe127981702711e80" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9e521146505acc975155556f4bd4612b" parent="aspace_77a2b2362660c92fe127981702711e80" type="Folder">42</container>
+            <container id="aspace_d1e395e6059d379f0741eb41b5ed129c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fa969195ec99f4436b8fb91197cc583d" parent="aspace_d1e395e6059d379f0741eb41b5ed129c" type="Folder">42</container>
           </did>
         </c>
         <c id="aspace_11a7872d23823e4f5b4c8ebd09c729d2" level="file">
           <did>
             <unittitle>Portrait of unidentified early 19th century man with white hair - possibly painted photograph of original painting or painted paper mounted on board</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_6aef8ad4b2ef62a12578dbe35c531ecb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_10dffd6e5d64bc193125f6636221867c" parent="aspace_6aef8ad4b2ef62a12578dbe35c531ecb" type="Folder">43</container>
+            <container id="aspace_e323d9d859732755d2895834f8f4db7b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5885af909f24f6f2712044867b7e9253" parent="aspace_e323d9d859732755d2895834f8f4db7b" type="Folder">43</container>
           </did>
           <scopecontent id="aspace_0e584cd6f471a6ecb72ef23563c82a49">
             <head>Scope and Contents</head>

@@ -4,24 +4,35 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Frank (Madeline) Collection</titleproper>
-        <titleproper>Madeline Frank <num>087</num> <num>087</num></titleproper>
-        <subtitle>An inventory of Madeline Frank at DC Public Library</subtitle>
+        <titleproper>Madeline Frank Collection <num>087</num></titleproper>
+        <subtitle>An inventory of Madeline Frank Collection at DC Public Library</subtitle>
         <author>Finding aid prepared by Rachel Telford.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-12</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:08:41 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:45:08 -0400</date>.</creation>
       <langusage>
         <language encodinganalog="546" langcode="eng">English</language>
       </langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-07-31</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -29,29 +40,54 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Madeline Frank Collection</unittitle>
+      <origination label="creator">
+        <persname source="local">Frank, Madeline Harriet </persname>
+      </origination>
       <unitid>087</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.25 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1905/1906" type="inclusive">1905-1906</unitdate>
-      <langmaterial id="aspace_271c5bac9f911a37cd5fee0183ea2259">English</langmaterial>
       <langmaterial id="aspace_85a74f2a435651ca2340e48095a3c96f">English</langmaterial>
     </did>
+    <arrangement id="aspace_cb3bace4370a6a9c38f157afab6fbc28">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_5ff72abf9e51b40c79bb2268f164a12d">
       <head>Biographical / Historical</head>
-      <p>Madeline Harriet Frank attended Lafayette High School in Buffalo, NY, and the Washington College for Young Ladies from 1905-1906. She studied music, French, 19th century literature, education, mythology and art history, and was a member of the Sigma Theta Delta sorority.</p>
+      <p>After graduating from Lafayette High School in Buffalo, NY, Madeline Harriet Frank attended the Washington College for Young Ladies in D.C. from 1905-1906. She studied music, French, 19th century literature, education, mythology and art history, and was a member of the Sigma Theta Delta sorority.</p>
     </bioghist>
     <custodhist id="aspace_e9c5de1d52061c7ccf474b40cd0a2157">
       <head>Custodial History</head>
-      <p>This collection was donated in 1997.</p>
+      <p>This collection was donated to the DC Public Library in 1997.</p>
     </custodhist>
+    <processinfo id="aspace_cc5b13c9d5b4377b3051d901344e6b4e">
+      <head>Processing Information</head>
+      <p>Basic archival procedures were used at the time of processing.</p>
+    </processinfo>
     <scopecontent id="aspace_12266b0b57b86b42ff06d56d2ec950f0">
       <head>Scope and Contents</head>
-      <p>The collection consists of photos, clippings, correspondence, a copy of the Washington College handbook, and a diary entitled The College Girl's Record, which includes photos, clippings, invitations, and Madeline's impressions of Washington College and her classmates.</p>
+      <p>This collection consists of photos, clippings, correspondence, and a copy of the Washington College handbook, as well as a diary titled The College Girl's Record, which includes images, clippings, invitations, and Madeline Frank's impressions of Washington College and her classmates.</p>
     </scopecontent>
+    <userestrict id="aspace_b443e0514f2a17bb037db690aa225989">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85147274" source="Library of Congress Subject Headings">Women</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85041065" source="Library of Congress Subject Headings">Education, higher</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99001943" source="Library of Congress Subject Headings">Correspondence</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <genreform source="material_type">Ephemera</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85037601" source="Library of Congress Subject Headings">Diaries</subject>
+    </controlaccess>
     <dsc>
       <c id="aspace_613f2ac63f82d9baf24aa29ee2873522" level="series">
         <did>
@@ -60,63 +96,63 @@
         <c id="aspace_16bab483384e9167fafad8798dd3f12a" level="file">
           <did>
             <unittitle>Ephemera</unittitle>
-            <container id="aspace_fa6adce6a5e8b536ff085271131bcd44" label="mixed materials" type="Box">1</container>
-            <container id="aspace_6d7a7e705d23d4826ba0387effbabaef" parent="aspace_fa6adce6a5e8b536ff085271131bcd44" type="Folder">1</container>
+            <container id="aspace_3ab31d8c9ad66f963a45fdc16a980dec" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1ca03331dbf348bf3e66f05eb854850e" parent="aspace_3ab31d8c9ad66f963a45fdc16a980dec" type="Folder">1</container>
           </did>
           <c id="aspace_efd5f3d9eb390c0d823e10dff7561fc7" level="item">
             <did>
               <unittitle>Photos - Classmates and class trips</unittitle>
               <unitdate normal="1905/1906" type="inclusive">1905-1906</unitdate>
-              <container id="aspace_5be6d67560a60315092310eec2dceb8b" label="mixed materials" type="Item">1</container>
+              <container id="aspace_7bbf02b83658011436f1d88b0a04c34c" label="Mixed Materials" type="Item">1</container>
             </did>
           </c>
           <c id="aspace_dc17702bf251154642736e0ad6529a86" level="item">
             <did>
               <unittitle>Letter regarding Sigma Theta Delta</unittitle>
               <unitdate normal="1905/1905" type="inclusive">1905</unitdate>
-              <container id="aspace_e687261bf3f329ef63509f065dbc51a5" label="mixed materials" type="Item">2</container>
+              <container id="aspace_46f49c36a15e79b0935f2b613fc1fcb0" label="Mixed Materials" type="Item">2</container>
             </did>
           </c>
           <c id="aspace_a7dac472c80f438d6c90eedb2d04b29f" level="item">
             <did>
               <unittitle>Letter to Mrs. Celia Frank from Washington College regarding Madeline</unittitle>
               <unitdate normal="1905/1905" type="inclusive">1905</unitdate>
-              <container id="aspace_0009979d39dd1781ad444e870e8365d0" label="mixed materials" type="Item">3</container>
+              <container id="aspace_514e3167f1c35febc3bd84f03232947a" label="Mixed Materials" type="Item">3</container>
             </did>
           </c>
           <c id="aspace_0fa99c4ff2813608c047d586247e10c1" level="item">
             <did>
               <unittitle>Tuition Receipt</unittitle>
               <unitdate normal="1905/1905" type="inclusive">1905</unitdate>
-              <container id="aspace_1f90890d1b2c13ae61f9618b82e41dd9" label="mixed materials" type="Item">4</container>
+              <container id="aspace_d6264fc3ca67f0143ecfbfc59f21fe93" label="Mixed Materials" type="Item">4</container>
             </did>
           </c>
           <c id="aspace_0ae633d5110155b0d3057bdd603670fa" level="item">
             <did>
               <unittitle>Poem</unittitle>
               <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_cba1ca4c271381749167c711bf589538" label="mixed materials" type="Item">5</container>
+              <container id="aspace_bc8de22dbc9672adf79bdfa8dc82cdad" label="Mixed Materials" type="Item">5</container>
             </did>
           </c>
           <c id="aspace_7055ea1b1d91d9b45aeae63bc301b91a" level="item">
             <did>
               <unittitle>Calling cards</unittitle>
               <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_ff610630087350c2d5ca766700ce7edb" label="mixed materials" type="Item">6</container>
+              <container id="aspace_3c0c3c9512f88fdb371f72cdde2205cd" label="Mixed Materials" type="Item">6</container>
             </did>
           </c>
           <c id="aspace_e4050d523c650cd6b7d7566504275c06" level="item">
             <did>
               <unittitle>Clippings</unittitle>
               <unitdate normal="1906/1906" type="inclusive">1906</unitdate>
-              <container id="aspace_4f4ac6ae58a2451b706b144bbcbd17b4" label="mixed materials" type="Item">7</container>
+              <container id="aspace_1286786b8b17897de112c10b1603fc2a" label="Mixed Materials" type="Item">7</container>
             </did>
           </c>
           <c id="aspace_af4dfc92e99fa9871ecf53c6f3e5c6b1" level="item">
             <did>
               <unittitle>Washington College handbook</unittitle>
               <unitdate normal="1905/1905" type="inclusive">1905</unitdate>
-              <container id="aspace_181763dfca01a738dcedda0d8a6e2185" label="mixed materials" type="Item">8</container>
+              <container id="aspace_427ba9d42ba0a2a31056715f246554df" label="Mixed Materials" type="Item">8</container>
             </did>
           </c>
         </c>

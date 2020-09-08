@@ -4,19 +4,24 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Mayor's Mansion Debate Collection</titleproper>
-        <titleproper>Mayors Mansion Debate <num>129</num> <num>129</num></titleproper>
+        <titleproper>Mayors Mansion Debate <num>129</num></titleproper>
         <subtitle>An inventory of Mayors Mansion Debate at DC Public Library</subtitle>
         <author>Finding aid prepared by Sharad J. Shah.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-2003</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:12:13 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:48:33 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -27,22 +32,27 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Mayor's Mansion Debate Collection</unittitle>
+      <origination label="creator">
+        <persname authfilenumber="http://id.loc.gov/authorities/names/n80006540" source="LCSH">Bray, Howard</persname>
+      </origination>
       <unitid>129</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.67 linear feet; 4 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">1.67 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 Boxes</extent>
       </physdesc>
       <unitdate normal="2001/2003" type="inclusive">2001-2003</unitdate>
-      <langmaterial id="aspace_f510f625035a35ba073002d9848e437e">English</langmaterial>
       <langmaterial id="aspace_74c58cf9e78cba96455f3cd594e34913">English</langmaterial>
     </did>
     <bioghist id="aspace_af0f318cfee330323a3637fda7644178">
       <head>Biographical / Historical</head>
-      <p>The Mayor's Mansion Debate Collection focuses on a proposed track of land which was to be donated by Mrs. [] Casey to Washington, DC with the stipulation that the property be designated for use as the mayor's official residence. While many local residents and government officials were appreciative of the proposed gift, feelings remained mixed. Among the concerns raised by local residents and city officials were questions about financing the maintenance and security of the property, whether the city and National Park Service should engage in a proposed land-swap, and if moving the mayor's residence to the Georgetown neighborhood sent the wrong message to the residents of Washington, D.C. by making the mayor appear distant or elitist.</p>
-      <p> As community groups and conservation organizations weighed in on the matter, the debate of accepting the proposed gift remained undecided, and in late 2003, the Casey Foundation withdrew the offer, and donated the land to the Salvation Army. </p>
-      <p> In the aftermath, Howard Bray, a local resident who actively involved in the ongoing debate surrounding the controversial project, used the Freedom of Information Act (FOIA) to request inter-office correspondence and reports relating to the Mayor's Mansion Debate from the National Park Service, Washington City Council, and the Mayor's Office</p>
+      <p>The Mayor's Mansion Debate Collection focuses on a proposed track of land which was to be donated by Mrs. Casey to Washington, D.C. with the stipulation that the property be designated for use as the mayor's official residence. While many local residents and government officials were appreciative of the proposed gift, feelings remained mixed. Among the concerns raised by local residents and city officials were questions about financing the maintenance and security of the property, whether the city and National Park Service should engage in a proposed land-swap, and if moving the mayor's residence to the Georgetown neighborhood sent the wrong message to the residents of Washington, D.C. by making the mayor appear distant or elitist.</p>
+      <p>As community groups and conservation organizations weighed in on the matter, the debate of accepting the proposed gift remained undecided, and in late 2003, the Casey Foundation withdrew the offer, and donated the land to the Salvation Army. </p>
+      <p>In the aftermath, Howard Bray, a local resident who actively involved in the ongoing debate surrounding the controversial project, used the Freedom of Information Act (FOIA) to request inter-office correspondence and reports relating to the Mayor's Mansion Debate from the National Park Service, Washington City Council, and the Mayor's Office</p>
     </bioghist>
     <custodhist id="aspace_09c7439d0826e21558ff3e358b516f37">
       <head>Custodial History</head>
@@ -52,6 +62,12 @@
       <head>Scope and Contents</head>
       <p>Housed in thirty-eight folders in four boxes, the collection consists primarily of correspondence (e-mails, faxes, letters) reports, testimonies, maps, copies of deeds, and appraisals from both government agencies and private citizens.</p>
     </scopecontent>
+    <controlaccess>
+      <genreform source="material_type">Maps</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99001943" source="Library of Congress Subject Headings">Correspondence</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85111739" source="Library of Congress Subject Headings">Real Property</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2002011436" source="Library of Congress Subject Headings">Politics and government</subject>
+    </controlaccess>
     <dsc>
       <c id="aspace_19bf736102f86bb2d0ce53f4557756ed" level="series">
         <did>
@@ -65,40 +81,40 @@
           <did>
             <unittitle>Richard Carr - Correspondence</unittitle>
             <unitdate normal="2001/2003" type="inclusive">2001-2003</unitdate>
-            <container id="aspace_af4efe0b8d769b05119e067b79a92936" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ef6a1b864f54771a90f6e43d027f6b23" parent="aspace_af4efe0b8d769b05119e067b79a92936" type="Folder">1</container>
+            <container id="aspace_a14232ceb590873a9b590a95968796fb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d5a0801dba3ab31d4c2b1b8dc714760c" parent="aspace_a14232ceb590873a9b590a95968796fb" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_a333b7ab35980078d183c00274d9852a" level="file">
           <did>
             <unittitle>Richard Carr - Appraisal/maps/petition/real estate amendment</unittitle>
             <unitdate normal="2001/2003" type="inclusive">2001-2003</unitdate>
-            <container id="aspace_d3c12ec2b35f15cac5f6e43d5bba04ff" label="mixed materials" type="Box">1</container>
-            <container id="aspace_925d6c0859ac6bc5f2265f35ad1cb6f3" parent="aspace_d3c12ec2b35f15cac5f6e43d5bba04ff" type="Folder">2</container>
+            <container id="aspace_339c35114dd1194b518a9c0a96eb2fc9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f854d381b9128eca54a5b0bd304a34e9" parent="aspace_339c35114dd1194b518a9c0a96eb2fc9" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_c3f43869937e6e8fc4dcbfd49bcc1668" level="file">
           <did>
             <unittitle>Richard Carr - Speech</unittitle>
             <unitdate normal="2003-09-04/2003-09-04" type="inclusive">9/4/2003</unitdate>
-            <container id="aspace_f44a94d5b61d47db8de55a90c94b8347" label="mixed materials" type="Box">1</container>
-            <container id="aspace_84d1533370b5482c73a362b7bede40f8" parent="aspace_f44a94d5b61d47db8de55a90c94b8347" type="Folder">3</container>
+            <container id="aspace_2be887f9820e736690a3d260058faa47" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_dc851bc49cd3d92cd37b302e01632c84" parent="aspace_2be887f9820e736690a3d260058faa47" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_1be5da5540a17802f17fbaac0f60e0f3" level="file">
           <did>
             <unittitle>Eugene B. Casey Foundation - Correspondence</unittitle>
             <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
-            <container id="aspace_6f756fb84a0a8af7c8e2c08b9d68986a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4a42031a2241a1904b3c8d0e8c12e62f" parent="aspace_6f756fb84a0a8af7c8e2c08b9d68986a" type="Folder">4</container>
+            <container id="aspace_4cdb2fe0056fb5570ebb5cb385b1848b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_413daaabf724ce7f45d4fa5bca827c2c" parent="aspace_4cdb2fe0056fb5570ebb5cb385b1848b" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_1695be338b02b803bb789a646dc431df" level="file">
           <did>
             <unittitle>Harps and Harps - Correspondence/appraisals</unittitle>
             <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
-            <container id="aspace_09569a8f0e52a9bc279036b0a6ee5c27" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e454c44a797c5cdb8df597d1ed427d3b" parent="aspace_09569a8f0e52a9bc279036b0a6ee5c27" type="Folder">5</container>
+            <container id="aspace_e1a6cf20bea4f1614855ba4e2409791c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0eb56644f6230d6be0f5bea12ef25e55" parent="aspace_e1a6cf20bea4f1614855ba4e2409791c" type="Folder">5</container>
           </did>
         </c>
       </c>
@@ -114,120 +130,120 @@
           <did>
             <unittitle>City Council - Correspondence/memorandum/reports/announcements</unittitle>
             <unitdate normal="2003-01/2003-09" type="inclusive">1/2003-9/2003</unitdate>
-            <container id="aspace_57c235e4084f23e5ef0f77d2824e39a4" label="mixed materials" type="Box">1</container>
-            <container id="aspace_47d5951fa164ea457fdfb18535b94da2" parent="aspace_57c235e4084f23e5ef0f77d2824e39a4" type="Folder">6</container>
+            <container id="aspace_aa2bd3af05eea28aa4f21e10038cd581" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_044ec41ab5b0592e77fb6a4fb4ec9c53" parent="aspace_aa2bd3af05eea28aa4f21e10038cd581" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_c9887b5b5c6e19246c342448b588e3ae" level="file">
           <did>
             <unittitle>City Council - Correspondence/reports</unittitle>
             <unitdate normal="2003-10/2003-10" type="inclusive">10/2003</unitdate>
-            <container id="aspace_14f3949675b3f8679f460a153131ad32" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1191409bcf791ab7813f71286c795099" parent="aspace_14f3949675b3f8679f460a153131ad32" type="Folder">7</container>
+            <container id="aspace_49a0364b359ae1ff7815d1737f05e6f6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_54af52d3da90951e0854d596fb69d37d" parent="aspace_49a0364b359ae1ff7815d1737f05e6f6" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_7f0f82a8d326542d7657efd6883bacaf" level="file">
           <did>
             <unittitle>Department of Transportation - Correspondence</unittitle>
             <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
-            <container id="aspace_875b1f4c1d3e65d3dea586b33701fb63" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f175faf4dcc4911f8347904318bc2a37" parent="aspace_875b1f4c1d3e65d3dea586b33701fb63" type="Folder">8</container>
+            <container id="aspace_4f25d58ef8d788bd3e0025f7bee147e4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_411b53c2bd611e7de173170ab18e3d9a" parent="aspace_4f25d58ef8d788bd3e0025f7bee147e4" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_c64b40767f0607b3d7bfd967c1353a9c" level="file">
           <did>
             <unittitle>Executive Office of the Mayor (EOM) - Correspondence/speech notes</unittitle>
             <unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate>
-            <container id="aspace_05be7e467d6314893b93fefb41534aac" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d5dd9366c32436e2e4438f69f01c7189" parent="aspace_05be7e467d6314893b93fefb41534aac" type="Folder">9</container>
+            <container id="aspace_d4c30d912f990777e9b6df64dd04261d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6513a073b0ce5968db6461317cd8181b" parent="aspace_d4c30d912f990777e9b6df64dd04261d" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ac96e6f3d194372355a66d5374d7bfc4" level="file">
           <did>
             <unittitle>Executive Office of the Mayor (EOM) - Correspondence/reports/article</unittitle>
             <unitdate normal="2003-03/2003-08" type="inclusive">3/2003-8/2003</unitdate>
-            <container id="aspace_188a5d32e84bd0ec873f8d36fc316298" label="mixed materials" type="Box">1</container>
-            <container id="aspace_646b5d4b0d390750212b4cf09ae33028" parent="aspace_188a5d32e84bd0ec873f8d36fc316298" type="Folder">10</container>
+            <container id="aspace_8c25e72d5036117a3d8338526bc57c7c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8861ac4c0e6176e6c81c97be115e190e" parent="aspace_8c25e72d5036117a3d8338526bc57c7c" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_b9f95c53012807b25dd9dd55692327e1" level="file">
           <did>
             <unittitle>Executive Office of the Mayor (EOM) - Correspondence/reports/press release</unittitle>
             <unitdate normal="2003-09/2004-02" type="inclusive">9/2003-2/2004</unitdate>
-            <container id="aspace_dbb05f1f45d70dad555d8e1be3252079" label="mixed materials" type="Box">1</container>
-            <container id="aspace_77adfeafd6c73e33775f651c5aa6a954" parent="aspace_dbb05f1f45d70dad555d8e1be3252079" type="Folder">11</container>
+            <container id="aspace_b94489bce820c8afdbdf190685a5858c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fff5cee8879e972672355cf5b12e2ae9" parent="aspace_b94489bce820c8afdbdf190685a5858c" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_c43a39ffcdffeb67a4e2358da656ffb0" level="file">
           <did>
             <unittitle>Metropolitan Police Department - Correspondence</unittitle>
             <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
-            <container id="aspace_c75bb927ecbf8be54c53c3470d6fa88e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a4876e5571d8b0983a65ef0968002c8e" parent="aspace_c75bb927ecbf8be54c53c3470d6fa88e" type="Folder">12</container>
+            <container id="aspace_6631f71f2df6fb00112cf7a38acdc23b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ff7f55237cf2f5f309e956abaf94ab7e" parent="aspace_6631f71f2df6fb00112cf7a38acdc23b" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_532e14787ebceb842403085b25205481" level="file">
           <did>
             <unittitle>National Park Service - Correspondence/reports</unittitle>
             <unitdate normal="1935/2001" type="inclusive">1935-2001</unitdate>
-            <container id="aspace_c54666129f277482d6b4c840c87ca5f5" label="mixed materials" type="Box">2</container>
-            <container id="aspace_9594619e99005ad1a94e77d981b771f9" parent="aspace_c54666129f277482d6b4c840c87ca5f5" type="Folder">1</container>
+            <container id="aspace_a7394e7ab13b8835cddbbae3a18eefc4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_cb744f29a0510579623c1b508e738d79" parent="aspace_a7394e7ab13b8835cddbbae3a18eefc4" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_d5a1b06ba68e89f4854fc822b4d11e94" level="file">
           <did>
             <unittitle>National Park Service - Correspondence/land transfer agreements/reports/webpage articles</unittitle>
             <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
-            <container id="aspace_1fc4fcf99c635b35b7d29f7d1551474d" label="mixed materials" type="Box">2</container>
-            <container id="aspace_1fc2e2a7b69965822dd98a8a334395dd" parent="aspace_1fc4fcf99c635b35b7d29f7d1551474d" type="Folder">2</container>
+            <container id="aspace_5b91d28435755f54cea4799a9db49ec4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f33a7d50149c88e3a572de43d364b51b" parent="aspace_5b91d28435755f54cea4799a9db49ec4" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_4220834a86b450aadfb8ee411d8d30e6" level="file">
           <did>
             <unittitle>National Park Service - Correspondence/reports</unittitle>
             <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
-            <container id="aspace_53d0babb25ccfcb874eaf1cd70822302" label="mixed materials" type="Box">2</container>
-            <container id="aspace_b40e328b615a343e73e6aa1dc9a2f2c9" parent="aspace_53d0babb25ccfcb874eaf1cd70822302" type="Folder">3</container>
+            <container id="aspace_3def958fffa215db3ee337e5ec9089e8" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d49595df81cbfe9d1e0decb66d70295c" parent="aspace_3def958fffa215db3ee337e5ec9089e8" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_a0ae0d4002e4bad1fc2a2cd4265abda7" level="file">
           <did>
             <unittitle>National Capital Planning Commission (NCPC) - NCPC File #6375: "Transfer of Jurisdiction of a Portion of U.S. Reservation 357" - reports/correspondence/quarterly newsletter</unittitle>
             <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
-            <container id="aspace_ea921b5087371ba93045bc73e8032c51" label="mixed materials" type="Box">2</container>
-            <container id="aspace_d29c36962fc45ec6154eb60c8dba2694" parent="aspace_ea921b5087371ba93045bc73e8032c51" type="Folder">4</container>
+            <container id="aspace_cd22a82100cb2e8344d1c4fdeb61ff7c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5e1c4c22612dcb58c6f9703791b54eed" parent="aspace_cd22a82100cb2e8344d1c4fdeb61ff7c" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_7980ded5a26d64ddcd6a819724910b55" level="file">
           <did>
             <unittitle>Office of the Corporation Council (OCC) - Memorandum/correspondence/drafts of lease agreement/articles of incorporation and bylaws</unittitle>
             <unitdate type="inclusive">2000-2003</unitdate>
-            <container id="aspace_c76915cd5a9bbd898a4f6a56f920102a" label="mixed materials" type="Box">2</container>
-            <container id="aspace_6e21ec2d91e573defd5c5cdeadc973b4" parent="aspace_c76915cd5a9bbd898a4f6a56f920102a" type="Folder">5</container>
+            <container id="aspace_cc54b03256ecf35559e58c23d10c978b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_21ffe96ced044f55439850a340997e78" parent="aspace_cc54b03256ecf35559e58c23d10c978b" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_a7a70b91a01d0fe120b6f6d318d5179a" level="file">
           <did>
             <unittitle>Office of Planning (OP) - Correspondence/memorandum/contract</unittitle>
             <unitdate normal="2002-09/2003-08" type="inclusive">9/2002-8/2003</unitdate>
-            <container id="aspace_4e27f24bb27ca001018084ae4ce64877" label="mixed materials" type="Box">2</container>
-            <container id="aspace_fe9cc88d9b22a2c14429c818423ccb1b" parent="aspace_4e27f24bb27ca001018084ae4ce64877" type="Folder">6</container>
+            <container id="aspace_c2668690c4f1168c43f982cc9b7d8ebd" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ee22a7ca284cde1fe45a1577ae8da7ce" parent="aspace_c2668690c4f1168c43f982cc9b7d8ebd" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_79b928b03cb95a41aa6c0ec97614cdb7" level="file">
           <did>
             <unittitle>Office of Planning (OP) - Correspondence/memorandum/draft of contract/notes</unittitle>
             <unitdate normal="2003-09/2003-12" type="inclusive">9/2003-12/2003</unitdate>
-            <container id="aspace_52ce77561264656a16feddeb57a65482" label="mixed materials" type="Box">2</container>
-            <container id="aspace_18009a8eafa2217d8dd4ac73c99c1826" parent="aspace_52ce77561264656a16feddeb57a65482" type="Folder">7</container>
+            <container id="aspace_067eb6edacf9e89a544849aa3db5d902" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_310c57947abb92a3823fc249137ab9a4" parent="aspace_067eb6edacf9e89a544849aa3db5d902" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_8bfaaafcace8d07275318e064713f18c" level="file">
           <did>
             <unittitle>Proposed Land Exchange Agreement - Environmental assessment</unittitle>
             <unitdate normal="2002-11/2002-11" type="inclusive">11/2002</unitdate>
-            <container id="aspace_ea3508fe2df436f21024677d1de446a7" label="mixed materials" type="Box">2</container>
-            <container id="aspace_cb5846ea1d157e2a5e5a2f887ad2c151" parent="aspace_ea3508fe2df436f21024677d1de446a7" type="Folder">8</container>
+            <container id="aspace_5093b4b6c4caaa9db35bca696c567275" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a080308e09a374439fad2bf5b2c7ff92" parent="aspace_5093b4b6c4caaa9db35bca696c567275" type="Folder">8</container>
           </did>
         </c>
       </c>
@@ -243,104 +259,104 @@
           <did>
             <unittitle>Advisory Neighborhood Commissions - Correspondence/reports</unittitle>
             <unitdate normal="2001/2003" type="inclusive">2001-2003</unitdate>
-            <container id="aspace_ab640e8108185e937f8f45f9885c4dfd" label="mixed materials" type="Box">3</container>
-            <container id="aspace_397df7d2e86625f7135d3e496e28d3df" parent="aspace_ab640e8108185e937f8f45f9885c4dfd" type="Folder">1</container>
+            <container id="aspace_2c06cf067355514591fe7f6d6a520745" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_bffe33418742db5e36c6957758175727" parent="aspace_2c06cf067355514591fe7f6d6a520745" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_0ce030f2505a949fe8994d7e759aa599" level="file">
           <did>
             <unittitle>Biological Resource Inventory Report - Draft of report</unittitle>
             <unitdate normal="2002-11-04/2002-11-04" type="inclusive">11/4/2002</unitdate>
-            <container id="aspace_68415bbbe1067c98be4b271c76328777" label="mixed materials" type="Box">3</container>
-            <container id="aspace_585d2b642486c88594f65caf3e66abc4" parent="aspace_68415bbbe1067c98be4b271c76328777" type="Folder">2</container>
+            <container id="aspace_66c15bd361ba8b77012fc3a070009451" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_8ebfbff224573954e60db10e8666a463" parent="aspace_66c15bd361ba8b77012fc3a070009451" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_024fdac2da42fe3d4c0e282b0740aab6" level="file">
           <did>
             <unittitle>Bray, Howard - Correspondence, court ruling, memorandum, notes (contains records related to Mr. Bray's request for information via FOIA)</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_cef8de2cbb98a5f75adb0adcbdedb88f" label="mixed materials" type="Box">3</container>
-            <container id="aspace_8044dece81564140cc610aaeee54e170" parent="aspace_cef8de2cbb98a5f75adb0adcbdedb88f" type="Folder">3</container>
+            <container id="aspace_1ff35d023de8893594a758f0aad3b754" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_609c40dc56224a6ffdb8b8c746ba083f" parent="aspace_1ff35d023de8893594a758f0aad3b754" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_1d7edbe3bb3787f73a66d4b3b5df9b0d" level="file">
           <did>
             <unittitle>Casey Mansion Committee - Correspondence/memorandum/meeting reports/reports</unittitle>
             <unitdate normal="2001-03/2003-03" type="inclusive">2001-3/2003</unitdate>
-            <container id="aspace_bc844d92a95fb41c43b8221697c8d860" label="mixed materials" type="Box">3</container>
-            <container id="aspace_044aa98f75b19ef2efe0fa0ff1aaaaee" parent="aspace_bc844d92a95fb41c43b8221697c8d860" type="Folder">4</container>
+            <container id="aspace_357c864aa1172f6e1747de7ff70c7a42" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_edc5740b894ad03672342160172a9ed7" parent="aspace_357c864aa1172f6e1747de7ff70c7a42" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_2ab9f1613089bc26c9960b60187772b2" level="file">
           <did>
             <unittitle>Casey Mansion Committee - Correspondence/reports</unittitle>
             <unitdate normal="2003-04/2003-10" type="inclusive">4/2003-10/2003</unitdate>
-            <container id="aspace_609805a3120414520164d2f670b8e354" label="mixed materials" type="Box">3</container>
-            <container id="aspace_000e61b1ea6579bd42b44ddaeb7dae72" parent="aspace_609805a3120414520164d2f670b8e354" type="Folder">5</container>
+            <container id="aspace_9e91b28f745a17d59fe4cdb7b8b66a2d" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_4aa022c5cf5c9fc0cd26c8e504bebcbd" parent="aspace_9e91b28f745a17d59fe4cdb7b8b66a2d" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_311497dcaafa30d6bcf696f5d800af02" level="file">
           <did>
             <unittitle>Defenders of Wildlife - Correspondence/environmental assessment</unittitle>
             <unitdate normal="2002/2003" type="inclusive">2002-2003</unitdate>
-            <container id="aspace_46b0a8702e5928c2013406d560e9575a" label="mixed materials" type="Box">3</container>
-            <container id="aspace_82a7994a1817cd3310d9c6552df4927d" parent="aspace_46b0a8702e5928c2013406d560e9575a" type="Folder">6</container>
+            <container id="aspace_947ac76fa70feee004b73273b1061802" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f203050916e83bbbfdfb7752721700b4" parent="aspace_947ac76fa70feee004b73273b1061802" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_45ad4bbde6478802b01f1de1c2679c3a" level="file">
           <did>
             <unittitle>Foxhall Community Citizens Association - Correspondence/reports</unittitle>
             <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
-            <container id="aspace_fbcaa2b74567cc377431bec08384cdfd" label="mixed materials" type="Box">3</container>
-            <container id="aspace_3b558d7d6f7099b15981d98e4ced1cb6" parent="aspace_fbcaa2b74567cc377431bec08384cdfd" type="Folder">7</container>
+            <container id="aspace_70197cb18de55a6360fd0d918c5b109f" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b4988fbbbceae0a26e82e39df380cc55" parent="aspace_70197cb18de55a6360fd0d918c5b109f" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_55f84c6b4c45df29735c8f38de78756d" level="file">
           <did>
             <unittitle>Foxhall Community Citizens Assocation - Correspondence/petition/reports</unittitle>
             <unitdate normal="2003-01/2003-04" type="inclusive">1/2003-4/2003</unitdate>
-            <container id="aspace_d69d25292a12c9d82972a2bee10399fc" label="mixed materials" type="Box">3</container>
-            <container id="aspace_4ac245933943686fe4ef6a0675dd626b" parent="aspace_d69d25292a12c9d82972a2bee10399fc" type="Folder">8</container>
+            <container id="aspace_d18a7b0f86f44ce0e0e11e64f779e844" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_eb25a75ffe9836b51dbea3b734a010c3" parent="aspace_d18a7b0f86f44ce0e0e11e64f779e844" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_f4720a0ab2789bf4209d1eae08ce1b50" level="file">
           <did>
             <unittitle>Foxhall Community Citizens Association</unittitle>
             <unitdate normal="2003-05/2003-11" type="inclusive">5/2003-11/2003</unitdate>
-            <container id="aspace_fce401c694dae1a463fd8dfefb82235b" label="mixed materials" type="Box">3</container>
-            <container id="aspace_71cff34d1c0bcec9d3c580d31a3065f7" parent="aspace_fce401c694dae1a463fd8dfefb82235b" type="Folder">9</container>
+            <container id="aspace_178e87cff9a76e2b417a2b7067682cfb" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_5368b4220a4f8e0737a35fa9f6690685" parent="aspace_178e87cff9a76e2b417a2b7067682cfb" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_102560bfb479b4a7b818e9e8ac77f037" level="file">
           <did>
             <unittitle>Foxhall Community Citizens Association - Newsletters/photographs</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_e78a122369cbe0732e5e4db05efa6548" label="mixed materials" type="Box">3</container>
-            <container id="aspace_9baca8bcf067022d406ddb12cf13fc09" parent="aspace_e78a122369cbe0732e5e4db05efa6548" type="Folder">10</container>
+            <container id="aspace_92436efed2f51273a6c20c0f4c2161a5" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_666acb9e302548caabfc0f88d8df34c0" parent="aspace_92436efed2f51273a6c20c0f4c2161a5" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_96f2221f57a46ade04ac28375d287f9f" level="file">
           <did>
             <unittitle>Friends of Whitehaven Park - List of Exhibits</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_04a024156ae7a83b64cb1de64681d574" label="mixed materials" type="Box">3</container>
-            <container id="aspace_11fef15b3f91b9267233d01809d447e7" parent="aspace_04a024156ae7a83b64cb1de64681d574" type="Folder">11</container>
+            <container id="aspace_9550cfb47a13c0a4d4a2ab2d4846f13b" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_2d55ef58f60e8092e55d1a33d009f82c" parent="aspace_9550cfb47a13c0a4d4a2ab2d4846f13b" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_52218383dd13711b820cb0ce09783d24" level="file">
           <did>
             <unittitle>Miscellaneous Correspondence - Correspondence</unittitle>
             <unitdate normal="2002/2003" type="inclusive">2002-2003</unitdate>
-            <container id="aspace_d6670c379195d10a46e61f1176877884" label="mixed materials" type="Box">3</container>
-            <container id="aspace_d71212af7e3aaa090aa4c4addec029cc" parent="aspace_d6670c379195d10a46e61f1176877884" type="Folder">12</container>
+            <container id="aspace_7393bf9146b5ddc94e2a7162b2843f20" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d4241c159948cb7b3f22ba2ab839f596" parent="aspace_7393bf9146b5ddc94e2a7162b2843f20" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_51008bd81ca83ad4650e47842b8fae61" level="file">
           <did>
             <unittitle>Report of the Mayor's Official Residence Commission - Report</unittitle>
             <unitdate normal="2001-04-24/2001-04-24" type="inclusive">April 24 2001</unitdate>
-            <container id="aspace_b46b40cc4c563a64e850d97fa44c9c7e" label="mixed materials" type="Box">3</container>
-            <container id="aspace_6a10af30d11f9c00ecca483c0ef95bbd" parent="aspace_b46b40cc4c563a64e850d97fa44c9c7e" type="Folder">13</container>
+            <container id="aspace_6e3ef5a50f6b8c85c089db57fdf35e52" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f5a9028f9674ddfbde281ea720d6a47b" parent="aspace_6e3ef5a50f6b8c85c089db57fdf35e52" type="Folder">13</container>
           </did>
         </c>
       </c>
@@ -356,40 +372,40 @@
           <did>
             <unittitle>Press (1 of 2) - Newspaper clippings/articles/editorials</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_60d24711ff036f5ba5e7fc3fd100ca46" label="mixed materials" type="Box">4</container>
-            <container id="aspace_39a002f27318ed91da757c89160ea43a" parent="aspace_60d24711ff036f5ba5e7fc3fd100ca46" type="Folder">1</container>
+            <container id="aspace_8cf7c639992de10890ab8a3d7d4daea7" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_786283bde4663ebad7a97545e54c5fdd" parent="aspace_8cf7c639992de10890ab8a3d7d4daea7" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_cc20bfb6bdcafb6b38c3286cd2c0a297" level="file">
           <did>
             <unittitle>Press (2 of 2) - Newspaper clippings/articles/editorials</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_46325813a01a9698e167d5b74c7fbfb5" label="mixed materials" type="Box">4</container>
-            <container id="aspace_5c2aedd8d8c8ed2c86b5cffac37ae244" parent="aspace_46325813a01a9698e167d5b74c7fbfb5" type="Folder">2</container>
+            <container id="aspace_5e7ba1b2a79766be4ddf8c19ed7e8068" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_658f7def49e4075844c056d2e04e7c44" parent="aspace_5e7ba1b2a79766be4ddf8c19ed7e8068" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_6b422697bba7045d33cd8e82a5d09451" level="file">
           <did>
             <unittitle>Public Hearing - Testimonies</unittitle>
             <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
-            <container id="aspace_e319bd272909420eec47dfbb01482a14" label="mixed materials" type="Box">4</container>
-            <container id="aspace_56cf6ac137772dd099884238c813f0a6" parent="aspace_e319bd272909420eec47dfbb01482a14" type="Folder">3</container>
+            <container id="aspace_e49672c3663e0df2db1722c2908c2e0f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_37e96882effa09a3a3ed4651c7b54484" parent="aspace_e49672c3663e0df2db1722c2908c2e0f" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_9c5694834ffc1a000eca3e7cf6c661c4" level="file">
           <did>
             <unittitle>Public Opinion - Correspondence</unittitle>
             <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
-            <container id="aspace_3d5c9b8e0b428fd10a95038c41ebbdc1" label="mixed materials" type="Box">4</container>
-            <container id="aspace_46e171c458b4ac2b35e73e26b7cf3f55" parent="aspace_3d5c9b8e0b428fd10a95038c41ebbdc1" type="Folder">4</container>
+            <container id="aspace_184e5936532fd84e59580d9f3986079e" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_1155516e5a930d1c465c416acd70c19e" parent="aspace_184e5936532fd84e59580d9f3986079e" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_602b8615f16ce372ebe0e2e0e273575a" level="file">
           <did>
             <unittitle>Public Opinion - Correspondence</unittitle>
             <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
-            <container id="aspace_129c6f40ca2082e2e5adf2cae9bd4ddd" label="mixed materials" type="Box">4</container>
-            <container id="aspace_bd65bf14af805c44290798bef0689c1d" parent="aspace_129c6f40ca2082e2e5adf2cae9bd4ddd" type="Folder">5</container>
+            <container id="aspace_ae940e6400fe77f5255c56ca2a92651b" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_63854e4a16cf8c57b1c43e6a80ee6e41" parent="aspace_ae940e6400fe77f5255c56ca2a92651b" type="Folder">5</container>
           </did>
         </c>
       </c>

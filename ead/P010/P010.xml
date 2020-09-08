@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Wilfong (J. C., Jr.) Collection</titleproper>
-        <titleproper>J. C. Wilfong, Jr. <num>P010</num> <num>P010</num></titleproper>
+        <titleproper>J. C. Wilfong, Jr. <num>P010</num></titleproper>
         <subtitle>An inventory of the J. C. Wilfong, Jr. Collection at DC Public Library</subtitle>
         <author>Finding aid prepared by Mark S. Greek.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2005-12</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:16:08 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:55:33 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-06-29</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,28 +38,44 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>J. C. Wilfong, Jr. Collection</unittitle>
+      <origination label="creator">
+        <persname source="local">Wilfong, J.C., Jr.</persname>
+      </origination>
       <unitid>P010</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 box</extent>
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate>
-      <langmaterial id="aspace_a31c127e84240734dfaef6b1f4dae48c">English</langmaterial>
       <langmaterial id="aspace_903f737db1da1219245564b57a69288d">English</langmaterial>
     </did>
+    <arrangement id="aspace_1371ff119abe6e4462772dad34d4df9e">
+      <head>Arrangement</head>
+      <p>Basic archival procedures were used at the time of processing.</p>
+    </arrangement>
+    <bioghist id="aspace_856662ce5225f4bf073b034d51d759fe">
+      <head>Biographical / Historical</head>
+      <p>James Chester Wilfong Jr. was an avid photographer and historian. Mr. Wilfong served as President of the PRing George's County Historical Society and wrote columns on historical houses for many publications including The Laurel Leader, The Washington Post, and The New York Times.</p>
+    </bioghist>
     <custodhist id="aspace_1242f1e4ae9de66d0ee819fa21617503">
       <head>Custodial History</head>
       <p>There is no deed of gift and it is uncertain as to how the library acquired these photographs.</p>
     </custodhist>
     <processinfo id="aspace_62b7b5e9fe2216304238566ff91560f0">
       <head>Processing Information</head>
-      <p>Each image was placed in individual paper sleeves, intellectual information regarding the photograph was transferred onto the envelope, and the image was assigned a number. A general description of the image was added to the sleeve. The completed sleeves were then place in an archival box for storage in the DC Community Archives.</p>
+      <p>Each image was placed in individual paper sleeves, intellectual information regarding the photograph was transferred onto the envelope, and the image was assigned a number. A general description of the image was added to the sleeve. The completed sleeves were then placed in an archival box for storage.</p>
     </processinfo>
+    <relatedmaterial id="aspace_6b8b490a5c6da9368b4d255b16638630">
+      <head>Related Materials</head>
+      <p>D. C. Historic Preservation Division Photograph Collection, P002<br/>
+James Goode "Capital Losses" Collection, P004<br/>
+Hambright and Hoachlander Photograph Collection, P019<br/></p>
+    </relatedmaterial>
     <scopecontent id="aspace_662922d9d2120bc3c5ec09c3c187559e">
       <head>Scope and Contents</head>
-      <p>The collection consists of thirty-two, 3"x3" black and white photographs. There are no negatives with this collection. The images were taken between 1963-1965 and are of houses and businesses throughout the District of Columbia, many of which have been demolished. Historic locations include the Belasco Theater, Edwin Stanton House, John Philip Sousa House, Heubich Mansion, and the Commandant's House at the USMC Barracks. Notations on many of the photographs indicate the year the building was demolished or note that the Landmarks Commission "cited" the structure. It appears that the J. C. Wilfong photographs are of buildings in the district that were endangered of or scheduled for demolition.</p>
+      <p>The collection consists of 32 3 x 3 inch black and white photographs. There are no negatives with this collection. The images were taken between 1963-1965 and are of houses and businesses throughout Washington, D.C., many of which have been demolished. Historic locations include the Belasco Theater, Edwin Stanton House, John Philip Sousa House, Heurich Mansion, and the Commandant's House at the USMC Barracks. Notations on many of the photographs indicate the year the building was demolished or note that the Landmarks Commission "cited" the structure. It appears that the photographs are of buildings in the district that were endangered or scheduled for demolition.</p>
     </scopecontent>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85006611" source="Library of Congress Subject Headings">Architecture</subject>
@@ -65,256 +92,256 @@
           <did>
             <unittitle>Heubich Mansion - 1307 New Hampshire Avenue</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_d06de3dec849613479f80bd12930aafc" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d2c405dc05e26f1950547ced34bf7b65" parent="aspace_d06de3dec849613479f80bd12930aafc" type="Folder">1</container>
+            <container id="aspace_ee9009ede701e98232d4da18e35990a7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b1b534ce03c3c0c1000c73dbac70a328" parent="aspace_ee9009ede701e98232d4da18e35990a7" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_5c36fcbc80f719d805f893c44c5ab837" level="file">
           <did>
             <unittitle>House and Office - 918 10th Street, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_cdea1d1bb8d9a6286b446426c6f7c52e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1ef16fba719ed6fc6c109db393dbae52" parent="aspace_cdea1d1bb8d9a6286b446426c6f7c52e" type="Folder">2</container>
+            <container id="aspace_a97ac6cca8b791099a443e4d3283ef69" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c3c5180bee1f27b4612ded5eeaf1ebd3" parent="aspace_a97ac6cca8b791099a443e4d3283ef69" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_0444c9007c3ab76a2c49f0f683923669" level="file">
           <did>
             <unittitle>House - 923 18th Street, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_92af804f84c42c356abdb91855cdba94" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a0a46bf7c408780c715468af1b84eb2f" parent="aspace_92af804f84c42c356abdb91855cdba94" type="Folder">3</container>
+            <container id="aspace_2cc04ff5f1d7f08232505896c8ab0e7f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7d6e6efa197e309b2481b55cd7c47a4c" parent="aspace_2cc04ff5f1d7f08232505896c8ab0e7f" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_fc2e8f0128a23d02437fe44ede184a2c" level="file">
           <did>
             <unittitle>Restaurant/Bet Winder Building/Riggs Bank - 17th Street, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_d6c8250d8e240ef3fdc0c0208f728b80" label="mixed materials" type="Box">1</container>
-            <container id="aspace_91a511116e7af9ec1c07584d2e951bc5" parent="aspace_d6c8250d8e240ef3fdc0c0208f728b80" type="Folder">4</container>
+            <container id="aspace_27216cf6b8ac88ddd3e9d39e0c7ac4a0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9530683146a29024151741eaf3c99698" parent="aspace_27216cf6b8ac88ddd3e9d39e0c7ac4a0" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_d6cb08ebe8119e1a1f75e2622379af20" level="file">
           <did>
             <unittitle>Winder Building - 604 17th Street, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e9a4851b532d52f41991f736792b5ab6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_510c02ee581a5c9dc4b7c7ce400c4567" parent="aspace_e9a4851b532d52f41991f736792b5ab6" type="Folder">5</container>
+            <container id="aspace_c7b5945e562e82b2f22aab7a45fda162" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1f1b57ac298ff08abbe7920741db8921" parent="aspace_c7b5945e562e82b2f22aab7a45fda162" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_a48ae09bcca92b6fb8dd6ec96da7d5d7" level="file">
           <did>
             <unittitle>House - 10th and O Street, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_2c0e5ea737df812a961d6ef0785471a1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0e6305fc4012d8a8347f461503bed471" parent="aspace_2c0e5ea737df812a961d6ef0785471a1" type="Folder">6</container>
+            <container id="aspace_c6a1c792763d1390ba3689834860954b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_646e24db349ceda8c14d35e9288d3ed6" parent="aspace_c6a1c792763d1390ba3689834860954b" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_67d420547588744aa9e4113335e0fb40" level="file">
           <did>
             <unittitle>Watterson House - 224 2nd Street, SE</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_50b1c462d62b21c9eb0da229fc35ecf5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_52c7983b235e8d2c4990e3de410f74d0" parent="aspace_50b1c462d62b21c9eb0da229fc35ecf5" type="Folder">7</container>
+            <container id="aspace_d9f79938eff731c0c4163ec6c9f13735" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_820422e69d16d85551076f1de9eab974" parent="aspace_d9f79938eff731c0c4163ec6c9f13735" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_978f0885f40420d848f500c4ffbfc924" level="file">
           <did>
             <unittitle>Houses - 20th and H Street, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_fbfbe9f6ce1c308683fc4ad6ef7177a6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e9e517f2a2df828868472f802c04e841" parent="aspace_fbfbe9f6ce1c308683fc4ad6ef7177a6" type="Folder">8</container>
+            <container id="aspace_200749942730f07f19c4884aa23f47a3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b8364ffa27a0d719c16863cf0f0f83f9" parent="aspace_200749942730f07f19c4884aa23f47a3" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_60218ef62c3f8f09493d2b004d9cf8f4" level="file">
           <did>
             <unittitle>House - 9th and I Street, SE</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ed81bf7af612828c7ffd54d40a2dd6d8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5bfff2029216e9691cc08e1b25079d14" parent="aspace_ed81bf7af612828c7ffd54d40a2dd6d8" type="Folder">9</container>
+            <container id="aspace_bb3960c5f9f87faebf160f768f0b0e30" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_dc0acfca15b45bd2134b9d619592d578" parent="aspace_bb3960c5f9f87faebf160f768f0b0e30" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_0afc7893fae0d59f720851b6c4bf05f4" level="file">
           <did>
             <unittitle>Lutz Leather Goods Store - 1300 block G Street, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_0a98e64837b7de2cd83891a6b7b41459" label="mixed materials" type="Box">1</container>
-            <container id="aspace_efcfc6edae215363804cd9abd33d9fc2" parent="aspace_0a98e64837b7de2cd83891a6b7b41459" type="Folder">10</container>
+            <container id="aspace_c3130151c387b734553acbe4fe3e5526" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_df7c61c7637ad799fe1cc0a41447e7c3" parent="aspace_c3130151c387b734553acbe4fe3e5526" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_a6a56f55f190ab907fba4031593c6873" level="file">
           <did>
             <unittitle>John Philip Sousa House - 600 block G Street, SE</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e034f36503b0f2f5bdc88a3b86d98515" label="mixed materials" type="Box">1</container>
-            <container id="aspace_880d0936da7c0282792340deba8eaac2" parent="aspace_e034f36503b0f2f5bdc88a3b86d98515" type="Folder">11</container>
+            <container id="aspace_981bd19ca7d7049bf01bada26a58d9c4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b49bc276f9654959213f60ec77dd87fb" parent="aspace_981bd19ca7d7049bf01bada26a58d9c4" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_53d9584e2ec93931ffaaefdae3af3371" level="file">
           <did>
             <unittitle>Christ Church - 600 block G Street, SE</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_9f2884c12822ca9926ebad3458077d6d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_eb263f37859e52438f133d4daed09c6d" parent="aspace_9f2884c12822ca9926ebad3458077d6d" type="Folder">12</container>
+            <container id="aspace_6f81d9f387a4a2f0a09abf1ecd05304b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_eb0d5a443ba8475b5a2add398c6c8b42" parent="aspace_6f81d9f387a4a2f0a09abf1ecd05304b" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_956ef337f0a292427a85b26e50ef03c3" level="file">
           <did>
             <unittitle>Houses - 700 block G Street, SE</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_10560bd42fb0a75c67b23c7fd918b28f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f876423871663d5b07f013c74828a7a2" parent="aspace_10560bd42fb0a75c67b23c7fd918b28f" type="Folder">13</container>
+            <container id="aspace_1771f2e816b64255abb2551a3cbcd68b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_95a63e047cbfa85aa87054a3e47656a5" parent="aspace_1771f2e816b64255abb2551a3cbcd68b" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_c43a0be72157c81d04a600a0a75fc35c" level="file">
           <did>
             <unittitle>Commandant's House USMC Barracks - 800 block G Street, SE</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c24ef33b35b2e585bd85e4c0169ffc5e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_64b2a2ba37010b41ad755c225a80c8ee" parent="aspace_c24ef33b35b2e585bd85e4c0169ffc5e" type="Folder">14</container>
+            <container id="aspace_e4a3f2e4027b15f93fdefd725f9abf7a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bf5c146c40d4967c071e15c2b15141c1" parent="aspace_e4a3f2e4027b15f93fdefd725f9abf7a" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_046117e8e1e1a79e59c2add284647692" level="file">
           <did>
             <unittitle>Edwin Stanton Home - 458 C Street, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_205fa58244ba504a5996facb54c5ccbb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1acb5fac4194fff9770c00d159c3c684" parent="aspace_205fa58244ba504a5996facb54c5ccbb" type="Folder">15</container>
+            <container id="aspace_355af4610214adfb59864b03193906c6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3e77f95b6085b09d164fe9f709b16222" parent="aspace_355af4610214adfb59864b03193906c6" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_ca197736b1b0c1cd67c1a1028ef5685a" level="file">
           <did>
             <unittitle>House - 2030 I Street, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_332339cf1635d53378a21d571db6fb6d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_79c16c64eba92a4e2db016baf4568028" parent="aspace_332339cf1635d53378a21d571db6fb6d" type="Folder">16</container>
+            <container id="aspace_80c54b1240bca41ca532c49b30212385" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f7b8409ba0d8e5107927f6706fce3da5" parent="aspace_80c54b1240bca41ca532c49b30212385" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_02bde2d5cd21d305c119308b57244c73" level="file">
           <did>
             <unittitle>House - 1925 F Street, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_22e304351b238cf799325d5fa138337f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_94c3af329b226bb7613701703218f754" parent="aspace_22e304351b238cf799325d5fa138337f" type="Folder">17</container>
+            <container id="aspace_9bf32f6f70c40f46a342ed2e078fe1bf" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c3e485a1dff6e5f325d74de8127f9199" parent="aspace_9bf32f6f70c40f46a342ed2e078fe1bf" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_2114a0ee8354b13a1c34c668063a669f" level="file">
           <did>
             <unittitle>Arts Club - 2109 I Street, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e5ce2a2e4e47c0a1e37baa87645f6ce4" label="mixed materials" type="Box">1</container>
-            <container id="aspace_db15bbc3f1fcd51477ba76780a67439e" parent="aspace_e5ce2a2e4e47c0a1e37baa87645f6ce4" type="Folder">18</container>
+            <container id="aspace_c2b8e3b83222b469a8c4e6bfec38a493" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0c38938dc31fe21b3280198c11fc8741" parent="aspace_c2b8e3b83222b469a8c4e6bfec38a493" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_f4adc1cc43264285c146d81b619bf923" level="file">
           <did>
             <unittitle>Howe Mansion - 1821 H Street, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_45a9e66e2e4d65cab5d9a45b7dd7d759" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5537de37bec6efaaadf6a4f661f9aa56" parent="aspace_45a9e66e2e4d65cab5d9a45b7dd7d759" type="Folder">19</container>
+            <container id="aspace_2c04b9f18e42e266d8cb9741a72ec1bf" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fb4620e86d49d6c33819e9beb1680382" parent="aspace_2c04b9f18e42e266d8cb9741a72ec1bf" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_591c2c7fa0cdc08cabe551a8700a56bd" level="file">
           <did>
             <unittitle>House and Laundry - 913 East Capitol Street</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_bc6d18334f5db84b46d5b9063e75c997" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3591e78c57802200822feb3f7c86f4c3" parent="aspace_bc6d18334f5db84b46d5b9063e75c997" type="Folder">20</container>
+            <container id="aspace_2f0c43101aabddbda3451178f33af788" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2f7883b5d2e02a17802d74e7468b71c3" parent="aspace_2f0c43101aabddbda3451178f33af788" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_50fc737bc9466647086943a69c46587c" level="file">
           <did>
             <unittitle>Turkey Thicket - 1100 Michigan Avenue, NE</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c2938b52845745f22ae887d3b6fafbb5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e1a9ff57561564590ea0f1c7f96b7d1a" parent="aspace_c2938b52845745f22ae887d3b6fafbb5" type="Folder">21</container>
+            <container id="aspace_188cfdf85be8db04d50db757210c0d00" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ae93de43cdab9645a17b649e9ebc0c64" parent="aspace_188cfdf85be8db04d50db757210c0d00" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_f91c3bcffe12c820485d50abfe776095" level="file">
           <did>
             <unittitle>Gilman's Drug Store - 627 Pennsylvania Avenue, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_a0747ee0ba84594db4efe4631d64cf2f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d06cc8e3ef2d3343e663a4944f7b1f77" parent="aspace_a0747ee0ba84594db4efe4631d64cf2f" type="Folder">22</container>
+            <container id="aspace_d0c62c615c293bcf5942cd03a43f5bba" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5235afa750e66d60ba72d0d8edf7d862" parent="aspace_d0c62c615c293bcf5942cd03a43f5bba" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_adb444c9435cccb30a89d5de58d0a881" level="file">
           <did>
             <unittitle>Buildings - 2109 Pennsylvania Avenue, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e813c89d07d54f3a70d174e5186064b4" label="mixed materials" type="Box">1</container>
-            <container id="aspace_896d79c6c9005eead92370145d1734c0" parent="aspace_e813c89d07d54f3a70d174e5186064b4" type="Folder">23</container>
+            <container id="aspace_37056bb705604a85fd4cb0f89b59bd57" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d843764d038485e26e2ce38c17d4e0d4" parent="aspace_37056bb705604a85fd4cb0f89b59bd57" type="Folder">23</container>
           </did>
         </c>
         <c id="aspace_66713e95ed35754081df964e345b40ce" level="file">
           <did>
             <unittitle>Buildings - 600 block Indiana Avenue</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ebd54f06166e0fb0c413bf5a5ea5c460" label="mixed materials" type="Box">1</container>
-            <container id="aspace_88b861e4f663c9d3170e6961e7a39f13" parent="aspace_ebd54f06166e0fb0c413bf5a5ea5c460" type="Folder">24</container>
+            <container id="aspace_3a74b5c6d13611a2ccaf9034e149f1a4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bf544669c5809b7c63ab7fdf1d7d5949" parent="aspace_3a74b5c6d13611a2ccaf9034e149f1a4" type="Folder">24</container>
           </did>
         </c>
         <c id="aspace_71efab0f16bc5efea4641d76807f1c84" level="file">
           <did>
             <unittitle>House - 515 Massachusetts Avenue, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_257db511a6b067afffffdd90f2bfd9e1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_91b8bc5ae54ccab5c22ef9b77be54bfa" parent="aspace_257db511a6b067afffffdd90f2bfd9e1" type="Folder">25</container>
+            <container id="aspace_880e5dfb046c734149900046eb6d1041" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_eb7a892d40ffbd7a8cc6802298938684" parent="aspace_880e5dfb046c734149900046eb6d1041" type="Folder">25</container>
           </did>
         </c>
         <c id="aspace_6c49568037e2ba1ef37b077ded8e8c2c" level="file">
           <did>
             <unittitle>House - 700 block Virginia Avenue, SE</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_6f92d0309f71dec22d1f721a91315a5f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5649e2c2b440e4a6652b07377f09b40c" parent="aspace_6f92d0309f71dec22d1f721a91315a5f" type="Folder">26</container>
+            <container id="aspace_40dca877e4de2eb9ed3292ff6bad2bc2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1e25538c8cf3613694ada9876b251ba2" parent="aspace_40dca877e4de2eb9ed3292ff6bad2bc2" type="Folder">26</container>
           </did>
         </c>
         <c id="aspace_096109ea83555f69925c2c0a844a95a7" level="file">
           <did>
             <unittitle>Belasco Theatre - 17 Madison Place, NW</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_35ad43463f6b5a135c0988638d27f139" label="mixed materials" type="Box">1</container>
-            <container id="aspace_75cbc51dd0b97146ad6775d3b3aee436" parent="aspace_35ad43463f6b5a135c0988638d27f139" type="Folder">27</container>
+            <container id="aspace_28d09e08a1bba1d68bf878baf7619b1f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b96980d6f3066fda4922662b323431b3" parent="aspace_28d09e08a1bba1d68bf878baf7619b1f" type="Folder">27</container>
           </did>
         </c>
         <c id="aspace_3ded5350aad55bea8ad7750a7e5c27b3" level="file">
           <did>
             <unittitle>Philadelphia Row - 100 Block 11th Street, SE</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c7b16f425b1ac76c27c93463a8658ca9" label="mixed materials" type="Box">1</container>
-            <container id="aspace_24434523e355c2235dc46a6131398bce" parent="aspace_c7b16f425b1ac76c27c93463a8658ca9" type="Folder">28</container>
+            <container id="aspace_5639ce5a35b0336ddf4ccf743e0a3fe9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ced526472866e8fc65709192d7f9d746" parent="aspace_5639ce5a35b0336ddf4ccf743e0a3fe9" type="Folder">28</container>
           </did>
         </c>
         <c id="aspace_873ae3c3237fe486739704edf46594cd" level="file">
           <did>
             <unittitle>John Clagett Proctor Mausoleum - Rock Creek Cemetery</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ba7cb4a3723479e2871ab83567ae74ea" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7f5ac5a057389044e328206987791f9e" parent="aspace_ba7cb4a3723479e2871ab83567ae74ea" type="Folder">29</container>
+            <container id="aspace_f19f34442abde5ae2fae6492737db55f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_166e52855f1109cbb7ea83a4c0ba7bca" parent="aspace_f19f34442abde5ae2fae6492737db55f" type="Folder">29</container>
           </did>
         </c>
         <c id="aspace_98bbfab819bd8b48abaa05702cc41679" level="file">
           <did>
             <unittitle>Buildings (Eddie's Dry Cleaning) - 1114-1116 8th Street, SE</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_a3fdc5d48bbf795133f46a54df88f91e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_fe8d2435a5fc234356475d7ce911c64f" parent="aspace_a3fdc5d48bbf795133f46a54df88f91e" type="Folder">30</container>
+            <container id="aspace_d2e90ef3bbb315bbc6c6290c9102ae3a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c8369ce88c59b3097b4fb9dcac1cfc46" parent="aspace_d2e90ef3bbb315bbc6c6290c9102ae3a" type="Folder">30</container>
           </did>
         </c>
         <c id="aspace_ab5418dd86ef185210f2f5fc3219d1c6" level="file">
           <did>
             <unittitle>House - 1003 New Jersey Avenue, SE</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_02fd2a0bb9c28a53bdb75fc96921d80c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c17d7efae7dd605492d5afa45fa559d7" parent="aspace_02fd2a0bb9c28a53bdb75fc96921d80c" type="Folder">31</container>
+            <container id="aspace_ae2aebbfd56e1315c2f693e897b3cae2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_00ed115ce26395cff3f5ea0551d83ba7" parent="aspace_ae2aebbfd56e1315c2f693e897b3cae2" type="Folder">31</container>
           </did>
         </c>
         <c id="aspace_dc274bc32bd4bae4d98fc4f544245299" level="file">
           <did>
             <unittitle>Houses - 911, 913 and 915 M Street, SE</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_3c7903991edde7452560777a764535c3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f7c9279160a58d7e889c7322838a58dc" parent="aspace_3c7903991edde7452560777a764535c3" type="Folder">32</container>
+            <container id="aspace_0aef0ccc7a9240045879800dea127422" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2a90627c16e81d6595134457a6839664" parent="aspace_0aef0ccc7a9240045879800dea127422" type="Folder">32</container>
           </did>
         </c>
       </c>

@@ -4,19 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Savoy Family Genealogical Collection</titleproper>
-        <titleproper>Savoy Family <num>150</num> <num>150</num></titleproper>
-        <subtitle>An inventory of Savoy Family at DC Public Library</subtitle>
+        <titleproper>Savoy Family Genealogical Collection <num>150</num></titleproper>
+        <subtitle>An inventory of Savoy Family Genealogical Collection at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Africana Archives Project.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
+        <p>
+          <date>2014</date>
+        </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:14:44 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:50:53 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-08-21</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -24,30 +38,49 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Savoy Family Genealogical Collection</unittitle>
+      <origination label="creator">
+        <famname source="local">Savoy family</famname>
+      </origination>
       <unitid>150</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">1 cubic feet; 1 box</extent>
       </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
+      </physdesc>
       <unitdate normal="1850/2013" type="inclusive">1850-2013</unitdate>
-      <langmaterial id="aspace_45d4551b33ada9f1d9f7d597d2ab20b4">English</langmaterial>
       <langmaterial id="aspace_45471f7400fb3c5879c6cc425960208b">English</langmaterial>
-      <abstract id="aspace_ba841a786b8eb97e2f12aed575405cef">The Savoy Family Genealogical Collection documents the D.C.-based Savoy family ancestors born between 1794 and 1935, in the eighteenth through the early twentieth century. The biographical narrative of the Savoy family of Washington, D.C. includes information obtained from family members and their records, newspapers articles, excerpts from books, genealogical research, and photographs of members of the Savoy family including photographs of many key events their lives.</abstract>
     </did>
+    <bioghist id="aspace_7b79b01fa588bed47824e6ac77ae91c9">
+      <head>Biographical / Historical</head>
+      <p>The bulk of the collection was compiled by Savoy family descendants Wilbur Joseph Duplessis "Buddy" Rogers III, Lauret Edith Savoy, and Patricia Annette Green Wright. All are sixth generation Savoy family descendants.<br/>
+<br/>
+Edward Augustine Savoy was a third generation Washingtonian. He was one of eight children born to Edward Louis Savoy and Elizabeth E. Van Rhodia Butler Savoy. In 1869 Savoy was hired as a page in the State Department by Secretary of State Hamilton Fish. He retired in 1933 at the age of 77, having reached one of the highest government positions possible for an African American at the time, Chief Messenger to the Secretary of State.</p>
+    </bioghist>
+    <custodhist id="aspace_1ca4592ea67008ea53475c4561160c58">
+      <head>Custodial History</head>
+      <p>Provenance unknown.</p>
+    </custodhist>
+    <processinfo id="aspace_51364197c0384f9372d7370763194db5">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection at the time of processing. This collection was processed as part of the D.C. Africana Archives Project, funded by the Council on Library and Information Resources Hidden Collections grant in 2014.</p>
+    </processinfo>
+    <scopecontent id="aspace_e2e511fa928cc26614d75fb4b82d74cf">
+      <head>Scope and Contents</head>
+      <p>The Savoy Family Genealogical Collection documents the D.C. based Savoy family ancestors born between 1794 and 1935. The biographical narrative of the Savoy family includes information obtained from family members and their records, newspapers articles, excerpts from books, genealogical research, and photographs. The life of Edward Augustine Savoy (1855-1943) is documented extensively.</p>
+    </scopecontent>
     <userestrict id="aspace_b38723b94b181083d4660084631481f4">
       <head>Conditions Governing Use</head>
       <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
     </userestrict>
-    <bioghist id="aspace_7b79b01fa588bed47824e6ac77ae91c9">
-      <head>Biographical / Historical</head>
-      <p>The Savoy Family Genealogical Collection documents the D.C.-based Savoy family ancestors born between 1794 and 1935, in the eighteenth through the early twentieth century. The life of Edward Augustine Savoy (1855-1943) is documented extensively and has the largest amount of biographical information on his life. The Savoy family descendants contributing the vast majority of the research and information were Wilbur Joseph Duplessis "Buddy" Rogers III, Lauret Edith Savoy, and Patricia Annette Green Wright. All are sixth generation Savoy family descendants.</p>
-    </bioghist>
-    <scopecontent id="aspace_e2e511fa928cc26614d75fb4b82d74cf">
-      <head>Scope and Contents</head>
-      <p>The biographical narrative of the Savoy family of Washington, D.C. includes information obtained from family members and their records, newspapers articles, excerpts from books, genealogical research, and photographs of members of the Savoy family including photographs of many key events their lives. Digitized and photocopies of book pages and newspaper articles about members of the Savoy family are included in the collection.</p>
-    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85053742" source="Library of Congress Subject Headings">Genealogy</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85001932" source="Library of Congress Subject Headings">African Americans</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85047009" source="Library of Congress Subject Headings">Families</subject>
+    </controlaccess>
     <dsc>
       <c id="aspace_48318a467a68c0e3d57087b509fe8db5" level="series">
         <did>
@@ -57,96 +90,96 @@
           <did>
             <unittitle>The Savoy Family</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_c750a34f13ebc956c8ffbd6573adaa77" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f3a2e1c31d1c58f0e093b26a364b53db" parent="aspace_c750a34f13ebc956c8ffbd6573adaa77" type="Folder">1</container>
+            <container id="aspace_3757387b38da20ed22ccf1e2ea5d88be" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d7dc65530cb2c0830550c87092654ead" parent="aspace_3757387b38da20ed22ccf1e2ea5d88be" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ddc4b4acbb487bc4992e249858a4a518" level="file">
           <did>
             <unittitle>Census</unittitle>
             <unitdate normal="1850/1850" type="inclusive">1850</unitdate>
-            <container id="aspace_4d36489258061c0d925fd82ab0daa8c6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f1188bba66ef795f4c954c58d5a21391" parent="aspace_4d36489258061c0d925fd82ab0daa8c6" type="Folder">2</container>
+            <container id="aspace_0fdabb7c4ac80b7ec7605c13610c9e91" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_15fd5dad10ddf61dafa98f717f5ac026" parent="aspace_0fdabb7c4ac80b7ec7605c13610c9e91" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_0425f2c2c096d8a3e12488a4369acd66" level="file">
           <did>
             <unittitle>Alice A. John Butler</unittitle>
             <unitdate normal="2013/2013" type="inclusive">2013</unitdate>
-            <container id="aspace_c54cd490a569fa72fc7afa0aa12bd6d2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9e9b9bc426cfa3d4e0155b4728778c9e" parent="aspace_c54cd490a569fa72fc7afa0aa12bd6d2" type="Folder">3</container>
+            <container id="aspace_990bcefd10702f600cac982883c222a5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6c67ae2af1dd1fe5adbeff78db757ae2" parent="aspace_990bcefd10702f600cac982883c222a5" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_d1bb965a8c64adbfd9b6e723006f1675" level="file">
           <did>
             <unittitle>Eliza Savoy</unittitle>
             <unitdate normal="2013/2013" type="inclusive">2013</unitdate>
-            <container id="aspace_35ce4dbf6613da25aa0c3850e9403756" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c0fe67bb0d06ee06d2132c5092adb08c" parent="aspace_35ce4dbf6613da25aa0c3850e9403756" type="Folder">4</container>
+            <container id="aspace_705c4239ea78031e7b86000310dd9556" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2bf2fdf8353ab50e0009819fabf32e07" parent="aspace_705c4239ea78031e7b86000310dd9556" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_451fb64e79171c15dd39d370843f9368" level="file">
           <did>
             <unittitle>Anna Mary Savoy Frederick JD Ridgley</unittitle>
             <unitdate normal="2013/2013" type="inclusive">2013</unitdate>
-            <container id="aspace_2cb5a1e447323bf37bcbc69f81ecaff5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_420cabb6577a0739f95878b3bc238f4c" parent="aspace_2cb5a1e447323bf37bcbc69f81ecaff5" type="Folder">5</container>
+            <container id="aspace_b1b9d2a78a092f118aabaf55d145d7b5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f679ab4666904fbc9f4ae9e6a248b0d2" parent="aspace_b1b9d2a78a092f118aabaf55d145d7b5" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_11d1d0aa440a3981ae4023367fd2d0e9" level="file">
           <did>
             <unittitle>Alfred Savoy</unittitle>
             <unitdate normal="2013/2013" type="inclusive">2013</unitdate>
-            <container id="aspace_06185ef6ff33ff69d1cdd5d7dd12cd1c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d5512d65d3a4b2d75b2fb064df19a174" parent="aspace_06185ef6ff33ff69d1cdd5d7dd12cd1c" type="Folder">6</container>
+            <container id="aspace_934f53f2a4c0e70d0d15e73ac51b9843" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c43e29e5a9cc1a3e9ef52b5293a2eb86" parent="aspace_934f53f2a4c0e70d0d15e73ac51b9843" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_4d7b6206640bcfb51d7f71b500422b30" level="file">
           <did>
             <unittitle>Alfred Savoy</unittitle>
             <unitdate normal="2013/2013" type="inclusive">2013</unitdate>
-            <container id="aspace_ec387123e20d8e0164b11099d606b7df" label="mixed materials" type="Box">1</container>
-            <container id="aspace_dcbbf8aef705ce3febb709d88d6c2e95" parent="aspace_ec387123e20d8e0164b11099d606b7df" type="Folder">7</container>
+            <container id="aspace_802ef9318e1d4e10a4fe99827f9bff5a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_57d460a017d814d3ceccfb683a4d633f" parent="aspace_802ef9318e1d4e10a4fe99827f9bff5a" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_c33ff8d40d149b4f4bdb84fc2fb61cad" level="file">
           <did>
             <unittitle>Alfred Kiger Savoy Laura J. Wilson</unittitle>
             <unitdate normal="2013/2013" type="inclusive">2013</unitdate>
-            <container id="aspace_929dcc2df2275d1f8d37dd6a5b5c900a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_67f36f32a9005c8a3a253a7515be06e8" parent="aspace_929dcc2df2275d1f8d37dd6a5b5c900a" type="Folder">8</container>
+            <container id="aspace_cbf4529dca2bbf1d68ea6cc6eabb839b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6023a38e0bba65170f24f58fbff66341" parent="aspace_cbf4529dca2bbf1d68ea6cc6eabb839b" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_651881fa9a2357bd5c296acc6a587a76" level="file">
           <did>
             <unittitle>Edith A Fish Savoy Robert W. Morgan</unittitle>
             <unitdate normal="2013/2013" type="inclusive">2013</unitdate>
-            <container id="aspace_5bea92cb5e7ffb2d0dfda95db1fcfd1b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f1e39c72605c9147daf2376f37ed7639" parent="aspace_5bea92cb5e7ffb2d0dfda95db1fcfd1b" type="Folder">9</container>
+            <container id="aspace_ada51e3518aebb500e9d21cbcbeec366" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_48633a486428fd7041961d0024557126" parent="aspace_ada51e3518aebb500e9d21cbcbeec366" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_d5ba8861bebf3df4ccc5522c295af509" level="file">
           <did>
             <unittitle>Savoy Photographs</unittitle>
             <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
-            <container id="aspace_dc8ee466cf4cabd224398e6f4edd320f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b1ad701a5191f78d072ff116561bc91c" parent="aspace_dc8ee466cf4cabd224398e6f4edd320f" type="Folder">10</container>
+            <container id="aspace_7e53bcb457c257ee6810af1c4dfe636e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7683fadd1071c0f1b7bdf3b6277c52cd" parent="aspace_7e53bcb457c257ee6810af1c4dfe636e" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_5375a5be263cd39fc6f6732cd7e9a33c" level="file">
           <did>
             <unittitle>Edward Louis Savoy Elizabeth E.V. Butler</unittitle>
             <unitdate normal="2013/2013" type="inclusive">2013</unitdate>
-            <container id="aspace_a45b85725c285c7ddd98407905388704" label="mixed materials" type="Box">1</container>
-            <container id="aspace_08778600a01562b748cfb07dde637c8f" parent="aspace_a45b85725c285c7ddd98407905388704" type="Folder">11</container>
+            <container id="aspace_6489d35e5052bfbcac06b97abc1acfb8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_208746c1c9004a1a51c5ed0f91bca911" parent="aspace_6489d35e5052bfbcac06b97abc1acfb8" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_b7a30aa550b144b542c89d4df15f762a" level="file">
           <did>
             <unittitle>Edward Augustine Savoy</unittitle>
             <unitdate normal="2011/2011" type="inclusive">2011</unitdate>
-            <container id="aspace_535a9a86dc620fd1fb981cd5e07ae40f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_fd8ef64050799456793644e25354dfb1" parent="aspace_535a9a86dc620fd1fb981cd5e07ae40f" type="Folder">12</container>
+            <container id="aspace_837621a30b48294ec4fab18e52900f4f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fa64602d30f52fdf78ed29702b4d0d7a" parent="aspace_837621a30b48294ec4fab18e52900f4f" type="Folder">12</container>
           </did>
         </c>
       </c>

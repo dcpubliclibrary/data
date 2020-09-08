@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Arts Club of Washington, D.C. Collection</titleproper>
-        <titleproper>Arts Club of Washington, D.C. <num>012</num> <num>012</num></titleproper>
+        <titleproper>Arts Club of Washington, D.C. <num>012</num></titleproper>
         <subtitle>An inventory of Arts Club of Washington, D.C. at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:00:59 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:27:56 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-04-08</date>
+        <item>Revised for length and clarity. </item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,34 +38,52 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Arts Club of Washington, D.C. Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n85307512" source="LCSH">Arts Club of Washington (Washington, D.C.)</corpname>
+      </origination>
       <unitid>012</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 linear feet; 2 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Boxes</extent>
       </physdesc>
       <unitdate normal="1916/1990" type="inclusive">1916-1990</unitdate>
-      <langmaterial id="aspace_df542c04b9df96634fa89077e75cde49">English</langmaterial>
       <langmaterial id="aspace_8f0b8a866ad4d851f0b79fbd441651a6">English</langmaterial>
     </did>
+    <arrangement id="aspace_eefcd42486d4ae5a82ccc95accb4b199">
+      <head>Arrangement</head>
+      <p>Original materials have been integrated with the clippings and are arranged chronologically. Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_f94999ebf6044e927b08abd8f4341607">
       <head>Biographical / Historical</head>
-      <p>The Arts Club of Washington, D.C., was formed in May 1916 "to create a center for artists and art lovers." The original intent was to make a national rather than a local organization which would stimulate interest in and encourage art and which would avoid all politics.</p>
-      <p> The building at 2017 I Street, N. W., which was purchased for the headquarters of the Arts Club, was constructed about 1808. It was James Madison's temporary home when the White House was burned in the War of 1812 and was also the residence of James Monroe when he was Secretary of State in the Madison administration.</p>
-      <p> By 1920 the organization had 771 members. Among the nearly 200 separate functions for that year, there were weekly dinners followed by addresses, music and lectures. There were dinner dances and art exhibits. The Club also held an annual costume ball, which involved skits, recitations and competitions for the most imaginatively dressed, as well as dancing.</p>
-      <p> By the early 1920s the Club was seriously considering moving to larger quarters, but they decided the advantages to preserving an important historic building overrode other considerations. Instead they built an annex in the mid-1920s and purchased the adjacent building in 1929, creating ample space for their many activities.</p>
+      <p>The Arts Club of Washington, D.C. was formed in May 1916 "to create a center for artists and art lovers." The Club was one of the first in the District to admit both men and women and focused on painting, sculpture, drama, and music. The original intent was to form a non-political national organization to foster an interest in art.<br/>
+<br/>
+Located at 2017 I Street NW, the Club resides in a house completed in 1808 which served as home to President James Madison following the burning of the White House during the War of 1812. In the early 1920s the Club considered moving to larger quarters but decided to remain in the historic building and build an annex. In 1929 the Club purchased the adjacent MacFeely House, former residence of Brigadier General Robert MacFeely, to provide a theater room, studio space, and additional galleries.<br/>
+<br/>
+Activities of the Club include members only dinners and events, dinner dances, art exhibits, musical and theatrical performances, literary events, and lectures. The Club embraces many forms of artistic expression from painting, to literature, to historic preservation.</p>
     </bioghist>
     <custodhist id="aspace_262d3818fc0efed6964ae4aeb69a715f">
       <head>Custodial History</head>
-      <p>Most of the items in this collection were originally part of the Washingtoniana Division's vertical files, a set of files maintained for ease of reference on various topics related to D.C. history and current events. The vertical files primarily contain clippings but also include other rare items such as signed letters, original programs, and reports. To ensure the physical preservation of rare documents in the vertical file, they were removed in 1999 to create this collection.</p>
+      <p>Most of the items in this collection were originally part of the Washingtoniana Division's Vertical File Collection, a set of files maintained by librarians on various topics related to D.C. history and current events. The vertical files primarily contain clippings but also include other rare items such as signed letters, original programs, and reports. To ensure the physical preservation of rare documents in the vertical file, they were removed in 1999 to create this collection.</p>
     </custodhist>
+    <processinfo id="aspace_984a4c02e197bb316ee68f531e11cd3b">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
+    </processinfo>
     <scopecontent id="aspace_a27a482d42434f401d2251e912a5b13e">
       <head>Scope and Contents</head>
-      <p>Most of the documents are photocopies of clippings from the newspaper society pages from 1916 to the 1960s. There are notices of exhibits, announcements of elections of officers and of programs. Among the few original documents, there are 2 volumes of monthly calendars, 1929-1947; a selection of newsletters, "Artifacts," 1952-1964; invitations and programs from the annual dance, "Bal Boheme;" several annual financial statements; and a copy of the Articles of Incorporation and By-Laws from 1950. Of recent interest are training manuals for historic building research workshops conducted by the Club in the 1990s. (Clippings from the 1980s and 1990s may be found in the vertical file under Societies &amp; Clubs: Arts Club of Washington, D.C.) Original materials have been integrated with the clippings and are arranged chronologically.</p>
+      <p>The collection consists primarily of photocopied clippings taken from newspaper society pages from 1916 to the 1960s. Topics include exhibits, announcements, officer of elections, and programs. Original documents include two volumes of monthly calendars, 1929-1947; the newsletter "Artifacts," 1952-1964; invitations and programs from the annual dance, "Bal Boheme;" annual financial statements; a copy of the Articles of Incorporation and By-Laws, 1950; and training manuals for historic building research workshops conducted by the Club in the 1990s. Clippings from the 1980s and 1990s may be found in the vertical file under Societies and Clubs: Arts Club of Washington, D.C.</p>
     </scopecontent>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008324" source="Library of Congress Subject Headings">Arts</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
+      <geogname authfilenumber="http://id.loc.gov/authorities/names/no2002007785" source="Library of Congress Subject Headings">Foggy Bottom (Washington, D.C.)</geogname>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85027084" source="Library of Congress Subject Headings">Clippings (Books, newspapers, etc)</subject>
+      <genreform source="material_type">Organizational Records</genreform>
     </controlaccess>
     <dsc>
       <c id="aspace_ec0d8b7aa544abd0955ef1d4545ea3f5" level="series">
@@ -65,104 +94,104 @@
           <did>
             <unittitle>Clippings and Memorabilia</unittitle>
             <unitdate normal="1916/1929" type="inclusive">1916-1929</unitdate>
-            <container id="aspace_8ae788db3b4105adbd97425e5589a1eb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_090dbdb74e14477b71a6cdde22db8539" parent="aspace_8ae788db3b4105adbd97425e5589a1eb" type="Folder">1</container>
+            <container id="aspace_d73b14f95983e3797f540db9cfea4836" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6e9a668d9d51dbc9e4cdc5559e3a6563" parent="aspace_d73b14f95983e3797f540db9cfea4836" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_c313212509542f996c7beaf4ef4903f4" level="file">
           <did>
             <unittitle>Clippings and Memorabilia</unittitle>
             <unitdate normal="1930/1939" type="inclusive">1930-1939</unitdate>
-            <container id="aspace_ac435c5f7becd4d40d147e5bd4638708" label="mixed materials" type="Box">1</container>
-            <container id="aspace_173cc1391896a90e7edcec574e84db03" parent="aspace_ac435c5f7becd4d40d147e5bd4638708" type="Folder">2</container>
+            <container id="aspace_137e65958158829ef0fc5029819e5aed" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_85049e034da27301b9e829cfeca0ad6c" parent="aspace_137e65958158829ef0fc5029819e5aed" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_72ab188307da2b232641c712ded4d9f2" level="file">
           <did>
             <unittitle>Clippings and Memorabilia</unittitle>
             <unitdate normal="1940/1959" type="inclusive">1940-1959</unitdate>
-            <container id="aspace_6e9d71cb2d5b7b1763220e05c73d2f04" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4341e7b14a41cad12726453a6f9bd732" parent="aspace_6e9d71cb2d5b7b1763220e05c73d2f04" type="Folder">3</container>
+            <container id="aspace_95282d0b72267410f9fbc40cabe86657" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_69c052b9d73579f88cc06e0832f6156d" parent="aspace_95282d0b72267410f9fbc40cabe86657" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_c09af8db1fcc444129066d860a55cc87" level="file">
           <did>
             <unittitle>Financial Statements</unittitle>
             <unitdate normal="1955/1960" type="inclusive">1955-1960</unitdate>
-            <container id="aspace_1683307ee3c9bf37c5dd8ab81cad8d26" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1e5c0e4a8695158fe573c30f4d4f806d" parent="aspace_1683307ee3c9bf37c5dd8ab81cad8d26" type="Folder">4</container>
+            <container id="aspace_789b657edfa9c8149b3e36ad26aa6c80" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a45b570532ab4b517aa0caf4732104d6" parent="aspace_789b657edfa9c8149b3e36ad26aa6c80" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_9f8fa9df0f5d19e4a07fb185d2746278" level="file">
           <did>
             <unittitle>Clippings and Memorabilia</unittitle>
             <unitdate normal="1960/1969" type="inclusive">1960-1969</unitdate>
-            <container id="aspace_fd88214040c9cdd1d880dfb1e1e473a3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_cf22451be275769dcf5e47433fe5cbbb" parent="aspace_fd88214040c9cdd1d880dfb1e1e473a3" type="Folder">5</container>
+            <container id="aspace_e3ac8490c688067db0b4a76c7e20ad8a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_77d8622615e2356804dacd441c6422d2" parent="aspace_e3ac8490c688067db0b4a76c7e20ad8a" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_c7c44b286d94587cc44bfea2fe51ae01" level="file">
           <did>
             <unittitle>"Artifacts" [ACW newsletter] (1:2)</unittitle>
             <unitdate normal="1952/1957" type="inclusive">1952-1957</unitdate>
-            <container id="aspace_c2474b3ea2935476c365d227a35ed8cf" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f827e6612f5dd8aa04873bc727362cb9" parent="aspace_c2474b3ea2935476c365d227a35ed8cf" type="Folder">6</container>
+            <container id="aspace_0d6e104396a6b88c4ebe7154ede2f186" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ae0b605a8b344f7d970acacb5acf40e2" parent="aspace_0d6e104396a6b88c4ebe7154ede2f186" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_3c50dbacab57e117f6cfc288c146cd07" level="file">
           <did>
             <unittitle>"Artifacts" (2:2)</unittitle>
             <unitdate normal="1958/1964" type="inclusive">1958-1964</unitdate>
-            <container id="aspace_bb03c32860319f78c9949cfd71bbb0ad" label="mixed materials" type="Box">1</container>
-            <container id="aspace_39eb490350d0e0d6cc3750d1e06ee831" parent="aspace_bb03c32860319f78c9949cfd71bbb0ad" type="Folder">7</container>
+            <container id="aspace_acbdac63a24b5525dabbdb0998f609d2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8daf119b850b64369485eeaf019d873f" parent="aspace_acbdac63a24b5525dabbdb0998f609d2" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_99947180e0f147782871f5c55f98d97e" level="file">
           <did>
             <unittitle>Arts Club of Washington "Calendars"</unittitle>
             <unitdate normal="1929/1938" type="inclusive">1929-1938</unitdate>
-            <container id="aspace_379db7413a17cc863da43f7d29713eff" label="mixed materials" type="Box">1</container>
-            <container id="aspace_bd7654d1790957b99a761ae66d43e749" parent="aspace_379db7413a17cc863da43f7d29713eff" type="Folder">8</container>
+            <container id="aspace_414337a5ad3080a244f30a699db22d1b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4489752392157ab4d2181ca355c2f2b4" parent="aspace_414337a5ad3080a244f30a699db22d1b" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_b375b118f6bdcad2fa7d3f592e820326" level="file">
           <did>
             <unittitle>Arts Club of Washington "Calendars"</unittitle>
             <unitdate normal="1939/1947" type="inclusive">1939-1947</unitdate>
-            <container id="aspace_8dbfeeef71b3e1d5c9ec6c84ad97796a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d1a4c683480847c05cbfc3a516c4a745" parent="aspace_8dbfeeef71b3e1d5c9ec6c84ad97796a" type="Folder">9</container>
+            <container id="aspace_65096390afd92b7695a086af34e7a7ee" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6e7a7697ae4bf8db7e3fef1ce4960181" parent="aspace_65096390afd92b7695a086af34e7a7ee" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_a70f3d9e3b553a6639e5ed5e9b643b6b" level="file">
           <did>
             <unittitle>On-The-Job Training in the Analysis of Historic Building Fabric</unittitle>
             <unitdate type="inclusive">May-June 1990</unitdate>
-            <container id="aspace_37bb161ee62709fac4610a58b4d5572d" label="mixed materials" type="Box">2</container>
-            <container id="aspace_516f2db3e358cb5a118dbc8abc7a50fc" parent="aspace_37bb161ee62709fac4610a58b4d5572d" type="Folder">1</container>
+            <container id="aspace_dccf83575d24b165e006fe3cf1b5e3f4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_fcf2ce4ab50cceba689222562e57f25a" parent="aspace_dccf83575d24b165e006fe3cf1b5e3f4" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_fc3fccfa67b8a2837109db7989dd56e6" level="file">
           <did>
             <unittitle>Preparation of Archaeological assessments</unittitle>
             <unitdate normal="1990-06-25/1990-06-26" type="inclusive">June 25-26 1990</unitdate>
-            <container id="aspace_41d1c2a1b096491bcfbb70036b34f812" label="mixed materials" type="Box">2</container>
-            <container id="aspace_3a469e53f11b50c01fe732988731e746" parent="aspace_41d1c2a1b096491bcfbb70036b34f812" type="Folder">2</container>
+            <container id="aspace_8834070173c61084e5044d1937b07eb0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7d7e93959b451856b7a8229dbb0b1060" parent="aspace_8834070173c61084e5044d1937b07eb0" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_e9cf33419c4904ca19af6ff4574beda8" level="file">
           <did>
             <unittitle>Workshop on Historic Building research</unittitle>
             <unitdate normal="1990-06-27/1990-06-28" type="inclusive">June 27-28 1990</unitdate>
-            <container id="aspace_435547591faa298ab79afeace4ea9ce9" label="mixed materials" type="Box">2</container>
-            <container id="aspace_461ce7434ca2d5704203bbcac8198500" parent="aspace_435547591faa298ab79afeace4ea9ce9" type="Folder">3</container>
+            <container id="aspace_65a718aeea0658f9bf7ff752ad070a55" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_de9be7302dbf308911adcbe6324820fc" parent="aspace_65a718aeea0658f9bf7ff752ad070a55" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_0a9ffe1d6d535dd68e950ddc241e5b52" level="file">
           <did>
             <unittitle>Final report/Program evaluation</unittitle>
             <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
-            <container id="aspace_d76bf47c00ec16cba03da26b9b2cd919" label="mixed materials" type="Box">2</container>
-            <container id="aspace_cbeb9bcc3e6f6571065a2cbc84030a4a" parent="aspace_d76bf47c00ec16cba03da26b9b2cd919" type="Folder">4</container>
+            <container id="aspace_74fb48d6f81c26dd717d5e85c4d7b931" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_455a4d4c90693af2e7c7f480ca63785a" parent="aspace_74fb48d6f81c26dd717d5e85c4d7b931" type="Folder">4</container>
           </did>
         </c>
       </c>

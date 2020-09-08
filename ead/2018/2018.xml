@@ -1,0 +1,532 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid/>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Humanities Council<num>2018.027</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:51:51 -0400</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
+      </repository>
+      <unittitle>Humanities Council</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n86805197" rules="dacs" source="LCSH">DC Community Humanities Council</corpname>
+      </origination>
+      <unitid>2018.027</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear feet</extent>
+      </physdesc>
+      <unitdate normal="2013/2017" type="inclusive">2013-2017</unitdate>
+    </did>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85062913" source="Library of Congress Subject Headings">Humanities</subject>
+      <genreform source="material_type">Organizational Records</genreform>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_2c20321c54b4adc61ff47163c0dd3958" level="series">
+        <did>
+          <unittitle>Series 1: Grant Files</unittitle>
+        </did>
+        <c id="aspace_9e9bb0dde4a48ba5eab765e58311c9f3" level="file">
+          <did>
+            <unittitle>13-WWG-10 University of District of Columbia</unittitle>
+            <unitdate normal="2013/2017" type="inclusive">2013-2017</unitdate>
+            <container id="aspace_9cf0c2b6feb8902a948cd7fc6a74c532" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b00825275fb5c3ee7e1761a70c68c8ea" parent="aspace_9cf0c2b6feb8902a948cd7fc6a74c532" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_06a014545ffd878459b531f130b253bd" level="file">
+          <did>
+            <unittitle>14-HAT Festival-01 Double Nickels Theatre Company</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_eaabaaf3ed32aa7b785deca957c57ebf" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4d4f947406702b288f869cd833470915" parent="aspace_eaabaaf3ed32aa7b785deca957c57ebf" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_70e1fa877b928f9987d7378c72b3587a" level="file">
+          <did>
+            <unittitle>14-HAT Festival -02 Eagles Nest Youth Association</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_c752f04ec1204b9e8a073160dba54d42" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5679443856c744aee8645332c7f19715" parent="aspace_c752f04ec1204b9e8a073160dba54d42" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_9735dc2cf6ef92dc4fadf92ed8bd2fc6" level="file">
+          <did>
+            <unittitle>14-HAT Festival-03 Split This Rock</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_0f7c2caee9cde0ee22a82454127be6b7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a899187acf80958671e5ef7ba189336f" parent="aspace_0f7c2caee9cde0ee22a82454127be6b7" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_49fb3c0c67085b89f25d920444ce264b" level="file">
+          <did>
+            <unittitle>14-HAT Festival-04 The National Hand Dance Asociation</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_1b751a59eec7603070891b5b6e26226c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cf1cbec8752434300513640b10ee5313" parent="aspace_1b751a59eec7603070891b5b6e26226c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_31cdcccfad99e52ad34f1c72162180b3" level="file">
+          <did>
+            <unittitle>14-HAT Festival-05 Will Rap 4 Food Inc</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_9b89b3f40147acce00b1185d0f774b8b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_85b4eb9925657d221bc68fcc3f9286f0" parent="aspace_9b89b3f40147acce00b1185d0f774b8b" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_0b3746c48b4b88c90e8dd78f5f656100" level="file">
+          <did>
+            <unittitle>14-Shimel Lode Grant-01 Audra Polk</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_6e3a8377d6b76e16f9e101bc7b473c4d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5a76512d7e3a78ae98f24fb863186ad0" parent="aspace_6e3a8377d6b76e16f9e101bc7b473c4d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ee34d2988fcdb8528efa1d4ff194e89c" level="file">
+          <did>
+            <unittitle>14-Shimel Lode Grant-02 Charles T. Downey</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_7dbcb80716ec721ea8b234bb8027ef56" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_eba775c744f8965c966d420f5771b94f" parent="aspace_7dbcb80716ec721ea8b234bb8027ef56" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_5f1886c94b854fac1faa497ceb55b2c4" level="file">
+          <did>
+            <unittitle>14-Shimel Lode Grant-03 Sarah Elwell</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_03a51a4e846147cb6aabc80870874ea6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_574a4cc2e599eac0df52c84a3e11f39d" parent="aspace_03a51a4e846147cb6aabc80870874ea6" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_d94fed19c6a6224cf95d0c42c5f6fe95" level="file">
+          <did>
+            <unittitle>14-Shimel Lode Grant-04 Double Nickels Theatre Company</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_96b3572631dc5dcdbf52323515db46b7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_47500243a94bcd3acda6c2a3d9b9eeea" parent="aspace_96b3572631dc5dcdbf52323515db46b7" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_1cc366e07600d11bf2f144b140f19152" level="file">
+          <did>
+            <unittitle>14-Shimel Lode Grant-05 One Common Unity</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_da8a3597321ad32f7102c6adf65ee277" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_999e383dba4445bf5762f7471004938f" parent="aspace_da8a3597321ad32f7102c6adf65ee277" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_c54e15f71d0c8b0038931e23289872d7" level="file">
+          <did>
+            <unittitle>14-Remembrance-01 AIA Legacy dba AIA Foundation</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_aa68ce784f607f9ac3f96b52b0856cbc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_39ba1afba10f03037f715f7d7c7e3bb6" parent="aspace_aa68ce784f607f9ac3f96b52b0856cbc" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_31ce246a14edd345a196815dc0f89863" level="file">
+          <did>
+            <unittitle>14-Remembrance-02 Arts for Our Children, Inc.</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_b88ba0c02983a932f56792494af1e2d5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e49cecb66898aad143e28541aecdd173" parent="aspace_b88ba0c02983a932f56792494af1e2d5" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_6a0f7c4b3b30b2337e162549bd1054cc" level="file">
+          <did>
+            <unittitle>14-Remembrance-03 DC Independent Film Festival</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_3aaace13c2b622702cfd4e2af95445a6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f3b8dda5b323a8383c07abcc55aebf97" parent="aspace_3aaace13c2b622702cfd4e2af95445a6" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_1c083cedb2f36aed4d946740bffe993b" level="file">
+          <did>
+            <unittitle>14-Remembrance-04 Smithsonian Institution</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_b33846e4c495ea374a234a387140e20a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_500d153dff032f8cb677e1736a88c3fd" parent="aspace_b33846e4c495ea374a234a387140e20a" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_1b7e331ecf28f22fc8a63583f84191bd" level="file">
+          <did>
+            <unittitle>14-Remembrance-05 Women in Film &amp; Video</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_59db447dd27e98216f810d5a5939019f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b91ea3fe989a02f9e961684f28393467" parent="aspace_59db447dd27e98216f810d5a5939019f" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_b210d887776d8a0d3945b6c168fc61f6" level="file">
+          <did>
+            <unittitle>14-SM/PL-01 Bowie State University</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_d3a4b4002291efb957ed640d7fd56052" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_907623cc1f04890d9c95f64f11174608" parent="aspace_d3a4b4002291efb957ed640d7fd56052" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_7069e0ed28f1ca71f6a51ed52222b508" level="file">
+          <did>
+            <unittitle>14-SM/PL-02 Day Eight</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_c9d517f67ab99c448fba74737774df3e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2a5b20256fc5b8ab13ecc6ea4c83d1e0" parent="aspace_c9d517f67ab99c448fba74737774df3e" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_d253b1f6d3b348dbb5ec8fd1b0f04d0c" level="file">
+          <did>
+            <unittitle>14-SM/PL-03 Funk Parade</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_db93abf1c730e1cdef2cfdc2fb5f5ca9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ebbf3da2c9948d47a8a6f0c951c675de" parent="aspace_db93abf1c730e1cdef2cfdc2fb5f5ca9" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_9a9bd7f2151b21b0573ac74489d200a1" level="file">
+          <did>
+            <unittitle>14-SM/PL-04 Stone Soup Films</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_0667683191bf4c2ea56eb38803dfdcf2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bb6ba94703643acece503e7afd2ded8a" parent="aspace_0667683191bf4c2ea56eb38803dfdcf2" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_5cbdeeb61b830b664d60a54e9ac44abb" level="file">
+          <did>
+            <unittitle>14-SOTC-01 Split This Rock</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_567a9e58e936834ae5c587244a504faf" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e5abefc6a64c75da44ac4494bc80bbd8" parent="aspace_567a9e58e936834ae5c587244a504faf" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_4e615114e83b1cd5160066d2cbfb477b" level="file">
+          <did>
+            <unittitle>14-SOTC-02 Mentors of Minorities in Education</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_7f44daeb3848264b3510b7cd16326e0b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8ffac91b1e352a78e74604fefa12db02" parent="aspace_7f44daeb3848264b3510b7cd16326e0b" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_394f23f9888ee97d4aaa85faf21ae283" level="file">
+          <did>
+            <unittitle>14-SOTC-03 Global Kids, Inc</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_fe935630f752f5edcc47300f6e43b7eb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3f8750bc7ab04201e4b2d525edc65946" parent="aspace_fe935630f752f5edcc47300f6e43b7eb" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_1eeeacf64db0230d4dc684adc9c33e4d" level="file">
+          <did>
+            <unittitle>14-WWG-01 1882 Project Foundation</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_a1a1296fb39861ff95c0ac75a3bd629e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3fea5cb2214273bbf47692fa95838278" parent="aspace_a1a1296fb39861ff95c0ac75a3bd629e" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_9dd1a214d5372158f06530501cb40afd" level="file">
+          <did>
+            <unittitle>14-WWG-02 Center for Inspired Teaching</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_de0c5044721d46dd4af5b663182958a7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f2bf4709a410a1408d5ccc131116dc40" parent="aspace_de0c5044721d46dd4af5b663182958a7" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_9100ac7fb600fe6bf812907b238d3065" level="file">
+          <did>
+            <unittitle>14-WWG-03 Dance Institute of Washington</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_ba3b7af54322fbd61f108de761a1727e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_14e81ab8fe15952ccecd8590116a8ab7" parent="aspace_ba3b7af54322fbd61f108de761a1727e" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_cbdc3585adb74c77451cfab3ee698a4d" level="file">
+          <did>
+            <unittitle>14-WWG-04 Endangered Species Coalition</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_c6abb563c1f95166e47fa6801510af41" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a74860b744fa1e90af5058d073b5ab46" parent="aspace_c6abb563c1f95166e47fa6801510af41" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_bf7200c33bff29aee6d6050081d7af91" level="file">
+          <did>
+            <unittitle>14-WWG-06 Teaching for Change</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_1224405767a59cd26c652ce2265b0131" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_60e9787b00d1958594ad4ce877209b8d" parent="aspace_1224405767a59cd26c652ce2265b0131" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_e6cdfc81a7a9591ae9f88de9d6b9e98f" level="file">
+          <did>
+            <unittitle>14-WWG-05 Positive Productions, Inc.</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_89f3de8104fdde2cfa3da9512234bf29" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_db48aa33e088d41070820e1cdbda6bd5" parent="aspace_89f3de8104fdde2cfa3da9512234bf29" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_a4636353a0f3bf2742228bbafb499708" level="file">
+          <did>
+            <unittitle>14-WWG-07 The L'Enfant Trust</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_0f14f0a77fb863826ca5bae65239b42d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a98b324c8a41aeca22d510aaf47e50ac" parent="aspace_0f14f0a77fb863826ca5bae65239b42d" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_a175444f03227347d729cc6a6da00449" level="file">
+          <did>
+            <unittitle>14-WWG-08 Washington DC Jewish Community Center</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_9c08725d839f3ffea8a19cac4b01ba95" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7deac02242fbfed5ba5e9b6b9b621cbe" parent="aspace_9c08725d839f3ffea8a19cac4b01ba95" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_f65e89bf30776b133637fd7dabc09b0a" level="file">
+          <did>
+            <unittitle>14-WWG-09 Washington Performing Arts</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_2cb6c587dcab5a96264663725e8bbc26" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e555f83fefd5736c89e7b3cf5134006e" parent="aspace_2cb6c587dcab5a96264663725e8bbc26" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_e7fea7c4c868f8a4e86ae7db1b65c558" level="file">
+          <did>
+            <unittitle>14-WWG-10 Will Rap 4 Food Inc.</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_903ccc5476b2e8ed21c7edf2535e63ca" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8861efa3cd1058343ddf4b7f0d2e6b3c" parent="aspace_903ccc5476b2e8ed21c7edf2535e63ca" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_018b13ec0a12c3591b8daee9f9d738f0" level="file">
+          <did>
+            <unittitle>14-01-01 All Souls Housing Corp</unittitle>
+            <unitdate normal="2014/2016" type="inclusive">2014-2016</unitdate>
+            <container id="aspace_424c5c58e543dce038e8bc4e37a88a41" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e443d4ab2d6c5ca2650b023a44579236" parent="aspace_424c5c58e543dce038e8bc4e37a88a41" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_28d0504bca01c3eb38d3601df2a2b382" level="file">
+          <did>
+            <unittitle>14-01-02 Chowan Discovery Group</unittitle>
+            <unitdate normal="2014/2016" type="inclusive">2014-2016</unitdate>
+            <container id="aspace_2dcf1bb23b849b3dba6c571734491a95" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_22596b86643f28b8c1b0a76c4f37e217" parent="aspace_2dcf1bb23b849b3dba6c571734491a95" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_d65ec21fc0d68f5b3fa3579d86c8e508" level="file">
+          <did>
+            <unittitle>14-01-03 Community Resources Incorporated</unittitle>
+            <unitdate normal="2014/2017" type="inclusive">2014-2017</unitdate>
+            <container id="aspace_963e8c0587f6a984098734e109054b36" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_1da18cc07d8169f97d16dc196abcebea" parent="aspace_963e8c0587f6a984098734e109054b36" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_863ce2c4d620a22fb4f4375acb33eec8" level="file">
+          <did>
+            <unittitle>14-01-04 DC Youth Orchestra Program</unittitle>
+            <unitdate normal="2014/2017" type="inclusive">2014-2017</unitdate>
+            <container id="aspace_221468aec8181d77d288282ca959c7b5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b8287dfad16b0894403d18e3f6f46f8e" parent="aspace_221468aec8181d77d288282ca959c7b5" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_aca76db755ab0cb10ba98474e1fa6119" level="file">
+          <did>
+            <unittitle>14-01-05 Diversity Thearte Co.</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_aaa9ca2dd01b4a2ea798578db9f6e070" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f85aad4fcbef6df3450e248a656c190b" parent="aspace_aaa9ca2dd01b4a2ea798578db9f6e070" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_4ff014395e10562df17ed51a331ff6ae" level="file">
+          <did>
+            <unittitle>14-01-06 Docs in Progress</unittitle>
+            <unitdate normal="2014/2018" type="inclusive">2014-2018</unitdate>
+            <container id="aspace_9d03bb8263e90ae140213dc30c2a7755" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a57780957e8843017b7461d33ed74eeb" parent="aspace_9d03bb8263e90ae140213dc30c2a7755" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_bbea5cd8ff8766ec64b6e9cc8e7ce470" level="file">
+          <did>
+            <unittitle>14-01-07 Festivals DC, Ltd</unittitle>
+            <unitdate normal="2014/2017" type="inclusive">2014-2017</unitdate>
+            <container id="aspace_46b99231d2bf874120ceae7dc6b22da4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c232cf0da91d7117e13e78d118d81443" parent="aspace_46b99231d2bf874120ceae7dc6b22da4" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_037c076a00e9fa55ac6b0f13bbc54f79" level="file">
+          <did>
+            <unittitle>14-01-08 From Block2Block</unittitle>
+            <unitdate normal="2014/2017" type="inclusive">2014-2017</unitdate>
+            <container id="aspace_9f10e72f030f46a0b866dc9fe80d85a4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b5a9679770d59f800f954ec54809a9aa" parent="aspace_9f10e72f030f46a0b866dc9fe80d85a4" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_628c350b6ecf3a4559fe8ae6b8c50125" level="file">
+          <did>
+            <unittitle>14-01-09 I SAW! DC</unittitle>
+            <unitdate normal="2014/2017" type="inclusive">2014-2017</unitdate>
+            <container id="aspace_1f1571c33dfcb4bd419f68bf03b0492e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b1babfacf37fb784b909d274305427b5" parent="aspace_1f1571c33dfcb4bd419f68bf03b0492e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_2450e3ce62eb090051973a99bc82e8fe" level="file">
+          <did>
+            <unittitle>14-01-10 PEN/Faulkner Foundation</unittitle>
+            <unitdate normal="2014/2016" type="inclusive">2014-2016</unitdate>
+            <container id="aspace_87fbf6ebab3c0eb4f9c661b66678200a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_92f781ce4d0310fc303c3f0635702591" parent="aspace_87fbf6ebab3c0eb4f9c661b66678200a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_8b47b29461346cbb9d02a42269735999" level="file">
+          <did>
+            <unittitle>14-01-11 Washington Architectural Foundation</unittitle>
+            <unitdate normal="2014/2016" type="inclusive">2014-2016</unitdate>
+            <container id="aspace_633d4ee3f2f887f44bbd03ada0974e23" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c016dd966908956a077fee481d686ae7" parent="aspace_633d4ee3f2f887f44bbd03ada0974e23" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_1691b6f0409a428b55423b424c7407f0" level="file">
+          <did>
+            <unittitle>14-DCCHP-01 Anacostia Community Outreach Center</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_5a92e5529df8ab2337856e4397bd8d4d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_267f64d47c6e492991f712682c2bedf2" parent="aspace_5a92e5529df8ab2337856e4397bd8d4d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_686c64d9a6957f54c004eb4047438ab6" level="file">
+          <did>
+            <unittitle>14-DCCHP-02 Black Student Fund</unittitle>
+            <unitdate normal="2014/2015" type="inclusive">2014-2015</unitdate>
+            <container id="aspace_b2a74fa3709ae1f7d7b25062f0f0e2ae" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2c31fcacb0a8812787b87712b1ae4c9c" parent="aspace_b2a74fa3709ae1f7d7b25062f0f0e2ae" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_037303d51be7e1b29f932ebfed2ba512" level="file">
+          <did>
+            <unittitle>14-DCCHP-03 DC African American Legacy Foundation</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <container id="aspace_9860c5380d0d707b01c0eb6e5bd32dd0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c96f3ff0828245349e6d99386b9c87f2" parent="aspace_9860c5380d0d707b01c0eb6e5bd32dd0" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_c97e93772357daea2cce496d675f1cf2" level="file">
+          <did>
+            <unittitle>14-DCCHP-04 DC Preservation League</unittitle>
+            <unitdate normal="2014/2015" type="inclusive">2014-2015</unitdate>
+            <container id="aspace_3d051405e8a4227bbeb99ba68dbbe3da" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_adc6f61c9331a056fb591143bbae941f" parent="aspace_3d051405e8a4227bbeb99ba68dbbe3da" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_368d0558ffd4a55d160a847eb346ed54" level="file">
+          <did>
+            <unittitle>14-DCCHP-05 Ecohermanas</unittitle>
+            <unitdate normal="2014/2015" type="inclusive">2014-2015</unitdate>
+            <container id="aspace_02707d3b10fa23dbc495b2688d3e4c42" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2424491ae935d0b9d5b0e670ab326577" parent="aspace_02707d3b10fa23dbc495b2688d3e4c42" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_cca0196385dc205017d81cd781f4d680" level="file">
+          <did>
+            <unittitle>14-DCCHP-06 Empower DC</unittitle>
+            <unitdate normal="2014/2016" type="inclusive">2014-2016</unitdate>
+            <container id="aspace_840f109f5b0dc514201acc762696e020" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9c7f9083bf769219d1797b224194f3d0" parent="aspace_840f109f5b0dc514201acc762696e020" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_4bd58cd56a4df5ec775670c322b4f2bf" level="file">
+          <did>
+            <unittitle>14-DCCHP-07 Jewish Historical Society of Greater Washington</unittitle>
+            <unitdate normal="2014/2015" type="inclusive">2014-2015</unitdate>
+            <container id="aspace_9f314e351b9841bf6ecdb65d35ece963" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9680b3c009f5a487d6a4103db8f3fbc4" parent="aspace_9f314e351b9841bf6ecdb65d35ece963" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_4c4fc2375551b6fbb9b5c6907a8c2ce8" level="file">
+          <did>
+            <unittitle>14-DCCHP-08 KhushDC</unittitle>
+            <unitdate normal="2014/2017" type="inclusive">2014-2017</unitdate>
+            <container id="aspace_7ff328f5279d6563a55d8cba9a1412b8" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e960baea8154df09fb606da81d0b0a88" parent="aspace_7ff328f5279d6563a55d8cba9a1412b8" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_33052a0932418090a606b6e0fb55926e" level="file">
+          <did>
+            <unittitle>14-DCCHP-09 Local Initiatives Support Corporation</unittitle>
+            <unitdate normal="2014/2016" type="inclusive">2014-2016</unitdate>
+            <container id="aspace_01866ea0df0cd8f80fb6e9e3660a31be" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_93721109a444bd46497df962f8439e20" parent="aspace_01866ea0df0cd8f80fb6e9e3660a31be" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_8735c481126e8860d5169faa25c47d94" level="file">
+          <did>
+            <unittitle>14-DCCHP-10 Parklands Community Center</unittitle>
+            <unitdate normal="2014/2015" type="inclusive">2014-2015</unitdate>
+            <container id="aspace_563fd7ae19d239c1ab089b075a4f2551" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d5b68c95e912561a7debbcb6b55527c7" parent="aspace_563fd7ae19d239c1ab089b075a4f2551" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_dd8a8989993c1c7caa751f5cc0a4387b" level="file">
+          <did>
+            <unittitle>14-DCCHP-11 Rehoboth Baptist Church Historical Committee</unittitle>
+            <unitdate normal="2014/2016" type="inclusive">2014-2016</unitdate>
+            <container id="aspace_1e992f809fadba7bb7fdfe1169a1750f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_151b6b743e62ffc998326e0f5e288ef2" parent="aspace_1e992f809fadba7bb7fdfe1169a1750f" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_4c2d1e1581d86f53d1a2f427aa0605db" level="file">
+          <did>
+            <unittitle>14-DCCHP-12 San ctuary Theatre, Inc</unittitle>
+            <unitdate normal="2014/2016" type="inclusive">2014-2016</unitdate>
+            <container id="aspace_30e8bf7b59177e90b756dbbcf7650fb9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_08f536ad4ee96d32e59d483b2b0ef7d1" parent="aspace_30e8bf7b59177e90b756dbbcf7650fb9" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_69ac0bce4f3f18f4311d80ab83a9f3e9" level="file">
+          <did>
+            <unittitle>14-DCCHP-13 The Potter's House</unittitle>
+            <unitdate normal="2014/2017" type="inclusive">2014-2017</unitdate>
+            <container id="aspace_f8417882447a0ae8dc278864e4e4dcf6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6836b11dab91986e7ab446e5063fbb21" parent="aspace_f8417882447a0ae8dc278864e4e4dcf6" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_29e2fa2a5967116f243d954b2a6afc2f" level="file">
+          <did>
+            <unittitle>14-DCCHP-14 United Planning Organization</unittitle>
+            <unitdate normal="2014/2015" type="inclusive">2014-2015</unitdate>
+            <container id="aspace_8980b08e31f611c026655e21768a3aaf" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c1344f246a358ac0ecb0c54d3d3d39b9" parent="aspace_8980b08e31f611c026655e21768a3aaf" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_7f3d81133f950b107cef51a24ecfc812" level="file">
+          <did>
+            <unittitle>14-DCCHP-15 Urban Rangers Youth Group/Centronia</unittitle>
+            <unitdate normal="2014/2015" type="inclusive">2014-2015</unitdate>
+            <container id="aspace_7103781173a25d06329dd0558acd1656" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_81bb8386184ba80da1e59d461214eb09" parent="aspace_7103781173a25d06329dd0558acd1656" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_6b4afe1c04afd49f8dcbfb235bb0443e" level="file">
+          <did>
+            <unittitle>14-DCCHP-16 Wilson HS PTSO</unittitle>
+            <unitdate normal="2014/2015" type="inclusive">2014-2015</unitdate>
+            <container id="aspace_297631ab56a47cdf07eb9ede711b3fc9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d6dd20c55bb625e811b2af229916d2d3" parent="aspace_297631ab56a47cdf07eb9ede711b3fc9" type="Folder">27</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

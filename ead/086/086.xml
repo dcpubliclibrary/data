@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Hazel (John) Collection</titleproper>
-        <titleproper>John Hazel <num>086</num> <num>086</num></titleproper>
-        <subtitle>An inventory of John Hazel at DC Public Library</subtitle>
+        <titleproper>John Hazel Collection <num>086</num></titleproper>
+        <subtitle>An inventory of John Hazel Collection at DC Public Library</subtitle>
         <author>Finding aid prepared by Ryan P. Semmes.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-11</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:08:35 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:45:02 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-07-31</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,28 +38,53 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>John Hazel Collection</unittitle>
+      <origination label="creator">
+        <persname source="local">Hazel, John</persname>
+      </origination>
       <unitid>086</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.25 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1972/1994" type="inclusive">1972-1994</unitdate>
-      <langmaterial id="aspace_99ce61459ba3135e99009f5ac5797c14">English</langmaterial>
       <langmaterial id="aspace_a6bc44c40bb44db2322d2b84decd92fa">English</langmaterial>
     </did>
+    <arrangement id="aspace_88b69492832f4a0f7736a864dec0eba4">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <custodhist id="aspace_24c7490a49a94fae40f73ac4038e1592">
       <head>Custodial History</head>
-      <p>Jacqueline B. Hazel, wife of John Hazel, donated the materials in this collection to the DC Community Archives in November 1994.</p>
+      <p>Jacqueline B. Hazel, wife of John Hazel, donated the materials in this collection to the DC Public Library in November 1994.</p>
     </custodhist>
+    <processinfo id="aspace_84cb9144748f56b46ba5f4063e611b00">
+      <head>Processing Information</head>
+      <p>Basic archival procedures were used at the time of processing.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_50652596591aba659b4871732f1612eb">
+      <head>Related Materials</head>
+      <p>Collection #040: District of Columbia Public Library Records</p>
+    </relatedmaterial>
     <scopecontent id="aspace_e4ea146b44c1fa96367eadb5c115fdab">
       <head>Scope and Contents</head>
-      <p>This collection consists, mainly, of reproductions of materials collected by John Hazel. The original material in this collection consists of clippings, photographs, and legal documents.</p>
+      <p>This collection primarily contains reproductions collected by John Hazel. The original material in this collection consists of clippings, photographs, and legal documents.</p>
     </scopecontent>
+    <userestrict id="aspace_8ca5fed2b35b1fb685a74a42fce38094">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85136516" source="Library of Congress Subject Headings">Labor unions</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85076502" source="Library of Congress Subject Headings">Libraries</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2002011436" source="Library of Congress Subject Headings">Politics and government</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85075742" source="Library of Congress Subject Headings">Legal documents</subject>
+      <genreform source="material_type">Ephemera</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_34aafcbbd03074309da598d00fd1bfd4" level="series">
@@ -59,80 +95,80 @@
           <did>
             <unittitle>Awards</unittitle>
             <unitdate normal="1975/1994" type="inclusive">1975-1994</unitdate>
-            <container id="aspace_175fe587d0c4d01184ff5fc5b2a9337b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_449eec3a6664202c5e95e2781b086526" parent="aspace_175fe587d0c4d01184ff5fc5b2a9337b" type="Folder">1</container>
+            <container id="aspace_928161ce6c2f78163a06495f7f576b70" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_79102f8db54cdfad1b0781906b043d71" parent="aspace_928161ce6c2f78163a06495f7f576b70" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_fb874749e3b9b8142eaf7016abf3ba52" level="file">
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
-            <container id="aspace_1ad5c89944bec8108a774d0d2c4414a0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b63825c5ebe2536fc9b0234f83753626" parent="aspace_1ad5c89944bec8108a774d0d2c4414a0" type="Folder">2</container>
+            <container id="aspace_5d151e86367e3dcf3949c6925e1039a5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d6f86eb80875373258df7bc6647355f5" parent="aspace_5d151e86367e3dcf3949c6925e1039a5" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_06e58696df86ab2b56b868b130bc6895" level="file">
           <did>
             <unittitle>Council Statement</unittitle>
             <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
-            <container id="aspace_d083949cfa0115d70486ca28a509ab52" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b956357debe888dc119c74f71cc76b29" parent="aspace_d083949cfa0115d70486ca28a509ab52" type="Folder">3</container>
+            <container id="aspace_381d95deda93321f9b9c4da91d407b96" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e7058e60cc569c72e2a4cac15fd16d64" parent="aspace_381d95deda93321f9b9c4da91d407b96" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_83f30c3219c6bb7bca0a0de1d2b0f54c" level="file">
           <did>
             <unittitle>Democratic Party - Affirmative Action Plan</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="aspace_fc0d2feb4d91652360024cc072789e35" label="mixed materials" type="Box">1</container>
-            <container id="aspace_42e371d4ec9c08438d91838a03826f1a" parent="aspace_fc0d2feb4d91652360024cc072789e35" type="Folder">4</container>
+            <container id="aspace_cab939fcd7d7c2520d9187a45c69c34e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6e415fcd27e2d29c477f70b1426e5fb8" parent="aspace_cab939fcd7d7c2520d9187a45c69c34e" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_6de3d9dc85d638cb62d4a30fdb9779a3" level="file">
           <did>
             <unittitle>Democratic Party - Delegate Selection Plan</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="aspace_1989e102efa551db5e5022f927ec86b7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d9f3ca3ab0797dbaaf5d1143b67c1810" parent="aspace_1989e102efa551db5e5022f927ec86b7" type="Folder">5</container>
+            <container id="aspace_87216bd1606d1856b5cf5464d602417b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_daef729400001b4d65efd270942adb0a" parent="aspace_87216bd1606d1856b5cf5464d602417b" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_e4f2b626afd99337050f9af7072f713f" level="file">
           <did>
             <unittitle>Democratic Party - Democratic Central Committee By-Laws</unittitle>
             <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
-            <container id="aspace_e6ba2af14a31436404349809f24ca0ae" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d4fa2f62a5b43780d837557c09a49d76" parent="aspace_e6ba2af14a31436404349809f24ca0ae" type="Folder">6</container>
+            <container id="aspace_0e146ab8f25ef030e7b68c12d6170e05" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0a9c7516467c6d2ba4a212c6da2234ab" parent="aspace_0e146ab8f25ef030e7b68c12d6170e05" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_c72a7b26f1780b0dd93d374885e1d789" level="file">
           <did>
             <unittitle>Democratic Party - DC Delegate Challenge</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="aspace_8eb34241b7a000f996d1735db9215038" label="mixed materials" type="Box">1</container>
-            <container id="aspace_8daf3c848022fe5a9c290887b6797cc7" parent="aspace_8eb34241b7a000f996d1735db9215038" type="Folder">7</container>
+            <container id="aspace_1cb6eac3530f008c8890f654a46bbd84" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7802963ffc82a149473e5f281a76369c" parent="aspace_1cb6eac3530f008c8890f654a46bbd84" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ef1efd24b1668b88b71c20327b1f0103" level="file">
           <did>
             <unittitle>King Mural Dedication</unittitle>
             <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
-            <container id="aspace_c1c0b9ea9b68aaac8eb661f295992f0c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b5029f7819de3b87cd8ef33bff53a93e" parent="aspace_c1c0b9ea9b68aaac8eb661f295992f0c" type="Folder">8</container>
+            <container id="aspace_8a27bf765a0f92848225888b7d4d4e94" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3037af8ebbe3e14b5b5f116e1ada8073" parent="aspace_8a27bf765a0f92848225888b7d4d4e94" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_f38608090ed0be68d7bfc0be9a6bc8d4" level="file">
           <did>
             <unittitle>Obituary</unittitle>
             <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
-            <container id="aspace_5ea19973999426a1355eac8364bf870a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0708cb59b102843b10bdb30d5279402a" parent="aspace_5ea19973999426a1355eac8364bf870a" type="Folder">9</container>
+            <container id="aspace_c39065213ca1e014af3eedb47098a8b2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_84edaefdc26b4e8273c383b40751a49e" parent="aspace_c39065213ca1e014af3eedb47098a8b2" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_80eab0a41af482b163796bb90a39465f" level="file">
           <did>
             <unittitle>Photographs</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_e561d4b4ed69820b0a698d78aa8e1364" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0777cf55ef80433758d757fa5f0c9151" parent="aspace_e561d4b4ed69820b0a698d78aa8e1364" type="Folder">10</container>
+            <container id="aspace_cb193f1a037171e67754ff88384908a1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_59ba59e7b74ef2b83dd5f9af52bfccda" parent="aspace_cb193f1a037171e67754ff88384908a1" type="Folder">10</container>
           </did>
         </c>
       </c>

@@ -4,19 +4,24 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Wolf (Gus L.) Photograph Collection</titleproper>
-        <titleproper>Gus L. Wolf <num>P029</num> <num>P029</num></titleproper>
+        <titleproper>Gus L. Wolf <num>P029</num></titleproper>
         <subtitle>An inventory of the Gus L. Wolf Photograph Collection at DC Public Library</subtitle>
         <author>Finding aid prepared by Mark S. Greek.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-09</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:18:08 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:57:20 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -27,15 +32,17 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Gus L. Wolf Photograph Collection</unittitle>
+      <origination label="creator">
+        <persname authfilenumber="219" source="local">Wolf, Gus L.</persname>
+      </origination>
       <unitid>P029</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">1 box</extent>
       </physdesc>
       <unitdate normal="1880/1900" type="inclusive">1880-1900</unitdate>
-      <langmaterial id="aspace_30ebd06c453aa49cd19d9aa020d8d9bd">English</langmaterial>
       <langmaterial id="aspace_53367f28efca472889f9f4d34f454198">English</langmaterial>
     </did>
     <custodhist id="aspace_712a0170b8d61afb88bad098cec523c1">
@@ -68,8 +75,8 @@
           <did>
             <unittitle>Library of Congress</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_9268f16c051a2a0b3c71f2325bc14b6c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_61a833f1c82c14d7aee5635ce87610f9" parent="aspace_9268f16c051a2a0b3c71f2325bc14b6c" type="Folder">1</container>
+            <container id="aspace_f93d230f76b3f7c2ab76ad457d170759" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_48f61aa88b7170698c3b91fad4dc0754" parent="aspace_f93d230f76b3f7c2ab76ad457d170759" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_457c0a8cc646c6e6fb3fba9cbc02bade">
             <head>Scope and Contents</head>
@@ -80,8 +87,8 @@
           <did>
             <unittitle>Statues</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_4bf4d58fbc754bcc9fefd752341ee0c7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_41b63cab91168618f35fe37d9fe93b3b" parent="aspace_4bf4d58fbc754bcc9fefd752341ee0c7" type="Folder">2</container>
+            <container id="aspace_73fff6110a91ee2651a3708204d81518" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2f2db1554659e8962ea400aeb2f8280e" parent="aspace_73fff6110a91ee2651a3708204d81518" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_325066cc563807bdbc650ed7e0583d40">
             <head>Scope and Contents</head>
@@ -92,8 +99,8 @@
           <did>
             <unittitle>US Capitol</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_7636f15a3b5919a8b6e7bad70ccf9b65" label="mixed materials" type="Box">1</container>
-            <container id="aspace_decd9ce1d400bc335b2f2a471d81b8eb" parent="aspace_7636f15a3b5919a8b6e7bad70ccf9b65" type="Folder">3</container>
+            <container id="aspace_db0ffaa5abaabe1e7ccca8dc62a78f3a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a8a5c8415ab480ccc8040e30b43c7ebb" parent="aspace_db0ffaa5abaabe1e7ccca8dc62a78f3a" type="Folder">3</container>
           </did>
           <scopecontent id="aspace_05cc492a68b4cb683caae28f3a68bfa7">
             <head>Scope and Contents</head>
@@ -104,8 +111,8 @@
           <did>
             <unittitle>Mount Vernon</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ef830b40fd648c9e247dcbea650c7e79" label="mixed materials" type="Box">1</container>
-            <container id="aspace_756e876f42e6f52ec135c3ac1e6a1965" parent="aspace_ef830b40fd648c9e247dcbea650c7e79" type="Folder">4</container>
+            <container id="aspace_ea74c753f4617c54d02fba3b88ec2ca4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a2b3ac37c95514289e46fce72f400332" parent="aspace_ea74c753f4617c54d02fba3b88ec2ca4" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_7f69bec6f94303ac0128f9622f8c87cf">
             <head>Scope and Contents</head>
@@ -116,8 +123,8 @@
           <did>
             <unittitle>Potomac River?</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_06941dfdeeb166c7bcfd0381f06485b0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2c78c404697bea8e8af331367326bfe8" parent="aspace_06941dfdeeb166c7bcfd0381f06485b0" type="Folder">5</container>
+            <container id="aspace_f4a1e59991c177c9f7fe20dfada05e67" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5ce802b81e01faafa38abf4dd9758819" parent="aspace_f4a1e59991c177c9f7fe20dfada05e67" type="Folder">5</container>
           </did>
           <scopecontent id="aspace_6a4e5e4ed516ba39176ffed337d722b7">
             <head>Scope and Contents</head>
@@ -128,8 +135,8 @@
           <did>
             <unittitle>Petersen House</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ae65cb50766b0931c73aa1d32e81590a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_17c38e03c5a787ecb66f34e89745b74e" parent="aspace_ae65cb50766b0931c73aa1d32e81590a" type="Folder">6</container>
+            <container id="aspace_a9344a642b0ca7f128692f0ddad61dd5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4154133067a79deaf88a47310002f348" parent="aspace_a9344a642b0ca7f128692f0ddad61dd5" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_d404bc337a5e4d4b866ab11437e08b4e">
             <head>Scope and Contents</head>
@@ -140,8 +147,8 @@
           <did>
             <unittitle>Unknown</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ee3df722c566db4e020c26b7ba847a37" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f1d97edccd1e7f56065669fbdebd0dc9" parent="aspace_ee3df722c566db4e020c26b7ba847a37" type="Folder">7</container>
+            <container id="aspace_de73f7ec25e3878bb3bf086442b1ac87" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b22eff88f7d7551eef7ec18f36d1151d" parent="aspace_de73f7ec25e3878bb3bf086442b1ac87" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_f34bb60bebe94523b510494ea6ff4fc6">
             <head>Scope and Contents</head>

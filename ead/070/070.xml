@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Choral Society of Washington Collection</titleproper>
-        <titleproper>Choral Society of Washington <num>070</num> <num>070</num></titleproper>
+        <titleproper>Choral Society of Washington <num>070</num></titleproper>
         <subtitle>An inventory of Choral Society of Washington at DC Public Library</subtitle>
         <author>Finding aid prepared by Ryan P. Semmes.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-08</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:07:19 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:43:43 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-07-16</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,31 +38,50 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Choral Society of Washington Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n91011602" source="LCSH">Choral Arts Society of Washington</corpname>
+      </origination>
       <unitid>070</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">9 linear feet; 6 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">9 Linear feet</extent>
       </physdesc>
       <unitdate normal="1884/1910" type="inclusive">1884-1910</unitdate>
-      <langmaterial id="aspace_be2c2ba5532604f456d9cea7915afd4b">English</langmaterial>
       <langmaterial id="aspace_bf4cbf4b69a99908b0de1e7e2be0c63a">English</langmaterial>
     </did>
+    <arrangement id="aspace_2310c4db22bd353769ad42468d0b02a4">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_ef952266ffea85fb830c4df1db0dfabe">
       <head>Biographical / Historical</head>
-      <p>The first meeting of the Choral Society of Washington was held on November 7, 1883 in the home of Mr. and Mrs. Jonathan Jay Knox. At this meeting a singing society was formed with Mr. Harry C. Sherman named conductor. There were originally 52 members of the Society and Mr. Knox was named its first President. The society was officially incorporated in May 31, 1892. It is unknown as to when the organization ceased to be.</p>
+      <p>The first meeting of the Choral Society of Washington was held on November 7, 1883 in the home of Mr. and Mrs. Jonathan Jay Knox. At this meeting a singing society was formed with Mr. Harry C. Sherman named conductor. There were originally 52 members of the Society and Mr. Knox was named its first President. The society was officially incorporated on May 31, 1892. It is unknown when the organization became defunct.</p>
     </bioghist>
     <custodhist id="aspace_2f86ceb91a8019260323dfeacf031e0f">
       <head>Custodial History</head>
-      <p>The materials in this collection were originally cataloged as part of the Cutter Collection (+VYRH C45) in Washingtoniana. They were removed from and accessioned into the DC Community Archives in 1998 and 1999. The original donor of these materials is unknown.</p>
+      <p>The materials in this collection were originally cataloged as part of the Cutter Collection (+VYRH C45) in the Library. They were removed from that collection and accessioned in 1998 and 1999. The original donor of these materials is unknown.</p>
     </custodhist>
+    <processinfo id="aspace_1f51a598e02ed58c58a89d26080d6b5d">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
+    </processinfo>
     <scopecontent id="aspace_bfa8b433ebd52c83b5ee44e05c68882c">
       <head>Scope and Contents</head>
-      <p>The materials included in this collection are: clippings, Bulletins, correspondence, programs, tickets, financial records, meeting minutes, and printed items. The "Book of Blanks," contains an example of each item printed by the society (programs, tickets, form letters, etc.), the number ordered, and the cost to the Society. Except for one folder of the earliest meeting minutes, all materials are located in bound volumes. These bound volumes have been placed in acid-free boxes.</p>
+      <p>The materials included in this collection are: clippings, bulletins, correspondence, programs, tickets, financial records, meeting minutes, and printed items. The "Book of Blanks" contains an example of each item printed by the Society (programs, tickets, form letters, etc.), the number ordered, and the cost to the Society. With the exception of one folder of the earliest meeting minutes, all materials are located in bound volumes. These bound volumes have been placed in acid-free boxes</p>
     </scopecontent>
+    <userestrict id="aspace_acb38846b2b9070cc4b90db2144e2c53">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85088762" source="Library of Congress Subject Headings">Music</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99001943" source="Library of Congress Subject Headings">Correspondence</subject>
+      <genreform authfilenumber="http://id.loc.gov/authorities/genreForms/gf2014026128" source="Library of Congress Subject Headings">Minutes (Records)</genreform>
+      <genreform source="material_type">Ephemera</genreform>
+      <genreform source="material_type">Organizational Records</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85099818" source="Library of Congress Subject Headings">Performing Arts</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_93ced9552335b20b757e290c485caf75" level="series">
@@ -62,88 +92,88 @@
           <did>
             <unittitle>Account Book</unittitle>
             <unitdate normal="1894/1899" type="inclusive">1894-1899</unitdate>
-            <container id="aspace_b3be1fb9187f6a68f9aa54b361e0b3e9" label="mixed materials" type="Box">1</container>
-            <container id="aspace_45aed52753657e8d2397928d5f8d80f4" parent="aspace_b3be1fb9187f6a68f9aa54b361e0b3e9" type="Folder">1</container>
+            <container id="aspace_633ce4b07e7b59cbb606df3ef6550011" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f3833fb09b9f764b697a995be43422f2" parent="aspace_633ce4b07e7b59cbb606df3ef6550011" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_bb6887d6c2fe40fcaeb6643980d78341" level="file">
           <did>
             <unittitle>Book of Blanks</unittitle>
             <unitdate normal="1896/1899" type="inclusive">1896-1899</unitdate>
-            <container id="aspace_49663a2034b8cc3a036ac4e82ff40836" label="mixed materials" type="Box">1</container>
-            <container id="aspace_703ec1c5ed19257e67854740c7c8dd6b" parent="aspace_49663a2034b8cc3a036ac4e82ff40836" type="Folder">2</container>
+            <container id="aspace_f2d7092c9eb55e265f8282f9054f32a4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2c4fa7a29fa0a04d147e465ffeb54b34" parent="aspace_f2d7092c9eb55e265f8282f9054f32a4" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_d6eb7ab48461ab826226c40a66561a2e" level="file">
           <did>
             <unittitle>Scrapbook</unittitle>
             <unitdate normal="1886/1910" type="inclusive">1886-1910</unitdate>
-            <container id="aspace_d345b5f517010256d601b1e11172bdb7" label="mixed materials" type="Box">2</container>
-            <container id="aspace_064942b134d3bf3a96195c7fb621b87f" parent="aspace_d345b5f517010256d601b1e11172bdb7" type="Folder">1</container>
+            <container id="aspace_0b73e912281dc11003c5d6944ee055f6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_584487592a4de0402192edeab769e674" parent="aspace_0b73e912281dc11003c5d6944ee055f6" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_a192e24633b2aa835110de5509cf3ddf" level="file">
           <did>
             <unittitle>Secretary Reports (in File Folder)</unittitle>
             <unitdate normal="1884/1885" type="inclusive">1884-1885</unitdate>
-            <container id="aspace_94f26bad9455222a5155973d0edd51e7" label="mixed materials" type="Box">3</container>
-            <container id="aspace_3fe926e5cf56fc0ce5d1b18bb9ac9189" parent="aspace_94f26bad9455222a5155973d0edd51e7" type="Folder">1</container>
+            <container id="aspace_bca9d318b07ac282e09764abc4119aae" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_7b8469c54fafab5fb6e852aa1839ab5b" parent="aspace_bca9d318b07ac282e09764abc4119aae" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_97bb61f75ae3a5679a31896725d7f578" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1892/1897" type="inclusive">1892-1897</unitdate>
-            <container id="aspace_73789603edbcb86e67e56b2f7c2bd218" label="mixed materials" type="Box">3</container>
-            <container id="aspace_9e003e72d173196a0b6cfaa33482b8bf" parent="aspace_73789603edbcb86e67e56b2f7c2bd218" type="Folder">2</container>
+            <container id="aspace_599e44938a169b6cc3b67317facb83aa" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_c4fb265432d144d5403fcc25b20e5ada" parent="aspace_599e44938a169b6cc3b67317facb83aa" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_a064b354a8b930c7f81062258861f450" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1897/1899" type="inclusive">1897-1899</unitdate>
-            <container id="aspace_79951cbd3d51f99ac9a58c5bcca57c95" label="mixed materials" type="Box">4</container>
-            <container id="aspace_bc75361990df50aff3930b2de4e8c337" parent="aspace_79951cbd3d51f99ac9a58c5bcca57c95" type="Folder">1</container>
+            <container id="aspace_199390030744b30c2f731da407bd8aa8" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_4b8c72155d800c7e18f78f40a4369583" parent="aspace_199390030744b30c2f731da407bd8aa8" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ecc5d79975736500b7aa5be77a9055ac" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1899/1901" type="inclusive">1899-1901</unitdate>
-            <container id="aspace_3834f0db8d86483672109bc8a2ebd2a0" label="mixed materials" type="Box">5</container>
-            <container id="aspace_0021c92f00e10dc85d4ba8cf6a04a37b" parent="aspace_3834f0db8d86483672109bc8a2ebd2a0" type="Folder">1</container>
+            <container id="aspace_f68c7f0c2a95a5b98aa10b73ef5c3b61" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_6da494f672ced2a9f8b3a3f2185d6a24" parent="aspace_f68c7f0c2a95a5b98aa10b73ef5c3b61" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_8cad0045c5733298f5ded51084e71fe8" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1902/1907" type="inclusive">1902-1907</unitdate>
-            <container id="aspace_ad675fbc2a5e7398a07f9e1041b95450" label="mixed materials" type="Box">5</container>
-            <container id="aspace_87933060134ac09deb85444d3f81621f" parent="aspace_ad675fbc2a5e7398a07f9e1041b95450" type="Folder">2</container>
+            <container id="aspace_37372426eaf79b4c0b2693f4bf2270f9" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_2dd04957f594502e2b1a0aa18f65734d" parent="aspace_37372426eaf79b4c0b2693f4bf2270f9" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_c56e45013b8d2417df05d584f4515137" level="file">
           <did>
             <unittitle>Programs</unittitle>
             <unitdate normal="1884/1898" type="inclusive">1884-1898</unitdate>
-            <container id="aspace_c25367522087c35296e97395a430199d" label="mixed materials" type="Box">6</container>
-            <container id="aspace_a714b29632792f8530984102c8ee2513" parent="aspace_c25367522087c35296e97395a430199d" type="Folder">1</container>
+            <container id="aspace_fce927460c8871ecd12adbd382778506" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_5857405f5404a416f36ede4f070ec364" parent="aspace_fce927460c8871ecd12adbd382778506" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_31209b980f3af11b8ce7fe4144b38bf1" level="file">
           <did>
             <unittitle>Programs</unittitle>
             <unitdate normal="1898/1910" type="inclusive">1898-1910</unitdate>
-            <container id="aspace_cb8a0c80bf0bffa6a11d8b0fab8b55e8" label="mixed materials" type="Box">6</container>
-            <container id="aspace_8c29db6ebf8d9a6bc6e3e88cc760e42c" parent="aspace_cb8a0c80bf0bffa6a11d8b0fab8b55e8" type="Folder">2</container>
+            <container id="aspace_d568a7dc5e98aed193c15071b5cfab4f" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_b494963e193b72241b95de9eb83a4ee1" parent="aspace_d568a7dc5e98aed193c15071b5cfab4f" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_97b1d4cf15ef51e7a9fa637586044176" level="file">
           <did>
             <unittitle>Bulletins (in Envelope)</unittitle>
             <unitdate normal="1900/1905" type="inclusive">1900-1905</unitdate>
-            <container id="aspace_fc80d71e0a0ecd6368402460a755e468" label="mixed materials" type="Box">6</container>
-            <container id="aspace_27b54a022353a2263775d2b54147bd29" parent="aspace_fc80d71e0a0ecd6368402460a755e468" type="Folder">3</container>
+            <container id="aspace_5b8b1608e865d5867e20879c86806a75" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_34dcca6c7027f5af020d9755ac20808f" parent="aspace_5b8b1608e865d5867e20879c86806a75" type="Folder">3</container>
           </did>
         </c>
       </c>

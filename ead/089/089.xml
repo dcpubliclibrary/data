@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Hamilton (Martha McNeil) Collection</titleproper>
-        <titleproper>Martha McNeil Hamilton <num>089</num> <num>089</num></titleproper>
-        <subtitle>An inventory of Martha McNeil Hamilton at DC Public Library</subtitle>
+        <titleproper>Martha McNeil Hamilton Collection <num>089</num></titleproper>
+        <subtitle>An inventory of Martha McNeil Hamilton Collection at DC Public Library</subtitle>
         <author>Finding aid prepared by Ryan P. Semmes.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-12</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:08:52 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:45:20 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-07-31</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,29 +38,60 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Martha McNeil Hamilton Collection</unittitle>
+      <origination label="creator">
+        <persname authfilenumber="http://id.loc.gov/authorities/names/n2002039859" source="LCSH">Hamilton, Martha McNeil</persname>
+      </origination>
       <unitid>089</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 linear feet; 2 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Boxes</extent>
       </physdesc>
       <unitdate normal="1971/1997" type="inclusive">1971-1997</unitdate>
-      <langmaterial id="aspace_b4c435590b7ff781dc3c0543417f00ec">English</langmaterial>
       <langmaterial id="aspace_b840157e42c6a6a6a39065d5d900bf2a">English</langmaterial>
     </did>
+    <arrangement id="aspace_ec9f7c5638d33a85f0f1965f93d8d086">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_b3eb2569522d190822a6af978cf9454a">
       <head>Biographical / Historical</head>
-      <p>Martha McNeil Hamilton was born in Houston, Texas on December 21, 1945 to Bruce and Evelyn Sims McNeil. She attended the University of Texas and received a BA in History. She began her professional career as a free-lance journalist at the Newark News in 1966. From 1966-1967 she was a reporter in Buenos Aires. In 1968 she was the editor of The Machinist and in 1969 she was a reporter for the Journal of Commerce. In 1972 she began her long and distinguished career as a reporter for the Washington Post. She is the author of the books The Great American Grain Robbery published in 1972 and Black and White and Red All Over which was published in 2002. She is the recipient of numerous awards, including: the Front Page Award, 1978; the National Endowment for the Humanities Fellowship, 1978; the Duke Fellowship, 1986; and the Eisenhower Association Fellowship, 1995. In May 1976, her daughter Sarah Elizabeth Hamilton was born.</p>
+      <p>Martha McNeil Hamilton was born in Houston, Texas on December 21, 1945 to Bruce and Evelyn Sims McNeil. She attended the University of Texas and received a BA in History. Prior to her career with the Washington Post, Hamilton worked for the Newark News, The Machinist, and the Journal of Commerce. She also spent some time as a reporter in Buenos Aires, Argentina. Hamilton is the author of the books The Great American Grain Robbery (1972) and Black and White and Red All Over (2002). She is the recipient of numerous awards, including the Front Page Award, 1978; the National Endowment for the Humanities Fellowship, 1978; the Duke Fellowship, 1986; and the Eisenhower Association Fellowship, 1995.</p>
     </bioghist>
     <custodhist id="aspace_a67194c99a4e9115f2a95bd8402f320d">
       <head>Custodial History</head>
-      <p>Martha McNeil Hamilton donated the materials to the DC Community Archives in July 1996.</p>
+      <p>Martha McNeil Hamilton donated the materials to the DC Public Library in July 1996.</p>
     </custodhist>
+    <processinfo id="aspace_4e40c068463fbd21618e08480108c842">
+      <head>Processing Information</head>
+      <p>Basic archival procedures were used at the time of processing.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_138b7c042f3d404088e4d906b5d88ab0">
+      <head>Related Materials</head>
+      <p>Collection #OHP018: Home Rule Oral History Project<br/>
+Collection #055: Home Rule Committee Collection<br/>
+Collection #003: Self-Determination for DC (SDDC) Collection<br/>
+Collection #OHP013: Milepost to Self-Govenment Oral History Project</p>
+    </relatedmaterial>
     <scopecontent id="aspace_abf90508514860be787f4ce4f0cdba06">
       <head>Scope and Contents</head>
-      <p>The materials in this collection represent the research notes and articles compiled by Martha McNeil Hamilton as a reporter for the Washington Post regarding to the fight for DC Home Rule. Included in this collection are: reports, notes, clippings, government documents, hearing transcripts, correspondence, and election results.</p>
+      <p>This collection contains Washington Post reporter Martha McNeil Hamilton's research notes and articles pertaining to the fight for D.C. home rule, as well as related items such as reports, clippings, government documents, hearing transcripts, correspondence and election results.</p>
     </scopecontent>
+    <userestrict id="aspace_e95bcf390dadedb3ed06e6d952daad3d">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85070788" source="Library of Congress Subject Headings">Journalists</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85147274" source="Library of Congress Subject Headings">Women</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85061707" source="Library of Congress Subject Headings"> Home rule -- Washington (D.C.)</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85112929" source="Library of Congress Subject Headings">Reporters and reporting</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85070736" source="Library of Congress Subject Headings">Journalism</subject>
+    </controlaccess>
     <dsc>
       <c id="aspace_de3ec893adf786adc3c776c0308897b6" level="series">
         <did>
@@ -59,352 +101,352 @@
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1973/1997" type="inclusive">1973-1997</unitdate>
-            <container id="aspace_75c8a5645081c17203e14ba129a8bf8a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_166f1a87cf53540fd658ddcfa97dd515" parent="aspace_75c8a5645081c17203e14ba129a8bf8a" type="Folder">1</container>
+            <container id="aspace_dbbbc3d5eb78c62af29d08d067f4b169" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_73f9355cc24f63404653607d640b2a2c" parent="aspace_dbbbc3d5eb78c62af29d08d067f4b169" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_3bb1886b0a39eaeb45dcf0e1af78cc8f" level="file">
           <did>
             <unittitle>Congressional Record</unittitle>
             <unitdate normal="1973-10-04/1973-10-04" type="inclusive">October 4 1973</unitdate>
-            <container id="aspace_5a749620f96864f2891fefb6a9fc1761" label="mixed materials" type="Box">1</container>
-            <container id="aspace_84bbb2679bda8197d86eb3bb46210063" parent="aspace_5a749620f96864f2891fefb6a9fc1761" type="Folder">2</container>
+            <container id="aspace_eb8df730ac22a53e810af41eb844d1cb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a1dc92a85de862c4cbca583e91b54bc7" parent="aspace_eb8df730ac22a53e810af41eb844d1cb" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_86fdf3c3cdec1fcbda89fad3b5e99127" level="file">
           <did>
             <unittitle>DC Bar Board of Governor's Resolution</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_58f3caf0bbefc8d39a7a809f874af79b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2cb6ba5db1a83d69f646a4e17e8b8d45" parent="aspace_58f3caf0bbefc8d39a7a809f874af79b" type="Folder">3</container>
+            <container id="aspace_4fc9e19327ad3192ee7fcde1a933d166" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bde0d824df1aa15f4cba0d74b34e5f3c" parent="aspace_4fc9e19327ad3192ee7fcde1a933d166" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_993b2219d91af44c83cacd832b1fae99" level="file">
           <did>
             <unittitle>Elections - General Election Results</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="aspace_bb01d140c56a072d461cec766e4f6a31" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c87c8fcda4ceddca1fe2cd47e4c12ffa" parent="aspace_bb01d140c56a072d461cec766e4f6a31" type="Folder">4</container>
+            <container id="aspace_75fcc73b7ddc235d3bd307ff3f65dd9e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ab591fc6b6c4242eca21342c8e8c2a91" parent="aspace_75fcc73b7ddc235d3bd307ff3f65dd9e" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_57a324cdde0263f69a8e16c86826beb3" level="file">
           <did>
             <unittitle>Elections - General Election Results</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="aspace_e4239df89e39ac0018ff5be94f5920ce" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a6d4d056654d53462fd97ee5ce611675" parent="aspace_e4239df89e39ac0018ff5be94f5920ce" type="Folder">5</container>
+            <container id="aspace_a08bda48a6465d129c2110c36a25ec48" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e17ee83fce6b4087e22e63e4d30c0c89" parent="aspace_a08bda48a6465d129c2110c36a25ec48" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_aec2c5574cbdf35706baec9c70516897" level="file">
           <did>
             <unittitle>Elections - General Election Results</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="aspace_59fddb2e2374c9f5c0da9f90b1d6a26f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_34d42e52b7cc91fd697b3b39ffef95c5" parent="aspace_59fddb2e2374c9f5c0da9f90b1d6a26f" type="Folder">6</container>
+            <container id="aspace_ae27576f97cdd8e211ebf346533ea133" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_60107a4efa9e6ea4df7d8ae5bee27d81" parent="aspace_ae27576f97cdd8e211ebf346533ea133" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_88fad4a50fd1725c1674295e731677c3" level="file">
           <did>
             <unittitle>Elections - Primary Results</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="aspace_277cadbf4e1b4ce917e671851d9a36be" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ff6facad2165d4d8d31ac300c1951c44" parent="aspace_277cadbf4e1b4ce917e671851d9a36be" type="Folder">7</container>
+            <container id="aspace_3c7c4086b2f1e7c715e264b1ad4a3002" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0cdca89378c5dadc505a83f4d99728d4" parent="aspace_3c7c4086b2f1e7c715e264b1ad4a3002" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_4ed69e27cf407f6029a7bb0bfa3ace7c" level="file">
           <did>
             <unittitle>Elections - Primary Results</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="aspace_0823a5bf84ad35c0f52858af8b91ce74" label="mixed materials" type="Box">1</container>
-            <container id="aspace_84ac0ae289c8b63a1b16be7fe040963f" parent="aspace_0823a5bf84ad35c0f52858af8b91ce74" type="Folder">8</container>
+            <container id="aspace_efca41c72241c82334f321d2ddf6067a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_52f54f01f29515bfa512a7d09ccf46d7" parent="aspace_efca41c72241c82334f321d2ddf6067a" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_6c6b635c06e0cb9415a50e8ab1795efc" level="file">
           <did>
             <unittitle>Home Rule - Articles</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="aspace_7ccdcabdbf07dcae44e44c30842dd6c2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f73ff64e9a4ab68ee102c8718084767a" parent="aspace_7ccdcabdbf07dcae44e44c30842dd6c2" type="Folder">9</container>
+            <container id="aspace_bb93083dcd68b1de5a72aca9d1f907a5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bd398ea48b73e1f2c7839935b9cc453a" parent="aspace_bb93083dcd68b1de5a72aca9d1f907a5" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_fde57fb6c5f0728d7a39a2727508ebbc" level="file">
           <did>
             <unittitle>Home Rule - Articles</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="aspace_984f9fcfdc6840f374872b4faeca993a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_6a4bc4b99d29b63b90fecf451112709f" parent="aspace_984f9fcfdc6840f374872b4faeca993a" type="Folder">10</container>
+            <container id="aspace_e8f2514196fcf32213bd3a09384cae22" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ccd36d3808c83101b97987406bedbe40" parent="aspace_e8f2514196fcf32213bd3a09384cae22" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_863030d1cd0f74c919b8ce2ba9770153" level="file">
           <did>
             <unittitle>Home Rule - Articles</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="aspace_ea06e238346ea767aaa309f3c4e6be43" label="mixed materials" type="Box">1</container>
-            <container id="aspace_8c77f18252d47f92e0bcd85066d7ca38" parent="aspace_ea06e238346ea767aaa309f3c4e6be43" type="Folder">11</container>
+            <container id="aspace_5b0abbaa9edf29149f4666244659ae81" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9d2c55ee1c11b510385af6c71e4579cc" parent="aspace_5b0abbaa9edf29149f4666244659ae81" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_e4f9625bb6ac3334d2a90a6c08cb228e" level="file">
           <did>
             <unittitle>Home Rule - Articles</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="aspace_5062c74d59a5109d3a45aee1629ad27f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_60883f18f7ddfb47f8867e728ab6f82a" parent="aspace_5062c74d59a5109d3a45aee1629ad27f" type="Folder">12</container>
+            <container id="aspace_9225897f419829c4e2c0a73f02b354b2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5c1336ec55b6158e1e8667f1f72fb22a" parent="aspace_9225897f419829c4e2c0a73f02b354b2" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_c54ca76f7123524b2d01194705b78f71" level="file">
           <did>
             <unittitle>Home Rule - Articles</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="aspace_b3b46d7c9d29417fb9df74c5dcdeeb80" label="mixed materials" type="Box">1</container>
-            <container id="aspace_897ac703aee553284470ebadc9e2801e" parent="aspace_b3b46d7c9d29417fb9df74c5dcdeeb80" type="Folder">13</container>
+            <container id="aspace_36b73e8dda727399f4267b9ca2806108" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a30dc425d7bb034818d4a8d2c07d487e" parent="aspace_36b73e8dda727399f4267b9ca2806108" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_702914c548cf4cd165bbb9806f403b80" level="file">
           <did>
             <unittitle>Home Rule - Articles</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="aspace_5882dc7253233a5364336eeafb51f357" label="mixed materials" type="Box">1</container>
-            <container id="aspace_cee6c6a3302b495502418c62a1725962" parent="aspace_5882dc7253233a5364336eeafb51f357" type="Folder">14</container>
+            <container id="aspace_62731ceaaeaca9bc1fa1ddac1e2abe0a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9d8e66b5d40a96371b0215ae90c2ca38" parent="aspace_62731ceaaeaca9bc1fa1ddac1e2abe0a" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_b6a73f02b451a2926642668e8a1c334e" level="file">
           <did>
             <unittitle>Home Rule - Articles</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="aspace_e6c87bf2b4927c1a52116d45df654a9b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9f9e12097b3a307393505bf1fadb00d5" parent="aspace_e6c87bf2b4927c1a52116d45df654a9b" type="Folder">15</container>
+            <container id="aspace_cbd0e133110d5f14067adc6912d03e96" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5b71c8a45a38c126d244479d812430f3" parent="aspace_cbd0e133110d5f14067adc6912d03e96" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_f1a6c337e565b75abaa58a92270cd47f" level="file">
           <did>
             <unittitle>Home Rule - Articles</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="aspace_e09dd0228bf7d45605ef8c71f9d3aad7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_16522611f6d0367898c9659dd0026692" parent="aspace_e09dd0228bf7d45605ef8c71f9d3aad7" type="Folder">16</container>
+            <container id="aspace_64c060d44610f3e3db8945f1ec8ed1dd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_685dfaddf6ca66dc80dbb5e9e8838a76" parent="aspace_64c060d44610f3e3db8945f1ec8ed1dd" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_27c5f6f3c15ad1f6f1e38d32bae6c325" level="file">
           <did>
             <unittitle>Home Rule - Articles</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="aspace_36dfbb4d3f16b5357059b650ed18dcee" label="mixed materials" type="Box">1</container>
-            <container id="aspace_82a32319fca15b070e372fec1b132b4e" parent="aspace_36dfbb4d3f16b5357059b650ed18dcee" type="Folder">17</container>
+            <container id="aspace_7b73b7effe494ef81655ce3736723ab6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3c233c044919d3081af897f351003321" parent="aspace_7b73b7effe494ef81655ce3736723ab6" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_78254100998fdce9f0d3e12bc3b0012c" level="file">
           <did>
             <unittitle>Home Rule - Articles</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="aspace_18d55158707f3cfeac3106ce57ffcdb0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3b41249b9aeb709e61e07582c8a1cb0e" parent="aspace_18d55158707f3cfeac3106ce57ffcdb0" type="Folder">18</container>
+            <container id="aspace_509963902536e32bf5d55ddbecee233c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8c190243e13801d491e927fc7f492fca" parent="aspace_509963902536e32bf5d55ddbecee233c" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_dee051fad9a63d15bb4649bd75eef322" level="file">
           <did>
             <unittitle>Home Rule - Bills</unittitle>
             <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
-            <container id="aspace_012652150932866c0960edcfb69778b0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_53635b9a6bda7949e73ddc89dc8cbf8d" parent="aspace_012652150932866c0960edcfb69778b0" type="Folder">19</container>
+            <container id="aspace_6b4887695b070fc88d52866faf211052" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_64f00768fec6ff2a0aa6b84a4c3595b8" parent="aspace_6b4887695b070fc88d52866faf211052" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_d7710e0b658b3a683dc26779cc9cf64b" level="file">
           <did>
             <unittitle>Home Rule - Bills</unittitle>
             <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
-            <container id="aspace_ad8fbb3e6b5c2fe16f2cac2c9824e260" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5d6f43fdd267f744884e1fe8ce35ccbf" parent="aspace_ad8fbb3e6b5c2fe16f2cac2c9824e260" type="Folder">20</container>
+            <container id="aspace_706ca3f7f1d2ee666d7401ffec034e17" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2959090b4573693fc3f0c2c6f9533c19" parent="aspace_706ca3f7f1d2ee666d7401ffec034e17" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_dc337572a43e927f0495cd2556be0020" level="file">
           <did>
             <unittitle>Home Rule - Bills</unittitle>
             <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
-            <container id="aspace_5d78c81ec9557c194861d8a91cd90b10" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ab050276928377de62d052b05c773534" parent="aspace_5d78c81ec9557c194861d8a91cd90b10" type="Folder">21</container>
+            <container id="aspace_6f0a6ed853155c9eed28a2e65fb6ffaa" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4cfa010d625fc143219b59b816682958" parent="aspace_6f0a6ed853155c9eed28a2e65fb6ffaa" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_9ef5396d2d941279449ffa8d9b53be86" level="file">
           <did>
             <unittitle>Home Rule - Bills</unittitle>
             <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
-            <container id="aspace_b330be25a7842313ada0a6d6a121fe2a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9eb0cbf9f3fa8b93ccbbaa79316fdba4" parent="aspace_b330be25a7842313ada0a6d6a121fe2a" type="Folder">22</container>
+            <container id="aspace_c2ddcfafb9221e1be993ce79fe9c98f0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e5088df17b14e021469fb9359dd5a12a" parent="aspace_c2ddcfafb9221e1be993ce79fe9c98f0" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_6722380c1f7c7966869b7ef76858e3ea" level="file">
           <did>
             <unittitle>Home Rule - Bills</unittitle>
             <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
-            <container id="aspace_ae7202f4fcfa82e988dd1706f9aa937d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e999c7b9aa6a55e76f84b81d7f0b4886" parent="aspace_ae7202f4fcfa82e988dd1706f9aa937d" type="Folder">23</container>
+            <container id="aspace_4fafe398dd2033979a868a367dece223" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a7fa271cb0bdc47f77428955c1dc6f70" parent="aspace_4fafe398dd2033979a868a367dece223" type="Folder">23</container>
           </did>
         </c>
         <c id="aspace_141b2b86c2599ff37f35b674db9e352d" level="file">
           <did>
             <unittitle>Home Rule - Bills</unittitle>
             <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
-            <container id="aspace_aed27b19f06d6a679c894d6afb926128" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0e7166fbf2be15217efdbbe4555e0642" parent="aspace_aed27b19f06d6a679c894d6afb926128" type="Folder">24</container>
+            <container id="aspace_b7e8073843aaa3381de58b6a839011f9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_305f5cb4946649cc0e98eecc951f48a3" parent="aspace_b7e8073843aaa3381de58b6a839011f9" type="Folder">24</container>
           </did>
         </c>
         <c id="aspace_d140a1acf8d2ac05ccd7d3a7bb76b5c9" level="file">
           <did>
             <unittitle>Home Rule - Bills</unittitle>
             <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
-            <container id="aspace_cfa826cc06778b30e8625195e09b3472" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e18900ed0c58c88f8c094fc48a2a29e4" parent="aspace_cfa826cc06778b30e8625195e09b3472" type="Folder">25</container>
+            <container id="aspace_466eab2d7a0d8ea9688319c7c6e88859" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9756e986e15ecde519afc7cb5d5e2730" parent="aspace_466eab2d7a0d8ea9688319c7c6e88859" type="Folder">25</container>
           </did>
         </c>
         <c id="aspace_b666b0804aa21616b174fcb988f66c76" level="file">
           <did>
             <unittitle>Home Rule - Walter Fauntroy</unittitle>
             <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
-            <container id="aspace_8fc9b20e352ab50df636e0319194aed0" label="mixed materials" type="Box">2</container>
-            <container id="aspace_4a4d5afbe4cde33858e50c393f04c016" parent="aspace_8fc9b20e352ab50df636e0319194aed0" type="Folder">1</container>
+            <container id="aspace_2116837e586b925cf2def60d107b5d29" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_350584d47847cad7595c4d6ec43b7487" parent="aspace_2116837e586b925cf2def60d107b5d29" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_4d2b7e553c40859fff922f1ff131ed1f" level="file">
           <did>
             <unittitle>Home Rule - General</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="aspace_bb0cb8b46f81fe5c1e4e86fb41923821" label="mixed materials" type="Box">2</container>
-            <container id="aspace_40f6edfb2435d208c342959b1183d991" parent="aspace_bb0cb8b46f81fe5c1e4e86fb41923821" type="Folder">2</container>
+            <container id="aspace_63b367ff4c6b7d18720c7fadde10ebc7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9acc2b81b9369f4ee4c277c5a2cb1198" parent="aspace_63b367ff4c6b7d18720c7fadde10ebc7" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_66b388b4582a57d72a6db2d7d0af59df" level="file">
           <did>
             <unittitle>Home Rule - Statements</unittitle>
             <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container id="aspace_af4950211add9ac0bfe0176aac099016" label="mixed materials" type="Box">2</container>
-            <container id="aspace_44b6aefa8387bffd597168707b77a26b" parent="aspace_af4950211add9ac0bfe0176aac099016" type="Folder">3</container>
+            <container id="aspace_faea8cd9f141020d32979b98096119a2" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_cbd666a14ffeef75b6db75cfd96ff1b2" parent="aspace_faea8cd9f141020d32979b98096119a2" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_8b936d98f1df4d148d96e9703bcc9f24" level="file">
           <did>
             <unittitle>Testimony</unittitle>
             <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container id="aspace_e1f57cd5e12a0a3eff75638a306f19a2" label="mixed materials" type="Box">2</container>
-            <container id="aspace_5c9725fa379171781b5ebbedc44ab6a5" parent="aspace_e1f57cd5e12a0a3eff75638a306f19a2" type="Folder">4</container>
+            <container id="aspace_ec380ab733494e9c1f0e16a3b8637feb" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ae5b441cdfd48d61189f610e75dee79b" parent="aspace_ec380ab733494e9c1f0e16a3b8637feb" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_a85283a038691e3a9ebe87d198ba6a02" level="file">
           <did>
             <unittitle>Testimony</unittitle>
             <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container id="aspace_1785b150bfcc10d3a6733c323fc74f58" label="mixed materials" type="Box">2</container>
-            <container id="aspace_8b56b881f7cc1148ba0170d5777df08c" parent="aspace_1785b150bfcc10d3a6733c323fc74f58" type="Folder">5</container>
+            <container id="aspace_1eaa9b3efafe27fae228d2e7c7ea5f65" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7edde664e7d112b2c01c131ae8b54953" parent="aspace_1eaa9b3efafe27fae228d2e7c7ea5f65" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_5827b5afbb9025a50c893c6b3b42d587" level="file">
           <did>
             <unittitle>Testimony</unittitle>
             <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container id="aspace_ad923110c2c33beac46056f781a1adab" label="mixed materials" type="Box">2</container>
-            <container id="aspace_4e40adcf7677cc1a3994fe90e16dc357" parent="aspace_ad923110c2c33beac46056f781a1adab" type="Folder">6</container>
+            <container id="aspace_298b8e69ffb689c0be2b376c820b7089" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_bc6dd0e778466714204c0abb9eea1049" parent="aspace_298b8e69ffb689c0be2b376c820b7089" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_1b3c71b975e610fe236590d8dae978a3" level="file">
           <did>
             <unittitle>Testimony</unittitle>
             <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container id="aspace_bcd0f1c49c860254acbfa0761fd28f82" label="mixed materials" type="Box">2</container>
-            <container id="aspace_42d67cd2a59d3060440c49b4d887250f" parent="aspace_bcd0f1c49c860254acbfa0761fd28f82" type="Folder">7</container>
+            <container id="aspace_4544ee4c2a625167b151f862618e7442" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6c9f1f71bd2cbafac7b67cc780bb01d8" parent="aspace_4544ee4c2a625167b151f862618e7442" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_caa3a62b983133c7909042050094188d" level="file">
           <did>
             <unittitle>Testimony</unittitle>
             <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container id="aspace_4fde40a1bcf2d4da6c07ea7b99c24ee5" label="mixed materials" type="Box">2</container>
-            <container id="aspace_137d57ab56a3e8cb72e9069fcb57c07e" parent="aspace_4fde40a1bcf2d4da6c07ea7b99c24ee5" type="Folder">8</container>
+            <container id="aspace_bee6c5719dd8a877df27ecbf7128ac2f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ad7df0821ec24573f50b969ac8e28313" parent="aspace_bee6c5719dd8a877df27ecbf7128ac2f" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_1cb615d2ff20cab8f3278acbde4114dc" level="file">
           <did>
             <unittitle>Testimony</unittitle>
             <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container id="aspace_55fd29da1391ddd489b147d91c0edd26" label="mixed materials" type="Box">2</container>
-            <container id="aspace_b28279452ad985a05a42ac11e151e6c6" parent="aspace_55fd29da1391ddd489b147d91c0edd26" type="Folder">9</container>
+            <container id="aspace_c7690254fda0480970151be3001b66c4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_13d0419ba091af76c4d3ffdd96ef6431" parent="aspace_c7690254fda0480970151be3001b66c4" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_dbda23d63f0736635022c2d902337524" level="file">
           <did>
             <unittitle>Testimony</unittitle>
             <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container id="aspace_bab8cd0dbe0af81f60e604944ba7cf91" label="mixed materials" type="Box">2</container>
-            <container id="aspace_9a92db6e586b5b8c577ea898685a4953" parent="aspace_bab8cd0dbe0af81f60e604944ba7cf91" type="Folder">10</container>
+            <container id="aspace_3382b3dbedf2d24b76ed17acb4828905" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a935517df6257c1d7b7e9c8c0c8069ac" parent="aspace_3382b3dbedf2d24b76ed17acb4828905" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_8cbba33203ea8cb983c9a16b224dc9e4" level="file">
           <did>
             <unittitle>Presidential Statements</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="aspace_aa0b33e5e76dc3784d57cf6604d7586d" label="mixed materials" type="Box">2</container>
-            <container id="aspace_87e1b4ee18205700cd2aa1aa57184723" parent="aspace_aa0b33e5e76dc3784d57cf6604d7586d" type="Folder">11</container>
+            <container id="aspace_53447b54ffcaad4c00af7e5e7e72c326" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5deef1fe728245641c1a3ef5ebd74e76" parent="aspace_53447b54ffcaad4c00af7e5e7e72c326" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_a4bfe7d80573d94302e3f44a6e341d81" level="file">
           <did>
             <unittitle>Press Releases</unittitle>
             <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container id="aspace_0ca46612a9ae356341e76cc6d81cb175" label="mixed materials" type="Box">2</container>
-            <container id="aspace_4ae100344fc3bf763de2ce659ff75e88" parent="aspace_0ca46612a9ae356341e76cc6d81cb175" type="Folder">12</container>
+            <container id="aspace_0787aa742c47c3746c50dcb4bd487907" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_966891bca9a3a575fa3bc3604ca67b25" parent="aspace_0787aa742c47c3746c50dcb4bd487907" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_4d5ee6b4af8c6401973f2ce0f545d33b" level="file">
           <did>
             <unittitle>Press Releases</unittitle>
             <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container id="aspace_a1b36c2d2648f0db8f09447b69213d25" label="mixed materials" type="Box">2</container>
-            <container id="aspace_1690f44ba86c3816b421bd3b593cdf62" parent="aspace_a1b36c2d2648f0db8f09447b69213d25" type="Folder">13</container>
+            <container id="aspace_fd7bfc9ccd5110dd352bbeb250784efd" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9ebe09284561c14a7864ca23573475e9" parent="aspace_fd7bfc9ccd5110dd352bbeb250784efd" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_a217b86e7d851ca68acc9a0738ac213b" level="file">
           <did>
             <unittitle>Press Releases</unittitle>
             <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container id="aspace_c07b72dde9f945cfae39f8632b559fbc" label="mixed materials" type="Box">2</container>
-            <container id="aspace_837955426ac5e7f57ec95229b299cfb4" parent="aspace_c07b72dde9f945cfae39f8632b559fbc" type="Folder">14</container>
+            <container id="aspace_d8163dcc1dacbfb24313c44cc57334bf" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_25e7189f47e0cb5953818cc5cad71272" parent="aspace_d8163dcc1dacbfb24313c44cc57334bf" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_4ded772e2b58bd3e47a572da0ab8ded9" level="file">
           <did>
             <unittitle>Reporter's Notes</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_8d55211c6dbce6e935b4db4c377f21b4" label="mixed materials" type="Box">2</container>
-            <container id="aspace_fc3972c0b6cdc236099ef9097fc3754c" parent="aspace_8d55211c6dbce6e935b4db4c377f21b4" type="Folder">15</container>
+            <container id="aspace_dda0fb44f293f4458b2e7b91ab587125" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_077efe6a0c76fcda1f5b376fbcf1f62c" parent="aspace_dda0fb44f293f4458b2e7b91ab587125" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_aadb12d04ebb255943086ce24c8b3700" level="file">
           <did>
             <unittitle>Reporter's Notes</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_50b2e5aa471563bdb2953f8fe019310e" label="mixed materials" type="Box">2</container>
-            <container id="aspace_8cd38915d723dc7176b48c4581d3172b" parent="aspace_50b2e5aa471563bdb2953f8fe019310e" type="Folder">16</container>
+            <container id="aspace_5d39ee1214e6d0e4a76077ea449f186a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_68e084f91e0c71191489ab06df239845" parent="aspace_5d39ee1214e6d0e4a76077ea449f186a" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_21ba5030a41ba9edda28db99a59cb93d" level="file">
           <did>
             <unittitle>Reporter's Notes</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_0c6bed32c27f0550348eefa4e3fc9eca" label="mixed materials" type="Box">2</container>
-            <container id="aspace_0232d292bd3284511c761a6a807e0b13" parent="aspace_0c6bed32c27f0550348eefa4e3fc9eca" type="Folder">17</container>
+            <container id="aspace_6071e5d578336a6e87a137b4c3c3e706" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2f7963aa95e180bd261be91fe81b63ff" parent="aspace_6071e5d578336a6e87a137b4c3c3e706" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_84c8e336e5e6e7d264910a06b027a105" level="file">
           <did>
             <unittitle>Reporter's Notes</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_5b14ecd1a4146bfb4bf0516091d2e81f" label="mixed materials" type="Box">2</container>
-            <container id="aspace_a434f20248f58a28a60eb1b7d747e42b" parent="aspace_5b14ecd1a4146bfb4bf0516091d2e81f" type="Folder">18</container>
+            <container id="aspace_ca014078867980ba90eeb36b54a6e54f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_79a26b29c57c9cd8fcca4e7883a5597d" parent="aspace_ca014078867980ba90eeb36b54a6e54f" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_d31a208d1a7d6b1ccca20bd342937971" level="file">
           <did>
             <unittitle>Statehood</unittitle>
             <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
-            <container id="aspace_48a67c97c9f41ba87bb6c4cc0171282f" label="mixed materials" type="Box">2</container>
-            <container id="aspace_76a01f93dccfb658b6eb0ecf39af8321" parent="aspace_48a67c97c9f41ba87bb6c4cc0171282f" type="Folder">19</container>
+            <container id="aspace_815d746cce77c91deb1babb535022925" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ce9ab2eb189de9d7d4049e3711304415" parent="aspace_815d746cce77c91deb1babb535022925" type="Folder">19</container>
           </did>
         </c>
       </c>

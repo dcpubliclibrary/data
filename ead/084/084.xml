@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Daughters of the American Revolution Yearbooks Collection</titleproper>
-        <titleproper>Daughters of the American Revolution <num>084</num> <num>084</num></titleproper>
+        <titleproper>Daughters of the American Revolution <num>084</num></titleproper>
         <subtitle>An inventory of Daughters of the American Revolution Yearbooks at DC Public Library</subtitle>
         <author>Finding aid prepared by Ryan P. Semmes.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-11</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:08:24 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:44:50 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-07-31</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,29 +38,53 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Daughters of the American Revolution Yearbooks Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n2012040291" source="LCSH">Daughters of the American Revolution.  District of Columbia</corpname>
+      </origination>
       <unitid>084</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.5 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1924/1962" type="inclusive">1924-1962</unitdate>
-      <langmaterial id="aspace_fa8c2f4b1e8f4f0e1584a265359f64f4">English</langmaterial>
       <langmaterial id="aspace_f95dcd2d53fc3eb201628e5c3435879d">English</langmaterial>
     </did>
+    <arrangement id="aspace_578cca603a3528ac143643902dfbad0d">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_e409de1e94e9f0c17e85a6f542e494fe">
       <head>Biographical / Historical</head>
-      <p>This collection consists of correspondence, programs, newsletters, meeting minutes, resolutions, and other materials related to the Friendship Citizens Association of Washington, DC. Of particular interest to the Association was the proposed construction of a new branch of the DC Public Library in the Tenley-Friendship neighborhood.</p>
+      <p>The Daughters of the American Revolution was founded in 1890 as a service organization dedicated to the promotion of patriotism, historic preservation, and education. The DAR is open to any woman, at least 18 years of age, who can prove blood lineal descent from an ancestor who aided in achieving American independence.<br/>
+<br/>
+The District of Columbia State Chapter of the Daughters of the American Revolution was established in 1891, with local chapters forming as early as 1892. Though there were once as many as 60 local chapters, most have either disbanded or merged together. As of 2020, there are 18 local chapters in D.C.</p>
     </bioghist>
     <custodhist id="aspace_28354958af1659ab80bdd330591fca83">
       <head>Custodial History</head>
-      <p>The materials in this collection were removed from the vertical files and the Cutter collection.</p>
+      <p>The materials in this collection were relocated from DC Public Library Special Collection's vertical files and the Cutter collection.</p>
     </custodhist>
+    <processinfo id="aspace_bf67ee03fd9c0763d4031d64c4b7a6cc">
+      <head>Processing Information</head>
+      <p>Basic archival procedures were used at the time of processing.</p>
+    </processinfo>
     <scopecontent id="aspace_f9b1c80125bde1ed436d3bdb0e5b9bf2">
       <head>Scope and Contents</head>
-      <p>This collection consists of yearbooks covering the years from 1924-1962. Included in this collection are District of Columbia Local Chapter yearbooks, as well as District of Columbia State Chapter yearbooks.</p>
+      <p>This collection consists of Daughters of the American Revolution yearbooks, including the District of Columbia State Chapter and District of Columbia Local Chapters, from 1924-1962.</p>
     </scopecontent>
+    <userestrict id="aspace_6097d2d9cd7eabb2a7c61e51245fe6d7">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85149058" source="Library of Congress Subject Headings">Yearbooks</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85147274" source="Library of Congress Subject Headings">Women</subject>
+    </controlaccess>
     <dsc>
       <c id="aspace_bf7df5d00a3ce0483b77838c2c24587b" level="series">
         <did>
@@ -59,176 +94,176 @@
           <did>
             <unittitle>Livingston Manor</unittitle>
             <unitdate normal="1924/1925" type="inclusive">1924-1925</unitdate>
-            <container id="aspace_35ebc53e14803f0602e24afaee38d961" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5990bd9bd2958b7c98afb664a0f9b5ea" parent="aspace_35ebc53e14803f0602e24afaee38d961" type="Folder">1</container>
+            <container id="aspace_654ea8e7eebde1dcf24ba5ee85112a35" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_06f69d19f8e19b5440848019a4170f76" parent="aspace_654ea8e7eebde1dcf24ba5ee85112a35" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_3cbd53988ddb9536c25a5217db189bfb" level="file">
           <did>
             <unittitle>Livingston Manor</unittitle>
             <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate>
-            <container id="aspace_fe2da2b19671287750ed2fd395220645" label="mixed materials" type="Box">1</container>
-            <container id="aspace_48fba04fd8010bcaea58677c3155a85b" parent="aspace_fe2da2b19671287750ed2fd395220645" type="Folder">2</container>
+            <container id="aspace_573ccd3c3e31d3e29e103addefd5c67e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5263efb415fa6975b9fa4f5b8cd8f174" parent="aspace_573ccd3c3e31d3e29e103addefd5c67e" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_7024ff8adc948120c78772826c55f410" level="file">
           <did>
             <unittitle>Livingston Manor</unittitle>
             <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate>
-            <container id="aspace_f13e6c019bb83e1f55cf811a2e73660d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e61220d16349b84a3de58e7f4c34a9bf" parent="aspace_f13e6c019bb83e1f55cf811a2e73660d" type="Folder">3</container>
+            <container id="aspace_5c7f97b75fcc7bace14bdace0a32e803" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5c3779a43d59796eb18d47518a12cde7" parent="aspace_5c7f97b75fcc7bace14bdace0a32e803" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_85dd13244d03f287bdc644d506062e9a" level="file">
           <did>
             <unittitle>Livingston Manor</unittitle>
             <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
-            <container id="aspace_df0651383fe879e72a5f742724528213" label="mixed materials" type="Box">1</container>
-            <container id="aspace_447672706c7097888038554a17fe99ea" parent="aspace_df0651383fe879e72a5f742724528213" type="Folder">4</container>
+            <container id="aspace_9e118d72a7030cc716e4cdc42b217a86" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_02b97e361effee3e394f714ca7e175a7" parent="aspace_9e118d72a7030cc716e4cdc42b217a86" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_2bb804e8df5491ce968a630425e2e1c7" level="file">
           <did>
             <unittitle>Livingston Manor</unittitle>
             <unitdate normal="1938/1939" type="inclusive">1938-1939</unitdate>
-            <container id="aspace_f48efc3fe4d3272f4c1cb145f99db057" label="mixed materials" type="Box">1</container>
-            <container id="aspace_75fc398230eb6c1203269b771af82a4d" parent="aspace_f48efc3fe4d3272f4c1cb145f99db057" type="Folder">5</container>
+            <container id="aspace_b324e6ee090d068545c892768e28cbaa" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4a06509dd252df4ea8683fa9e1628149" parent="aspace_b324e6ee090d068545c892768e28cbaa" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_e4740d2b3cbfb5be3944cd91c184533c" level="file">
           <did>
             <unittitle>Marcia Burns</unittitle>
             <unitdate normal="1933/1934" type="inclusive">1933-1934</unitdate>
-            <container id="aspace_8a10060481f107186c1fcfb5eac67db8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_59ab4d4b460c11d0d8e9be08ecabd6fd" parent="aspace_8a10060481f107186c1fcfb5eac67db8" type="Folder">6</container>
+            <container id="aspace_3304a2bfe0e5ee46aa05f2695acfbb54" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_41db2308218d22e966bc0668a1963ec5" parent="aspace_3304a2bfe0e5ee46aa05f2695acfbb54" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_a46679995ec67235f60c7f164f718a0c" level="file">
           <did>
             <unittitle>Patriots' Memorial</unittitle>
             <unitdate normal="1933/1934" type="inclusive">1933-1934</unitdate>
-            <container id="aspace_9e5bc6bdb41f28f2428dc7324d28652e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f4072ab880d8245b81eda0650b38ae58" parent="aspace_9e5bc6bdb41f28f2428dc7324d28652e" type="Folder">7</container>
+            <container id="aspace_a9ff5ce4ddcf561946708564ffcc36ff" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8a42d58cdb37302b140cbdcc2b2363d1" parent="aspace_a9ff5ce4ddcf561946708564ffcc36ff" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_1d19fcf5cd0844ea120fec825ffb8a1f" level="file">
           <did>
             <unittitle>Patriots' Memorial</unittitle>
             <unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate>
-            <container id="aspace_dfc35ed5ab537fd2203fd9eca5981591" label="mixed materials" type="Box">1</container>
-            <container id="aspace_bfdd3e8eb5990dd7ec6b2c11db16e745" parent="aspace_dfc35ed5ab537fd2203fd9eca5981591" type="Folder">8</container>
+            <container id="aspace_5c688e8a45d1385a435820b7c35c37fe" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c0452986f769e413bd15f7ad9a291481" parent="aspace_5c688e8a45d1385a435820b7c35c37fe" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_61290c49efd6796eb1a9c1875bb7e60d" level="file">
           <did>
             <unittitle>Patriots' Memorial</unittitle>
             <unitdate normal="1948/1950" type="inclusive">1948-1950</unitdate>
-            <container id="aspace_419b9d7619f1b07c817fcf26b727c102" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3c64a8d30aeca560a493f13f72b28dc1" parent="aspace_419b9d7619f1b07c817fcf26b727c102" type="Folder">9</container>
+            <container id="aspace_63ea1312caa1ed9b5c048980bb5cec34" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9e2f137f80764c5017f4ecedb525cda7" parent="aspace_63ea1312caa1ed9b5c048980bb5cec34" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_e4b83ff776c9a1e8caea97c5ea6a7bb3" level="file">
           <did>
             <unittitle>Patriots' Memorial</unittitle>
             <unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate>
-            <container id="aspace_fc329f1a9e0806b470086a1fd310946a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_68a4816ed65535743bda9e5dcc232816" parent="aspace_fc329f1a9e0806b470086a1fd310946a" type="Folder">10</container>
+            <container id="aspace_8aee58bcc33a7189f3117c81b88e224f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_552cb178fd4b3cf895cbe375c1183907" parent="aspace_8aee58bcc33a7189f3117c81b88e224f" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_c5f8c1f04144d1cb76870db15fdd161b" level="file">
           <did>
             <unittitle>Patriots' Memorial</unittitle>
             <unitdate normal="1955/1957" type="inclusive">1955-1957</unitdate>
-            <container id="aspace_2e1ff2952222368f4fe1c46a32a7858a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ccffe6fd2e19a7ed7464c9728f0b3482" parent="aspace_2e1ff2952222368f4fe1c46a32a7858a" type="Folder">11</container>
+            <container id="aspace_f3b75e4ebc4ede4148ba304c7802b89b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_12195118e2867a9362162c154a468b6c" parent="aspace_f3b75e4ebc4ede4148ba304c7802b89b" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_c5175f74fa5d5a127aa902754137ff95" level="file">
           <did>
             <unittitle>State: District of Columbia</unittitle>
             <unitdate type="inclusive">1940-1941, 1941-1942</unitdate>
-            <container id="aspace_0a31e7f6912fe80136859f69674f4bc0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_61e2389b82b538827e4b011ca8691109" parent="aspace_0a31e7f6912fe80136859f69674f4bc0" type="Folder">12</container>
+            <container id="aspace_d8e4cc71c3805a0e2cf273388ef9c522" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0c0435c9722bb6de094d837d72eede3a" parent="aspace_d8e4cc71c3805a0e2cf273388ef9c522" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_bfb043ddb24814faa030c27a6d121064" level="file">
           <did>
             <unittitle>State: District of Columbia</unittitle>
             <unitdate type="inclusive">1942-1943, 1943-1944</unitdate>
-            <container id="aspace_fd23a0d11505d5d2beb7c9b57548204c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b1fcc48c4a6a16888fd05bcb29d48f76" parent="aspace_fd23a0d11505d5d2beb7c9b57548204c" type="Folder">13</container>
+            <container id="aspace_328d43c1fcccb4dc952467821be5bfa7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_92504fea8d7a1e2b12f0b57da6065849" parent="aspace_328d43c1fcccb4dc952467821be5bfa7" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_6e4609be2cf71c41c44615c99e460327" level="file">
           <did>
             <unittitle>State: District of Columbia</unittitle>
             <unitdate type="inclusive">1944-1945, 1945-1946</unitdate>
-            <container id="aspace_aa1342ad8738077e419cd6b7c2f981ee" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0438dc951d5916e172be9d082bb1ff3f" parent="aspace_aa1342ad8738077e419cd6b7c2f981ee" type="Folder">14</container>
+            <container id="aspace_540cc2fe73bfa220fd74d5f1d1b9d48b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_602c6675ca2d5162d6c91a7bb337861a" parent="aspace_540cc2fe73bfa220fd74d5f1d1b9d48b" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_39352edb7bf8be97c5d8890c53b2c1d6" level="file">
           <did>
             <unittitle>State: District of Columbia</unittitle>
             <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate>
-            <container id="aspace_0a61526dff224e40d18f49e05f96da9d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_522d1a4078acad630405aaeaa033ed5a" parent="aspace_0a61526dff224e40d18f49e05f96da9d" type="Folder">15</container>
+            <container id="aspace_87c7036e401f5d482e528817bf434d96" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9762b4b748dc45fa1839665b0e07b9a0" parent="aspace_87c7036e401f5d482e528817bf434d96" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_d464a2945c6b0146cb77553a258fe847" level="file">
           <did>
             <unittitle>State: District of Columbia</unittitle>
             <unitdate type="inclusive">1948-1949, 1949-1950</unitdate>
-            <container id="aspace_a25811ce36d96df0a7ceef0e4989de1d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f7a3e05d939c3148229b677fe801405c" parent="aspace_a25811ce36d96df0a7ceef0e4989de1d" type="Folder">16</container>
+            <container id="aspace_3c6dc6c61c8429acd1936cf7caceeaa3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7631becc763e2bf69e8984fcbc38a217" parent="aspace_3c6dc6c61c8429acd1936cf7caceeaa3" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_9689c65bdbf8ee10e2be95e74aed8aad" level="file">
           <did>
             <unittitle>State: District of Columbia</unittitle>
             <unitdate type="inclusive">1950-1951, 1951-1952</unitdate>
-            <container id="aspace_c1a377dfc0f97778358f5d8c7e6abd99" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9c19843c36ab1b2c03c1ef909464d01e" parent="aspace_c1a377dfc0f97778358f5d8c7e6abd99" type="Folder">17</container>
+            <container id="aspace_58d55f17ed34f29e081b0d685922e371" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_45da768b1460bca2452e9a8cee6cf1b7" parent="aspace_58d55f17ed34f29e081b0d685922e371" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_1f3ec7bbd5909fdbeeb73360c6a6ce6d" level="file">
           <did>
             <unittitle>State: District of Columbia</unittitle>
             <unitdate type="inclusive">1952-1953, 1953-1954</unitdate>
-            <container id="aspace_ec917b35d68d64e36c9ba409bad69f86" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e2300c7be1986df164ba487bceba55b5" parent="aspace_ec917b35d68d64e36c9ba409bad69f86" type="Folder">18</container>
+            <container id="aspace_eb5def67c444da4220e5932786bed1c7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_125b1b824001d86315b82e65e3f1b292" parent="aspace_eb5def67c444da4220e5932786bed1c7" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_295088ca56f1cc93f496abb8c88b682f" level="file">
           <did>
             <unittitle>State: District of Columbia</unittitle>
             <unitdate type="inclusive">1954-1955, 1955-1956</unitdate>
-            <container id="aspace_69f877ace9e55609ede7f388ae6054d8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_107a9d9108a0fb350bf03cfa06492f07" parent="aspace_69f877ace9e55609ede7f388ae6054d8" type="Folder">19</container>
+            <container id="aspace_e63541c237c0ab12c03ec125a1859a2d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_69ad7665de0906f232fdf86d636e3334" parent="aspace_e63541c237c0ab12c03ec125a1859a2d" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_5250344a677be7acccc1354eaf1e1854" level="file">
           <did>
             <unittitle>State: District of Columbia</unittitle>
             <unitdate type="inclusive">1956-1957, 1957-1958</unitdate>
-            <container id="aspace_804bd02e766e332c5fad2e25e6c8c354" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e2ef74293771f463bfcc9bbd22c76d4c" parent="aspace_804bd02e766e332c5fad2e25e6c8c354" type="Folder">20</container>
+            <container id="aspace_d28835d00fc43485496da6015132aa23" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4341cd8ffc7155bdcd44e579273b6c77" parent="aspace_d28835d00fc43485496da6015132aa23" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_de3c6edc22cbd2030c274ec503f3164b" level="file">
           <did>
             <unittitle>State: District of Columbia</unittitle>
             <unitdate type="inclusive">1958-1959, 1959-1960</unitdate>
-            <container id="aspace_3fd12384f58a48b91a066ee92aaa2d7b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_dc5b3a02c5bca66dd6e765866510f239" parent="aspace_3fd12384f58a48b91a066ee92aaa2d7b" type="Folder">21</container>
+            <container id="aspace_cdfc1878188ecb2b3bb20753d4c10c8a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f7820b43860a51dad47b3dc409df0954" parent="aspace_cdfc1878188ecb2b3bb20753d4c10c8a" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_0a72fd12ff7451c7d29c2f5a7dd7cd61" level="file">
           <did>
             <unittitle>State: District of Columbia</unittitle>
             <unitdate type="inclusive">1960-1961, 1961-1962</unitdate>
-            <container id="aspace_6126c8239fb5c9ae71ab873dadded897" label="mixed materials" type="Box">1</container>
-            <container id="aspace_79415cb49acd2e6837fcddb403ec44f0" parent="aspace_6126c8239fb5c9ae71ab873dadded897" type="Folder">22</container>
+            <container id="aspace_00361fb77fb92313e9eb4f23ed682198" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4e74e2e068841b9197393a5bf5e31908" parent="aspace_00361fb77fb92313e9eb4f23ed682198" type="Folder">22</container>
           </did>
         </c>
       </c>

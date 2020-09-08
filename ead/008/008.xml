@@ -4,22 +4,36 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Kane (Edward A.) Papers</titleproper>
-        <titleproper>Edward A. Kane <num>008</num> <num>008</num></titleproper>
+        <titleproper>Edward A. Kane <num>008</num></titleproper>
         <subtitle>An inventory of Edward A. Kane at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
+      <editionstmt>
+        <p>Revised 2019-09.</p>
+      </editionstmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:00:34 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:27:23 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2019-09-23</date>
+        <item>Finding aid edited to be more evergreen. </item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,159 +41,301 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Edward A. Kane Papers</unittitle>
+      <origination label="creator">
+        <persname source="local">Kane, Edward A.</persname>
+      </origination>
       <unitid>008</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.75 linear feet; 2 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">2 Boxes</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.75 Linear feet</extent>
       </physdesc>
       <unitdate normal="1953/1979" type="inclusive">1953-1979</unitdate>
-      <langmaterial id="aspace_23190dcbd1da46ed7f6d609dc98c982b">English</langmaterial>
       <langmaterial id="aspace_ded76a42f2d253d880df7d29909a77bd">English</langmaterial>
     </did>
-    <custodhist id="aspace_3beb1b8f21038ec6a37eafd5c34fd434">
-      <head>Custodial History</head>
-      <p>The records consist primarily of the N.E. Council of Citizens Associations donated by Edward Kane in 1988. Dr. and Mrs. Edward A. Kane were active in leadership positions in the Northeast Council of Citizens' Association and the Health Committee of the D.C. Federation of Citizens' Association.</p>
-    </custodhist>
+    <acqinfo id="aspace_3beb1b8f21038ec6a37eafd5c34fd434">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Dr. Edward A. Kane and Mrs. Mary Kane in 1988.</p>
+    </acqinfo>
+    <arrangement id="aspace_8eb46f0d75c2385fe54b791a9aa25f9f">
+      <head>Arrangement</head>
+      <p>Federation of Citizens Associations<br/>
+Michigan Park Citizens Association<br/>
+National Gateway Citizens' Association<br/>
+Northeast Council of Citizens' Association<br/>
+Woodridge-Michigan Park News<br/>
+Photograph</p>
+    </arrangement>
+    <bioghist id="aspace_059f3c7c51b37cd0271c90cca443eb25">
+      <head>Biographical / Historical</head>
+      <p>Dr. Edward A. Kane (1902-1998) was born in Massachusetts and arrived in D.C. in 1924. Kane attended the University of Massachusetts, earned a Masters in chemistry from Catholic University, and a doctorate in biochemistry from Georgetown University. Kane worked for the Department of Agriculture in the Agriculture Research Service for 38 years, retiring in 1965. Kane served in the Army Air Corps during World War II; and then in the Air Force Reserves, retiring as a colonel in 1965.</p>
+      <p>Mary (Kerwin) Kane (1907-1993) was born in Silver Lake, Wisconsin and arrived in D.C. in 1923. She attended George Washington University and was  a secretary for Representative Hamer Harold Budge (R-Idaho), Senator Frank J. Lausche (D-Ohio), and Senator/Vice President Walter Mondale (D- Minn.. She retired in 1979. </p>
+      <p>The Kane's were married in 1935 and had three children. They were active members of the Health Committee of the Federation of Citizens Association, the Michigan Park Citizens Association, the National Gateway Citizens' Association, and the Northeast Council of Citizens' Association. Dr. Kane served as Chairman of the Health Committee and Mrs. Kane served as President of the Michigan Park Citizens Association and the Northeast Council of Citizens Associations. In 1968 Dr. Kane was the recipient of the Washington Star award from the Federation of Citizens Associations for his community work.</p>
+    </bioghist>
+    <processinfo id="aspace_a713e77d41d0f9bc8c56921b63974fc5">
+      <head>Processing Information</head>
+      <p>Standard archival processing procedures were applied to the collection when it was processed.</p>
+    </processinfo>
     <scopecontent id="aspace_648318f27a75349ef99242702aad68a0">
       <head>Scope and Contents</head>
-      <p>The collection contains some correspondence, including a few letters from U.S. Presidents, clippings, photographs, booklets, programs, and other memorabilia from the Commission</p>
+      <p>The papers include correspondence, meeting minutes, newsletters, reports, resolutions, and membership lists from the Federation of Citizens Associations, the Michigan Park Citizens Association, the National Gateway Citizens' Association, and the Northeast Council of Citizens' Association. The papers also contain newspaper clippings and a photograph of Dr. Kane as a young man. The collection is arranged by Association or Organization name.</p>
     </scopecontent>
+    <userestrict id="aspace_bafed6aa4b4ec6d98721996521b881c3">
+      <head>Conditions Governing Use</head>
+      <p>No restrictions.</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026199" source="Library of Congress Subject Headings">Citizens' Associations</subject>
+      <genreform source="material_type">Organizational Records</genreform>
+      <genreform authfilenumber="http://id.loc.gov/authorities/genreForms/gf2014026128" source="Library of Congress Subject Headings">Minutes (Records)</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85091572" source="lcsh">Newsletters</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99001943" source="Library of Congress Subject Headings">Correspondence</subject>
+      <geogname source="ingest">Michigan Park (Washington, D.C.)</geogname>
     </controlaccess>
     <dsc>
-      <c id="aspace_20355bc5dbffe87a36d39c2596ca8e42" level="series">
+      <c id="aspace_4f614b7da7fc1a641628ca014c968d44" level="series">
         <did>
-          <unittitle>Series 1</unittitle>
+          <unittitle>Federation of Citizens Association</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+            <extent altrender="carrier">2 boxes</extent>
+          </physdesc>
+          <unitdate normal="1950/1989" type="inclusive">1950-1989</unitdate>
+          <container id="aspace_6e6e86d9419347775de8635f197733c6" label="Mixed Materials" type="Box">1</container>
         </did>
-        <c id="aspace_93a72f0bdbe603e69922368d61dfddf3" level="file">
+        <c id="aspace_d667c1fbdd45ed8eb60612de483c7232" level="file">
           <did>
-            <unittitle>Federation of Citizens Association newsletter</unittitle>
+            <unittitle>Newsletter</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
             <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
-            <container id="aspace_5d4e568f70874e4094dcc4c8c2398187" label="mixed materials" type="Box">1</container>
-            <container id="aspace_46615db5fb0998dda1236d1e066f8233" parent="aspace_5d4e568f70874e4094dcc4c8c2398187" type="Folder">1</container>
+            <container id="aspace_8114847aabca89eade7442e9d7a2b47c" label="Mixed Materials" type="folder">1</container>
           </did>
         </c>
-        <c id="aspace_3b1b5a8c5f7f73f3ef99cb053345d374" level="file">
+        <c id="aspace_8aec51f429f2e5ca8f8f86a5c901eb54" level="file">
           <did>
-            <unittitle>Federation of Citizens Association - Health Committee</unittitle>
+            <unittitle>Federation of Citizens Association, Health Committee</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
             <unitdate normal="1950/1989" type="inclusive">1950-1989</unitdate>
-            <container id="aspace_fb723b928fdb1ac04905b6bc7f4f3800" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4862f939c2c0ea4c8704cf64afa83da9" parent="aspace_fb723b928fdb1ac04905b6bc7f4f3800" type="Folder">2</container>
+            <container id="aspace_42bcd6da797708afd2c92af3bf82c126" label="Mixed Materials" type="folder">2</container>
           </did>
         </c>
-        <c id="aspace_b38ae7f3c73b441f46207312db929c1d" level="file">
+      </c>
+      <c id="aspace_0cefb77379a00b5ec47d8349b97d0a4d" level="series">
+        <did>
+          <unittitle>Michigan Park Citizens Association</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+            <extent altrender="carrier">2 boxes</extent>
+          </physdesc>
+          <unitdate normal="1955/1985" type="inclusive">1955-1985</unitdate>
+          <container id="aspace_e0faa379ed3c0e54607b0d05cda585fe" label="Mixed Materials" type="Box">1</container>
+        </did>
+        <c id="aspace_ad625f3784ebbc17c00f6ac2d17ba322" level="file">
           <did>
-            <unittitle>Michigan Park Citizens Association - Constitution</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_2b5ace276cd15fbfb9e49ba9e0258087" label="mixed materials" type="Box">1</container>
-            <container id="aspace_bb76d916de38e23513a035aa471eb786" parent="aspace_2b5ace276cd15fbfb9e49ba9e0258087" type="Folder">3</container>
+            <unittitle>Constitution, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
+            <container id="aspace_7eeb55364492f5fda2f123c315af8a1b" label="Mixed Materials" type="folder">3</container>
           </did>
         </c>
-        <c id="aspace_259812992ae419c8c0cd6e52ac893d3c" level="file">
+        <c id="aspace_aeef9a7011d740cbd157e215f123562f" level="file">
           <did>
-            <unittitle>Michigan Park Citizens Association - Membership list</unittitle>
+            <unittitle>Membership list</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
             <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
-            <container id="aspace_17f98dafd05adc13108bf153b1c2eb29" label="mixed materials" type="Box">1</container>
-            <container id="aspace_6b363988aab096084f11d8ffe3f4fed7" parent="aspace_17f98dafd05adc13108bf153b1c2eb29" type="Folder">4</container>
+            <container id="aspace_0529996d348346167139ab200d66f41a" label="Mixed Materials" type="folder">4</container>
           </did>
         </c>
-        <c id="aspace_4fd15db06635f5e78956c6ad45795f08" level="file">
+        <c id="aspace_1b894e072b365d630ca0a090d782009c" level="file">
           <did>
-            <unittitle>Michigan Park Citizens Association - Meeting minutes</unittitle>
+            <unittitle>Meeting minutes</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
             <unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate>
-            <container id="aspace_d59b8aada7a0acfa2482f5926ff29641" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c9c3377dccc16068ff8c2dad452e20e3" parent="aspace_d59b8aada7a0acfa2482f5926ff29641" type="Folder">5</container>
+            <container id="aspace_4664bb4e0ca1846266e8d9e0f0a04119" label="Mixed Materials" type="folder">5</container>
           </did>
         </c>
-        <c id="aspace_f1f9ff2d39a018c679c2741e14d533dd" level="file">
+        <c id="aspace_94a1e25c79ebeb7c31803c54625914db" level="file">
           <did>
-            <unittitle>Michigan Park Citizens Association - Newsletters</unittitle>
+            <unittitle>Newsletters</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
             <unitdate normal="1980/1985" type="inclusive">1980-1985</unitdate>
-            <container id="aspace_95ba3f71b793081943ee05e386238941" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7ff1f6c825a405cb05dce666933986f8" parent="aspace_95ba3f71b793081943ee05e386238941" type="Folder">6</container>
+            <container id="aspace_3882d7daa470625bdc3bac5342fdd28b" label="Mixed Materials" type="folder">6</container>
           </did>
         </c>
-        <c id="aspace_ad545d35137a05e2ad55ecb0c56ae2cb" level="file">
+        <c id="aspace_bb582a83ab5498527891654480bdee98" level="file">
           <did>
-            <unittitle>Michigan Park Citizens Association - General</unittitle>
+            <unittitle>General</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
             <unitdate normal="1955/1985" type="inclusive">1955-1985</unitdate>
-            <container id="aspace_0e88f66714fb342e7f2999072bcf4547" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c11cfdd76f2e7a51935f27546ac27ede" parent="aspace_0e88f66714fb342e7f2999072bcf4547" type="Folder">7</container>
+            <container id="aspace_98cd24a8e7b0c9ce1bb9ab83948c23ba" label="Mixed Materials" type="folder">7</container>
           </did>
         </c>
-        <c id="aspace_3e67bbd3ddd15d7fe6d8c0e954096467" level="file">
+      </c>
+      <c id="aspace_e3aae0594ac165ad46342727827f2d6b" level="series">
+        <did>
+          <unittitle>National Gateway Citizens' Association</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+            <extent altrender="carrier">2 boxes</extent>
+          </physdesc>
+          <unitdate normal="1955/1955">1955</unitdate>
+          <container id="aspace_2395ca8c067318d31aa5bb40cdce03aa" label="Mixed Materials" type="Box">1</container>
+        </did>
+        <c id="aspace_6142f2f540617bd4f22186eb08b47539" level="file">
           <did>
-            <unittitle>National Gateway Citizens Association</unittitle>
-            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
-            <container id="aspace_f95eef433de2a9b1f40175bcddf34526" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3e912e4a0c436be34130b8837bcd2636" parent="aspace_f95eef433de2a9b1f40175bcddf34526" type="Folder">8</container>
+            <unittitle>National Gateway Citizens' Association</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
+            <unitdate normal="1955/1955">1955</unitdate>
+            <container id="aspace_ff0caeb2c2cbe29e4263a33ad57cf5b7" label="Mixed Materials" type="folder">8</container>
           </did>
         </c>
-        <c id="aspace_3d3f2343a5c5694da14aea95c06b1eba" level="file">
+      </c>
+      <c id="aspace_74e70f40e739c7d0debb8351ca3adc5b" level="series">
+        <did>
+          <unittitle>Northeast Council of Citizens' Association</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+            <extent altrender="carrier">2 boxes</extent>
+          </physdesc>
+          <unitdate normal="1955/1966" type="inclusive">1955-1966</unitdate>
+          <container id="aspace_f1220370bc2fadf21cda820c21861045" label="Mixed Materials" type="box">1-2</container>
+        </did>
+        <c id="aspace_cfb8768c3d0e4ca7928f7fda7aeef025" level="file">
           <did>
-            <unittitle>Northeast Council - Correspondence</unittitle>
+            <unittitle>Correspondence</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
             <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
-            <container id="aspace_5ee7e3ba68f3fc8d528b009efacded1d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9b44acacd736dc22c0ce600d427de995" parent="aspace_5ee7e3ba68f3fc8d528b009efacded1d" type="Folder">9</container>
+            <container id="aspace_53d366bb215dfd03e557d15fbde36cd2" label="Mixed Materials" type="folder">9</container>
           </did>
         </c>
-        <c id="aspace_cd82ac9fae7010d3274e32e734e83c9f" level="file">
+        <c id="aspace_109b06a6f448e785bd23537c7062d884" level="file">
           <did>
-            <unittitle>Northeast Council - Correspondence</unittitle>
-            <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
-            <container id="aspace_e6ba09919b0aec32e96929e4263364da" label="mixed materials" type="Box">2</container>
-            <container id="aspace_23413907ed30e1afe1f8381eaf4961d8" parent="aspace_e6ba09919b0aec32e96929e4263364da" type="Folder">1</container>
+            <unittitle>Correspondence</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
+            <unitdate normal="1956/1956">1956</unitdate>
+            <container id="aspace_93517c8971086e7c1c68c1e25e0595dc" label="Mixed Materials" type="folder">1</container>
           </did>
         </c>
-        <c id="aspace_45354ea175c1db07f572624c02fc2686" level="file">
+        <c id="aspace_cd575492b8756f9929ca28d5c36df412" level="file">
           <did>
-            <unittitle>Northeast Council - Minutes</unittitle>
+            <unittitle>Minutes</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
             <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
-            <container id="aspace_32a53aa1428060e2cb08bb17d5d601b8" label="mixed materials" type="Box">2</container>
-            <container id="aspace_31bcecf58940eea90f83107502f834f3" parent="aspace_32a53aa1428060e2cb08bb17d5d601b8" type="Folder">2</container>
+            <container id="aspace_63029f7d325ee1bda58f6fad76b3dc85" label="Mixed Materials" type="folder">2</container>
           </did>
         </c>
-        <c id="aspace_8ff8a9de0c768c55ead2a252eab5a967" level="file">
+        <c id="aspace_58beba11efc67595a06fce4df030e869" level="file">
           <did>
-            <unittitle>Northeast Council - Newsletter</unittitle>
-            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
-            <container id="aspace_c2c923a7db6592aa9176d004bc172dea" label="mixed materials" type="Box">2</container>
-            <container id="aspace_b3bd4209df9c771524b54e0db7947087" parent="aspace_c2c923a7db6592aa9176d004bc172dea" type="Folder">3</container>
+            <unittitle>Newsletter</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
+            <unitdate normal="1955/1955">1955</unitdate>
+            <container id="aspace_b8f1a9648078b6657e489308b2b9571d" label="Mixed Materials" type="folder">3</container>
           </did>
         </c>
-        <c id="aspace_8f227a874c587affb8f6270bbf93471f" level="file">
+        <c id="aspace_4a7309087c81f165652e92e4602ec30c" level="file">
           <did>
-            <unittitle>Northeast Council - Clippings</unittitle>
+            <unittitle>Clippings</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
             <unitdate normal="1950/1960" type="inclusive">1950-1960</unitdate>
-            <container id="aspace_1d6162d7c3b80f31ef678ea63c4aa97e" label="mixed materials" type="Box">2</container>
-            <container id="aspace_ab64c5bc675417eb858ae7f85d43f0b8" parent="aspace_1d6162d7c3b80f31ef678ea63c4aa97e" type="Folder">4</container>
+            <container id="aspace_7ebf1e3b0658cbe080972b87ba8deb51" label="Mixed Materials" type="folder">4</container>
           </did>
         </c>
-        <c id="aspace_392403e0628a0b0fe5dc4542974be773" level="file">
+        <c id="aspace_2e47e6d533d8887eee10d79dde340cc8" level="file">
           <did>
-            <unittitle>Northeast Council - General</unittitle>
+            <unittitle>General</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
             <unitdate normal="1953/1966" type="inclusive">1953-1966</unitdate>
-            <container id="aspace_96907ead3d40df8964aaf7b73849c17b" label="mixed materials" type="Box">2</container>
-            <container id="aspace_5e37ebd7e695be737886740c2729bbe6" parent="aspace_96907ead3d40df8964aaf7b73849c17b" type="Folder">5</container>
+            <container id="aspace_700a2ee7164957418dd9832ca1d48398" label="Mixed Materials" type="folder">5</container>
           </did>
         </c>
-        <c id="aspace_3381d6c93a99b0e299b87d6997980071" level="file">
+      </c>
+      <c id="aspace_471d0094a48683af2c29a0fe2d8ce024" level="series">
+        <did>
+          <unittitle>Michigan Park Citizens Association</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+            <extent altrender="carrier">2 boxes</extent>
+          </physdesc>
+          <unitdate normal="1961/1961">1961</unitdate>
+          <container id="aspace_7b3b961aac9fecb90893b598f708b58f" label="Mixed Materials" type="Box">2</container>
+        </did>
+        <c id="aspace_0ad39c5d32bd0a56dabcee963759301f" level="file">
           <did>
-            <unittitle>Woodridge Michigan Park News</unittitle>
-            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container id="aspace_1b2d24fd5df6d30c13017f1639bbd18b" label="mixed materials" type="Box">2</container>
-            <container id="aspace_4cb675dfc3312f890437021cb7c4fff7" parent="aspace_1b2d24fd5df6d30c13017f1639bbd18b" type="Folder">6</container>
+            <unittitle>Woodridge-Michigan Park News</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
+            <unitdate normal="1961/1961">1961</unitdate>
+            <container id="aspace_fba61481c52352ae4d487425fbe0e2e5" label="Mixed Materials" type="folder">6</container>
           </did>
         </c>
-        <c id="aspace_7d06b22d3d7a2de247b4d6bc35be7875" level="file">
+      </c>
+      <c id="aspace_a2fada64de1af4f12684ab259ca84f25" level="series">
+        <did>
+          <unittitle>Photograph</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+            <extent altrender="carrier">2 boxes</extent>
+          </physdesc>
+          <unitdate normal="1958/1958">1958</unitdate>
+          <container id="aspace_814cde85366ab89ae0877ffded6fb6ea" label="Mixed Materials" type="Box">2</container>
+        </did>
+        <c id="aspace_ffa00ead59f4275e5c3b5a1b7012e74a" level="file">
           <did>
-            <unittitle>Photograph - Dr. Kane</unittitle>
-            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
-            <container id="aspace_317b3b6b20df85e9f2ffa083f6a42843" label="mixed materials" type="Box">2</container>
-            <container id="aspace_22db00983c8f26e4d86050f16fbcfa09" parent="aspace_317b3b6b20df85e9f2ffa083f6a42843" type="Folder">7</container>
+            <unittitle>Dr. Edward A. Kane</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+              <extent altrender="carrier">2 boxes</extent>
+            </physdesc>
+            <unitdate normal="1958-04-16/1958-04-16">1958-04-16</unitdate>
+            <container id="aspace_d4ea573bfed0ff5e46b16d84d97ed6ff" label="Mixed Materials" type="folder">7</container>
           </did>
         </c>
       </c>

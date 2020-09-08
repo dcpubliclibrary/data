@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Society of Washington Artists Collection</titleproper>
-        <titleproper>Society of Washington Artists <num>058</num> <num>058</num></titleproper>
+        <titleproper>Society of Washington Artists <num>058</num></titleproper>
         <subtitle>An inventory of Society of Washington Artists at DC Public Library</subtitle>
         <author>Finding aid prepared by Ryan P. Semmes.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-03</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:06:07 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:33:17 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-6-29</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,29 +38,61 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Society of Washington Artists Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n99030414" source="LCSH">Society of Washington Artists (Washington, D.C.)</corpname>
+      </origination>
       <unitid>058</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2 linear feet; 3 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">2 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Boxes</extent>
       </physdesc>
       <unitdate normal="1890/1966" type="inclusive">1890-1966</unitdate>
-      <langmaterial id="aspace_d94ee289d3cfa4cd961f4c8eea81d22d">English</langmaterial>
       <langmaterial id="aspace_a9bc6331a8767b088cca81f8ffba2993">English</langmaterial>
     </did>
+    <arrangement id="aspace_076dba690bf0cd357fd4ea07aa32cd15">
+      <head>Arrangement</head>
+      <p>Series I: Administrative Files<br/>
+This series contains the administrative files of the Society of Washington Artists. Items in this series include: correspondence, Constitution and By-laws, meeting minutes, programs, and newspaper clippings. These items are arranged in this series alphabetically. A bound volume of meeting minutes is housed in a separate box.<br/>
+<br/>
+Series 2: Exhibition Catalogues<br/>
+This series contains the Exhibition Catalogues annually published by the Society of Washington Artists. These catalogues showcase the works of art on display at the Society's annual Exhibition. The dates range from 1891-1963 with a few years missing. The items in this series are arranged chronologically.</p>
+    </arrangement>
     <bioghist id="aspace_64f16d0b8121e9cb8684b047078918e2">
       <head>Biographical / Historical</head>
-      <p>The Society of Washington Artists was founded in 1892 as an organization meant to support the arts and artists in the city of Washington. The Society put on an annual exhibition of artwork and gave out an award in conjunction with the newspaper the Washington Star. Notable members include: Everett Warner, Frederick Carl Smith, Susan Brown Chase, Garnet Jex, Heinz Warneke, Ruth A. Anderson, William Henry Holmes (President), Elanor Parke Custis, Louis Amateis, and Alexis Many. The Society ceased operations in the late 1960s.</p>
+      <p>The Society of Washington Artists was founded in 1892 as an organization meant to support the arts and artists in the city of Washington, D.C. The Society put on an annual exhibition of artwork and gave out an award in conjunction with the newspaper The Washington Star. Notable members include: Everett Warner, Frederick Carl Smith, Susan Brown Chase, Garnet Jex, Heinz Warneke, Ruth A. Anderson, William Henry Holmes (President), Elanor Parke Custis, Louis Amateis, and Alexis Many. The Society ceased operations in the late 1960s.</p>
     </bioghist>
     <custodhist id="aspace_caec2b880e0fafbd7b290fe0962cfc6d">
       <head>Custodial History</head>
-      <p>The collection was originally filed in the Washingtoniana Division Vertical File Collection and on the shelf in the Reference Room. Because of the unique nature of the materials and the amount of materials available, it was decided that a collection should be created out of the materials.</p>
+      <p>The materials in this collection reflect the administrative duties of the management of the The Society of Washington Artists. Materials include: correspondence, programs, meeting minutes (including one bound volume of minutes), the official Society Seal, and exhibition catalogues. Also included in this collection are photocopies of many of the materials. Some of the copies do not have corresponding original documents in this collection. The location of these originals is unknown.</p>
     </custodhist>
+    <custodhist id="aspace_1c87033d2691539ed845327ddbea7021">
+      <head>Custodial History</head>
+      <p>The collection was originally filed in the Library Vertical File Collection and on the shelf in the Reference Room. Because of the unique nature of the materials and the amount of materials available, it was decided that a collection should be created out of the materials.</p>
+    </custodhist>
+    <processinfo id="aspace_12ac6680dcd91327f3a71356eb6d39ee">
+      <head>Processing Information</head>
+      <p>Standard archival processing procedures were applied at the time of processing</p>
+    </processinfo>
+    <relatedmaterial id="aspace_4a3fa8d6c7f034f113d4bceb8b571d0f">
+      <head>Related Materials</head>
+      <p>Smithsonian Institution Archives of American Art. Society of Washington Artists records, 1897-1967. OCLC Number 1030334477.</p>
+    </relatedmaterial>
     <scopecontent id="aspace_f89bd02fa6ea5815e01ebdd5ff375b36">
       <head>Scope and Contents</head>
-      <p>The materials in this collection reflect the administrative duties of the management of the Society. Materials include: correspondence, programs, meeting minutes (including one bound volume of minutes), the official Society Seal, and exhibition catalogues. Also included in this collection are photocopies of many of the materials. Some of the copies do not have corresponding original documents in this collection. The whereabouts of these originals is unknown.</p>
+      <p>The materials in this collection reflect the administrative duties of the management of the The Society of Washington Artists. Materials include: correspondence, programs, meeting minutes (including one bound volume of minutes), the official Society Seal, and exhibition catalogues. Also included in this collection are photocopies of many of the materials. Some of the copies do not have corresponding original documents in this collection. The location of these originals is unknown.</p>
     </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
+      <genreform source="material_type">Organizational Records</genreform>
+      <genreform authfilenumber="http://id.loc.gov/authorities/genreForms/gf2014026128" source="Library of Congress Subject Headings">Minutes (Records)</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008324" source="Library of Congress Subject Headings">Arts</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008276" source="Library of Congress Subject Headings">Artists</subject>
+    </controlaccess>
     <dsc>
       <c id="aspace_cb6c752b2d983a889a1c577b472ad013" level="series">
         <did>
@@ -57,230 +100,230 @@
         </did>
         <scopecontent id="aspace_af385d3725db9c48b1dee7bc61bda84a">
           <head>Scope and Contents</head>
-          <p>This series contains the administrative files of the Society of Washington Artists. Items in this series include: correspondence, Constitution and By-laws, meeting minutes, programs, and newspaper clippings. These items are arranged in this series alphabetically. A bound volume of meeting minutes is housed in a separate box.</p>
+          <p>This series contains the administrative files of the Society of Washington Artists.  Items in this series include: correspondence, Constitution and By-laws, meeting minutes, programs, and newspaper clippings.  These items are arranged in this series alphabetically.  A bound volume of meeting minutes is housed in a separate box.</p>
         </scopecontent>
         <c id="aspace_f2491c744f779af89b7e5b091e16c3ff" level="file">
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1895/1959" type="inclusive">1895-1959</unitdate>
-            <container id="aspace_7a77cf226d14a5dfee1a17bfa33ec0b3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b695a881ab9023cc1e8e8c6430c0271b" parent="aspace_7a77cf226d14a5dfee1a17bfa33ec0b3" type="Folder">1</container>
+            <container id="aspace_cb38e5085dcafbf86ba7b5e04063043a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1b866db1f1506c8d637dfdf1a45e7edb" parent="aspace_cb38e5085dcafbf86ba7b5e04063043a" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_5022734e870775434ba6d73a7287bfe5" level="file">
           <did>
             <unittitle>Constitution and By-laws</unittitle>
             <unitdate normal="1920/1929" type="inclusive">1920-1929</unitdate>
-            <container id="aspace_b4552d9132cd65d16300ef9e0a1d5535" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ef09a277694d335132e972191a78b5da" parent="aspace_b4552d9132cd65d16300ef9e0a1d5535" type="Folder">2</container>
+            <container id="aspace_0d96d81050a4007f545456d229ab2786" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1e9f805890fc11bb1582b13e9a3e6691" parent="aspace_0d96d81050a4007f545456d229ab2786" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_95ad7f6a3c6a49dd1dc74a2cbedef9ee" level="file">
           <did>
             <unittitle>Contests and Awards (1 of 2)</unittitle>
             <unitdate normal="1925/1963" type="inclusive">1925-1963</unitdate>
-            <container id="aspace_9dc5ebdcbf9aff97f3037907797ed542" label="mixed materials" type="Box">1</container>
-            <container id="aspace_bde72af5db5fd62d39b0a4eac7c96a94" parent="aspace_9dc5ebdcbf9aff97f3037907797ed542" type="Folder">3</container>
+            <container id="aspace_3a881013468ddb3b74592f38ea738954" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8741bd9b07189cd2dbe136abba1a2552" parent="aspace_3a881013468ddb3b74592f38ea738954" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ed41bb40d359e7e1a22f4917bfa3f3bc" level="file">
           <did>
             <unittitle>Contests and Awards (2 of 2)</unittitle>
             <unitdate normal="1925/1963" type="inclusive">1925-1963</unitdate>
-            <container id="aspace_d3c84c6df8e7534e08e254af314848f5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3836ecc4b3b76281dd169223f8d62345" parent="aspace_d3c84c6df8e7534e08e254af314848f5" type="Folder">4</container>
+            <container id="aspace_664ba235c364ae93dd531b37a2e18e99" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_eeb78e33ae3332c46d4c95c0ffcd5a84" parent="aspace_664ba235c364ae93dd531b37a2e18e99" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_7ddf8a747b8c07b816907771849a0900" level="file">
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_4d712a69b4b2f50bf25f4c0be9834623" label="mixed materials" type="Box">1</container>
-            <container id="aspace_355d8183fc7dd17ce92118777d73b8d5" parent="aspace_4d712a69b4b2f50bf25f4c0be9834623" type="Folder">5</container>
+            <container id="aspace_8064d344a09b0a1fced9ad2b54c4dcf5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bd038e362c498980df337e315e6a804c" parent="aspace_8064d344a09b0a1fced9ad2b54c4dcf5" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_c8ff9f84a95ff213924f6d6def740421" level="file">
           <did>
             <unittitle>Art Situation Commission</unittitle>
             <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
-            <container id="aspace_8094bcca3a5bfb1121f396c67de5a6b8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_17e771f2eeebf290a538a74fa848e65c" parent="aspace_8094bcca3a5bfb1121f396c67de5a6b8" type="Folder">6</container>
+            <container id="aspace_7d7ff75d3054c8983fed500a5c523568" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5bc394a26dd77b000e97c58d24f7ac09" parent="aspace_7d7ff75d3054c8983fed500a5c523568" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_90cba1d69a4862a3488f836ae6d29fb9" level="file">
           <did>
             <unittitle>Corcoran Gallery (1 of 2)</unittitle>
             <unitdate normal="1921/1932" type="inclusive">1921-1932</unitdate>
-            <container id="aspace_7463665c5e2cea9d30b369271fd760e7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c27e4af8b4e4996d0a232c12949e0d0c" parent="aspace_7463665c5e2cea9d30b369271fd760e7" type="Folder">7</container>
+            <container id="aspace_295d72494480461559ffe50c2181c23c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_635287bfab1180ac0c6bb2109792fb7d" parent="aspace_295d72494480461559ffe50c2181c23c" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_1358e4b97481b48539d3e8e91a230a4a" level="file">
           <did>
             <unittitle>Corcoran Gallery (copies) (2 of 2)</unittitle>
             <unitdate normal="1921/1932" type="inclusive">1921-1932</unitdate>
-            <container id="aspace_15b976dfc72364ee4e77ed015c5848d3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2e56adeae03f85c66c15cbf8f6b899b5" parent="aspace_15b976dfc72364ee4e77ed015c5848d3" type="Folder">8</container>
+            <container id="aspace_f4b075ef3e9768b3456d29eed938d651" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9771dbad315531b6b9455a6237c2eb3c" parent="aspace_f4b075ef3e9768b3456d29eed938d651" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_aafac4041d09c86bc179565fdba69598" level="file">
           <did>
             <unittitle>Exhibitions (1 of 3)</unittitle>
             <unitdate normal="1915/1929" type="inclusive">1915-1929</unitdate>
-            <container id="aspace_31c85ca57e2b89f731922c18c833ef64" label="mixed materials" type="Box">1</container>
-            <container id="aspace_209041da460c7eea35eba4a0bff1c45c" parent="aspace_31c85ca57e2b89f731922c18c833ef64" type="Folder">9</container>
+            <container id="aspace_4b0d37fbaeb2fc300b3131459249c701" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_86161615e5c0844479b1d0f0d251baff" parent="aspace_4b0d37fbaeb2fc300b3131459249c701" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_255bedb0cc768abb011aa662e6b22bd6" level="file">
           <did>
             <unittitle>Exhibitions (copies) (2 of 3)</unittitle>
             <unitdate normal="1915/1929" type="inclusive">1915-1929</unitdate>
-            <container id="aspace_65d403eafd30c28dac7bd80692b17489" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3212a087a887d11a78ddc57761a7c788" parent="aspace_65d403eafd30c28dac7bd80692b17489" type="Folder">10</container>
+            <container id="aspace_9979b31828fddb2389285efc16b1049c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6a8dd91c474d30a29133881a0d98efff" parent="aspace_9979b31828fddb2389285efc16b1049c" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_21f4192cdd660b96361489a77e8ebfe4" level="file">
           <did>
             <unittitle>Exhibitions (copies) (3 of 3)</unittitle>
             <unitdate normal="1915/1929" type="inclusive">1915-1929</unitdate>
-            <container id="aspace_baa69867d68b08c92bff09f871cd89bb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d163e3174562baa1fe8dd0b062d94989" parent="aspace_baa69867d68b08c92bff09f871cd89bb" type="Folder">11</container>
+            <container id="aspace_d6a6f33ad590d26ea74aa6d9335cc953" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_45d10f53d1779c264e234562592232c7" parent="aspace_d6a6f33ad590d26ea74aa6d9335cc953" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_7839413ea621f8268d8ae35a7a2c0429" level="file">
           <did>
             <unittitle>Exhibitions (1 of 2)</unittitle>
             <unitdate normal="1930/1939" type="inclusive">1930-1939</unitdate>
-            <container id="aspace_cac119acfab25509ed2b0ec74fe8d484" label="mixed materials" type="Box">1</container>
-            <container id="aspace_20fef3e2bdca91ad66d1ba5d161c310c" parent="aspace_cac119acfab25509ed2b0ec74fe8d484" type="Folder">12</container>
+            <container id="aspace_f2727449e10a8b91ffa84395f014defa" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3d5412448f5484c4ee0140ee5cd87bb8" parent="aspace_f2727449e10a8b91ffa84395f014defa" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_5755d404970b4617656f6d821109a3a9" level="file">
           <did>
             <unittitle>Exhibitions (copies) (2 of 2)</unittitle>
             <unitdate normal="1930/1939" type="inclusive">1930-1939</unitdate>
-            <container id="aspace_0c26d6d6810936a8bcbf2bcbd35470a8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b0495b90e3d69feef2301bbc1096d803" parent="aspace_0c26d6d6810936a8bcbf2bcbd35470a8" type="Folder">13</container>
+            <container id="aspace_7d44bc6a2c2d90abf0bca48ec8943b5f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6e5ff18666e5195eec73381be7fa26d6" parent="aspace_7d44bc6a2c2d90abf0bca48ec8943b5f" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_e3f919e6f5d1c0d95505fd91df71cb6c" level="file">
           <did>
             <unittitle>Holmes</unittitle>
             <unitdate normal="1926/1933" type="inclusive">1926-1933</unitdate>
-            <container id="aspace_85adc7611843e57ce17d39481f79f2a4" label="mixed materials" type="Box">1</container>
-            <container id="aspace_8dd2d93b6ebfbfdff84b989af4665430" parent="aspace_85adc7611843e57ce17d39481f79f2a4" type="Folder">14</container>
+            <container id="aspace_a9101f217dd5a1333d59e5f92c4b311a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6a6765565190a496aeba51899963d4dd" parent="aspace_a9101f217dd5a1333d59e5f92c4b311a" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_e0c70459b176255ae4a98522e04befaf" level="file">
           <did>
             <unittitle>Libraries</unittitle>
             <unitdate normal="1920/1931" type="inclusive">1920-1931</unitdate>
-            <container id="aspace_83925661e3da73b0883d80f242a3b681" label="mixed materials" type="Box">1</container>
-            <container id="aspace_adf0f411bd5e39a5640d43f850b4a7b5" parent="aspace_83925661e3da73b0883d80f242a3b681" type="Folder">15</container>
+            <container id="aspace_11d11973f24a8fdebc1ffeb4fd262e35" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f3b6abca1b4479337dcde41e8eedb9e6" parent="aspace_11d11973f24a8fdebc1ffeb4fd262e35" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_b72482fa7404fc912e84d173dfff880b" level="file">
           <did>
             <unittitle>Public Relations</unittitle>
             <unitdate normal="1921/1931" type="inclusive">1921-1931</unitdate>
-            <container id="aspace_aeca46fdb59e602c6349f64090dd297b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_70f33c8c57c43773ca2428307af0d09c" parent="aspace_aeca46fdb59e602c6349f64090dd297b" type="Folder">16</container>
+            <container id="aspace_66a476372267f41f6c2e9db11b13073c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1d9fe721f2b39c553e270ca211ef7d48" parent="aspace_66a476372267f41f6c2e9db11b13073c" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_accfaa392d0ed542a53e15e7645bde4d" level="file">
           <did>
             <unittitle>Louis Kidder Sparrow</unittitle>
             <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
-            <container id="aspace_51e7475ecf2c1db08bf6c47e03c99796" label="mixed materials" type="Box">1</container>
-            <container id="aspace_6a63fcc1030c75139d17639ee2d4a889" parent="aspace_51e7475ecf2c1db08bf6c47e03c99796" type="Folder">17</container>
+            <container id="aspace_e602044ad9e448ca26203f935ac34b1c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_782e6ea733e5e278cd11094805416585" parent="aspace_e602044ad9e448ca26203f935ac34b1c" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_2b285ebab9efbce6b87dac80bc762424" level="file">
           <did>
             <unittitle>Exhibition Programs</unittitle>
             <unitdate normal="1912/1954" type="inclusive">1912-1954</unitdate>
-            <container id="aspace_bc262b3b4b2fd53a47defad1458774eb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3c97c351ab97af7ba14edeb721cea022" parent="aspace_bc262b3b4b2fd53a47defad1458774eb" type="Folder">18</container>
+            <container id="aspace_400a46d15396ab2b1bdebf5a3b14d935" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_867aef0c392842662ea581ffb3081f04" parent="aspace_400a46d15396ab2b1bdebf5a3b14d935" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_67128e4a45180e17ff25467e5a6f6b25" level="file">
           <did>
             <unittitle>Membership</unittitle>
             <unitdate normal="1923/1955" type="inclusive">1923-1955</unitdate>
-            <container id="aspace_dd9a541f94267a42da95d7d71595fddd" label="mixed materials" type="Box">1</container>
-            <container id="aspace_cdec814679706ef5c0ecdee14109f609" parent="aspace_dd9a541f94267a42da95d7d71595fddd" type="Folder">19</container>
+            <container id="aspace_5bd7fcbeef53274b89565e7761e38592" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4589fcf8164adf6dc933483a9096fd93" parent="aspace_5bd7fcbeef53274b89565e7761e38592" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_758844b3db2635621b13adb451cbbffb" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1913/1913" type="inclusive">1913</unitdate>
-            <container id="aspace_dbecf5a88486e99f21412ece7ee223f1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5bc7a272848714a5a3111b7210ef59d1" parent="aspace_dbecf5a88486e99f21412ece7ee223f1" type="Folder">20</container>
+            <container id="aspace_3743ead69496bd1d70fb02b475733c5a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f23ce31b859dab586de2b3b0aad7677d" parent="aspace_3743ead69496bd1d70fb02b475733c5a" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_e8a40150b900409e4af96a99acdaeb65" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1917/1917" type="inclusive">1917</unitdate>
-            <container id="aspace_b80c68745cf5b9a6faf8acb5f034faf2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_be552e2a337f335199a57f41a6094418" parent="aspace_b80c68745cf5b9a6faf8acb5f034faf2" type="Folder">21</container>
+            <container id="aspace_b9cf0638be97e89702f819d763854a6d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5afc9e506b1a2c91684b8927f6e98855" parent="aspace_b9cf0638be97e89702f819d763854a6d" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_94683b1d7679e00934ddd11f6da500b3" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
-            <container id="aspace_73ba95481a05da96783d999af2959b25" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9a180504b9001b5f3fa247d53a9d8849" parent="aspace_73ba95481a05da96783d999af2959b25" type="Folder">22</container>
+            <container id="aspace_7c4ad961ac8a7e5bd527cc3df77453df" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a5e465d23468c71cd0c745b3af949081" parent="aspace_7c4ad961ac8a7e5bd527cc3df77453df" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_ffb42e6d48a542b0ace146caea72d5de" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
-            <container id="aspace_4184876003ce47843bab5a25056397ea" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7e344ea740cd764980465398665c5b0f" parent="aspace_4184876003ce47843bab5a25056397ea" type="Folder">23</container>
+            <container id="aspace_0723e1277a294e0783004bea188a4145" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_488b7e643e237bd38b1e7e61ad312e6e" parent="aspace_0723e1277a294e0783004bea188a4145" type="Folder">23</container>
           </did>
         </c>
         <c id="aspace_9712e9ba0b5781632661f5560e2c9701" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
-            <container id="aspace_135e3dbe065db86da1dac73ee7b1768a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_25a6d217059d3267dd61b3fd84e38776" parent="aspace_135e3dbe065db86da1dac73ee7b1768a" type="Folder">24</container>
+            <container id="aspace_47f58a0c79a8ff5e7eba9ed946e9ac5e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0a3cbc597014862d38c3a867d1ea42e9" parent="aspace_47f58a0c79a8ff5e7eba9ed946e9ac5e" type="Folder">24</container>
           </did>
         </c>
         <c id="aspace_898a4768ad749135ae6f086e22cdf1f0" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
-            <container id="aspace_e0bb8bef8718ce3786d5520af8891a25" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2fe1ba1813d30cabbefffab7cdb33c36" parent="aspace_e0bb8bef8718ce3786d5520af8891a25" type="Folder">25</container>
+            <container id="aspace_0639014b43b73734c728a3441b158fea" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_52bd0eac7e909709ce4e77a3b819e961" parent="aspace_0639014b43b73734c728a3441b158fea" type="Folder">25</container>
           </did>
         </c>
         <c id="aspace_ce7aa4b68c3d4e8ff8dded0c6f498f3b" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
-            <container id="aspace_18c3a9f5e539ee824b5ee5840eb3c2a2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_56e1b4e4193a3e0afa3a2f9ff80e6a0b" parent="aspace_18c3a9f5e539ee824b5ee5840eb3c2a2" type="Folder">26</container>
+            <container id="aspace_5f174de78b0cb67e946d8c3fb91f9130" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ab34f111b5da9c6aa125bca4bcb1008b" parent="aspace_5f174de78b0cb67e946d8c3fb91f9130" type="Folder">26</container>
           </did>
         </c>
         <c id="aspace_ab3ad2c5dd8d5c50264d57e08974bd52" level="file">
           <did>
             <unittitle>Minutes (copies)</unittitle>
             <unitdate normal="1917/1931" type="inclusive">1917-1931</unitdate>
-            <container id="aspace_e65a689ebff4e4f2fb04cf1be39670eb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_89b8a97c0c6723e67cc97db761bffdf4" parent="aspace_e65a689ebff4e4f2fb04cf1be39670eb" type="Folder">27</container>
+            <container id="aspace_807ca8a311e1e215f6be314926a25242" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_97a60a5fdb9a39c634255af359376331" parent="aspace_807ca8a311e1e215f6be314926a25242" type="Folder">27</container>
           </did>
         </c>
         <c id="aspace_4d811ee7f8f3d87397096f3b551530c7" level="file">
           <did>
             <unittitle>Official Seal (Stamp)</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_851b8b3fc0323bb9406916b7c8fb091c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5a00f06e4cd79e9e8c6412a2bff24021" parent="aspace_851b8b3fc0323bb9406916b7c8fb091c" type="Folder">28</container>
+            <container id="aspace_cdb3740024b77201638a78dbf0a2871b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_83aef5075954afc48799471410af0993" parent="aspace_cdb3740024b77201638a78dbf0a2871b" type="Folder">28</container>
           </did>
         </c>
       </c>
@@ -290,318 +333,318 @@
         </did>
         <scopecontent id="aspace_0e044f155f4b592e6bb6c1a1b5f2daba">
           <head>Scope and Contents</head>
-          <p>This series contains the Exhibition Catalogues annually published by the Society of Washington Artists. These catalogues showcase the works of art on display at the Society's annual Exhibition. The dates range from 1891-1963 with a few years missing. The items in this series are arranged chronologically.</p>
+          <p>This series contains the Exhibition Catalogues annually published by the Society of Washington Artists.  These catalogues showcase the works of art on display at the Society's annual Exhibition.  The dates range from 1891-1963 with a few years missing.  The items in this series are arranged chronologically.</p>
         </scopecontent>
         <c id="aspace_c2629a31db8819a1c94b6bf1d5204a39" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1891/1891" type="inclusive">1891</unitdate>
-            <container id="aspace_5eba113bf7fa85d9767a3bc259d81de5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e30d362755fe754a4633e31c1889f6e1" parent="aspace_5eba113bf7fa85d9767a3bc259d81de5" type="Folder">29</container>
+            <container id="aspace_e2665c60356d98ed7f273babae855beb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d03982257cb3427cf3d29f12323f576d" parent="aspace_e2665c60356d98ed7f273babae855beb" type="Folder">29</container>
           </did>
         </c>
         <c id="aspace_28f8f579f1631e5ecc8abc1018f31359" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1899/1899" type="inclusive">1899</unitdate>
-            <container id="aspace_f0f26d2011fd326963f0df3d7a004efe" label="mixed materials" type="Box">1</container>
-            <container id="aspace_41540b1a44953da0eb3ae34e2ca4e5d0" parent="aspace_f0f26d2011fd326963f0df3d7a004efe" type="Folder">30</container>
+            <container id="aspace_bab01919f07c530109ef64ddfaa29f09" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_50802665d95a6ea0af69e13f38b44d2a" parent="aspace_bab01919f07c530109ef64ddfaa29f09" type="Folder">30</container>
           </did>
         </c>
         <c id="aspace_981000897a04136862dc6148e869a6f2" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1900/1902" type="inclusive">1900-1902</unitdate>
-            <container id="aspace_82bc63f48a79028781769e84cc133db7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a9f344a1a3a85b406fb1ba13426f0142" parent="aspace_82bc63f48a79028781769e84cc133db7" type="Folder">31</container>
+            <container id="aspace_3e7d32d39286f019af23f0cf90e332d9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4b97b4d6df90c8e5ef82099da54051b2" parent="aspace_3e7d32d39286f019af23f0cf90e332d9" type="Folder">31</container>
           </did>
         </c>
         <c id="aspace_35ff5055d252a15885320ba56b3a176c" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1903/1903" type="inclusive">1903</unitdate>
-            <container id="aspace_fae1878f5b09ec7188d6cf95fc41e337" label="mixed materials" type="Box">1</container>
-            <container id="aspace_dfbe9c9f66bd98198c19ebc3febd304c" parent="aspace_fae1878f5b09ec7188d6cf95fc41e337" type="Folder">32</container>
+            <container id="aspace_380484a10ce96c840113612dc81f0782" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0619000c338a86183980ad94acd5f8d4" parent="aspace_380484a10ce96c840113612dc81f0782" type="Folder">32</container>
           </did>
         </c>
         <c id="aspace_c2339ca2d5d146a839892cf634d9578e" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1904/1904" type="inclusive">1904</unitdate>
-            <container id="aspace_93b942d1027d843dcf6b6bb7b2b4fa1e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_bf08f447e7084b73e27f0b972513d1b9" parent="aspace_93b942d1027d843dcf6b6bb7b2b4fa1e" type="Folder">33</container>
+            <container id="aspace_5b632388cbcdb945abb43dbe358d2eb6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_812dd50a44c31840edd74a17a845904f" parent="aspace_5b632388cbcdb945abb43dbe358d2eb6" type="Folder">33</container>
           </did>
         </c>
         <c id="aspace_ba6c89118810fdcdf284ae8d7d4d289b" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1905/1905" type="inclusive">1905</unitdate>
-            <container id="aspace_8952007a656ed17d97b695855be06bcd" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f5e5a4bec3f7f440ff80b827da19f56a" parent="aspace_8952007a656ed17d97b695855be06bcd" type="Folder">34</container>
+            <container id="aspace_b2e41aad674fad89ef9708aaf0e0dec7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_af19cdc8120e38e78a49066d45c6d1d3" parent="aspace_b2e41aad674fad89ef9708aaf0e0dec7" type="Folder">34</container>
           </did>
         </c>
         <c id="aspace_20e1edd0d0cde13b7a11a9d57d20d15b" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1906/1906" type="inclusive">1906</unitdate>
-            <container id="aspace_aebb17244a32cef90caf9b1c1e7e9a64" label="mixed materials" type="Box">1</container>
-            <container id="aspace_bb273951b86e363d60364c05f1f938a1" parent="aspace_aebb17244a32cef90caf9b1c1e7e9a64" type="Folder">35</container>
+            <container id="aspace_1a3bdd8fc6b8fcd2aebb01734270de58" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e6bd1ce27366de9c286a602acd65e4ea" parent="aspace_1a3bdd8fc6b8fcd2aebb01734270de58" type="Folder">35</container>
           </did>
         </c>
         <c id="aspace_5e549df4d9983e9972671f403c5a2a2c" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1908/1908" type="inclusive">1908</unitdate>
-            <container id="aspace_d54e916a8154beebc16ba96edaed06e3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_6fccf614f756d723d39f7e15aba7fefd" parent="aspace_d54e916a8154beebc16ba96edaed06e3" type="Folder">36</container>
+            <container id="aspace_cf8787d0ae1fe38c943215d3a3fcf2ac" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d0aabe40136d96c9b13562cf60b801e9" parent="aspace_cf8787d0ae1fe38c943215d3a3fcf2ac" type="Folder">36</container>
           </did>
         </c>
         <c id="aspace_80cb50f677370506316ed0c5c9657a9d" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1909/1909" type="inclusive">1909</unitdate>
-            <container id="aspace_ed59b27ccba969a180e8d36fa6b5e90a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_73fbf3dcaf7c11e22ff2406b135472db" parent="aspace_ed59b27ccba969a180e8d36fa6b5e90a" type="Folder">37</container>
+            <container id="aspace_1b3d1c26383170ae4cc1f24c6dc359fd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_358f3a55e34c4bd1bdd61131b2cda6c9" parent="aspace_1b3d1c26383170ae4cc1f24c6dc359fd" type="Folder">37</container>
           </did>
         </c>
         <c id="aspace_3101310c7cf3323c437ce8dc2ee01e42" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1910/1910" type="inclusive">1910</unitdate>
-            <container id="aspace_99b1cdb33edacb3603ed6ad32c7808a5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b78611669eab08159c9fe5fb09bcb911" parent="aspace_99b1cdb33edacb3603ed6ad32c7808a5" type="Folder">38</container>
+            <container id="aspace_e4ae6f68545ae5b1d553417b00cfb601" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_48c41308456835eea35e42abfc2a37c4" parent="aspace_e4ae6f68545ae5b1d553417b00cfb601" type="Folder">38</container>
           </did>
         </c>
         <c id="aspace_5691735d35617ec9c2b0c8b002386c76" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1911/1911" type="inclusive">1911</unitdate>
-            <container id="aspace_4fb5c58b8ac8f195ad135ea9d0896563" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b75f58f9458892173560bf2220ccc2a9" parent="aspace_4fb5c58b8ac8f195ad135ea9d0896563" type="Folder">39</container>
+            <container id="aspace_86819d089e70dc38f0ccd3cb9ddfa916" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_76e16ff0eb2e75c1f02b8ade9476f647" parent="aspace_86819d089e70dc38f0ccd3cb9ddfa916" type="Folder">39</container>
           </did>
         </c>
         <c id="aspace_1bc91c323059b49459c506b0a999f2f2" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1912/1912" type="inclusive">1912</unitdate>
-            <container id="aspace_ffc5388367c2fb476e1c219151cb4f90" label="mixed materials" type="Box">1</container>
-            <container id="aspace_19f53c576510024737a3cdfa044ee54b" parent="aspace_ffc5388367c2fb476e1c219151cb4f90" type="Folder">40</container>
+            <container id="aspace_8ef5deb9cd2e95d9aabce80fac672a0d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f240d4846804020374c790b534c301eb" parent="aspace_8ef5deb9cd2e95d9aabce80fac672a0d" type="Folder">40</container>
           </did>
         </c>
         <c id="aspace_6dbd98761cc1e9d26457f199eb2b98ff" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1913/1913" type="inclusive">1913</unitdate>
-            <container id="aspace_bb24ae110b836ebb8a9c520da0ce1e7f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f065dd95553eea0c2e4b9baca7f40dee" parent="aspace_bb24ae110b836ebb8a9c520da0ce1e7f" type="Folder">41</container>
+            <container id="aspace_ae9567eae1d9dfaba0cc0d697ef036d8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_093b3968d520c5a5b76418b72f9ee341" parent="aspace_ae9567eae1d9dfaba0cc0d697ef036d8" type="Folder">41</container>
           </did>
         </c>
         <c id="aspace_8e7b43b802757789e30674fc9a0e923f" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1914/1914" type="inclusive">1914</unitdate>
-            <container id="aspace_8a79d48350435772e1e8ba6ced295b8e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_80c1b0d3b8ffd049f350a44efb311c5a" parent="aspace_8a79d48350435772e1e8ba6ced295b8e" type="Folder">42</container>
+            <container id="aspace_deb834f5d99ef7d64203759733b70b03" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b4ee673187fa149cf7b5d07642c7f267" parent="aspace_deb834f5d99ef7d64203759733b70b03" type="Folder">42</container>
           </did>
         </c>
         <c id="aspace_4d9a908bb3f9d95b22f6a1d459f3d980" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1915/1915" type="inclusive">1915</unitdate>
-            <container id="aspace_e56ceadc090b971bcfe1f6e8c101ac91" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f6b48c1453f22de07d783cf7f4ae646f" parent="aspace_e56ceadc090b971bcfe1f6e8c101ac91" type="Folder">43</container>
+            <container id="aspace_f3d205e5366aa1b9056aa4be41c9e7cc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b251400478fbe898dcee80a71e046c36" parent="aspace_f3d205e5366aa1b9056aa4be41c9e7cc" type="Folder">43</container>
           </did>
         </c>
         <c id="aspace_184dbffc717c01134d452b1b48414acd" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1916/1916" type="inclusive">1916</unitdate>
-            <container id="aspace_df04a323ed2dfb75505b646a8cd05774" label="mixed materials" type="Box">1</container>
-            <container id="aspace_14edea88d05f20fd1c6e5db29a77d388" parent="aspace_df04a323ed2dfb75505b646a8cd05774" type="Folder">44</container>
+            <container id="aspace_1c1bb3dde2c64ffec956389e295e9a8f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_99e5a8ee631f4d57f5e6b31b6f4fadd5" parent="aspace_1c1bb3dde2c64ffec956389e295e9a8f" type="Folder">44</container>
           </did>
         </c>
         <c id="aspace_fd70f46356aa44847ab8fa0111d39469" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1917/1917" type="inclusive">1917</unitdate>
-            <container id="aspace_20ef586b5e987b55625b4c011e367b4c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_002c23794e97e63b6b9dd827270a72f4" parent="aspace_20ef586b5e987b55625b4c011e367b4c" type="Folder">45</container>
+            <container id="aspace_7e8011b5ceb26c8d0f2ee8ec89fd487b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3d3385009cb9ac65bf5f0ce709ed3b96" parent="aspace_7e8011b5ceb26c8d0f2ee8ec89fd487b" type="Folder">45</container>
           </did>
         </c>
         <c id="aspace_7b9475021b08db2328ae5fb0b72ff536" level="file">
           <did>
             <unittitle>Exhibition Catalogue (2 copies)</unittitle>
             <unitdate normal="1921/1921" type="inclusive">1921</unitdate>
-            <container id="aspace_7be285275ebc0e110cace74c5937291f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b98a41d8a8a4d73722571538b03cbba5" parent="aspace_7be285275ebc0e110cace74c5937291f" type="Folder">46</container>
+            <container id="aspace_98cbb6581ae8779b574cb4bf3e402596" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_83c2d34440d0120d22a069f2c9906b8f" parent="aspace_98cbb6581ae8779b574cb4bf3e402596" type="Folder">46</container>
           </did>
         </c>
         <c id="aspace_cdb2635570a0d7466cea031b864efd99" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
-            <container id="aspace_34fccf61523d31d10b3f6b9f4eadf2eb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e070de4ea71e5f39d6930c8f4a84f70b" parent="aspace_34fccf61523d31d10b3f6b9f4eadf2eb" type="Folder">47</container>
+            <container id="aspace_c6d1d59facb31ad202dd00fc9f8e8712" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cdcac0c10629a6fb5f1106f4641725f7" parent="aspace_c6d1d59facb31ad202dd00fc9f8e8712" type="Folder">47</container>
           </did>
         </c>
         <c id="aspace_6cc1fa1b3937784d7f7cd8ef3d6bb625" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
-            <container id="aspace_b0c00267ab109d14991705f623022722" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4b020bcc96a842ef2eb35861fdc32c1f" parent="aspace_b0c00267ab109d14991705f623022722" type="Folder">48</container>
+            <container id="aspace_808a4c26ee3de390f18ba4aae57c5481" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cee3e6e803a89cf617b2538a5f9de428" parent="aspace_808a4c26ee3de390f18ba4aae57c5481" type="Folder">48</container>
           </did>
         </c>
         <c id="aspace_f843a7e520e084255059e69cb2a570b7" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1927/1927" type="inclusive">1927</unitdate>
-            <container id="aspace_a733e825b7a75820258a3f7735ba0168" label="mixed materials" type="Box">1</container>
-            <container id="aspace_03e6a52a2f962e0c4a5ef36e2ae1eb5a" parent="aspace_a733e825b7a75820258a3f7735ba0168" type="Folder">49</container>
+            <container id="aspace_d68f55ded16c9811c79ec5f0fd50774f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2148823056a637f8d1034cf3e8980c83" parent="aspace_d68f55ded16c9811c79ec5f0fd50774f" type="Folder">49</container>
           </did>
         </c>
         <c id="aspace_409a02d9a74933e54bd6b42c4ac18adc" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
-            <container id="aspace_3c5d02232ba009d793d17c05ee20a60d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_eb27b78d3acbbce4582bf9c22c1ef8fa" parent="aspace_3c5d02232ba009d793d17c05ee20a60d" type="Folder">50</container>
+            <container id="aspace_49aecd6032c52ee861b9d868c4448781" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8f10824df4d28e30ff2d7a9f904d1b93" parent="aspace_49aecd6032c52ee861b9d868c4448781" type="Folder">50</container>
           </did>
         </c>
         <c id="aspace_a5b2122c03f560ad41884bdf8fc4d940" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
-            <container id="aspace_32d9ac8404f1da7ff45fd2e3d91415cb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_36ae7367694fcab1042867752803b8b2" parent="aspace_32d9ac8404f1da7ff45fd2e3d91415cb" type="Folder">51</container>
+            <container id="aspace_5566a75b89124de4aa673e231174718b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0776bf4fbc46333cb8f8b4c719d2ca63" parent="aspace_5566a75b89124de4aa673e231174718b" type="Folder">51</container>
           </did>
         </c>
         <c id="aspace_bcbb6294d0592fded6bf1ee61c9e74b2" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
-            <container id="aspace_4b237259a86d61fd5bf4c8eda46b93e3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5c6573ffb17a8ceb75eb3844f6685c6c" parent="aspace_4b237259a86d61fd5bf4c8eda46b93e3" type="Folder">52</container>
+            <container id="aspace_ad10952efe9041604fb2e703c3d0189f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2d60a6bca044a28de6490728d3c4dbcb" parent="aspace_ad10952efe9041604fb2e703c3d0189f" type="Folder">52</container>
           </did>
         </c>
         <c id="aspace_189a434722edf1ca6d8a640df259695b" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
-            <container id="aspace_f4e6ca21f32b8dddd497c423dda3afad" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3070132361b2fa994249cbe57ef111b0" parent="aspace_f4e6ca21f32b8dddd497c423dda3afad" type="Folder">53</container>
+            <container id="aspace_512c6fd9918cb725640fb2fdf5c24a86" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_377c2998edcc236bacace3aee6a9e349" parent="aspace_512c6fd9918cb725640fb2fdf5c24a86" type="Folder">53</container>
           </did>
         </c>
         <c id="aspace_d587dd1a78c5be5d1dda510388d83586" level="file">
           <did>
             <unittitle>Exhibition Catalogue (2 copies)</unittitle>
             <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
-            <container id="aspace_70fc1eb449c58373639a812d5c86cccd" label="mixed materials" type="Box">1</container>
-            <container id="aspace_648c417ef329d9dda0d8edb510884dba" parent="aspace_70fc1eb449c58373639a812d5c86cccd" type="Folder">54</container>
+            <container id="aspace_743e5299aef1671bb4423d2d116cd1d9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_542c7ce83b85a1ad2922007a7bec7ede" parent="aspace_743e5299aef1671bb4423d2d116cd1d9" type="Folder">54</container>
           </did>
         </c>
         <c id="aspace_a91cff0e7077329f68296fad9a575176" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
-            <container id="aspace_a0b4b07ac33c37d9cc94e14f15e135f3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_60ffe3eb71ae7f41a7c77de61fb55a6b" parent="aspace_a0b4b07ac33c37d9cc94e14f15e135f3" type="Folder">55</container>
+            <container id="aspace_fc498273ae39a6c57c5b924c3b055089" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1167ae5e986adfea2e5d03098e982fab" parent="aspace_fc498273ae39a6c57c5b924c3b055089" type="Folder">55</container>
           </did>
         </c>
         <c id="aspace_a337951b22d3c007b4c6746a31b16db9" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
-            <container id="aspace_360cfe9906b6e5be6e3f8bfb5975e3bb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3bf3be1fd949a55886d979a0f9342523" parent="aspace_360cfe9906b6e5be6e3f8bfb5975e3bb" type="Folder">56</container>
+            <container id="aspace_8811caf2ce540e1fc4380cff74b35f7e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2e9a0d96f1194c9106bc2c674f7bbde6" parent="aspace_8811caf2ce540e1fc4380cff74b35f7e" type="Folder">56</container>
           </did>
         </c>
         <c id="aspace_1baefd73b535665d553a8a6fb8bbd9be" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
-            <container id="aspace_74c89d9fdd53dbe097bacfd76f26d286" label="mixed materials" type="Box">1</container>
-            <container id="aspace_28077a9505b4b8e64f24816c95834f27" parent="aspace_74c89d9fdd53dbe097bacfd76f26d286" type="Folder">57</container>
+            <container id="aspace_ec222afc32431e1e4395b0e2341f7229" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_120274398ddafa5adbc019de6ac130ec" parent="aspace_ec222afc32431e1e4395b0e2341f7229" type="Folder">57</container>
           </did>
         </c>
         <c id="aspace_ec13496e4cbf5d3a64e42978dbebd769" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
-            <container id="aspace_d5930a223d0309dc04ecce3ee11c0d64" label="mixed materials" type="Box">1</container>
-            <container id="aspace_8f792d1b9a248007bf3fa0296c6d8c07" parent="aspace_d5930a223d0309dc04ecce3ee11c0d64" type="Folder">58</container>
+            <container id="aspace_68983cd51d0c9435eec8ef8099e86568" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_98039720f1bdf447abe84f282e8f2076" parent="aspace_68983cd51d0c9435eec8ef8099e86568" type="Folder">58</container>
           </did>
         </c>
         <c id="aspace_88e2254480a51621d5e0e327f2511d27" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
-            <container id="aspace_8883bcc655259d4b0391c5aad391e270" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7919625029160f0e242a824bb18f0c0c" parent="aspace_8883bcc655259d4b0391c5aad391e270" type="Folder">59</container>
+            <container id="aspace_ad68781a9d49df15c2fe29be85ac053d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_488f3c49016b8c7e6d20d1e5af25331c" parent="aspace_ad68781a9d49df15c2fe29be85ac053d" type="Folder">59</container>
           </did>
         </c>
         <c id="aspace_0c7eaa4ce237dbd0d992c4ec3e9c7c8d" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
-            <container id="aspace_4c85bab2c21dfcdea6886db2c1974a2b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ebebb3b0fbf3885906e9eabddad2f37e" parent="aspace_4c85bab2c21dfcdea6886db2c1974a2b" type="Folder">60</container>
+            <container id="aspace_2549783b5c67b30d9b84bf3aa0969f8d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_10356d67162beb5b96f3da7cee88f5e1" parent="aspace_2549783b5c67b30d9b84bf3aa0969f8d" type="Folder">60</container>
           </did>
         </c>
         <c id="aspace_2cdda97871d5b8f80cd70b25c3ef45cb" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
-            <container id="aspace_a6d096d7caa5bdd57feac59544bb1273" label="mixed materials" type="Box">1</container>
-            <container id="aspace_78cacfc5ac6c2c1fcce30b889faae30a" parent="aspace_a6d096d7caa5bdd57feac59544bb1273" type="Folder">61</container>
+            <container id="aspace_e046d2eb4affde2d9e1afd804ea7e59f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_46472c6b96215356d144f734740ad8d4" parent="aspace_e046d2eb4affde2d9e1afd804ea7e59f" type="Folder">61</container>
           </did>
         </c>
         <c id="aspace_4ad826e618b36c5139ba9589326bdb30" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
-            <container id="aspace_b5cef1bd2ee56aba34410b90e87ad8d7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c6d4e5c728ca14db5ce0efb5226a238a" parent="aspace_b5cef1bd2ee56aba34410b90e87ad8d7" type="Folder">62</container>
+            <container id="aspace_0e032974d0368322d8c751e1e99e279c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a7d25f67e40ff4644d34650dcde574af" parent="aspace_0e032974d0368322d8c751e1e99e279c" type="Folder">62</container>
           </did>
         </c>
         <c id="aspace_d7181719ee06d8cb1a6b0d2162cd13ac" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-            <container id="aspace_7cb0480360a86963fc3ca2d5b336b5a0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2be52ab1ee5b87bdfada64a8d61464a4" parent="aspace_7cb0480360a86963fc3ca2d5b336b5a0" type="Folder">63</container>
+            <container id="aspace_b50a4db2974f1c03e9a68e293d4596d3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a033203ba54c17c12a3ba5507063d975" parent="aspace_b50a4db2974f1c03e9a68e293d4596d3" type="Folder">63</container>
           </did>
         </c>
         <c id="aspace_4286e542d935eeb31f428a716219fdcf" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-            <container id="aspace_616bea79c87fc05c179bb6734b85954f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0762800520ef40c1fdf94a5d0386170f" parent="aspace_616bea79c87fc05c179bb6734b85954f" type="Folder">64</container>
+            <container id="aspace_3c76145d7932f1aa8445fc2f77b166a1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5f83ed85b728dcdf15b8772ee4ebb005" parent="aspace_3c76145d7932f1aa8445fc2f77b166a1" type="Folder">64</container>
           </did>
         </c>
         <c id="aspace_686152156bf78ad18db64f49b707fede" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-            <container id="aspace_a0bee893e43daeaa2560faa7342d86ac" label="mixed materials" type="Box">1</container>
-            <container id="aspace_184b18811376a1cc047fb38f8960848d" parent="aspace_a0bee893e43daeaa2560faa7342d86ac" type="Folder">65</container>
+            <container id="aspace_4725f0d9be0225b858716b28af622313" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_600a37a9f241d9880c1a5f552bc16148" parent="aspace_4725f0d9be0225b858716b28af622313" type="Folder">65</container>
           </did>
         </c>
         <c id="aspace_d96d96a9cb519127f4ec2bf74a9f47c8" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate>
-            <container id="aspace_75255de6fb76078d5bc6ce047c97775c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_63ad7e499e7682a43c0d9838a996ce7f" parent="aspace_75255de6fb76078d5bc6ce047c97775c" type="Folder">66</container>
+            <container id="aspace_fadc070d8ba94f948f5a1a85ce70fcac" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b47743846d772b9a884c17c619dcb40b" parent="aspace_fadc070d8ba94f948f5a1a85ce70fcac" type="Folder">66</container>
           </did>
         </c>
         <c id="aspace_9d019269f46580406be3545cea7aab31" level="file">
           <did>
             <unittitle>Exhibition Catalogue</unittitle>
             <unitdate type="inclusive">1953-1956, 1959-1963</unitdate>
-            <container id="aspace_10a97446eea9c062d0f226258bb6dc93" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f90b1ea59a1823bfdb667d9b19209e2d" parent="aspace_10a97446eea9c062d0f226258bb6dc93" type="Folder">67</container>
+            <container id="aspace_805ebfec512313e181aafa7eed743697" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fcc05b35aa2fff7da1f2df08460f1156" parent="aspace_805ebfec512313e181aafa7eed743697" type="Folder">67</container>
           </did>
         </c>
       </c>

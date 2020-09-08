@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Northeasterners Papers</titleproper>
-        <titleproper>Northeasterners <num>021</num> <num>021</num></titleproper>
+        <titleproper>Northeasterners <num>021</num></titleproper>
         <subtitle>An inventory of Northeasterners at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-01 14:57:16 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:29:03 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-04-08</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,28 +38,54 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Northeasterners Papers</unittitle>
+      <origination label="creator">
+        <corpname source="local">Northeasterners</corpname>
+      </origination>
       <unitid>021</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.25 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1952/1989" type="inclusive">1952-1989</unitdate>
-      <langmaterial id="aspace_5d9b91deb375d55196e6617ac88d1251">English</langmaterial>
       <langmaterial id="aspace_e9903c4f54c40211ad0f457f64ac22e1">English</langmaterial>
     </did>
+    <arrangement id="aspace_12121efc964f34dece613e6cb28a3c48">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_4d4820dc6b09168fe47fbcebdb8ca5bf">
       <head>Biographical / Historical</head>
-      <p>The Northeasterners were organized in 1930 mainly by college-educated and socially prominent black women throughout the eastern United States. The group was originally known as the Gay Northeasterners. The organization has a scholarship program and is involved in a number of outreach activities.</p>
+      <p>The Northeasterners was founded in 1930 by Agatha Scott Davis, wife of Brigadier General Benjamin O. Davis, Jr. Inspired by the African American debutantes Agatha Davis visited in various northeastern cities, Davis formed the Northeasterners as a social club for African American women.<br/>
+<br/>
+Membership into the Northeasterns was by invitation only. Entrees provide a resume for consideration including education, careers of themselves and/or spouses, and membership in other African American organizations.<br/>
+<br/>
+The organization was originally known as the "Gay Northeasterners" to reflect the demeanor of the group as bright and happy. The word "gay" was dropped in 1979. The focus of the Northeasterners is philanthropic as well as social. Members meet at an annual conference held in different cities throughout the Northeast.<br/>
+<br/>
+The headquarters of the organization is New York City, New York. Washington, D.C. was one of the first chapters along with Philadelhpia, Pennsylvania. Chapters were also added in Baltimore, Maryland; Boston, Massachusetts; Chicago, Illinois; Cleveland and Columbus, Ohio; Detroit, Michigan; Indianapolis, Indiana; Pittsburgh, Pennsylvania, and the state of New Jersey.</p>
     </bioghist>
+    <custodhist id="aspace_5e93dc2b20deb9318014214c24136815">
+      <head>Custodial History</head>
+      <p>Collection was donated in 2000. Donor unknown.</p>
+    </custodhist>
+    <processinfo id="aspace_0f093831dd297785abb270a30893bb3d">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
+    </processinfo>
     <scopecontent id="aspace_6cdc1ab2d7fda90b93d2cced0486e717">
       <head>Scope and Contents</head>
-      <p>The papers consist of correspondence, by-laws of the organization, meeting minutes, financial reports, a short history, member information, and photographs.</p>
+      <p>The papers consist of correspondence, by-laws, meeting minutes, financial reports, a short history, member information, and photographs of the Northeasterners.</p>
     </scopecontent>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85001932" source="Library of Congress Subject Headings">African Americans</subject>
-      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008810" source="lcsh">Associations, institutions, etc</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85147274" source="Library of Congress Subject Headings">Women</subject>
+      <genreform source="material_type">Organizational Records</genreform>
+      <genreform authfilenumber="http://id.loc.gov/authorities/genreForms/gf2014026128" source="Library of Congress Subject Headings">Minutes (Records)</genreform>
     </controlaccess>
     <dsc>
       <c id="aspace_8569d5a0208799ae6be913c4ff276331" level="series">
@@ -59,56 +96,56 @@
           <did>
             <unittitle>Bylaws and Constitution</unittitle>
             <unitdate normal="1952/1986" type="inclusive">1952-1986</unitdate>
-            <container id="aspace_564b76c2a185cd2283f7cdf507d7cd55" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4d29a3647a7afbe23c569a45c0cffd31" parent="aspace_564b76c2a185cd2283f7cdf507d7cd55" type="Folder">1</container>
+            <container id="aspace_9001fca01e6db215dfaa8c9c0eec0150" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_14b29ab279ac74e92bbe58cef5182450" parent="aspace_9001fca01e6db215dfaa8c9c0eec0150" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_12a79e19945d568766b82043b5cbe09f" level="file">
           <did>
             <unittitle>Correspondence and Proposals</unittitle>
             <unitdate normal="1962/1989" type="inclusive">1962-1989</unitdate>
-            <container id="aspace_12d9dd19d4b367fa99f7307a11893324" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0b90f87c4bfc343b9634b364f325d65f" parent="aspace_12d9dd19d4b367fa99f7307a11893324" type="Folder">2</container>
+            <container id="aspace_a5afd21a78b7fc550e46bd8cda86459e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_46c8afd004afb3ffafda868c4a3063ac" parent="aspace_a5afd21a78b7fc550e46bd8cda86459e" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_f9ec1abdd898c5f3457ccfaf055a347f" level="file">
           <did>
             <unittitle>Financial reports</unittitle>
             <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
-            <container id="aspace_9630506b697e7f1e3f6204a87a2d4553" label="mixed materials" type="Box">1</container>
-            <container id="aspace_25dd2351cada7f508b20fe47d929205d" parent="aspace_9630506b697e7f1e3f6204a87a2d4553" type="Folder">3</container>
+            <container id="aspace_da83c76adcaed62e0878bb2c3bf5bbb0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_134eb675cf0697bf2f8cf38b8b23f1e5" parent="aspace_da83c76adcaed62e0878bb2c3bf5bbb0" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_38122a510cc04edc6404983e4935de3d" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
-            <container id="aspace_db87fd4b70b8891fb3c4625b4d4ab966" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1529223ce51655c02c48fef76eea3e82" parent="aspace_db87fd4b70b8891fb3c4625b4d4ab966" type="Folder">4</container>
+            <container id="aspace_70dc89bd77b3b920e0aa4fbed8ed59b8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b3d85562e7d6c107c7ca2d8082afd139" parent="aspace_70dc89bd77b3b920e0aa4fbed8ed59b8" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_70331dff8e2afa1848f4eb9bd4fa63a2" level="file">
           <did>
             <unittitle>Officers</unittitle>
             <unitdate normal="1973/1975" type="inclusive">1973-1975</unitdate>
-            <container id="aspace_fc0965444c41cd430404de86804dd212" label="mixed materials" type="Box">1</container>
-            <container id="aspace_cd01556702200f6f2053d9482d3fafb5" parent="aspace_fc0965444c41cd430404de86804dd212" type="Folder">5</container>
+            <container id="aspace_f168e21bd5eb6c5d7728f742496b2ccf" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fc2dc39565a0a9016fc132379e716394" parent="aspace_f168e21bd5eb6c5d7728f742496b2ccf" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_6a301ebf72aba82b306b23178ac50571" level="file">
           <did>
             <unittitle>Over the Years: A History</unittitle>
             <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <container id="aspace_3b278ed955cafb5e65ecfb52ceb08ba2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b0cc10fa576f1e77b9234188920bd863" parent="aspace_3b278ed955cafb5e65ecfb52ceb08ba2" type="Folder">6</container>
+            <container id="aspace_ce26229df423982ad9cc23e49e515164" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e30398f9983bf9da7abe5fef03201027" parent="aspace_ce26229df423982ad9cc23e49e515164" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ed8bc3a96c4d55157d268e5fd613992d" level="file">
           <did>
             <unittitle>Photographs</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_91f917c19805331a9921e73afa0b978e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f546b61b8857dbcd5b84d0c6ae530ee5" parent="aspace_91f917c19805331a9921e73afa0b978e" type="Folder">7</container>
+            <container id="aspace_d48e6efc5cf376730e786a5f73f19e9f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4fc944d021d5b368076041b85039f216" parent="aspace_d48e6efc5cf376730e786a5f73f19e9f" type="Folder">7</container>
           </did>
         </c>
       </c>

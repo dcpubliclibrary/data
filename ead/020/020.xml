@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Ivy City-Trinidad Citizens Association Records</titleproper>
-        <titleproper>Ivy City-Trinidad Citizens Association <num>020</num> <num>020</num></titleproper>
+        <titleproper>Ivy City-Trinidad Citizens Association <num>020</num></titleproper>
         <subtitle>An inventory of Ivy City-Trinidad Citizens Association at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:01:49 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:28:56 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-03-14</date>
+        <item>Finding aid edited for length and clarity. </item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,27 +38,49 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Ivy City-Trinidad Citizens Association Records</unittitle>
+      <origination label="creator">
+        <corpname source="local">Ivy City-Trinidad Citizens Association</corpname>
+      </origination>
       <unitid>020</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 linear foot; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear feet</extent>
       </physdesc>
       <unitdate normal="1966/1983" type="inclusive">1966-1983</unitdate>
-      <langmaterial id="aspace_f0d3536065dccef1464044c8d5476d3b">English</langmaterial>
       <langmaterial id="aspace_859d64a53ea3492028a9ce95f9e1b099">English</langmaterial>
     </did>
+    <arrangement id="aspace_e06a3cbf5129a93b2c1050dcf81fcdd7">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_e60cf86eafcc3e99d2bfe0abf5e8d642">
       <head>Biographical / Historical</head>
-      <p>The Ivy City-Trinidad Citizens Association was organized and incorporated in 1911 and added the Trinidad neighborhood in 1953 to its charter. The Association promotes improvement of government services and mutual interests of the residents of the Ivy City-Trinidad neighborhood. Its jurisdiction is bounded by New York Avenue, N.E., Florida Avenue, N.E., and Bladensburg Road, N.E.</p>
+      <p>The Ivy City-Trinidad Citizens Association was originally incorporated as an Ivy City neighborhood focused association in 1911, and added the Trinidad neighborhood in 1953 to its charter. The Association promotes improvement of government services and mutual interests of the residents of the Ivy City-Trinidad neighborhood. Its jurisdiction is bounded by New York Avenue NE, Florida Avenue NE, and Bladensburg Road NE.</p>
     </bioghist>
+    <custodhist id="aspace_2930cd62f3e0787b3a292a773d9c670c">
+      <head>Custodial History</head>
+      <p>Unknown donor.</p>
+    </custodhist>
+    <processinfo id="aspace_0b00fae5e14221c64e43b4c1cc183bca">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
+    </processinfo>
     <scopecontent id="aspace_4e982fb8871eb59cbf9a51d0856351bf">
       <head>Scope and Contents</head>
-      <p>Records include the Association's minutes from 1966-1967, a constitution, and other materials collected by the Association. The volume of the materials is one linear foot and covers the period 1966-1983.</p>
+      <p>Records include the Ivy City-Trinidad Citizens Association's minutes from 1966-1967, a constitution, and other materials collected by the Association.</p>
     </scopecontent>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026199" source="Library of Congress Subject Headings">Citizens' Associations</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008810" source="lcsh">Associations, institutions, etc</subject>
+      <geogname authfilenumber="http://id.loc.gov/authorities/names/n97033781" source="Library of Congress Subject Headings">Ivy City (Washington, D.C.)</geogname>
+      <genreform source="material_type">Organizational Records</genreform>
+      <genreform authfilenumber="http://id.loc.gov/authorities/genreForms/gf2014026128" source="Library of Congress Subject Headings">Minutes (Records)</genreform>
     </controlaccess>
     <dsc>
       <c id="aspace_fee8b58d4a27223f95ceeb59aa40e6ea" level="series">
@@ -58,128 +91,128 @@
           <did>
             <unittitle>Notebook minutes</unittitle>
             <unitdate normal="1966/1977" type="inclusive">1966-1977</unitdate>
-            <container id="aspace_68a364207b36b05d9cd973ee74a89e9b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3ac75c08563cf76e7ff00500a9c1f32e" parent="aspace_68a364207b36b05d9cd973ee74a89e9b" type="Folder">1</container>
+            <container id="aspace_026ccac727bbed8a4e8fa3d3fb4302e2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2ed61f5e731ec4cb7f46186bc4159fb6" parent="aspace_026ccac727bbed8a4e8fa3d3fb4302e2" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_2fd901467b188e6f23566b079ae26214" level="file">
           <did>
             <unittitle>Notebook minutes</unittitle>
             <unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate>
-            <container id="aspace_5a3844bc129f17e48adf662476909ca9" label="mixed materials" type="Box">1</container>
-            <container id="aspace_cfae7c27e6ec824cd1b7fe47a3a591a0" parent="aspace_5a3844bc129f17e48adf662476909ca9" type="Folder">2</container>
+            <container id="aspace_3085f5896831cd9027df45b497e89e19" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a77eaf3961d9c1ed20a9571c035fb584" parent="aspace_3085f5896831cd9027df45b497e89e19" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_09bb31b3f8652c5b391936fc678b4913" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1976-05/1976-09" type="inclusive">May-Sept. 1976</unitdate>
-            <container id="aspace_4f1fcf3bed8cef8929e779733692fab7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_43f5706009cc77f854b33de61d0eecc6" parent="aspace_4f1fcf3bed8cef8929e779733692fab7" type="Folder">3</container>
+            <container id="aspace_760f75effc988df91b657f03d7d199df" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c1c158e1a7627837dc3876eb20953cba" parent="aspace_760f75effc988df91b657f03d7d199df" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_bdfc2c0608f6f7aaa617be43ac9dcfcd" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1976-11/1978-03" type="inclusive">Nov. 1976 - March 1978</unitdate>
-            <container id="aspace_e8b5285d08815ad2688d676d290d6f03" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ea609455d3ef363723e66990d1089b0c" parent="aspace_e8b5285d08815ad2688d676d290d6f03" type="Folder">4</container>
+            <container id="aspace_9fed41877b4cb269b584db1e11b68417" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1fa069711798031699a9957fc82d9bbe" parent="aspace_9fed41877b4cb269b584db1e11b68417" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_53ed0a2591795112afa4b64bae29a024" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1978-04/1979-01" type="inclusive">April 1978 - January 1979</unitdate>
-            <container id="aspace_6c57ccd94f6e2421dc90ce180f2f3d4f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4f7434c8b678c53d2965edd5a319fa34" parent="aspace_6c57ccd94f6e2421dc90ce180f2f3d4f" type="Folder">5</container>
+            <container id="aspace_267ae6a9cb83db14bd7a9284ac7ef61f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9d516703972804a0f794c4444515b434" parent="aspace_267ae6a9cb83db14bd7a9284ac7ef61f" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_b5348de86a1361959e274068040f0dfd" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1979-03/1980-01" type="inclusive">March 1979 - January 1980</unitdate>
-            <container id="aspace_e38bb44bb9df4ed803d4a8e6a5d74863" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1d9dacd592efac9a9a16d979044ffdd9" parent="aspace_e38bb44bb9df4ed803d4a8e6a5d74863" type="Folder">6</container>
+            <container id="aspace_cff493226e5eb82c59f05eefb26497b1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e8f613befe79194dc6228048e5b429bf" parent="aspace_cff493226e5eb82c59f05eefb26497b1" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_635817d2b81fafe2ce5e68d7b63476c3" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1980-02/1981-01" type="inclusive">February 1980 - January 1981</unitdate>
-            <container id="aspace_4e30a625807483939e32d431d0b90e77" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c14a12090aff639200be0e820d74db09" parent="aspace_4e30a625807483939e32d431d0b90e77" type="Folder">7</container>
+            <container id="aspace_4de5a43f2db788e4ee65cd791756dbd8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3f3d038ab1d4d9934f5d6df54feadca8" parent="aspace_4de5a43f2db788e4ee65cd791756dbd8" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_3dad7dcacefbcbad6124d280e6bb2596" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
-            <container id="aspace_1379f9611466e0fd943c3188c52ae3ba" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d3a6d2b42a2309a95d79b4b12d7f4dfb" parent="aspace_1379f9611466e0fd943c3188c52ae3ba" type="Folder">8</container>
+            <container id="aspace_6c769bea8ce3ab799497c07f53aee6d0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_77724472f91559739d9ad762e643753e" parent="aspace_6c769bea8ce3ab799497c07f53aee6d0" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_5fefff94397f2a885cf5e0c98c6b7191" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1983-01/1983-09" type="inclusive">January - September 1983</unitdate>
-            <container id="aspace_2876721ce1cbad421886b8cf4d7f30ec" label="mixed materials" type="Box">1</container>
-            <container id="aspace_fe3f5fdda0127fe4a6e2a58ce7551ed3" parent="aspace_2876721ce1cbad421886b8cf4d7f30ec" type="Folder">9</container>
+            <container id="aspace_36071aba967d7113122135f63f3bd24c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d054cd4699afc519b2e8a5263d945616" parent="aspace_36071aba967d7113122135f63f3bd24c" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_38189ccc7fe62365b961cfb318bbe05f" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1983-11/1984-09" type="inclusive">November 1983 - September 1984</unitdate>
-            <container id="aspace_53f3ec1e167a9342888d721f5599bc8b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_240d9cd737e98e339b2ad6b971f06e12" parent="aspace_53f3ec1e167a9342888d721f5599bc8b" type="Folder">10</container>
+            <container id="aspace_eefc29abf296f529fc0b54c374b0be1f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bc05136da8694ad88315869f85a5673d" parent="aspace_eefc29abf296f529fc0b54c374b0be1f" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_e20a93a5d3e945383b72c23fcec00d37" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate normal="1986-09/1987-02" type="inclusive">September 1986 - February 1987</unitdate>
-            <container id="aspace_7af8b503b5d11c94f01f677e7609e3a5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_11a5caecb9b8b93817c734f2ae34f931" parent="aspace_7af8b503b5d11c94f01f677e7609e3a5" type="Folder">11</container>
+            <container id="aspace_f4df48daba3364213e14d2f99af8a740" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ccd0022dfef15316ed239fb4d5bf6d9b" parent="aspace_f4df48daba3364213e14d2f99af8a740" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_4901474e4c87cf432e63e803be5f7bba" level="file">
           <did>
             <unittitle>Assorted Minutes</unittitle>
             <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
-            <container id="aspace_3ffa9b1210ce94eb4870ba4602343af8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4852634969118cc3ee53ac0ae27f3ab8" parent="aspace_3ffa9b1210ce94eb4870ba4602343af8" type="Folder">12</container>
+            <container id="aspace_cd139a6349cdc35f8b6d20e586df8757" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_017b2a7470f5c87ce6b64b528e6e8f20" parent="aspace_cd139a6349cdc35f8b6d20e586df8757" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_1f996405131c0b539abbfd86de0cee5d" level="file">
           <did>
             <unittitle>Community Association Constitution</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_3ccedd934afdf401df219a0cf95bd44a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_620ccf10656b47758e817915caf434a6" parent="aspace_3ccedd934afdf401df219a0cf95bd44a" type="Folder">13</container>
+            <container id="aspace_135b9f18074e32b7ef4fff2b727762f4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3d5664c74799898d7e3a9c033128c334" parent="aspace_135b9f18074e32b7ef4fff2b727762f4" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_1fea10ceba8d8c342b17123e39ec943a" level="file">
           <did>
             <unittitle>D.C. Federation of Civic Association</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_1a7512cfa2c1a4f6f3c62afd8fa6a23e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b0233d3a84f114753649750f87be7745" parent="aspace_1a7512cfa2c1a4f6f3c62afd8fa6a23e" type="Folder">14</container>
+            <container id="aspace_efc64c1e9e91bf21c1360c1fb525a68f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_424a2f4783fe887e40d6414b813d1c42" parent="aspace_efc64c1e9e91bf21c1360c1fb525a68f" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_3cb139b79b50c76480fb083906ef9d63" level="file">
           <did>
             <unittitle>Notice of Interest</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_88782f8fb8a4593875353c3d5cdb8892" label="mixed materials" type="Box">1</container>
-            <container id="aspace_adff03aaaed6f6a62ca12bd518abcf6c" parent="aspace_88782f8fb8a4593875353c3d5cdb8892" type="Folder">15</container>
+            <container id="aspace_989a24b85dff859b7d09c2856264cafb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_921e39cb16a826337dc16fd675678516" parent="aspace_989a24b85dff859b7d09c2856264cafb" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_67da4e73b11def652df00762a8668992" level="file">
           <did>
             <unittitle>City Council materials</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_2876e924ad928c3cd1ab5353079c8744" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d2ba9ef29240d0485ea46133af939cf4" parent="aspace_2876e924ad928c3cd1ab5353079c8744" type="Folder">16</container>
+            <container id="aspace_79a794c1106c8f732b92a3d5e7a92e67" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_179534c6283757fe739847d43ef84632" parent="aspace_79a794c1106c8f732b92a3d5e7a92e67" type="Folder">16</container>
           </did>
         </c>
       </c>

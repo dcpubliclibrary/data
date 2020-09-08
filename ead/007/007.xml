@@ -3,23 +3,34 @@
     <eadid url="http://washingtoniana.dclibrary.org">007DCCWCC</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper type="filing">D.C. Civil War Centennial Commission Papers</titleproper>
-        <titleproper>D.C. Civil War Centennial Commission <num>007</num> <num>007</num></titleproper>
-        <subtitle>An inventory of D.C. Civil War Centennial Commission at DC Public Library</subtitle>
+        <titleproper type="filing">District of Columbia Civil War Centennial Commission Records</titleproper>
+        <titleproper>District of Columbia Civil War Centennial Commission Records <num>007</num></titleproper>
+        <subtitle>An inventory of District of Columbia Civil War Centennial Commission Records at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-10-25 23:59:29 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:27:16 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2019-09-23</date>
+        <item>Finding aid revised to be more evergreen. </item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,259 +38,351 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
-      <unittitle>D.C. Civil War Centennial Commission Papers</unittitle>
+      <unittitle>District of Columbia Civil War Centennial Commission Records</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n85188864" source="LCSH">District of Columbia Civil War Centennial Commission</corpname>
+      </origination>
       <unitid>007</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3 linear feet; 3 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 Boxes</extent>
       </physdesc>
       <unitdate normal="1959/1966" type="inclusive">1959-1966</unitdate>
-      <langmaterial id="aspace_eda8a47ed5a6aaad93b328a2cdff9592">English</langmaterial>
       <langmaterial id="aspace_cbb04c596c119170c91c623bc170480e">English</langmaterial>
     </did>
+    <acqinfo id="aspace_09fc7afb9d2efe2add723d3abec6d8a5">
+      <head>Immediate Source of Acquisition</head>
+      <p>The collection was donated by Paul J. Sedgwick, Chairman of the District of Columbia Civil War Centennial Commission.</p>
+    </acqinfo>
+    <arrangement id="aspace_0d65aaafe204d47c71ea44f8ea7de3ac">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_3c49bd074a770e7f0c37b58222052ce9">
       <head>Biographical / Historical</head>
-      <p>The D.C. Civil War Centennial Commission was established in D.C. to coordinate local events to celebrate the 100th anniversary of the Civil War. The D.C. Commission was part of a national effort to commemorate in 1961 the centennial of the Civil War. The Commission began its work in 1959 and continued to sponsor events throughout the City until 1966.</p>
+      <p>The District of Columbia Civil War Centennial Commission was part of the national effort to commemorate and celebrate the 100th anniversary of the American Civil War in 1961. Founded in 1959, the Commission sponsored events throughout D.C. until 1966.</p>
     </bioghist>
-    <custodhist id="aspace_09fc7afb9d2efe2add723d3abec6d8a5">
-      <head>Custodial History</head>
-      <p>The Papers were donated to the Library by Paul J. Sedgwick, Chairman of the D.C. Civil War Centennial Commission.</p>
-    </custodhist>
+    <processinfo id="aspace_8856430d4bf6818c0b5b62f1c809c2bf">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
+    </processinfo>
     <scopecontent id="aspace_c7258291b319568d327617f024151439">
       <head>Scope and Contents</head>
-      <p>The collection contains some correspondence, including a few letters from U.S. Presidents, clippings, photographs, booklets, programs, and other memorabilia from the Commission</p>
+      <p>The collection contains materials related to Commision planning and events; including correspondence, clippings, photographs, booklets, programs, and other memorabilia.</p>
     </scopecontent>
+    <userestrict id="aspace_2371dbf651bc7160f64878c080a6b8d4">
+      <head>Conditions Governing Use</head>
+      <p>No restrictions.</p>
+    </userestrict>
     <controlaccess>
       <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85139803" source="lcsh">United States -- Armed Forces</geogname>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026421" source="Library of Congress Subject Headings">Civil War</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99004929" source="Library of Congress Subject Headings">Centennial celebrations, etc</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99001943" source="Library of Congress Subject Headings">Correspondence</subject>
+      <genreform source="material_type">Ephemera</genreform>
     </controlaccess>
     <dsc>
-      <c id="aspace_ff7261916b98c8d6ca698ba7f582016a" level="series">
+      <c id="aspace_f7382dbd460b50ed15fecf2d420dbaac" level="series">
         <did>
-          <unittitle>Series 1</unittitle>
+          <unittitle>Correspondence</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+          </physdesc>
+          <unitdate normal="1959/1965" type="inclusive">1959-1965</unitdate>
+          <container id="aspace_7600f7b71199e8a75d899d9bd33a8592" label="Mixed Materials" type="Box">1</container>
         </did>
-        <c id="aspace_7c453c2fad54d9bc7926e5a605542c59" level="file">
+        <c id="aspace_0bb8ff55a7a8569f8b0a63e33bb54d26" level="file">
           <did>
             <unittitle>Correspondence</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
             <unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate>
-            <container id="aspace_8d431665783f5a08cf282ba70b5e0291" label="mixed materials" type="Box">1</container>
-            <container id="aspace_86bc28852693cc14a61f335b69ba7d97" parent="aspace_8d431665783f5a08cf282ba70b5e0291" type="Folder">1</container>
           </did>
         </c>
-        <c id="aspace_7f3d4f8eb9186df3a77c5f8dbd17b7f6" level="file">
+        <c id="aspace_43ac3ace0201cbdc780c4da1a6f715b7" level="file">
+          <did>
+            <unittitle>Correspondence, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
+          </did>
+        </c>
+        <c id="aspace_2cf876ea0681cf9e2bc779ac8615a413" level="file">
           <did>
             <unittitle>Correspondence</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_68fb8bec4bbccd8a5f0dce7648f682a5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_17a2c447afae12d12826b574c6d095b3" parent="aspace_68fb8bec4bbccd8a5f0dce7648f682a5" type="Folder">2</container>
-          </did>
-        </c>
-        <c id="aspace_5424e363b8bbfe2335b5caf38e903abd" level="file">
-          <did>
-            <unittitle>Clippings</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
             <unitdate normal="1959/1966" type="inclusive">1959-1966</unitdate>
-            <container id="aspace_a09089e1566418917958e77a41c68113" label="mixed materials" type="Box">1</container>
-            <container id="aspace_baab74b31bf762506a147f7964194a7b" parent="aspace_a09089e1566418917958e77a41c68113" type="Folder">3</container>
           </did>
         </c>
-        <c id="aspace_44b031e7b4609387a17913a6d5df2e5e" level="file">
+      </c>
+      <c id="aspace_242783a0067fdf23b84f75f4bcc78966" level="series">
+        <did>
+          <unittitle>Clippings</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+          </physdesc>
+          <unitdate normal="1959/1966" type="inclusive">1959-1966</unitdate>
+          <container id="aspace_46ed7fa573e8240af3734f4e9027d533" label="Mixed Materials" type="Box">1</container>
+        </did>
+        <c id="aspace_d20e52772143f4bb31226eb25f57c97a" level="file">
           <did>
             <unittitle>Clippings</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_3126cea823348905761990475c0704be" label="mixed materials" type="Box">1</container>
-            <container id="aspace_535e742baa0739a082611a55d6c24c78" parent="aspace_3126cea823348905761990475c0704be" type="Folder">4</container>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1959/1966" type="inclusive">1959-1966</unitdate>
           </did>
         </c>
-        <c id="aspace_d1f6aac2a0c96fb2ce8d2957972c7dec" level="file">
+        <c id="aspace_29ed10655ad8df08ffc92197d5131cc3" level="file">
           <did>
-            <unittitle>Ephemera invitations to events</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_68b6e22c9cc10b9cc14d089982d4bc91" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b04d8876f3362cc1f7f3c9a41ad88c4a" parent="aspace_68b6e22c9cc10b9cc14d089982d4bc91" type="Folder">5</container>
+            <unittitle>Clippings, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_9cc0dfa0192ec45125f354749b6fb2db" level="file">
+      </c>
+      <c id="aspace_72b911ff79fb494259e9968c5d136ff9" level="series">
+        <did>
+          <unittitle>Ephemera, undated</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+          </physdesc>
+          <container id="aspace_f5ae913244d8ecaffd3b6aaef6ad13b5" label="Mixed Materials" type="Box">1</container>
+        </did>
+        <c id="aspace_46d5f180376f46bcf61529d3ad63c806" level="file">
           <did>
-            <unittitle>Ephemera programs</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_31dbfbcacc8b35821f2b326f82e0d2ff" label="mixed materials" type="Box">1</container>
-            <container id="aspace_eea4585fa68b2e82f63365397966ec31" parent="aspace_31dbfbcacc8b35821f2b326f82e0d2ff" type="Folder">6</container>
+            <unittitle>Invitations to events, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_d89791997a38cf7bf5724515e2f9c55e" level="file">
+        <c id="aspace_b1b2a027765e008e1dc7379d9be30343" level="file">
           <did>
-            <unittitle>Ephemera miscellaneous</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_9f72ba332bacfbb163ce10cf2a278580" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5906069b4de4a00c71bcfee1060a9290" parent="aspace_9f72ba332bacfbb163ce10cf2a278580" type="Folder">7</container>
+            <unittitle>Programs, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_9d9e207c3a11ffbe8265e3640fea64ad" level="file">
+        <c id="aspace_6ace2438f0b4256c1efc233d68a13ed0" level="file">
           <did>
-            <unittitle>Photographs of centennial events of Paul Sedgwick</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_5b85269dc4e40e34988538c6bb8fe586" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b86384fa30f8275dba2e7d12faca5e40" parent="aspace_5b85269dc4e40e34988538c6bb8fe586" type="Folder">8</container>
+            <unittitle>Miscellaneous, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_5cbb67ba4793d904453fc3d4910f82fa" level="file">
+      </c>
+      <c id="aspace_0e6e4ab61bb317b609d6ea7820d00759" level="series">
+        <did>
+          <unittitle>Centennial events photographs</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+          </physdesc>
+          <unitdate normal="1959/1966" type="inclusive">1959-1966</unitdate>
+          <container id="aspace_028b39646ba1f5c7a1102e84ce37af3e" label="Mixed Materials" type="box">1-2</container>
+        </did>
+        <c id="aspace_c3857dc77980553b0eae29a50dd260f4" level="file">
           <did>
-            <unittitle>Photographs of centennial events</unittitle>
+            <unittitle>Awarding of centennial medals</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1961/1961">1961</unitdate>
+          </did>
+        </c>
+        <c id="aspace_ba18e5b91da2616e4c987811e9a66ec4" level="file">
+          <did>
+            <unittitle>Events</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
+          </did>
+        </c>
+        <c id="aspace_72c0be51d49e55b3102482c158055cb0" level="file">
+          <did>
+            <unittitle>Events</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
             <unitdate normal="1959/1961" type="inclusive">1959-1961</unitdate>
-            <container id="aspace_e496c5a0b2d57eee4736f23bc35fd7b8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e75afdb07fc139dceb6a2e123506c357" parent="aspace_e496c5a0b2d57eee4736f23bc35fd7b8" type="Folder">9</container>
           </did>
         </c>
-        <c id="aspace_45db6afa38e6196f4221b55ebc8b0f43" level="file">
+        <c id="aspace_7608d2d0aa4f5fc121c97c41a7ddab72" level="file">
           <did>
-            <unittitle>Photographs of centennial events awarding of centennial medals</unittitle>
-            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container id="aspace_6ee883a143a003272f62067f9ca02738" label="mixed materials" type="Box">1</container>
-            <container id="aspace_efbf2da444349fd60b4f21709b4f78e8" parent="aspace_6ee883a143a003272f62067f9ca02738" type="Folder">10</container>
+            <unittitle>Events</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1962/1962">1962</unitdate>
           </did>
         </c>
-        <c id="aspace_e3f4310cc26c217fe4efe996e9445871" level="file">
+        <c id="aspace_323e5c550665f91ef96e616407b72834" level="file">
           <did>
-            <unittitle>Photographs of centennial events awarding of centennial medals</unittitle>
-            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container id="aspace_da3abc65b100bee2f96678774841d40e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_26c4ff240e943720373ee5e7ff3429a1" parent="aspace_da3abc65b100bee2f96678774841d40e" type="Folder">11</container>
-          </did>
-        </c>
-        <c id="aspace_1bbc86ef22ef819d765ef04e3a2056de" level="file">
-          <did>
-            <unittitle>Photographs of centennial events</unittitle>
-            <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
-            <container id="aspace_aa534b0aec9ba4857c5fb409dad3a98c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b16d56c05062c1243dfe3b4bbd08533e" parent="aspace_aa534b0aec9ba4857c5fb409dad3a98c" type="Folder">12</container>
-          </did>
-        </c>
-        <c id="aspace_1d67cba78a494c2007e6ba168e01c9e5" level="file">
-          <did>
-            <unittitle>Photographs of centennial events</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_623602ff8850dc343848de2f62b58c1f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d9c850a24afb7b9ebeca29e18d014030" parent="aspace_623602ff8850dc343848de2f62b58c1f" type="Folder">13</container>
-          </did>
-        </c>
-        <c id="aspace_f30408367c8e16f0b53f3c3dcc958ea0" level="file">
-          <did>
-            <unittitle>Photographs of centennial events</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_86b625cc041e0eef563fc2ae98bae602" label="mixed materials" type="Box">1</container>
-            <container id="aspace_89c762b48baa930cd489747be7f00ade" parent="aspace_86b625cc041e0eef563fc2ae98bae602" type="Folder">14</container>
-          </did>
-        </c>
-        <c id="aspace_bf7cc0f43d0f9c70fb124ded498b532d" level="file">
-          <did>
-            <unittitle>Photographs of centennial events</unittitle>
+            <unittitle>Events</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
             <unitdate normal="1963/1966" type="inclusive">1963-1966</unitdate>
-            <container id="aspace_a63d0bc6db1417f3a453e4199345b2d1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_6ddc81548f3d89fe3693246eb946d227" parent="aspace_a63d0bc6db1417f3a453e4199345b2d1" type="Folder">15</container>
           </did>
         </c>
-        <c id="aspace_21995ac33135f9f08a10c623992611ef" level="file">
+        <c id="aspace_6271bc8698bb1c3ea99f6c95922a3a15" level="file">
           <did>
-            <unittitle>Photographs of centennial events</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_06a2ba73717e60f8f8f757612f33f262" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4dd844ef6f363c78e5e38de03b9cc55c" parent="aspace_06a2ba73717e60f8f8f757612f33f262" type="Folder">16</container>
+            <unittitle>Gettysburg Address observance, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_23de3899626fa90cff954a6ec1922ad9" level="file">
+        <c id="aspace_a95bec6b4041b45e73b170a9484451b9" level="file">
           <did>
-            <unittitle>Photographs of miscellaneous events</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_9e17fde511122da8d1ae6c3c3e2882c6" label="mixed materials" type="Box">2</container>
-            <container id="aspace_0114e3aef609f811bbe187fe71b2fc27" parent="aspace_9e17fde511122da8d1ae6c3c3e2882c6" type="Folder">1</container>
+            <unittitle>Kennedy and McCmilian, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_b1b2e8176cd71a134a4945ce147df3ca" level="file">
+        <c id="aspace_abaab24849f6a7df0dadf7536d798035" level="file">
           <did>
-            <unittitle>Historic photographs used in the commemoration from forts</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_4b941eeb9c5ba68068aa9e8834a147a5" label="mixed materials" type="Box">2</container>
-            <container id="aspace_96651bf0aec4ae4c683f858e97ba6f7a" parent="aspace_4b941eeb9c5ba68068aa9e8834a147a5" type="Folder">2</container>
+            <unittitle>Paul Sedgwick, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_f82af8e8e6160aa968335d3a629630dd" level="file">
+        <c id="aspace_797042f936195e48b48e4f5402ad5f66" level="file">
           <did>
-            <unittitle>Historic photographs for commemorations from the Library of Congress</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_b7ed8b0f7090fc4a724dcf59bfdf579b" label="mixed materials" type="Box">2</container>
-            <container id="aspace_13941c1cf9504b6e2680b13e93b2377c" parent="aspace_b7ed8b0f7090fc4a724dcf59bfdf579b" type="Folder">3</container>
+            <unittitle>Miscellaneous events, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_2fdd20d1adaecb2e33b4dba2e3cb0cdb" level="file">
+      </c>
+      <c id="aspace_71c763bf6076cbf3a80836d74db19b8b" level="series">
+        <did>
+          <unittitle>Historic photographs used in commemoration, undated</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+          </physdesc>
+          <container id="aspace_35db4d56003759720f79d0c91b6d776c" label="Mixed Materials" type="Box">2</container>
+        </did>
+        <c id="aspace_7b9d5f5bad79faf19b50007e8d9991d3" level="file">
           <did>
-            <unittitle>Historic photographs for commemorations from the U.S. Navy</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_aebba223ef7c278a0f5c36cf543a4bd2" label="mixed materials" type="Box">2</container>
-            <container id="aspace_41a36cbe4077cca8f80fb6a111eaa399" parent="aspace_aebba223ef7c278a0f5c36cf543a4bd2" type="Folder">4</container>
+            <unittitle>Forts, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_69c9eb1f6cef507e859c5a1e3f0f6511" level="file">
+        <c id="aspace_40adeed18643c84741670c35e28f53de" level="file">
           <did>
-            <unittitle>Historic photographs for commemorations from the Brady Collection and U.S. Signal Corps</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_785790cd7f1b57cc0ad399f448140e66" label="mixed materials" type="Box">2</container>
-            <container id="aspace_ea6c074be877a3d4c6f7783a2b1c6286" parent="aspace_785790cd7f1b57cc0ad399f448140e66" type="Folder">5</container>
+            <unittitle>Library of Congress, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_03109c2021927e1784a918df7dc9e1b8" level="file">
+        <c id="aspace_a048d5f10c6bbd9958ab5f75049dc4ee" level="file">
           <did>
-            <unittitle>Materials from mounted exhibits</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_600009855077089ca9009f862311a94d" label="mixed materials" type="Box">2</container>
-            <container id="aspace_87bbebfb1f9e96c299e54ed959a1adb0" parent="aspace_600009855077089ca9009f862311a94d" type="Folder">6</container>
+            <unittitle>U.S. Navy, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_c976da606778a92414a0254845964483" level="file">
+        <c id="aspace_00a4bc140416be73d977c3b6a9d714b5" level="file">
           <did>
-            <unittitle>Programs</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_c693186e49555123d6b4558a3ddd7cc0" label="mixed materials" type="Box">3</container>
-            <container id="aspace_3bcccf1e07ea4b9e5d99958964628a9e" parent="aspace_c693186e49555123d6b4558a3ddd7cc0" type="Folder">1</container>
+            <unittitle>Brady Collection and U.S. Signal Corps, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_00006b86a167eff1d7a58a9aca0089c4" level="file">
+      </c>
+      <c id="aspace_6d45e044683938eda3a104570855447e" level="series">
+        <did>
+          <unittitle>Mounted Exhibit, undated</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+          </physdesc>
+          <container id="aspace_6736c439aeafa21b8a95203e2075697b" label="Mixed Materials" type="Box">2</container>
+        </did>
+        <c id="aspace_6f0258c8ae38ba9030db037cdb3d6658" level="file">
           <did>
-            <unittitle>Press releases and publicity</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_8c3ce22d5fb23f72bc0f05b545811c41" label="mixed materials" type="Box">3</container>
-            <container id="aspace_80a8acc82f11a005bcdded3f8ef48e90" parent="aspace_8c3ce22d5fb23f72bc0f05b545811c41" type="Folder">2</container>
+            <unittitle>Materials, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_db4549b7816e1acf281e30755dcfb991" level="file">
+      </c>
+      <c id="aspace_75027756585eb35bdc04d0a70ab2d25e" level="series">
+        <did>
+          <unittitle>Oversized Materials</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+          </physdesc>
+          <unitdate type="inclusive">1907, undated</unitdate>
+          <container id="aspace_a178cb4e3183797b3dc46e2c625a2324" label="Mixed Materials" type="Box">3</container>
+        </did>
+        <c id="aspace_9eacc398d02ebcdb81b0ed4d4c6ae238" level="file">
           <did>
-            <unittitle>Photographs</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_025c2707eb06d90b672f3d9de4b99cc2" label="mixed materials" type="Box">3</container>
-            <container id="aspace_6208e6cd342fc1fc1d74b1c3657618b3" parent="aspace_025c2707eb06d90b672f3d9de4b99cc2" type="Folder">3</container>
+            <unittitle>Programs, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_192719a7ab397fcc4a4e25647f16400d" level="file">
+        <c id="aspace_8c9d02f6852deb18ee7fb81cc4e33d13" level="file">
           <did>
-            <unittitle>Takoma Park: 75 Year of Community Living</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f5393a97559d0e1cf3b7423ebb47d37e" label="mixed materials" type="Box">3</container>
-            <container id="aspace_ce0f975b4cbba0343993e3c33fe6cecc" parent="aspace_f5393a97559d0e1cf3b7423ebb47d37e" type="Folder">4</container>
+            <unittitle>Press releases and publicity, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_525e540d6d07198660bceb9a7f72fef2" level="file">
+        <c id="aspace_7f73cf1a195b8f0f6e6752f33058ecbf" level="file">
           <did>
-            <unittitle>Album loose-leaf pages</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_c6a4ca7ca7d7649a676b7943d525c986" label="mixed materials" type="Box">3</container>
-            <container id="aspace_ab39a33aa32299976a0c359510134c49" parent="aspace_c6a4ca7ca7d7649a676b7943d525c986" type="Folder">5</container>
+            <unittitle>Photographs, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
           </did>
         </c>
-        <c id="aspace_a0f1d71f718b6c50d69a0acc189f41fb" level="file">
+        <c id="aspace_50e06ac7436dcf7c22b2846bf8e6a225" level="file">
           <did>
-            <unittitle>Marcus T. Wright - Battles and Commanders of the Civil War</unittitle>
-            <unitdate normal="1907/1907" type="inclusive">1907</unitdate>
-            <container id="aspace_848a5810ea113a8bd823e51e37e3f398" label="mixed materials" type="Box">3</container>
-            <container id="aspace_aa2ed5e9eba22eff342bb6b262a3cd30" parent="aspace_848a5810ea113a8bd823e51e37e3f398" type="Folder">6</container>
+            <unittitle>Takoma Park: 75 Year of Community Living, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
+          </did>
+        </c>
+        <c id="aspace_3347dea2b0f00e1b4bf5cacc9b2edf31" level="file">
+          <did>
+            <unittitle>Album loose-leaf pages, undated</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
+          </did>
+        </c>
+        <c id="aspace_31fcbfc67251e31b5d9529b319142b7e" level="file">
+          <did>
+            <unittitle>Wright, Marcus T., Battles and Commanders of the Civil War</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1907/1907">1907</unitdate>
           </did>
         </c>
       </c>

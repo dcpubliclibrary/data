@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Dupont Circle Community Association Records</titleproper>
-        <titleproper>Dupont Circle Community Association <num>106</num> <num>106</num></titleproper>
-        <subtitle>An inventory of Dupont Circle Community Association at DC Public Library</subtitle>
+        <titleproper>Dupont Circle Community Association Records <num>106</num></titleproper>
+        <subtitle>An inventory of Dupont Circle Community Association Records at DC Public Library</subtitle>
         <author>Finding aid prepared by Rachel Telford.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2007-03</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:10:17 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:46:45 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-08-26</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,32 +38,58 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Dupont Circle Community Association Records</unittitle>
+      <origination label="creator">
+        <corpname source="local">Dupont Circle Community Association</corpname>
+      </origination>
       <unitid>106</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.5 linear feet; 3 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Boxes</extent>
       </physdesc>
       <unitdate normal="1972/1978" type="inclusive">1972-1978</unitdate>
-      <langmaterial id="aspace_057c2198a51c14667fa62d5c186b1364">English</langmaterial>
       <langmaterial id="aspace_86f4486e571aec0b0e28f3fbf7284b8c">English</langmaterial>
     </did>
+    <arrangement id="aspace_dfa5d4110d4e164ef35fdb0c0013420f">
+      <head>Arrangement</head>
+      <p>Series I: Organizational Materials<br/>
+This series contains meeting minutes, photographs, and a history of the organization.<br/>
+<br/>
+Series II: Zoning<br/>
+This series contains legal documents, correspondence, clippings, and a copy of the DC Zoning Regulations.</p>
+    </arrangement>
     <bioghist id="aspace_09b57cd14f14c83a84228bb4f0cb7f53">
       <head>Biographical / Historical</head>
-      <p>The collection consists of meeting minutes, administrative materials, community newsletters and announcements, correspondence, and legal documents. The collection is divided into three series: Organizational Information, Community Issues, and Civic Organizations.</p>
+      <p>The Dupont Circle Community Association was formed in May 1922. The goals of the organization were "the advancement of the city's housing conditions; school betterment; traffic regulations; and fair and equitable rates for public service corporations, especially street car fares and electric light rates." The North Dupont area boundaries were defined as Florida Avenue to the west, T Street to the north, and 15th Street to the south. In the 1970s, the Dupont Circle Community Association was involved in a number of legal disputes over property and zoning regulations, including a proposed plan to demolish the Salvation Army Building at 1800 Corcoran Street NW.</p>
     </bioghist>
-    <custodhist id="aspace_1cb07c2a41fed9c42578ea48f828eb6a">
+    <custodhist id="aspace_7e17e8bcd3118e11543f31d37fb06db3">
       <head>Custodial History</head>
-      <p>The Collection was donated by Joseph A. Glover of The Dupont Circle Community Association.</p>
+      <p>This collection was donated by Joseph A. Glover of the Dupont Circle Community Association.</p>
     </custodhist>
+    <processinfo id="aspace_3022325ba025b4face936ed0dae5b979">
+      <head>Processing Information</head>
+      <p>Standard archival procedures were used at the time of processing.</p>
+    </processinfo>
     <scopecontent id="aspace_7e81622db03c383dc01c95243ddfd4f3">
       <head>Scope and Contents</head>
-      <p>The collection consists of meeting minutes, legal documents, clippings, and correspondence. The Collection is divided into two series: Organizational Materials, and Zoning.</p>
+      <p>This collection consists of meeting minutes, legal documents, clippings, and correspondence related to the Dupont Circle Community Association.</p>
     </scopecontent>
+    <userestrict id="aspace_6182bb50e6a82f105f51d799ff683a66">
+      <head>Conditions Governing Use</head>
+      <p>There are no restrictions on this collection.</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85062603" source="Library of Congress Subject Headings">Housing</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <genreform source="material_type">Organizational Records</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85029254" source="Library of Congress Subject Headings">Community organization</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85075742" source="Library of Congress Subject Headings">Legal documents</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99001943" source="Library of Congress Subject Headings">Correspondence</subject>
+      <genreform authfilenumber="http://id.loc.gov/authorities/genreForms/gf2014026128" source="Library of Congress Subject Headings">Minutes (Records)</genreform>
     </controlaccess>
     <dsc>
       <c id="aspace_f8f6568b4172454cb10f50de97865624" level="series">
@@ -67,32 +104,32 @@
           <did>
             <unittitle>History</unittitle>
             <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
-            <container id="aspace_8d3f210ad480d171297e38f7a74b3d2f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9a48739686b7d1579b53133f0dc95010" parent="aspace_8d3f210ad480d171297e38f7a74b3d2f" type="Folder">1</container>
+            <container id="aspace_af43694de90016a486f2ba5c9ab62d25" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6e689720f63c3ae2f6083a29d01c0da1" parent="aspace_af43694de90016a486f2ba5c9ab62d25" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_dec78f2a05c86830eab8e3c1df0dc901" level="file">
           <did>
             <unittitle>Minutes and General Paperwork</unittitle>
             <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
-            <container id="aspace_520a82c33aa02230412b88c4ebb38933" label="mixed materials" type="Box">1</container>
-            <container id="aspace_fc486e3d2e609303588ba98cd90a6699" parent="aspace_520a82c33aa02230412b88c4ebb38933" type="Folder">2</container>
+            <container id="aspace_73f1adb102f709e016f05d90bb1db706" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_91f60f87305523ab505b857768dc1cb7" parent="aspace_73f1adb102f709e016f05d90bb1db706" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_26425b1927bdb2746b4734e14fca3567" level="file">
           <did>
             <unittitle>Photos of Columbine by Paul Crumrine</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_2bf72e2f4830cda8a887ca51f87d8601" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9e295e1b297bb6144047c5f0e9fd2276" parent="aspace_2bf72e2f4830cda8a887ca51f87d8601" type="Folder">3</container>
+            <container id="aspace_941904a82a338269514d6be3d0bb92c3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bf1bf9014b90eb33efd8eb3b3245b9e5" parent="aspace_941904a82a338269514d6be3d0bb92c3" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ff31151873cd0563127a35be9fcdd174" level="file">
           <did>
             <unittitle>Photos</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_2b95247a430a8338946001369eca5850" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ceadd12d883b1f8521a94a6648301edf" parent="aspace_2b95247a430a8338946001369eca5850" type="Folder">4</container>
+            <container id="aspace_5cd9b470d4fe5e5cd872e044bd6b4a3e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_33794399e2423fd1630015d54d72c559" parent="aspace_5cd9b470d4fe5e5cd872e044bd6b4a3e" type="Folder">4</container>
           </did>
         </c>
       </c>
@@ -108,168 +145,168 @@
           <did>
             <unittitle>Connecticut Avenue</unittitle>
             <unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate>
-            <container id="aspace_211e4fb9a55ea291ec9d5a5bc305d5e8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1d37a6711857d6be470cd60eb7ebdc74" parent="aspace_211e4fb9a55ea291ec9d5a5bc305d5e8" type="Folder">5</container>
+            <container id="aspace_dd2a2d677ec9ebdb5d6121e5e98dd65f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5d7231b3a1b062fb67328fcb871594ad" parent="aspace_dd2a2d677ec9ebdb5d6121e5e98dd65f" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_77c5932dd5afa137c2e4f922dcc75287" level="file">
           <did>
             <unittitle>Connecticut Avenue</unittitle>
             <unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate>
-            <container id="aspace_456756e8fd268755faa1bb9a9969b03b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e970634f5afe1b661ebce0c9b7124f75" parent="aspace_456756e8fd268755faa1bb9a9969b03b" type="Folder">6</container>
+            <container id="aspace_7bf1a9c25acf04a580496bbfb76556f5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a8d5600e083a510d420a4d74b68b0452" parent="aspace_7bf1a9c25acf04a580496bbfb76556f5" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_e2c3b043d2e1c1068bc34619e902442b" level="file">
           <did>
             <unittitle>Demolition of Housing</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="aspace_899afbbbe3d7ddc0f2c54eea896f7c81" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f46e26f582f4ebc94c200719aa4999db" parent="aspace_899afbbbe3d7ddc0f2c54eea896f7c81" type="Folder">7</container>
+            <container id="aspace_8a4ae8baacff546fdb256a9f75995114" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_798898c79651356c0f6a1bf48f535248" parent="aspace_8a4ae8baacff546fdb256a9f75995114" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_7bbda6ded62b50f09c11562660139a31" level="file">
           <did>
             <unittitle>Underpass</unittitle>
             <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
-            <container id="aspace_1b0a480acb96a920f93a3f4233797f7b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_fc09f7452c34042d8bc393c60d25afd2" parent="aspace_1b0a480acb96a920f93a3f4233797f7b" type="Folder">8</container>
+            <container id="aspace_41b59684bfefed725802fd0622aa4a36" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_942b4f8892c0ed86b9a0f06f3f5947e6" parent="aspace_41b59684bfefed725802fd0622aa4a36" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_9835651780eab90087795915789e34af" level="file">
           <did>
             <unittitle>Metro Elevator</unittitle>
             <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
-            <container id="aspace_99a81fa28ea3e08dc3a7d9de1cea18e6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1abc9db25d47efe58a35516b00e54441" parent="aspace_99a81fa28ea3e08dc3a7d9de1cea18e6" type="Folder">9</container>
+            <container id="aspace_cc81558f186478cb92b767f1571684c7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e745aa480699c7f5d529e350554e700c" parent="aspace_cc81558f186478cb92b767f1571684c7" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_7a1ad936e69bddf99e35c8ec46b5894d" level="file">
           <did>
             <unittitle>Salvation Army</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="aspace_ca7f2b12b54c52dc7eeaa75de1038707" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2de5b17a7c642894485a6caa9c4b0135" parent="aspace_ca7f2b12b54c52dc7eeaa75de1038707" type="Folder">10</container>
+            <container id="aspace_e6691cec5ea651cf3939f036a7d484a5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5ebd0b6c366e556d2661a0e9f4205b36" parent="aspace_e6691cec5ea651cf3939f036a7d484a5" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_0210aeef2c375220f5c81eddb2624cb3" level="file">
           <did>
             <unittitle>Salvation Army</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="aspace_ff2bfad28da4f4c260507831b0548bf3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_24fa7f49fe970f3a2c8f2633700a0e95" parent="aspace_ff2bfad28da4f4c260507831b0548bf3" type="Folder">11</container>
+            <container id="aspace_e7d225a5046ed8f4ebcf1f0f120e80a4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_40c29bd8bc55d0fd58ce400c64ca61f2" parent="aspace_e7d225a5046ed8f4ebcf1f0f120e80a4" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_91df314aa2da3b0d146ecc3eedf2045a" level="file">
           <did>
             <unittitle>Legal Documents Re: Salvation Army</unittitle>
             <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
-            <container id="aspace_7e39edebcccc970af49351a1b839db15" label="mixed materials" type="Box">2</container>
-            <container id="aspace_beb14dee9bba579675936beadf2acaef" parent="aspace_7e39edebcccc970af49351a1b839db15" type="Folder">1</container>
+            <container id="aspace_3f7d8c457ba922b1759bec56b39b4465" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ab3fb7603aa9487c64060110c856c455" parent="aspace_3f7d8c457ba922b1759bec56b39b4465" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_a503527864acd34461d8cb698231e9bc" level="file">
           <did>
             <unittitle>Legal Documents Re: Salvation Army</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="aspace_ac01aa7439d62fc31640bb6b6952c086" label="mixed materials" type="Box">2</container>
-            <container id="aspace_bbeff9d84839fb32d1ea830e1abf31d4" parent="aspace_ac01aa7439d62fc31640bb6b6952c086" type="Folder">2</container>
+            <container id="aspace_8ad4c766fdc854688e9267ca8e99e1c7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_fb86ecb7376cd5ef05d6803485388300" parent="aspace_8ad4c766fdc854688e9267ca8e99e1c7" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_2456f23283e12c0662969725389bb870" level="file">
           <did>
             <unittitle>Legal Documents Re: Salvation Army</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="aspace_b27f8b8c858f33e3d8926f8023397fd2" label="mixed materials" type="Box">2</container>
-            <container id="aspace_23dee637b0d9691241203308db117c3a" parent="aspace_b27f8b8c858f33e3d8926f8023397fd2" type="Folder">3</container>
+            <container id="aspace_89bf0b3eb639802aae75c29092bb78d1" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7f900181cf7efcdc49a10d4b03578f2e" parent="aspace_89bf0b3eb639802aae75c29092bb78d1" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_7389289872496e8d33baab997653f07a" level="file">
           <did>
             <unittitle>Legal Documents Re: Salvation Army</unittitle>
             <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
-            <container id="aspace_37683ac92be80588e192e4c7839d35f5" label="mixed materials" type="Box">2</container>
-            <container id="aspace_20f3264f175ff2faf1c21326d7f4ab8c" parent="aspace_37683ac92be80588e192e4c7839d35f5" type="Folder">4</container>
+            <container id="aspace_fc98760057bfe94457d0d4bdd7733097" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9f37ed238afa44cae77737811976b02f" parent="aspace_fc98760057bfe94457d0d4bdd7733097" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_0c4303f54840f4d4cdbed4409b866486" level="file">
           <did>
             <unittitle>Legal Documents Re: Salvation Army</unittitle>
             <unitdate normal="1973/1975" type="inclusive">1973-1975</unitdate>
-            <container id="aspace_34f610e222b1a7411e51a3947f328e1b" label="mixed materials" type="Box">2</container>
-            <container id="aspace_55d950d0944c4e17732ed09208e59404" parent="aspace_34f610e222b1a7411e51a3947f328e1b" type="Folder">5</container>
+            <container id="aspace_25fb64ac78b53938d724efc1f360f6d1" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_140452cd58715a451c1e0829d107eb39" parent="aspace_25fb64ac78b53938d724efc1f360f6d1" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_044b4dad9618ff023de7ed4c7b25f0ab" level="file">
           <did>
             <unittitle>Legal Documents Re: Salvation Army</unittitle>
             <unitdate normal="1973/1975" type="inclusive">1973-1975</unitdate>
-            <container id="aspace_8b1b69b52ce873411a676ad4edd7e49f" label="mixed materials" type="Box">2</container>
-            <container id="aspace_fa8d1006d65d56c4b55da9ce10604308" parent="aspace_8b1b69b52ce873411a676ad4edd7e49f" type="Folder">6</container>
+            <container id="aspace_79c907cd1ac910b4e4741f4488f26222" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d6d7d3d8002a06dd29bae06ec5ded194" parent="aspace_79c907cd1ac910b4e4741f4488f26222" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_bd75f130aacf334731fdf1b9413bbf8b" level="file">
           <did>
             <unittitle>Legal Documents: Board of Zoning Adjustment</unittitle>
             <unitdate type="inclusive">1972, 1975-1978</unitdate>
-            <container id="aspace_a2aea855a1ab760a78e2f7447d8a3afe" label="mixed materials" type="Box">2</container>
-            <container id="aspace_5bbcabe553afc40dd412fb75321f1eab" parent="aspace_a2aea855a1ab760a78e2f7447d8a3afe" type="Folder">7</container>
+            <container id="aspace_4f1ad064e3c5d1a0aeb177a00c5e901e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_dba6a24066b541a61f7d56958b2b4348" parent="aspace_4f1ad064e3c5d1a0aeb177a00c5e901e" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_aebc0a5932dd699f2396529a0191c02d" level="file">
           <did>
             <unittitle>Court Cases: Appeals</unittitle>
             <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
-            <container id="aspace_d01042d97b04d29e6717a4f2ff4a8d9b" label="mixed materials" type="Box">2</container>
-            <container id="aspace_05cd0077b4428a184a0f2df3cb0486a3" parent="aspace_d01042d97b04d29e6717a4f2ff4a8d9b" type="Folder">8</container>
+            <container id="aspace_ee01c1539e6b2ac339c911d515fed7ed" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c7b0733f0c78726d49f85afebe3d743f" parent="aspace_ee01c1539e6b2ac339c911d515fed7ed" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_72ac675560becf2912a91ea13979b011" level="file">
           <did>
             <unittitle>Regulation Amendments and Rezoning</unittitle>
             <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
-            <container id="aspace_b6f97df75db209daa6669dc4c657a7ac" label="mixed materials" type="Box">3</container>
-            <container id="aspace_36aa962dca34b7a16f7961bfbfb5b641" parent="aspace_b6f97df75db209daa6669dc4c657a7ac" type="Folder">1</container>
+            <container id="aspace_58bb450609de5bae238cc31a3c3b6d77" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_1c694fdf25b968282154c351d6dc8591" parent="aspace_58bb450609de5bae238cc31a3c3b6d77" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_f0a051ec0fde707bfbaf98bb89db40e9" level="file">
           <did>
             <unittitle>Zoning Adjustment</unittitle>
             <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
-            <container id="aspace_399f7d161640246b2f0d75b17a55d2cf" label="mixed materials" type="Box">3</container>
-            <container id="aspace_14f02b38d4528a8bbc23f2f43d78fa64" parent="aspace_399f7d161640246b2f0d75b17a55d2cf" type="Folder">2</container>
+            <container id="aspace_fb967aa6d4704f2f82706a0b377bdcc1" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_7d9524cfd67413fe63194f3f3624412e" parent="aspace_fb967aa6d4704f2f82706a0b377bdcc1" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_415591cdf140084bcc472e7437dcc573" level="file">
           <did>
             <unittitle>Zoning Adjustment</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="aspace_a5c3eea1246a6d1761838f0dee451bab" label="mixed materials" type="Box">3</container>
-            <container id="aspace_ae8a292c0db6ed18070a99e512040420" parent="aspace_a5c3eea1246a6d1761838f0dee451bab" type="Folder">3</container>
+            <container id="aspace_3613c762f2c58cbc2ffbeacd5c18f874" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_1f9b29f88fb14ab524cbcfb74e474703" parent="aspace_3613c762f2c58cbc2ffbeacd5c18f874" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_5b9b1ad7b1d91cc3595e132fb142383a" level="file">
           <did>
             <unittitle>Zoning Adjustment</unittitle>
             <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
-            <container id="aspace_887c6461778968cb5b5bd449719a52e1" label="mixed materials" type="Box">3</container>
-            <container id="aspace_5fa58daa334e8354000a12ba8a765684" parent="aspace_887c6461778968cb5b5bd449719a52e1" type="Folder">4</container>
+            <container id="aspace_ddb572ec96fa9ebae07d97f3a13bf809" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b5a5c8c6b122273efb847cd121624129" parent="aspace_ddb572ec96fa9ebae07d97f3a13bf809" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_6f281acd52fa5b54c5ce46ddaf9614d7" level="file">
           <did>
             <unittitle>Zoning Regulations</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="aspace_720c1a1e896b1fc7a10be76b39c20d9c" label="mixed materials" type="Box">3</container>
-            <container id="aspace_ee1395fda4e806af329672da107b1f48" parent="aspace_720c1a1e896b1fc7a10be76b39c20d9c" type="Folder">5</container>
+            <container id="aspace_dfd49cc3cd15ddcf605a6bc33ff6b6f7" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_aa73146e5b26b89d82ec6dfdc4255c01" parent="aspace_dfd49cc3cd15ddcf605a6bc33ff6b6f7" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_6e26626971d7eda3b2e826877f26d7fb" level="file">
           <did>
             <unittitle>Zoning Clippings</unittitle>
             <unitdate normal="1971/1975" type="inclusive">1971-1975</unitdate>
-            <container id="aspace_05e20474c7b91de48ea37de7b90bb27b" label="mixed materials" type="Box">3</container>
-            <container id="aspace_9492ac1d1b0bee1b4f3ed03c893e374d" parent="aspace_05e20474c7b91de48ea37de7b90bb27b" type="Folder">6</container>
+            <container id="aspace_374e84bcb8a6ec00a3839e26c6964faf" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_a126c7e2ce4f3f213beab525b9940cc5" parent="aspace_374e84bcb8a6ec00a3839e26c6964faf" type="Folder">6</container>
           </did>
         </c>
       </c>

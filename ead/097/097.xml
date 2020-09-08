@@ -4,19 +4,24 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Congress Heights Historic Building Survey Collection</titleproper>
-        <titleproper>Congress Heights Historic Building Survey <num>097</num> <num>097</num></titleproper>
+        <titleproper>Congress Heights Historic Building Survey <num>097</num></titleproper>
         <subtitle>An inventory of Congress Heights Historic Building Survey at DC Public Library</subtitle>
         <author>Finding aid prepared by Rachel Telford.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2007-01</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:09:40 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:46:08 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -27,21 +32,32 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Congress Heights Historic Building Survey Collection</unittitle>
+      <origination label="creator">
+        <corpname source="local">Congress Heights Historic Building Survey</corpname>
+      </origination>
       <unitid>097</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.5 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
-      <langmaterial id="aspace_e248b72ee85d8d5524d036bf31d2cc25">English</langmaterial>
       <langmaterial id="aspace_73db2d29ad3a141ec1e46a3839872e35">English</langmaterial>
     </did>
     <scopecontent id="aspace_4b51bd2d1b0c61a2b7b9a6b4fed011ea">
       <head>Scope and Contents</head>
-      <p>The collection consists of notes, clippings, research resources, correspondence, plat maps, and legal documents.</p>
+      <p>This collection consists of photocopies of surveys of buildings in Congress Heights with permits circa 1900-1930.</p>
     </scopecontent>
+    <controlaccess>
+      <genreform authfilenumber="http://id.loc.gov/authorities/subjects/sh99001768" source="Library of Congress Subject Headings">Surveys</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85061097" source="Library of Congress Subject Headings">Historic buildings</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85017769" source="Library of Congress Subject Headings">Buildings</subject>
+    </controlaccess>
     <dsc>
       <c id="aspace_21ed0d82653ddd0963baef13a1347f3d" level="series">
         <did>
@@ -51,184 +67,184 @@
           <did>
             <unittitle>Alabama Avenue, 501-718, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_ee90a9c1e3afe4243c3652017a26d506" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ddac9c5920ebd5ce0b9a88389997c128" parent="aspace_ee90a9c1e3afe4243c3652017a26d506" type="Folder">1</container>
+            <container id="aspace_add502ecee0ae42fd8bd66f45b66e410" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5772842dab67c88b7a1edca9ebc35007" parent="aspace_add502ecee0ae42fd8bd66f45b66e410" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_aa8a64f4cf2a361c1ed22f68e696a1cf" level="file">
           <did>
             <unittitle>Alabama Avenue, 800-918, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_d9210adcc755b29e997a459cf77e9743" label="mixed materials" type="Box">1</container>
-            <container id="aspace_fe0408895dc9d227a73b6f7cdf859d95" parent="aspace_d9210adcc755b29e997a459cf77e9743" type="Folder">2</container>
+            <container id="aspace_2271d281f0a517268e5306854ce34e36" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_76c1e0ddf7f29cde9b984ec61a0ff2d6" parent="aspace_2271d281f0a517268e5306854ce34e36" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ec201b134dbc63e91984d144b81e0386" level="file">
           <did>
             <unittitle>Alabama Avenue, 1101-1107, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_66cdf4f64bc00920e42717c4c5bc2817" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c4d22536579a3816462c728efc687862" parent="aspace_66cdf4f64bc00920e42717c4c5bc2817" type="Folder">3</container>
+            <container id="aspace_6269d52d9494080339d973c59190cbf9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1388d2af55b8c4052f6ce0dc2cf73381" parent="aspace_6269d52d9494080339d973c59190cbf9" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_1edfab8e951605cbbb816fd59c14cbd7" level="file">
           <did>
             <unittitle>Brothers Place, 3323-3606, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_3b4190da86d2fd0a8a05280e82cfa48a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9332fde17460f7c2a9eaac09796bbc35" parent="aspace_3b4190da86d2fd0a8a05280e82cfa48a" type="Folder">4</container>
+            <container id="aspace_47f81c0a8f40bb6350456a00341c0d64" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8bd110df9f32477e715f8592d7bccef2" parent="aspace_47f81c0a8f40bb6350456a00341c0d64" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_e3f090f9bf8b371902e2b158ad25542a" level="file">
           <did>
             <unittitle>1004 Congress Street</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_33ff14795e94c10b8a6f1c07ac6a510c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_656761f0548966de5f08252f34247205" parent="aspace_33ff14795e94c10b8a6f1c07ac6a510c" type="Folder">5</container>
+            <container id="aspace_9ec8095768c5b992676d58673032c2a3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3bb2b8f913355a0f3876e30042e1eae1" parent="aspace_9ec8095768c5b992676d58673032c2a3" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_c3c85b193e08fdf3218da4285364ea41" level="file">
           <did>
             <unittitle>Lebaum Street, S.E., 444-468, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_19e6b3e19e78974a1afdbef9630965aa" label="mixed materials" type="Box">1</container>
-            <container id="aspace_839d6f7cd2aa5dba2666909a47576d00" parent="aspace_19e6b3e19e78974a1afdbef9630965aa" type="Folder">6</container>
+            <container id="aspace_4b7a79c30d325a1bf44dec996ebf0944" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a1f33293b1f0ee16126b811fe4cf644c" parent="aspace_4b7a79c30d325a1bf44dec996ebf0944" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ab149846dd695f36835736790d93228a" level="file">
           <did>
             <unittitle>Lebaum Street, S.E., 500-520, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_8971308201ac8a57494a0e7214da2896" label="mixed materials" type="Box">1</container>
-            <container id="aspace_8c3a3f185b8ed9644abc2cc1eea05123" parent="aspace_8971308201ac8a57494a0e7214da2896" type="Folder">7</container>
+            <container id="aspace_a616d08e28ffe525c2b5c8181ef194d3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5a377b24d6913241dd394f5639a36a01" parent="aspace_a616d08e28ffe525c2b5c8181ef194d3" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_0dbeded4d2db2cf18c55785684a58fbe" level="file">
           <did>
             <unittitle>Lebaum Street, S.E., 520-530, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_4c09bd891da897968db93d9d772032dd" label="mixed materials" type="Box">1</container>
-            <container id="aspace_88c75f0b5556a28c2c7214075d0b0fb3" parent="aspace_4c09bd891da897968db93d9d772032dd" type="Folder">8</container>
+            <container id="aspace_fa3fd751fd28a584086c69dd37500519" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3db68ac03cb748c36beceebed014d28f" parent="aspace_fa3fd751fd28a584086c69dd37500519" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_8d18dc0b1b94cf03deb64f163fd61814" level="file">
           <did>
             <unittitle>Lebaum Street, S.E., 531-548, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_a4a78b6b01562949eef4ca67b5372318" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ee86224ba46d0f081cc998256498abdc" parent="aspace_a4a78b6b01562949eef4ca67b5372318" type="Folder">9</container>
+            <container id="aspace_695752d1c6cbeb0cee353480d72d7beb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2f08b180a5bb6842254bf34647ee8575" parent="aspace_695752d1c6cbeb0cee353480d72d7beb" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_3feb6e481df910fb45e84463189be2bf" level="file">
           <did>
             <unittitle>Martin Luther King Avenue, 2923-3613, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_576cd1e42e49a18f4748078794136992" label="mixed materials" type="Box">1</container>
-            <container id="aspace_49613edd97231da4d8568e0133068a93" parent="aspace_576cd1e42e49a18f4748078794136992" type="Folder">10</container>
+            <container id="aspace_52807dbc5a43c2717711a4446d6bbaee" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_725e1bff7cb30851d23f0d9959172457" parent="aspace_52807dbc5a43c2717711a4446d6bbaee" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_512fbbc37b776f718e8334b6711c584a" level="file">
           <did>
             <unittitle>Mellon Street, 456-625, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_927bdc9ca53d32b4e6df7fd9d6013e3e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0bb0730d19b6ddff7309440333a2a9d4" parent="aspace_927bdc9ca53d32b4e6df7fd9d6013e3e" type="Folder">11</container>
+            <container id="aspace_cfbe031a342c1091703269d62010a9b5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d37cf5051fba2984fe316f6c76eb7042" parent="aspace_cfbe031a342c1091703269d62010a9b5" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_05edc006621bf98208ec69633345d6ba" level="file">
           <did>
             <unittitle>Necomb Street, 423-459, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_65f82e46624aa6bf36a3afced00a8c56" label="mixed materials" type="Box">1</container>
-            <container id="aspace_04a59b2588800c1805a6bb6dbab06288" parent="aspace_65f82e46624aa6bf36a3afced00a8c56" type="Folder">12</container>
+            <container id="aspace_124b6071e5543e2d448e1a44618cde01" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1b2d84f784d6a4ee2337fb28c300012a" parent="aspace_124b6071e5543e2d448e1a44618cde01" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_0c2729a8a4f02194f009d6eb6fca4740" level="file">
           <did>
             <unittitle>Necomb Street, 510-538, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_ad099bd487d971f25875bc09c6ac16a5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4dd0609328e71a2a17b7b65fe78d2beb" parent="aspace_ad099bd487d971f25875bc09c6ac16a5" type="Folder">13</container>
+            <container id="aspace_f379633c037be24a6b29c50830dc78c8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e43467cae478d4edfaec496fde1f5487" parent="aspace_f379633c037be24a6b29c50830dc78c8" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_99197ef3cf2259b2eded790066992df6" level="file">
           <did>
             <unittitle>Oakwood Street, 401-421, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f57bf7f19b29819f5b6ecde9a1cb3cc8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_14e67afd714cf5b0c4a1ac7a8e12e143" parent="aspace_f57bf7f19b29819f5b6ecde9a1cb3cc8" type="Folder">14</container>
+            <container id="aspace_926466fe4b27e435ab02fce682c9312e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e8ebc292c120d5e2482e318083502d4d" parent="aspace_926466fe4b27e435ab02fce682c9312e" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_e38b8df1cca8914983a2d237e1c58894" level="file">
           <did>
             <unittitle>Oakwood Street, 425-453, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_4fcb96051eb6cc3b3ea5e95815810454" label="mixed materials" type="Box">1</container>
-            <container id="aspace_031e5c00b4eb87c98560acf01fea5328" parent="aspace_4fcb96051eb6cc3b3ea5e95815810454" type="Folder">15</container>
+            <container id="aspace_bb89e1afc98e683c93009e4cf80ee446" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f6ecaf8957def719949156b56e3e02bd" parent="aspace_bb89e1afc98e683c93009e4cf80ee446" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_793a03a5d900ae110a3560cc2decfb62" level="file">
           <did>
             <unittitle>Oakwood Street, 512-528, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_15f0da2a9a78d4fbded92cc2df354134" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3452c220b30fa4c7ccf59b9494ac8216" parent="aspace_15f0da2a9a78d4fbded92cc2df354134" type="Folder">16</container>
+            <container id="aspace_3be6c73098e86c01e66be3a46ba3551f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f45b48ee85c8ab2cc83ed8fd9462fa39" parent="aspace_3be6c73098e86c01e66be3a46ba3551f" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_12e3102eff76d4812ecc5ebf7f6acba8" level="file">
           <did>
             <unittitle>Oakwood Street, 530-538, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_337e7f5ce4146308d1f972041ac2c7d3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4afb30ddb4729b6c2b077d92d1833a63" parent="aspace_337e7f5ce4146308d1f972041ac2c7d3" type="Folder">17</container>
+            <container id="aspace_a8f13600ed4c5639006a9c92031445d7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_de5105e5fe3609b94cdbe9930f8c20b7" parent="aspace_a8f13600ed4c5639006a9c92031445d7" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_3138873fda8a09c980074d2dbc55eaab" level="file">
           <did>
             <unittitle>Portland Street, 617-718, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_181f779c3495c6ac080ed1afd74e2301" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2c433687bc087540e00c5c1959151ab2" parent="aspace_181f779c3495c6ac080ed1afd74e2301" type="Folder">18</container>
+            <container id="aspace_1191173c2331359f5296d51ff675c257" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e9f26239c0e522880617e12237126ecf" parent="aspace_1191173c2331359f5296d51ff675c257" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_50d9f8f4013b1a52bfd4d69473b2db75" level="file">
           <did>
             <unittitle>Portland Street, 800-811, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_45804b82b1798fa8445c61050cc326f8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_17067478812504c111104ccb976d8359" parent="aspace_45804b82b1798fa8445c61050cc326f8" type="Folder">19</container>
+            <container id="aspace_bc8e6316c9473caa5446cf103870f483" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4fbd9420b6c92bf190035b3d3f83cd01" parent="aspace_bc8e6316c9473caa5446cf103870f483" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_d14e52d9620269db4324eacd80632258" level="file">
           <did>
             <unittitle>Raleigh Street, 111-626, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_c80fd8d0ebd47bb45d67e4e36c83d147" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3755f40dbdf59a64239038083fcde7d1" parent="aspace_c80fd8d0ebd47bb45d67e4e36c83d147" type="Folder">20</container>
+            <container id="aspace_a37d9f6b46b96ff37baaac6dbc47e4ba" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f643711b631d9d18ef822685e2cfb7f8" parent="aspace_a37d9f6b46b96ff37baaac6dbc47e4ba" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_f9ce3d54db6301feb16b4ebc416f0d5e" level="file">
           <did>
             <unittitle>Savannah Street, 915-1008, Not Inclusive</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_ca2f75d9224dab2c95643b778310a569" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e66cfd94c0ba40f73eec1f195abe3451" parent="aspace_ca2f75d9224dab2c95643b778310a569" type="Folder">21</container>
+            <container id="aspace_811fdef17c90cd85edf4f5b43d284733" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cd37dee2b33a906707e52df0f0fb5496" parent="aspace_811fdef17c90cd85edf4f5b43d284733" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_ec3360165d532338e615e92eda6ffd21" level="file">
           <did>
             <unittitle>3303 5th Street and Other Materials</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_910f571005979607450bee6fbb51424b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ce4e60416ef4de7918a86a1878193e90" parent="aspace_910f571005979607450bee6fbb51424b" type="Folder">22</container>
+            <container id="aspace_a70523c3227b0590c05d214a0422c558" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4fd0ff586f0592d1c652d7bd191678fd" parent="aspace_a70523c3227b0590c05d214a0422c558" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_a9000b4d96021df41573dca05d4edfee" level="file">
           <did>
             <unittitle>3004 9th Street</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_73831879496df952e992b80742034a3c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9c8a27351d8654bed4f58d41a94369db" parent="aspace_73831879496df952e992b80742034a3c" type="Folder">23</container>
+            <container id="aspace_1c2ce5a531e6c2cb29da56a290625bb9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6a768371542b88a29c36042704a15c61" parent="aspace_1c2ce5a531e6c2cb29da56a290625bb9" type="Folder">23</container>
           </did>
         </c>
       </c>

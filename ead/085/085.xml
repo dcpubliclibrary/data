@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Washington Academy of Sciences Collection</titleproper>
-        <titleproper>Washington Academy of Sciences <num>085</num> <num>085</num></titleproper>
+        <titleproper>Washington Academy of Sciences <num>085</num></titleproper>
         <subtitle>An inventory of Washington Academy of Sciences at DC Public Library</subtitle>
         <author>Finding aid prepared by Ryan P. Semmes.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-11</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:08:29 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:44:56 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-07-31</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,31 +38,51 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Washington Academy of Sciences Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n85801369" source="LCSH">Washington Academy of Sciences (Washington, D.C.)</corpname>
+      </origination>
       <unitid>085</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.5 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1897/1965" type="inclusive">1897-1965</unitdate>
-      <langmaterial id="aspace_449b7d9a381bb00d39552473f25b7740">English</langmaterial>
       <langmaterial id="aspace_3e30a0d6dc2176fa2b2cce9a887488ee">English</langmaterial>
     </did>
+    <arrangement id="aspace_70ea8092cb0f0edcea04f0c5ba117555">
+      <head>Arrangement</head>
+      <p>Processed without series. The files are arranged in alphabetical order.</p>
+    </arrangement>
     <bioghist id="aspace_0f8fb66e54432211abc6059ded0c04bc">
       <head>Biographical / Historical</head>
-      <p>This collection consists of yearbooks covering the years from 1924-1962. Included in this collection are District of Columbia Local Chapter yearbooks, as well as District of Columbia State Chapter yearbooks.</p>
+      <p>The Washington Academy of Sciences was born out of a joint commission of various scientific societies in the city of Washington, D.C. In 1897, the joint commission studied the usefulness of creating a federation of all societies; they then banded together to create an umbrella organization in order to better coordinate their efforts to maximize membership and fellowship. The original three societies were the Philosophical, the Anthropological, and the Biological Societies of Washington, D.C. One of the most notable members of the Washington Academy of Sciences was Alexander Graham Bell, inventor of the telephone. The Academy continues to exist in 2020, with nearly 60 affiliated organizations.</p>
     </bioghist>
     <custodhist id="aspace_3900a9451785d3a87f84b0f310e0ee4a">
       <head>Custodial History</head>
-      <p>The materials in this collection were removed from the vertical files and the Cutter Collection.</p>
+      <p>The materials in this collection were removed from the DC Public Library Special Collections Department's vertical files and the Cutter Collection.</p>
     </custodhist>
+    <processinfo id="aspace_37efa39f06439d50d4a4640f23e1e929">
+      <head>Processing Information</head>
+      <p>Basic archival procedures were used at the time of processing.</p>
+    </processinfo>
     <scopecontent id="aspace_38ab93e0931b49d466d3d2c439e4da01">
       <head>Scope and Contents</head>
-      <p>This collection consists of by-laws, directories, journals, clippings, rules, and programs from the Washington Academy of Sciences. The files are arranged in alphabetical order.</p>
+      <p>This collection consists of by-laws, directories, journals, clippings, rules, and programs related to the Washington Academy of Sciences from 1897-1965.</p>
     </scopecontent>
+    <userestrict id="aspace_ae03d0dbfd42eacc0ded54af6c58e5fc">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
     <controlaccess>
-      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008810" source="lcsh">Associations, institutions, etc</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85118553" source="Library of Congress Subject Headings">Science</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
+      <genreform source="material_type">Organizational Records</genreform>
+      <genreform source="material_type">Ephemera</genreform>
     </controlaccess>
     <dsc>
       <c id="aspace_8e9d1a3eb6cabdfbaafb5b749666222d" level="series">
@@ -62,168 +93,168 @@
           <did>
             <unittitle>Act of Incorporation By-Laws</unittitle>
             <unitdate normal="1898/1898" type="inclusive">1898</unitdate>
-            <container id="aspace_e9620deca0e8effd56f0af1e481240b5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_332c684a6460c6311b1b303ef6f09b7e" parent="aspace_e9620deca0e8effd56f0af1e481240b5" type="Folder">1</container>
+            <container id="aspace_48d1a3b3dadef5d1ca129a9ad1c1ff72" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9798d7cdc861572143ced00efb7162d4" parent="aspace_48d1a3b3dadef5d1ca129a9ad1c1ff72" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_502a481311b6733c1a02d3b2c8b24ffa" level="file">
           <did>
             <unittitle>Ballot - Amendments to the By-Laws</unittitle>
             <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
-            <container id="aspace_ee8ee47e126468a06ea443010ffa95c1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_cc68f8e885998203c331e65181bd4b30" parent="aspace_ee8ee47e126468a06ea443010ffa95c1" type="Folder">2</container>
+            <container id="aspace_2c01f38071a925a48bf523d317b065ba" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_904c4d32b3622b33a1823de5d4778580" parent="aspace_2c01f38071a925a48bf523d317b065ba" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_2f8979797334cb99d06a887f02544068" level="file">
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1932/1965" type="inclusive">1932-1965</unitdate>
-            <container id="aspace_c67ff38ee4708177fe8ecb880535aab3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_8b16c3c43ec6ee33d3cbd90cbc508a07" parent="aspace_c67ff38ee4708177fe8ecb880535aab3" type="Folder">3</container>
+            <container id="aspace_aa714d7be35b77f742e76efc59cedb2f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c44d3df6e2a74e431b1731ccf2e24546" parent="aspace_aa714d7be35b77f742e76efc59cedb2f" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_bcf66b4ec5774468bc92390d38357a8d" level="file">
           <did>
             <unittitle>Directory</unittitle>
             <unitdate normal="1909/1909" type="inclusive">1909</unitdate>
-            <container id="aspace_f0cf223d5d9f26c2d5ff7809f34a8cdf" label="mixed materials" type="Box">1</container>
-            <container id="aspace_48f6d8a13df6d1452bc4a9e27ae4bffb" parent="aspace_f0cf223d5d9f26c2d5ff7809f34a8cdf" type="Folder">4</container>
+            <container id="aspace_380c74c47968e7b038567e5ee17a7083" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_326d02250f533a8d12d74544e5e471a4" parent="aspace_380c74c47968e7b038567e5ee17a7083" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_03facb511568858095db1d6048ae0742" level="file">
           <did>
             <unittitle>Directory</unittitle>
             <unitdate normal="1911/1911" type="inclusive">1911</unitdate>
-            <container id="aspace_6a1bb59fa1a262877c03ade2e0f09401" label="mixed materials" type="Box">1</container>
-            <container id="aspace_dc8737914ea36e1997ab377cdca3016f" parent="aspace_6a1bb59fa1a262877c03ade2e0f09401" type="Folder">5</container>
+            <container id="aspace_5de791bbf08c46f98a9b27ac2c16480c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7b0d96ca9180ebbf571ba79ffd42c477" parent="aspace_5de791bbf08c46f98a9b27ac2c16480c" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_70c2b5c462d6f5289472c2508e48fe2d" level="file">
           <did>
             <unittitle>Directory</unittitle>
             <unitdate normal="1913/1913" type="inclusive">1913</unitdate>
-            <container id="aspace_b58d6d7cd85927307ed9c719f3575ff7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_8e1a8182bf6216ca512a3a9d3af97fb2" parent="aspace_b58d6d7cd85927307ed9c719f3575ff7" type="Folder">6</container>
+            <container id="aspace_d01f3aa742d397f90573d735b2fa9da2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5d6c5c06af5fd98e57727c9832ac7e04" parent="aspace_d01f3aa742d397f90573d735b2fa9da2" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_1f5ac355926d22bfac2b5f31375bed08" level="file">
           <did>
             <unittitle>Directory</unittitle>
             <unitdate normal="1920/1920" type="inclusive">1920</unitdate>
-            <container id="aspace_80e3af52b357b8a9c1c72c75a0b9005f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d906baa7ac76eb8e49dfd6547777c494" parent="aspace_80e3af52b357b8a9c1c72c75a0b9005f" type="Folder">7</container>
+            <container id="aspace_53c342d5559c368f6d99fad028e2be18" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c10a9f41edc1235150e33af7407460f5" parent="aspace_53c342d5559c368f6d99fad028e2be18" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_2299eb7602b79947b3824baf130d3c8d" level="file">
           <did>
             <unittitle>Directory</unittitle>
             <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
-            <container id="aspace_21686229feb6e3bc020254484c5f3f51" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7cf95320848d29c8067d7b89d55e0d1a" parent="aspace_21686229feb6e3bc020254484c5f3f51" type="Folder">8</container>
+            <container id="aspace_1004cd323a6e358d803335fd9efe00f2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e1bd8c19f8e1cb0a96fe9aa38716e250" parent="aspace_1004cd323a6e358d803335fd9efe00f2" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_55385b9bc9a8dd3ed70547dec083cb9d" level="file">
           <did>
             <unittitle>Directory</unittitle>
             <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
-            <container id="aspace_828e20f2f27150616346cb6cef775774" label="mixed materials" type="Box">1</container>
-            <container id="aspace_157b0c2534a892ae57b26d89c42bf3a1" parent="aspace_828e20f2f27150616346cb6cef775774" type="Folder">9</container>
+            <container id="aspace_7301568be6ce0a6fc9749017903f2922" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_31d347fa898306fe38fa228300db0a8d" parent="aspace_7301568be6ce0a6fc9749017903f2922" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_c49c55ac8db122b99301696fc4295960" level="file">
           <did>
             <unittitle>Directory</unittitle>
             <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
-            <container id="aspace_d7ecf1aa1ed6aa488e31cf058a268b8c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_bc8237763c91230587f9755825b218b7" parent="aspace_d7ecf1aa1ed6aa488e31cf058a268b8c" type="Folder">10</container>
+            <container id="aspace_c65ebe4fc164ec901883301c33e03dd2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1b51248922665851f1f3ef1d836986f6" parent="aspace_c65ebe4fc164ec901883301c33e03dd2" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_57923f7c8e7857145cbf398efee9916b" level="file">
           <did>
             <unittitle>Directory</unittitle>
             <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
-            <container id="aspace_76c88af98cb7f9ddb608177fd4ac05d0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_080f30a10114f198c9734cd83c802fab" parent="aspace_76c88af98cb7f9ddb608177fd4ac05d0" type="Folder">11</container>
+            <container id="aspace_0de0e76cabdf99a5e5650d1520e7edfe" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_006ce5eb3546b46b256f41ad65a3cba4" parent="aspace_0de0e76cabdf99a5e5650d1520e7edfe" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_1a8cd4252df406402a2538de37289108" level="file">
           <did>
             <unittitle>Directory</unittitle>
             <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
-            <container id="aspace_09529feaaaf1570c9adc5735efd94800" label="mixed materials" type="Box">1</container>
-            <container id="aspace_86af3f9153fd060769e4016ea7c89d56" parent="aspace_09529feaaaf1570c9adc5735efd94800" type="Folder">12</container>
+            <container id="aspace_1f429f66ae82d4120afd874524cf0235" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2947153814c6f5528bc5c1b761799767" parent="aspace_1f429f66ae82d4120afd874524cf0235" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_b1e093d86a06b10249be10dc2c91be64" level="file">
           <did>
             <unittitle>Directory</unittitle>
             <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
-            <container id="aspace_824f5eb39a590900d64f5b5bb99ec38c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f6a310df0d2bd65ab1681466957dff6d" parent="aspace_824f5eb39a590900d64f5b5bb99ec38c" type="Folder">13</container>
+            <container id="aspace_1f195bc94907f9f328deb1e554be8d47" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6c11f08c242a42131fe2b90a1b012e75" parent="aspace_1f195bc94907f9f328deb1e554be8d47" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_4d04bb1b8687eda8318d7c86f7016006" level="file">
           <did>
             <unittitle>Directory</unittitle>
             <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
-            <container id="aspace_500d27ad6c35d564ebae4f36306f1eb8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_edd730cd47ca0b3d8450a89fb337ec69" parent="aspace_500d27ad6c35d564ebae4f36306f1eb8" type="Folder">14</container>
+            <container id="aspace_92195327d780903ee0fd392b6e6262d4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_caa305dae580b369e18feb380590dfb7" parent="aspace_92195327d780903ee0fd392b6e6262d4" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_85b548b77b74b99aabeafd65db03e23a" level="file">
           <did>
             <unittitle>History of the Joint Commission of the Scientific Societies of Washington</unittitle>
             <unitdate normal="1897/1897" type="inclusive">1897</unitdate>
-            <container id="aspace_3383aa4029afd44d6e689ea21610b714" label="mixed materials" type="Box">1</container>
-            <container id="aspace_05985c3beb679d8545483690b2e87f5b" parent="aspace_3383aa4029afd44d6e689ea21610b714" type="Folder">15</container>
+            <container id="aspace_68f8821d7505a85a8c911187b1e546db" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3589caaea561ff795b3b51af085ba352" parent="aspace_68f8821d7505a85a8c911187b1e546db" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_8df5ab293aa9111c3dbfbd7a73a139ac" level="file">
           <did>
             <unittitle>Journal of the Washington Academy of Sciences</unittitle>
             <unitdate normal="1938-05/1938-05" type="inclusive">May 1938</unitdate>
-            <container id="aspace_3cb25ac951f4783b2aab5f0a4225cfa1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_6217e08e77a4de012627f471f66e98b6" parent="aspace_3cb25ac951f4783b2aab5f0a4225cfa1" type="Folder">16</container>
+            <container id="aspace_fd6812135a00fd3e59ff8322dc496b97" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bc8765efc4d012abf7f8e6f2ef76d0e2" parent="aspace_fd6812135a00fd3e59ff8322dc496b97" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_af6e3d19f61ec81f0879233e419cb3b2" level="file">
           <did>
             <unittitle>Journal of the Washington Academy of Sciences</unittitle>
             <unitdate normal="1965-03/1965-03" type="inclusive">March 1965</unitdate>
-            <container id="aspace_493cd5b9d98b8cc7484602608e581e09" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f74bfd8099b3a0b3ffac6a6e7ca67df4" parent="aspace_493cd5b9d98b8cc7484602608e581e09" type="Folder">17</container>
+            <container id="aspace_5a60593750df9f0ad6a0b8b733eafbf9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_68cb94c70049884590a18fefff919013" parent="aspace_5a60593750df9f0ad6a0b8b733eafbf9" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_cf0d10d7304ad122a645fa3385dda119" level="file">
           <did>
             <unittitle>Meeting Announcements</unittitle>
             <unitdate normal="1940/1956" type="inclusive">1940-1956</unitdate>
-            <container id="aspace_9a6a2478c7676a87a4b2471504c0ae46" label="mixed materials" type="Box">1</container>
-            <container id="aspace_dd4d31365b1c4c289861403e7b5d033e" parent="aspace_9a6a2478c7676a87a4b2471504c0ae46" type="Folder">18</container>
+            <container id="aspace_e351c9b34dcaf3f9cc8be9d39a056c58" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_12958f4fe691c40eefcbcdaab5af5a55" parent="aspace_e351c9b34dcaf3f9cc8be9d39a056c58" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_53364422752443f977bc8591610941e8" level="file">
           <did>
             <unittitle>Officers</unittitle>
             <unitdate normal="1928/1932" type="inclusive">1928-1932</unitdate>
-            <container id="aspace_651f356c634169044781044b699c03a1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d9a1b3395194199bc12e0856f70cad88" parent="aspace_651f356c634169044781044b699c03a1" type="Folder">19</container>
+            <container id="aspace_de1f0c5a8ef2fd1d86fb2fc4c99fd661" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_99935e9f20f4910a0e2bf473878870a6" parent="aspace_de1f0c5a8ef2fd1d86fb2fc4c99fd661" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_0f2e9072eb702a64aea12a4a867f0d7c" level="file">
           <did>
             <unittitle>Programs</unittitle>
             <unitdate normal="1953/1959" type="inclusive">1953-1959</unitdate>
-            <container id="aspace_dec6e9cbe6833f220ec58086faff7b41" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c02ea378ae0ebb91062a6626677a9c70" parent="aspace_dec6e9cbe6833f220ec58086faff7b41" type="Folder">20</container>
+            <container id="aspace_90b20c7063a10ca8718b9316b9de0f5b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5075575fef06ac5b3421b20c16d9b095" parent="aspace_90b20c7063a10ca8718b9316b9de0f5b" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_c1696e205179ba5d341eb8a1b67636d0" level="file">
           <did>
             <unittitle>Rules of the Board of Managers</unittitle>
             <unitdate normal="1920/1920" type="inclusive">1920</unitdate>
-            <container id="aspace_6f0cfc6c2c5ef0724c5ec81068f312af" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0a79ad32d087d0b96a312c649ed5b492" parent="aspace_6f0cfc6c2c5ef0724c5ec81068f312af" type="Folder">21</container>
+            <container id="aspace_08c1c16bd29a1fead57ddf85c13b7d2c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_25fae2a63612c218bf8fa5f996c77526" parent="aspace_08c1c16bd29a1fead57ddf85c13b7d2c" type="Folder">21</container>
           </did>
         </c>
       </c>

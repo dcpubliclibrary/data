@@ -4,19 +4,24 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Women's City Club of Washington, DC Collection</titleproper>
-        <titleproper>Women's City Club of Washington, DC <num>049</num> <num>049</num></titleproper>
+        <titleproper>Women's City Club of Washington, DC <num>049</num></titleproper>
         <subtitle>An inventory of Women's City Club of Washington, DC at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:05:11 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:32:18 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -27,28 +32,34 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
-      <unittitle>Women's City Club of Washington, DC Collection</unittitle>
+      <unittitle>Women's City Club of Washington, D.C. Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n2013045506" source="LCSH">Women's City Club (Washington, D.C.)</corpname>
+      </origination>
       <unitid>049</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.4 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.4 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1924/1983" type="inclusive">1924-1983</unitdate>
-      <langmaterial id="aspace_55c51ae8971de5e315af98a06266b487">English</langmaterial>
       <langmaterial id="aspace_764fafbf0d082f6109726c3a7846d36d">English</langmaterial>
     </did>
     <bioghist id="aspace_f4c24b49c5af5832070a69561f803376">
       <head>Biographical / Historical</head>
-      <p>Whereas many area women's clubs prior to 1919 had strict qualifications for membership, the Women's City Club of Washington, DC (founded 1919) strove to be more inclusive. According to the first president, Judge Mary O'Toole, the group hoped to attract not only women in the academic and professional sphere but housewives as well. The charter called for a better understanding among women, and a place for women to meet and socialize. Among the club's other objectives were cultural and civic advancement in the District and general welfare for its citizens. Club activities ranged from Spanish and French language classes to lecture series concerning the arts and sciences. The group also participated in the Annual Red Cross campaign and organized a food and clothing drive for war torn countries in Europe following the Second World War.</p>
-      <p> Among the founding members of the club was Judge Mary O'Toole, the first woman judge in the District as well as the club's first president. The first chairwoman was Ellen Spencer Mussey, co-founder of the Washington College of Law. Several first ladies became honorary members of the organization including Mrs. Herbert Hoover, Eleanor Roosevelt, and Bess Truman. Helen Keller, Marie Curie, and Charles Lindbergh were given special awards for their pursuit of knowledge, dedication to country, and humanitarian endeavors.</p>
+      <p>Whereas many area women's clubs prior to 1919 had strict qualifications for membership, the Women's City Club of Washington, DC (founded 1919) strove to be more inclusive.  According to the first president, Judge Mary O'Toole, the group hoped to attract not only women in the academic and professional sphere but housewives as well. The charter called for a better understanding among women, and a place for women to meet and socialize.  Among the club's other objectives were cultural and civic advancement in the District and general welfare for its citizens. Club activities ranged from Spanish and French language classes to lecture series concerning the arts and sciences.  The group also participated in the Annual Red Cross campaign and organized a food and clothing drive for war torn countries in Europe following the Second World War.</p>
+      <p>Among the founding members of the club was Judge Mary O'Toole, the first woman judge in the District as well as the club's first president.  The first chairwoman was Ellen Spencer Mussey, co-founder of the Washington College of Law.  Several first ladies became honorary members of the organization including Mrs. Herbert Hoover, Eleanor Roosevelt, and Bess Truman.  Helen Keller, Marie Curie, and Charles Lindbergh were given special awards for their pursuit of knowledge, dedication to country, and humanitarian endeavors.</p>
     </bioghist>
     <scopecontent id="aspace_8ec1aa129ef74873f564ddce448f4837">
       <head>Scope and Contents</head>
-      <p>Records from the Women's City Club of Washington, DC extend from 1924 through 1983. The collection contains by-laws, annual reports, monthly bulletins, programs, and yearbooks. Significant items in the collection are the twentieth anniversary yearbook and bulletin containing highlights, reminiscences, and the history of the club from 1919 through 1939.</p>
+      <p>Records from the Women's City Club of Washington, DC extend from 1924 through 1983.  The collection contains by-laws, annual reports, monthly bulletins, programs, and yearbooks. Significant items in the collection are the twentieth anniversary yearbook and bulletin containing highlights, reminiscences, and the history of the club from 1919 through 1939.</p>
     </scopecontent>
     <controlaccess>
-      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008810" source="lcsh">Associations, institutions, etc</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85147274" source="Library of Congress Subject Headings">Women</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_0ae1ed82ffc58a80e24af68e20bc8197" level="series">
@@ -59,56 +70,56 @@
           <did>
             <unittitle>Annual Report of the President</unittitle>
             <unitdate normal="1954/1956" type="inclusive">1954-1956</unitdate>
-            <container id="aspace_2109278cc07831ea7756ef5a694edd25" label="mixed materials" type="Box">1</container>
-            <container id="aspace_6838e2f214c2607b136f62ce3d3c6181" parent="aspace_2109278cc07831ea7756ef5a694edd25" type="Folder">1</container>
+            <container id="aspace_4ad80c55b73563340f20d4e7eb9115f6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7e2e6ae3e4c880748cbc178f762c3928" parent="aspace_4ad80c55b73563340f20d4e7eb9115f6" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_456b443ce5cb27cb6cdfa70400305577" level="file">
           <did>
             <unittitle>Bulletins</unittitle>
             <unitdate normal="1928/1955" type="inclusive">1928-1955</unitdate>
-            <container id="aspace_66b0bf1fcfdfad92bbf8009015505a49" label="mixed materials" type="Box">1</container>
-            <container id="aspace_98d6dbed8675a92fc93fffc09dc9b079" parent="aspace_66b0bf1fcfdfad92bbf8009015505a49" type="Folder">2</container>
+            <container id="aspace_c20737250cc6aee938815b2233b09400" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ebe599e206cb39b01a5e8d90ddb601c2" parent="aspace_c20737250cc6aee938815b2233b09400" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_a6ca56ec977206615b880c0ad702d530" level="file">
           <did>
             <unittitle>By-laws</unittitle>
             <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
-            <container id="aspace_770f48137b9aeee1f9d7157dd1f7355f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d3a50f4fbbee0160d89171d3038e7460" parent="aspace_770f48137b9aeee1f9d7157dd1f7355f" type="Folder">3</container>
+            <container id="aspace_ced15211ab23ba932a47fe8a8f2a1ab9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_42f72370ef4ae2eceb64f2779ef94372" parent="aspace_ced15211ab23ba932a47fe8a8f2a1ab9" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ed7cfe911c360fdffa3cedfcc901a370" level="file">
           <did>
             <unittitle>Letters to Members</unittitle>
             <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
-            <container id="aspace_7d9e8648b8e0b6ff71a7b27c90adb9b1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ac14d65635edeee9b6dade7872ea82db" parent="aspace_7d9e8648b8e0b6ff71a7b27c90adb9b1" type="Folder">4</container>
+            <container id="aspace_79fe7b671d7f433cb7bfd40696f752ac" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f3c95c2960c60d5fc3166d792acf33a4" parent="aspace_79fe7b671d7f433cb7bfd40696f752ac" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_5b101f78e47d5ac63d1b8ac12573647a" level="file">
           <did>
             <unittitle>Programs</unittitle>
             <unitdate normal="1924/1939" type="inclusive">1924-1939</unitdate>
-            <container id="aspace_dabe4b07f06b5afc8ed7de6e439958f3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1309faf45a98f17b07371acb5f31fb45" parent="aspace_dabe4b07f06b5afc8ed7de6e439958f3" type="Folder">5</container>
+            <container id="aspace_605cfcc0cd75017d10bfa79ef8af8a54" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_eed0dcc80d7d284c9031a0b768501226" parent="aspace_605cfcc0cd75017d10bfa79ef8af8a54" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_a67617a8f820bfe7e91294811829efbd" level="file">
           <did>
             <unittitle>Twentieth Anniversary Yearbook and Bulletin</unittitle>
             <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
-            <container id="aspace_da9bdb21a37ae6a3fbd40b29042bded7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_87982d3cb20ee7303e92b4a8948cba6a" parent="aspace_da9bdb21a37ae6a3fbd40b29042bded7" type="Folder">6</container>
+            <container id="aspace_86193b6a1e25998822c3d65a4ca74245" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1b620e1fa64e5fe75e1d61bce492746b" parent="aspace_86193b6a1e25998822c3d65a4ca74245" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_fbacb106f781aa0f8f69ed7c4d4a666d" level="file">
           <did>
             <unittitle>Yearbooks</unittitle>
             <unitdate normal="1926/1983" type="inclusive">1926-1983</unitdate>
-            <container id="aspace_0691b6993503e5063e07ee68ec1ad8ea" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b902e049d2179d8e05116473066228e9" parent="aspace_0691b6993503e5063e07ee68ec1ad8ea" type="Folder">7</container>
+            <container id="aspace_52d411436591614853a9119dbad987da" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_41fecd3bf9dd445209aff39409555dba" parent="aspace_52d411436591614853a9119dbad987da" type="Folder">7</container>
           </did>
         </c>
       </c>

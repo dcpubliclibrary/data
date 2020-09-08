@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">American Society of Landscape Architects Records</titleproper>
-        <titleproper>American Society of Landscape Architects <num>026</num> <num>026</num></titleproper>
+        <titleproper>American Society of Landscape Architects <num>026</num></titleproper>
         <subtitle>An inventory of American Society of Landscape Architects at DC Public Library</subtitle>
         <author>Finding aid prepared by Leroy Graham.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>1991-05</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:02:27 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:29:40 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-04-14</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,27 +38,50 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>American Society of Landscape Architects Records</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n2010031156" source="LCSH">American Society of Landscape Architects. Potomac Chapter</corpname>
+      </origination>
       <unitid>026</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">6 linear feet; 12 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">6 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">12  Boxes</extent>
       </physdesc>
       <unitdate normal="1941/1979" type="inclusive">1941-1979</unitdate>
-      <langmaterial id="aspace_c8f8a613fbc3c1789f6da8633264b14d">English</langmaterial>
       <langmaterial id="aspace_41e724e6a36353bf7e5e7e134dea26ca">English</langmaterial>
     </did>
+    <arrangement id="aspace_74a8a3c2dac19265d7dc5744f7514acc">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_9236865fc593fa49e0fa6cef664bc25a">
       <head>Biographical / Historical</head>
-      <p>The American Society of Landscape Architects was organized to advance the education and skills of landscape architects and to promote interest in urban, regional, and neighborhood planning. The Potomac Chapter encompasses D.C., Maryland, and Virginia.</p>
+      <p>The American Society of Landscape Architects was organized in 1899 to advance the education and skills of landscape architects; and to promote interest in urban, regional, and neighborhood planning. The Potomac Chapter, formed in 1938, includes D.C., and portions of Maryland, and Northern Virginia.</p>
     </bioghist>
+    <custodhist id="aspace_e4413fcc395319263f2aafb26f26ef00">
+      <head>Custodial History</head>
+      <p>Donated in 1983.</p>
+    </custodhist>
+    <processinfo id="aspace_72f9e4f15244bd8cb69599ab2eb81094">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
+    </processinfo>
     <scopecontent id="aspace_42b7529e2bad519cc50aa687ae007654">
       <head>Scope and Contents</head>
-      <p>SCOPE AND CONTENT NOTE: The collection contains correspondence, meeting minutes, reports, financial data, and membership information which document the work and activities of the Chapter. It also includes a number of publications including Outdoor Advertising, Landscape Architecture Quarterly and annual reports of the Chapter</p>
+      <p>The collection contains correspondence, meeting minutes, reports, financial data, and membership information which document the work and activities of the Potomac Chapter of the American Society of Landscape Architects. It also includes a number of publications including Outdoor Advertising, Landscape Architecture Quarterly and annual reports of the Chapter.</p>
     </scopecontent>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85006611" source="Library of Congress Subject Headings">Architecture</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026282" source="Library of Congress Subject Headings">City planning</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85032985" source="Library of Congress Subject Headings">Nonprofit organizations</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99001943" source="Library of Congress Subject Headings">Correspondence</subject>
+      <genreform authfilenumber="http://id.loc.gov/authorities/genreForms/gf2014026128" source="Library of Congress Subject Headings">Minutes (Records)</genreform>
+      <genreform source="material_type">Organizational Records</genreform>
     </controlaccess>
     <dsc>
       <c id="aspace_ebf7e6711a55ea35be1e84222af9f534" level="series">
@@ -58,192 +92,192 @@
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate normal="1945/1953" type="inclusive">1945-1953</unitdate>
-            <container id="aspace_99ab54bd5b0c47d0d13bc8576a480b86" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4b8fabb9c2beec7c7cbec8826f5cc523" parent="aspace_99ab54bd5b0c47d0d13bc8576a480b86" type="Folder">1</container>
+            <container id="aspace_de6fa4af54ac41c7bc1bdbd73efbb2f5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0327414ad9ef0054f4266dd512cb3736" parent="aspace_de6fa4af54ac41c7bc1bdbd73efbb2f5" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_e43719f57027a15512a6b1316348db9b" level="file">
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate normal="1956/1956" type="inclusive">1956-1960's</unitdate>
-            <container id="aspace_957b2c60c0536da8a12d6a56ee1b7246" label="mixed materials" type="Box">2</container>
-            <container id="aspace_d3372b10170156d7a36a0ac29a3d7f33" parent="aspace_957b2c60c0536da8a12d6a56ee1b7246" type="Folder">1</container>
+            <container id="aspace_40b84540b60a671799b8ce43ce5175ff" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9c9f9e1d4e50e047eec2d02598e63f21" parent="aspace_40b84540b60a671799b8ce43ce5175ff" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_c66d1e6f6138aa473cd13a90e5ea63e7" level="file">
           <did>
             <unittitle>Committee reports</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_53d5fe21a3051dc8612f7e6f2214734c" label="mixed materials" type="Box">3</container>
-            <container id="aspace_24be8b462adabcd0d3d10ff3a56032a5" parent="aspace_53d5fe21a3051dc8612f7e6f2214734c" type="Folder">1</container>
+            <container id="aspace_cb6306cebc6fc503b13f85bf4e93f72f" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_607c24a81e78a151f380ee50d2e248a7" parent="aspace_cb6306cebc6fc503b13f85bf4e93f72f" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_12cc3f925073584a53e144748ff1d1a4" level="file">
           <did>
             <unittitle>Constitutional matters</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_0dc4d82a937c172141c89f78b4e5a4c8" label="mixed materials" type="Box">3</container>
-            <container id="aspace_0ce667293b1f3ae2181524906de5ea9a" parent="aspace_0dc4d82a937c172141c89f78b4e5a4c8" type="Folder">2</container>
+            <container id="aspace_3d580a5feb84d97577de3059ee59edce" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f98d4f23489e2dd2ebc0682b7bc4f59e" parent="aspace_3d580a5feb84d97577de3059ee59edce" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_b6b0ca29118259d23d119f59b3bb2099" level="file">
           <did>
             <unittitle>Treasury reports</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_3d4de9b55a31997ec2ae924be484af6c" label="mixed materials" type="Box">4</container>
-            <container id="aspace_82f691e2b8865b9829fb8faaccd25261" parent="aspace_3d4de9b55a31997ec2ae924be484af6c" type="Folder">1</container>
+            <container id="aspace_b85aead647360fc6f25c4368d69268d6" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_92941122bed157ccaa2aec76d1525d87" parent="aspace_b85aead647360fc6f25c4368d69268d6" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_dcd2a1bdc1618e7188ce1c589d587181" level="file">
           <did>
             <unittitle>Financial matters</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_6232bbe426ecf665c775a0b8ecbd95f3" label="mixed materials" type="Box">4</container>
-            <container id="aspace_ddc54b39bc0d1b1d531e2d3636d2b0ed" parent="aspace_6232bbe426ecf665c775a0b8ecbd95f3" type="Folder">2</container>
+            <container id="aspace_35895a6ba216bfe989eb407f988841e8" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_676f94a211d576774004374a30f3e715" parent="aspace_35895a6ba216bfe989eb407f988841e8" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ba389df0f776b53e54f35d2762993ef5" level="file">
           <did>
             <unittitle>Chapter activities</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_25d00c92e71f68b9aebd4729908472a1" label="mixed materials" type="Box">5</container>
-            <container id="aspace_dc21eb1748a0deddf8d8269a3dc9e230" parent="aspace_25d00c92e71f68b9aebd4729908472a1" type="Folder">1</container>
+            <container id="aspace_abb536c9761553775c5af689ac7d19a6" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_4d70503f13eefc45426c2100b161e5b6" parent="aspace_abb536c9761553775c5af689ac7d19a6" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_857a027c99dabc8300cd0621b3f9d848" level="file">
           <did>
             <unittitle>Letters of commendation</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_1c425d66eb2f8bbb0c84318e32a4e185" label="mixed materials" type="Box">5</container>
-            <container id="aspace_ebaa425c555498db1be544db63f003a2" parent="aspace_1c425d66eb2f8bbb0c84318e32a4e185" type="Folder">2</container>
+            <container id="aspace_0e59fe4ad2c899e1c16d1c2668f6bf6c" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_4999bb40bf1a6b3aace5f7694ea7bb43" parent="aspace_0e59fe4ad2c899e1c16d1c2668f6bf6c" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_bec370d4a912e4bf6f6f02865fbf8420" level="file">
           <did>
             <unittitle>Duties of Secretary</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_db78f55e215b38bcc8fef6083d0e3bc8" label="mixed materials" type="Box">5</container>
-            <container id="aspace_1cd21834358678050a88d6e4153c5f56" parent="aspace_db78f55e215b38bcc8fef6083d0e3bc8" type="Folder">3</container>
+            <container id="aspace_f0b682a73c8834e64a8f507f5cb0e9c7" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_fd97f674d7301f8ae58d3503eeacd877" parent="aspace_f0b682a73c8834e64a8f507f5cb0e9c7" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_0d54d8683dbcb666751e2c50465b3ddc" level="file">
           <did>
             <unittitle>Landscape Architecture Quarterly</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f64488ecc5cac30ae3500c50e34fe560" label="mixed materials" type="Box">5</container>
-            <container id="aspace_7b8067cfffaee145104cff109725dc5a" parent="aspace_f64488ecc5cac30ae3500c50e34fe560" type="Folder">4</container>
+            <container id="aspace_0a9274465d5a98a6bb6d58dca7a6e6a8" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_7a923c178c94771fce4590eb5321ccba" parent="aspace_0a9274465d5a98a6bb6d58dca7a6e6a8" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_8db351194eb030833f9c3379709519cd" level="file">
           <did>
             <unittitle>Outdoor Advertising</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_940a3a4f06efc7bf791eab2b9426cc1e" label="mixed materials" type="Box">5</container>
-            <container id="aspace_20e54ac0a743bcf8f084e6a084c25be8" parent="aspace_940a3a4f06efc7bf791eab2b9426cc1e" type="Folder">5</container>
+            <container id="aspace_61ecbac0045790b5bffaaae7b3219ffc" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_ded1b5ee7bc542f7a3247286ddf454be" parent="aspace_61ecbac0045790b5bffaaae7b3219ffc" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_7b9245bfca9e5f8cebb57b6aa2b4cf6f" level="file">
           <did>
             <unittitle>Annual meetings</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_ea1a30686728b33da21fc4df67d91905" label="mixed materials" type="Box">6</container>
-            <container id="aspace_5d96425fccd24733e89c62e1bbcb928a" parent="aspace_ea1a30686728b33da21fc4df67d91905" type="Folder">1</container>
+            <container id="aspace_3a9a2e5fdcad36aae0a74047d1c5c927" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_9d0167d6b92fb7252c6cc5f868e6b97f" parent="aspace_3a9a2e5fdcad36aae0a74047d1c5c927" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_849f3b64f3c59bcda0023b679a021fee" level="file">
           <did>
             <unittitle>Minutes</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_80a751757c94dc1bd6afdd46ce885e14" label="mixed materials" type="Box">6</container>
-            <container id="aspace_25cb5ff894859848de9dbc9f27f18e0b" parent="aspace_80a751757c94dc1bd6afdd46ce885e14" type="Folder">2</container>
+            <container id="aspace_65be4046dff48179a0bd7d2f8ace8307" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_2d71776a0b2aa3b17d0388657d6944c9" parent="aspace_65be4046dff48179a0bd7d2f8ace8307" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_bdbd308e79ebc5a4e8c1352d18f3c74c" level="file">
           <did>
             <unittitle>Annual reports</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_5fd119fdf0fdeb561fc878711c111a45" label="mixed materials" type="Box">6</container>
-            <container id="aspace_c2f2f3422ea0676c69ea2c6c34b2cd7f" parent="aspace_5fd119fdf0fdeb561fc878711c111a45" type="Folder">3</container>
+            <container id="aspace_bdc558cd9a106979511068d94a9fd759" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_4292b616e50d36788c3845dbc0d745f2" parent="aspace_bdc558cd9a106979511068d94a9fd759" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_0c9018ec514fccfb77c64beb13673dfc" level="file">
           <did>
             <unittitle>Membership information</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_4eca9a89d5a347ea4d093a02c4c3a334" label="mixed materials" type="Box">7</container>
-            <container id="aspace_f81b67de9f18cb6e11c27b4f6b2a146d" parent="aspace_4eca9a89d5a347ea4d093a02c4c3a334" type="Folder">1</container>
+            <container id="aspace_97c6bb0340a00a7f68a3afac6787e1cf" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_a12cc6d813882e7da599faf2e866d8f6" parent="aspace_97c6bb0340a00a7f68a3afac6787e1cf" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_02fd6be7b8eb0d9082d4d0f2255f6371" level="file">
           <did>
             <unittitle>Membership information</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_ed8365676fb6b2a65f2cc98d2dee428d" label="mixed materials" type="Box">8</container>
-            <container id="aspace_8c368cf18386e8ace8dee5d0e4fb3ae6" parent="aspace_ed8365676fb6b2a65f2cc98d2dee428d" type="Folder">1</container>
+            <container id="aspace_2fd1a94fa90dc6f9dc34e76a37888652" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_65616690e1b2f40856ad817d2dd05bfb" parent="aspace_2fd1a94fa90dc6f9dc34e76a37888652" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_fec2112e4872398934f4f29a01c8c8a5" level="file">
           <did>
             <unittitle>Newsletter</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f5335b449652628d17096846ab4ae84d" label="mixed materials" type="Box">9</container>
-            <container id="aspace_21c3e630be37d3077739b74ade8fd74d" parent="aspace_f5335b449652628d17096846ab4ae84d" type="Folder">1</container>
+            <container id="aspace_3cdc2837c89aa05d0a8cffb0b5a29544" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_2824301da5f988994093ede58a319537" parent="aspace_3cdc2837c89aa05d0a8cffb0b5a29544" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_9735dda9c3713d5e148f7ebfd2be697b" level="file">
           <did>
             <unittitle>Virginia related material</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_82b1b1cefe8a66e4773b9229b5500020" label="mixed materials" type="Box">9</container>
-            <container id="aspace_c8f8ef25d97febc77b2c92cf8f7afbca" parent="aspace_82b1b1cefe8a66e4773b9229b5500020" type="Folder">2</container>
+            <container id="aspace_583cd6a47ca079ba8f925758bd6d39c1" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_488b325bb53692ef33b6f454ef749dd2" parent="aspace_583cd6a47ca079ba8f925758bd6d39c1" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_8784de2a7942ed6567baec3f036d8a3f" level="file">
           <did>
             <unittitle>Survey of Open spaces in D.C.</unittitle>
             <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
-            <container id="aspace_541d86f13febfd4d9cc7085fb7912386" label="mixed materials" type="Box">10</container>
-            <container id="aspace_50bdbc1c8f18c52a5a57d7bec47615c9" parent="aspace_541d86f13febfd4d9cc7085fb7912386" type="Folder">1</container>
+            <container id="aspace_9348037ea459c8a9d16f399cb162cd53" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_145db9e05277c9d4812442ed89553b83" parent="aspace_9348037ea459c8a9d16f399cb162cd53" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_be2ba0a1d7321bccd551e3745b11e173" level="file">
           <did>
             <unittitle>Publications relating to Cron. Frederick</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_627aa442d32ebda6bf6dba47c3ac1545" label="mixed materials" type="Box">11</container>
-            <container id="aspace_6029a0aceaa9d7477e95c2554fa59023" parent="aspace_627aa442d32ebda6bf6dba47c3ac1545" type="Folder">1</container>
+            <container id="aspace_3ebcfe407eb4961570554557983f4076" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_d3737758447eb56db0feb6c2a039a56d" parent="aspace_3ebcfe407eb4961570554557983f4076" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_7e89b23cb65f5c639f72e1ff8e2e1992" level="file">
           <did>
             <unittitle>Publications relating to John Earley</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_6dc7c91364328140529480f0e3dd1dab" label="mixed materials" type="Box">11</container>
-            <container id="aspace_eeac6bd195819938d837eba5e40278fb" parent="aspace_6dc7c91364328140529480f0e3dd1dab" type="Folder">2</container>
+            <container id="aspace_67f086269cd7d40522a34b8cd093740b" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_79befc3c70c2efdf36378ade202fc432" parent="aspace_67f086269cd7d40522a34b8cd093740b" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_d5449e190370a1c9340017d5794d666b" level="file">
           <did>
             <unittitle>Publications relating to Andrew J. Downing</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_72a5ddaeda2db09b403c7e9a21721783" label="mixed materials" type="Box">11</container>
-            <container id="aspace_c545246e0bd77e03d6700849bc267c05" parent="aspace_72a5ddaeda2db09b403c7e9a21721783" type="Folder">3</container>
+            <container id="aspace_fc82c0aa853809faf1ab53c7109d1771" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_8f63e6f9baa863b943f0be6790b90ffa" parent="aspace_fc82c0aa853809faf1ab53c7109d1771" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_3f74e8956cde5b363453f2350a3c4eb6" level="file">
           <did>
             <unittitle>Publications relating to Meridian Hill</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_727dee91cf23d0733f3d485bb1d0982b" label="mixed materials" type="Box">11</container>
-            <container id="aspace_742435d4517efec4ba5a5b226fffe279" parent="aspace_727dee91cf23d0733f3d485bb1d0982b" type="Folder">4</container>
+            <container id="aspace_671e0f1a7c36c6373dcbf4519999d547" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_34083943a2b8d8167d3320abfdeadb3f" parent="aspace_671e0f1a7c36c6373dcbf4519999d547" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_d7dddf1a5fde074cf2faee017073322d" level="file">
           <did>
             <unittitle>Research material collected for Guidebooks</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_583e9ea0a6946e28d841d42b38349bdc" label="mixed materials" type="Box">12</container>
-            <container id="aspace_6ba21b477cbb8ce410d903da4ad53539" parent="aspace_583e9ea0a6946e28d841d42b38349bdc" type="Folder">1</container>
+            <container id="aspace_147a7cd25c2347752db79ad0e124cd9d" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_a15f1bc55a81628ffcf2620ca19808f1" parent="aspace_147a7cd25c2347752db79ad0e124cd9d" type="Folder">1</container>
           </did>
         </c>
       </c>

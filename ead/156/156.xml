@@ -1,0 +1,548 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://washingtoniana.dclibrary.org">156deAlba</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Alba ( Joaquín de) Cartoon Collection</titleproper>
+        <titleproper>Joaquín de Alba Cartoon Collection <num>156</num></titleproper>
+        <subtitle>An inventory of the Joaquín de Alba Cartoon Collection at DC Public Library</subtitle>
+        <author>Carol Auerbach</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:50:59 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-07-23</date>
+        <item>Revised by Ray Barker.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
+      </repository>
+      <unittitle>Joaquín de Alba Cartoon Collection</unittitle>
+      <origination label="creator">
+        <persname source="local">Alba, Joaquin de</persname>
+      </origination>
+      <unitid>156</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
+      </physdesc>
+      <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+      <langmaterial id="aspace_ae9b5aa383707001743b8d1cc0f45e4a">English</langmaterial>
+    </did>
+    <arrangement id="aspace_f78fab89f045d6bbf45e7516d9321a97">
+      <head>Arrangement</head>
+      <p>Series I: Drawings (.5 linear feet)<br/>
+The Drawings Series consists of sketches and caricatures of celebrities, U.S. politicians, and world leaders. Celebrities include George Hamilton and Bob Hope. Politicians include Gerald Ford, Lyndon B. Johnson, Adam Clayton Powell, and Henry Cabot Lodge. World Leaders include King Badouin of Belgium, Queen Elizabeth, and Fidel Castro. There are also courtroom sketches of the Bobby Baker Trial (1967) and the Robert Earl Barnes Trial. There are three "stories" which appear to be sketches for political cartoons: "Dog Story", "Long Hair Story", and "Private School Story". Folders are arranged alphabetically by the individual's last name.<br/>
+<br/>
+Series II: Plates<br/>
+The two plates are in separate small envelopes along with photocopies of the articles showing their publication in The Washington Daily News, February 27, 1967. One plate is an engraving of Gerald Ford; the other is Hervey Machen. Folders are arranged alphabetically by the individual's last name.</p>
+    </arrangement>
+    <bioghist id="aspace_4ab38a9926ba9972a03a3636ebc30216">
+      <head>Biographical / Historical</head>
+      <p>Joaquin de Alba was born in Cadiz, Spain in 1912. He was an illustrator, painter, and political cartoonist who published his work under the pseudonym 'Kin' in Spain, and under his own name in the United States. His career as a political cartoonist began at the ABC newspaper of Seville, Spain in 1926, and he continued to work for various publications there until he left first for New York, and then later Washington, D.C. In 1966 he began working for The Washington Daily News. He eventually moved to Santo Domingo, Dominican Republic where de Alba was professor in the School of Fine Arts, which later became the National School of Visual Arts. 
+He was nominated for a Pulitzer Prize in 1966 for his work. During Lyndon B. Johnson's presidency, he drew original cartoons for the Johnson Presidential Library and Museum in Austin, Texas. de Alba died in Palma del Rio, Spain in 1983.</p>
+    </bioghist>
+    <custodhist id="aspace_179b540b1ca09e3ce0349f6a11cc1478">
+      <head>Custodial History</head>
+      <p>No deed of gift has been identified. It is unclear how or when the Library acquired this collection.</p>
+    </custodhist>
+    <processinfo id="aspace_52ed2178addbafb7b6180155c2906fee">
+      <head>Processing Information</head>
+      <p>Basic/Standard archival procedures were used at the time of processing.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_7f82ccb5b5100838fb76b229e55c67f6">
+      <head>Related Materials</head>
+      <p>Johnson Presidential Library and Museum in Austin, Texas. No collection name, or number identified.</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_39522f83136757658f9b844d4dc9dcb7">
+      <head>Scope and Contents</head>
+      <p>The collection consists of caricatures of politicians and world leaders, courtroom sketches, and two metal plates of two U.S. congressmen. The library holds 72 original political cartoons published in The Washington Daily News.</p>
+    </scopecontent>
+    <userestrict id="aspace_81dc9e31496a1cc315f46e863815c0a6">
+      <head>Conditions Governing Use</head>
+      <p>The collection has no known restrictions.</p>
+    </userestrict>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85104461" source="Library of Congress Subject Headings">Politicians</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85104348" source="Library of Congress Subject Headings">Political cartoons</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2002011436" source="Library of Congress Subject Headings">Politics and government</subject>
+      <genreform authfilenumber="http://id.loc.gov/authorities/genreForms/gf2017027231" source="Library of Congress Subject Headings">Drawings</genreform>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_51a521acb281879e989a38a9f28c2c5a" level="series">
+        <did>
+          <unittitle>Series 1: Drawings</unittitle>
+          <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+          <container id="aspace_1f4ec7f61d459d76c63cc8398759c220" label="Graphic Materials" type="box">1</container>
+        </did>
+        <scopecontent id="aspace_a1c00ee952612dd3b45b74502b8581e2">
+          <head>Scope and Contents</head>
+          <p>The Drawings Series consists of sketches and caricatures of celebrities, U.S. politicians, and world leaders. Celebrities include George Hamilton and Bob Hope. Politicians include Gerald Ford, Lyndon B. Johnson, Adam Clayton Powell, and Henry Cabot Lodge. World Leaders include King Badouin of Belgium, Queen Elizabeth, and Fidel Castro. There are also courtroom sketches of the Bobby Baker Trial (1967) and the Robert Earl Barnes Trial. There are three "stories" which appear to be sketches for political cartoons: "Dog Story", "Long Hair Story", and "Private School Story". Folders are arranged alphabetically by the individual's last name.\</p>
+        </scopecontent>
+        <c id="aspace_b1d4546decfdf98132a3d27169669d51" level="file">
+          <did>
+            <unittitle>King Badouin of Belgium</unittitle>
+            <unitdate normal="1967-03/1967-03">1967-03</unitdate>
+            <container id="aspace_922dbb5a1a26e2eeb8401a91cc35b52d" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_480d209b7f24f9a32ad160dbbe7a712f" parent="aspace_922dbb5a1a26e2eeb8401a91cc35b52d" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_0f72e4c1954bbeca5efdb0b1ec4afeec" level="file">
+          <did>
+            <unittitle>Jesse S. Baggett Board of County Commissioners</unittitle>
+            <unitdate normal="1967-02/1967-02">1967-02</unitdate>
+            <container id="aspace_f15faffddb7b65711674ad2d53084de9" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_d5a7a6168cab996bfda9d01b170fa05a" parent="aspace_f15faffddb7b65711674ad2d53084de9" type="folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_dc568fc85442ae74c93e6071543e9f48" level="file">
+          <did>
+            <unittitle>Baker's Lawyers Boris Kostelanetz and Edward Bennett Williams</unittitle>
+            <unitdate normal="1967-01/1967-01">1967-01</unitdate>
+            <container id="aspace_df590814b1f2105ae71bd835a6499297" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_a23147f20afd386a0c37ee1eaaa85b16" parent="aspace_df590814b1f2105ae71bd835a6499297" type="folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_e5809f637cb6a26195ae71497c4a8e82" level="file">
+          <did>
+            <unittitle>Senator Alan Boyd</unittitle>
+            <unitdate normal="1967-03/1967-03">1967-03</unitdate>
+            <container id="aspace_16e2fa39f10d9be65cd86703afd5f126" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_9c55a3f3b7e680e2f3071f997580b443" parent="aspace_16e2fa39f10d9be65cd86703afd5f126" type="folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_cdc3f4b6f85c8e068d0f0f4d594c620e" level="file">
+          <did>
+            <unittitle>Josip Broz (Tito)</unittitle>
+            <unitdate normal="1967-03/1967-03">1967-03</unitdate>
+            <container id="aspace_a799f53bd910a8b3721ebf1a781f090e" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_c1a822fa128fa9a208367e35150aa53f" parent="aspace_a799f53bd910a8b3721ebf1a781f090e" type="folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_bf33604dcdfe4be753c932ea4085167d" level="file">
+          <did>
+            <unittitle>Fidel Castro</unittitle>
+            <unitdate normal="1966-10/1966-10">1966-10</unitdate>
+            <container id="aspace_bdf59f3d97abc17d99aa0c297556aa1f" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_b421e5fa2bd4822d5bc65b7b26b33340" parent="aspace_bdf59f3d97abc17d99aa0c297556aa1f" type="folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_88c121ecbfa53b8cec61f739d0944c03" level="file">
+          <did>
+            <unittitle>Ambassador Ellsworth Bunker</unittitle>
+            <unitdate normal="1967-03/1967-03">1967-03</unitdate>
+            <container id="aspace_a8de12d0f95c7cfa327dd3b7848eca5b" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_3903479c2c37e9c990a13c27dea1bb89" parent="aspace_a8de12d0f95c7cfa327dd3b7848eca5b" type="folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_1e2cf14265cdb6949ed4e93b2d14224b" level="file">
+          <did>
+            <unittitle>India Foreign Minister M.C. Chagla</unittitle>
+            <unitdate normal="1967-03/1967-03">1967-03</unitdate>
+            <container id="aspace_5519aa344e53352a49f5247ece1edc8f" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_ef6c465555056a16a5f674e261e487b7" parent="aspace_5519aa344e53352a49f5247ece1edc8f" type="folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_38d7fe772a658f28b6c1f89dd55d7e3e" level="file">
+          <did>
+            <unittitle>[Maurice] Couve de Murville</unittitle>
+            <unitdate normal="1966-12/1966-12">1966-12</unitdate>
+            <container id="aspace_9e657cdd5d0049515a5de529f78043bf" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_dce9b6a2b1726c8150b0e2ab1630c6c3" parent="aspace_9e657cdd5d0049515a5de529f78043bf" type="folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_322771eb06d64e30cdfb9308a14f5c21" level="file">
+          <did>
+            <unittitle>Thomas E. Dewey</unittitle>
+            <unitdate normal="1966-12/1966-12">1966-12</unitdate>
+            <container id="aspace_7293c71dce6ddec46a613c1f9f44bffc" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_800a4eeb43b39bc54c1a0ac4f5142ce2" parent="aspace_7293c71dce6ddec46a613c1f9f44bffc" type="folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_4e469316c79e066c802a50504401d23f" level="file">
+          <did>
+            <unittitle>Anatoly F. Dobrynin</unittitle>
+            <unitdate normal="1966-12/1966-12">1966-12</unitdate>
+            <container id="aspace_0f865917cb787b7b91b17085ef6921cb" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_d1f31370c646f64025edf1d6d5dd7426" parent="aspace_0f865917cb787b7b91b17085ef6921cb" type="folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_9989d389490e6d621fbc978053fe29ef" level="file">
+          <did>
+            <unittitle>Senator [Thomas Joseph] Dodd</unittitle>
+            <unitdate normal="1967-02/1967-02">1967-02</unitdate>
+            <container id="aspace_a0556e6d0d70dd364b2b8e2f6f1399c5" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_2aceaf3e751a1a75612ad72ec3ee35b0" parent="aspace_a0556e6d0d70dd364b2b8e2f6f1399c5" type="folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_c95cdbbe46a1038f4e11cb1b0dcec35d" level="file">
+          <did>
+            <unittitle>Dog Story</unittitle>
+            <unitdate normal="1967-02/1967-02">1967-02</unitdate>
+            <container id="aspace_ec82c3b195e4eda09ce7c57e581f4854" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_5bf9d6765be2107529022766a769201d" parent="aspace_ec82c3b195e4eda09ce7c57e581f4854" type="folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_394f6e9d77bd33ed80f0921d568e8790" level="file">
+          <did>
+            <unittitle>Queen Elizabeth</unittitle>
+            <unitdate normal="1967-02/1967-02">1967-02</unitdate>
+            <container id="aspace_aa9c78fe909b9cfb28ed62682e08f5db" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_e6493b873b47eff9cbb9095979e14106" parent="aspace_aa9c78fe909b9cfb28ed62682e08f5db" type="folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ab2682cccad375b51b74c86eae7a8686" level="file">
+          <did>
+            <unittitle>"Ike" Dwight D. Eisenhower</unittitle>
+            <unitdate normal="1966-01/1966-01">1966-01</unitdate>
+            <container id="aspace_a4b973a6874a8c465e4d73ac78658b06" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_13c711f16984e9acacd6837745164143" parent="aspace_a4b973a6874a8c465e4d73ac78658b06" type="folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_00f9d14b3abc550fd5268230bd7089b2" level="file">
+          <did>
+            <unittitle>Representative Gerald Ford</unittitle>
+            <unitdate normal="1966-02/1966-02">1966-02</unitdate>
+            <container id="aspace_a6fbbe267afd1c1ce902904fe45fe40a" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_0bc1ed6dc5e586e0c318e556051be08f" parent="aspace_a6fbbe267afd1c1ce902904fe45fe40a" type="folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_931b9c9dc1277562e761743f3dc7ab2e" level="file">
+          <did>
+            <unittitle>Senator J. William Fulbright</unittitle>
+            <unitdate normal="1966-12/1966-12">1966-12</unitdate>
+            <container id="aspace_4debddf20af11bbcccc98cb99436eb54" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_4400cc360782b50bf58d80db7f61d570" parent="aspace_4debddf20af11bbcccc98cb99436eb54" type="folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_521d4006541be56df2e93b264c3bf8cc" level="file">
+          <did>
+            <unittitle>Senator Ernest Gruening</unittitle>
+            <unitdate normal="1967-03-01T00:00:00+00:00/1967-03-01T00:00:00+00:00">1967-03-01T00:00:00+00:00</unitdate>
+            <container id="aspace_bbb52f18e42ad0506564e22fbf8b962e" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_e6712099e199fc4b3f0ad9b79ae68355" parent="aspace_bbb52f18e42ad0506564e22fbf8b962e" type="folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_eebebed8d221b99a8c22d983167abd3c" level="file">
+          <did>
+            <unittitle>George Hamilton</unittitle>
+            <unitdate normal="1966-12-01T00:00:00+00:00/1966-12-01T00:00:00+00:00">1966-12-01T00:00:00+00:00</unitdate>
+            <container id="aspace_29559fd0b192afefef4d3bc9d61d2fad" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_6d7decfe3b510a69884174b2f23767f8" parent="aspace_29559fd0b192afefef4d3bc9d61d2fad" type="folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_7fbe22b209d18db877f30c9f4bc27b93" level="file">
+          <did>
+            <unittitle>Senator Carl Hayden (D., Nev.)</unittitle>
+            <unitdate normal="1967-01/1967-01">1967-01</unitdate>
+            <container id="aspace_98b95cda287b689b3fa6e168e5e71caf" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_bc7658553e2ce20442ae6a15a04eb2f9" parent="aspace_98b95cda287b689b3fa6e168e5e71caf" type="folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_9ad25a04b8cf133fdd0b1ad2abb07254" level="file">
+          <did>
+            <unittitle>Senator Bourke Hickenlooper</unittitle>
+            <unitdate normal="1967-03/1967-03">1967-03</unitdate>
+            <container id="aspace_b8df31a1e943c61a1a30b88f9a6ba564" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_e6d68708881b6153081d0d8d06638524" parent="aspace_b8df31a1e943c61a1a30b88f9a6ba564" type="folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_37c6b5159d427c767c5a1101d77861be" level="file">
+          <did>
+            <unittitle>Bob Hope</unittitle>
+            <container id="aspace_0b44f8a1df12beaab47ee7fc67381ac2" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_6dc45b9e80f65c1d54caed1a26248c0e" parent="aspace_0b44f8a1df12beaab47ee7fc67381ac2" type="folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_48ef1c85803075d5c816832abf11fe16" level="file">
+          <did>
+            <unittitle>Lyndon B. Johnson</unittitle>
+            <unitdate normal="1967-03/1967-03">1967-03</unitdate>
+            <container id="aspace_833cca9a26a9b23853b1907e5f1fb40c" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_e0d631f452e43d88115440c4c144cb80" parent="aspace_833cca9a26a9b23853b1907e5f1fb40c" type="folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ae8b2186710415084ad2e1423e381528" level="file">
+          <did>
+            <unittitle>Queen Juliana Netherlands</unittitle>
+            <unitdate normal="1967-03/1967-03">1967-03</unitdate>
+            <container id="aspace_b166fb6be5352f77bf3602a744d5546c" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_c17c17cfbc9586c9349d289dfc99713c" parent="aspace_b166fb6be5352f77bf3602a744d5546c" type="folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_4c3b9c43148a9e531eeb225967524036" level="file">
+          <did>
+            <unittitle>Nicholas Katzenbach</unittitle>
+            <unitdate normal="1966-12/1966-12">1966-12</unitdate>
+            <container id="aspace_8103b7b776cd491ba4823b24e027c5c0" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_4e27c88bb9052787386a763593f77846" parent="aspace_8103b7b776cd491ba4823b24e027c5c0" type="folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_47cb4060be2059792d9fa1a504f27ba1" level="file">
+          <did>
+            <unittitle>Kurt Kiesinger</unittitle>
+            <unitdate normal="1967-02/1967-02">1967-02</unitdate>
+            <container id="aspace_e64d9239e161bbcdf503e55c39a1bc50" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_cf4eab2ef502789359c9d8d3f0647569" parent="aspace_e64d9239e161bbcdf503e55c39a1bc50" type="folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_f9d4da7273c8cfd7f89b3458edddf8d6" level="file">
+          <did>
+            <unittitle>Henry Cabot Lodge</unittitle>
+            <unitdate normal="1966-12/1966-12">1966-12</unitdate>
+            <container id="aspace_b60131d7cfa467cf7bde1d1530d50876" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_cbce7425394164e46ad439fdb9532611" parent="aspace_b60131d7cfa467cf7bde1d1530d50876" type="folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_b7139ba7f2f089fc97922f919cd2855d" level="file">
+          <did>
+            <unittitle>Chief George J. Panagoulis</unittitle>
+            <unitdate normal="1967-02/1967-02">1967-02</unitdate>
+            <container id="aspace_ca5fba499399e4423fc7125f68ca02ac" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_867aa99955d52cf3d3d6060881eef6fe" parent="aspace_ca5fba499399e4423fc7125f68ca02ac" type="folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_413ec4f18a2a7b2abca1c0550640f61a" level="file">
+          <did>
+            <unittitle>Representative Wright Patman</unittitle>
+            <unitdate normal="1967-02/1967-02">1967-02</unitdate>
+            <container id="aspace_55044c0638deccbb213bb36653395169" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_94afdd8d4bfa501cdf07351b81b206c6" parent="aspace_55044c0638deccbb213bb36653395169" type="folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_605412c46cd3fb4d13bca95c1efaf0fc" level="file">
+          <did>
+            <unittitle>Adam Clayton Powell</unittitle>
+            <unitdate normal="1967-01/1967-01">1967-01</unitdate>
+            <container id="aspace_955141ccf032035b996ee82c49f9cad1" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_e7a22f12d01d0b7ab4ad679c02fa2715" parent="aspace_955141ccf032035b996ee82c49f9cad1" type="folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_8d5960f424b15da3c7135f282cd1a4b7" level="file">
+          <did>
+            <unittitle>Representative L. Mendel Rivers</unittitle>
+            <container id="aspace_1bc95edb859f92083dc1cbe84ec5d718" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_a21dd54c1e4ecd7a308d4dd9a9ff4f51" parent="aspace_1bc95edb859f92083dc1cbe84ec5d718" type="folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_a1eb7095ff1a66ed34d57513d29b6edf" level="file">
+          <did>
+            <unittitle>F. D. Roosevelt Jr.</unittitle>
+            <unitdate normal="1966-12/1966-12">1966-12</unitdate>
+            <container id="aspace_63be9d67ab74c6013856473dd0fa26da" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_7ab8fa2837c9211e145055be8d026bb4" parent="aspace_63be9d67ab74c6013856473dd0fa26da" type="folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_2880cde0dc93309bbbe51a7ca4ce056c" level="file">
+          <did>
+            <unittitle>Dean Rusk</unittitle>
+            <unitdate normal="1966-12/1966-12">1966-12</unitdate>
+            <container id="aspace_8ac21c572588602249b85e705c0bca6c" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_ed51162df58d9ca028d35a9ae664f0aa" parent="aspace_8ac21c572588602249b85e705c0bca6c" type="folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_c694852d925ececaa05de0986fa9f3f4" level="file">
+          <did>
+            <unittitle>Arthur Schlesinger</unittitle>
+            <unitdate normal="1967-02/1967-02">1967-02</unitdate>
+            <container id="aspace_ea8fb7fc9fad99a618ca70d5a63d6a2c" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_271dff908a5f46e36063f309b1b172bb" parent="aspace_ea8fb7fc9fad99a618ca70d5a63d6a2c" type="folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_393f2a4c7cc50e5d7a7ff90f89715aca" level="file">
+          <did>
+            <unittitle>Former Representative Howard W. Smith</unittitle>
+            <unitdate normal="1966-12/1966-12">1966-12</unitdate>
+            <container id="aspace_4383f356ca414323d974c7030588d556" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_890171898249c167eb65216d8ff9ff4d" parent="aspace_4383f356ca414323d974c7030588d556" type="folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_d49b156a9f9dcf90a6a5a10a58509a6b" level="file">
+          <did>
+            <unittitle>Lord Snowdon</unittitle>
+            <unitdate normal="1967-03/1967-03">1967-03</unitdate>
+            <container id="aspace_188ec1458ac9ec8026d83c3fe9861a67" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_134d9f9ee35e7fb9f4e952d97d626b63" parent="aspace_188ec1458ac9ec8026d83c3fe9861a67" type="folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_55c09055f90580e0ab4e87641a1d1cc7" level="file">
+          <did>
+            <unittitle>Teng Hsiao Peng</unittitle>
+            <unitdate normal="1967-02/1967-02">1967-02</unitdate>
+            <container id="aspace_1b16e6e4040196530c3b41ad6b0d81a2" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_f67bc43e0527938750568a3fa247579f" parent="aspace_1b16e6e4040196530c3b41ad6b0d81a2" type="folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_dfb7df0fd92a590347d5ce559d3b9ee7" level="file">
+          <did>
+            <unittitle>Juanita Thomas Robert G. (Bobby) Baker Case</unittitle>
+            <unitdate normal="1967-01/1967-01">1967-01</unitdate>
+            <container id="aspace_5ef41bb7ec763dc3758e4014b3ac117f" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_b4f8bd8d107b5a4657adf27ed88b9f2b" parent="aspace_5ef41bb7ec763dc3758e4014b3ac117f" type="folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_0abd4b5a1199302b9b24df70c0c32a77" level="file">
+          <did>
+            <unittitle>Mr. Ernest Tucker Bobby Baker Trial</unittitle>
+            <unitdate normal="1967-01/1967-01">1967-01</unitdate>
+            <container id="aspace_066fcb763798cf28771d99582b3ed798" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_916aaee8c6f2ee1549f2dc7883db0f78" parent="aspace_066fcb763798cf28771d99582b3ed798" type="folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_979a53bdf6238402013f32910613b970" level="file">
+          <did>
+            <unittitle>General Earl Wheeler</unittitle>
+            <unitdate normal="1966-12/1966-12">1966-12</unitdate>
+            <container id="aspace_61386bec917bd0196c7896627fb62d10" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_27326123ec3480ec31c69dc0c68366aa" parent="aspace_61386bec917bd0196c7896627fb62d10" type="folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_9f4d34596a8aed4ed1456952cab8ed40" level="file">
+          <did>
+            <unittitle>Senator John J. Williams (R., Del.)</unittitle>
+            <unitdate normal="1967-01/1967-01">1967-01</unitdate>
+            <container id="aspace_60b8d933116bcb3a4f99c86aedbd2d90" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_4568b8017c1faf0dcc9521dcc2e75466" parent="aspace_60b8d933116bcb3a4f99c86aedbd2d90" type="folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_613d4f4d929c7c7073205ee5ce399cf7" level="file">
+          <did>
+            <unittitle>Robert G. (Bobby) Baker Trial</unittitle>
+            <unitdate normal="1967-01-14T00:00:00+00:00/1967-01-14T00:00:00+00:00">1967-01-14T00:00:00+00:00</unitdate>
+            <container id="aspace_29a116bf14665d24f75b38acc1305912" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_c35281f5f72e6125915932ffbf36544f" parent="aspace_29a116bf14665d24f75b38acc1305912" type="folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_a46a390db9ada6d7cee2dc50d3425f3a" level="file">
+          <did>
+            <unittitle>Robert Earl Barnes Trial</unittitle>
+            <unitdate normal="1967-01/1967-01">1967-01</unitdate>
+            <container id="aspace_bc2a7bced37c63190eef09f1af10c088" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_3cd30eb1f05164d6fec951031a940e87" parent="aspace_bc2a7bced37c63190eef09f1af10c088" type="folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_5c808c793db8db9a98b3e7f816fad74b" level="file">
+          <did>
+            <unittitle>K. D. Childs</unittitle>
+            <unitdate normal="1967-01/1967-01">1967-01</unitdate>
+            <container id="aspace_2941fdb1ad32d4153924dbd156f6ee13" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_02d94abf60672b29ad8421cd37413499" parent="aspace_2941fdb1ad32d4153924dbd156f6ee13" type="folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_b5638cc5c5e7873a3778fb7c07a1770a" level="file">
+          <did>
+            <unittitle>Senator [Thomas Joseph] Dodd</unittitle>
+            <unitdate normal="1967-03/1967-03">1967-03</unitdate>
+            <container id="aspace_46ae459b93f30d1f67500bd3edcb3e8f" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_0db8040352bf295b9422ff6e81a70f81" parent="aspace_46ae459b93f30d1f67500bd3edcb3e8f" type="folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_45a9f57ae14e13e348926ad9f36e2e46" level="file">
+          <did>
+            <unittitle>Lyndon B. Johnson</unittitle>
+            <unitdate normal="1967-03/1967-03">1967-03</unitdate>
+            <container id="aspace_76b664429dcda8b11611390bc9033ace" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_4bd7332290ec812a9fe08ee0398bbb2f" parent="aspace_76b664429dcda8b11611390bc9033ace" type="folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_8b626359381b4722805a7023d1855bae" level="file">
+          <did>
+            <unittitle>Alexei Kosygin</unittitle>
+            <unitdate normal="1967-02/1967-02">1967-02</unitdate>
+            <container id="aspace_98523a14df5728a5a12dd3ff75136f29" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_f96bfc40471a4960582198b844b3bb04" parent="aspace_98523a14df5728a5a12dd3ff75136f29" type="folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_84284869cc6ec2d3fd64cfc4cdc3cf89" level="file">
+          <did>
+            <unittitle>Long Hair Story</unittitle>
+            <unitdate normal="1967-02/1967-02">1967-02</unitdate>
+            <container id="aspace_52890b6ebe25789231ab1f9ed2415944" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_c3e3c8c9590f8fbe91642dff37ab1b9e" parent="aspace_52890b6ebe25789231ab1f9ed2415944" type="folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_06f06e9a8c90908c6c6b3488c8236317" level="file">
+          <did>
+            <unittitle>Private School Story</unittitle>
+            <unitdate normal="1967-03/1967-03">1967-03</unitdate>
+            <container id="aspace_2930b052a19dcf9c3884b28d8776d645" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_f37b6a0c1d8d173d761add52ad4e9dd2" parent="aspace_2930b052a19dcf9c3884b28d8776d645" type="folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_4029cfc8a545b00501c97bf5add771c7" level="file">
+          <did>
+            <unittitle>Sukharno</unittitle>
+            <unitdate normal="1967-03/1967-03">1967-03</unitdate>
+            <container id="aspace_ffdab8f56a36621ef0f7f8bf58b27584" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_023bd1b1bf42a332b002cc423bc23a40" parent="aspace_ffdab8f56a36621ef0f7f8bf58b27584" type="folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_64ea69cf35684a25c4d76ac064d3dd47" level="file">
+          <did>
+            <unittitle>Unnamed Trial</unittitle>
+            <unitdate normal="1967-01/1967-01">1967-01</unitdate>
+            <container id="aspace_4e05980698a55fb1e79b191b6584bea8" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_40c46c8a4a81bd48dc284b01687bf52c" parent="aspace_4e05980698a55fb1e79b191b6584bea8" type="folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ce71afbe09868d7cf35410b22d42af3c" level="file">
+          <did>
+            <unittitle>Untitled sketch</unittitle>
+            <unitdate normal="1967-03/1967-03">1967-03</unitdate>
+            <container id="aspace_dd22eb0bb5bdbae72db5fee123ab0770" label="Graphic Materials" type="box">1</container>
+            <container id="aspace_4f1af37b7aba25495e3d814c74569e37" parent="aspace_dd22eb0bb5bdbae72db5fee123ab0770" type="folder">54</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_aa02a034e2f65b30a770446c36089b34" level="series">
+        <did>
+          <unittitle>Series 2: Plates</unittitle>
+          <unitdate normal="1967/1967">1967</unitdate>
+          <container id="aspace_29ea283e2d7c62838993e38c84335d3c" label="Graphic Materials" type="box">2</container>
+        </did>
+        <scopecontent id="aspace_233051767544fe5744849ad07b27fec4">
+          <head>Scope and Contents</head>
+          <p>The two plates are in separate small envelopes along with photocopies of the articles showing their publication in The Washington Daily News, February 27, 1967. One plate is an engraving of Gerald Ford; the other is Hervey Machen. Folders are arranged alphabetically by the individual's last name.</p>
+        </scopecontent>
+        <c id="aspace_d60102b1ba6ab9fc6eb08394d14d1ef3" level="file">
+          <did>
+            <unittitle>Ford, Gerald</unittitle>
+            <unitdate normal="1967-02/1967-02">1967-02</unitdate>
+            <container id="aspace_a3f8d4594641aeb94c4028fdc6a5c37d" label="Graphic Materials" type="box">2</container>
+            <container id="aspace_44db39b67fce38fcc3b8a03a50a23ada" parent="aspace_a3f8d4594641aeb94c4028fdc6a5c37d" type="folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_964c4daa58492ee46ffe2659d25be35c" level="file">
+          <did>
+            <unittitle>Machen, Harvey</unittitle>
+            <unitdate normal="1967-02/1967-02">1967-02</unitdate>
+            <container id="aspace_f56df7c3278ffb8dee958ef264070fc7" label="Graphic Materials" type="box">2</container>
+            <container id="aspace_acb884ba4ced8f65b5a93b4cea3968ec" parent="aspace_f56df7c3278ffb8dee958ef264070fc7" type="folder">2</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Monday Evening Club Collection</titleproper>
-        <titleproper>Monday Evening Club <num>107</num> <num>107</num></titleproper>
+        <titleproper>Monday Evening Club <num>107</num></titleproper>
         <subtitle>An inventory of Monday Evening Club at DC Public Library</subtitle>
         <author>Finding aid prepared by Rachel Telford.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2007-04</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:10:23 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:46:51 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-08-13</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,28 +38,55 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Monday Evening Club Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n2002021270" source="LCSH">Monday Evening Club (Washington, D.C)</corpname>
+      </origination>
       <unitid>107</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.5 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1910/1949" type="inclusive">1910-1949</unitdate>
-      <langmaterial id="aspace_7a6d54f5ce6b38282053a3feb0d4611d">English</langmaterial>
       <langmaterial id="aspace_b3bb0d8ed80a04aeceb89693668e0c5a">English</langmaterial>
     </did>
+    <arrangement id="aspace_b2966af42e8b726435e021fd4e5a25a7">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_d1662df1a43f0685ce6a9898c31cd1ac">
       <head>Biographical / Historical</head>
-      <p>The collection consists of meeting minutes, legal documents, clippings, and correspondence. The Collection is divided into two series: Organizational Materials, and Zoning.</p>
+      <p>The Monday Evening Club was founded in October 1896, by Sarah S. Fuller and George S. Wilson of the Associated Charities. The club was organized for professional social workers, but by 1898, membership rules were changed to admit volunteer social workers. By 1909, the club had become a clearinghouse for those interested in social work. One of the declared objectives of the club was the "coordination of effort to obtain for the city of Washington the best possible program of social services." The club was involved in numerous social service efforts including the establishment of the Women's Police Bureau; revised school attendance and child labor laws; the establishment of Gallinger Hospital; the expansion of the DC Public Library, and the revitalization of the Health Department.</p>
     </bioghist>
+    <custodhist id="aspace_af6bfb05148cdfe2a047df011f95d789">
+      <head>Custodial History</head>
+      <p>Source of donation unknown.</p>
+    </custodhist>
+    <processinfo id="aspace_1bfc50b6e8060c005a28f77eff38dac3">
+      <head>Processing Information</head>
+      <p>Basic archival procedures were used at the time of processing.</p>
+    </processinfo>
     <scopecontent id="aspace_c9b52455ae4fd6ef1a9d59a395a3cd70">
       <head>Scope and Contents</head>
-      <p>The collection includes yearbooks, club bulletins, invitations to club events, notices of club meetings, clippings, and a scrapbook containing correspondence, clippings, invitations and event programs.</p>
+      <p>The collection includes yearbooks, club bulletins, invitations to club events, notices of club meetings, clippings, and a scrapbook containing correspondence, clippings, invitations, and event programs.</p>
     </scopecontent>
+    <userestrict id="aspace_e697509ace32ca6f0f5f683becaa70e9">
+      <head>Conditions Governing Use</head>
+      <p>There are no restrictions on this collection.</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85136516" source="Library of Congress Subject Headings">Labor unions</subject>
-      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008810" source="lcsh">Associations, institutions, etc</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh94006819" source="Library of Congress Subject Headings">Social advocacy</subject>
+      <genreform source="material_type">Organizational Records</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85149058" source="Library of Congress Subject Headings">Yearbooks</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85118923" source="Library of Congress Subject Headings">Scrapbooks</subject>
+      <genreform source="material_type">Ephemera</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85124114" source="Library of Congress Subject Headings">Social workers</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_cc7d6b4f602c439400d54ed3aa638039" level="series">
@@ -59,40 +97,40 @@
           <did>
             <unittitle>Scrapbook</unittitle>
             <unitdate normal="1911/1940" type="inclusive">1911-1940</unitdate>
-            <container id="aspace_bd83b3b3efe1269ab13f83ed4d2308ea" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ae05c27bb562d75600d22bc11b69ca3e" parent="aspace_bd83b3b3efe1269ab13f83ed4d2308ea" type="Folder">1</container>
+            <container id="aspace_8f484f1fc0d851204cfd5255d6c08f3a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_16b376ce9e1a890718076e69f34676b6" parent="aspace_8f484f1fc0d851204cfd5255d6c08f3a" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_658f1aee2b40cadcb6a1e0378ca9f75c" level="file">
           <did>
             <unittitle>Meetings and Events</unittitle>
             <unitdate normal="1913/1949" type="inclusive">1913-1949</unitdate>
-            <container id="aspace_f07ab6e21b47f86677e2dcdb3a980243" label="mixed materials" type="Box">1</container>
-            <container id="aspace_087dfa66df450c877019d63e1af2b6f6" parent="aspace_f07ab6e21b47f86677e2dcdb3a980243" type="Folder">2</container>
+            <container id="aspace_fc0e015c12a8321bf7eda7d78d48b5ba" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5d069e6f5cb6bbf0c4f2341178d45a37" parent="aspace_fc0e015c12a8321bf7eda7d78d48b5ba" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_37d28b31c7caff70b02b7eba54f7f8c8" level="file">
           <did>
             <unittitle>Club Bulletins</unittitle>
             <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate>
-            <container id="aspace_1dcd851b6c379e62677e58e795a62a42" label="mixed materials" type="Box">1</container>
-            <container id="aspace_85904f8fa1a10a5c6b684c4bc5ca9443" parent="aspace_1dcd851b6c379e62677e58e795a62a42" type="Folder">3</container>
+            <container id="aspace_b024d146086ecef40f4b52d50b5f4f24" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9186c7f846a678dfc1c7c4e9f884e1b2" parent="aspace_b024d146086ecef40f4b52d50b5f4f24" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_1917cfde8dc992e55184a9610d7e9ecb" level="file">
           <did>
             <unittitle>Yearbooks</unittitle>
             <unitdate type="inclusive">1910-1935, 1940</unitdate>
-            <container id="aspace_cd8603fb9959636075a15548f0143816" label="mixed materials" type="Box">1</container>
-            <container id="aspace_52a854bc51c01de15351cfbb4ffaca45" parent="aspace_cd8603fb9959636075a15548f0143816" type="Folder">4</container>
+            <container id="aspace_c006c5ee2476a190546df3ef91ef4f30" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0e89503df532b0a2529a20227ec912ca" parent="aspace_c006c5ee2476a190546df3ef91ef4f30" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_955fd5e53e362a0a57cb3e553de0916c" level="file">
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1941/1943" type="inclusive">1914-1943, Undated</unitdate>
-            <container id="aspace_e2466d88a684a554ec03d3cb6c2323e8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b30a3b607aeb7de8a23aad984b4d2dd1" parent="aspace_e2466d88a684a554ec03d3cb6c2323e8" type="Folder">5</container>
+            <container id="aspace_174c190d831343dabb63005b4f40540a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4315449d1fc4a898f023663f3810821f" parent="aspace_174c190d831343dabb63005b4f40540a" type="Folder">5</container>
           </did>
         </c>
       </c>

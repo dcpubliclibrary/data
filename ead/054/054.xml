@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Michigan Park Citizens Association Collection</titleproper>
-        <titleproper>Michigan Park Citizens Association <num>054</num> <num>054</num></titleproper>
+        <titleproper>Michigan Park Citizens Association <num>054</num></titleproper>
         <subtitle>An inventory of Michigan Park Citizens Association at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:05:42 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:32:51 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-08-27</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,27 +38,54 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
-      <unittitle>Michigan Park Citizens Association Collection</unittitle>
+      <unittitle>Michigan Park Citizens Association Records</unittitle>
+      <origination label="creator">
+        <corpname source="local">Michigan Park Citizens Association</corpname>
+      </origination>
       <unitid>054</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">5 boxes</extent>
       </physdesc>
       <unitdate normal="1949/1979" type="inclusive">1949-1979</unitdate>
-      <langmaterial id="aspace_565fdc157128dea9f369a45830122d79">English</langmaterial>
       <langmaterial id="aspace_47284bac4488aa724c6694ef8332b469">English</langmaterial>
     </did>
     <custodhist id="aspace_ab2fefa6d5e30a21366ca55b0056f832">
       <head>Custodial History</head>
-      <p>Meeting minutes and correspondence of the Association were originally part of the Washingtoniana Division's vertical files, files maintained for ease of reference on topics related to D.C. history and current events. The vertical files primarily contain clippings but also include other rare items. To ensure the physical preservation of the original minutes and correspondence of the Association, they were removed in 1999 to create this collection.</p>
+      <p>Meeting minutes and correspondence of the Association were originally part of the Library's vertical files. To ensure the physical preservation of the original minutes and correspondence of the Association, they were removed in 1999 to create this collection.</p>
     </custodhist>
     <scopecontent id="aspace_e584107dd7e90901f06fc7033106588d">
       <head>Scope and Contents</head>
-      <p>Consists of meeting minutes (1949-1965) and correspondence of the Association. It also contains a scrapbook of photographs, letters, and other memorabilia about the Michigan Park Garden Club (1951-1973).</p>
+      <p>Consists of meeting minutes (1949-1965) and correspondence of the Michigan Park Citizens Association. It also contains a scrapbook of photographs, letters, and other memorabilia about the Michigan Park Garden Club (1951-1973).</p>
     </scopecontent>
+    <bioghist id="aspace_fc8740c9ddbf45bec30c426305c7abbc">
+      <head>Biographical / Historical</head>
+      <p>Founded in August of 1921, the Michigan Park Citizens Association serves the Michigan Park neighborhood, with boundaries defined by the Association as the railroad tracks and Red Line Metro, Buchanan Street NE, Gallatin Street NE, Eastern Avenue NE, 20th Street NE, Bunker Hill Road NE, 18th Street NE, and Otis Street NE. The Michigan Park neighborhood grew with the advent of the automobile, allowing for the expansion of neighborhoods further away from the city center.<br/>
+<br/>
+The Association advocates for local school and community services and acts as the neighborhood representation with D.C. government agencies and other community organizations.</p>
+    </bioghist>
+    <processinfo id="aspace_b19e6c59251c31404944cf1f5b283424">
+      <head>Processing Information</head>
+      <p>Basic archival procedures were used at the time of processing. To enhance preservation, materials were removed from the original scrapbook and placed in an acid-free file folder in their original order.</p>
+    </processinfo>
+    <userestrict id="aspace_f3df24747bac66aba2e18a74d298a0c3">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
+    <arrangement id="aspace_ed9c8b047df57a87230e9178f0bb452b">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <genreform source="material_type">Organizational Records</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026199" source="Library of Congress Subject Headings">Citizens' Associations</subject>
+      <genreform authfilenumber="http://id.loc.gov/authorities/genreForms/gf2014026128" source="Library of Congress Subject Headings">Minutes (Records)</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85118923" source="Library of Congress Subject Headings">Scrapbooks</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <genreform source="material_type">Ephemera</genreform>
+      <geogname source="ingest">Michigan Park (Washington, D.C.)</geogname>
     </controlaccess>
     <dsc>
       <c id="aspace_b1d3fb1cde0e86f03927fed1ccdde3bb" level="series">
@@ -58,48 +96,48 @@
           <did>
             <unittitle>Meeting Minutes</unittitle>
             <unitdate normal="1949/1965" type="inclusive">1949-1965</unitdate>
-            <container id="aspace_895c5075eaa4cab87a5871987f5826bd" label="mixed materials" type="Box">1</container>
-            <container id="aspace_dd29cde6d144fbcd0ffe61794d4893e8" parent="aspace_895c5075eaa4cab87a5871987f5826bd" type="Folder">1</container>
+            <container id="aspace_a036add0a49864a04425973407b1f776" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e34d7b759e305b0772be71f20faae93b" parent="aspace_a036add0a49864a04425973407b1f776" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_c1ddd5036b47b2d2904b7f851a1c8bf7" level="file">
           <did>
             <unittitle>Meeting Minutes</unittitle>
             <unitdate normal="1966/1976" type="inclusive">1966-1976</unitdate>
-            <container id="aspace_48e000e2d9946e67b50c9c82bcd516f0" label="mixed materials" type="Box">2</container>
-            <container id="aspace_b14aaf3e90ae2041852d27ac0ee84367" parent="aspace_48e000e2d9946e67b50c9c82bcd516f0" type="Folder">1</container>
+            <container id="aspace_8aae52aabab4dcd0330c1248127979b5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8451eb641ddf4521dad97910e502ea87" parent="aspace_8aae52aabab4dcd0330c1248127979b5" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_295a559f47264b5ed03f68a7a941da6e" level="file">
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate normal="1965/1970" type="inclusive">1965-1970</unitdate>
-            <container id="aspace_152996c788d6a98b0219d7e52f7f504c" label="mixed materials" type="Box">3</container>
-            <container id="aspace_7d32c137438bb79bca31ad13b348648d" parent="aspace_152996c788d6a98b0219d7e52f7f504c" type="Folder">1</container>
+            <container id="aspace_8f40be5f2881236c5fc831cc4a8d6f08" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_992590b2789d2234aa03474a6ceade71" parent="aspace_8f40be5f2881236c5fc831cc4a8d6f08" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_577ed48feeb3a02ba858c4aaa2430141" level="file">
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1923/1950" type="inclusive">1923-1950</unitdate>
-            <container id="aspace_9572c21394c96047310b102b18fabdc4" label="mixed materials" type="Box">4</container>
-            <container id="aspace_a739ec46ac1c378d8809cdbb86f5eeb0" parent="aspace_9572c21394c96047310b102b18fabdc4" type="folder">1</container>
+            <container id="aspace_d2147e302fcf88cd523ddba0522ebaf4" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_4f27644174703927d5f4b0e10d8632ab" parent="aspace_d2147e302fcf88cd523ddba0522ebaf4" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_ef8ac033c5739a88c351eac1ecec582d" level="file">
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate normal="1970/1976" type="inclusive">1970-1976</unitdate>
-            <container id="aspace_5065ca12ff9845998ee35cfeb6599945" label="mixed materials" type="Box">4</container>
-            <container id="aspace_e26e035a5b26d728c9f11ed5900f2c36" parent="aspace_5065ca12ff9845998ee35cfeb6599945" type="Folder">2</container>
+            <container id="aspace_c3af976c9ce802c4c2a1489e9098913a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_b12823c76b6fa4f4c9a55e4830c018fd" parent="aspace_c3af976c9ce802c4c2a1489e9098913a" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_5a8be12dfa4158782ed491a0ff09a61c" level="file">
           <did>
             <unittitle>"A history of the Michigan Park Garden Club" scrapbook</unittitle>
             <unitdate normal="1951/1973" type="inclusive">1951-1973</unitdate>
-            <container id="aspace_b6557617d086014bf544a081dd8d2644" label="mixed materials" type="Box">5</container>
-            <container id="aspace_dfae0eeb14e6b9a6c08ed86a17b24a8a" parent="aspace_b6557617d086014bf544a081dd8d2644" type="Folder">1</container>
+            <container id="aspace_d3c147e1a38706e36300e4c07436c3e5" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_3aa71eafda97e3e84838a6c51030dbad" parent="aspace_d3c147e1a38706e36300e4c07436c3e5" type="Folder">1</container>
           </did>
         </c>
       </c>

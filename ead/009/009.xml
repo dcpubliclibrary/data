@@ -4,25 +4,30 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Wender (Harry S.) Papers</titleproper>
-        <titleproper>Harry S. Wender <num>009</num> <num>009</num></titleproper>
+        <titleproper>Harry S. Wender <num>009</num></titleproper>
         <subtitle>An inventory of Harry S. Wender at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-10-23 23:59:20 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:27:30 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
     <revisiondesc>
       <change>
-        <date>2019-09-24</date>
+        <date>2019-10-21</date>
         <item>Finding aid revised to be more evergreen. </item>
       </change>
     </revisiondesc>
@@ -33,23 +38,34 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
-      <unittitle>Wender (Harry S.) Papers</unittitle>
+      <unittitle>Harry S. Wender Papers</unittitle>
+      <origination label="creator">
+        <persname source="local">Wender, Harry S.</persname>
+      </origination>
       <unitid>009</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 linear feet; 2 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Boxes</extent>
       </physdesc>
       <unitdate normal="1930/1973" type="inclusive">1930-1973</unitdate>
-      <langmaterial id="aspace_52023b23340d3b1b3db64a19f6ac35ca">English</langmaterial>
+      <langmaterial id="aspace_c31a57f9d45c537fc2911a67880aeda2">English</langmaterial>
     </did>
+    <arrangement id="aspace_e6d329fb22f521163213a5a62fcc2fb8">
+      <head>Arrangement</head>
+      <p>Papers processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_b115975b2b71533efc258cd31fa8b551">
       <head>Biographical / Historical</head>
       <p>Harry S. Wender was born in 1908 in Knoxville, Tennessee and moved to Washington, D.C. as an infant. He graduated from Smallwood-Bowen School in 1921, Central High School in 1925, and Georgetown Law School in 1933. From 1925-1927 Mr. Wender attended pre-legal coursework at George Washington University. Mr. Wender was a practicing attorney in Washington, D.C. from 1932  until his death; focusing his work on racial segregation in D.C. recreation facilities, traffic law, transportation issues, and automobile insurance law.
 On October 14, 1937 Mr. Wender married Gerturude Schwarz. He was a member of B'Nai Brith, Southwest Citizens' Association, Federation of Citizens' Associations, D.C. Suffrage Association, Commissioners' Traffic Advisory Council, Washington Hebrew Congregation, District of Columbia and American Bar Associations, Association of Plaintiff's Trial Attorneys of Metropolitan Washington, Jewish Historical Society of Greater Washington, and editor of D. C. Bar Journal. He served as chairman of the D.C. Recreation Board from 1942-1952 and President of the Southwest Citizens' Association. Mr. Wender received awards for Outstanding Trial Lawyer of the Year Award from D.C. Association of Plaintiff's Trial Attorneys; Certificate of Merit from D.C. Commissioners; and  October 4, 1983 was designated by Mayor Marion Barry as "Harry Wender Day." Mr. Wender died December 14, 1985.</p>
     </bioghist>
-    <custodhist id="aspace_b5909fb8250f2f1e2bafe1a8b8e04023">
+    <custodhist id="aspace_8442e7904917b6611895496a5efa916a">
       <head>Custodial History</head>
+      <p>Donor unknown.</p>
     </custodhist>
     <scopecontent id="aspace_c41abe94cbe7ad79cef8408f63252ea3">
       <head>Scope and Contents</head>
@@ -60,136 +76,108 @@ On October 14, 1937 Mr. Wender married Gerturude Schwarz. He was a member of B'N
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85061707" source="Library of Congress Subject Headings"> Home rule -- Washington (D.C.)</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85129645" source="Library of Congress Subject Headings">Suffrage</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85077890" source="Library of Congress Subject Headings">Lobbying</subject>
-      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99001943" source="Library of Congress Subject Headings">Correspondence</subject>
-      <genreform authfilenumber="http://id.loc.gov/authorities/genreForms/gf2014026128" source="Library of Congress Subject Headings">Minutes (Records)</genreform>
-      <genreform authfilenumber="http://id.loc.gov/authorities/genreForms/gf2014026166" source="Library of Congress Subject Headings">Registers (Lists)</genreform>
     </controlaccess>
     <dsc>
-      <c id="aspace_445aa6551a125ae333ffa2cb348363c1" level="file">
+      <c id="aspace_a31cc1b64544837a8157597ee9de0526" level="series">
         <did>
-          <unittitle>Correspondence</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
-          </physdesc>
-          <unitdate normal="1930/1965" type="inclusive">1930-1965</unitdate>
-          <container id="aspace_3ca4edf4d694bc02fcdd94bd064eadbc" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_a072411a71bdd41da8567672eead9588" parent="aspace_3ca4edf4d694bc02fcdd94bd064eadbc" type="folder">1</container>
+          <unittitle>Series 1</unittitle>
         </did>
-      </c>
-      <c id="aspace_23b688fc0bf3e5ce3b5ffbea4587483d" level="file">
-        <did>
-          <unittitle>Proposal for Home Rule</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
-          </physdesc>
-          <unitdate normal="1930/1973" type="inclusive">1930-1973</unitdate>
-          <container id="aspace_c1bdf1ad5f961243e2f673a291a625ca" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_15c79c3f4be3598b834b5bbb771c9d5f" parent="aspace_c1bdf1ad5f961243e2f673a291a625ca" type="folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_7c05465b66f2e80529e28f80d746c4cb" level="file">
-        <did>
-          <unittitle>National Support for Home Rule, undated</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
-          </physdesc>
-          <container id="aspace_cfd94c95dd8527713de40b1d927c8c9e" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_29ce4663ce45721d59817343f21ecf8a" parent="aspace_cfd94c95dd8527713de40b1d927c8c9e" type="folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_5e91c32bf9f6c1eed382fba712f10aaa" level="file">
-        <did>
-          <unittitle>D.C. Home Rule Committee membership lists, undated</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
-          </physdesc>
-          <container id="aspace_3ec9650af809eb8240fa7655488f66bb" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_03839dcaaf5e46a508b60f419b097f5e" parent="aspace_3ec9650af809eb8240fa7655488f66bb" type="folder">4</container>
-        </did>
-      </c>
-      <c id="aspace_b03adaf776ea3db4fc905ad40ad5f0b8" level="file">
-        <did>
-          <unittitle>Home Rule Committee budgets, undated</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
-          </physdesc>
-          <container id="aspace_8c8a88b340fb940e7be6492d101af800" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_405979f6aba265610790451badd3e8d0" parent="aspace_8c8a88b340fb940e7be6492d101af800" type="folder">5</container>
-        </did>
-      </c>
-      <c id="aspace_f35d5f7bd318106792f6f3a2e54eca2b" level="file">
-        <did>
-          <unittitle>Actions of the D.C. Suffrage Association</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
-          </physdesc>
-          <unitdate normal="1930/1975" type="inclusive">1930-1975</unitdate>
-          <container id="aspace_991312fbf2b6055e3988066fe2da6114" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_30bf56deaff277ad4e64ea29f78b3285" parent="aspace_991312fbf2b6055e3988066fe2da6114" type="folder">6</container>
-        </did>
-      </c>
-      <c id="aspace_0693e50f9e4d8f2f173be3d02e89829c" level="file">
-        <did>
-          <unittitle>Local Support for Home Rule (organization), undated</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
-          </physdesc>
-          <container id="aspace_3ef9905ef94163b2d7f7383f043345ab" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_9d65f9d7b3f7bb48970f0637e92a0924" parent="aspace_3ef9905ef94163b2d7f7383f043345ab" type="folder">7</container>
-        </did>
-      </c>
-      <c id="aspace_7078900d11536cde7ae6f7d0373c0e19" level="file">
-        <did>
-          <unittitle>Norman Jay Show Very Truly Yours with Discussion of D.C. suffrage, undated</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
-          </physdesc>
-          <container id="aspace_8c197f24876de77cecfa2526ef31419e" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_7b0b5b43599f29af0b042fd75a0327ea" parent="aspace_8c197f24876de77cecfa2526ef31419e" type="folder">8</container>
-        </did>
-      </c>
-      <c id="aspace_e00996b17646c501a897f50772e91153" level="file">
-        <did>
-          <unittitle>Lobbying efforts with Congress, undated</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
-          </physdesc>
-          <unitdate normal="1939/1960" type="inclusive">1939-1960</unitdate>
-          <container id="aspace_5b50e0a2960878be36d37ac17cbeaaa0" label="Mixed Materials" type="Box">2</container>
-          <container id="aspace_8746e4d26379b42301ac352e51baea04" parent="aspace_5b50e0a2960878be36d37ac17cbeaaa0" type="folder">1</container>
-        </did>
-      </c>
-      <c id="aspace_ac7ef83e2d1669e330eb3b4855c5d2ba" level="file">
-        <did>
-          <unittitle>Publicity materials and editorials, undated</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
-          </physdesc>
-          <unitdate normal="1930/1974" type="inclusive">1930-1974</unitdate>
-          <container id="aspace_b2e76a39e8f2d5666f73e1abc4b95d38" label="Mixed Materials" type="Box">2</container>
-          <container id="aspace_d8620185281836a9dcc9398bf819f733" parent="aspace_b2e76a39e8f2d5666f73e1abc4b95d38" type="folder">2</container>
-        </did>
-      </c>
-      <c id="aspace_c683379197734cc961ab917a586e45c5" level="file">
-        <did>
-          <unittitle>Bills and Reports on the District of Columbia</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
-          </physdesc>
-          <unitdate normal="1940/1949" type="inclusive">1940-1949</unitdate>
-          <container id="aspace_0a78f2a889084ba594b6eaa227ebef9b" label="Mixed Materials" type="Box">2</container>
-          <container id="aspace_f5c39892155d052e0bdccb93c2b4d2f1" parent="aspace_0a78f2a889084ba594b6eaa227ebef9b" type="folder">3</container>
-        </did>
-      </c>
-      <c id="aspace_e678edfd8ec5b3b22666c3bd19e71b34" level="file">
-        <did>
-          <unittitle>Miscellaneous, undated</unittitle>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
-          </physdesc>
-          <container id="aspace_da64957040b2b973da2e2a986eb6f350" label="Mixed Materials" type="Box">2</container>
-          <container id="aspace_9ba91eb86eacdade1eaf1d0d85e682d0" parent="aspace_da64957040b2b973da2e2a986eb6f350" type="folder">4</container>
-        </did>
+        <c id="aspace_b95a1bfd6293436186b470335c35464e" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1930/1965" type="inclusive">1930-1965</unitdate>
+            <container id="aspace_91f7f52bf6065c4a2595e00da5c09686" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4df190fe103a8a85cbb2065e72e017ef" parent="aspace_91f7f52bf6065c4a2595e00da5c09686" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_9b2ecca6f2dd967157ed9682b6fd51e9" level="file">
+          <did>
+            <unittitle>Proposals for Home Rule</unittitle>
+            <unitdate normal="1930/1973" type="inclusive">1930-1973</unitdate>
+            <container id="aspace_bc5e49e5019792f86ade4c95b078884e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_06922057fea86e1f904110530e32f2d2" parent="aspace_bc5e49e5019792f86ade4c95b078884e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_13ce18795d78f431df13df9dade245d8" level="file">
+          <did>
+            <unittitle>National Support for Home Rule</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_cb6cbc5702b95c2130caf0e9286b6327" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_64f953d79e29bc624e9cce49961ad13a" parent="aspace_cb6cbc5702b95c2130caf0e9286b6327" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_05fdb279d005744b1a00cedf6ecc3787" level="file">
+          <did>
+            <unittitle>D.C. Home Rule Committee</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_239bcddfe456cdbd0c35a3d5a6def1a5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4d01134221a9ef7bcebaab5f68cae244" parent="aspace_239bcddfe456cdbd0c35a3d5a6def1a5" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_5e673cf003bb454a058824c934c6bcf0" level="file">
+          <did>
+            <unittitle>Home Rule Committee budgets</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_16f4a0ee47a54e7e728fb51ef3e858bd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9ff39984943931618c6c9b5dd0d26ecc" parent="aspace_16f4a0ee47a54e7e728fb51ef3e858bd" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_600be59d72b851f22b5f8e269c458b91" level="file">
+          <did>
+            <unittitle>Actions of the D.C. Suffrage Association</unittitle>
+            <unitdate normal="1930/1975" type="inclusive">1930-1975</unitdate>
+            <container id="aspace_77f724b6de426e5de6996e3a1f11a220" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d0cdf2a4ab88eb244c0fe27fe859b3a4" parent="aspace_77f724b6de426e5de6996e3a1f11a220" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_55aa3a5850b9c0fd949ff6e822d39b52" level="file">
+          <did>
+            <unittitle>Local Support for Home Rule (organization)</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_c38d1b09a5fc87d67ad3b372c3f8758a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_33f895c82a7b007fc07748fec8ca60ee" parent="aspace_c38d1b09a5fc87d67ad3b372c3f8758a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_97674229c3253b8fb73121a26d6f4151" level="file">
+          <did>
+            <unittitle>Norman Jay Show Very Truly Yours with Discussion of D.C. suffrage</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_fda1777a0b0b585c78f1fc936572dd0a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c1a5f855e45504b5ada82184a031fc6a" parent="aspace_fda1777a0b0b585c78f1fc936572dd0a" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_7604808a665bde1b5b7f68ca5cbfeaf1" level="file">
+          <did>
+            <unittitle>Lobbying efforts with Congress</unittitle>
+            <unitdate normal="1939/1960" type="inclusive">1939-1960</unitdate>
+            <container id="aspace_bcbe4014b96df78fa85de9acc35a1dfb" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e69dcf0ad7e721931baf73ece7033f4d" parent="aspace_bcbe4014b96df78fa85de9acc35a1dfb" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_b038ee160917e7ea28cdb4af7cf9c761" level="file">
+          <did>
+            <unittitle>Publicity materials and editorials</unittitle>
+            <unitdate normal="1930/1974" type="inclusive">1930-1974</unitdate>
+            <container id="aspace_eac035fb8512bdb482ec77597b277457" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9487348567c909ce29a2d545cf1840ed" parent="aspace_eac035fb8512bdb482ec77597b277457" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_f741fadffe22cff6382813e8a7665448" level="file">
+          <did>
+            <unittitle>Bills and Reports on the District of Columbia</unittitle>
+            <unitdate normal="1940/1949" type="inclusive">1940-1949</unitdate>
+            <container id="aspace_a875a3e28cbd1a724ad02e9fe06cc4c6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4513cd1a3017b449cffbcd6e9337aa42" parent="aspace_a875a3e28cbd1a724ad02e9fe06cc4c6" type="folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ecdd4159e249353d99c43d3019a062d5" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate type="inclusive">Undated</unitdate>
+            <container id="aspace_993e3b1fef9f40a1075a753297cf498b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_94bb236158a3b740f541d9382e361722" parent="aspace_993e3b1fef9f40a1075a753297cf498b" type="Folder">4</container>
+          </did>
+        </c>
       </c>
     </dsc>
   </archdesc>

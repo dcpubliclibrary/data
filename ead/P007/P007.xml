@@ -1,25 +1,36 @@
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid/>
+    <eadid url="http://washingtoniana.dclibrary.org">P007Curtis</eadid>
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Curtis (Joseph Owen) Collection</titleproper>
-        <titleproper>Joseph Owen Curtis <num>P007</num></titleproper>
-        <subtitle>An inventory of Joseph Owen Curtis at DC Public Library</subtitle>
+        <titleproper>Joseph Owen Curtis Collection <num>P007</num></titleproper>
+        <subtitle>An inventory of Joseph Owen Curtis Collection at DC Public Library</subtitle>
         <author>Algee, Lauren</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2014-04</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-25 11:19:58 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:55:20 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-05-20</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,58 +38,108 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Joseph Owen Curtis Photographic Collection</unittitle>
+      <origination label="creator">
+        <persname authfilenumber="78" source="local">Curtis, Joseph Owen</persname>
+      </origination>
       <unitid>P007</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 Boxes</extent>
       </physdesc>
       <unitdate normal="1910/1989" type="inclusive">1910-1989</unitdate>
     </did>
     <arrangement id="aspace_66b888aa02c9974896e301cd31ecdafe">
       <head>Arrangement</head>
-      <p>The collection is arranged into the following series:</p>
-      <p>Series 1: Institutions and Organizations
-Series 2: People
-Series 3: Streets and Buildings
-Series 4: Slides</p>
+      <p>Series I: Institutions and Organizations, .50 cubic ft. (1926-1989)<br/>
+Photographs in this series depict the people and events of formal and informal institutions and organizations important in the civil, social, and educational life of Southwest Washington, D.C. These include Randall Junior High School, Randall Playground, Miner Teachers College, the Washington Cadet Corps drill competitions, and Bruce Wahl's Restaurant and Beer Garden, a popular café and nightclub on the Southwest waterfront frequented by black Washingtonians after WWII to the late 1950s, and the Willow Tree Athletic Club and its football team, which was organized and played at the Randall Playground, formerly known as the Cardozo Playground, from the 1930s through the 1950s.<br/>
+<br/>
+Among the photographs are reproductions of ephemera related to the organizations and their events including publicity flyers, announcements and event programs.<br/>
+<br/>
+Folders are organized by related institutions and arranged by date.<br/>
+<br/>
+Series II: People, .50 cubic ft. (1910s-1980s)
+This series consists of photographs of individuals and groups, almost exclusively in and from Southwest Washington, D.C. The images show Curtis family members and friends, some of whom became important neighborhood figures and leaders, throughout their lives. Most photographs are carefully labeled, identifying the people pictured and including biographical details about the individuals and their ties to Curtis, each other, and the Southwest community. The photographs feature images from Curtis' childhood, parties, holidays, funerals, and weddings. The images were taken at home, abroad during World War II, and at local gathering spots such as Doc Johnson's store, Delaware Avenue, and 4th Street. The World War II photographs include an image of General Dwight D. Eisenhower who visited Curtis' camp in France.<br/>
+<br/>
+Among the photographs are copy reproductions of clippings related to residents of Southwest, including obituaries and articles covering the D.C. release of the film Black Orpheus.<br/>
+<br/>
+Folders are arranged by date.<br/>
+<br/>
+Series III: Streets and Buildings, .25 cubic ft. (1930-1989)
+This series contains photographs of houses, businesses, and the street life of Southwest D.C. Curtis generally does not identify people in the photographs from the neighborhood but meticulously documents the locations in his captions. Areas depicted include businesses and houses along lower 4th Street (600 to 1200 blocks), F and G Street to the 600 block, Delaware Avenue, M and Half Streets, and alley life at 2nd and I Streets. Buildings and landmarks include the Southwest storage tank, Johnson's drugstore, railway viaducts and Randall Elementary School. The photographs are particularly notable for showing Southwest streets and buildings that were completely changed or demolished by urban renewal.<br/>
+<br/>
+Folders are arranged by date.<br/>
+<br/>
+Series IV: Slides, .25 ft. (84 slides), ca. 1914-1982
+The series contains 25 black and white slides, primarily of prints in the collection, and 59 unique color images. The black and white slides cover the period before urban renewal of Southwest, from approximately the 1910s to the 1950s. The color images were taken by Curtis in the 1980s to contrast Southwest's streetscapes before and after renewal. Curtis rephotographed streets captured in his earlier black and white prints for comparison.<br/>
+<br/>
+The slides are arranged using a numbering system Curtis devised.</p>
     </arrangement>
     <bioghist id="aspace_bb3e5893714bdb4b70e9daf50bd36936">
       <head>Biographical / Historical</head>
-      <p>Joseph Owen Curtis was born in 1915 to Hamilton and Aurena E. Curtis and lived in Southwest Washington, D.C. for most of his life.  He was close to his older brother William DuBois Curtis, who often appeared in his photographs. Both men went by their middle names throughout their lives. Curtis attended Randall Jr. High School, Dunbar High School, Miner Teachers College, and Howard University.  He served in the U.S. Army during World War II as a Special Services Officer stationed in France and Greenland.  Curtis eventually earned the rank of Major and worked for many years leading up to his retirement at the Naval Research Laboratory as a math technician</p>
-      <p>Hamilton Curtis gave Owen his first camera at the age of 11 and encouraged him to learn photographic development to defray the cost of developing negatives.  Curtis worked as a snack vendor at local sporting events to pay for the 25-cent rolls of film he used.  From an early age he photographed the buildings, people, daily interactions, social events, and street scenes of the Southwest African-American community in which he lived.  </p>
-      <p>Curtis became active in civic affairs when redevelopment plans for Southwest began to take shape in the late 1940s. In 1949 Curtis joined the Southwest Civic Association and eventually was appointed chairman of the Redevelopment Committee.  Congress chartered the Redevelopment Land Agency (RLA) in 1946, a new agency with considerable power to condemn and redevelop the city.  In a 1950 report, the RLA characterized Southwest as "obsolete" and in need of major redevelopment. By the 1950s when urban renewal was planned for Southwest, a majority of its residents were African-American and nearly two-thirds were low-income.   Curtis and his fellow community residents feared they would be displaced as a result of development.  Most of their fears were realized when many residents of Southwest were unable to afford to return to their neighborhood after redevelopment. Urban renewal reshaped and forever changed the landscape and culture of Southwest.  </p>
-      <p>Curtis died on January 31, 2005.
- 
-Sources:
+      <p>Joseph Owen Curtis was born in 1915 to Hamilton and Aurena E. Curtis and lived in Southwest Washington, D.C. for most of his life. He was close to his older brother William DuBois Curtis, who often appeared in his photographs. Both men went by their middle names throughout their lives. Curtis attended Randall Junior High School, Dunbar High School, Miner Teachers College, and Howard University. He served in the U.S. Army during World War II as a Special Services Officer, stationed in France and Greenland. Curtis eventually earned the rank of Major and worked for many years leading up to his retirement at the Naval Research Laboratory as a math technician.<br/>
+<br/>
+Hamilton Curtis gave Owen his first camera at the age of 11 and encouraged him to learn photographic development to defray the cost of developing negatives. Curtis worked as a snack vendor at local sporting events to pay for the 25-cent rolls of film he used. From an early age he photographed the buildings, people, daily interactions, social events, and street scenes of the Southwest African-American community in which he lived.<br/>
+<br/>
+Curtis became active in civic affairs when redevelopment plans for Southwest began to take shape in the late 1940s. In 1949 Curtis joined the Southwest Civic Association and eventually was appointed chairman of the Redevelopment Committee. Congress chartered the Redevelopment Land Agency (RLA) in 1946, a new agency with considerable power to condemn and redevelop the city. In a 1950 report, the RLA characterized Southwest as "obsolete" and in need of major redevelopment. By the 1950s when urban renewal was planned for Southwest, a majority of its residents were African-American and nearly two-thirds were low-income. Curtis and his fellow community residents feared they would be displaced as a result of development. Most of their fears were realized when many residents of Southwest were unable to afford to return to their neighborhood after redevelopment. Urban renewal reshaped and forever changed the landscape and culture of Southwest.<br/> 
+<br/>
+Curtis died on January 31, 2005.<br/>
+<br/>
+Sources:<br/>
 "Old Southwest Remembered: The Photographs of Joseph Owen Curtis" Washington History, Fall 1989, Volume 1, Number 2
-"A Community Caught in Memory: Photographer Takes Viewers Back to a Simpler Southwest," The Washington Post, March 16, 1995
-The Washington Afro-American, October 6, 1979
-Kathryn Smith (ed.), Washington At Home, "Southwest Washington: Where History Stopped," Chapter 5, by Keith Melder, Windsor Publications, 1988.
+"A Community Caught in Memory: Photographer Takes Viewers Back to a Simpler Southwest," The Washington Post, March 16, 1995<br/>
+The Washington Afro-American, October 6, 1979<br/>
+Kathryn Smith (ed.), Washington At Home, "Southwest Washington: Where History Stopped," Chapter 5, by Keith Melder, Windsor Publications, 1988.<br/>
 The Southwester, March 2005</p>
     </bioghist>
     <custodhist id="aspace_9d3b078db92e8e9c2741817e70100edd">
       <head>Custodial History</head>
-      <p>In 1979 Joseph Owen Curtis organized Southwest Library's annual Festival of the Arts and  brought a sample of his photography to Lessie Owens, Head Librarian of DC Public Library's Southwest Branch.  The images had such impact on the library staff that a permanent exhibition of Curtis Photography was established at the branch.  The original photographic prints and slides were later transferred to DC Public Library's Washingtoniana Collection at Martin Luther King Jr. Memorial Library and officially accessioned in 1998.</p>
+      <p>In 1979 Joseph Owen Curtis organized Southwest Library's annual Festival of the Arts and brought a sample of his photography to Lessie Owens, Head Librarian of DC Public Library's Southwest Branch. The images had such an impact on the library staff that a permanent exhibition of Curtis Photography was established at the branch. The original photographic prints and slides were later transferred to DC Public Library's Martin Luther King Jr. Memorial Library and officially accessioned in 1998.</p>
     </custodhist>
     <processinfo id="aspace_1567088e9b52af6308f94bc8f9a932dd">
       <head>Processing Information</head>
-      <p>After initial processing in 2001, the collection was organized into five series--Series 1: Groups and individual shots, Series 2: Special subjects, Series 3: Streets and Buildings, Series 4: Family and Personal, Series 5: Memorabilia, and Series 6: Slides.  Photographs of individuals were separated from those of groups and subjects and were organized by photographer.  All photographs and all unique slides were placed in protective plastic Mylar enclosures.</p>
-      <p>Following digitization, the collection was reprocessed to simplify the series and reunite like photographs of the same events and of related subjects that were separated during the initial processing.  Since photographs of Curtis family and friends were present throughout the collection and the entire collection could be considered quite personal to the photographer, the three series family and personal, groups and individual shots, and special subjects were combined.  The large body of photographs documenting people and events this created were then divided into two series—those related to specific Southwest institutions and organizations, formal and informal, and those of the people of Southwest at-large.</p>
+      <p>After initial processing in 2001, the collection was organized into five series--Series I: Groups and individual shots, Series II: Special subjects, Series III: Streets and Buildings, Series IV: Family and Personal, Series V: Memorabilia, and Series VI: Slides. Photographs of individuals were separated from those of groups and subjects and were organized by photographer name. All photographs and all unique slides were placed in protective plastic Mylar enclosures.<br/>
+<br/>
+Following digitization, the collection was reprocessed to simplify the series and reunite like photographs of the same events and of related subjects that were separated during the initial processing. Since photographs of Curtis' family and friends were present throughout the collection and the entire collection could be considered personal to the photographer, the three series family and personal, groups and individual shots, and special subjects were combined. The large body of photographs documenting people and events this created were then divided into two series—those related to specific Southwest institutions and organizations, formal and informal, and those of the people of Southwest at-large.</p>
     </processinfo>
     <scopecontent id="aspace_3140d87ebccbea0902931d024ec46710">
       <head>Scope and Contents</head>
-      <p>The collection contains approximately 270 black and white prints and 83 slides, the majority of which depict the African-American community of the Southwest neighborhood of Washington, D.C., primarily from the 1920s through the 1970s. The photographs document a historic neighborhood that would be largely razed in the 1950s and 1960s, dramatically changing the landscape and population of the neighborhood.</p>
-      <p>The many photographs of streets, businesses, and buildings provide important visual documentation of the historic architecture, neighborhood gathering places and homes of Southwest before and after urban renewal.  Photographs of the gatherings and people of Curtis' family and community chronicle the formal and informal organizations of civic and social life in the neighborhood. These include Randall Junior High School, Randall Playground, Miner Teachers College, the Washington Cadet Corps drill competitions, Bruce Wahl's Restaurant and Beer Garden, the Willow Tree Athletic Club and other sports organizations, and the Willow Tree Athletic Club Benevolent Association. Other photographic subjects include Curtis and his fellow servicemen from Southwest D.C. meeting in France during World War II. The collection also contains photographs of programs, announcements, invitations, obituaries, and other items related to the people and organizations Curtis documented.</p>
-      <p>Curtis wrote captions on nearly all of his prints to identify the people, location, and date depicted.  On many photographs Curtis also wrote biographical details and memories about the individuals pictured and information about their connections to the Southwest community. </p>
-      <p>The collection's slides were primarily taken by Curtis in the 1980s of some the same locations he shot in earlier decades. The slides also include copy photographs of his black and white prints.</p>
+      <p>The collection contains approximately 270 black and white prints and 83 slides, the majority of which depict the African-American community of the Southwest neighborhood of Washington, D.C., primarily from the 1920s through the 1970s. The photographs document a historic neighborhood that would be largely razed in the 1950s and 1960s, dramatically changing the landscape and population of the neighborhood.<br/>
+<br/>
+The photographs of streets, businesses, and buildings provide visual documentation of the historic architecture, neighborhood gathering places, and homes of Southwest before and after urban renewal. Photographs of the gatherings and people of Curtis' family and community chronicle the formal and informal organizations of civic and social life in the neighborhood. These include Randall Junior High School, Randall Playground, Miner Teachers College, the Washington Cadet Corps drill competitions, Bruce Wahl's Restaurant and Beer Garden, the Willow Tree Athletic Club and other sports organizations, and the Willow Tree Athletic Club Benevolent Association. Other photographic subjects include Curtis and his fellow servicemen from Southwest D.C. meeting in France during World War II. The collection also contains photographs of programs, announcements, invitations, obituaries, and other items related to the people and organizations Curtis documented.<br/>
+<br/>
+Curtis wrote captions on nearly all of the prints to identify the people, location, and date depicted. On many photographs Curtis also wrote biographical details and memories about the individuals pictured and information about their connections to the Southwest community.<br/> 
+<br/>
+The collection's slides were primarily taken by Curtis in the 1980s of some of the same locations he shot in earlier decades. The slides also include copy photographs of his black and white prints.</p>
     </scopecontent>
     <userestrict id="aspace_aed71ead60a58bcbb369d242f970a926">
       <head>Conditions Governing Use</head>
       <p>Copyright for all original photographs by Joseph Owen Curtis was transferred to DC Public Library at the time of accession. However, the collection includes some copy photographs of images taken by Scurlock Studio and by friends and family members of Curtis. In addition, the images include reproductions of newspaper clippings, obituaries, public school activities, and social engagement advertisements.  When known, Curtis labeled his copy photographs with the name of the creator or source. </p>
       <p>Outside of fair use, it is the responsibility of the researcher to obtain permission from the person or institution holding copyright of an image for publication. The Scurlock Studio Archives are owned by the Smithsonian Institution's National Museum of American History Archives Center.</p>
     </userestrict>
+    <userestrict id="aspace_35aec0e2fe6799ab71b714c76788b0c8">
+      <head>Conditions Governing Use</head>
+      <p>Copyright for all original photographs by Joseph Owen Curtis was transferred to DC Public Library at the time of accession. However, the collection includes some copy photographs of images taken by Scurlock Studio and by friends and family members of Curtis. In addition, the images include reproductions of newspaper clippings, obituaries, public school activities, and social engagement advertisements. When known, Curtis labeled his copy photographs with the name of the creator or source.<br/>
+<br/>
+Outside of fair use, it is the responsibility of the user to obtain permission from the person or institution holding copyright of an image for publication. The Scurlock Studio Archives are owned by the Smithsonian Institution's National Museum of American History Archives Center.</p>
+    </userestrict>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85123429" source="Library of Congress Subject Headings">Slides (Photography)</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85001932" source="Library of Congress Subject Headings">African Americans</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85128633" source="Library of Congress Subject Headings">Streets</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85017769" source="Library of Congress Subject Headings">Buildings</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85141324" source="Library of Congress Subject Headings">Urban renewal</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85029220" source="Library of Congress Subject Headings">Community development, Urban</subject>
+      <geogname source="ingest">Southwest (Washington, D.C.)</geogname>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85148273" source="Library of Congress Subject Headings">World War, 1939-1945</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85001906" source="Library of Congress Subject Headings">African American soldiers</subject>
+    </controlaccess>
     <dsc>
       <c id="aspace_e919cf5f323de141bd487ac23c723f9d" level="series">
         <did>
@@ -95,199 +156,199 @@ The Southwester, March 2005</p>
           <did>
             <unittitle>Athletic Clubs - Cardoza Athletic Club baseball</unittitle>
             <unitdate normal="1949/1949">ca. 1949</unitdate>
-            <container id="aspace_c14f29dd91b4a152368141048111de14" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_c67969d222ff8241e698c81e753ff0e3" parent="aspace_c14f29dd91b4a152368141048111de14" type="Folder">1</container>
+            <container id="aspace_2146300032bfb33eff0113a0d75768a9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5d7f0133947fdb609547b49b31a7761a" parent="aspace_2146300032bfb33eff0113a0d75768a9" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_331598567ad80ca22e7dfcf14a0cce52" level="file">
           <did>
             <unittitle>Athletic Clubs - Cavalier Athletic Club football</unittitle>
             <unitdate normal="1937/1937">ca. 1937</unitdate>
-            <container id="aspace_d5bd9b70661e9e6f237b31e013328717" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_12096bdb36facd796e5505d3cf3d9c95" parent="aspace_d5bd9b70661e9e6f237b31e013328717" type="Folder">2</container>
+            <container id="aspace_9b2dae7eee8171c2cb2d1f035e18f7c6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_42760ddcaf8d7510711d4d9645e9b168" parent="aspace_9b2dae7eee8171c2cb2d1f035e18f7c6" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_a2ad072665ce698b6afa6ec3541336d6" level="file">
           <did>
             <unittitle>Athletic Clubs - Oriental Tigers baseball team</unittitle>
             <unitdate normal="1926/1926">1926</unitdate>
-            <container id="aspace_64c748511460e458df486230c247ae4c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_3d1da35045a4c3097ce436e7ef7658db" parent="aspace_64c748511460e458df486230c247ae4c" type="Folder">3</container>
+            <container id="aspace_0a5b2c767e62d6181ddc13fb6836e766" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7eeab75ed372d7ae15445e3347e64883" parent="aspace_0a5b2c767e62d6181ddc13fb6836e766" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_3903f69ef71faa38412c29ad6ab8d825" level="file">
           <did>
             <unittitle>Athletic Clubs - Willow Tree Athletic Club football and fans</unittitle>
             <unitdate normal="1934/1950" type="inclusive">1934-1950s</unitdate>
-            <container id="aspace_e6e3a12737c7bdaa5ac275bd150285f4" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e9d8bf305dca4d6580bd7a0f317168bc" parent="aspace_e6e3a12737c7bdaa5ac275bd150285f4" type="Folder">4</container>
+            <container id="aspace_bb537161f81be334240c3c4e01715d21" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_001b6fb4fb1973c3ac42ef7245563904" parent="aspace_bb537161f81be334240c3c4e01715d21" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_e4dc06b2687d01803d74e58f62967d8e" level="file">
           <did>
             <unittitle>Bruce Wahl's Restaurant and Beer Garden</unittitle>
             <unitdate normal="1950/1960" type="inclusive">1950s</unitdate>
-            <container id="aspace_720c7d1d758a06515e7c21a97b879e63" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_f637ae94c394b1d1911a0ceb60a0d489" parent="aspace_720c7d1d758a06515e7c21a97b879e63" type="Folder">5</container>
+            <container id="aspace_c068608f300b206832e8e422ab9ae531" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f5d5efd030365299436482fda1272149" parent="aspace_c068608f300b206832e8e422ab9ae531" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_2f056350c96b37eeb8ab2f62fbac1616" level="file">
           <did>
             <unittitle>Bruce Wahl's Restaurant and Beer Garden - Wahl funeral</unittitle>
             <unitdate normal="1983/1983">1983</unitdate>
-            <container id="aspace_8d603b73aa0ce493c047005f56daf545" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d7b3021521ea356ee79dab5ee1883e86" parent="aspace_8d603b73aa0ce493c047005f56daf545" type="Folder">6</container>
+            <container id="aspace_3c742d912def388f8debaba287764c7a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_dd335dd74e9853d4d2afadd7f02724ba" parent="aspace_3c742d912def388f8debaba287764c7a" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_cd1b7c6ffa9495fad04f477810bc65eb" level="file">
           <did>
             <unittitle>Churches - Church of Saint Vincent de Paul - Confirmation of Father Everett Muschette</unittitle>
             <unitdate normal="1958/1958">1958</unitdate>
-            <container id="aspace_459236a835ad267c5790c3897b158971" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_93f14eef0eb10f190839dedba00cd4a0" parent="aspace_459236a835ad267c5790c3897b158971" type="Folder">7</container>
+            <container id="aspace_543ed9be42d3266c3952e03fc2e2463b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_07792cecd2f1849b1333f508f81b06f5" parent="aspace_543ed9be42d3266c3952e03fc2e2463b" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_f25d90c4bc5ff916f5f6a07799a4251d" level="file">
           <did>
             <unittitle>Churches - St. Augustine's Church - Sanctuary Choir</unittitle>
             <unitdate normal="1925/1925">1925</unitdate>
-            <container id="aspace_d27a1f0c489c2101f69459d0774fdf6b" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_142cf9a98a916651c888fd6508725a7a" parent="aspace_d27a1f0c489c2101f69459d0774fdf6b" type="Folder">8</container>
+            <container id="aspace_dbe528d4c838c6598f11a46ac18ac162" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_081a6e46d90533e01ee8b22347a1f417" parent="aspace_dbe528d4c838c6598f11a46ac18ac162" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_981dd09beeb82ae60eb62898217116a7" level="file">
           <did>
             <unittitle>Individualist Club -Caribbean cruise</unittitle>
-            <container id="aspace_dbcb1399376f6924c39c19c865d625d0" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b6987a867e9660125dd453edc5e8f0d7" parent="aspace_dbcb1399376f6924c39c19c865d625d0" type="Folder">9</container>
+            <container id="aspace_0e680958bababdc29d427c2990a87f10" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d3e8c4d51dfdbce1929bfdb2fa5721e1" parent="aspace_0e680958bababdc29d427c2990a87f10" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_c0bc2f13cc0ae61c4eb26bf940f3c45a" level="file">
           <did>
             <unittitle>Miner Teachers College - Graduates</unittitle>
             <unitdate normal="1937/1937">1937</unitdate>
-            <container id="aspace_2609b05583c8276dee815e547faebe79" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_9967f07c6c1a33904afcb96601b9ec01" parent="aspace_2609b05583c8276dee815e547faebe79" type="Folder">10</container>
+            <container id="aspace_beb8cb6fe5e620110f8d379a780dfe5d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6c63ac6825584bb100527ec9f6f1909d" parent="aspace_beb8cb6fe5e620110f8d379a780dfe5d" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_662b6fa325b371712d5c19577d0a1006" level="file">
           <did>
             <unittitle>Miner Teachers College - Football and cheerleaders</unittitle>
             <unitdate normal="1939/1939">ca. 1939</unitdate>
-            <container id="aspace_0443153f5e239b7c23b627eeabbfa999" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_4f13449148ae0a62d489e2235d4d5d14" parent="aspace_0443153f5e239b7c23b627eeabbfa999" type="Folder">11</container>
+            <container id="aspace_d543cb535dab162ad7462563256ff7b8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2f4d86c4e95cb7a2471ff1d9e7f161cb" parent="aspace_d543cb535dab162ad7462563256ff7b8" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_7b79c16edac31dfa62cd84712bf4bdf9" level="file">
           <did>
             <unittitle>Randall Jr. High School - Students (includes memorabilia)</unittitle>
             <unitdate normal="1929/1936" type="inclusive">1929-1936</unitdate>
-            <container id="aspace_a99c7eb47f10c96d38b9bad7b01a004d" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_85415f316f9767ac89207cca2bb8e529" parent="aspace_a99c7eb47f10c96d38b9bad7b01a004d" type="Folder">12</container>
+            <container id="aspace_a8977c72cab08f1b4e79d34c36d7613d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e206e89bcae88d5f35a0fb192dc250c8" parent="aspace_a8977c72cab08f1b4e79d34c36d7613d" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_cc4e73d4977a3aed7af19b4a00e13250" level="file">
           <did>
             <unittitle>Randall Jr. High School - Faculty</unittitle>
             <unitdate normal="1945/1950" type="inclusive">1945-1950s</unitdate>
-            <container id="aspace_a7dc58f380569d37266d4fac77b267ca" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_3f116aa67dcd6146ebaf7d87779e3638" parent="aspace_a7dc58f380569d37266d4fac77b267ca" type="Folder">13</container>
+            <container id="aspace_8cc4d4d42b14e727d40e9727cd40bc93" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5967ac707850b3c8d35a9c370299fe75" parent="aspace_8cc4d4d42b14e727d40e9727cd40bc93" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_196e6ece53a42de3e0ff095ec771ffbf" level="file">
           <did>
             <unittitle>Randall Jr. High School - Building</unittitle>
             <unitdate normal="1960/1960">ca. 1960</unitdate>
-            <container id="aspace_f2efa026cb4327f426ff5514fe8267fa" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_9f4923031105d3f058696010bf1b6892" parent="aspace_f2efa026cb4327f426ff5514fe8267fa" type="Folder">14</container>
+            <container id="aspace_f59c68d8a15cfe45411b542945361239" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2a8519413de18c96dffdfd2c785928ca" parent="aspace_f59c68d8a15cfe45411b542945361239" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_9b64988fcd4c541a873b8f0b2af189af" level="file">
           <did>
             <unittitle>Randall Jr. High School - 50th Anniversary</unittitle>
             <unitdate normal="1973/1973">1973</unitdate>
-            <container id="aspace_2be2589382b44717411a46b851749262" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b7d9395d0e54f0e90a886e3f4dfa670a" parent="aspace_2be2589382b44717411a46b851749262" type="Folder">15</container>
+            <container id="aspace_0bb643d8969493305970c93ee67b1fae" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b868030e21aee93c3878b552254d6010" parent="aspace_0bb643d8969493305970c93ee67b1fae" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_e796d17f4bdbac96b6ff7770154e928f" level="file">
           <did>
             <unittitle>Randall Jr. High School - Class of 1929 alumni</unittitle>
             <unitdate normal="1982/1982">1982</unitdate>
-            <container id="aspace_8d437a72272c490aa2e069b899172721" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_8c2752c8670e0058068ae33cf1c6bc97" parent="aspace_8d437a72272c490aa2e069b899172721" type="Folder">16</container>
+            <container id="aspace_0d058ed97d795fa71a03eeae3a2731cc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5040fab61da654e7c80be5c5226ee017" parent="aspace_0d058ed97d795fa71a03eeae3a2731cc" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_1c9703c436d05d7c128582fa48930c42" level="file">
           <did>
             <unittitle>Randall Playground</unittitle>
             <unitdate normal="1936/1950" type="inclusive">1936-1950s</unitdate>
-            <container id="aspace_fc784bd6f7e2ac32258760ff57bbc630" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_77f26730c27b07c10f862e956e493314" parent="aspace_fc784bd6f7e2ac32258760ff57bbc630" type="Folder">17</container>
+            <container id="aspace_30ce19598c80c9971012de7da0ad536d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_93e2fe40b55d7eba20ea66c6dbe49117" parent="aspace_30ce19598c80c9971012de7da0ad536d" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_264f7cf64e32ac80a6ba9cca20715b69" level="file">
           <did>
             <unittitle>Randall Playground - Reunion - Lola LaBrandt memorial and father-son basketball game</unittitle>
             <unitdate normal="1956-04-21/1956-04-21">April 21 1956</unitdate>
-            <container id="aspace_fb45b717a5eb56f3cb585c4734fd00f7" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_3e53360c789e0a102260b35278e1dc0b" parent="aspace_fb45b717a5eb56f3cb585c4734fd00f7" type="Folder">18</container>
+            <container id="aspace_9935ecb5af36a2a545dfb36df478aa25" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_165b1245b6a3efd8533efc54e220c7ff" parent="aspace_9935ecb5af36a2a545dfb36df478aa25" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_72b551457df376cfab2d618a2aa37423" level="file">
           <did>
             <unittitle>Saturday Nite [sic] Club</unittitle>
             <unitdate normal="1975/1982" type="inclusive">1975-1982</unitdate>
-            <container id="aspace_72afd341d85e01835b76686c4eb59ccc" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_66d955fa045418079e96a25275f20b42" parent="aspace_72afd341d85e01835b76686c4eb59ccc" type="Folder">19</container>
+            <container id="aspace_cef402a0950c5390ac6d872bf7f4740a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_75ee788d5f6a4f48e0110a3991226cce" parent="aspace_cef402a0950c5390ac6d872bf7f4740a" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_9ff6319172df77a3486b2324265edd09" level="file">
           <did>
             <unittitle>Washington High School Cadet Corps - 1926</unittitle>
             <unitdate normal="1936/1936">ca. 1936</unitdate>
-            <container id="aspace_f6196947e9035d98e48f9c835661a5ee" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_195a27fefb1b2c3ecab2f2ef36d07388" parent="aspace_f6196947e9035d98e48f9c835661a5ee" type="Folder">1</container>
+            <container id="aspace_740b94c0a5daab3fde405ec6ebb25704" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_264abd498a734d26a89651ef2bba80b4" parent="aspace_740b94c0a5daab3fde405ec6ebb25704" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_a1f859a91e2588964b942c7abe68d82c" level="file">
           <did>
             <unittitle>Washington D.C. Fire Department</unittitle>
             <unitdate normal="1926/1926">1926</unitdate>
-            <container id="aspace_c26c14e4b02d643ececdefda6b23b915" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_968d6601f843c89b234eae5d5f1c8c49" parent="aspace_c26c14e4b02d643ececdefda6b23b915" type="Folder">2</container>
+            <container id="aspace_194c3e3a8333ec9d1495f11f51310aa1" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f80f73ebcf59b682442916a03c9f3c40" parent="aspace_194c3e3a8333ec9d1495f11f51310aa1" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_d1dbda573e1c01f9ccc466c6f3d2e0fd" level="file">
           <did>
             <unittitle>Washington D.C. high schools Dramatic Carnival</unittitle>
             <unitdate normal="1926/1926">1926</unitdate>
-            <container id="aspace_75c14660c436a545d60ec70dae2ba67b" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_a35bfd0c8068244b4f490505c881158a" parent="aspace_75c14660c436a545d60ec70dae2ba67b" type="Folder">3</container>
+            <container id="aspace_465ec544910136fb0d8d00ba858c052f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f7b0abdf3cbc7797797e251665f0a185" parent="aspace_465ec544910136fb0d8d00ba858c052f" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_9bb0c3b90b2532f742d4ff65ec62c3b4" level="file">
           <did>
             <unittitle>Willow Tree Athletic Club Benevolent Association - Recognition day</unittitle>
             <unitdate normal="1974-06-16/1974-06-16">June 16 1974</unitdate>
-            <container id="aspace_0c36e7a90822f9584709ac73948de46f" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_a8ea4a71b0519c4c1af706f2b25cee6c" parent="aspace_0c36e7a90822f9584709ac73948de46f" type="Folder">4</container>
+            <container id="aspace_8436b99f2cdc1bf7e690be31e03eb2fc" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9de2efd741dcf8e084a51fffc618cb94" parent="aspace_8436b99f2cdc1bf7e690be31e03eb2fc" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_d65b3b515438db92537861744c13228f" level="file">
           <did>
             <unittitle>Willow Tree Athletic Club Benevolent Association - Cabarets</unittitle>
             <unitdate normal="1976/1976">1976</unitdate>
-            <container id="aspace_3ea254d5b9605aaef9f20dd6245e8f9e" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_7f45227b750078ddb6188a90539e4786" parent="aspace_3ea254d5b9605aaef9f20dd6245e8f9e" type="Folder">5</container>
+            <container id="aspace_295940b5692d8f9c99bc88a70d1ca3bc" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_32293e5b7279038dff71deb2cacbca46" parent="aspace_295940b5692d8f9c99bc88a70d1ca3bc" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_9ca86d937876cf0dc4d2f23c5562816e" level="file">
           <did>
             <unittitle>Willow Tree Athletic Club Benevolent Association - Picnics</unittitle>
             <unitdate normal="1974/1979" type="inclusive">1974-1979</unitdate>
-            <container id="aspace_2565323df54c5dd0f84e12399888175c" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_87a80fd2ffddad4c46b2f054319d28a0" parent="aspace_2565323df54c5dd0f84e12399888175c" type="Folder">6</container>
+            <container id="aspace_048bcf1d394aa00de3910cdb36288816" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9afb3032e06f94ed4e542dc4f663f5f0" parent="aspace_048bcf1d394aa00de3910cdb36288816" type="Folder">6</container>
           </did>
         </c>
       </c>
@@ -306,88 +367,88 @@ The Southwester, March 2005</p>
           <did>
             <unittitle>People</unittitle>
             <unitdate normal="1910/1910">1910</unitdate>
-            <container id="aspace_3caf2780f3c8e3f7d9d3405dd5bc40a1" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_d0dbafc4d3ee5d27cea7d81af64071dd" parent="aspace_3caf2780f3c8e3f7d9d3405dd5bc40a1" type="Folder">7</container>
+            <container id="aspace_13506d20d7fd4a962392c589b6c3ba9b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8dbda1aff99088e9e275471e8d1ab627" parent="aspace_13506d20d7fd4a962392c589b6c3ba9b" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_81937d3d50412755acf626fc2a64a27c" level="file">
           <did>
             <unittitle>People</unittitle>
             <unitdate normal="1920/1930" type="inclusive">1920s</unitdate>
-            <container id="aspace_487888a6e4486c5730a8fcd72e239e38" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_3e5a345ddd762d2496b5978ebbdbf841" parent="aspace_487888a6e4486c5730a8fcd72e239e38" type="Folder">8</container>
+            <container id="aspace_a56466ad61441c61fac8a958e905adf4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c8804a8c9247225072b24ca56c71c4a3" parent="aspace_a56466ad61441c61fac8a958e905adf4" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_6879c0e67931bf2851ff54fe597d0749" level="file">
           <did>
             <unittitle>People</unittitle>
             <unitdate normal="1930/1940" type="inclusive">1930s</unitdate>
-            <container id="aspace_1e006df5395083201b9bb9cf5bf2df46" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_71782466629e1f129181d93215611ad0" parent="aspace_1e006df5395083201b9bb9cf5bf2df46" type="Folder">9</container>
+            <container id="aspace_d1555f6667797b6ecfcf141f46dd2cee" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b7a4c777765b12df3de09cf1a8cd47c9" parent="aspace_d1555f6667797b6ecfcf141f46dd2cee" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_215423d35bf85fa5d013516b02284a2c" level="file">
           <did>
             <unittitle>People</unittitle>
             <unitdate normal="1940/1950" type="inclusive">1940s</unitdate>
-            <container id="aspace_009836776bb18a1ed36dc289c5821bb6" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f4714df2bd3d68c4bb70034761d2941e" parent="aspace_009836776bb18a1ed36dc289c5821bb6" type="Folder">10</container>
+            <container id="aspace_9eefe006a4937bcc97a840e1317a0cd1" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_35520f0441b15bf26ca447dd58b84ff2" parent="aspace_9eefe006a4937bcc97a840e1317a0cd1" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_0052012dde3cae5d49ff60542fdff011" level="file">
           <did>
             <unittitle>People - World War II</unittitle>
             <unitdate normal="1940/1945" type="inclusive">1940-1945</unitdate>
-            <container id="aspace_78393f09a8f086aedf4ec7bb0af0acbc" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_b1e3f892f065348ddff9326fd5bfddb1" parent="aspace_78393f09a8f086aedf4ec7bb0af0acbc" type="Folder">11</container>
+            <container id="aspace_a5f1675e5cb4fee3d69e03b5b4e83644" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c797fe1fab387b670859c687b1e55255" parent="aspace_a5f1675e5cb4fee3d69e03b5b4e83644" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_3cddba9e7f275c7d59a282d36ccfbbd3" level="file">
           <did>
             <unittitle>People</unittitle>
             <unitdate normal="1950/1960" type="inclusive">1950s</unitdate>
-            <container id="aspace_f3ac7058824bebc1811970d47b96a1c4" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_e14049d0f0dfc57e0041b15218a1d5a6" parent="aspace_f3ac7058824bebc1811970d47b96a1c4" type="Folder">12</container>
+            <container id="aspace_e68a2f5859842eb7eee25d8d01d8c463" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_87b085b1dbdd7cd6cd8f7804f95b560c" parent="aspace_e68a2f5859842eb7eee25d8d01d8c463" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_57f9de11e76fb7c3dbaca325e292bba1" level="file">
           <did>
             <unittitle>People</unittitle>
             <unitdate normal="1970/1980" type="inclusive">1970s</unitdate>
-            <container id="aspace_f666cc6654b47a0a7e39c254885139bd" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_6a96ddd5d8db006e07ce67dd52f1852e" parent="aspace_f666cc6654b47a0a7e39c254885139bd" type="Folder">13</container>
+            <container id="aspace_dd8556166ba09f07e938a690f4d81001" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_56105a0e1e9785e0165748e5ae3d0d89" parent="aspace_dd8556166ba09f07e938a690f4d81001" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_13d0351703986e311a4b5eceb0d49445" level="file">
           <did>
             <unittitle>People</unittitle>
             <unitdate normal="1980/1990" type="inclusive">1980s</unitdate>
-            <container id="aspace_47052ec64e60753f98a1378fe14f293a" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_b6b9342817eac61f07ec12c8ff2ab99d" parent="aspace_47052ec64e60753f98a1378fe14f293a" type="Folder">14</container>
+            <container id="aspace_40f9515f4327b521ef3fd4fcabe834b7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_46c84b251a31dc67661af4687700559a" parent="aspace_40f9515f4327b521ef3fd4fcabe834b7" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_b4b1265090626591c948318064fa95d9" level="file">
           <did>
             <unittitle>Clippings - Black Orpheus film</unittitle>
             <unitdate normal="1979/1979">1979</unitdate>
-            <container id="aspace_e8c369668985c70bc63c2da8265732b1" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_4ed2dad49d6a2eede6037f14d487647e" parent="aspace_e8c369668985c70bc63c2da8265732b1" type="Folder">1</container>
+            <container id="aspace_4ab4096ade8dea9b3175bc57d8f17ee0" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_1d81a0f823b1e7933128f5f553cb09ce" parent="aspace_4ab4096ade8dea9b3175bc57d8f17ee0" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_3b6b88b58cfe65fa6ef6ebc2b82a7ec9" level="file">
           <did>
             <unittitle>Clippings - Curtis photography exhibition</unittitle>
             <unitdate normal="1979-10-06/1979-10-06">October 6 1979</unitdate>
-            <container id="aspace_9e529cb97ad03aa116076174b9edd670" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_683f6a374c0a02ab1d4b61eb374a4063" parent="aspace_9e529cb97ad03aa116076174b9edd670" type="Folder">2</container>
+            <container id="aspace_01ee7c92dd2dd637b0bdb9b73cfc3d32" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_3db93174ca6968d9369ad28bb6dd77e9" parent="aspace_01ee7c92dd2dd637b0bdb9b73cfc3d32" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_d99df8eb481f3ea13951d8207da02173" level="file">
           <did>
             <unittitle>Clippings - Obituaries</unittitle>
             <unitdate normal="1980/1984" type="inclusive">1980-1984</unitdate>
-            <container id="aspace_8d5712114d83b4131e58819813f411eb" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_899f643bf106a1199483dbefb60a8c5d" parent="aspace_8d5712114d83b4131e58819813f411eb" type="Folder">3</container>
+            <container id="aspace_21071c5cf72c711ccf424a677a1b407f" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f06a45a132e76d206dee169b9c0ccf80" parent="aspace_21071c5cf72c711ccf424a677a1b407f" type="Folder">3</container>
           </did>
         </c>
       </c>
@@ -405,47 +466,47 @@ The Southwester, March 2005</p>
           <did>
             <unittitle>Streets and Buildings</unittitle>
             <unitdate normal="1930/1940" type="inclusive">1930s</unitdate>
-            <container id="aspace_6af6cbaa5e5f46605ffd776d3b74e8b2" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_fe530621ef48fe1d429a079f7f57c939" parent="aspace_6af6cbaa5e5f46605ffd776d3b74e8b2" type="Folder">4</container>
+            <container id="aspace_e265c23d048b118d952eda28cc158c42" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_c8a175998f1d4eec97d5281b2ee4741f" parent="aspace_e265c23d048b118d952eda28cc158c42" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_c598d03370e7cc5414eae3ded388345e" level="file">
           <did>
             <unittitle>Streets and Buildings</unittitle>
             <unitdate normal="1940/1950" type="inclusive">1940s</unitdate>
-            <container id="aspace_3a01694222c0c53b1990db68b5802765" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_3c951c6897a9fab28ad986357ff34234" parent="aspace_3a01694222c0c53b1990db68b5802765" type="Folder">5</container>
+            <container id="aspace_043ed64b1a0e0e26e0f323f7e2f048f4" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_99ccf2a4061848dfc152be3e4e961c95" parent="aspace_043ed64b1a0e0e26e0f323f7e2f048f4" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_0c2a996473832400f25102cbcf53a609" level="file">
           <did>
             <unittitle>Streets and Buildings</unittitle>
             <unitdate normal="1950/1960" type="inclusive">1950s</unitdate>
-            <container id="aspace_04edba43105470d911df610cb2b8ce63" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_e8957dc1f96afebcc07ee7a4d2583cd0" parent="aspace_04edba43105470d911df610cb2b8ce63" type="Folder">6</container>
+            <container id="aspace_b1bf97dcd617c4a743f1883c1938676e" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_7df6fd35612df03b0486892e7f6c20c8" parent="aspace_b1bf97dcd617c4a743f1883c1938676e" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_987aba37da6a9613382523130ebde784" level="file">
           <did>
             <unittitle>Streets and Buildings</unittitle>
             <unitdate normal="1979/1989" type="inclusive">1979-1989</unitdate>
-            <container id="aspace_fe6ff9f4bb85ff2c7d937a75d53bfab5" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_98437b6974b5489446f9755801aa0356" parent="aspace_fe6ff9f4bb85ff2c7d937a75d53bfab5" type="Folder">7</container>
+            <container id="aspace_e4b1f755bbdba78517ec29c1648f4597" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b2d4ace4ffd4e94abb31a0b65134aeca" parent="aspace_e4b1f755bbdba78517ec29c1648f4597" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_0a5fe0eb50cdbe4d22bd3ae4de52c3e0" level="file">
           <did>
             <unittitle>Streets and Buildings</unittitle>
-            <container id="aspace_00b0670374249a1d314bf014d6733642" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_929205a4a1abad58a8aa78e809e793c0" parent="aspace_00b0670374249a1d314bf014d6733642" type="Folder">8</container>
+            <container id="aspace_5490d2c302e318c1c4317ba0667f9e56" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_961045833a7d8c5899ae9eb4c8888c0e" parent="aspace_5490d2c302e318c1c4317ba0667f9e56" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_f32b05ddae7ed2019b8ebaf3d489ec87" level="file">
           <did>
             <unittitle>Streets and Buildings - Rent receipt</unittitle>
             <unitdate normal="1949/1949">1949</unitdate>
-            <container id="aspace_0f62236d690ce5c4191604b18a05fa05" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_f783857ac00fde922a09a89afe0bac1c" parent="aspace_0f62236d690ce5c4191604b18a05fa05" type="Folder">9</container>
+            <container id="aspace_f36ab09d362b53e871847e259002e588" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_07a59f75f94c457164a77bed56a3fbff" parent="aspace_f36ab09d362b53e871847e259002e588" type="Folder">9</container>
           </did>
         </c>
       </c>
@@ -462,8 +523,8 @@ The Southwester, March 2005</p>
         <c id="aspace_24421a13fc1731f59b8356ea315108d8" level="file">
           <did>
             <unittitle>M Street, SW, north side from Half Street and South Capitol</unittitle>
-            <container id="aspace_4629910e0625f044d1cb340e1cb56ed6" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_c2110fea2a0dd50221ec06bc0d4d639a" parent="aspace_4629910e0625f044d1cb340e1cb56ed6" type="Binder">1</container>
+            <container id="aspace_d8f96f3b5fdadbda5eac2971dce7b10e" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_f1b3cfe6e549c4d620347d2869ea05df" parent="aspace_d8f96f3b5fdadbda5eac2971dce7b10e" type="Binder">1</container>
           </did>
           <odd id="aspace_7414f3e5d51e207034c20134c7c461e9">
             <head>General</head>
@@ -473,8 +534,8 @@ The Southwester, March 2005</p>
         <c id="aspace_9a960cd3155f106609ebc05085322b40" level="file">
           <did>
             <unittitle>4th Street, west side, between L and M Streets</unittitle>
-            <container id="aspace_d7b914412987b8ac25dd2f8b1d1fdd14" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_2465a9ef5183e8b2ebceb3fba7b7902b" parent="aspace_d7b914412987b8ac25dd2f8b1d1fdd14" type="Binder">1</container>
+            <container id="aspace_19d336c5a466398e8a5ff37cc2bdac17" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_e0d4865ceb1062917c15495fbb8198b7" parent="aspace_19d336c5a466398e8a5ff37cc2bdac17" type="Binder">1</container>
           </did>
           <odd id="aspace_fff9779b2b198fb1b7c07d30e9422ca4">
             <head>General</head>
@@ -484,8 +545,8 @@ The Southwester, March 2005</p>
         <c id="aspace_fb71aff48a66926f4ceeac766ba3d045" level="file">
           <did>
             <unittitle>4th and G Streets, northeast corner</unittitle>
-            <container id="aspace_14bd08c3c58cbe975088b83e7355f2ab" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_d331c4e77181138d7bd0a7a13c8e2df2" parent="aspace_14bd08c3c58cbe975088b83e7355f2ab" type="Binder">1</container>
+            <container id="aspace_3ad60b1fdd1f90d2f807a52e554ef337" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_ab1de46333d4c828b0364c667ac4322b" parent="aspace_3ad60b1fdd1f90d2f807a52e554ef337" type="Binder">1</container>
           </did>
           <odd id="aspace_77ecad6c37cdf62e9afdf74d87232cd5">
             <head>General</head>
@@ -495,8 +556,8 @@ The Southwester, March 2005</p>
         <c id="aspace_136745d4d47b7d19cb5ca4427d122605" level="file">
           <did>
             <unittitle>N Street, south side from South Capitol toward Half Street</unittitle>
-            <container id="aspace_0b4fdc97f776a31e1105eb5ed73d2e3e" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_8dea69757a7c89ca3284fbaccff15262" parent="aspace_0b4fdc97f776a31e1105eb5ed73d2e3e" type="Binder">1</container>
+            <container id="aspace_3af8c159907738c5c824bfc6aa634a08" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_531060bc746fa7ec53171df70be7e930" parent="aspace_3af8c159907738c5c824bfc6aa634a08" type="Binder">1</container>
           </did>
           <odd id="aspace_1164bf3d161521c86ad591090fb1483e">
             <head>General</head>
@@ -506,8 +567,8 @@ The Southwester, March 2005</p>
         <c id="aspace_b7c0a2fb16934cb5b8ec9d9f7a56ae34" level="file">
           <did>
             <unittitle>John Marshall's Printing Shop, 4th Street, west side, between I and K Streets</unittitle>
-            <container id="aspace_3357429afc6ae84622a9f5084cf91315" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_68746d4b2aebabb3aace573854b3a513" parent="aspace_3357429afc6ae84622a9f5084cf91315" type="Binder">1</container>
+            <container id="aspace_e9f3050bfa3d1cd67ee91804b50fc496" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_aba3dec560ce5a40cf49659668227cef" parent="aspace_e9f3050bfa3d1cd67ee91804b50fc496" type="Binder">1</container>
           </did>
           <odd id="aspace_7dc9c29d6d1e6a41bc947b4ebb789813">
             <head>General</head>
@@ -517,8 +578,8 @@ The Southwester, March 2005</p>
         <c id="aspace_e5f4c5772f484aba56aa302a024fe6e5" level="file">
           <did>
             <unittitle>4th Street, west side, between M and N Streets</unittitle>
-            <container id="aspace_4f9acbf3065075bdcfd8e8d00dc40076" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_b15135c318b59a10f3fba8d5412d77b5" parent="aspace_4f9acbf3065075bdcfd8e8d00dc40076" type="Binder">1</container>
+            <container id="aspace_d39a838e595928f7955ec9bd83a8910a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7af7633df2f05a407ce223e8696bfc6a" parent="aspace_d39a838e595928f7955ec9bd83a8910a" type="Binder">1</container>
           </did>
           <odd id="aspace_7100f57b3c6cf07613ab0530d1c3c023">
             <head>General</head>
@@ -528,8 +589,8 @@ The Southwester, March 2005</p>
         <c id="aspace_f1fdf88da28da8d5d0998c651d47fa28" level="file">
           <did>
             <unittitle>2nd and F Streets, northwest corner, north side toward 3rd Street</unittitle>
-            <container id="aspace_79d8060bdb2cc8768587a94f619233b7" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_71c97c8e4fd4f2cc02854ceb4473eed1" parent="aspace_79d8060bdb2cc8768587a94f619233b7" type="Binder">1</container>
+            <container id="aspace_0447d6d7d5920b0eb4abdf5fae7ab80e" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7c60d8fe639e034e2912607f33597329" parent="aspace_0447d6d7d5920b0eb4abdf5fae7ab80e" type="Binder">1</container>
           </did>
           <odd id="aspace_8c2387b137f12bedee67cb0a9fee11d6">
             <head>General</head>
@@ -539,8 +600,8 @@ The Southwester, March 2005</p>
         <c id="aspace_0fd70a085b827d8d31a0af451b3a071d" level="file">
           <did>
             <unittitle>2nd and F Streets, northeast corner, north side toward 1st Street</unittitle>
-            <container id="aspace_6b149c7d2c0f283e2814906e7fe5d46b" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_3018def53ae8975b48877c8ec56d748f" parent="aspace_6b149c7d2c0f283e2814906e7fe5d46b" type="Binder">1</container>
+            <container id="aspace_a0dfd980b4572e6bb1eda7683a9b0ef8" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_bab00d0e94fd335fb6dd145bf2289846" parent="aspace_a0dfd980b4572e6bb1eda7683a9b0ef8" type="Binder">1</container>
           </did>
           <odd id="aspace_66c39e9d4a093a3e7c2df3dd745c618b">
             <head>General</head>
@@ -550,8 +611,8 @@ The Southwester, March 2005</p>
         <c id="aspace_2f0e6e3b1baec5935ba3b29ea091e2c3" level="file">
           <did>
             <unittitle>D Street, north side, between 1st and 2nd Streets</unittitle>
-            <container id="aspace_e1028db32952e64ddcf8fa72ceed869c" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_0f67ef8fe9dcfe47b3affeccb3eecdd0" parent="aspace_e1028db32952e64ddcf8fa72ceed869c" type="Binder">1</container>
+            <container id="aspace_bc3d5d540edacb18674f67035e4ac9df" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_5a6ef6c56a57d8ec36eb6dcd58b0f127" parent="aspace_bc3d5d540edacb18674f67035e4ac9df" type="Binder">1</container>
           </did>
           <odd id="aspace_6a7c78dddb0ff4aff20cdfd3ecaeb092">
             <head>General</head>
@@ -561,8 +622,8 @@ The Southwester, March 2005</p>
         <c id="aspace_c9965d65525cc43fda33d79e43fa8dd0" level="file">
           <did>
             <unittitle>2nd and G Streets, northwest corner</unittitle>
-            <container id="aspace_4286f8baf8b2486b384ed9d44cad5de9" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_703f630915f0360ab2f43e80c1c1483e" parent="aspace_4286f8baf8b2486b384ed9d44cad5de9" type="Binder">1</container>
+            <container id="aspace_6914bc871b6f2443707e431575980e97" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_ad9ae7ffde9f8d1f5daac0f15ff8f23c" parent="aspace_6914bc871b6f2443707e431575980e97" type="Binder">1</container>
           </did>
           <odd id="aspace_054b18d8b1fd5860c2c145548ec9571f">
             <head>General</head>
@@ -572,8 +633,8 @@ The Southwester, March 2005</p>
         <c id="aspace_382a401d9d61cdaaa2f95ae234bc760b" level="file">
           <did>
             <unittitle>4th and I Streets, northeast corner, toward H Street</unittitle>
-            <container id="aspace_b736ad1727b9d2f2d370182b142d3f5d" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_4a9bc4ad52cac57f260f955eaefd84a4" parent="aspace_b736ad1727b9d2f2d370182b142d3f5d" type="Binder">1</container>
+            <container id="aspace_bde34d05792ad6f049ff603770dc0553" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_ebeef9a589f96a1245e4614ae112254b" parent="aspace_bde34d05792ad6f049ff603770dc0553" type="Binder">1</container>
           </did>
           <odd id="aspace_4177d6432756a356fce81109ee9b0b6a">
             <head>General</head>
@@ -583,8 +644,8 @@ The Southwester, March 2005</p>
         <c id="aspace_bb7ee56cc3a1b014a1697e9e0aacb4ff" level="file">
           <did>
             <unittitle>4th Street, east side, between F and E Streets</unittitle>
-            <container id="aspace_b8b786cced971a89e71e6a43acb441c2" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_256bf4dfb62e0d32d96ceff2d105cca2" parent="aspace_b8b786cced971a89e71e6a43acb441c2" type="Binder">1</container>
+            <container id="aspace_3a7d361179e5c69f111868a94804633b" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_29f993c34c742297f47ca47162fd6873" parent="aspace_3a7d361179e5c69f111868a94804633b" type="Binder">1</container>
           </did>
           <odd id="aspace_23fba17405189cbc3003d6249f0fe68c">
             <head>General</head>
@@ -594,8 +655,8 @@ The Southwester, March 2005</p>
         <c id="aspace_9df4c4ddf0ba40c60b0bff0ab98aec26" level="file">
           <did>
             <unittitle>1st and Virginia Avenue railroad viaduct looking east</unittitle>
-            <container id="aspace_b32f3bc12c47cf957ce48e7523c88098" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_01d281c9b17bea061c934e35cfe1bbc8" parent="aspace_b32f3bc12c47cf957ce48e7523c88098" type="Binder">1</container>
+            <container id="aspace_61c3d7991fe06349593328732e408e43" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_5d9d44aa5744a848841b3b615b584247" parent="aspace_61c3d7991fe06349593328732e408e43" type="Binder">1</container>
           </did>
           <odd id="aspace_9cc5611a1ce312a8d63c631a39f5efc3">
             <head>General</head>
@@ -605,8 +666,8 @@ The Southwester, March 2005</p>
         <c id="aspace_f0021e4b41bcb2f76d874c1fa7ccdd80" level="file">
           <did>
             <unittitle>F Street, north side, between 2nd and 3rd Streets, toward 2nd Street</unittitle>
-            <container id="aspace_d32c73eea47f53c2e0b2852ceca567e7" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_5e18c5bf5cfd07b1e07217cbcd90bab1" parent="aspace_d32c73eea47f53c2e0b2852ceca567e7" type="Binder">1</container>
+            <container id="aspace_d625aa9302e05c01c1c19f0c0f420854" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_55136549f637e3b0f0e1c2aef3767ab7" parent="aspace_d625aa9302e05c01c1c19f0c0f420854" type="Binder">1</container>
           </did>
           <odd id="aspace_2e866b1803bb1dd82bddff1913b2970d">
             <head>General</head>
@@ -616,8 +677,8 @@ The Southwester, March 2005</p>
         <c id="aspace_0794a30f1883cc4c284b585a0577566f" level="file">
           <did>
             <unittitle>G Street, north side between 3rd and 4th Streets, toward 4th Street</unittitle>
-            <container id="aspace_c1ef5692239b3c4dd0cccf739dd97c1a" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_5c46c858ccff1f7eced6cce8bfaecfe1" parent="aspace_c1ef5692239b3c4dd0cccf739dd97c1a" type="Binder">1</container>
+            <container id="aspace_e78957d76fbc00323f75e3d1986fc4eb" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_8dd43f55a71e1c7babd4909db322c9cc" parent="aspace_e78957d76fbc00323f75e3d1986fc4eb" type="Binder">1</container>
           </did>
           <odd id="aspace_88d73b96c2d5f99e543e592db87a8e5b">
             <head>General</head>
@@ -627,8 +688,8 @@ The Southwester, March 2005</p>
         <c id="aspace_3cfcfab4c349519cd8330f05ddae0552" level="file">
           <did>
             <unittitle>3rd and F Streets, northeast corner, north side of F Street, toward 2nd Street</unittitle>
-            <container id="aspace_486e15fb160fd2955a5f06516bdfe4dd" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_42ad10e4ec78a9711ece5cd45268a0a1" parent="aspace_486e15fb160fd2955a5f06516bdfe4dd" type="Binder">1</container>
+            <container id="aspace_a7c5d62148602e8fbdc0e1831debcf4b" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_81527526a3f5ee91be8f67329095f664" parent="aspace_a7c5d62148602e8fbdc0e1831debcf4b" type="Binder">1</container>
           </did>
           <odd id="aspace_7acda2c9f425181f0ba77289b4778939">
             <head>General</head>
@@ -638,8 +699,8 @@ The Southwester, March 2005</p>
         <c id="aspace_8c4fd6d6fe1cdbe06ed1f7937dd46e8a" level="file">
           <did>
             <unittitle>1st Street, east side, from I Street, toward K Street</unittitle>
-            <container id="aspace_974806f0ff6841e636f5268a4d1a8738" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_ca7466ff8b41eef58745ef0378de7d71" parent="aspace_974806f0ff6841e636f5268a4d1a8738" type="Binder">1</container>
+            <container id="aspace_628f81cc983b44c4fe757804c74d6ff4" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_f9d5cf937a02907fd7162a09b3ea7a1c" parent="aspace_628f81cc983b44c4fe757804c74d6ff4" type="Binder">1</container>
           </did>
           <odd id="aspace_adf820caf81d050cebed0ec822731653">
             <head>General</head>
@@ -649,8 +710,8 @@ The Southwester, March 2005</p>
         <c id="aspace_c6f8bbbc0ea919f92bd5a2504d05f9f6" level="file">
           <did>
             <unittitle>G Street, north side, between 6th and 7th Streets</unittitle>
-            <container id="aspace_badb6bae67c8069e52d1dcb1c2caaedd" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_3405d1514b2e0455011a5054d2ac693f" parent="aspace_badb6bae67c8069e52d1dcb1c2caaedd" type="Binder">1</container>
+            <container id="aspace_24c1455da44d24f79f94dba363471534" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_4b65f35cb348448b90dceae2464771d1" parent="aspace_24c1455da44d24f79f94dba363471534" type="Binder">1</container>
           </did>
           <odd id="aspace_2bbfa3a3689a74c37dcff3721fade63b">
             <head>General</head>
@@ -660,8 +721,8 @@ The Southwester, March 2005</p>
         <c id="aspace_130c35120df21a03e07fad33daa31a18" level="file">
           <did>
             <unittitle>831 Delaware Avenue at I Street, northwest corner (Hampton Curtis with William D. and Joseph O. Curtis)</unittitle>
-            <container id="aspace_f6c8df907e3afc0b6caa09aef9a878b1" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_47cc511e131bdd85b18998e2e47baa0c" parent="aspace_f6c8df907e3afc0b6caa09aef9a878b1" type="Binder">1</container>
+            <container id="aspace_e56f7c4d03c6bf45885ab9da523b24fe" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_dee353cfc0b7c3ae3f4f310b642c253a" parent="aspace_e56f7c4d03c6bf45885ab9da523b24fe" type="Binder">1</container>
           </did>
           <odd id="aspace_ebf390f032e7567735adaa66e8180c23">
             <head>General</head>
@@ -671,8 +732,8 @@ The Southwester, March 2005</p>
         <c id="aspace_93f354eb03405edd943604f1c7395c4d" level="file">
           <did>
             <unittitle>Half and M Streets, northeast corner toward L Street</unittitle>
-            <container id="aspace_e69cede4a37b1a3db581a252415e8c4b" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_be5a69aa71e3c8df7442cccce4f0cb17" parent="aspace_e69cede4a37b1a3db581a252415e8c4b" type="Binder">1</container>
+            <container id="aspace_082eb1d5b7d4005909069c0c2cfe8ab8" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_edf60ea46c8057948cc241f231fd5c76" parent="aspace_082eb1d5b7d4005909069c0c2cfe8ab8" type="Binder">1</container>
           </did>
           <odd id="aspace_8e26bca611a6cac4f3f2560b40b4d558">
             <head>General</head>
@@ -682,8 +743,8 @@ The Southwester, March 2005</p>
         <c id="aspace_f54c949c41da63a9ad9ef19d944279be" level="file">
           <did>
             <unittitle>Half and M Streets, northwest corner, north side toward 1st Street</unittitle>
-            <container id="aspace_06591da1a88ceac3bf1140e7a2586e6c" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_41c7a1c5fb6cac360c70be28402071fa" parent="aspace_06591da1a88ceac3bf1140e7a2586e6c" type="Binder">1</container>
+            <container id="aspace_2682ff58c16f3fce35e0dfba56d6e55f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_b0feff8ae11e70071d075d31331ce5bb" parent="aspace_2682ff58c16f3fce35e0dfba56d6e55f" type="Binder">1</container>
           </did>
           <odd id="aspace_9d47c0c842a6d06d6808f46fd0334edc">
             <head>General</head>
@@ -693,8 +754,8 @@ The Southwester, March 2005</p>
         <c id="aspace_a46913f990797314ae7d05a61f6cb771" level="file">
           <did>
             <unittitle>Dr. Nathaniel Johnson's drugstore, 3rd and F Streets, southeast corner</unittitle>
-            <container id="aspace_15cc0b92787d88538d6e1f6bf3b17e1a" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_3a02b7a9b412972d1c4b93b4620c1199" parent="aspace_15cc0b92787d88538d6e1f6bf3b17e1a" type="Binder">1</container>
+            <container id="aspace_6ed51c23ae920b7aa8441adcf7ab0436" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_c7ef82a149b63f22c3cd83f60c3cf4f8" parent="aspace_6ed51c23ae920b7aa8441adcf7ab0436" type="Binder">1</container>
           </did>
           <odd id="aspace_d8ef3a089654497e8efbdfe3d3994753">
             <head>General</head>
@@ -704,8 +765,8 @@ The Southwester, March 2005</p>
         <c id="aspace_5ecfe1d50966df3a9a388a80f412762e" level="file">
           <did>
             <unittitle>Delaware Avenue and I Street, northwest corner, toward 2nd Street, north side</unittitle>
-            <container id="aspace_65a916ef9000bb5927a124ffc9106391" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_b06d29be9a72d264b6c18c87a5e0af3e" parent="aspace_65a916ef9000bb5927a124ffc9106391" type="Binder">1</container>
+            <container id="aspace_44f83aebd607a42e68b075b93ff219a6" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_d56c97b86194153bcf1b5f6cc957bae4" parent="aspace_44f83aebd607a42e68b075b93ff219a6" type="Binder">1</container>
           </did>
           <odd id="aspace_0691a38e8c432f0c89fb4905cb127b02">
             <head>General</head>
@@ -715,8 +776,8 @@ The Southwester, March 2005</p>
         <c id="aspace_15aa06f07b102d92a7131c0433c57ea7" level="file">
           <did>
             <unittitle>2nd and G Streets, northwest corner, north side toward Delaware Avenue</unittitle>
-            <container id="aspace_aff5bfdb488d9c8cb5256527e10012a2" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_6026d6fe378bb1228acdc0124ed83875" parent="aspace_aff5bfdb488d9c8cb5256527e10012a2" type="Binder">1</container>
+            <container id="aspace_1388a438c768670ccdaee2a008f3f6e9" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_a90b1c4835f48b6896faeed47de83c65" parent="aspace_1388a438c768670ccdaee2a008f3f6e9" type="Binder">1</container>
           </did>
           <odd id="aspace_1f51e4d4fc5f85c290b7bcacb5610149">
             <head>General</head>
@@ -726,8 +787,8 @@ The Southwester, March 2005</p>
         <c id="aspace_986323eb35358322c6a5fa8d97e18848" level="file">
           <did>
             <unittitle>Joseph O. Curtis, B.S. Ed., Miner Teachers College</unittitle>
-            <container id="aspace_e3ed138cf74dedf03fcb84ef8b9dfe24" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_a7b669608aea368dc31daba6790bebbc" parent="aspace_e3ed138cf74dedf03fcb84ef8b9dfe24" type="Binder">1</container>
+            <container id="aspace_2a344788cd53f6a3fe750d1bd00cbff3" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_311d38d15aeb970cdeece5f24db9ce3c" parent="aspace_2a344788cd53f6a3fe750d1bd00cbff3" type="Binder">1</container>
           </did>
           <odd id="aspace_cf6d3cbcc64fc0cafb9b203b40c973fb">
             <head>General</head>
@@ -737,8 +798,8 @@ The Southwester, March 2005</p>
         <c id="aspace_622ec0c34d9230d96359067e6c0652bf" level="file">
           <did>
             <unittitle>Duplicate slides (6 slide boxes)</unittitle>
-            <container id="aspace_ac7de51ee084d7145baa5c7a89112127" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_a7bc82249af890eb3fbd63d8e7c59763" parent="aspace_ac7de51ee084d7145baa5c7a89112127" type="Folder">1</container>
+            <container id="aspace_d54fb179f2bd7def898b24c2e57cd386" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_bd87d1507eeba92bcd77d82eedfcb477" parent="aspace_d54fb179f2bd7def898b24c2e57cd386" type="Folder">1</container>
           </did>
           <odd id="aspace_24fb2d0d63682455ed6c1f151c16c5a0">
             <head>General</head>
@@ -748,8 +809,8 @@ The Southwester, March 2005</p>
         <c id="aspace_c749628e46fb4d7365c78147acb9e97f" level="file">
           <did>
             <unittitle>Copy negatives</unittitle>
-            <container id="aspace_70050aaece9e8cad63206ff0487b9417" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_240ccded9642aa89cdb3998c8871a3c5" parent="aspace_70050aaece9e8cad63206ff0487b9417" type="Folder">2</container>
+            <container id="aspace_ce1eee498172903dbfc49fb67b3ed400" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_43c04c3659a7353eaacd70d0f792735d" parent="aspace_ce1eee498172903dbfc49fb67b3ed400" type="Folder">2</container>
           </did>
           <odd id="aspace_80131bb12080ccf03a1c106f981cf487">
             <head>General</head>
@@ -759,8 +820,8 @@ The Southwester, March 2005</p>
         <c id="aspace_ae1529aa509d691323050fc15350035f" level="file">
           <did>
             <unittitle>Southwest library exhibit plaques</unittitle>
-            <container id="aspace_168da57dcee18a335f3d99aaeca0a390" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_acc55e3dfa9eb6b7b8a8e0b3f8688032" parent="aspace_168da57dcee18a335f3d99aaeca0a390" type="Folder">3</container>
+            <container id="aspace_5cbf164aecf163c07bb440081bf48878" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_70943add025fa3b5fb6edb575316ca5f" parent="aspace_5cbf164aecf163c07bb440081bf48878" type="Folder">3</container>
           </did>
           <odd id="aspace_7df838ebf2edb978bbb6b84e1a0bb97f">
             <head>General</head>

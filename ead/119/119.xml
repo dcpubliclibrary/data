@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Poor People's Campaign Collection</titleproper>
-        <titleproper>Poor People's Campaign <num>119</num> <num>119</num></titleproper>
+        <titleproper>Poor People's Campaign <num>119</num></titleproper>
         <subtitle>An inventory of Poor People's Campaign at DC Public Library</subtitle>
         <author>Finding aid prepared by David Edmonds.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2009-05</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:11:36 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:48:02 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-03-19</date>
+        <item>Finding aid edited for length and clarity. </item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,24 +38,61 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Poor People's Campaign Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n83051946" source="LCSH">Southern Christian Leadership Conference</corpname>
+      </origination>
       <unitid>119</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 linear foot; 2 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-      <langmaterial id="aspace_b1d546cb0f81e1a21a55405cfb420bdb">English</langmaterial>
       <langmaterial id="aspace_28bb2cd3b0e3672ad6238ce8dbfcc2e3">English</langmaterial>
-      <physloc id="aspace_8e4568198449c46f132cfdc098ec6393">Note that as of 2017-08-03 box 1 will be off-site for digitization and will therefore be unavailable for research.</physloc>
     </did>
+    <arrangement id="aspace_56fa45365752b30a671d1b553bb1642b">
+      <head>Arrangement</head>
+      <p>Series I:  Correspondence<br/>
+This series contains correspondence concerning activities of the Poor People's Campaign of 1968.<br/>
+<br/>
+Series II:  Reports and Statements<br/>
+This series contains congressional reports and internal memorandums regarding the work of the Poor People's Campaign participants.<br/>
+<br/>
+Series III:  Publications<br/>
+This series contains newsletters documenting activities at Resurrection City.<br/>
+<br/>
+Series IV:  Miscellaneous<br/>
+This series contains brochures, programs, songs, and other items that do not pertain to any other series.<br/>
+<br/>
+Series V:  Clippings<br/>
+This series contains newspaper clippings on the Poor People's Campaign, Resurrection City, and the funeral of the late Rev. Dr. Martin Luther King, Jr.</p>
+    </arrangement>
+    <bioghist id="aspace_107b24b6e37b50998cc956535a143ee7">
+      <head>Biographical / Historical</head>
+      <p>The Poor People's Campaign was a 1968 effort to gain economic and human rights for poor people in the United States. The event was planned by Martin Luther King Jr. and the Southern Christian Leadership Conference, and carried out under the leadership of Ralph Abernathy in the wake of Dr. King's assassination. After participants presented their demands to Congress and President Lyndon Johnson a 3,000 person protest camp known as Resurrection City was constructed on the National Mall. The Campaign began on May 12, when demonstrators led by Coretta Scott King demanded an Economic Bill of Rights. Over the next few weeks nine major caravans of poor people from various cities arrived in the District.  Marchers participated in a variety of activities throughout the city culminating in the June 19 Solidarity Day rally.   On June 23, the demonstration's permit with the National Park Service expired and some members of Congress called for the immediate removal of the encampment. On June 24 over one thousand police officers arrived to clear the camp of its five hundred remaining residents, many of whom were arrested for refusing to vacate the site.</p>
+    </bioghist>
+    <custodhist id="aspace_2c4b7302869a2b31f5d909e9dbb10046">
+      <head>Custodial History</head>
+      <p>Various donors.</p>
+    </custodhist>
+    <processinfo id="aspace_0cb444c61aece956b36800c024f6ad00">
+      <head>Processing Information</head>
+      <p>General processing procedures included removing fragile newspaper clippings from cardboard scrapbook mounts and photocopying them onto acid-free paper.</p>
+    </processinfo>
     <scopecontent id="aspace_b7b8d88a033c254af19c89775c37375c">
       <head>Scope and Contents</head>
-      <p>The contents of this collection include: correspondence, flyers, memorabilia, newsletters, newspaper clippings, newsletters, poems, and songs.</p>
+      <p>The contents of this collection include: correspondence, flyers, memorabilia, newsletters, newspaper clippings, poems, and songs.</p>
     </scopecontent>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026371" source="Library of Congress Subject Headings">Civil rights</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85104859" source="lcsh">Poor People's Campaign</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85036673" source="Library of Congress Subject Headings">Demonstrations</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85080159" source="lcsh">Mall, The (Washington, D.C.)</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh88005959" source="lcsh">Political activists</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_5ce0dbcf7a80a41d5ff154f5339d7692" level="series">
@@ -59,24 +107,24 @@
           <did>
             <unittitle>"A Letter to Friends from D.C. Jail"</unittitle>
             <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="aspace_e2016ace11dffd4b35005c5e45282dc3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a58779e00258b4e0dee8c21b31bcde62" parent="aspace_e2016ace11dffd4b35005c5e45282dc3" type="Folder">1</container>
+            <container id="aspace_f6d3fcde037bd4174140fa56d7c07498" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d62221a93d049d94d9606d2345f9b0e0" parent="aspace_f6d3fcde037bd4174140fa56d7c07498" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_6d55115d2836b76d41d0e91e59b87c9d" level="file">
           <did>
             <unittitle>Correspondent Letter</unittitle>
             <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="aspace_c2837fcda130e8e2cc597d396bd9c196" label="mixed materials" type="Box">1</container>
-            <container id="aspace_05f06e125e40bd2cd31b556b69747fb0" parent="aspace_c2837fcda130e8e2cc597d396bd9c196" type="Folder">2</container>
+            <container id="aspace_684aac0624fd9e7281108a9626f43c93" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a092c85bc830c1d4de9fcd84442a1435" parent="aspace_684aac0624fd9e7281108a9626f43c93" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_d8e507514ada63c4de06aabd389069da" level="file">
           <did>
             <unittitle>Letter to Judge</unittitle>
             <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="aspace_21b5427bfaf3d6983be5563e02368009" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ae91c86b82babaa0680ff7f62ec98265" parent="aspace_21b5427bfaf3d6983be5563e02368009" type="Folder">3</container>
+            <container id="aspace_015da244535a2a623e5a7e62bdaaef18" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_03eca7205673d64b08f2559b10991ba7" parent="aspace_015da244535a2a623e5a7e62bdaaef18" type="Folder">3</container>
           </did>
         </c>
       </c>
@@ -92,56 +140,56 @@
           <did>
             <unittitle>A Report to Baltimore Yearly Meeting of Friends</unittitle>
             <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="aspace_8b375ac3f23610a8a80541feb8bd7f45" label="mixed materials" type="Box">1</container>
-            <container id="aspace_6867df040b11460cce58f6982b3bf8c3" parent="aspace_8b375ac3f23610a8a80541feb8bd7f45" type="Folder">4</container>
+            <container id="aspace_440749164e08608601c04aba2de4d8cc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ee638b4ca80c7b1653d126185208852f" parent="aspace_440749164e08608601c04aba2de4d8cc" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_74308f6925f8d5bfa26fa75fe6ceb522" level="file">
           <did>
             <unittitle>Report of the Legislative Committee for the Poor People's Campaign</unittitle>
             <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="aspace_5e2ba1ea14ca48d92ed19872ea6b7332" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0e1da0e9917cc20c4ab002bad1e7ee87" parent="aspace_5e2ba1ea14ca48d92ed19872ea6b7332" type="Folder">5</container>
+            <container id="aspace_97785732d44c1850a2a08ac3054e0262" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cbadddd6ed5200ddfc7bb1d90d6c7127" parent="aspace_97785732d44c1850a2a08ac3054e0262" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_7cd3f09954f46c68943f6e8397c78146" level="file">
           <did>
             <unittitle>William Penn Newsletter</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_ef3bb29066674d889c7fb19401a0bf91" label="mixed materials" type="Box">1</container>
-            <container id="aspace_51829c39968d7374db6022812c9ddecf" parent="aspace_ef3bb29066674d889c7fb19401a0bf91" type="Folder">6</container>
+            <container id="aspace_c027ad32dbd6ec5a97fe156c258759ed" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_44fd4b0280ba070e7c877c0a90f538c2" parent="aspace_c027ad32dbd6ec5a97fe156c258759ed" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_480ae1820c1ad597f08d0f6e4716f880" level="file">
           <did>
             <unittitle>Summary of the Commission Report and Legislative before Congress</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_3561b2d12652abefa4ee8cb9ca78a7c6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_74a6eb74d808cf55c02b2fe6d126a51e" parent="aspace_3561b2d12652abefa4ee8cb9ca78a7c6" type="Folder">7</container>
+            <container id="aspace_3a9d51ed7c6b69cfc499b8c9e0c2e15a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_aaa869b1d838234ee9619a123f3144b7" parent="aspace_3a9d51ed7c6b69cfc499b8c9e0c2e15a" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_2acf57bd73113060bc987000d01390d6" level="file">
           <did>
             <unittitle>Policy Statement on Poverty, Jobs, and Income</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_089daea9487e538e6594e6e8ee67a74d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3b1fe3da25cb351e4e973e2f0d141dfb" parent="aspace_089daea9487e538e6594e6e8ee67a74d" type="Folder">8</container>
+            <container id="aspace_a0cbca30f41b7a1592b3556e853012c9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_94dd401d72e56fa6621749ca2dbd9291" parent="aspace_a0cbca30f41b7a1592b3556e853012c9" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_9bd10df256d5cceb9d5f88ded71e7c32" level="file">
           <did>
             <unittitle>Income Memorandum</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_8b3ebb57dd13b2125a0cc5d4221a6a6d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7f4eec142832c9281077b6e1b565b4d6" parent="aspace_8b3ebb57dd13b2125a0cc5d4221a6a6d" type="Folder">9</container>
+            <container id="aspace_7e5abd256b42f4fd4cab1c761bb99576" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_59f0757bca3c115dd0ab0ff1d5eaadac" parent="aspace_7e5abd256b42f4fd4cab1c761bb99576" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_8131dda0ddb5a0d1546270c94c04b62c" level="file">
           <did>
             <unittitle>Action Bulletin</unittitle>
             <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="aspace_50cba4903dc7e158da3801d127cbbd5f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_da43bce76138ea1bba8e95ce5947ef17" parent="aspace_50cba4903dc7e158da3801d127cbbd5f" type="Folder">10</container>
+            <container id="aspace_5270262f73b00be59cedadc1d92e3247" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1ab24e15bfb25daa9965447580ac198c" parent="aspace_5270262f73b00be59cedadc1d92e3247" type="Folder">10</container>
           </did>
         </c>
       </c>
@@ -157,16 +205,16 @@
           <did>
             <unittitle>Newsletter</unittitle>
             <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="aspace_2a3eb1338e8711d051828994cabd1553" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4d4f67241309504e0e5aa172260f6d42" parent="aspace_2a3eb1338e8711d051828994cabd1553" type="Folder">11</container>
+            <container id="aspace_8fd729e28b5b23217745b63c7686602b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_04919a35141c18ee2d418659a7cd6bbb" parent="aspace_8fd729e28b5b23217745b63c7686602b" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_f29141f792c29b1031022351d3e25f06" level="file">
           <did>
             <unittitle>True Unity News of Resurrection City</unittitle>
             <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="aspace_b6c40894a2c069138fc7e02792ff7438" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a06c51b82afd55817f6a8a650717fba6" parent="aspace_b6c40894a2c069138fc7e02792ff7438" type="Folder">12</container>
+            <container id="aspace_2500d420f47a99dcf621865616a689f2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9e1b4a63b4d65a0d054e5373d553c9c5" parent="aspace_2500d420f47a99dcf621865616a689f2" type="Folder">12</container>
           </did>
         </c>
       </c>
@@ -182,64 +230,64 @@
           <did>
             <unittitle>Solidarity Day Programme</unittitle>
             <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="aspace_742318fe6f582aa1568e6b9412a969d8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a4360db89f2121cd2b81cfd361aa1e46" parent="aspace_742318fe6f582aa1568e6b9412a969d8" type="Folder">13</container>
+            <container id="aspace_2781b1f0224912de24e5d63fffe5ee7e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d2fc1fb4aadee62407fa4887a0ab68d1" parent="aspace_2781b1f0224912de24e5d63fffe5ee7e" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_87db3167873e7baeb7b4283416716317" level="file">
           <did>
             <unittitle>MLK Slogans</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_03bb772fcae44e56a1d43730049d87a2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d8c5237c798136bf7a739781b3d2665e" parent="aspace_03bb772fcae44e56a1d43730049d87a2" type="Folder">14</container>
+            <container id="aspace_149ff5a06f7e97055e74ca21d04a73b7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_00578cbf26d93bd871f80094bd96030b" parent="aspace_149ff5a06f7e97055e74ca21d04a73b7" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_fb09a8dcbcc0600f8692e0b36f184693" level="file">
           <did>
             <unittitle>Brochures</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_225df00a9ce6d26aa19136a4344ceb23" label="mixed materials" type="Box">1</container>
-            <container id="aspace_46e685f48648e4bf3c0b86efdfe43289" parent="aspace_225df00a9ce6d26aa19136a4344ceb23" type="Folder">15</container>
+            <container id="aspace_ed2a26b727555779c158463d4282acab" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e3c0c82830167ad948c8230afa24b530" parent="aspace_ed2a26b727555779c158463d4282acab" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_07df468ed72aa28d30b1bde0501eb8e4" level="file">
           <did>
             <unittitle>Resurrection City Songs</unittitle>
             <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="aspace_135b7b054ffc2514ce76b65927332ac9" label="mixed materials" type="Box">1</container>
-            <container id="aspace_58249189d4f3d5d4db14988cb6101abe" parent="aspace_135b7b054ffc2514ce76b65927332ac9" type="Folder">16</container>
+            <container id="aspace_58819b8f54bb1a36ecc34469b98da27a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a7d3915b4b493612865aa950e126a103" parent="aspace_58819b8f54bb1a36ecc34469b98da27a" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_6fcab31501de76c701dca97df6e84b78" level="file">
           <did>
             <unittitle>List of Worshipers Arrested on Capitol</unittitle>
             <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="aspace_a13b307aca4a34babe0b718f7abf1338" label="mixed materials" type="Box">1</container>
-            <container id="aspace_bb0787219384d30078e160fac6be3691" parent="aspace_a13b307aca4a34babe0b718f7abf1338" type="Folder">17</container>
+            <container id="aspace_0332055bc41400e2980ec1ebbdb989fc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4ce74f8f709423600bbf28691468e3ad" parent="aspace_0332055bc41400e2980ec1ebbdb989fc" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_4ef853834656c898a461b354646e01ae" level="file">
           <did>
             <unittitle>Job Mobilization Support Sheet</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_155e6685ece3e68944cfe611a28fd44a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ecb21b9987bd78be95af46047aaa9d29" parent="aspace_155e6685ece3e68944cfe611a28fd44a" type="Folder">18</container>
+            <container id="aspace_85876a4a6c799cc112f71d859068bdf3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cd12e10ea19de3ccb552f435f3fb8f2d" parent="aspace_85876a4a6c799cc112f71d859068bdf3" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_0910da3831001ae30bfaa015215dc380" level="file">
           <did>
             <unittitle>True Unity Resurrection Poems</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_7d8dcc6dd8e6df3b3ee34a99dbb183c6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c3a5fb17ef901d0f1c68a73ca2096037" parent="aspace_7d8dcc6dd8e6df3b3ee34a99dbb183c6" type="Folder">19</container>
+            <container id="aspace_a016c5a280f04717dab2faf2f0d1e027" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bf14f48a49eb67e0709a13bfd638436a" parent="aspace_a016c5a280f04717dab2faf2f0d1e027" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_1e07f1bc09775b82bb6a31bc497e2dd8" level="file">
           <did>
             <unittitle>Flyer</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_77f9861103f99fd1fcf46ca782249e1f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_312b4a6a208dc04706c2f95bf70a601d" parent="aspace_77f9861103f99fd1fcf46ca782249e1f" type="Folder">20</container>
+            <container id="aspace_c1bb5afbeac0aa29bd277fdfafd81f32" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_178e7f6a164206af0d2b62bf72250961" parent="aspace_c1bb5afbeac0aa29bd277fdfafd81f32" type="Folder">20</container>
           </did>
         </c>
       </c>
@@ -255,16 +303,16 @@
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="aspace_0a2b3a5db2bc27d4685e6076e2d06ec9" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b0b2ff4ccafd52d92dc9f399c772c6ba" parent="aspace_0a2b3a5db2bc27d4685e6076e2d06ec9" type="Folder">21</container>
+            <container id="aspace_6a8cf5a2d80b10c9446cb6eaf6c94825" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1341af03a0dca18d86a715b8f75a2d1b" parent="aspace_6a8cf5a2d80b10c9446cb6eaf6c94825" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_428ff5bfc3e1d231cf3685d4048ac139" level="file">
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_20d1ef39a0ea74da3dd783cc0bbd8456" label="mixed materials" type="Box">1</container>
-            <container id="aspace_95b5c13c50642d154a6448440ae95d56" parent="aspace_20d1ef39a0ea74da3dd783cc0bbd8456" type="Folder">22</container>
+            <container id="aspace_a5989955d7fb26d04d5150135176f58b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e8aed33f426a8b0b84e78aed613f7f64" parent="aspace_a5989955d7fb26d04d5150135176f58b" type="Folder">22</container>
           </did>
         </c>
       </c>

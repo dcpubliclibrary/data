@@ -4,19 +4,24 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">DC School Newspapers Collection</titleproper>
-        <titleproper>DC School Newspapers <num>117</num> <num>117</num></titleproper>
+        <titleproper>DC School Newspapers <num>117</num></titleproper>
         <subtitle>An inventory of DC School Newspapers at DC Public Library</subtitle>
         <author>Finding aid prepared by Derek M. Gray.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2008-05</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:11:23 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:47:50 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -27,20 +32,43 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
-      <unittitle>DC School Newspapers Collection</unittitle>
+      <unittitle>D.C. School Newspapers Collection</unittitle>
+      <origination label="creator">
+        <corpname source="local">McKinley Technology High School</corpname>
+      </origination>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n98005770" source="LCSH">Frank W. Ballou Senior High School (Washington, D.C.)</corpname>
+      </origination>
+      <origination label="creator">
+        <corpname source="local">Cardozo Senior High School</corpname>
+      </origination>
+      <origination label="creator">
+        <corpname source="local">Central High School</corpname>
+      </origination>
+      <origination label="creator">
+        <corpname source="local">Calvin Coolidge High School</corpname>
+      </origination>
+      <origination label="creator">
+        <corpname source="local">Joel Elias Spingarn High School </corpname>
+      </origination>
+      <origination label="creator">
+        <corpname source="local">Washington Business High School</corpname>
+      </origination>
       <unitid>117</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2 linear feet; 2 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">2 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Boxes</extent>
       </physdesc>
       <unitdate normal="1936/2002" type="inclusive">1936-2002</unitdate>
-      <langmaterial id="aspace_8a248f4a312593c05829d3317b30976f">English</langmaterial>
       <langmaterial id="aspace_c4208de1220d1bf95a08e8a95702b183">English</langmaterial>
     </did>
     <bioghist id="aspace_936f96f6439e39986c94215869553df0">
       <head>Biographical / Historical</head>
-      <p>The school newspaper, Tech Life, dates back to 1902 when the school was established as a technical school for white students. Named after the 25th U.S. President, William McKinley, it has a rich history with deep roots in "manual training" programs that were set up for working-class youths in the 1880s. The school was moved to a new building in 1928 at Second and T Streets (NE), and an addition was constructed in 1957. The school closed in 1997 and was scheduled to re-open in 2002. However, funding and construction delays hampered the project. It re-opened in August 2004, partly due to the fulfillment of a campaign promise of Mayor Anthony A. Williams.</p>
+      <p>The school newspaper, Tech Life, dates back to 1902 when the school was established as a technical school for white students.  Named after the 25th U.S. President, William McKinley, it has a rich history with deep roots in "manual training" programs that were set up for working-class youths in the 1880s.  The school was moved to a new building in 1928 at Second and T Streets (NE), and an addition was constructed in 1957.  The school closed in 1997 and was scheduled to re-open in 2002.  However, funding and construction delays hampered the project.  It re-opened in August 2004, partly due to the fulfillment of a campaign promise of Mayor Anthony A. Williams.</p>
     </bioghist>
     <custodhist id="aspace_7a070f85207d0d1d4e71e6e6ff34aeda">
       <head>Custodial History</head>
@@ -48,10 +76,13 @@
     </custodhist>
     <scopecontent id="aspace_4bc24a436709049c2e5762ac991e1f59">
       <head>Scope and Contents</head>
-      <p>The collection consists of multiple bound copies of Tech Life, the newspaper of McKinley High School and copies of newspapers from other Washington, D.C. schools. They are not a complete run.</p>
+      <p>The collection consists of multiple bound copies of Tech Life, the newspaper of McKinley High School and copies of newspapers from other Washington, D.C. schools.  They are not a complete run.</p>
     </scopecontent>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85040989" source="lcsh">Education</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85060731" source="Library of Congress Subject Headings">High Schools</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85091588" source="Library of Congress Subject Headings">Newspapers</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85060709" source="Library of Congress Subject Headings">High school students</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_f674f2c8d375675856796d19b0d2836c" level="series">
@@ -62,424 +93,424 @@
           <did>
             <unittitle>McKinley High School - Tech Life</unittitle>
             <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate>
-            <container id="aspace_fa9f80eb5e6f35977eaebc216d56591d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1e91599e8af374d741c20474af21ef10" parent="aspace_fa9f80eb5e6f35977eaebc216d56591d" type="Folder">1</container>
+            <container id="aspace_ae071ba67ced74d79eee7ea91c7568d8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8c673b31f05741db4f21ff241f080650" parent="aspace_ae071ba67ced74d79eee7ea91c7568d8" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_af5e71ffd20a4358b55c1e66b5110de4" level="file">
           <did>
             <unittitle>McKinley High School - Tech Life</unittitle>
             <unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate>
-            <container id="aspace_e42ae83813b1923b08aaf42072203384" label="mixed materials" type="Box">1</container>
-            <container id="aspace_bae1c064065cc05460e232f575ea9a9d" parent="aspace_e42ae83813b1923b08aaf42072203384" type="Folder">2</container>
+            <container id="aspace_b3541969972fb7d72c398d81a5c502ae" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4cab1539fe3a2381510ab005bffd7e57" parent="aspace_b3541969972fb7d72c398d81a5c502ae" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_d7d4e6151eb658f1573b5fdc656269ab" level="file">
           <did>
             <unittitle>McKinley High School - Tech Life</unittitle>
             <unitdate normal="1940-06/1940-06" type="inclusive">June 1940</unitdate>
-            <container id="aspace_d884f1747e393f37c13cd3f91b08e8a6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9f6135e09128a4372f60c5cc30daa0f8" parent="aspace_d884f1747e393f37c13cd3f91b08e8a6" type="Folder">3</container>
+            <container id="aspace_4376701caeed470b5b4ea8e1c70def0e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cfc2e3aa5863544e1443aadbf5e3624d" parent="aspace_4376701caeed470b5b4ea8e1c70def0e" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_783b90fecd0a15248b43e3cf459504a7" level="file">
           <did>
             <unittitle>McKinley High School - Tech Life (2 copies)</unittitle>
             <unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate>
-            <container id="aspace_80961531bca830bc5f8eac8e6ec6d354" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1672ef0cf201f66d02e3e9f9772c871e" parent="aspace_80961531bca830bc5f8eac8e6ec6d354" type="Folder">4</container>
+            <container id="aspace_73715b039f9fb86097b8d6da0f10ce0a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e63c60d47f8a40c439e735f2708973de" parent="aspace_73715b039f9fb86097b8d6da0f10ce0a" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_8b5bb240213639a4aa79ba51ea9e6603" level="file">
           <did>
             <unittitle>McKinley High School - Tech Life</unittitle>
             <unitdate normal="1941/1942" type="inclusive">1941-1942</unitdate>
-            <container id="aspace_5b9b9ae1dc106c24a939431b11ccd26f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_41439062125a419ee9be28a306dc5155" parent="aspace_5b9b9ae1dc106c24a939431b11ccd26f" type="Folder">5</container>
+            <container id="aspace_f2958808e8b0d912a4a3195b598681c7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8e796a7fb356c7b44314db100bd42e86" parent="aspace_f2958808e8b0d912a4a3195b598681c7" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_658718364cfd5a9a60c9799331697790" level="file">
           <did>
             <unittitle>McKinley High School - Tech Life</unittitle>
             <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
-            <container id="aspace_bc6a289997dbbfdcd7b76d108f100e97" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b6e24b1a5d508482db6c8cc5646f4aec" parent="aspace_bc6a289997dbbfdcd7b76d108f100e97" type="Folder">6</container>
+            <container id="aspace_0096bde2453e6d6e5200bc272dda58ee" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_18fac4599daf0aead7550c9f9db0dc61" parent="aspace_0096bde2453e6d6e5200bc272dda58ee" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_fcc0308ba75d492e9226cd28690b91f5" level="file">
           <did>
             <unittitle>McKinley High School - Tech Life</unittitle>
             <unitdate normal="1943/1944" type="inclusive">1943-1944</unitdate>
-            <container id="aspace_be37b23283fee1ff145b62b3bf0f0f57" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9f07b3bb5da22d0c90e5d415c944fc29" parent="aspace_be37b23283fee1ff145b62b3bf0f0f57" type="Folder">7</container>
+            <container id="aspace_753040827cea2cbab197307652dc868d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_101ac1c71e3e36bf9d01127a100b6d86" parent="aspace_753040827cea2cbab197307652dc868d" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_c1a7e2ccf2a4e19892e741d5c0948b38" level="file">
           <did>
             <unittitle>McKinley High School - Tech Life</unittitle>
             <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate>
-            <container id="aspace_98245fa4306b4929b7e6ef9b0a76f883" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1955858305c90c20a30d02480e5c08f5" parent="aspace_98245fa4306b4929b7e6ef9b0a76f883" type="Folder">8</container>
+            <container id="aspace_342cc9925b8a1d336e2d05d55b435a8e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8dde10bf71001e4c65a52ff7be0f9576" parent="aspace_342cc9925b8a1d336e2d05d55b435a8e" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_aa12701f220a5063066641b3d2bd5175" level="file">
           <did>
             <unittitle>McKinley High School - Tech Life</unittitle>
             <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
-            <container id="aspace_6a6e2d91fcfbb3b93ebbd96165c9c2d8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3533fa8539a38ec45ce445b77fae9931" parent="aspace_6a6e2d91fcfbb3b93ebbd96165c9c2d8" type="Folder">9</container>
+            <container id="aspace_a39e6ba80598a65175c30c56b46c3692" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_44e15cffe268a27477731b2e5fac52b2" parent="aspace_a39e6ba80598a65175c30c56b46c3692" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_8593c9e45f1642f027b027bde47b32b8" level="file">
           <did>
             <unittitle>McKinley High School - Tech Life</unittitle>
             <unitdate normal="1949-09/1949-09" type="inclusive">September 1949</unitdate>
-            <container id="aspace_3775ba161b3a5a27c6f56acbc12f8901" label="mixed materials" type="Box">1</container>
-            <container id="aspace_365b71d87307c307eec66b6252767b45" parent="aspace_3775ba161b3a5a27c6f56acbc12f8901" type="Folder">10</container>
+            <container id="aspace_6cc1a335d96f8c9d7539097d7c140334" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_aef13bda4cd9254579ec816fe7c628ce" parent="aspace_6cc1a335d96f8c9d7539097d7c140334" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_9aa34e407f3a2020a231a104cb6e3606" level="file">
           <did>
             <unittitle>McKinley High School - Tech Life</unittitle>
             <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
-            <container id="aspace_cad20043f555a9f9008c1eee0a9a0023" label="mixed materials" type="Box">1</container>
-            <container id="aspace_81c262bf0bc801c5e10164d179f4458d" parent="aspace_cad20043f555a9f9008c1eee0a9a0023" type="Folder">11</container>
+            <container id="aspace_ddc4c27397193a5acd9ee258818c7571" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_112f360631a7b99de608ff671467ab71" parent="aspace_ddc4c27397193a5acd9ee258818c7571" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_e4d51190c7063d4b5cbdc4539e789d5c" level="file">
           <did>
             <unittitle>McKinley High School - Tech Life</unittitle>
             <unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate>
-            <container id="aspace_59a3178b0ca8d9d9063b11271dd73d27" label="mixed materials" type="Box">1</container>
-            <container id="aspace_76bb24b23813da893e7dad92587d124a" parent="aspace_59a3178b0ca8d9d9063b11271dd73d27" type="Folder">12</container>
+            <container id="aspace_78d0119734646ddd7d69a8e69660d782" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b5aff638a7cdd9b2f1c066375c79d5b3" parent="aspace_78d0119734646ddd7d69a8e69660d782" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_f629a4a7a2ff8bde45213c11ff0d542d" level="file">
           <did>
             <unittitle>McKinley High School - Tech Life</unittitle>
             <unitdate normal="1954/1955" type="inclusive">1954-1955</unitdate>
-            <container id="aspace_379bee33d40af87c1aee88c7715cf3ea" label="mixed materials" type="Box">1</container>
-            <container id="aspace_8de8e883d7dd1dda2654b990b8b2a17c" parent="aspace_379bee33d40af87c1aee88c7715cf3ea" type="Folder">13</container>
+            <container id="aspace_46f8824e7f53ea27fc41e924c1f46635" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a19e90e39efb3d138d7ed257638b6fd4" parent="aspace_46f8824e7f53ea27fc41e924c1f46635" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_15f01c6c01bcf36fed9db378cbb69b4f" level="file">
           <did>
             <unittitle>McKinley High School - Tech Life</unittitle>
             <unitdate normal="1957/1958" type="inclusive">1957-1958</unitdate>
-            <container id="aspace_90856f3d74afff02d16e6cb4c8317f57" label="mixed materials" type="Box">1</container>
-            <container id="aspace_07a26cdd3b814d390274ed486e9ecb87" parent="aspace_90856f3d74afff02d16e6cb4c8317f57" type="Folder">14</container>
+            <container id="aspace_e3e730ac5b18fd9cbf30af016d568041" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5b521c81a64818c8ab1947aff8739655" parent="aspace_e3e730ac5b18fd9cbf30af016d568041" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_4734b059a0ae9efb5821b8b31d816475" level="file">
           <did>
             <unittitle>McKinley High School - Tech Life</unittitle>
             <unitdate normal="1958/1959" type="inclusive">1958-1959</unitdate>
-            <container id="aspace_a59b86079a88e58b5bdbd2c2bf1a6148" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2d6c05d28aae06ca0a90845f55831e49" parent="aspace_a59b86079a88e58b5bdbd2c2bf1a6148" type="Folder">15</container>
+            <container id="aspace_97495a7d231a1f21e8459eecfc707782" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4eea628a31530bbb9377770824443efe" parent="aspace_97495a7d231a1f21e8459eecfc707782" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_83b3fa0ff92a4109773c04881cc50d37" level="file">
           <did>
             <unittitle>Ballou High School - Ballou Charter</unittitle>
             <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
-            <container id="aspace_b0be36ac7b74184912ddb05ef08db0d0" label="mixed materials" type="Box">2</container>
-            <container id="aspace_ca564a6597e1de8476a717e99d2aa3c4" parent="aspace_b0be36ac7b74184912ddb05ef08db0d0" type="Folder">1</container>
+            <container id="aspace_c055369caff32732f8778db5d1eec0b1" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ca550ac96a07f83787abfe8d8094b4fc" parent="aspace_c055369caff32732f8778db5d1eec0b1" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_a2e28dd59f5473a863bdaf5a9c5df646" level="file">
           <did>
             <unittitle>Ballou High School - Ballou Charter</unittitle>
             <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
-            <container id="aspace_a7ca5d26f3e17b31b64df098d067b048" label="mixed materials" type="Box">2</container>
-            <container id="aspace_218b63bc570a5688d2f8e248cd0dbf59" parent="aspace_a7ca5d26f3e17b31b64df098d067b048" type="Folder">2</container>
+            <container id="aspace_94586f0b87d8486bcc1fffc8306be592" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a6f7cdf765c6e03403e2420ffd68c4c0" parent="aspace_94586f0b87d8486bcc1fffc8306be592" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_93bff12e7d321fd5447ed60af72001d8" level="file">
           <did>
             <unittitle>Ballou High School - Ballou Charter</unittitle>
             <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
-            <container id="aspace_6ea1b1d964465df5b324823aa03ce44d" label="mixed materials" type="Box">2</container>
-            <container id="aspace_8a8632793e9f8f7faa9f4beb24a02743" parent="aspace_6ea1b1d964465df5b324823aa03ce44d" type="Folder">3</container>
+            <container id="aspace_84c651a151431a666d9400c609971a80" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_93f27f1eaf750c053ff9887127ad6a79" parent="aspace_84c651a151431a666d9400c609971a80" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_30327b60386c6b269adf1d9ff320769a" level="file">
           <did>
             <unittitle>Benjamin Banneker High School - Train of Thought</unittitle>
             <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
-            <container id="aspace_ded71c549a839b14109e103befff4763" label="mixed materials" type="Box">2</container>
-            <container id="aspace_4e00e286c6343914724948fbd1e00d23" parent="aspace_ded71c549a839b14109e103befff4763" type="Folder">4</container>
+            <container id="aspace_2a5cc21347ceb3558f7d098be3d63cf4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_34c10fe7046fb94c0cb206fb43fe61e9" parent="aspace_2a5cc21347ceb3558f7d098be3d63cf4" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_69a981a4ceb7cd510c1894770a1c471c" level="file">
           <did>
             <unittitle>Cardozo High School - The Cardozo Owl</unittitle>
             <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
-            <container id="aspace_0fa94e05dc343c01112f8690ed207e28" label="mixed materials" type="Box">2</container>
-            <container id="aspace_3033bbb3312f93bf48b9b35acbdf101b" parent="aspace_0fa94e05dc343c01112f8690ed207e28" type="Folder">5</container>
+            <container id="aspace_f32cbe02067261db3b12b99dc01053ab" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6c2146da366d7fced518134d2e2f8ec4" parent="aspace_f32cbe02067261db3b12b99dc01053ab" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_c8f710831678361066a0a63ccfd698c3" level="file">
           <did>
             <unittitle>Central High School - The Central Bulletin</unittitle>
             <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
-            <container id="aspace_c0288d84361d792e103dad0d0854f28f" label="mixed materials" type="Box">2</container>
-            <container id="aspace_70a1ac0bad141946ed60ab95b14ae7dc" parent="aspace_c0288d84361d792e103dad0d0854f28f" type="Folder">6</container>
+            <container id="aspace_df24c83288df98de3ffbd368cf177e9f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_3efc3bedaf5fedbf8c42b5985e3c3666" parent="aspace_df24c83288df98de3ffbd368cf177e9f" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_1ab2006b4f61c2d70d9a3e805b9230a2" level="file">
           <did>
             <unittitle>Central High School - The Central Bulletin</unittitle>
             <unitdate normal="1923/1923" type="inclusive">1923</unitdate>
-            <container id="aspace_907ca27a692c041fbd8ccaa58cb70225" label="mixed materials" type="Box">2</container>
-            <container id="aspace_08ab7599f961cb1869694bd14dd90cf6" parent="aspace_907ca27a692c041fbd8ccaa58cb70225" type="Folder">7</container>
+            <container id="aspace_67491971e14081e720a400ec937a0119" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_91b35c8ce560c5be3771dc2dd1813244" parent="aspace_67491971e14081e720a400ec937a0119" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_91a8e166579b073fb5c00b258685a491" level="file">
           <did>
             <unittitle>Central High School - The Central Bulletin</unittitle>
             <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
-            <container id="aspace_67fd1569364786ae8f564a4cc24f2f61" label="mixed materials" type="Box">2</container>
-            <container id="aspace_3e8c8d1ccf96fe29acd5148584b52a02" parent="aspace_67fd1569364786ae8f564a4cc24f2f61" type="Folder">8</container>
+            <container id="aspace_d1cf3851fde09c025224410aaa349bcc" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6b66978a00545e5b05efec75c5c4e9d5" parent="aspace_d1cf3851fde09c025224410aaa349bcc" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_3bd45081dd74ef11ed29bec5feb1b2da" level="file">
           <did>
             <unittitle>Central High School - The Central Bulletin</unittitle>
             <unitdate normal="1927/1927" type="inclusive">1927</unitdate>
-            <container id="aspace_c66972393711edf06647ec65876fb3d5" label="mixed materials" type="Box">2</container>
-            <container id="aspace_d02f4db5ab9dcece18e9343876434225" parent="aspace_c66972393711edf06647ec65876fb3d5" type="Folder">9</container>
+            <container id="aspace_78be832be5200e75ffebf618fd15686a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8005e277b932c93e8f09e24e1d64a1c5" parent="aspace_78be832be5200e75ffebf618fd15686a" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_e19095e53f4ff6adf5e766254d4ad245" level="file">
           <did>
             <unittitle>Central High School - The Central Bulletin</unittitle>
             <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
-            <container id="aspace_6fd872d5eaf408ff52db5fa952522e0b" label="mixed materials" type="Box">2</container>
-            <container id="aspace_4b3baac5a0906cdee59d6d249f3059e5" parent="aspace_6fd872d5eaf408ff52db5fa952522e0b" type="Folder">10</container>
+            <container id="aspace_95631e58cef521388f13beeaf04eb41f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4287f701fdf37743e7f7c4fb89b7645e" parent="aspace_95631e58cef521388f13beeaf04eb41f" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_e3991fec8cc54c4f377bc2f6dde2a0c6" level="file">
           <did>
             <unittitle>Central High School - The Central Bulletin</unittitle>
             <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
-            <container id="aspace_7e2fc0bc56e1be24f86868a9244a5c7f" label="mixed materials" type="Box">2</container>
-            <container id="aspace_95f3c7c98cc06aa68223dab7d9cab92a" parent="aspace_7e2fc0bc56e1be24f86868a9244a5c7f" type="Folder">11</container>
+            <container id="aspace_ceea2d04acb33155d14db3aecd9411b6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4fda79c43e2e8957bfa077ccff56c4a6" parent="aspace_ceea2d04acb33155d14db3aecd9411b6" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_46d08c39f5db816cca0f21f7be9b6149" level="file">
           <did>
             <unittitle>Central High School - The Central Bulletin</unittitle>
             <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
-            <container id="aspace_524c91af74f55778c8ec564f9e7e5eb3" label="mixed materials" type="Box">2</container>
-            <container id="aspace_e01785c02fc89c71b0805baba6b5a815" parent="aspace_524c91af74f55778c8ec564f9e7e5eb3" type="Folder">12</container>
+            <container id="aspace_dc01c998baf316fd3c1d6a38db9a7a11" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e80b30b1c509ce7ae23df2ca38395e7c" parent="aspace_dc01c998baf316fd3c1d6a38db9a7a11" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_89939d404d17712562261c60dae51aa0" level="file">
           <did>
             <unittitle>Central High School - The Central Bulletin</unittitle>
             <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
-            <container id="aspace_6f64fe0b56cb3054e58e9a192c6aef00" label="mixed materials" type="Box">2</container>
-            <container id="aspace_5d2e0497a7f0e57207083dc4a4bad178" parent="aspace_6f64fe0b56cb3054e58e9a192c6aef00" type="Folder">13</container>
+            <container id="aspace_c03c72441178a9afce6c9e5390d3c076" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0b2fccbdab40d7f66cfc70d86d8faa26" parent="aspace_c03c72441178a9afce6c9e5390d3c076" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_fb9589facf0b1019c9e8b351c12a0ed5" level="file">
           <did>
             <unittitle>Central High School - The Central Bulletin</unittitle>
             <unitdate normal="1939/1939" type="inclusive">1939</unitdate>
-            <container id="aspace_ade0217afaf037e17b49321cfb964dec" label="mixed materials" type="Box">2</container>
-            <container id="aspace_c31852da8f84340e80403eafc69ef15e" parent="aspace_ade0217afaf037e17b49321cfb964dec" type="Folder">14</container>
+            <container id="aspace_81e31d7811e8f80ccd7cd3100f120822" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e2964275b7241d4adad0c2261735f32d" parent="aspace_81e31d7811e8f80ccd7cd3100f120822" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_db79f38936da3ba7db0a14742dcb6c18" level="file">
           <did>
             <unittitle>Central High School - The Central Bulletin</unittitle>
             <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
-            <container id="aspace_4fe1d9c5d28cbe7bd1320f0fca837b70" label="mixed materials" type="Box">2</container>
-            <container id="aspace_9d808b6f64a3c92ac777a468869c261d" parent="aspace_4fe1d9c5d28cbe7bd1320f0fca837b70" type="Folder">15</container>
+            <container id="aspace_562151e5b1ede116148eb6dea72f8d99" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4a1a43499266bd181a8af85b027ad2fa" parent="aspace_562151e5b1ede116148eb6dea72f8d99" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_97b006354f46090b8c2f7082ea90b4a8" level="file">
           <did>
             <unittitle>Central High School - The Central Bulletin</unittitle>
             <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
-            <container id="aspace_a106859d66f0d6e7f7e6b0ab163b8f12" label="mixed materials" type="Box">2</container>
-            <container id="aspace_8135f1cc2e75569389d792b185d34903" parent="aspace_a106859d66f0d6e7f7e6b0ab163b8f12" type="Folder">16</container>
+            <container id="aspace_3ae5abd90c1025ecc8fbee7ed972cc9f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_970185c045e8c45d28cba3e84e811a6d" parent="aspace_3ae5abd90c1025ecc8fbee7ed972cc9f" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_a695927f545c0424455c8b1ef8a98798" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-            <container id="aspace_dc838be01a13f4e0a386edfbfe57178f" label="mixed materials" type="Box">2</container>
-            <container id="aspace_e3da005b4c7c86142c8bab0276ee2192" parent="aspace_dc838be01a13f4e0a386edfbfe57178f" type="Folder">17</container>
+            <container id="aspace_225608eea0a7add618eec4a0bc562c52" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7fe3183f946c0c3f494a9e6fd50e38d3" parent="aspace_225608eea0a7add618eec4a0bc562c52" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_46421a1b9002363b4292199d801e4641" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-            <container id="aspace_c9d991fe76e18af5c1179d19b9b0b986" label="mixed materials" type="Box">2</container>
-            <container id="aspace_20faa8b60ffcd77161494911bdeaeb25" parent="aspace_c9d991fe76e18af5c1179d19b9b0b986" type="Folder">18</container>
+            <container id="aspace_c3fb631ddee66e02ee5d0f57deb1e898" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e0c0ec3a8f78057b7c355887103136e0" parent="aspace_c3fb631ddee66e02ee5d0f57deb1e898" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_cefff56c404926678bc2daf0325f5540" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
-            <container id="aspace_37898d1a2a77a191612e8ddb498379a8" label="mixed materials" type="Box">2</container>
-            <container id="aspace_0db47aa866e654c83e0ea5df70ff3a7f" parent="aspace_37898d1a2a77a191612e8ddb498379a8" type="Folder">19</container>
+            <container id="aspace_f69b8810bf2b6a0ffe1977ecdc295dd9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_59fcff73cd50edd68bc6b76939d60415" parent="aspace_f69b8810bf2b6a0ffe1977ecdc295dd9" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_0b8d4fb073aa2aae610e64f53e8c16e1" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
-            <container id="aspace_083841acf7898f5b6b3d652183137a1a" label="mixed materials" type="Box">2</container>
-            <container id="aspace_44d2fb79d3760266bf155ecc4d605a0c" parent="aspace_083841acf7898f5b6b3d652183137a1a" type="Folder">20</container>
+            <container id="aspace_d1c3338d05ebf55678b6622e972b871c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0e5348dd32a8d95f66d9276f48c020b9" parent="aspace_d1c3338d05ebf55678b6622e972b871c" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_395af50a4c3799d3068dcecf5d6d0466" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="aspace_a6385b44928cfc7d3e55cb020226062e" label="mixed materials" type="Box">2</container>
-            <container id="aspace_c8f5c9ad521b9180a444420b5d6364db" parent="aspace_a6385b44928cfc7d3e55cb020226062e" type="Folder">21</container>
+            <container id="aspace_a64dc3de8b22e1766d7b649c73cc377b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_14811dccb0b2d3505d0aef451e89715a" parent="aspace_a64dc3de8b22e1766d7b649c73cc377b" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_2edcd11c6ba0d11013fe525d88b57b7d" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
-            <container id="aspace_21bdddbb4323d40fdeb028bad4934ac4" label="mixed materials" type="Box">2</container>
-            <container id="aspace_2fa4c620eb8e1ad668b9e4e85d9f9162" parent="aspace_21bdddbb4323d40fdeb028bad4934ac4" type="Folder">22</container>
+            <container id="aspace_56cdf43a213fccc6eafde3b134687db7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e429a6508962cca0751b9f73ad702bb1" parent="aspace_56cdf43a213fccc6eafde3b134687db7" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_e05a40b3e58ae6ddeafa4335e4771111" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
-            <container id="aspace_a5762388bb58afc14f654d73c7e63714" label="mixed materials" type="Box">2</container>
-            <container id="aspace_0e679d96e105d63eb46089dfaf0164fd" parent="aspace_a5762388bb58afc14f654d73c7e63714" type="Folder">23</container>
+            <container id="aspace_7e5bd6eecc47bd0f7451920cc3bd82e6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c17f4810f8f12ab25f2a82e9ab9a45a2" parent="aspace_7e5bd6eecc47bd0f7451920cc3bd82e6" type="Folder">23</container>
           </did>
         </c>
         <c id="aspace_33c999e65a3554d35937273d55af2bb7" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
-            <container id="aspace_a18e197c1b674df1c802ed5dc1a79673" label="mixed materials" type="Box">2</container>
-            <container id="aspace_e62e496809f2d981a926807fd305c09d" parent="aspace_a18e197c1b674df1c802ed5dc1a79673" type="Folder">24</container>
+            <container id="aspace_b86fd8eec3cfdb26162a90ec61c95939" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5aeca266b14c34d7418a8731c6d96525" parent="aspace_b86fd8eec3cfdb26162a90ec61c95939" type="Folder">24</container>
           </did>
         </c>
         <c id="aspace_5e59874b2d69aa0c5fdb47803e11e3cf" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
-            <container id="aspace_548cf956da8ee9902d47aee8206b45ff" label="mixed materials" type="Box">2</container>
-            <container id="aspace_c5e548ab84be568b2aca33e40d56151b" parent="aspace_548cf956da8ee9902d47aee8206b45ff" type="Folder">25</container>
+            <container id="aspace_d09dd3289cac2ea0190e522929635b11" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6746f3c03c33184ec054d4fcdabff517" parent="aspace_d09dd3289cac2ea0190e522929635b11" type="Folder">25</container>
           </did>
         </c>
         <c id="aspace_2a74f84a2289f87aae4655f4c94c5a64" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
-            <container id="aspace_4ee08d7b0b4c33d2bd59181a6eca4713" label="mixed materials" type="Box">2</container>
-            <container id="aspace_b06f830ce8aa7d16ec47ac4d33e9896c" parent="aspace_4ee08d7b0b4c33d2bd59181a6eca4713" type="Folder">26</container>
+            <container id="aspace_dc136cf12814242ea8205feb225033a6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_74f9a59dbf62856ba88ba84692a1a4b6" parent="aspace_dc136cf12814242ea8205feb225033a6" type="Folder">26</container>
           </did>
         </c>
         <c id="aspace_3729fcf8ede5a59f124decd1d8d775e1" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
-            <container id="aspace_0a5ff70e461566c1b6cfdb2bd17ccee4" label="mixed materials" type="Box">2</container>
-            <container id="aspace_985de7cc071e698a4818923f8799ad78" parent="aspace_0a5ff70e461566c1b6cfdb2bd17ccee4" type="Folder">27</container>
+            <container id="aspace_85f45245796a3013188f0d00546b104d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c843684f0434959376fc1804b24dc2cc" parent="aspace_85f45245796a3013188f0d00546b104d" type="Folder">27</container>
           </did>
         </c>
         <c id="aspace_1a51c0571f189227e33917dfd4781195" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
-            <container id="aspace_2fca33b17a097eb8d595c96d03b93c2a" label="mixed materials" type="Box">2</container>
-            <container id="aspace_b8daf801da3d0f537c597c8f044648d7" parent="aspace_2fca33b17a097eb8d595c96d03b93c2a" type="Folder">28</container>
+            <container id="aspace_ead1ded8df7d6fd8c4b7cb580a1904e5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7b441ea98d1adf067ce9fb67be8d7664" parent="aspace_ead1ded8df7d6fd8c4b7cb580a1904e5" type="Folder">28</container>
           </did>
         </c>
         <c id="aspace_d35eba2cfbb141e5a7b499559f631b5e" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
-            <container id="aspace_31fba27d44d5f8e2158e65f38147cae5" label="mixed materials" type="Box">2</container>
-            <container id="aspace_52fb50cc1596cd8438cbe4f707a01b74" parent="aspace_31fba27d44d5f8e2158e65f38147cae5" type="Folder">29</container>
+            <container id="aspace_df4dd63256670126f5d8ec45137d7d87" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_781d93a8aaddb64a948fba5c5f4664a5" parent="aspace_df4dd63256670126f5d8ec45137d7d87" type="Folder">29</container>
           </did>
         </c>
         <c id="aspace_3f1ba833f3855a863eb620f43c0eb152" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
-            <container id="aspace_466c63adcde71f686d3ada143f13a33d" label="mixed materials" type="Box">2</container>
-            <container id="aspace_9c4993aa6e7926e19dd0d323d38b9a2e" parent="aspace_466c63adcde71f686d3ada143f13a33d" type="Folder">30</container>
+            <container id="aspace_eb8ca118ed8e67b77cee828b5cf193a0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4bb2b63cac46a0a1ba3f359274739027" parent="aspace_eb8ca118ed8e67b77cee828b5cf193a0" type="Folder">30</container>
           </did>
         </c>
         <c id="aspace_38d01855d718746f1525666d7894af86" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <container id="aspace_afa674ad91fb08904c20abafefb5d71d" label="mixed materials" type="Box">2</container>
-            <container id="aspace_9056e6d1da8800b316f5647453872551" parent="aspace_afa674ad91fb08904c20abafefb5d71d" type="Folder">31</container>
+            <container id="aspace_8110160149fcab336c72d18c839975a8" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_94463278a5dfe6c7dfa20210053e6114" parent="aspace_8110160149fcab336c72d18c839975a8" type="Folder">31</container>
           </did>
         </c>
         <c id="aspace_5cb3dbef95aec16e4da4d1d34c3a2b8e" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - The Coolidge Courier</unittitle>
             <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
-            <container id="aspace_734c02d33ca748e15b4b44244e890192" label="mixed materials" type="Box">2</container>
-            <container id="aspace_82ccd83d45d5536cd437305618146fca" parent="aspace_734c02d33ca748e15b4b44244e890192" type="Folder">32</container>
+            <container id="aspace_a3d8c70c8d17c821992d5916d8f7b8b2" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_77c3eca098c2c992f54f8cbdc9a2a72a" parent="aspace_a3d8c70c8d17c821992d5916d8f7b8b2" type="Folder">32</container>
           </did>
         </c>
         <c id="aspace_21aafad57cbca6f1b6197cbe0184ed1e" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - Colt Pride</unittitle>
             <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
-            <container id="aspace_78a83b1db039bfeded35d3fe63d41715" label="mixed materials" type="Box">2</container>
-            <container id="aspace_96650ab8f3ecc25e5b579b00cea08b3c" parent="aspace_78a83b1db039bfeded35d3fe63d41715" type="Folder">33</container>
+            <container id="aspace_60f60f68b78bcc8cfad13bbc8e538396" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b0ef2d17f3cf4893dc09e677f7ea43b9" parent="aspace_60f60f68b78bcc8cfad13bbc8e538396" type="Folder">33</container>
           </did>
         </c>
         <c id="aspace_ebd7f384bbbdb7bccf2bb7275200408b" level="file">
           <did>
             <unittitle>Calvin Coolidge High School - Colt Pride</unittitle>
             <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
-            <container id="aspace_4358e7f21d178d50a157ae841c7d222d" label="mixed materials" type="Box">2</container>
-            <container id="aspace_a9174e351688c15f5260a5baf58a9a1a" parent="aspace_4358e7f21d178d50a157ae841c7d222d" type="Folder">34</container>
+            <container id="aspace_ced60e71f162e19dce2533142fecbe32" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_af0c407a44a659b71d3432c53c680677" parent="aspace_ced60e71f162e19dce2533142fecbe32" type="Folder">34</container>
           </did>
         </c>
         <c id="aspace_f54fbdfd9084806f75b1666450a13302" level="file">
           <did>
             <unittitle>Spingarn High School - The Sentinel</unittitle>
             <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
-            <container id="aspace_bb5821fb34426647c0132cc48e17d871" label="mixed materials" type="Box">2</container>
-            <container id="aspace_c9c48e8d40747be7c0e5804c655f3f6d" parent="aspace_bb5821fb34426647c0132cc48e17d871" type="Folder">35</container>
+            <container id="aspace_3eda96aa99eef7df5eec1cc4ee9eaf21" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_eb1e666149366f1d653284e2e7ee217b" parent="aspace_3eda96aa99eef7df5eec1cc4ee9eaf21" type="Folder">35</container>
           </did>
         </c>
         <c id="aspace_02c99493843394d04fba3a83cd9d225d" level="file">
           <did>
             <unittitle>Washington Business High School - The Orange and Blue</unittitle>
             <unitdate normal="1921/1921" type="inclusive">1921</unitdate>
-            <container id="aspace_32f3e7ca91e97addcc177950063a884b" label="mixed materials" type="Box">2</container>
-            <container id="aspace_81a5f432a242e340b2fd259e20081db8" parent="aspace_32f3e7ca91e97addcc177950063a884b" type="Folder">36</container>
+            <container id="aspace_4e5eaadf7707d8439d1f98a4c42901a4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ec89e1654b85ffa41211dc0b35da7d1a" parent="aspace_4e5eaadf7707d8439d1f98a4c42901a4" type="Folder">36</container>
           </did>
         </c>
         <c id="aspace_b5f55f7d7d245b2566b83b9070c5114e" level="file">
           <did>
             <unittitle>Washington Business High School - The Balance Sheet</unittitle>
             <unitdate normal="1921/1921" type="inclusive">1921</unitdate>
-            <container id="aspace_acb977ea582b87156a6f69677b3432bb" label="mixed materials" type="Box">2</container>
-            <container id="aspace_d3d46f8a9279275e70bcfbd32ea97928" parent="aspace_acb977ea582b87156a6f69677b3432bb" type="Folder">37</container>
+            <container id="aspace_a9cc735c1d28b1b866091be267101688" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_1af953e4ca87aed8f99d1f1bcbaf8732" parent="aspace_a9cc735c1d28b1b866091be267101688" type="Folder">37</container>
           </did>
         </c>
         <c id="aspace_39609282922ab36e58b0ddd90fa713a2" level="file">
           <did>
             <unittitle>Washington Business High School - The Balance Sheet</unittitle>
             <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
-            <container id="aspace_90f832f2bf9220f18fa7d3a5f538344c" label="mixed materials" type="Box">2</container>
-            <container id="aspace_df340508cd4743b66877254880d4940a" parent="aspace_90f832f2bf9220f18fa7d3a5f538344c" type="Folder">38</container>
+            <container id="aspace_1c2beb8ae8b030076497c133e1e22a33" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_667a1c2c212f1b2ec3202a25a6c30a7b" parent="aspace_1c2beb8ae8b030076497c133e1e22a33" type="Folder">38</container>
           </did>
         </c>
       </c>

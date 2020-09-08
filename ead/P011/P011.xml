@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Worner (Ruby K.) Photo Album</titleproper>
-        <titleproper>Ruby K. Worner <num>P011</num> <num>P011</num></titleproper>
+        <titleproper>Ruby K. Worner <num>P011</num></titleproper>
         <subtitle>An inventory of the Ruby K. Worner Photo Album at DC Public Library</subtitle>
         <author>Finding aid prepared by Mark S. Greek.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2005-12</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:16:14 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:55:40 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-06-04</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,32 +38,71 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Ruby K. Worner Photo Album</unittitle>
+      <origination label="creator">
+        <persname authfilenumber="http://id.loc.gov/authorities/names/no99052047" source="LCSH">Worner, Ruby Kathryn, 1900-1995</persname>
+      </origination>
       <unitid>P011</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 box</extent>
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1925/1930" type="inclusive">1925-1930</unitdate>
-      <langmaterial id="aspace_87727fbd67fc010de9d386f2bdc36514">English</langmaterial>
       <langmaterial id="aspace_f5a222ab2eb3d0afefde5d9485ce94d5">English</langmaterial>
     </did>
+    <arrangement id="aspace_b20e45b10fe043fe0478d64eea287b47">
+      <head>Arrangement</head>
+      <p>Series 1: Union Station (10 Prints, 14 Negatives)<br/>
+Images in this series are of the exterior of Union Station, The Columbus Memorial, and the National Guard Armory buildings. The National Guard Armory buildings occupied the ground that is now Capitol Park and were built to house soldiers stationed in Washington, D.C. during World War I. The buildings were demolished prior to or in 1929. They appear on the 1919 Baist map, but not on the1929 map. <br/>
+<br/>
+Series 2: Cherry Blossom Festival (64 Prints, 20 Negatives)<br/>
+Images in this series contain multiple views of the cherry trees surrounding the Tidal Basin, presumably during the Cherry Blossom Festival. The Washington Monument, Lincoln Memorial, and several government buildings appear in these photos. Additionally there is an image of two parked cars each with sightseeing price guides hanging from the car. <br/>
+<br/>
+Series 3: US Capitol (6 Prints, 6 Negatives)<br/>
+General views of Washington include six images of the US Capitol. Through additional photo research it was determined that three of these images are of Herbert Hoover's inauguration on March 4,1929. The other views of the east side of the capitol appear to be of an undetermined official function. <br/>
+<br/>
+Series 4: District of Columbia and Metro Area (20 Prints, 9 Negatives)<br/>
+This series of images include points of interest within the District of Columbia and the surrounding area. These include Great Falls on the Potomac River, National Zoo birdhouse, Franciscan Monastery, and Mount Vernon estate. Images with no print include views of the Tomb of the Unknown Soldier at Arlington National Cemetery, the Lincoln Memorial, reflecting pool, and the Washington Monument.<br/>
+<br/>
+Series 5: Charlottesville (10 Prints, 4 Negatives)<br/>
+Views of the Charlottesville, Virginia area include several exterior views of Thomas Jefferson's home, Monticello, as well as scenes of the Rotunda at the University of Virginia. There is one photograph of a woman standing next to a historic marker. Although it was impossible to determine the precise location of this monument, its placement within the album suggests that it is located in the Charlottesville area. <br/>
+<br/>
+Series 6: Niagara Falls (14 Prints, 0 Negatives)<br/>
+This series of images are of Niagara Falls, both the American and Canadian waterfalls. There are several images of people near the Niagara River as well as a snapshot of the "Maid of the Mist" tour boat. <br/>
+<br/>
+Series 7: Miscellaneous Views (16 Prints, 6 Negatives)<br/>
+These photographs are of locations that were unable to be determined. They include two group portraits, four images of two women horseback riding, people in a car, a farm, and several images of a boat ride along what is presumably the Potomac River.</p>
+    </arrangement>
+    <bioghist id="aspace_e488c0e3c602a11ba8a9635130b79ed4">
+      <head>Biographical / Historical</head>
+      <p>Ruby K Worner was born in San Jose, Illinois. She studied chemistry at the University of Chicago earning her B.S. in 1921, an M.S. in 1922, and a Ph.D. in1925. After teaching at the Oklahoma College for Women, Dr. Worner accepted a position with the U.S. Department of Agriculture in 1927 and moved to Washington, D.C. She remained with the Department of Agriculture until 1962 when she joined the Food and Agriculture Organization of the United Nations.</p>
+    </bioghist>
     <custodhist id="aspace_a92aff3c31ff2f6077c4b1dff794e546">
       <head>Custodial History</head>
-      <p>In May 1999, Washingtoniana received an un-bound photo album from Frances Johnson, a relative of Dr. Ruby K. Worner. Dr. Worner, born in San Jose, IL, studied chemistry at the University of Chicago earning her B.S. in 1921, an M.S. in 1922, and a Ph.D. in1925. After teaching at the Oklahoma College for Women, Dr. Worner accepted a position with the US Department of Agriculture in 1927 and moved to Washington DC. She remained with the Department of Agriculture until 1962 when she joined the Food and Agriculture Organization of the United Nations.</p>
+      <p>In May 1999, Washingtoniana received an un-bound photo album from Frances Johnson, a relative of Dr. Ruby K. Worner.</p>
     </custodhist>
     <processinfo id="aspace_8d89b31fd4905f7454d6b2d5f3ea0f41">
       <head>Processing Information</head>
-      <p>Since the album was un-bound, it was impossible to determine the original order of the pages; therefore the album was processed in the order in which it was stored. Before removal of the photographs, the pages were photocopied onto acid-free paper in order to preserve the original appearance of the album pages. The photographs were removed from the album pages going from left to right, top to bottom. Each image was placed in individual paper sleeves, intellectual information regarding the photograph was transferred onto the envelope, and the image was assigned a number. A general description of the image was added to the sleeve and any copy-negative information was recorded in the lower right corner. (Note: copy-negative numbers directly reflect those assigned to the images.) The completed sleeves were then place in archival boxes for storage in the DC Community Archives. Negatives were also placed in an archival box, which was then placed in the negative storage cabinet.</p>
+      <p>Standard archival procedures were used at the time of processing. Since the album was unbound before it came to the Library, it was impossible to determine the original order of the pages. Therefore the album was processed in the order in which it was stored. Before removal of the photographs, the pages were photocopied onto acid-free paper in order to preserve the original appearance of the album pages. The photographs were removed from the album pages going from left to right, top to bottom. Each image was placed in individual paper sleeves, intellectual information regarding the photograph was transferred onto the envelope, and the image was assigned a number. A general description of the image was added to the sleeve and any copy-negative information was recorded in the lower right corner. (Note: copy-negative numbers directly reflect those assigned to the images.) The completed sleeves were then placed in archival boxes for storage in the Library. Negatives were also placed in an archival box, which was then placed in the negative storage cabinet.</p>
     </processinfo>
     <scopecontent id="aspace_92496568bf346437420ff0d4db93451e">
       <head>Scope and Contents</head>
-      <p>The photo album contains 140 black and white prints and 59 negatives; the majority of the photographs are of noteworthy events and locations in the Washington DC metro area. Although all photographs are undated, based on the style of clothing, model of automobiles and city landmarks, the images date from between circa 1925 and 1935. The photographs range in size from 1"x1 ½" and 3"x4 ¼." Of importance are photographs of the Cherry Blossom Festival, President Herbert Hoover's Inauguration, and National Guard Armory buildings located in Capitol Park. Other photographs include views of Mount Vernon, Monticello, Lincoln Memorial, Great Falls, and the Tomb of the Unknown at Arlington National Cemetery. Forty-six of the 140 images have a corresponding negative, however thirteen negatives do not have a matching print. All individuals who appear in the photographs are unidentified and the album appears to have been compiled as a remembrance of events and trips during the early part of Ruby K. Worner's residence in Washington DC.</p>
+      <p>The photo album contains 140 black and white prints and 59 negatives; the majority of the photographs are of noteworthy events and locations in the Washington, D.C. metro area. Although all photographs are undated, based on the style of clothing, model of automobiles and city landmarks, the images date from between circa 1925 and 1935. The photographs range in size from 1"x1 ½" and 3"x4 ¼." Of importance are photographs of the Cherry Blossom Festival, President Herbert Hoover's Inauguration, and National Guard Armory buildings located in Capitol Park. Other photographs include views of Mount Vernon, Monticello, Lincoln Memorial, Great Falls, and the Tomb of the Unknown at Arlington National Cemetery. 46 of the 140 images have a corresponding negative, however 13 negatives do not have a matching print. All individuals who appear in the photographs are unidentified and the album appears to have been compiled as a remembrance of events and trips during the early part of Ruby K. Worner's residence in Washington, D.C.</p>
     </scopecontent>
+    <userestrict id="aspace_86ee18d7194bd4aa692496ab2cd25ea4">
+      <head>Conditions Governing Use</head>
+      <p>There are no restrictions on viewing this collection and all photographs are in the public domain, therefore there are no restrictions on reproduction. Reproductions should appear with the proper attribution indicating that the Photograph is housed in the Ruby K. Worner Collection and indicate that they appear "courtesy of the DC Public Library, Special Collections."</p>
+    </userestrict>
     <controlaccess>
-      <subject authfilenumber="http://id.loc.gov/vocabulary/geographicAreas/n-us-dc" source="lcsh">Washington (D.C.)</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85147274" source="Library of Congress Subject Headings">Women</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85017769" source="Library of Congress Subject Headings">Buildings</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85118923" source="Library of Congress Subject Headings">Scrapbooks</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85061115" source="Library of Congress Subject Headings">Historic sites</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85111042" source="Library of Congress Subject Headings">Railroad stations</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85047932" source="Library of Congress Subject Headings">Festivals</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85098119" source="Library of Congress Subject Headings">Parks</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_69842c6f678852b5d5c0e00f9c6ca683" level="series">
@@ -63,24 +113,24 @@
           <did>
             <unittitle>Images 1 – 70</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_28af1a816f4aa03a3fbf410d1f325aac" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5cedf90f74353016dc98077b6d6d4fe3" parent="aspace_28af1a816f4aa03a3fbf410d1f325aac" type="Folder">1</container>
+            <container id="aspace_3734343e80828a027b9433dfb077cdd7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d7112e81627bc510f5f7aee02961cbc0" parent="aspace_3734343e80828a027b9433dfb077cdd7" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_f02c6ce5e1d7f7d17b791705882f9c8d" level="file">
           <did>
             <unittitle>Images 71 – 140</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_30fdfe0d309a7e978fc4bb5c4bb87b97" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c3eec031aac45a781a0115441ae2ebb7" parent="aspace_30fdfe0d309a7e978fc4bb5c4bb87b97" type="Folder">2</container>
+            <container id="aspace_92b0e6091c3fb26371b65c816c8f124a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_77856dadc97e83033c9127f4c0a6ba7f" parent="aspace_92b0e6091c3fb26371b65c816c8f124a" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_060b1410007e467e8956d9e76ab6bbfd" level="file">
           <did>
             <unittitle>Negatives 1 – 153</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_821314faf0dbb63b0db89fab5d3550f8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ac928e9e8a6d03bc443a3d2cb22e1adc" parent="aspace_821314faf0dbb63b0db89fab5d3550f8" type="Folder">3</container>
+            <container id="aspace_3587cb6afe1ec59178c40add753c0013" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fc72550fcab1a2941b84d2504e0f82af" parent="aspace_3587cb6afe1ec59178c40add753c0013" type="Folder">3</container>
           </did>
           <scopecontent id="aspace_a29b22d7b13199c33c24fddbd16c90b2">
             <head>Scope and Contents</head>

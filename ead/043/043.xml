@@ -4,19 +4,24 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Price (Mary E.) Collection</titleproper>
-        <titleproper>Mary E. Price <num>043</num> <num>043</num></titleproper>
-        <subtitle>An inventory of Mary E. Price at DC Public Library</subtitle>
+        <titleproper>Mary E. Price Collection <num>043</num></titleproper>
+        <subtitle>An inventory of the Mary E. Price Collection at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:04:32 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:31:48 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -27,15 +32,20 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Mary E. Price Collection</unittitle>
+      <origination label="creator">
+        <persname source="local">Price, Mary E.</persname>
+      </origination>
       <unitid>043</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.5 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1920/1940" type="inclusive">1920-1940</unitdate>
-      <langmaterial id="aspace_a2f65026436b76bafc30a82215d6e14b">English</langmaterial>
       <langmaterial id="aspace_2efae15b0d1e9279263cdc10937b91e5">English</langmaterial>
     </did>
     <bioghist id="aspace_6636002ee9a6ca6a1f9e2926588fd154">
@@ -44,12 +54,18 @@
     </bioghist>
     <scopecontent id="aspace_7ac22afd640732cbbfe21e70a3523afa">
       <head>Scope and Contents</head>
-      <p>This collection consists mainly of clippings and programs relating to Howard University in the 1920s and 1930s. Also included are postcards of the Biltmore Hotel and a black establishment in Durham, North Carolina. Other materials of Ms. Price are at Howard University.</p>
+      <p>This collection consists mainly of clippings and programs relating to Howard University in the 1920s and 1930s.  Also included are postcards of the Biltmore Hotel and a black establishment in Durham, North Carolina.  Other materials of Ms. Price are at Howard University.</p>
     </scopecontent>
     <controlaccess>
-      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85040989" source="lcsh">Education</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85041065" source="Library of Congress Subject Headings">Education, higher</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85141324" source="Library of Congress Subject Headings">Urban renewal</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85053952" source="lcsh">Gentrification</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/names/n79064543" source="Library of Congress Subject Headings">Howard University</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85105462" source="Library of Congress Subject Headings">Postcards</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85118923" source="Library of Congress Subject Headings">Scrapbooks</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99001943" source="Library of Congress Subject Headings">Correspondence</subject>
+      <genreform source="material_type">Ephemera</genreform>
+      <geogname source="ingest">Shaw (Washington, D.C.)</geogname>
     </controlaccess>
     <dsc>
       <c id="aspace_9dc40a076d7af3fba05aa5848d165a7e" level="series">
@@ -60,48 +76,48 @@
           <did>
             <unittitle>Howard University Music Performance Programs</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_143d579df1aed9663cd2b1eb08313d27" label="mixed materials" type="Box">1</container>
-            <container id="aspace_87203ea71966ec905833bcc28db8591e" parent="aspace_143d579df1aed9663cd2b1eb08313d27" type="Folder">1</container>
+            <container id="aspace_aac3dddba806ac3ea9c9163dc5b398fd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0f8ea1ee4f94ee177a4897f15a75372d" parent="aspace_aac3dddba806ac3ea9c9163dc5b398fd" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_d491f22f7b6334777674a565c6a0ee04" level="file">
           <did>
             <unittitle>Informational brochure on Howard University</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_1afce9a6809342ccce368590795a3c3c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f9b67e605cbb70792c582b1b6aa6cc5b" parent="aspace_1afce9a6809342ccce368590795a3c3c" type="Folder">2</container>
+            <container id="aspace_1c9fe8a1032cd097539b8b8b715669f3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7f614ef2ad4e46c925243c15bb23f1e3" parent="aspace_1c9fe8a1032cd097539b8b8b715669f3" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_649c19fdde08e415e34ef496f917d8ee" level="file">
           <did>
             <unittitle>Scrapbook</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_3cac6725df0e941ff4d705ffae3d4500" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5e5179a7f749636b96337d2bb7a664df" parent="aspace_3cac6725df0e941ff4d705ffae3d4500" type="Folder">3</container>
+            <container id="aspace_25edd1bbd79bbe31a03b168aa1f7d12a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_342d4d7f2fb4c28346410fd2f0e557ef" parent="aspace_25edd1bbd79bbe31a03b168aa1f7d12a" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_b8c6bbf38f9e3d89cf8501e8e3fcce50" level="file">
           <did>
             <unittitle>The black slaves of Prussia</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_19444c9e68fbb587647d8b482bc69db5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_8fd4d2b1db53d59db540aba0034c02b3" parent="aspace_19444c9e68fbb587647d8b482bc69db5" type="Folder">4</container>
+            <container id="aspace_9efc6de5080b10d473db3657bca3dda6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_91eb2478c81860d24b1bdf2bf0611b25" parent="aspace_9efc6de5080b10d473db3657bca3dda6" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_40ac9fb6b12dc13e3d5d4b1d0563300d" level="file">
           <did>
             <unittitle>Postcards</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_f99dfe91d9afd157d12cb5bc5b2fc77e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ab4e4ffcff12d9ffba9e1464dbb9df21" parent="aspace_f99dfe91d9afd157d12cb5bc5b2fc77e" type="Folder">5</container>
+            <container id="aspace_c1880357f30016069ddcab2588d8b503" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f4773bd75727d1a5581f5e60ceafa7a7" parent="aspace_c1880357f30016069ddcab2588d8b503" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_9d201dc23725ae96f9248a4a8e2cc795" level="file">
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_df23b53d2e980ec6f6a40a94c51e829d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b258a71d84fa590d87cf7c32ff72d2e6" parent="aspace_df23b53d2e980ec6f6a40a94c51e829d" type="Folder">6</container>
+            <container id="aspace_bf4f527e7a7497a81888555039166f1b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8bf836ba52efd7a9ff61a8f21d780959" parent="aspace_bf4f527e7a7497a81888555039166f1b" type="Folder">6</container>
           </did>
         </c>
       </c>

@@ -3,23 +3,34 @@
     <eadid url="http://washingtoniana.dclibrary.org">068DCMilitia</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper type="filing">DC Militia Scrapbooks Collection</titleproper>
-        <titleproper>DC Militia <num>068</num> <num>068</num></titleproper>
-        <subtitle>An inventory of DC Militia Scrapbooks at DC Public Library</subtitle>
+        <titleproper type="filing">DC Militia Scrapbook Collection</titleproper>
+        <titleproper>DC Militia <num>068</num></titleproper>
+        <subtitle>An inventory of DC Militia Scrapbook Collection at DC Public Library</subtitle>
         <author>Finding aid prepared by Ryan P. Semmes.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-08</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-10-25 23:59:47 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:43:31 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-03-19</date>
+        <item>Finding aid edited for length and clarity. </item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,31 +38,52 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
-      <unittitle>DC Militia Scrapbooks Collection</unittitle>
+      <unittitle>D.C. Militia Scrapbook Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n97103893" source="LCSH">District of Columbia. Militia</corpname>
+      </origination>
       <unitid>068</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3.75 linear feet; 3 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">1 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Boxes</extent>
       </physdesc>
       <unitdate normal="1890/1906" type="inclusive">1890-1906</unitdate>
-      <langmaterial id="aspace_3e7b498cc44b1acc2695b0b97a584816">English</langmaterial>
       <langmaterial id="aspace_3246fe805c32b84e205fdf74e2f3f75d">English</langmaterial>
     </did>
+    <arrangement id="aspace_c39d6c782938a53d4de658893b430ee4">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_4494257edbe46dfeab329a8375edf792">
       <head>Biographical / Historical</head>
-      <p>House Resolution 9068, entered into the United States Congress on April 2 1888, established the volunteer militia of DC as the National Guard of the District of Columbia, but the DC Militia's history goes back to the Revolutionary War. A notable member of the DC Militia is Francis Scott Key. The DC Militia participated in the War of 1812, various Indian Wars, the Civil War and the Spanish-American War. The Militia also fought in the first and second World Wars, Korea and Vietnam, Operation Desert Storm, the defense of Washington on September 11, 2001 and the Iraq War. Included among the DC Militia were the Engineer Battalion and the National Rifles.</p>
+      <p>The District of Columbia was established by the Organic Act of 1801 with no provisions as to  which state militia would be responsible for the city's security. President Thomas Jefferson realized this vulnerability and created the D.C. Militia with the Assumption Act of 1802. The Militia held its first muster on October 30, 1802 and the officers were hand picked by President Jefferson. Congress officially recognized the organization in 1803. The Militia saw action during the Battle of Bladensburg during the War of 1812. Eventually the outmanned and under funded unit was forced to withdraw and watched as the British Army burned the city. Following the war, Congress increased the size and equipment of the unit and its members have gone on to serve in every conflict since. In 1888 Congress changed the name of the D.C. Militia to the National Guard of the District of Columbia.</p>
     </bioghist>
     <custodhist id="aspace_951ef46bd274b2c300ba9ec9c53b05e2">
       <head>Custodial History</head>
       <p>Gilbert Thompson donated the scrapbooks to the DC Public Library in 1907.</p>
     </custodhist>
+    <processinfo id="aspace_3441081a67cac9be70f3028be1a19e25">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
+    </processinfo>
     <scopecontent id="aspace_23c6d90d8a3600b8074a4bec2b78bcb6">
       <head>Scope and Contents</head>
-      <p>The collection consists of three scrapbooks that contain information regarding the DC Militia (National Guard) Engineer Battalion. Materials included in the scrapbooks include: clippings from Washington, DC and national newspapers, correspondence, programs, flyers, maps, blueprints, and photographs (the photographs have been interleaved with acid-free buffer paper). Although the scrapbooks are labeled as "1890-1898," the materials in the scrapbooks extend to 1906. Each scrapbook also contains notes at the beginning regarding the content of the materials contained within.</p>
+      <p>The collection consists of three scrapbooks about the D.C. Militia (National Guard) Engineer Battalion. Materials included in the scrapbooks include: clippings from local and national newspapers, correspondence, programs, flyers, maps, blueprints, and photographs. The scrapbooks are labeled "1890-1898," however, the materials extend to 1906. Each scrapbook contains notes at the beginning regarding the contents.</p>
     </scopecontent>
     <controlaccess>
       <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85139803" source="lcsh">United States -- Armed Forces</geogname>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85118923" source="Library of Congress Subject Headings">Scrapbooks</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85140385" source="Library of Congress Subject Headings">United States--National Guard</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/names/n97103893" source="Library of Congress Subject Headings">District of Columbia. Militia</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <genreform source="material_type">Maps</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85027084" source="Library of Congress Subject Headings">Clippings (Books, newspapers, etc)</subject>
+      <genreform source="material_type">Ephemera</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85091572" source="lcsh">Newsletters</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_acf9512dfde2346b8001ae42d51ac27d" level="series">
@@ -62,24 +94,24 @@
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1890-08/1893-12" type="inclusive">August 1890-December 1893</unitdate>
-            <container id="aspace_657b6c2eb74798255ef6369b98776c06" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3ea58265495ff2d61f943ac2d4a094ad" parent="aspace_657b6c2eb74798255ef6369b98776c06" type="Folder">1</container>
+            <container id="aspace_6d17dfcc5fed3f123fff3b168642ebb8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_361117ba598383032c94c19ed7cb4f04" parent="aspace_6d17dfcc5fed3f123fff3b168642ebb8" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_cae504b222a425ade5a018a15065257f" level="file">
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1894-01/1897-04-29" type="inclusive">January 1894-April 29, 1897</unitdate>
-            <container id="aspace_0eba24ceffd767f7a845d755c467e79a" label="mixed materials" type="Box">2</container>
-            <container id="aspace_b89ad2ff46353ee87563a9282021cd34" parent="aspace_0eba24ceffd767f7a845d755c467e79a" type="Folder">1</container>
+            <container id="aspace_a54688bfd93eeae4d2e89ba7973da6dc" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5e622ea9b0e6126e7cc70b9f93adac61" parent="aspace_a54688bfd93eeae4d2e89ba7973da6dc" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_655eca4c7e1520c407c1a372ed188166" level="file">
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1897-04-29/1906" type="inclusive">April 29, 1897-1906</unitdate>
-            <container id="aspace_cd890164bf7c2693bb45b1aa2bcf3250" label="mixed materials" type="Box">3</container>
-            <container id="aspace_75b33a052d132cbcacb25a9f3ebcf1e4" parent="aspace_cd890164bf7c2693bb45b1aa2bcf3250" type="Folder">1</container>
+            <container id="aspace_266cf9e9af6c65c5e6588b067be8ff2d" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b35c1349b277b04090e0f1a475d6551e" parent="aspace_266cf9e9af6c65c5e6588b067be8ff2d" type="Folder">1</container>
           </did>
         </c>
       </c>

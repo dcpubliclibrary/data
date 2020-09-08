@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Jackson Place Complex Photograph Collection</titleproper>
-        <titleproper>Jackson Place Complex <num>P021</num> <num>P021</num></titleproper>
+        <titleproper>Jackson Place Complex <num>P021</num></titleproper>
         <subtitle>An inventory of the Jackson Place Complex Photograph Collection at DC Public Library</subtitle>
         <author>Finding aid prepared by Mark S. Greek.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-05</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:17:13 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:56:38 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-04-22</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,19 +38,50 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Jackson Place Complex Photograph Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n79034818" source="LCSH">United States. General Services Administration</corpname>
+      </origination>
       <unitid>P021</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 box</extent>
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.2 Linear feet</extent>
       </physdesc>
       <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
-      <langmaterial id="aspace_ed4458f84bfad9442b0020e28fc15071">English</langmaterial>
       <langmaterial id="aspace_9a45972e124ca325933715fbf05bb3b3">English</langmaterial>
     </did>
+    <arrangement id="aspace_0f26388f3f9861ef504aaaea74595e41">
+      <head>Arrangement</head>
+      <p>Processed at item level without series.</p>
+    </arrangement>
+    <bioghist id="aspace_866a140531fd7f693e282ee567c9ade2">
+      <head>Biographical / Historical</head>
+      <p>The Jackson Place complex, known as the New Executive Office Building, is a ten story office building opened in 1969. The building is located at 725 17th Street, NW and shares a block with Blair House, Trowbridge House, Decatur House, and Renwick Gallery. The building was designed by John Carl Warnecke who sought to "harmonize [the structures] with Lafayette Square's historic character and retained the domestic facades but joined the separate interiors."</p>
+    </bioghist>
+    <custodhist id="aspace_79a8f18ff176b24151cdd3763b0a94c0">
+      <head>Custodial History</head>
+      <p>There is no deed of gift and it is uncertain as to how the Library acquired these photographs.</p>
+    </custodhist>
+    <processinfo id="aspace_ab1de8bab954b3b67c70418676b5f6dd">
+      <head>Processing Information</head>
+      <p>Originally the collection was assembled in a three ring binder put together by the General Services Administration. All paper-based materials were removed from the binder, numbered and placed in an archival folder. The images were removed from their original housing. Each image was assigned a number and placed in an individual polypropylene sleeve. The images were then placed in an acid-free folder and stored in an archival storage box for long-term storage. Negatives were assigned a number that directly corresponded to the print and placed in individual archival sleeves. Additionally, the collection name and some intellectual information was added to the sleeve. The negatives were then placed in an archival box and placed in the negative cabinet for long-term storage.</p>
+    </processinfo>
+    <scopecontent id="aspace_f3f08e0b9221b2aca8f84c679614c32b">
+      <head>Scope and Contents</head>
+      <p>The collection consists of 31 4x6 inch color and photocopied images of the Jackson Place complex. The photographs detail the buildings and its previous masonry and roofing repairs. There are three copies of each image making the total number of images 93. An envelope at the end of the packet contained the original negative for all of the images, except for the images that are photocopies. Additionally, there are 63 negatives without a corresponding print. The booklet was assembled for the General Services Administration, National Capital Region by the Einhorn Yaffe Prescott Architecture and Engineering, P.C. The booklet is entitled "Section 106 Compliance, Appendix D: Photographs."</p>
+    </scopecontent>
+    <userestrict id="aspace_057b960c98923607b92447ba0f07e104">
+      <head>Conditions Governing Use</head>
+      <p>There are no restrictions on viewing this collection and all photographs are in the public domain, therefore there are no restrictions on reproduction. Reproductions should appear with the proper attribution indicating that the photograph is housed in the Jackson Place Complex Photograph Collection and indicate that they appear "courtesy of the DC Public Library."</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85017769" source="Library of Congress Subject Headings">Buildings</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85006611" source="Library of Congress Subject Headings">Architecture</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_8233cc90c237bbefa05fa102024c075a" level="series">
@@ -50,8 +92,8 @@
           <did>
             <unittitle>Architectural model of the Jackson Place Complex</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_7c3232d10a9e6ba233b5fcedfde55a55" label="mixed materials" type="Box">1</container>
-            <container id="aspace_553b47b593212f4a5ceb2c8df84c72cc" parent="aspace_7c3232d10a9e6ba233b5fcedfde55a55" type="Folder">1</container>
+            <container id="aspace_b0167d429cd5f7d457443b2ea849b794" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2b5e8fd4a0ac5eab0d51255d3418c07f" parent="aspace_b0167d429cd5f7d457443b2ea849b794" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_427cfcfa46665df521371201ee7289b4">
             <head>Scope and Contents</head>
@@ -62,8 +104,8 @@
           <did>
             <unittitle>General view of Jackson Place from Lafayette square</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_16c86c45fffbd73d83ab0d41b052ac87" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b0facd44525b49fba4467a1b439674dd" parent="aspace_16c86c45fffbd73d83ab0d41b052ac87" type="Folder">2</container>
+            <container id="aspace_410d4309d25b376b3e25d4997812e33d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_10973dee3b85f118d9d6f6c9122cca2b" parent="aspace_410d4309d25b376b3e25d4997812e33d" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_704b16fc2351763aad92d1cae21bda6c">
             <head>Scope and Contents</head>
@@ -74,16 +116,16 @@
           <did>
             <unittitle>General view of Jackson Place upper floors and roofs from Lafayette square</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_3f8e5a6005f70acd1f7d25adb40aec6f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a6b95ee28385c7356bd6ba07530a02ea" parent="aspace_3f8e5a6005f70acd1f7d25adb40aec6f" type="Folder">3</container>
+            <container id="aspace_08622a5bcaa8207b9d4bea6b3719fbe8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0256d375a3d68a9e007a6821c2e3010e" parent="aspace_08622a5bcaa8207b9d4bea6b3719fbe8" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_46c32a46cd583812b7894577b426d148" level="file">
           <did>
             <unittitle>General view of Jackson Place from Lafayette square</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_af026457411bad735be6614e91dbe14c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_14c48dd802e734f7357eeb3bfc01153f" parent="aspace_af026457411bad735be6614e91dbe14c" type="Folder">4</container>
+            <container id="aspace_b9fa4df4fc63dcad574764e6fcedb884" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_347147e8583ab371bf447b568e591682" parent="aspace_b9fa4df4fc63dcad574764e6fcedb884" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_5e486ef374e5c361fab83cc499d53e98">
             <head>Scope and Contents</head>
@@ -94,8 +136,8 @@
           <did>
             <unittitle>General view of the rear of Jackson Place</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_3c67f77f9152fc0dc565b8634bc8b40a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_932c8f0f6429915355e605f9c2e9bde8" parent="aspace_3c67f77f9152fc0dc565b8634bc8b40a" type="Folder">5</container>
+            <container id="aspace_23311d91e96e02f228d732a89a9c66a9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0a44f6f0692b6279fc314602bc5e0242" parent="aspace_23311d91e96e02f228d732a89a9c66a9" type="Folder">5</container>
           </did>
           <scopecontent id="aspace_389419c490af32d8be71807c65d428fa">
             <head>Scope and Contents</head>
@@ -106,8 +148,8 @@
           <did>
             <unittitle>General view of plaza behind Jackson Place</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e138a97b61cb1dbb74d4ffc7d3ae4e39" label="mixed materials" type="Box">1</container>
-            <container id="aspace_389997e8b79ff7c113347411ca1fcbb7" parent="aspace_e138a97b61cb1dbb74d4ffc7d3ae4e39" type="Folder">6</container>
+            <container id="aspace_c1dcda0f8347e0c45d64a815e372670b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9e981fb03bc2c9e280a4f2a5733be646" parent="aspace_c1dcda0f8347e0c45d64a815e372670b" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_1bb235419e7c4feceb5bbbd426e4b0aa">
             <head>Scope and Contents</head>
@@ -118,8 +160,8 @@
           <did>
             <unittitle>Rear steps of building #734</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_f174e1c420bf86633beb317b1405fd25" label="mixed materials" type="Box">1</container>
-            <container id="aspace_23047e5445c6e0c6fdcb7646d6215a51" parent="aspace_f174e1c420bf86633beb317b1405fd25" type="Folder">7</container>
+            <container id="aspace_7736fc9a8d33a17c6d1d1a04081d1cdb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_dde92dfdd8712355db06dafa30e31bf2" parent="aspace_7736fc9a8d33a17c6d1d1a04081d1cdb" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_b32c03d59c955cb50b2fb42bf725b1a7">
             <head>Scope and Contents</head>
@@ -130,8 +172,8 @@
           <did>
             <unittitle>Detail and planter box behind #722</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_9afb736039c17bd3090a333fca1d6cbb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ca8e1015ab3cc482a999c9ac27a20673" parent="aspace_9afb736039c17bd3090a333fca1d6cbb" type="Folder">8</container>
+            <container id="aspace_ed0bcb95fdf8a8799d56c70e26cccfd7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_dfbd6e280cbb1a43037581931a87f7d2" parent="aspace_ed0bcb95fdf8a8799d56c70e26cccfd7" type="Folder">8</container>
           </did>
           <scopecontent id="aspace_528b092618b4de3b63af20ef4d9a52a2">
             <head>Scope and Contents</head>
@@ -142,8 +184,8 @@
           <did>
             <unittitle>Typical interior wall damage caused by leaking gutters</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c0ce4e200a868e8322bbf9646b09ab56" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1bc854ca53123849604682e16b2be7aa" parent="aspace_c0ce4e200a868e8322bbf9646b09ab56" type="Folder">9</container>
+            <container id="aspace_4e6e070eedb1f2a3fc3f25051b68e486" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_20a5129caf745bb9c8274e966864b83c" parent="aspace_4e6e070eedb1f2a3fc3f25051b68e486" type="Folder">9</container>
           </did>
           <scopecontent id="aspace_155e95a866c93d35f2dc3ebe130e42e2">
             <head>Scope and Contents</head>
@@ -154,8 +196,8 @@
           <did>
             <unittitle>East half of #708 parapet wall</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_11504211e1a6986305c47611e57c0e19" label="mixed materials" type="Box">1</container>
-            <container id="aspace_6388949843aad366a967a1f5896ced3b" parent="aspace_11504211e1a6986305c47611e57c0e19" type="Folder">10</container>
+            <container id="aspace_9a04ee6b6a73fa943582c498840b0305" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_48d0ecebd46529201dbe62a1c39b9dbe" parent="aspace_9a04ee6b6a73fa943582c498840b0305" type="Folder">10</container>
           </did>
           <scopecontent id="aspace_39425d31cfa2739a9f6557991651daa3">
             <head>Scope and Contents</head>
@@ -166,8 +208,8 @@
           <did>
             <unittitle>Detail of paint on parapet wall</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_1f4f7c3c4a841c03234b98dccf166ade" label="mixed materials" type="Box">1</container>
-            <container id="aspace_bcdab63f823f5f8ec2bda08307afc406" parent="aspace_1f4f7c3c4a841c03234b98dccf166ade" type="Folder">11</container>
+            <container id="aspace_68b9424fed35919ed7f08b3b1478a879" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_49166d0a5768032d46b24dfbf0814758" parent="aspace_68b9424fed35919ed7f08b3b1478a879" type="Folder">11</container>
           </did>
           <scopecontent id="aspace_324eb9de0dcea9007d4a5c091143e826">
             <head>Scope and Contents</head>
@@ -178,8 +220,8 @@
           <did>
             <unittitle>"Walking parapet of #708 from roof of #712</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_12ba3df509ae9819fae7e66eb46cc87e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f7d93452d78c5d06a0ae221f66243f87" parent="aspace_12ba3df509ae9819fae7e66eb46cc87e" type="Folder">12</container>
+            <container id="aspace_f2e414c74c96d5db90718db718829add" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f55775330777abb639fcb479d8e2f11f" parent="aspace_f2e414c74c96d5db90718db718829add" type="Folder">12</container>
           </did>
           <scopecontent id="aspace_d78ee4c94033a049482a5833ed69a0e1">
             <head>Scope and Contents</head>
@@ -190,8 +232,8 @@
           <did>
             <unittitle>Failed parging at truncated chimney of #712</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_40d4c9bc453f330ddf68cccc5d2385a0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e1450146d4012eb6723e97da1c108df2" parent="aspace_40d4c9bc453f330ddf68cccc5d2385a0" type="Folder">13</container>
+            <container id="aspace_666849f3015d56fecb2e758037ab9a75" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0ae2a84d0390a09a1d436eb274a0b2fe" parent="aspace_666849f3015d56fecb2e758037ab9a75" type="Folder">13</container>
           </did>
           <scopecontent id="aspace_eca36f588a67301adc998d80a03c30fa">
             <head>Scope and Contents</head>
@@ -202,8 +244,8 @@
           <did>
             <unittitle>Metal barrel dormers at #712</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_63e95df269e693ba35d6ba841e2888a3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_239ec53fa8474e8d54be33d6dd47fc86" parent="aspace_63e95df269e693ba35d6ba841e2888a3" type="Folder">14</container>
+            <container id="aspace_b213b7edd45703507131e814909e2fa1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_97d30973be487b4bcbf7c56729dce58e" parent="aspace_b213b7edd45703507131e814909e2fa1" type="Folder">14</container>
           </did>
           <scopecontent id="aspace_2cf6e353310338377e0b93d560eeb98c">
             <head>Scope and Contents</head>
@@ -214,8 +256,8 @@
           <did>
             <unittitle>Detail of typical patching and repair of #712</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_13a2a697dee5a27212816275f0f845e1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_8551af913f633973a5bad14e339c4649" parent="aspace_13a2a697dee5a27212816275f0f845e1" type="Folder">15</container>
+            <container id="aspace_90363e860241d6ac598ef600fd297738" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6669b50f5da62ad65bf7d4a17d54a032" parent="aspace_90363e860241d6ac598ef600fd297738" type="Folder">15</container>
           </did>
           <scopecontent id="aspace_8c886b4bd45c52ffd8b5a5c532227d6c">
             <head>Scope and Contents</head>
@@ -226,8 +268,8 @@
           <did>
             <unittitle>South face of parapet between #708 and #712</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e76864c0b884bbf19173e5d03d4e9481" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c5287f00cc7410b7bd7f95c8f853113d" parent="aspace_e76864c0b884bbf19173e5d03d4e9481" type="Folder">16</container>
+            <container id="aspace_8f6abd03f575c7985f41b89e521227f4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a7c38f28d1b65a1cbc85de93c3a95239" parent="aspace_8f6abd03f575c7985f41b89e521227f4" type="Folder">16</container>
           </did>
           <scopecontent id="aspace_7dafb25291fd50344b98d905f4ccd59c">
             <head>Scope and Contents</head>
@@ -238,8 +280,8 @@
           <did>
             <unittitle>South face of #716 chimney</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c8690184bea77e7cfc198e17dacdb540" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a68dadf8c1ac0f4b836676387403f019" parent="aspace_c8690184bea77e7cfc198e17dacdb540" type="Folder">17</container>
+            <container id="aspace_f52a2ae687fcb816e329bc98f4bc4b17" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1426b0b4d9d5f8559fdc94c8197dd502" parent="aspace_f52a2ae687fcb816e329bc98f4bc4b17" type="Folder">17</container>
           </did>
           <scopecontent id="aspace_8e3c4c70a2dc911dea74c33ef1918eaf">
             <head>Scope and Contents</head>
@@ -250,8 +292,8 @@
           <did>
             <unittitle>East facing dormers of #718</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_db023f3ff33449a03c6ad9abe0764486" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0c0b22132229fd552b9326234c30c535" parent="aspace_db023f3ff33449a03c6ad9abe0764486" type="Folder">18</container>
+            <container id="aspace_e3125807dbd547cc4880f2de47e2a1c3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_80762ded59d5e1f5db26b075508400eb" parent="aspace_e3125807dbd547cc4880f2de47e2a1c3" type="Folder">18</container>
           </did>
           <scopecontent id="aspace_802c74d59364f59e963f7ec119120896">
             <head>Scope and Contents</head>
@@ -262,8 +304,8 @@
           <did>
             <unittitle>Detail of gutter intersection between #716 and #718</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c28bf8fce7879b6b9928dac4c1de0ffb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f4584f14253c54c88ec71c7b064dfb63" parent="aspace_c28bf8fce7879b6b9928dac4c1de0ffb" type="Folder">19</container>
+            <container id="aspace_5c53e22e1333126a0309d80df9b39007" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7d731c4728f1ef1dd79d281b2802c4e5" parent="aspace_5c53e22e1333126a0309d80df9b39007" type="Folder">19</container>
           </did>
           <scopecontent id="aspace_3beb6159a3adb1cf0cb3876127d70684">
             <head>Scope and Contents</head>
@@ -274,8 +316,8 @@
           <did>
             <unittitle>West-facing mansard roof of #726-A</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_b005c77267df132740ce473dd1f78860" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e2b0bbc2b308cdeac752633b07027f3f" parent="aspace_b005c77267df132740ce473dd1f78860" type="Folder">20</container>
+            <container id="aspace_9b16d3e19d1e73ac106ade8ab89adc31" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fb2a079dc4a9c2a6c9c79b157c16a882" parent="aspace_9b16d3e19d1e73ac106ade8ab89adc31" type="Folder">20</container>
           </did>
           <scopecontent id="aspace_0ab909951816db56db3d856a4143de29">
             <head>Scope and Contents</head>
@@ -286,8 +328,8 @@
           <did>
             <unittitle>Typical sealant joint failure of cast stone</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_d38fae6a74a3d64f3173a29847fd3a2c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1de4fdbb7871ffeb3463b7a545b4b139" parent="aspace_d38fae6a74a3d64f3173a29847fd3a2c" type="Folder">21</container>
+            <container id="aspace_c0c85f91e282360a1c49375d23c9840e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_db9c2e8ebfdf1988caf971892825fbf5" parent="aspace_c0c85f91e282360a1c49375d23c9840e" type="Folder">21</container>
           </did>
           <scopecontent id="aspace_aa43f01f613241ce9d87ce6852072a3c">
             <head>Scope and Contents</head>
@@ -298,8 +340,8 @@
           <did>
             <unittitle>East facing dormer cladding at #736</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_1394dcee79aafad4a46cee705f5fd245" label="mixed materials" type="Box">1</container>
-            <container id="aspace_910e3261a5e99047f315c442d463be8c" parent="aspace_1394dcee79aafad4a46cee705f5fd245" type="Folder">22</container>
+            <container id="aspace_49cb9c905587cc7d52893574e99baffd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5ff15e0acb3e2a9a12e8f7a6bf08a0db" parent="aspace_49cb9c905587cc7d52893574e99baffd" type="Folder">22</container>
           </did>
           <scopecontent id="aspace_3707b5172acd6fc6d82fc3333baa7b38">
             <head>Scope and Contents</head>
@@ -310,8 +352,8 @@
           <did>
             <unittitle>Built in gutter and gravel-stop details at #734 and #736</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_8112ea8c5eb4003128888529fb1cd4de" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7dfbb43f52e811dba8a9b78c6dbe2077" parent="aspace_8112ea8c5eb4003128888529fb1cd4de" type="Folder">23</container>
+            <container id="aspace_c5103264cf9e7c92aabf5c6e68d6bb9a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ebd8278d4e88bac396e1b44dff6c3451" parent="aspace_c5103264cf9e7c92aabf5c6e68d6bb9a" type="Folder">23</container>
           </did>
           <scopecontent id="aspace_a1fb05b91105b60c618edc08661bf56a">
             <head>Scope and Contents</head>
@@ -322,16 +364,16 @@
           <did>
             <unittitle>Early surface-rusting at #740</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_f2f0b1da5481a91155c4c9108700c54d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_81b1729a39ee16aeb3b1a2f9a21d5413" parent="aspace_f2f0b1da5481a91155c4c9108700c54d" type="Folder">24</container>
+            <container id="aspace_f01f7868d3315646142255d0038c1861" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a5217788330f7ab4e202bc21a48aaa9c" parent="aspace_f01f7868d3315646142255d0038c1861" type="Folder">24</container>
           </did>
         </c>
         <c id="aspace_5a3a21ee672138a665b37ca16f177415" level="file">
           <did>
             <unittitle>Roof of #744 looking northeast</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_164d187eda0ae553beb8a83ef9cab3ac" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4808acfd3515bfec3c85d7b40c7f2b31" parent="aspace_164d187eda0ae553beb8a83ef9cab3ac" type="Folder">25</container>
+            <container id="aspace_4d199cd356e21f8cd33a8c0bb1871444" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a3e9016e4a95fd06d8e5350730d6dfad" parent="aspace_4d199cd356e21f8cd33a8c0bb1871444" type="Folder">25</container>
           </did>
           <scopecontent id="aspace_a578cd88b3ca0fde583fe0e8f5f72516">
             <head>Scope and Contents</head>
@@ -342,8 +384,8 @@
           <did>
             <unittitle>South end of Jackson Place</unittitle>
             <unitdate normal="1920/1920" type="inclusive">ca. 1920</unitdate>
-            <container id="aspace_6f442fe621d322ca9595be6b36d8de48" label="mixed materials" type="Box">1</container>
-            <container id="aspace_01c0d86367cf496b06144b0d8a452f88" parent="aspace_6f442fe621d322ca9595be6b36d8de48" type="Folder">26</container>
+            <container id="aspace_aad1d31bde952bf600540ce6ea4f0d84" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1cb81aa1c8f47e3cbb06e6ecfb978911" parent="aspace_aad1d31bde952bf600540ce6ea4f0d84" type="Folder">26</container>
           </did>
           <scopecontent id="aspace_130f71b93e1b6794cbed39ce6a0f6200">
             <head>Scope and Contents</head>
@@ -354,8 +396,8 @@
           <did>
             <unittitle>Blair-Lee Houses and Renwick Gallery</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_f122817e2102aa949c37d44bfe6be8d1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1d7db4142994b8920dfd0db95e5bc312" parent="aspace_f122817e2102aa949c37d44bfe6be8d1" type="Folder">27</container>
+            <container id="aspace_0dd576a93483eb2d6be7a1177f6fffd5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cff4e469c3f1e02cff325c391ebb6afe" parent="aspace_0dd576a93483eb2d6be7a1177f6fffd5" type="Folder">27</container>
           </did>
           <scopecontent id="aspace_9ee33d6969b972e84e7385c0412b8937">
             <head>Scope and Contents</head>
@@ -366,8 +408,8 @@
           <did>
             <unittitle>North face of building #736</unittitle>
             <unitdate normal="1902/1902" type="inclusive">ca. 1902</unitdate>
-            <container id="aspace_cc35fcf5a29f5a45e11440ef2c6f8aed" label="mixed materials" type="Box">1</container>
-            <container id="aspace_895b622c14fcf8fe1c91726b099929df" parent="aspace_cc35fcf5a29f5a45e11440ef2c6f8aed" type="Folder">28</container>
+            <container id="aspace_98e1c8a356c7122e703accb8fef5e500" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_77676c281cfcf69953e9829b48c4a039" parent="aspace_98e1c8a356c7122e703accb8fef5e500" type="Folder">28</container>
           </did>
           <scopecontent id="aspace_d7550293e379746dc91b6abdadc52434">
             <head>Scope and Contents</head>
@@ -378,8 +420,8 @@
           <did>
             <unittitle>Building #734 and #736</unittitle>
             <unitdate normal="1920/1920" type="inclusive">ca. 1920</unitdate>
-            <container id="aspace_3a5d974c450676bc77fc584c6924c6d2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f21a2037a7a95fb896a0da99139f08f4" parent="aspace_3a5d974c450676bc77fc584c6924c6d2" type="Folder">29</container>
+            <container id="aspace_fa7f13a33a22a8b132a0edf76491a323" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0d30b424f266ada277b6055cd25366d9" parent="aspace_fa7f13a33a22a8b132a0edf76491a323" type="Folder">29</container>
           </did>
           <scopecontent id="aspace_cffbdda86ff22cd110e6ca75c982f9e1">
             <head>Scope and Contents</head>
@@ -390,8 +432,8 @@
           <did>
             <unittitle>Building #722</unittitle>
             <unitdate normal="1930/1930" type="inclusive">ca. 1930</unitdate>
-            <container id="aspace_fa49742e1175ac0e87bad243b95dc3f6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d4eee0644bba22715616eaff09a7912a" parent="aspace_fa49742e1175ac0e87bad243b95dc3f6" type="Folder">30</container>
+            <container id="aspace_8b9a6c5b20dd521567d255db6810f585" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ac03069f58608d0890fe3b2ebcd2eb2c" parent="aspace_8b9a6c5b20dd521567d255db6810f585" type="Folder">30</container>
           </did>
           <scopecontent id="aspace_08b15301dea2cc1e239cce465ad96b0b">
             <head>Scope and Contents</head>
@@ -402,8 +444,8 @@
           <did>
             <unittitle>Jackson Place looking southwest</unittitle>
             <unitdate normal="1934/1934" type="inclusive">ca. 1934</unitdate>
-            <container id="aspace_8e8d0c673e4e89db525f000d4b4e52e4" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1631a2323449b09588271ef305478962" parent="aspace_8e8d0c673e4e89db525f000d4b4e52e4" type="Folder">31</container>
+            <container id="aspace_0532d835ec3d962b471cf1587ebe4fef" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b89aaace0ae0a6383e8ed54fb917f4ed" parent="aspace_0532d835ec3d962b471cf1587ebe4fef" type="Folder">31</container>
           </did>
           <scopecontent id="aspace_c07c2f5714bb7915b981bf8dd7865bba">
             <head>Scope and Contents</head>

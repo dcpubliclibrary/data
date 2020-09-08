@@ -4,19 +4,24 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">WAMU Broadcast Collection</titleproper>
-        <titleproper>WAMU <num>045</num> <num>045</num></titleproper>
+        <titleproper>WAMU <num>045</num></titleproper>
         <subtitle>An inventory of WAMU at DC Public Library</subtitle>
         <author>Finding aid prepared by Mark Greek.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2014-08</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:04:43 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:32:01 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -27,15 +32,17 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>WAMU Broadcast Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n88028154" source="LCSH">WAMU-FM (Radio station : Washington, D.C.)</corpname>
+      </origination>
       <unitid>045</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">14 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">14 Boxes</extent>
       </physdesc>
       <unitdate normal="1998/2004" type="inclusive">1998–2004</unitdate>
-      <langmaterial id="aspace_c6e1dddf1354d3916fd61ef33668f345">English</langmaterial>
       <langmaterial id="aspace_cbf6b7053c9b451b9dc73eef1841b251">English</langmaterial>
     </did>
     <bioghist id="aspace_13619d4e49ffb5e86e0fc54c311bc8b1">
@@ -49,11 +56,13 @@
     <scopecontent id="aspace_1e63baf9b0a3e977e96c23fab258b86f">
       <head>Scope and Contents</head>
       <p>The collection contains 679 audio cassettes containing recordings primarily of three weekly shows, Metro Connection, Public Interest (DC Politics Hour) and the Kojo Nnamdi Show dating between 1998 and 2004. All show content is related to local D.C. current affairs and history. </p>
-      <p> The collection also contains editorials on D.C. political issues, most often prepared by Mark Plotkin, as well as some 1-hour segments from Public Interest, which relate to local Washington, D.C. matters. Significant featured series in the collection include: recordings of 1998 mayoral debates and candidate forums sponsored by WAMU; the 20th Century Washington series which aired on Metro Connection in 1999 to mark the close of the 20th century by reporting on significant periods or events in the city's history</p>
+      <p>The collection also contains editorials on D.C. political issues, most often prepared by Mark Plotkin, as well as some 1-hour segments from Public Interest, which relate to local Washington, D.C. matters.  Significant featured series in the collection include:  recordings of 1998 mayoral debates and candidate forums sponsored by WAMU; the 20th Century Washington series which aired on Metro Connection in 1999 to mark the close of the 20th century by reporting on significant periods or events in the city's history</p>
     </scopecontent>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2002011436" source="Library of Congress Subject Headings">Politics and government</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85110557" source="Library of Congress Subject Headings">Radio programs</subject>
+      <genreform source="material_type">Audio</genreform>
     </controlaccess>
     <dsc>
       <c id="aspace_f25f06dcb7b2f74a191cee929be21819" level="series">
@@ -68,48 +77,48 @@
           <did>
             <unittitle>51 audio tapes</unittitle>
             <unitdate normal="1998-06-24/1998-06-24" type="inclusive">June 24 1998-February 5 1999</unitdate>
-            <container id="aspace_3eddc6723038d40e1253a3ee0083d17d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4b8d593775b07759b1a7959f8c9cf07e" parent="aspace_3eddc6723038d40e1253a3ee0083d17d" type="Folder">1</container>
+            <container id="aspace_7ded9881b31bfebac8efb91a5c09b699" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_708d9dc8926bcbf6d70e8a4a911c89ed" parent="aspace_7ded9881b31bfebac8efb91a5c09b699" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_852da03b53fa925238a8bdef1ae2fb60" level="file">
           <did>
             <unittitle>50 audio tapes</unittitle>
             <unitdate normal="1999-02-12/1999-02-12" type="inclusive">February 12 1999-September 3 1999</unitdate>
-            <container id="aspace_cf842b772371381d225c110804d1d7ba" label="mixed materials" type="Box">2</container>
-            <container id="aspace_973c6bb0af747337388f0b05742a449d" parent="aspace_cf842b772371381d225c110804d1d7ba" type="Folder">1</container>
+            <container id="aspace_93e3e7cd1a0f5a4b79dcc12ea9226375" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_1172157c07af6247a3aff844cdd5cf45" parent="aspace_93e3e7cd1a0f5a4b79dcc12ea9226375" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_9f4b4b8254b2d8493f78603be1b21666" level="file">
           <did>
             <unittitle>51 audio tapes</unittitle>
             <unitdate normal="1999-09-09/1999-09-09" type="inclusive">September 9 1999-March 20 2000</unitdate>
-            <container id="aspace_142203dfe09081db7be934c7c3dd4462" label="mixed materials" type="Box">3</container>
-            <container id="aspace_c4d19dd14ea2bb687663b2c1a7dfd7aa" parent="aspace_142203dfe09081db7be934c7c3dd4462" type="Folder">1</container>
+            <container id="aspace_84ed20ca8cce741afe3bf2bf5febb253" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_e47ab2944eaeb701bec7b8819f6bdcc3" parent="aspace_84ed20ca8cce741afe3bf2bf5febb253" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_da3cb5645a070152e6002fe0bb99ff7f" level="file">
           <did>
             <unittitle>51 audio tapes</unittitle>
             <unitdate normal="2000-03-22/2000-03-22" type="inclusive">March 22 2000-March 2 2001</unitdate>
-            <container id="aspace_0e204cc2be3fe24ce313d330cfaf04ed" label="mixed materials" type="Box">4</container>
-            <container id="aspace_6e8b60c6acea74a78b7b05240e5c72d0" parent="aspace_0e204cc2be3fe24ce313d330cfaf04ed" type="Folder">1</container>
+            <container id="aspace_4ec537cb25e25483229d6346329aab4a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_080bb81bf2561f8af95859e837eb0da4" parent="aspace_4ec537cb25e25483229d6346329aab4a" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_23e4d35cd6126684009ca7dfdecb8a2b" level="file">
           <did>
             <unittitle>50 audio tapes</unittitle>
             <unitdate normal="2001-03-02/2001-03-02" type="inclusive">March 2 2001-January 18 2002</unitdate>
-            <container id="aspace_7ec45298fe520e457ab7e2dfa8d1cda3" label="mixed materials" type="Box">5</container>
-            <container id="aspace_faaf3f182faf7264deb57c46e2fedc8a" parent="aspace_7ec45298fe520e457ab7e2dfa8d1cda3" type="Folder">1</container>
+            <container id="aspace_a2128bb3cf5f6de307e727b6038df820" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_59358a5e2f3a29cb727e0fba6b70a902" parent="aspace_a2128bb3cf5f6de307e727b6038df820" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_52a623f382341a2980afeeb5dc395ed0" level="file">
           <did>
             <unittitle>34 audio tapes</unittitle>
             <unitdate normal="2002-01-25/2002-01-25" type="inclusive">January 25 2002-September 27 2002</unitdate>
-            <container id="aspace_01c6286e0485a677ccb01f406e891e3f" label="mixed materials" type="Box">6</container>
-            <container id="aspace_5cc317b9fbcfc600610bc887c156e106" parent="aspace_01c6286e0485a677ccb01f406e891e3f" type="Folder">1</container>
+            <container id="aspace_c9d63b0f42d0e11e387bf8f650b52271" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_45e602db965e820e7fd43e9ef42a481e" parent="aspace_c9d63b0f42d0e11e387bf8f650b52271" type="Folder">1</container>
           </did>
         </c>
       </c>
@@ -125,56 +134,56 @@
           <did>
             <unittitle>17 audio tapes</unittitle>
             <unitdate normal="1998-02-27/1998-02-27" type="inclusive">February 27 1998-October 10 1998</unitdate>
-            <container id="aspace_f82fdadd15de3e872075ca13a528f6f9" label="mixed materials" type="Box">6</container>
-            <container id="aspace_57b857aa6121d9d21ba77aa500953501" parent="aspace_f82fdadd15de3e872075ca13a528f6f9" type="Folder">2</container>
+            <container id="aspace_b96b38f94791dc82a1a40364b86d5818" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_3d03def0bd10b68864d5a95bfb610c7a" parent="aspace_b96b38f94791dc82a1a40364b86d5818" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_d2d0c1af54d075d73c1182d93b34befc" level="file">
           <did>
             <unittitle>51 audio tapes</unittitle>
             <unitdate normal="1998-10-24/1998-10-24" type="inclusive">October 24 1998-November 20 1999</unitdate>
-            <container id="aspace_5aa3e0fe33e8975ac5260382e6ac69db" label="mixed materials" type="Box">7</container>
-            <container id="aspace_6e77b2b3130575923b3af4bf826a1aa1" parent="aspace_5aa3e0fe33e8975ac5260382e6ac69db" type="Folder">1</container>
+            <container id="aspace_1f2a1ec631c0a61b7e667e61eb3089aa" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_945edbe23500a0c2cf3b411a6a777902" parent="aspace_1f2a1ec631c0a61b7e667e61eb3089aa" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_d7037d7d6647fc74093f7007148bd55e" level="file">
           <did>
             <unittitle>50 audio tapes</unittitle>
             <unitdate normal="1999-11-23/1999-11-23" type="inclusive">November 23 1999-April 28 2001</unitdate>
-            <container id="aspace_b16f62248d2cea33aae60a1120afd226" label="mixed materials" type="Box">8</container>
-            <container id="aspace_feac5ea2440d70153bac295d52e96397" parent="aspace_b16f62248d2cea33aae60a1120afd226" type="Folder">1</container>
+            <container id="aspace_dca85828547464b50d2e4515f3e36b9c" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_3b5e7d33a6889357c9bfb33e02032256" parent="aspace_dca85828547464b50d2e4515f3e36b9c" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_c16bc9d50e81f7f2ca24463e0181473e" level="file">
           <did>
             <unittitle>51 audio tapes</unittitle>
             <unitdate normal="2001-05-05/2001-05-05" type="inclusive">May 5 2001-May 18 2002</unitdate>
-            <container id="aspace_24c8cdf41487e75c7300916ec792800e" label="mixed materials" type="Box">9</container>
-            <container id="aspace_f655bb45787ee9d48cb1497086137e2f" parent="aspace_24c8cdf41487e75c7300916ec792800e" type="Folder">1</container>
+            <container id="aspace_74026421fafa1d4a4914d04e882224a1" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_9770833cd58637ac28bc964819eda87f" parent="aspace_74026421fafa1d4a4914d04e882224a1" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_1fbbea10166e78cc8ccc5380e3ab5e90" level="file">
           <did>
             <unittitle>52 audio tapes</unittitle>
             <unitdate normal="2002-06-01/2002-06-01" type="inclusive">June 1 2002-June 27 2003</unitdate>
-            <container id="aspace_ab31f6eb4c50804aa4f151b3d73dd0ae" label="mixed materials" type="Box">10</container>
-            <container id="aspace_3350c69c26040f2b719960ac2f168feb" parent="aspace_ab31f6eb4c50804aa4f151b3d73dd0ae" type="Folder">1</container>
+            <container id="aspace_38d65a0533c09af93e18edfa6bc7ea8c" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_105434ea1c004a15b31e98cd464d3085" parent="aspace_38d65a0533c09af93e18edfa6bc7ea8c" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_a476a64537d205b544a6324b5defb685" level="file">
           <did>
             <unittitle>52 audio tapes</unittitle>
             <unitdate normal="2003-07-11/2004-08-20" type="inclusive">July 11, 2003-August 20, 2004</unitdate>
-            <container id="aspace_436fac5701f8993f895b8010ba6171fd" label="mixed materials" type="Box">11</container>
-            <container id="aspace_8d73f8b6cd691d7d1603a02300e97f26" parent="aspace_436fac5701f8993f895b8010ba6171fd" type="Folder">1</container>
+            <container id="aspace_b86c7f5d3f28b1e660b166058a7864a7" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_3daf8d04348ee38127f7086752bc9f29" parent="aspace_b86c7f5d3f28b1e660b166058a7864a7" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ab132af7d742b462ea780b5d551e1160" level="file">
           <did>
             <unittitle>audiotapes</unittitle>
             <unitdate normal="2004-08-27/2004-12-17" type="inclusive">August 27, 2004-December 17, 2004</unitdate>
-            <container id="aspace_b1bf9cdc2b7eae7158ed38fe2892f84d" label="mixed materials" type="box">12</container>
-            <container id="aspace_06f8a37475140c18c6e18af45adf009e" parent="aspace_b1bf9cdc2b7eae7158ed38fe2892f84d" type="folder">1</container>
+            <container id="aspace_9f413b16fb6df4a2f8af43d8a2fe28e0" label="Mixed Materials" type="box">12</container>
+            <container id="aspace_3fcf898a568145eb34b5ad793815d5db" parent="aspace_9f413b16fb6df4a2f8af43d8a2fe28e0" type="folder">1</container>
           </did>
         </c>
       </c>
@@ -191,16 +200,16 @@
           <did>
             <unittitle>Audio tapes</unittitle>
             <unitdate normal="2002-10-04/2003-10-31" type="inclusive">October 4, 2002-October 31, 2003</unitdate>
-            <container id="aspace_f63a853474259b79d1c59e6c4d685bc3" label="mixed materials" type="box">13</container>
-            <container id="aspace_cb5d033622914e0be08f0fcc59eb57ba" parent="aspace_f63a853474259b79d1c59e6c4d685bc3" type="Folder">1</container>
+            <container id="aspace_761170d0e319ece98ac16821e56ada1a" label="Mixed Materials" type="box">13</container>
+            <container id="aspace_35650fca93ef87398ba38ac73420d28e" parent="aspace_761170d0e319ece98ac16821e56ada1a" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_5413e5e0e7fd172f78a5f6d8f21c469b" level="file">
           <did>
             <unittitle>Audio tapes</unittitle>
             <unitdate normal="2003-11-07/2004-12-17" type="inclusive">November 7, 2003- December 17, 2004</unitdate>
-            <container id="aspace_a46a0435e164e1540cc163cb87d4153b" label="mixed materials" type="box">14</container>
-            <container id="aspace_fb7878f3cf527702932a064b04bec1f8" parent="aspace_a46a0435e164e1540cc163cb87d4153b" type="Folder">1</container>
+            <container id="aspace_4e50ce4dd7a598539b119c7c5674583a" label="Mixed Materials" type="box">14</container>
+            <container id="aspace_5db48e51de9c50fcbfef939b9816d9c0" parent="aspace_4e50ce4dd7a598539b119c7c5674583a" type="Folder">1</container>
           </did>
         </c>
       </c>

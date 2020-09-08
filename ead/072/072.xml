@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Shubert-Garrick-Belasco Theatre Collection</titleproper>
-        <titleproper>Shubert-Garrick-Belasco Theatre <num>072</num> <num>072</num></titleproper>
+        <titleproper>Shubert-Garrick-Belasco Theatre <num>072</num></titleproper>
         <subtitle>An inventory of Shubert-Garrick-Belasco Theatre at DC Public Library</subtitle>
         <author>Finding aid prepared by Ryan P. Semmes.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2007-01</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:07:30 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:43:54 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-07-16</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,32 +38,64 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Shubert-Garrick-Belasco Theatre Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n2011053927" source="LCSH">Shubert-Garrick Theatre (Organization : Washington, D.C.)</corpname>
+      </origination>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n2010002891" source="LCSH">Shubert-Belasco Theatre (Organization : Washington, D.C.)</corpname>
+      </origination>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n2010039200" source="LCSH">Poli's Theatre (Washington, D.C.)</corpname>
+      </origination>
       <unitid>072</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2 linear feet; 2 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">2 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Boxes</extent>
       </physdesc>
       <unitdate normal="1918/1934" type="inclusive">1918-1934</unitdate>
-      <langmaterial id="aspace_a61b7fef1d424e1c88d3cc8841228bff">English</langmaterial>
       <langmaterial id="aspace_c91343035cae8772ab676615a31a3d81">English</langmaterial>
     </did>
+    <arrangement id="aspace_616ac764c6aeaafba3e8effac9f82928">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_88612e6351995f1dcbf56c6fa0052a60">
       <head>Biographical / Historical</head>
-      <p>The Shubert Theatres were owned by the Shubert Brothers of New York. The Shubert brothers, Lee, Sam and Jacob, owned theatres throughout the United States, including Washington, DC. They originally staged operettas and then moved on to staging musicals and dramas in the 1930s and 1940s. Originally created as Shubert Enterprises, the Shubert Organization still manages theatres throughout the US, including the National Theatre in Washington, DC. </p>
-      <p> In Washington, DC, from the 1910s to the 1930s, the Shuberts managed the Garrick Theatre, the Belasco Theatre and Poli's Theatre. After examining the programs from these three Theatres, it is assumed that the Garrick Theatre ceased in existence around 1925. By 1925, the Shuberts produced one program for both the Belasco Theatre and Poli's Theatre.</p>
+      <p>The Shubert Theatres were owned by the Shubert Brothers of New York. The Shubert brothers, Lee, Sam and Jacob, owned theatres throughout the United States, including Washington, DC D.C. They originally staged operettas and then moved on to staging musicals and dramas in the 1930s and 1940s. Originally created as Shubert Enterprises, the Shubert Organization still manages theatres throughout the U.S., including the National Theatre in the District.<br/>
+<br/>
+The Shuberts managed the Garrick Theatre, the Belasco Theatre and Poli's Theatre in the District from the 1910s to the 1930s. After examining the programs from these three theatres, it is assumed that the Garrick Theatre ceased in existence around 1925. By that year, the Shuberts produced one program for both the Belasco Theatre and Poli's Theatre.</p>
     </bioghist>
     <custodhist id="aspace_2430aa3576d2e2e19591b197a62061f6">
       <head>Custodial History</head>
-      <p>The collection was accessioned into the DC Community Archives in 1998; however, evidence shows that it had been a part of the Archives for some time prior to 1997. The donor is unknown.</p>
+      <p>The collection was accessioned into the Library in 1998. However, documentation indicates that it had been a part of the Archives before 1997. The donor is unknown.</p>
     </custodhist>
+    <processinfo id="aspace_e981c5b7a5d241cb3ee985c827c63f9c">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_964f448c147dbb500eae405a5464ad9e">
+      <head>Related Materials</head>
+      <p>Artificial and Ephemeral Collection (Collection 60)<br/>
+Violet Lowens DC Culture Collection (Collection 90)<br/>
+David Kiefer Theatre Collection (Collection 118)</p>
+    </relatedmaterial>
     <scopecontent id="aspace_8a5b0d9005f491b275a2e2d03eccda8f">
       <head>Scope and Contents</head>
-      <p>This collection consists of five bound volumes of financial records from the Shubert Garrick Theatre and the Shubert Belasco Theatre. These records show the expenses and financial reports for various productions from 1918 to 1934.</p>
+      <p>This collection consists of five bound volumes of financial records from the Shubert-Garrick Theatre and the Shubert-Belasco Theatre. These records show the expenses and financial reports for various productions from 1918 to 1934.</p>
     </scopecontent>
+    <userestrict id="aspace_3b9dcdf4e55fd9927da2b4ffac84b737">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85099818" source="Library of Congress Subject Headings">Performing Arts</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85000413" source="Library of Congress Subject Headings">Account books</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85134578" source="Library of Congress Subject Headings">Theatres</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_e7516ca442fa5d23bc1d100b737b2026" level="series">
@@ -63,112 +106,112 @@
           <did>
             <unittitle>Bound Volume - Shubert-Garrick Weekly Statements</unittitle>
             <unitdate normal="1918-01/1919-05" type="inclusive">January 1918-May 1919</unitdate>
-            <container id="aspace_c42c9823cbe1f5680d1de7f3d6d83812" label="mixed materials" type="Box">1</container>
-            <container id="aspace_adc06ce4f348a905abb6b59cea857673" parent="aspace_c42c9823cbe1f5680d1de7f3d6d83812" type="Folder">1</container>
+            <container id="aspace_a92adec0e7e51267d1535591e1882f07" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c30547de9bfc79838bf40223fe293982" parent="aspace_a92adec0e7e51267d1535591e1882f07" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_9a9d6d741d7dd6482eace3ce12694c80" level="file">
           <did>
             <unittitle>Bound Volume - Shubert-Garrick Weekly Statements</unittitle>
             <unitdate normal="1919-10/1920-05" type="inclusive">October 1919-May 1920</unitdate>
-            <container id="aspace_6d3038e0cf5a7812ee628d63be8cba13" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c7790700806989582901c59594fe00eb" parent="aspace_6d3038e0cf5a7812ee628d63be8cba13" type="Folder">2</container>
+            <container id="aspace_79dc44be1c757c3a240d755a3edb21dd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9b08a8920126e5f471840e913a7556e0" parent="aspace_79dc44be1c757c3a240d755a3edb21dd" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_2e9ba2e2bc44a33940afea0be2a96677" level="file">
           <did>
             <unittitle>Bound Volume - Shubert-Garrick Weekly Statements</unittitle>
             <unitdate normal="1920-09/1921-05" type="inclusive">September 1920-May 1921</unitdate>
-            <container id="aspace_740518d01697dc943f433c043c98fbc0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_8b4611ca97a0d8eec5aafa5c5ff301d0" parent="aspace_740518d01697dc943f433c043c98fbc0" type="Folder">3</container>
+            <container id="aspace_3648240b76ea6a1a9843f61009156b96" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e22d405e5a1d958dccf6246ee8b6a063" parent="aspace_3648240b76ea6a1a9843f61009156b96" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_311fafb6aabb9aa836e83661f081ce0a" level="file">
           <did>
             <unittitle>Bound Volume - Shubert Advanced Vaudeville Circuit Inc.</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_592e415669179caa005d5a5b2962ed4f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1e55bf6d1a8ea4e23968479365460cb5" parent="aspace_592e415669179caa005d5a5b2962ed4f" type="Folder">4</container>
+            <container id="aspace_94b10cca794daf095dd56ce3a3c87cde" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_584c4631f24a5faa20d9cddb7857bdd1" parent="aspace_94b10cca794daf095dd56ce3a3c87cde" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_d9d2190bc9d4257cda4e834a0ae85ff2" level="file">
           <did>
             <unittitle>Bound Volume - Shubert-Belasco Weekly Statements</unittitle>
             <unitdate normal="1921-10/1922-04" type="inclusive">October 1921-April 1922</unitdate>
-            <container id="aspace_53dad972c651a6b300e9df9fad7bb197" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9089199336cc5b73b4fc1c651562d616" parent="aspace_53dad972c651a6b300e9df9fad7bb197" type="Folder">5</container>
+            <container id="aspace_a9df1496601388e119926e6035bb8f68" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d8ede8ac8506ccc89f6b75d6bf9119af" parent="aspace_a9df1496601388e119926e6035bb8f68" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_c347c0b15d250cc528a9de27c9be291d" level="file">
           <did>
             <unittitle>Bound Volume - Shubert-Belasco Weekly Statements</unittitle>
             <unitdate normal="1925-09/1926-06" type="inclusive">September 1925-June 1926</unitdate>
-            <container id="aspace_8cb49d27f0c4b536ffffafb818076552" label="mixed materials" type="Box">1</container>
-            <container id="aspace_128e163c8f0e2d82de8fc1ee893f6ad1" parent="aspace_8cb49d27f0c4b536ffffafb818076552" type="Folder">6</container>
+            <container id="aspace_f2fe4f8e5abb9e43a3adbe2144edc563" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3a30f33b7bc418cb37b58953326084ab" parent="aspace_f2fe4f8e5abb9e43a3adbe2144edc563" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_56df1d5b4ddcf49b42469fbfd8b50d89" level="file">
           <did>
             <unittitle>Programs - Garrick</unittitle>
             <unitdate normal="1919/1924" type="inclusive">1919-1924</unitdate>
-            <container id="aspace_f6ef2355a48a472978b667de0c78afa5" label="mixed materials" type="Box">2</container>
-            <container id="aspace_65c94c3be9d8aa2ccc7863cb079bc74c" parent="aspace_f6ef2355a48a472978b667de0c78afa5" type="Folder">1</container>
+            <container id="aspace_db16ca86f3c9fa46ea4f5352e59e30c7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ae3c3da766dc21cd2609d93d84659adf" parent="aspace_db16ca86f3c9fa46ea4f5352e59e30c7" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_7c99366a3bfdeb041b10eba0c6236ea0" level="file">
           <did>
             <unittitle>Programs - Garrick</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_2b781feec05ea877c07edbeb8a2396ae" label="mixed materials" type="Box">2</container>
-            <container id="aspace_f3f50bf55459454a1e39553205787d5c" parent="aspace_2b781feec05ea877c07edbeb8a2396ae" type="Folder">2</container>
+            <container id="aspace_9d299736b9bb0a44cbde636dcdd6070a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_738c71c67a8e42f290134c117aa615b8" parent="aspace_9d299736b9bb0a44cbde636dcdd6070a" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_8ea852aec225508b55b06f947d7fe605" level="file">
           <did>
             <unittitle>Account Book - Belasco</unittitle>
             <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
-            <container id="aspace_95229e3545d7a3dd2fe60c4a424bc52c" label="mixed materials" type="Box">2</container>
-            <container id="aspace_3e82a837181efaa20acc8d84b9bdd3b5" parent="aspace_95229e3545d7a3dd2fe60c4a424bc52c" type="Folder">3</container>
+            <container id="aspace_7d06fa289ec9e03f9d10b983e7be833e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d697f33de6972ec114b26e93039a7e0a" parent="aspace_7d06fa289ec9e03f9d10b983e7be833e" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_9502845f677a186e362d514ce41e4dc2" level="file">
           <did>
             <unittitle>Checks - Belasco</unittitle>
             <unitdate normal="1928/1934" type="inclusive">1928-1934</unitdate>
-            <container id="aspace_8fd71b51d03299035fcc95fb2f9b055a" label="mixed materials" type="Box">2</container>
-            <container id="aspace_2e490573a2c589f33f8b48c8c522aae2" parent="aspace_8fd71b51d03299035fcc95fb2f9b055a" type="Folder">4</container>
+            <container id="aspace_c7010d9f8400830ee5d63fe1c4921c8e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b2354bef388edd980f47536b4fb3f48f" parent="aspace_c7010d9f8400830ee5d63fe1c4921c8e" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_49c548162fa9cdd237678400ecae176a" level="file">
           <did>
             <unittitle>Film Contracts - Belasco</unittitle>
             <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
-            <container id="aspace_28585104bdcf125a2a5ed4506fda5e1a" label="mixed materials" type="Box">2</container>
-            <container id="aspace_86576289703cd80a6f906041307aa8c8" parent="aspace_28585104bdcf125a2a5ed4506fda5e1a" type="Folder">5</container>
+            <container id="aspace_3a4e49b459e5e750d4bd3a7662c00f95" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4d85239031385b268c7d732ecdb179b2" parent="aspace_3a4e49b459e5e750d4bd3a7662c00f95" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_5afc4b7956b42bceb4090e07df67d7c3" level="file">
           <did>
             <unittitle>Programs - Belasco</unittitle>
             <unitdate normal="1923/1924" type="inclusive">1923-1924</unitdate>
-            <container id="aspace_2f481e525c030e0bf758b4ae5edc4228" label="mixed materials" type="Box">2</container>
-            <container id="aspace_94810a7c6f8413cf90c418222d9c3a1a" parent="aspace_2f481e525c030e0bf758b4ae5edc4228" type="Folder">6</container>
+            <container id="aspace_49dc8bd81cd625b922f0e80fb538ec5b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_be20434fd1a696d17d7433a85ef0bd56" parent="aspace_49dc8bd81cd625b922f0e80fb538ec5b" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_07abf65e593634694a9731ec90a3ae70" level="file">
           <did>
             <unittitle>Ticket Stubs - Belasco</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_03864d18f3e72bd9ac5f2973f4988786" label="mixed materials" type="Box">2</container>
-            <container id="aspace_8347e0ee87fe515570e37f084c027271" parent="aspace_03864d18f3e72bd9ac5f2973f4988786" type="Folder">7</container>
+            <container id="aspace_2d19d9a4d02eca094a4a7f8b480a35eb" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9c8db49ac018f20c36b6a4754ab91ef4" parent="aspace_2d19d9a4d02eca094a4a7f8b480a35eb" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_9c62e06e30ef67b0c73099eedbdef22a" level="file">
           <did>
             <unittitle>Weekly Statements - Belasco</unittitle>
             <unitdate normal="1928-12/1929-11" type="inclusive">December 1928-November 1929</unitdate>
-            <container id="aspace_56b832423a67728a798d3128b15e1ff7" label="mixed materials" type="Box">2</container>
-            <container id="aspace_08254e5a791340ddb1491b5d26765ecf" parent="aspace_56b832423a67728a798d3128b15e1ff7" type="Folder">8</container>
+            <container id="aspace_ac3a7e36d0e7d54c8941b3d70b371554" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_72aabacb56e639cb217d5dd7c558bdf7" parent="aspace_ac3a7e36d0e7d54c8941b3d70b371554" type="Folder">8</container>
           </did>
         </c>
       </c>

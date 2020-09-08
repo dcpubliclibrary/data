@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Washington Navy Yard Photograph Collection</titleproper>
-        <titleproper>Washington Navy Yard <num>P018</num> <num>P018</num></titleproper>
+        <titleproper>Washington Navy Yard <num>P018</num></titleproper>
         <subtitle>An inventory of the Washington Navy Yard Photograph Collection at DC Public Library</subtitle>
         <author>Finding aid prepared by Mark S. Greek.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2006-05</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-10-25 23:59:53 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:56:19 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-04-21</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,36 +38,45 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Washington Navy Yard Photograph Collection</unittitle>
       <unitid>P018</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 box</extent>
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.1 Linear feet</extent>
       </physdesc>
       <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
-      <langmaterial id="aspace_a58a4e0c6f8408ee33a6652405761221">English</langmaterial>
       <langmaterial id="aspace_db66faf13924530e9fc8100c0fc29e2a">English</langmaterial>
     </did>
+    <arrangement id="aspace_7e6cee08cd4ca0bcce8f3e0e9d7387cd">
+      <head>Arrangement</head>
+      <p>Processed at item level without series.</p>
+    </arrangement>
     <bioghist id="aspace_e910c50705365a59d4be4b17ba43cff9">
       <head>Biographical / Historical</head>
-      <p>The Washington Navy Yard was established in 1799 and is one of the Navy's oldest shore establishments. The Yard was the Navy's largest shipbuilding facility until the British burned it during the War of 1812. After the war the Yard never regained its prominence as a shipbuilding facility due to the shallow waters of the Anacostia River. In 1866 the Yard was designated as an ordnance manufacturing center and by the start of World War II it was the largest ordnance facility in the world. At its peak the Navy Yard consisted of 188 buildings on 126 acres and employed over 25,000 people. In 1964 the Yard was redesignated. Today the Yard houses a variety of activities, serving as the headquarters of the Naval District Washington, Naval Historical Center and Museum, and the home of numerous support activities for the fleet and aviation communities.</p>
+      <p>The Washington Navy Yard was established in 1799 and is one of the United States Navy's oldest shore establishments. The Yard was the Navy's largest shipbuilding facility until the British burned it during the War of 1812. After the war the Yard never regained its prominence as a shipbuilding facility due to the shallow waters of the Anacostia River. In 1866 the Yard was designated as an ordnance manufacturing center and by the start of World War II it was the largest ordnance facility in the world. At its peak the Yard consisted of 188 buildings on 126 acres and employed over 25,000 people. In 1964 the Yard was redesignated. Today the Yard houses a variety of activities, serving as the headquarters of the Naval District Washington, Naval Historical Center and Museum, and the home of numerous support activities for the fleet and aviation communities.</p>
     </bioghist>
     <custodhist id="aspace_f981fc1bf59dd7859a24eb7c95ff1ec1">
       <head>Custodial History</head>
-      <p>There is no deed of gift and it is uncertain as to how the library acquired these photographs.</p>
+      <p>There is no deed of gift and it is uncertain as to how the Library acquired these photographs.</p>
     </custodhist>
     <processinfo id="aspace_8cab6313b74fbc64ce9cfd8f8c501d64">
       <head>Processing Information</head>
-      <p>The images were removed from their original housing. Each image was assigned a number and placed in an individual polypropylene sleeve. The images were then placed in an acid-free folder and stored in an archival storage box. The box was then placed in the DC Community Archives for long-term storage.</p>
+      <p>The images were removed from their original housing. Each image was assigned a number and placed in an individual polypropylene sleeve. The images were then placed in an acid-free folder and stored in an archival storage box for long-term storage.</p>
     </processinfo>
     <scopecontent id="aspace_2f211085ce9d92b736797a9558ffb9ec">
       <head>Scope and Contents</head>
-      <p>The collection consists of thirty-one 3.5x5 and thirty 8x10 images of buildings 137 (General Foundry) and 167 (Boiler Makers shop) in the Washington Naval Yard complex. The smaller images are interior and exterior views of buildings, while the 8x10 images are reproductions of architectural blueprints. From the automobiles in the pictures it appears that the images were taken around 1975.</p>
+      <p>The collection consists of 31 3.5x5 inch and 30 8x10 inch images of buildings 137 (General Foundry) and 167 (Boiler Makers shop) in the Washington Navy Yard complex. The smaller images are interior and exterior views of buildings and the larger images are reproductions of architectural blueprints.</p>
     </scopecontent>
     <controlaccess>
       <geogname authfilenumber="http://id.loc.gov/authorities/subjects/sh85139803" source="lcsh">United States -- Armed Forces</geogname>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85017769" source="Library of Congress Subject Headings">Buildings</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090447" source="Library of Congress Subject Headings">Navy-yards and naval stations</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_5d15f06e6ec2e1f8ee22f3c48b7cf4d3" level="series">
@@ -67,488 +87,488 @@
           <did>
             <unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_8e6282fa0b54b6e82d6ad1c48b4c8ab5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_780185d4dabf67158a2c5280d8a26533" parent="aspace_8e6282fa0b54b6e82d6ad1c48b4c8ab5" type="Folder">1</container>
+            <container id="aspace_dc72ac119dfad59417aa3166db6151cf" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_87337482f1c2b388fdd421f796d1bab7" parent="aspace_dc72ac119dfad59417aa3166db6151cf" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_92fc1979aa5a1c99d029a6d201092adc" level="file">
           <did>
             <unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_2a4cbea3885c14731cace18254841e2c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b59aadc4c0c6d995ecfe0722c2d66c62" parent="aspace_2a4cbea3885c14731cace18254841e2c" type="Folder">2</container>
+            <container id="aspace_6fadc76274fc66242d796857010cdf68" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_42131f6cc08dd6153a553c14da1b399f" parent="aspace_6fadc76274fc66242d796857010cdf68" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_bdfb0d3a31473218937813a5cfcc40d4" level="file">
           <did>
             <unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_cbc0b2655fd66f6be36f2c656b151bb0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e14b14d3e0e07602d678846ab5e11ac2" parent="aspace_cbc0b2655fd66f6be36f2c656b151bb0" type="Folder">3</container>
+            <container id="aspace_2dffab8a947b09eed487ea6a1dad3972" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3710593be089a1dc153f8fee728b7fd3" parent="aspace_2dffab8a947b09eed487ea6a1dad3972" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_4728b031057c65deedab927540a4b2c5" level="file">
           <did>
             <unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_9314689156cf6d5d5c544b06ed7a49cc" label="mixed materials" type="Box">1</container>
-            <container id="aspace_dc9090bf27c21de7ec900ba3a1593042" parent="aspace_9314689156cf6d5d5c544b06ed7a49cc" type="Folder">4</container>
+            <container id="aspace_078df18334284f8e6f303888bd43ad2a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_730709c9dd4b2129ffcf069d9e0a81a9" parent="aspace_078df18334284f8e6f303888bd43ad2a" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_44b04106585b77153428be91a6c9f471" level="file">
           <did>
             <unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_2f17aed9d2cff812252cf54cb7af184b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_fb0bf5b9a7d70929fa47868200f89b05" parent="aspace_2f17aed9d2cff812252cf54cb7af184b" type="Folder">5</container>
+            <container id="aspace_8167645062586753bfca539f54f18ef3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_295f649bee76643f4b6662376e075b62" parent="aspace_8167645062586753bfca539f54f18ef3" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_6355ae96aac6e073777f7b52829f00da" level="file">
           <did>
             <unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_29d6edb9a6d4567582f7e761be7922d5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5950262ad0cc07ff6dbc73043c4a800d" parent="aspace_29d6edb9a6d4567582f7e761be7922d5" type="Folder">6</container>
+            <container id="aspace_d71349ab685d07aca382f75cda608a69" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_587ed7dcd4cfbd64e3bdfdb325dc6cba" parent="aspace_d71349ab685d07aca382f75cda608a69" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_bef17cc3be7794469377641b7827910e" level="file">
           <did>
             <unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_b3c0a9858b5fce56425aecbdc51a3428" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ae49cab9985ccf29468e61322f3351f3" parent="aspace_b3c0a9858b5fce56425aecbdc51a3428" type="Folder">7</container>
+            <container id="aspace_e17c450fd716475d538a11a492bec74d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c9ddd363089011d224e0c0fc32ea9466" parent="aspace_e17c450fd716475d538a11a492bec74d" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_324a8eb8bbb0786b46d0bb72501f5faf" level="file">
           <did>
             <unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_221fb6d2683145016691679cdaa32cb1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0c00718cb15747b1eb3db06990c988ea" parent="aspace_221fb6d2683145016691679cdaa32cb1" type="Folder">8</container>
+            <container id="aspace_9510018f49de6f2aa1dae382cdf872c4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c7d5b963d94ee5d7b2d3812914cf6799" parent="aspace_9510018f49de6f2aa1dae382cdf872c4" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_7a9777bca74529560bb93dcc64f82fcc" level="file">
           <did>
             <unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_3a93cfa61e274ff825e1f59c15188d0e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9e25ab89b1fe789ea709bab8f99c5a3a" parent="aspace_3a93cfa61e274ff825e1f59c15188d0e" type="Folder">9</container>
+            <container id="aspace_a21746f4c9e742b4002fb1efe3b76e9b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5de2119d5abc8d213fb20959cf3d43f6" parent="aspace_a21746f4c9e742b4002fb1efe3b76e9b" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_526aef828a186de6b298a32b7d0873b3" level="file">
           <did>
             <unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_37af830cb629fe19f8479d13540f89c8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9cf182d7c137510d3dcf87cb026ebfe8" parent="aspace_37af830cb629fe19f8479d13540f89c8" type="Folder">10</container>
+            <container id="aspace_76688cc94a619cc236d461cc60299226" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_80ae2ee487e9668b7433067e89f5e049" parent="aspace_76688cc94a619cc236d461cc60299226" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_de84c3d22ea70a5001ef1fa9056a31b0" level="file">
           <did>
             <unittitle>Exterior of Building 137 – General Foundry and Laboratory</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_bd1462ea94e3efd8b899f8d2024110fd" label="mixed materials" type="Box">1</container>
-            <container id="aspace_6cb726b6749891e03fb484cd66176a05" parent="aspace_bd1462ea94e3efd8b899f8d2024110fd" type="Folder">11</container>
+            <container id="aspace_687a603b943abc85abe1ce4ae10283ba" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6f62d588ab33c6513579760828369bc7" parent="aspace_687a603b943abc85abe1ce4ae10283ba" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_a05c2aebbe430c4fef1dd3e4d7af277f" level="file">
           <did>
             <unittitle>Interior of Building 137 – General Foundry and Laboratory</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_5cb65ee414bb71c2ce5ce9448f28ded3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2c6f5bbd7e09694827ead19c80596e74" parent="aspace_5cb65ee414bb71c2ce5ce9448f28ded3" type="Folder">12</container>
+            <container id="aspace_4bc6bdec028a483b6453377ce3365575" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0d1828875f98c1d12a7c7bfdadfa22e7" parent="aspace_4bc6bdec028a483b6453377ce3365575" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_2a2c8252086d4caf15841e4f8a42d583" level="file">
           <did>
             <unittitle>Interior of Building 137 – General Foundry and Laboratory</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_94d0355e113f59302141ffddd167bcbe" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9fc1e1e3a538961281cee330a924290d" parent="aspace_94d0355e113f59302141ffddd167bcbe" type="Folder">13</container>
+            <container id="aspace_9a051ea9f541fa0051f6dcfac6ab30ec" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_af911b3d231b9937cf7a0fa1a2498154" parent="aspace_9a051ea9f541fa0051f6dcfac6ab30ec" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_03f82abb5e89cbf787d4e81e3365790c" level="file">
           <did>
             <unittitle>Interior of Building 137 – General Foundry and Laboratory</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_99b46cb43cb014fde9781807da711334" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4134c9cf53b0268da04ac2655838a728" parent="aspace_99b46cb43cb014fde9781807da711334" type="Folder">14</container>
+            <container id="aspace_9fc03c66a0f52545c227ac353ac89e62" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f300b2bfc880d961f0e5655f8d9b6877" parent="aspace_9fc03c66a0f52545c227ac353ac89e62" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_f1a1c533ab5562b3cde6b369eaf9111c" level="file">
           <did>
             <unittitle>Interior of Building 137 – General Foundry and Laboratory</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_9427ff5e5293d78817475d9c6da27e37" label="mixed materials" type="Box">1</container>
-            <container id="aspace_66b176503aa7410131d636fe166ce187" parent="aspace_9427ff5e5293d78817475d9c6da27e37" type="Folder">15</container>
+            <container id="aspace_05d5f0a6a8f09c6e5937cf1d7acab91b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7ba66610d9603e8c57eb6a4a7ae1d381" parent="aspace_05d5f0a6a8f09c6e5937cf1d7acab91b" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_06e7f51f46de957a3f5458ee9103f2a0" level="file">
           <did>
             <unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_b28e1c5818310028d0e4dede07c70999" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b4b76b75a07c671068380c998bc8ab43" parent="aspace_b28e1c5818310028d0e4dede07c70999" type="Folder">16</container>
+            <container id="aspace_c184bdce85a859d4a6e60beec75342a7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6a7a431e48c9fb8b3f8475eec11a2074" parent="aspace_c184bdce85a859d4a6e60beec75342a7" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_d7edb19765bb33b8d09373a320deea93" level="file">
           <did>
             <unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_f508e5424f0f10b9f0805b2ec03d468b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e415265b2101064643d06aa785a0430f" parent="aspace_f508e5424f0f10b9f0805b2ec03d468b" type="Folder">17</container>
+            <container id="aspace_0e0fcf71f12f6b6133a491611108aa04" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b9580debf7b1895cef3b29205442edd6" parent="aspace_0e0fcf71f12f6b6133a491611108aa04" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_18aaa0fac9d30c93747b641dbfa68afe" level="file">
           <did>
             <unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_59e8e24c39bb7061548f641bf3e99cb7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ac6453c37ccc4edfc2fc91a033b66f10" parent="aspace_59e8e24c39bb7061548f641bf3e99cb7" type="Folder">18</container>
+            <container id="aspace_b9fe9d6bc3a751101f1fcdb792074470" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3c604b51f45436c02a146ce3a00206aa" parent="aspace_b9fe9d6bc3a751101f1fcdb792074470" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_00c5f1365a4c5db51437c5b6798314ea" level="file">
           <did>
             <unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_21f337c5b0cfdb6ee679e4915f9a1dbf" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1084d87a45a34c85417811a466e10047" parent="aspace_21f337c5b0cfdb6ee679e4915f9a1dbf" type="Folder">19</container>
+            <container id="aspace_82d0272fdfbeb133f4ca920e1cf02bef" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_591f3dc0ae2b2e664d71f867525f1753" parent="aspace_82d0272fdfbeb133f4ca920e1cf02bef" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_ce28b70e1f4d718e3bb46ff64c8bd064" level="file">
           <did>
             <unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_97435ffdbfca08ae3de968c5fdd9ca5f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_654c6782e39a906586ac4adc5660a9eb" parent="aspace_97435ffdbfca08ae3de968c5fdd9ca5f" type="Folder">20</container>
+            <container id="aspace_8b107e6f06d44a5cdda0a93c372c41e0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1a38ddc1f6b5e3ffd5ca7b0963e0aaad" parent="aspace_8b107e6f06d44a5cdda0a93c372c41e0" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_6e79d3c1c4a31ceb0dd35784b069c4db" level="file">
           <did>
             <unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_08f4c1148be4bb7e04e84fe242993363" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2428e9dd899f57e4653824101b433a43" parent="aspace_08f4c1148be4bb7e04e84fe242993363" type="Folder">21</container>
+            <container id="aspace_5cc4f18bfa454faed072c34d4be24af8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_672fcac6857f5bf5cb9d0517ed15a194" parent="aspace_5cc4f18bfa454faed072c34d4be24af8" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_87d042b28d146748098210223c936c47" level="file">
           <did>
             <unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_7569523e204119230693f628dec6b9e6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e68367f509a9bb07ebc323ac61b521c1" parent="aspace_7569523e204119230693f628dec6b9e6" type="Folder">22</container>
+            <container id="aspace_1dba3b64dc63032691ffa8ffdc670bf9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_10f4727fee29e3c60e4ad0c6a3107c88" parent="aspace_1dba3b64dc63032691ffa8ffdc670bf9" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_9862d2f4d970198360701f814221beb7" level="file">
           <did>
             <unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e6f942569ec7fc2d76b629662e8fa723" label="mixed materials" type="Box">1</container>
-            <container id="aspace_db9728de07e2fc495d5659374282f64e" parent="aspace_e6f942569ec7fc2d76b629662e8fa723" type="Folder">23</container>
+            <container id="aspace_53f119a23478190e716ceb5bdf310561" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e10b6bc895cc15ab1771901b9b96ab58" parent="aspace_53f119a23478190e716ceb5bdf310561" type="Folder">23</container>
           </did>
         </c>
         <c id="aspace_7ef5d39819212d4ede7e25e2ac779698" level="file">
           <did>
             <unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_4e4413bc920bcdb64c6e378070e3890a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_177c952b7eb7e623802487c71fa236e6" parent="aspace_4e4413bc920bcdb64c6e378070e3890a" type="Folder">24</container>
+            <container id="aspace_a90f9d95be262058bcc92e191b77e573" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e18e6688ee52df30e49b3c0aa381b58c" parent="aspace_a90f9d95be262058bcc92e191b77e573" type="Folder">24</container>
           </did>
         </c>
         <c id="aspace_682a7284b8189f6dbeb2d5908f97be62" level="file">
           <did>
             <unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_b08ca9caa6c8a67918c6a94d797c7b6d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b96539ad65703fec92f1d5de4eacc682" parent="aspace_b08ca9caa6c8a67918c6a94d797c7b6d" type="Folder">25</container>
+            <container id="aspace_16686e3908d3f967f14f71ebf7adae84" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3bc8753e655715cb7225243bb524148b" parent="aspace_16686e3908d3f967f14f71ebf7adae84" type="Folder">25</container>
           </did>
         </c>
         <c id="aspace_5428476a600293d0facbf78d495d89bb" level="file">
           <did>
             <unittitle>Exterior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_2ad49818150f5c41ee7816f56a073011" label="mixed materials" type="Box">1</container>
-            <container id="aspace_eb37e6bd00431e7f01d7832df4f01a29" parent="aspace_2ad49818150f5c41ee7816f56a073011" type="Folder">26</container>
+            <container id="aspace_1aed6b6afebf1b5f2f6d67eabcc74d22" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ddcab8d5673751d453556162f61e7cf1" parent="aspace_1aed6b6afebf1b5f2f6d67eabcc74d22" type="Folder">26</container>
           </did>
         </c>
         <c id="aspace_f255c5ab9184fd663a8d64d8493b9910" level="file">
           <did>
             <unittitle>Interior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_bf15965974a652746a43dafb1ddfcc12" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5fd8c8d7fbc047645a8b89d65486271c" parent="aspace_bf15965974a652746a43dafb1ddfcc12" type="Folder">27</container>
+            <container id="aspace_1fc99c56df2e39b7d57eb8019a8d263e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_10b3380aeb2376e3987337d98bc76e57" parent="aspace_1fc99c56df2e39b7d57eb8019a8d263e" type="Folder">27</container>
           </did>
         </c>
         <c id="aspace_158c66855b295bc73f9f2dc8d79f2a76" level="file">
           <did>
             <unittitle>Interior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_0fbdf78dc3e1b2d27b50d58a1402d789" label="mixed materials" type="Box">1</container>
-            <container id="aspace_91b8eb45a02a2ee2cbbdb10b45e8dd02" parent="aspace_0fbdf78dc3e1b2d27b50d58a1402d789" type="Folder">28</container>
+            <container id="aspace_df9140d931ca6855ed0eb98d3ad2f06f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b985ae51456d570eaae3de3351d4a0ff" parent="aspace_df9140d931ca6855ed0eb98d3ad2f06f" type="Folder">28</container>
           </did>
         </c>
         <c id="aspace_810f09d26fc04925e1b3f07e65c488f6" level="file">
           <did>
             <unittitle>Interior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_6c3636eb6c5b0408bb4a877a9175fef2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_349187cbb25ee927d9be6f4445168a86" parent="aspace_6c3636eb6c5b0408bb4a877a9175fef2" type="Folder">29</container>
+            <container id="aspace_bd6c26273797c5cf5d38b83a66010ae8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4cdfa5c1f56674fc14f9ff6900f9a162" parent="aspace_bd6c26273797c5cf5d38b83a66010ae8" type="Folder">29</container>
           </did>
         </c>
         <c id="aspace_12ab2e3ea20dedc180c8091c276f9c2f" level="file">
           <did>
             <unittitle>Interior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_bf2d36e9c0f7d5ee37f6696044563cf2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e17d875c95bc1af4c00755895628a66d" parent="aspace_bf2d36e9c0f7d5ee37f6696044563cf2" type="Folder">30</container>
+            <container id="aspace_6dd0161ae74bbf513f1503359bc57994" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5093e2b1f8fcafdbabe086ca595fd972" parent="aspace_6dd0161ae74bbf513f1503359bc57994" type="Folder">30</container>
           </did>
         </c>
         <c id="aspace_655876e87e04590fdcab8659cfacd98a" level="file">
           <did>
             <unittitle>Interior of Building 167 - Boiler Makers shop</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c6f12ee539656ad37bfa90ec65d41e1c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1590279492bb58794931e12519aa7f66" parent="aspace_c6f12ee539656ad37bfa90ec65d41e1c" type="Folder">31</container>
+            <container id="aspace_6cfc9d4b9682308a64d1ffff45b10dd9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8e9f9a5e66a8635c4b2c1631736fc0cf" parent="aspace_6cfc9d4b9682308a64d1ffff45b10dd9" type="Folder">31</container>
           </did>
         </c>
         <c id="aspace_b7896e0a8dbbed775d2ae9d20db8b396" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Foundation plan</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_58d8cff1ad2c3a4b85e34dc976ef86ec" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1f68c049b5639699ba66efa8311cabee" parent="aspace_58d8cff1ad2c3a4b85e34dc976ef86ec" type="Folder">32</container>
+            <container id="aspace_4fd04ed5bf14d107f9ea0cf17644baa1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_95edd0d6ac99cb5d8cd679e4cb5fa711" parent="aspace_4fd04ed5bf14d107f9ea0cf17644baa1" type="Folder">32</container>
           </did>
         </c>
         <c id="aspace_526503f9046f4eed95d5374ffac7bb30" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Interior foundation plan</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_8a6939a2c481d17f77ddd9fec9e4f0e0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7972e4ebcb87d3d7f20c331c5c36b592" parent="aspace_8a6939a2c481d17f77ddd9fec9e4f0e0" type="Folder">33</container>
+            <container id="aspace_6ec949b8b633e9e621dd4c2e957093a4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1c680404847b5b8280c2db0a5df129f4" parent="aspace_6ec949b8b633e9e621dd4c2e957093a4" type="Folder">33</container>
           </did>
         </c>
         <c id="aspace_9086b35b52f2777be2ec621e09620f3a" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Detail of casting pits</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c5a597f942a709fad70f46b1d751dc7c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_df9876c60bfa8ffcc55fe8ba633977d9" parent="aspace_c5a597f942a709fad70f46b1d751dc7c" type="Folder">34</container>
+            <container id="aspace_5e43e3103c9f775a45675e83e66e3dd0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_01bdc2d1eb882259c2ab3e84df438bc3" parent="aspace_5e43e3103c9f775a45675e83e66e3dd0" type="Folder">34</container>
           </did>
         </c>
         <c id="aspace_caa14fe92f15dd729fcf182b7255e9d9" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Foundation and framing plans</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_3a5bb2a6c0ef252e8da4bebd7ec25df1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_456516b7639ae67274e18b6e60460190" parent="aspace_3a5bb2a6c0ef252e8da4bebd7ec25df1" type="Folder">35</container>
+            <container id="aspace_faa3d9e2dbfbd77a425c266a797f0c88" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c711782d2d8be029e7da631adeef4610" parent="aspace_faa3d9e2dbfbd77a425c266a797f0c88" type="Folder">35</container>
           </did>
         </c>
         <c id="aspace_ee64e6c2345e36b23b778079c9ffc242" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Foundation plan for crucible furnaces</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_13773a318dfd0ca79de6060761db3959" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7de4393340601fc975c47f70201e6273" parent="aspace_13773a318dfd0ca79de6060761db3959" type="Folder">36</container>
+            <container id="aspace_c5c22270f59ddf432c8fdd6c335d490d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ccd003bafec2f9f68bc7affec071953b" parent="aspace_c5c22270f59ddf432c8fdd6c335d490d" type="Folder">36</container>
           </did>
         </c>
         <c id="aspace_ce6e2dc8864ed718ff9bbd1ce0eb0ed2" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Crane runway cols.</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_0b22f00eb251ed3a7eb5dad60af4b30d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_67fe5a3b13650d1676efcc5beaba61a6" parent="aspace_0b22f00eb251ed3a7eb5dad60af4b30d" type="Folder">37</container>
+            <container id="aspace_a04f08600c0b90f9f2f819604ba54bf2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5253fa8c70faa87d14fe8bb8204dba04" parent="aspace_a04f08600c0b90f9f2f819604ba54bf2" type="Folder">37</container>
           </did>
         </c>
         <c id="aspace_f32bc8bc59efcd0f1206e59b30fafb52" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Addition to general foundry</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_981c8c3f2a8ed0b1c85b53e9571e95b6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0f4b4ce3531d64852411f5b89d5eedea" parent="aspace_981c8c3f2a8ed0b1c85b53e9571e95b6" type="Folder">38</container>
+            <container id="aspace_b30e032d0401834bcbb9be9b601f83ae" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d77ef2d3b9fe62102bd264bb57e16447" parent="aspace_b30e032d0401834bcbb9be9b601f83ae" type="Folder">38</container>
           </did>
         </c>
         <c id="aspace_df7f3fc3736a2d674285cbcba0b3c48b" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Trusses</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_222886e61563366251848dd4b1319f09" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4d50d5408a96837f8bbf7893ce17be87" parent="aspace_222886e61563366251848dd4b1319f09" type="Folder">39</container>
+            <container id="aspace_40fe5224e3fc280b06e863be907f28b0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8878120702a263cf3a1ebff323aa33b4" parent="aspace_40fe5224e3fc280b06e863be907f28b0" type="Folder">39</container>
           </did>
         </c>
         <c id="aspace_865d5327e6580f8a3c980c7979bb3283" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Longitudinal trusses</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_3abdd31e772cf5a267cb27f13d5272ad" label="mixed materials" type="Box">1</container>
-            <container id="aspace_09fa873222763513b240f7363c49057e" parent="aspace_3abdd31e772cf5a267cb27f13d5272ad" type="Folder">40</container>
+            <container id="aspace_477797c275fb8a2623666e80d9ce7bad" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_64b35194e9d4706633d184c3f6782098" parent="aspace_477797c275fb8a2623666e80d9ce7bad" type="Folder">40</container>
           </did>
         </c>
         <c id="aspace_102b4185041818ffef317c3c1f5b4932" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Columns</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_f970813b7edb75fdee3bc2510f811bc9" label="mixed materials" type="Box">1</container>
-            <container id="aspace_90d1a6aaa19f1b3f6ac7a6a409c34fa6" parent="aspace_f970813b7edb75fdee3bc2510f811bc9" type="Folder">41</container>
+            <container id="aspace_6363ef400353bb63436b99effe76376b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2759c2bbafa32ff47d13749075f62ee9" parent="aspace_6363ef400353bb63436b99effe76376b" type="Folder">41</container>
           </did>
         </c>
         <c id="aspace_a98e21f874d8978d30cb9cf9e714df9d" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Making diagram</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_680d1a54827d0817fbf85057079f00ff" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a0a3acae790e626cbdfc1fec28f9f178" parent="aspace_680d1a54827d0817fbf85057079f00ff" type="Folder">42</container>
+            <container id="aspace_fce6224a65933d5685b55442e3be8908" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_51124cecc4264f4c8a0ce3804df5df03" parent="aspace_fce6224a65933d5685b55442e3be8908" type="Folder">42</container>
           </did>
         </c>
         <c id="aspace_748f75d04bae8657063827795618739e" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Annealing furnace No 12 foundation plan</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_007795f171ba5a2915b45e4705bd12bd" label="mixed materials" type="Box">1</container>
-            <container id="aspace_cdbf5c392d88b5b00d4c01c72307656d" parent="aspace_007795f171ba5a2915b45e4705bd12bd" type="Folder">43</container>
+            <container id="aspace_cb17fab47fecbab966f9232fe17ddc25" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a9b38839ca7eaa907002013eeef73b00" parent="aspace_cb17fab47fecbab966f9232fe17ddc25" type="Folder">43</container>
           </did>
         </c>
         <c id="aspace_c10813daa1f631c0ef1c1ea2dc3108d2" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Hopper and casting for sand conveyor</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_85af0fd6c2adf0bef272fe978482f774" label="mixed materials" type="Box">1</container>
-            <container id="aspace_177b0338f3cf26272d36b96368717d82" parent="aspace_85af0fd6c2adf0bef272fe978482f774" type="Folder">44</container>
+            <container id="aspace_266d1d29fae3f2b03839bd2627684b6c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a0b4f35f7465cbd0a62ebee04dd0b43a" parent="aspace_266d1d29fae3f2b03839bd2627684b6c" type="Folder">44</container>
           </did>
         </c>
         <c id="aspace_d25afc29a6716c4d89181ca01395850f" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Showing material bins</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_954f56160a4b8479feaefe75649dda73" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ba5cb486084a6c162f880cfcde9c3e81" parent="aspace_954f56160a4b8479feaefe75649dda73" type="Folder">45</container>
+            <container id="aspace_93cabf84efd360f0939ce9b1fdd14f8d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7abd0fd687536e4dbd1fb2a842be4f50" parent="aspace_93cabf84efd360f0939ce9b1fdd14f8d" type="Folder">45</container>
           </did>
         </c>
         <c id="aspace_4da7ff27d95f5b73193e1c213145957b" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Column foundation enlargement</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_45783b7269e1f9bf4d2e21bf5739365b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_dcd9377b9adeff16cf3cfcb4237bf51d" parent="aspace_45783b7269e1f9bf4d2e21bf5739365b" type="Folder">46</container>
+            <container id="aspace_d337aec9fe0569b450350ea057a5ba96" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5aab916a3541b8b2b92780fe689b6e7e" parent="aspace_d337aec9fe0569b450350ea057a5ba96" type="Folder">46</container>
           </did>
         </c>
         <c id="aspace_8284317cc68df708cfff4fe5a3c04fd5" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Jib crane for core setting</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_abd4b1535a1149ad63eeb7761a15c4e0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_be057a58437fc5bb566dbd71fc25e972" parent="aspace_abd4b1535a1149ad63eeb7761a15c4e0" type="Folder">47</container>
+            <container id="aspace_df8b137f63f8ec2b4da4f75293b66348" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f2382ddd796555aeb3a6b9a6d16fdf3b" parent="aspace_df8b137f63f8ec2b4da4f75293b66348" type="Folder">47</container>
           </did>
         </c>
         <c id="aspace_fe55401558ca0573624719a6b6a010f8" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Enlargement of north door</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_fb4520515636477d625eb971d10e1e56" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0d738549ea490a26696ccdd340145944" parent="aspace_fb4520515636477d625eb971d10e1e56" type="Folder">48</container>
+            <container id="aspace_f76fb174eff6727d6066bc5d9adbab2b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b57b0d9d9ec2d36ab16462eae5538552" parent="aspace_f76fb174eff6727d6066bc5d9adbab2b" type="Folder">48</container>
           </did>
         </c>
         <c id="aspace_5aaa99fd17efd7fdb3d3ad9f94443910" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Building alterations/sandblast equipment</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c9ecfe7cf507df9113f78d857e05e849" label="mixed materials" type="Box">1</container>
-            <container id="aspace_194c465865e60f852dcbe9d0f5e59e8b" parent="aspace_c9ecfe7cf507df9113f78d857e05e849" type="Folder">49</container>
+            <container id="aspace_fdd086aadf951887402dac5a7fd236e9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_479ccf63b2480285f604a0b2799817fe" parent="aspace_fdd086aadf951887402dac5a7fd236e9" type="Folder">49</container>
           </did>
         </c>
         <c id="aspace_a6914a649e85c4cb899b75071bf4555b" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – 25R electric furnace</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_4288c2314a4ad9bae06602da23714bec" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ba08950815911c4fa894a59000710dde" parent="aspace_4288c2314a4ad9bae06602da23714bec" type="Folder">50</container>
+            <container id="aspace_e17c06ad581cd5e2e1b5a4a06797ca3e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3bdde0140d6c93a78c67ef1824aa92ab" parent="aspace_e17c06ad581cd5e2e1b5a4a06797ca3e" type="Folder">50</container>
           </did>
         </c>
         <c id="aspace_1808486b4cd8e66c522165c717d2551f" level="file">
           <did>
             <unittitle>Architectural drawing of building 137 – Floor plan</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_7045994c976e81f0cb8db046974c6fe3" label="mixed materials" type="Box">1</container>
-            <container id="aspace_19c464108297f855ec61cabc5314726f" parent="aspace_7045994c976e81f0cb8db046974c6fe3" type="Folder">51</container>
+            <container id="aspace_f76703a090923557a0c2ab76638876b1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c3fb5236fef694db3b65f283ddd726d9" parent="aspace_f76703a090923557a0c2ab76638876b1" type="Folder">51</container>
           </did>
         </c>
         <c id="aspace_dd655159740e1fc275c0418b69c27041" level="file">
           <did>
             <unittitle>Architectural drawing of building 167 – General design</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_8365911141e52768ed5adb382b7cef40" label="mixed materials" type="Box">1</container>
-            <container id="aspace_09634812b70e259130cdbf5c6af26432" parent="aspace_8365911141e52768ed5adb382b7cef40" type="Folder">52</container>
+            <container id="aspace_4d617f3230671e0680f8f965532c8df2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_88ed81b422f4aeb33ceef7ba59ecc8dd" parent="aspace_4d617f3230671e0680f8f965532c8df2" type="Folder">52</container>
           </did>
         </c>
         <c id="aspace_7e181b20ebfa02c658512ebe233a6300" level="file">
           <did>
             <unittitle>Architectural drawing of building 167 – Location and foundations for equipment</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_b7c746b5014d793f169feab025f2a95c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_203a49d34f1d2ee7a61ce7e8f93cd9f3" parent="aspace_b7c746b5014d793f169feab025f2a95c" type="Folder">53</container>
+            <container id="aspace_55613e582fde7d8051199c0d42dd61f6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d5c8fd12891b8debe4785f18ad073557" parent="aspace_55613e582fde7d8051199c0d42dd61f6" type="Folder">53</container>
           </did>
         </c>
         <c id="aspace_f946449bfcf287e02e1d19440a1c6718" level="file">
           <did>
             <unittitle>Architectural drawing of building 167 – Supports for jib cranes</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_58bfc3f70ca072024a3060a48af670e6" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ab1f5d21633dc6e2b3943fe0445e6595" parent="aspace_58bfc3f70ca072024a3060a48af670e6" type="Folder">54</container>
+            <container id="aspace_718b1f523f105f0f2e024ccb91d1a6f3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_590d9d92de32b9473d12238b0c24e864" parent="aspace_718b1f523f105f0f2e024ccb91d1a6f3" type="Folder">54</container>
           </did>
         </c>
         <c id="aspace_448656162f1abb17ded38ff7d7c19d62" level="file">
           <did>
             <unittitle>Architectural drawing of building 167 – New sliding door in east end</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_b9b69eff958e391be55462de2b0b1880" label="mixed materials" type="Box">1</container>
-            <container id="aspace_3b058ba12e375a81a9f3ef11b3ef954f" parent="aspace_b9b69eff958e391be55462de2b0b1880" type="Folder">55</container>
+            <container id="aspace_b87b69ccd40ee9b94077728ba8b29b10" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_dbe30ac26923d3e1f47943fc0f792885" parent="aspace_b87b69ccd40ee9b94077728ba8b29b10" type="Folder">55</container>
           </did>
         </c>
         <c id="aspace_94bd36a2dbd0c0316ba30368ff38a7e1" level="file">
           <did>
             <unittitle>Architectural drawing of building 167 – Crane door operating gear</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c0b2b192e1dcf70b199f9294b934de16" label="mixed materials" type="Box">1</container>
-            <container id="aspace_69e033653090663bb6ff91bcb4ac44e6" parent="aspace_c0b2b192e1dcf70b199f9294b934de16" type="Folder">56</container>
+            <container id="aspace_3019c0407f4a71b8af1fba2f801004a4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e6b389fa36f1c91ac844babbd2c166cc" parent="aspace_3019c0407f4a71b8af1fba2f801004a4" type="Folder">56</container>
           </did>
         </c>
         <c id="aspace_b58c9ae06ec7491f12ce4ca267357b6b" level="file">
           <did>
             <unittitle>Architectural drawing of building 167 – Extension-sewer, water, air and R.R. tracks</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_fc0e73648e1f3e3f578d9eab7644b46b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_41d73e05181f0e048d56503f17e8f491" parent="aspace_fc0e73648e1f3e3f578d9eab7644b46b" type="Folder">57</container>
+            <container id="aspace_e8a04626844c0194273c6fef5eef1cb7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fe9db641fa474e3cb07e85d1398cddf5" parent="aspace_e8a04626844c0194273c6fef5eef1cb7" type="Folder">57</container>
           </did>
         </c>
         <c id="aspace_283959e5ce95a4ee5a516c7b02392058" level="file">
           <did>
             <unittitle>Architectural drawing of building 167 – Extension heating and electric work</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_eaffcfba7c4d3aa52a800412267cf5bb" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9583ef859f126ac4d6661a96fead25bd" parent="aspace_eaffcfba7c4d3aa52a800412267cf5bb" type="Folder">58</container>
+            <container id="aspace_e9b4ef3159e314e2b17eec4cbef126b8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c0bf1afcb4cee764d989cc47bd441b42" parent="aspace_e9b4ef3159e314e2b17eec4cbef126b8" type="Folder">58</container>
           </did>
         </c>
         <c id="aspace_e41974195f9606a4b704fd86f077170e" level="file">
           <did>
             <unittitle>Architectural drawing of building 167 – Shelter for stress relieving furnace</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_c9366089b6de08648224e02b632700f5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e68f40a2415e5c452ceb43c74e01a26e" parent="aspace_c9366089b6de08648224e02b632700f5" type="Folder">59</container>
+            <container id="aspace_4b124b853f98ecd69a3397aa0191a6b2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e4ff2df48418cd8f7308c8a870bf96ae" parent="aspace_4b124b853f98ecd69a3397aa0191a6b2" type="Folder">59</container>
           </did>
         </c>
         <c id="aspace_4892b2094c2f6ddb2991b3da7d7a4a21" level="file">
           <did>
             <unittitle>Architectural drawing of building 167 – Ventilating plan and section</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e439571adf4393be178f8f4ac32cb7fd" label="mixed materials" type="Box">1</container>
-            <container id="aspace_8e96a444c7d4e080a5b22169226a1f28" parent="aspace_e439571adf4393be178f8f4ac32cb7fd" type="Folder">60</container>
+            <container id="aspace_be25d90f6e8b43c701ad9576578e9144" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b36376842135070b5b7e4689d094cc1f" parent="aspace_be25d90f6e8b43c701ad9576578e9144" type="Folder">60</container>
           </did>
         </c>
         <c id="aspace_94da08ad029939518f67e54eff2678fb" level="file">
           <did>
             <unittitle>Architectural drawing of building 167 – Proposed enclosure of crane runway</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_27d391e6da3ebee5e8249419b883bd0b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_493a169fae1c89cc449f5d4fbd3b0f4f" parent="aspace_27d391e6da3ebee5e8249419b883bd0b" type="Folder">61</container>
+            <container id="aspace_7b0ef0f881056125c92deeed13a870b1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f78152891a6d014b7aefead9f57bf195" parent="aspace_7b0ef0f881056125c92deeed13a870b1" type="Folder">61</container>
           </did>
         </c>
       </c>

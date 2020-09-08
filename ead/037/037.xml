@@ -4,19 +4,24 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Mt. Pleasant Neighbors Association/Historic Mt. Pleasant Records</titleproper>
-        <titleproper>Mt. Pleasant Neighbors Association/Historic Mt. Pleasant <num>037</num> <num>037</num></titleproper>
+        <titleproper>Mt. Pleasant Neighbors Association/Historic Mt. Pleasant <num>037</num></titleproper>
         <subtitle>An inventory of Mt. Pleasant Neighbors Association/Historic Mt. Pleasant at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:03:51 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:31:06 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -27,15 +32,20 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Mt. Pleasant Neighbors Association/Historic Mt. Pleasant Records</unittitle>
+      <origination label="creator">
+        <corpname source="local">Mount Pleasant Neighborhood Association</corpname>
+      </origination>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n99031201" source="LCSH">Historic Mount Pleasant, Inc.</corpname>
+      </origination>
       <unitid>037</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">0.6 linear feet; 2 boxes</extent>
       </physdesc>
       <unitdate type="inclusive">1959-1964; 1985-1996</unitdate>
-      <langmaterial id="aspace_db22206823efd66bdfd20ea75f3f3d5d">English</langmaterial>
       <langmaterial id="aspace_29c776b58ed5ac545ffbc16c7da8028b">English</langmaterial>
     </did>
     <custodhist id="aspace_157dbc98890a5d8f1860a12f5c8e7080">
@@ -44,7 +54,7 @@
     </custodhist>
     <scopecontent id="aspace_cb7b6b4892ce224125da68c988c53d62">
       <head>Scope and Contents</head>
-      <p>Records from the Mount Pleasant Neighbors Association extend from August 5, 1959 to August 24, 1964. The collection contains, primarily, correspondence, testimonials, membership guidelines, and information about club activities and campaigns. Records for the non-profit, Historic Mount Pleasant, cover the years 1985 through 1996. Items in the collection include membership guidelines and information on the Mount Pleasant Revolving Loan Funds.</p>
+      <p>Records from the Mount Pleasant Neighbors Association extend from August 5, 1959 to August 24, 1964.  The collection contains, primarily, correspondence, testimonials, membership guidelines, and information about club activities and campaigns.  Records for the non-profit, Historic Mount Pleasant, cover the years 1985 through 1996.  Items in the collection include membership guidelines and information on the Mount Pleasant Revolving Loan Funds.</p>
     </scopecontent>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
@@ -59,232 +69,232 @@
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Clean-Up Program and Brochures</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_c27ddfadf715178cdc88763f899d4cc2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_97b2df3a1b783f75d5469d46cf682c0a" parent="aspace_c27ddfadf715178cdc88763f899d4cc2" type="Folder">1</container>
+            <container id="aspace_ba0771532aaeaec7b54587c8f84bcdcc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0c527c2a44d977bab7075e62628618b7" parent="aspace_ba0771532aaeaec7b54587c8f84bcdcc" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_a441a01387abed53ea374f2440b53413" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Clean-Up Program and Brochures</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_8aa60566cb4b9f33c77018a125739270" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5ee48ec6972e45575d6761dccb8779f3" parent="aspace_8aa60566cb4b9f33c77018a125739270" type="Folder">2</container>
+            <container id="aspace_5f95d9d3d48e2c9a3cdc458ebb5743b9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_73e2d70c766432dbe8dee2a189f4844e" parent="aspace_5f95d9d3d48e2c9a3cdc458ebb5743b9" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_6a212453737caac54b0e12c3173316b5" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Clean-Up Program and Brochures</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_a11201a907362b56ef271f35630d201a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d45f542e1be4d3c62e14127769b4f576" parent="aspace_a11201a907362b56ef271f35630d201a" type="Folder">3</container>
+            <container id="aspace_ed17cce15a9b872d292f912a5f8aad55" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_80c0e2a0bba875b5f443ef24744562fb" parent="aspace_ed17cce15a9b872d292f912a5f8aad55" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_44ffe544c2c30f8dfd48a301b8077cd3" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Clippings</unittitle>
             <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
-            <container id="aspace_4a898ea3a96af2414bdf93b18e5add1f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b38f5aa2d02d6cf20e2564e505d894a6" parent="aspace_4a898ea3a96af2414bdf93b18e5add1f" type="Folder">4</container>
+            <container id="aspace_f4967d4cb9078fe2c38f9cfa6cb3e060" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7535c076fe3bdf507de58975fde3d439" parent="aspace_f4967d4cb9078fe2c38f9cfa6cb3e060" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_a0770cfc29521575a4c00f4202dde1ff" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Correspondence to the Neighborhood Association</unittitle>
             <unitdate normal="1959/1964" type="inclusive">1959-1964</unitdate>
-            <container id="aspace_052b8fbf0bc5312fa59e63a4128f3960" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a5babfe7fba7ed0c35cc4b6446577f51" parent="aspace_052b8fbf0bc5312fa59e63a4128f3960" type="Folder">5</container>
+            <container id="aspace_97d199dd91656c9c1a01a649ade62230" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9eb7fe142daf8d88d8e59a034ac53492" parent="aspace_97d199dd91656c9c1a01a649ade62230" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_3c616adc2d5ac9a2bda9cf3c25427b9c" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Day Care for Children of Working Mothers</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_e93a1b57b9dbf0befc07a46ae614125e" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7f1252d0ae19b3f5b030ad33718c7719" parent="aspace_e93a1b57b9dbf0befc07a46ae614125e" type="Folder">6</container>
+            <container id="aspace_fe238390a039b50afc7846f7931067ab" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_26ae32431926049c1af573ae0f9f9da3" parent="aspace_fe238390a039b50afc7846f7931067ab" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_71bfac737434d5338f417a337ba8f8da" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Drafts of Letters</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_2aa96710d340f5e1b6e912bd5e467a9a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_b20f7aa7030add8612f2c43f8358adc2" parent="aspace_2aa96710d340f5e1b6e912bd5e467a9a" type="Folder">7</container>
+            <container id="aspace_94c8601b26b0f12f04e104a3bdf0eda8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d8f2d201f34a4e80ef634c5039b12b9e" parent="aspace_94c8601b26b0f12f04e104a3bdf0eda8" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_3014c6303774c5f2af69e662180c4c35" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Forms and Stationery</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_8cf9398dd081199124b191c2232d03d0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_17271341b0c02ec26f72baa42161eacd" parent="aspace_8cf9398dd081199124b191c2232d03d0" type="Folder">8</container>
+            <container id="aspace_0fa90d0fc2ed0cd7243770f91ebf37d5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_57b0e3ae7057efcfe690065779e9f256" parent="aspace_0fa90d0fc2ed0cd7243770f91ebf37d5" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_83e0cdb959259c9b4dad8d9302f8f330" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Map of Mount Pleasant</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_43345b43342cdecb6572da6eceafb915" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7990840ea49c551a7243c028ce35d2d8" parent="aspace_43345b43342cdecb6572da6eceafb915" type="Folder">9</container>
+            <container id="aspace_b95171abdd71ec9048174aa6f25711b3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b2ca157cea4e9e720ead0f1782f79093" parent="aspace_b95171abdd71ec9048174aa6f25711b3" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_1c194f99df0bcdbd1c3f51845339d578" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Meeting Announcements</unittitle>
             <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
-            <container id="aspace_26f7585f2a284513df8500bcf6749106" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d5146b6db3aea8d6e885974599c5d12a" parent="aspace_26f7585f2a284513df8500bcf6749106" type="Folder">10</container>
+            <container id="aspace_e061d717c247013aeb2af9905ee06f8b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a987348697095ea6c665ee4de7845331" parent="aspace_e061d717c247013aeb2af9905ee06f8b" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_acdd5ec41f0ea8e7622bccff92a7ae9b" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Meeting Sign-In Sheet</unittitle>
             <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container id="aspace_54484a0d24a2fffa72428c0e52abc329" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1363cc4b46258c6b51aea8d8ce6339f4" parent="aspace_54484a0d24a2fffa72428c0e52abc329" type="Folder">11</container>
+            <container id="aspace_42f731763752bbe5c5f92921b551af97" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bd7b045b01834277d6546e95a661e9ad" parent="aspace_42f731763752bbe5c5f92921b551af97" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_7fc869a800e78f923dd20fa775b79f37" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Membership Information</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_7004f2fd87165932e15c3a93cd4c879d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_17c0cd39327c4ed584ec5cd9f3e2add3" parent="aspace_7004f2fd87165932e15c3a93cd4c879d" type="Folder">12</container>
+            <container id="aspace_7dd64efd20a9d0da4968479d9ea0ef5c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9df6b247999aab22e7a0e18af254ba8f" parent="aspace_7dd64efd20a9d0da4968479d9ea0ef5c" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_ac5be1d8fd90451a6684c03a6fa94f56" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Minutes of Meetings</unittitle>
             <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
-            <container id="aspace_8b8d541df9e368a34c5ddd68b1fc810a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_a7158983a506759ed9e5a368814c0f3f" parent="aspace_8b8d541df9e368a34c5ddd68b1fc810a" type="Folder">13</container>
+            <container id="aspace_c604e749af7e3e1f86064076a88e410d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bad70c3402ec5cbdc0f31335b9be9350" parent="aspace_c604e749af7e3e1f86064076a88e410d" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_9fe30985126d85b3d52dca0194c783cb" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Mount Pleasant Artists</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_84716fc49fa9ebc868acb8f15759cab2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5534d3872901757d0302369b409d8a91" parent="aspace_84716fc49fa9ebc868acb8f15759cab2" type="Folder">14</container>
+            <container id="aspace_424580aa1c84fef509ca4f428c1327d1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_66b9ffb4c9e7d36c7baa050031cec08e" parent="aspace_424580aa1c84fef509ca4f428c1327d1" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_b0aa6ea1e41a6a0b45adf05afd644239" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Neighborhood Association Correspondence</unittitle>
             <unitdate normal="1959/1964" type="inclusive">1959-1964</unitdate>
-            <container id="aspace_704babd4d6acef4acb8175b8f7528df5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e11b4d0908b82e555aa5be34980e182f" parent="aspace_704babd4d6acef4acb8175b8f7528df5" type="Folder">15</container>
+            <container id="aspace_9cc4b83e56af4d9ac798b3bd876a4869" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9f4dd46688e55a175fc025f9a3357f23" parent="aspace_9cc4b83e56af4d9ac798b3bd876a4869" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_442affda448433bd0d7532f2179c645e" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Nomination of Committee Officers</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_0b59c375ee1697d9e000566696a4752a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_cbcac87c4d88bc5482866c32959397f2" parent="aspace_0b59c375ee1697d9e000566696a4752a" type="Folder">16</container>
+            <container id="aspace_5280a9a71a7b3664d8e7f6a5badccb23" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_80c0bf71ca48de3ffbc609b58452fa69" parent="aspace_5280a9a71a7b3664d8e7f6a5badccb23" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_23bb920c219ac04024077952000ed86b" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Resolution opposing construction of the "Cross Park Freeway" 1959</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_acfc97688a9a50b62f3bd44397ac3e37" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5127555f1667cc025fc526d5dc89d0a2" parent="aspace_acfc97688a9a50b62f3bd44397ac3e37" type="Folder">17</container>
+            <container id="aspace_0e94c98e8faa78876aac2545e49a4d82" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d28923faa609fb4eff154c82a08321ac" parent="aspace_0e94c98e8faa78876aac2545e49a4d82" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_21dc0d8aa5f374b17003973c8c3b1f2f" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Resolution to develop recreational program</unittitle>
             <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
-            <container id="aspace_dd5b1952545953d9632d2d06530846ae" label="mixed materials" type="Box">1</container>
-            <container id="aspace_12e9c5eb6ab25362a07ba101ab49a81b" parent="aspace_dd5b1952545953d9632d2d06530846ae" type="Folder">18</container>
+            <container id="aspace_016a722a06861bb9edae167ed81b21c6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6b673516557f858fb3133046c6d5fba5" parent="aspace_016a722a06861bb9edae167ed81b21c6" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_0e6a6a5a6c6522e000962d458112e7ab" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Street Car and transportation change-over</unittitle>
             <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container id="aspace_7fbe84084a98d98b30162953f8d47ba5" label="mixed materials" type="Box">1</container>
-            <container id="aspace_aa361423c46c428fe8715d703dacc7b1" parent="aspace_7fbe84084a98d98b30162953f8d47ba5" type="Folder">19</container>
+            <container id="aspace_95bb3dcf504272d5287599f8cce0c6fa" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ece1e721021c0a29c47ffd2752905297" parent="aspace_95bb3dcf504272d5287599f8cce0c6fa" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_8f6c493c43e79c70d7286269f21c2908" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Street Car and transportation change-over</unittitle>
             <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container id="aspace_00fbc40f71e39ed5c3cad552671f2aa2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_09cac6dd83d352402a0efee765468513" parent="aspace_00fbc40f71e39ed5c3cad552671f2aa2" type="Folder">20</container>
+            <container id="aspace_959fc7cfdad8a7dc8b9b210b2af19b92" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ae5515ca25b5179195b2e7bc9d7c4e43" parent="aspace_959fc7cfdad8a7dc8b9b210b2af19b92" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_bcc07a53281f46f552cd8aa4f3b079b8" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Street Car and transportation change-over</unittitle>
             <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container id="aspace_cc2f611b208fc7e927053f3a509f38db" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1332358b394f977e5627d7fb46643a3e" parent="aspace_cc2f611b208fc7e927053f3a509f38db" type="Folder">21</container>
+            <container id="aspace_fd2c2c24295db362d076bf3832c84234" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c095ce362012f784d6fc003026251dcc" parent="aspace_fd2c2c24295db362d076bf3832c84234" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_29266575353d5e71e3cad985c629bc7d" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Street Car and transportation change-over</unittitle>
             <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container id="aspace_8b64830dcc017077710e050bd9a76ac1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f9ff6c466b6395e5d687af688c5865fd" parent="aspace_8b64830dcc017077710e050bd9a76ac1" type="Folder">22</container>
+            <container id="aspace_e20993cfdead28343326c1d52c92b9a9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_76fe2c3f9494c38ef88d94007b05b33c" parent="aspace_e20993cfdead28343326c1d52c92b9a9" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_ca698e7b9d5e20259c964163906c520b" level="file">
           <did>
             <unittitle>Mount Pleasant Neighbors Association - Testimony regarding Home Rule</unittitle>
             <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-            <container id="aspace_edff9240913357d9ae688cf7d57ea16a" label="mixed materials" type="Box">2</container>
-            <container id="aspace_7c59ba88e3eb75df10cde02f31fb5476" parent="aspace_edff9240913357d9ae688cf7d57ea16a" type="Folder">1</container>
+            <container id="aspace_c1eef408180ad6c95f938c7f17fee770" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_801347f87da249fc35e7792e0f9a93c8" parent="aspace_c1eef408180ad6c95f938c7f17fee770" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_02e4965d6d40527aed63c8b6efdeb725" level="file">
           <did>
             <unittitle>Historic Mount Pleasant - Application for the creation of a Mount Pleasant Historic District</unittitle>
             <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <container id="aspace_87e59457ab600fe18b578884a706be5b" label="mixed materials" type="Box">2</container>
-            <container id="aspace_d72ee4edef745731ee19175742863aa2" parent="aspace_87e59457ab600fe18b578884a706be5b" type="Folder">2</container>
+            <container id="aspace_3c2dd1f97b0e9a498f094cf685b05649" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_339e9007ddc917fd7d17c01522890e8c" parent="aspace_3c2dd1f97b0e9a498f094cf685b05649" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_6a2bb0d77954e19bd9de217807b49486" level="file">
           <did>
             <unittitle>Historic Mount Pleasant - Guidelines for Building Permits in the Historic District</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_7c645730820e56c6dd70f6f3faa90d15" label="mixed materials" type="Box">2</container>
-            <container id="aspace_0c6cbac32928295e87abd0b8fe57f208" parent="aspace_7c645730820e56c6dd70f6f3faa90d15" type="Folder">3</container>
+            <container id="aspace_d00abcec0c5e98744a0b4bf1defd8fb0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_12fcc1c3bb2bc00f0b25ceaac6a017f9" parent="aspace_d00abcec0c5e98744a0b4bf1defd8fb0" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_11a8ddc950b7cb8ec0b327dfc00210ca" level="file">
           <did>
             <unittitle>Historic Mount Pleasant - Membership Information</unittitle>
             <unitdate type="inclusive">1985, 1996</unitdate>
-            <container id="aspace_0ef47647da38f2badd0467025efcc894" label="mixed materials" type="Box">2</container>
-            <container id="aspace_49835bc27abb1bfa9af0b8de17db38d6" parent="aspace_0ef47647da38f2badd0467025efcc894" type="Folder">4</container>
+            <container id="aspace_9f02d864e02c77b04ae5bc7bbbaffcbf" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_56bccefd96c52ad49e58c83eaffca0e3" parent="aspace_9f02d864e02c77b04ae5bc7bbbaffcbf" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_aa2497d1132e7b01e3e9006cd7812a84" level="file">
           <did>
             <unittitle>Historic Mount Pleasant - Preservation Briefs</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_336f3980cc3deb0cac6ff2c57a54487f" label="mixed materials" type="Box">2</container>
-            <container id="aspace_7be4da63e1081ab12fd2329fe56b7280" parent="aspace_336f3980cc3deb0cac6ff2c57a54487f" type="Folder">5</container>
+            <container id="aspace_e2716def96fc080e568c2317d844cc57" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8ba0e294a4ef504d75f99bce7d7357ac" parent="aspace_e2716def96fc080e568c2317d844cc57" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ec09ad9da4dc6aacaabd4e0cab32578e" level="file">
           <did>
             <unittitle>Historic Mount Pleasant - Results of Mount Pleasant Planning Workshop</unittitle>
             <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
-            <container id="aspace_0b2d4bbba4caf8e408735e5aefb07cde" label="mixed materials" type="Box">2</container>
-            <container id="aspace_8303162fd3e9c97a4d5287d11d5a5b64" parent="aspace_0b2d4bbba4caf8e408735e5aefb07cde" type="Folder">6</container>
+            <container id="aspace_65b541d2afced49b8cb2446f254d18dd" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_3e5d11b3fa9ade07cf411b603d02488e" parent="aspace_65b541d2afced49b8cb2446f254d18dd" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_9fff6be9357aa21d744e648069ca5f9a" level="file">
           <did>
             <unittitle>Historic Mount Pleasant - Revolving Loan Fund</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_9344717abc064eb63f096879e39aee55" label="mixed materials" type="Box">2</container>
-            <container id="aspace_cd8de273a7a22e7d151d7f3d0ab3b7e0" parent="aspace_9344717abc064eb63f096879e39aee55" type="Folder">7</container>
+            <container id="aspace_446ca220638ff8e0e01d6e6f81683c4f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_11bcb876c5e970605506e99a1f98497b" parent="aspace_446ca220638ff8e0e01d6e6f81683c4f" type="Folder">7</container>
           </did>
         </c>
       </c>

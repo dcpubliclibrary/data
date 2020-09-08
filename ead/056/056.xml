@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Twentieth Century Club Records</titleproper>
-        <titleproper>Twentieth Century Club <num>056</num> <num>056</num></titleproper>
+        <titleproper>Twentieth Century Club <num>056</num></titleproper>
         <subtitle>An inventory of Twentieth Century Club at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:05:53 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:33:04 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-6-29</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,29 +38,49 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Twentieth Century Club Records</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n2007022247" source="LCSH">Twentieth Century Club (Washington, D.C.)</corpname>
+      </origination>
       <unitid>056</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">3 Boxes</extent>
       </physdesc>
       <unitdate normal="1904/1999" type="inclusive">1904-1999</unitdate>
-      <langmaterial id="aspace_e18ef055369d6e877dc0d509a1234ddb">English</langmaterial>
       <langmaterial id="aspace_30143041a48ff9ed0425154181b5ef5d">English</langmaterial>
     </did>
+    <arrangement id="aspace_c55ea1bb714afff5556af9ecd441e89e">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_731819eb3714e170507734d339abc31a">
       <head>Biographical / Historical</head>
-      <p>In April 1890 a group of women members of the All Souls' Unitarian Church at 14th and I Streets met to form the Twentieth Century Club. As stated in its first Constitution, the Club was established "to unite for promotion of liberal thought and philanthropic work in its broad sense." Membership was gained by submission of your name for consideration by the Club's Board. In the 1890s the Club maintained a reading room for boys and girls, improved Work House conditions, and helped establish kindergartens in the DC Public schools. The Club's philanthropic work during the 20th C has supported many local community organizations, including Gallinger/D.C. General Hospital, DC Public Library, WWII home front efforts, DC Public Schools, Crippled Children's Clinic, Children's Hospital, Junior Village, and the Y.W.C.A.</p>
+      <p>In April 1890 a group of women members of the All Souls' Unitarian Church at 14th and I Streets NW met to form the Twentieth Century Club. As stated in its first Constitution, the Club was established "to unite for promotion of liberal thought and philanthropic work in its broad sense." Membership was gained by submission of your name for consideration by the Club's Board. In the 1890s the Club maintained a reading room for boys and girls, improved workhouse conditions, and helped establish kindergartens in the DC Public schools. The Club's work supported many local community organizations, including Gallinger/D.C. General Hospital, DC Public Library, WWII home front efforts, DC Public Schools, Crippled Children's Clinic, Children's Hospital, Junior Village, and the Y.W.C.A.</p>
     </bioghist>
     <custodhist id="aspace_31ebe91ea99d70c60b2773988aa21828">
       <head>Custodial History</head>
+      <p>The materials were removed from the vertical files to ensure preservation.  Other items were donated by Club members.</p>
+    </custodhist>
+    <custodhist id="aspace_f2d605b264594b9fb9e5a48fdfdf57ae">
+      <head>Custodial History</head>
       <p>The materials were removed from the vertical files to ensure preservation. Other items were donated by Club members.</p>
     </custodhist>
+    <processinfo id="aspace_c37b638391ecfe62870a08239760cd16">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
+    </processinfo>
     <scopecontent id="aspace_6e846edf7288d829a510ea3447dcfcea">
       <head>Scope and Contents</head>
       <p>The collection consists of yearbooks, monthly bulletins, by-laws, printed programs, histories of the Club, a few items regarding membership and fundraising, and a handwritten ledger recording the celebration in 1940 of the 50th anniversary of the Club's founding.</p>
     </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85149058" source="Library of Congress Subject Headings">Yearbooks</subject>
+      <genreform source="material_type">Organizational Records</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85005357" source="Library of Congress Subject Headings">Anniversaries</subject>
+    </controlaccess>
     <dsc>
       <c id="aspace_1f9f383955352c9ddc58a4e8ec61b627" level="series">
         <did>
@@ -59,72 +90,72 @@
           <did>
             <unittitle>Bulletins</unittitle>
             <unitdate normal="1930/1999" type="inclusive">1930-1999</unitdate>
-            <container id="aspace_39018532e68011c6567739cb34aed15f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_735675f939fe9fa056e560c2d2008312" parent="aspace_39018532e68011c6567739cb34aed15f" type="Folder">1</container>
+            <container id="aspace_d1634e4a890f37d85b0a85adad2dfd26" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_57d25b9ebbd47ab3b4a3a756cf32b4ff" parent="aspace_d1634e4a890f37d85b0a85adad2dfd26" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_c909efc077b46e01c8fba0013999c278" level="file">
           <did>
             <unittitle>Yearbooks</unittitle>
             <unitdate normal="1908/1993" type="inclusive">1908-1993</unitdate>
-            <container id="aspace_7ce11f2fc74bbb0f5329ae5fa897b0c5" label="mixed materials" type="Box">2</container>
-            <container id="aspace_b61b511c80b3cd987ba36f05c8ebd471" parent="aspace_7ce11f2fc74bbb0f5329ae5fa897b0c5" type="Folder">1</container>
+            <container id="aspace_0505af926db4f64171fb530e237196dd" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_95d85bad8d0852913d742fed3522c006" parent="aspace_0505af926db4f64171fb530e237196dd" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_0cc955ef144a2227f923f777723863b6" level="file">
           <did>
             <unittitle>Yearbooks</unittitle>
             <unitdate normal="1993/1999" type="inclusive">1993-1999</unitdate>
-            <container id="aspace_c9669ab9216d5f21beda6f04148abb87" label="mixed materials" type="Box">3</container>
-            <container id="aspace_ba24bb083f0afb97b2bb621230168a3c" parent="aspace_c9669ab9216d5f21beda6f04148abb87" type="Folder">1</container>
+            <container id="aspace_99c8c6d94b0aea18b4c753151ddac917" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_0f264cae58f47d43c7d9fc0a05f515ec" parent="aspace_99c8c6d94b0aea18b4c753151ddac917" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_62a2e17cc85bd479a5622bd051ed34de" level="file">
           <did>
             <unittitle>By-laws</unittitle>
             <unitdate normal="1904/1992" type="inclusive">1904-1992</unitdate>
-            <container id="aspace_46b8428cbbaa10836816fb168b492a71" label="mixed materials" type="Box">3</container>
-            <container id="aspace_91a8cfc9500eaa49602a36b56aed020f" parent="aspace_46b8428cbbaa10836816fb168b492a71" type="Folder">2</container>
+            <container id="aspace_8047ba5e42bced611322de21f231e215" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f02c22e6150df3a5779e4a9d22a03aa4" parent="aspace_8047ba5e42bced611322de21f231e215" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_928396de49b0b078e7498c0d455c5011" level="file">
           <did>
             <unittitle>Histories</unittitle>
             <unitdate type="inclusive">1940, 1990</unitdate>
-            <container id="aspace_a557a2e9edac2dbf5ac3ba94243145af" label="mixed materials" type="Box">3</container>
-            <container id="aspace_06de5c81bf583131692a0ae0ef763fc0" parent="aspace_a557a2e9edac2dbf5ac3ba94243145af" type="Folder">3</container>
+            <container id="aspace_6aa5408999c5479d727534e5173f280e" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_151cf879ca69c408e1b069defc045705" parent="aspace_6aa5408999c5479d727534e5173f280e" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_7e267eeaea853af7324798e90131f887" level="file">
           <did>
             <unittitle>Membership</unittitle>
             <unitdate normal="1924/1944" type="inclusive">1924-1944</unitdate>
-            <container id="aspace_ec9842f2e71b5f28d6029e6b3b6c592d" label="mixed materials" type="Box">3</container>
-            <container id="aspace_576b54b875fdd82250307c37c2cc2258" parent="aspace_ec9842f2e71b5f28d6029e6b3b6c592d" type="Folder">4</container>
+            <container id="aspace_4304b7268eb9de648ae5d8382784c666" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_a651c88316a87f6304bd1987ec226533" parent="aspace_4304b7268eb9de648ae5d8382784c666" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_6673bec8e584270cf1020ae596e8d9fd" level="file">
           <did>
             <unittitle>Programs</unittitle>
             <unitdate type="inclusive">1925, 1990-1991</unitdate>
-            <container id="aspace_5c426ed2d6380646aecc247c0c4eb79f" label="mixed materials" type="Box">3</container>
-            <container id="aspace_ba21e4ce560e13588ddc26b4e433177a" parent="aspace_5c426ed2d6380646aecc247c0c4eb79f" type="Folder">5</container>
+            <container id="aspace_5f66ec6a92a42837e93e68a1aafe17c7" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_ab0144ab1dede2abe9c7d1f3f407cf40" parent="aspace_5f66ec6a92a42837e93e68a1aafe17c7" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_1889bff553a4b74c9b88a85866f89781" level="file">
           <did>
             <unittitle>Fundraising</unittitle>
             <unitdate normal="1976/1996" type="inclusive">1976-1996</unitdate>
-            <container id="aspace_d61565a46a50b804889545ebe642a669" label="mixed materials" type="Box">3</container>
-            <container id="aspace_de275b72825beb09983f03f73df93452" parent="aspace_d61565a46a50b804889545ebe642a669" type="folder">6</container>
+            <container id="aspace_e96ea91943a48922207ca50bfbcf235f" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_6417abc240a2c575f7918b5b0a691f88" parent="aspace_e96ea91943a48922207ca50bfbcf235f" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_b6803caf46e4373aa2fd2361165d8087" level="file">
           <did>
             <unittitle>A Record of Special Events</unittitle>
             <unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate>
-            <container id="aspace_2d881c799c3e6c89ec4d3c008cccf1b4" label="mixed materials" type="Box">3</container>
-            <container id="aspace_3ac77dba696d3489d558b80654d9ac11" parent="aspace_2d881c799c3e6c89ec4d3c008cccf1b4" type="folder">7</container>
+            <container id="aspace_11a8301fe3d5a1d35f67e03c839f4166" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_e122f4a43186c8147834e04729446711" parent="aspace_11a8301fe3d5a1d35f67e03c839f4166" type="folder">7</container>
           </did>
         </c>
       </c>

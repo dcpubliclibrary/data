@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Washington Housing Association Records</titleproper>
-        <titleproper>Washington Housing Association <num>006</num> <num>006</num></titleproper>
+        <titleproper>Washington Housing Association <num>006</num></titleproper>
         <subtitle>An inventory of Washington Housing Association at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:00:23 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:27:09 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2019-11-22</date>
+        <item>Finding aid revised to be more evergreen. </item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,32 +38,48 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Washington Housing Association Records</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/no99001108" source="LCSH">Washington Housing Association</corpname>
+      </origination>
       <unitid>006</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2 linear feet; 3 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">3 Boxes</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear feet</extent>
       </physdesc>
       <unitdate normal="1953/1961" type="inclusive">1953-1961</unitdate>
-      <langmaterial id="aspace_fad2709da2e9a86ac8ec7f7246d33950">English</langmaterial>
       <langmaterial id="aspace_e283bd3ce400b7b53a5b559ad249d3de">English</langmaterial>
     </did>
+    <arrangement id="aspace_14ce8b6b4f456c526cc63641c04677cc">
+      <head>Arrangement</head>
+      <p>The collection was processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_b1c370071583f7cebe3bc3e1c000b732">
       <head>Biographical / Historical</head>
-      <p>The Washington Housing Association was originally organized in 1933 as the Washington Committee on Housing to improve housing for low-income residents in the District. WHA sponsored the Alley Dwelling Elimination Act of July 1934. Mrs. Charlotte Everett Hopkins, a long-time crusader for the passage of the Act, was instrumental in the formation of WHA. Eleanor Roosevelt served as WHA's honorary chairman, Frederic A. Delano was its first chairman, and John Ihlder, a nationally recognized housing activist, was its first secretary. </p>
-      <p> The Association fought for a sound housing code, to insure construction of low-rent housing, and encourage landlord responsibility to tenants. WHA became the Washington Planning and Housing Association in 1962 and later the Metropolitan Washington Planning and Housing Association. In the 1960s the Association assisted residents dislocated by urban renewal, freeway construction, and downtown development. Find affordable housing.</p>
+      <p>The Washington Housing Association (WHA) was organized in 1933 as the Washington Committee on Housing to improve housing for low-income residents in the District. WHA sponsored the Alley Dwelling Elimination Act of July 1934. Charlotte Everett Hopkins, a long-time crusader for the passage of the Act, was instrumental in the formation of WHA. Eleanor Roosevelt served as WHA's honorary chairman; Frederic A. Delano was the first chairman; and John Ihlder, a nationally recognized housing activist, was the first secretary. WHA fought for a sound housing code, to insure construction of low-rent housing, and encourage landlord responsibility to tenants. WHA became the Washington Planning and Housing Association in 1962 and later the Metropolitan Washington Planning and Housing Association. In the 1960s the Association assisted residents dislocated by urban renewal, freeway construction, and downtown development find affordable housing.</p>
     </bioghist>
-    <custodhist id="aspace_e806458402de7bcef02f147d92f3fc65">
-      <head>Custodial History</head>
-      <p>The records of the Washington Housing Association (WHA) were donated to the Library by Anna S. Miller, a former Executive Director of the WHA.</p>
-    </custodhist>
+    <acqinfo id="aspace_e806458402de7bcef02f147d92f3fc65">
+      <head>Immediate Source of Acquisition</head>
+      <p>The records of the Washington Housing Association (WHA) were donated to the D.C. Public Library by Anna S. Miller, a former Executive Director of the WHA.</p>
+    </acqinfo>
+    <processinfo id="aspace_09444617619bd1226a0a8dbaeb3ef54d">
+      <head>Processing Information</head>
+      <p>Basic archival procedures were used at the time of processing.</p>
+    </processinfo>
     <scopecontent id="aspace_aa7b06636ba1c70f54f8a48be1fc48d6">
       <head>Scope and Contents</head>
-      <p>The records contain primarily monthly reports and newsletters of WHA from 1953 through 1961. In addition, reports and studies prepared or published by WHA regarding housing in the District is found in the records. Testimony and statements submitted to Congress by WHA members on housing issues also appear in the records.</p>
+      <p>The records primarily contain monthly reports and newsletters of the Washington Housing Association (WHA) from 1953 through 1961. Also included are reports and studies prepared or published by WHA ; and testimony and statements submitted to Congress by WHA members on housing issues.</p>
     </scopecontent>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85062603" source="Library of Congress Subject Headings">Housing</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2008106862" source="Library of Congress Subject Headings">Low-income housing -- United States</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008810" source="lcsh">Associations, institutions, etc</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85091572" source="lcsh">Newsletters</subject>
+      <genreform source="material_type">Organizational Records</genreform>
     </controlaccess>
     <dsc>
       <c id="aspace_5145368852026b53f7f470f09b4cd0ea" level="series">
@@ -63,168 +90,168 @@
           <did>
             <unittitle>Interim Report: Landlord-Tenant Court Study</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_85d86074e774e39ce639f0eab38168c1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_0f8a56302e49bbf3f2e5b6663f400759" parent="aspace_85d86074e774e39ce639f0eab38168c1" type="Folder">1</container>
+            <container id="aspace_c0d9f211a73de234d5ce821e08f286dd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ae58c56ec14fe342b4cf9e5a22f54091" parent="aspace_c0d9f211a73de234d5ce821e08f286dd" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_e2623768d48b4fac75fb23fda096eaf5" level="file">
           <did>
             <unittitle>Southwest relocation data</unittitle>
             <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
-            <container id="aspace_12059e64da1c1064715f1fc739468c58" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d06fa8f9f1549315c6e947b08b07169c" parent="aspace_12059e64da1c1064715f1fc739468c58" type="Folder">2</container>
+            <container id="aspace_c040fc37246ccf2d16d8c34f1a506b0d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_836b762ec8e8bdb7f27c4c65395985a0" parent="aspace_c040fc37246ccf2d16d8c34f1a506b0d" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_440a569fd8a9efb8ad2b35104edf0b4b" level="file">
           <did>
             <unittitle>Sick Children-WHA publication</unittitle>
             <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
-            <container id="aspace_cc082c02dcfb84fa1fa914b8a5604c90" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c3c8fb1fce6fbc9045f89a376b090fff" parent="aspace_cc082c02dcfb84fa1fa914b8a5604c90" type="Folder">3</container>
+            <container id="aspace_c9b22b1861442f8436bd87ae60eeff28" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_defa58d7c8bc1d07f174de514ac41352" parent="aspace_c9b22b1861442f8436bd87ae60eeff28" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_7b22fa899c9a2f239a905b92fcc9839c" level="file">
           <did>
             <unittitle>Report on a Study of Condemned Structures</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_b56b480f0948890574841278eb716635" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d973e37013ec6511a9bbdf3949d23e6d" parent="aspace_b56b480f0948890574841278eb716635" type="Folder">4</container>
+            <container id="aspace_75c62ab225ac61691251242bdd14e51a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e84da165a222e969cbc1ec5cc582e7db" parent="aspace_75c62ab225ac61691251242bdd14e51a" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_3639507c2e3ca2852764f658e793b30e" level="file">
           <did>
             <unittitle>Further Views on the Need of a Central Relocation Service</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_65564b0273d6a61ba9045e7525bd32ed" label="mixed materials" type="Box">1</container>
-            <container id="aspace_94ed6b901c89172ee73bf6f629dc34de" parent="aspace_65564b0273d6a61ba9045e7525bd32ed" type="Folder">5</container>
+            <container id="aspace_3b27fdd98576b0b18a0f8f20051e3db8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b32c90754d1b5e4d24ca6ffa9fce53fd" parent="aspace_3b27fdd98576b0b18a0f8f20051e3db8" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_3732f036ee999f8e639991def1021bab" level="file">
           <did>
             <unittitle>Report on Housing Sites</unittitle>
             <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-            <container id="aspace_5ead30701eb5db8c3c5cb50615311e05" label="mixed materials" type="Box">1</container>
-            <container id="aspace_55c4856d5b6718231a0d2f18a9f6726b" parent="aspace_5ead30701eb5db8c3c5cb50615311e05" type="Folder">6</container>
+            <container id="aspace_ab909b0f74adfbc4231a9efbfc9695c4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_366331a8bb5c4b6ad0ae0b09ece7f682" parent="aspace_ab909b0f74adfbc4231a9efbfc9695c4" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_9aef43f7ba99e8e7a0af6983de62ce21" level="file">
           <did>
             <unittitle>Report on Urban Renewal in the District (2 copies)</unittitle>
             <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container id="aspace_b69abc78652dd25eb471af5dd41acea0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_890b5905d1ddbbde76d75ba8b146468a" parent="aspace_b69abc78652dd25eb471af5dd41acea0" type="Folder">7</container>
+            <container id="aspace_41416325ef9473a635335bf312247d46" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_da72e7f70bb55dd2e8cdd56ea604c3be" parent="aspace_41416325ef9473a635335bf312247d46" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_f78e2bdca48634b8033f85c26e82f30e" level="file">
           <did>
             <unittitle>Correspondence to Commissioners from Horsky</unittitle>
             <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
-            <container id="aspace_391a3c81851dcce5e2db1617696e7f1d" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d351193ab884f02791cf17f11cee5b3d" parent="aspace_391a3c81851dcce5e2db1617696e7f1d" type="Folder">8</container>
+            <container id="aspace_675604baca6f3aae7c9d7c6710839b50" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7009a384d3c9b54ea764d1992f65e9f7" parent="aspace_675604baca6f3aae7c9d7c6710839b50" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_c5d82d367f3870da27db68739af8a385" level="file">
           <did>
             <unittitle>Correspondence to Commissioners</unittitle>
             <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-            <container id="aspace_2272e5b4b8475a827b30dc8821855394" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2ca95faaabae99b1a8260884964691ce" parent="aspace_2272e5b4b8475a827b30dc8821855394" type="Folder">9</container>
+            <container id="aspace_967da5574fdda828d25f99ee75984139" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bf6fe52d9488c5b44ac08dec25dede77" parent="aspace_967da5574fdda828d25f99ee75984139" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_f551d52bbdf83850aa42e401fabad01a" level="file">
           <did>
             <unittitle>Statements given by staff of WHA</unittitle>
             <unitdate normal="1954/1955" type="inclusive">1954-1955</unitdate>
-            <container id="aspace_84ede3a6966598137a715f7125c878d0" label="mixed materials" type="Box">1</container>
-            <container id="aspace_826e41f860dd45de17a781ad2c726d00" parent="aspace_84ede3a6966598137a715f7125c878d0" type="Folder">10</container>
+            <container id="aspace_92103b64f20db2ca59ec0a04fc46312d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7111fe48fc186fc99624ffd10a9e23fc" parent="aspace_92103b64f20db2ca59ec0a04fc46312d" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_139756b7861876d2d49bd7cf46ca10a9" level="file">
           <did>
             <unittitle>Statements given by staff of WHA</unittitle>
             <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
-            <container id="aspace_12a44fbe647805128cd1a980b250c4e4" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d2192a369ec5c7cbbacd683843a3231c" parent="aspace_12a44fbe647805128cd1a980b250c4e4" type="Folder">11</container>
+            <container id="aspace_3df6eab8fac3d9b20ddab9ebf8a7cc80" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6a8e8923d85f18288092f6eae8afb3d1" parent="aspace_3df6eab8fac3d9b20ddab9ebf8a7cc80" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_f81cd4b9e79182485268ee7ff4020919" level="file">
           <did>
             <unittitle>Testimony of staff members of WHA</unittitle>
             <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
-            <container id="aspace_012f17b156580109092ca9b87fc91f69" label="mixed materials" type="Box">1</container>
-            <container id="aspace_bd9434ebc91c74b68c60be1537e56eec" parent="aspace_012f17b156580109092ca9b87fc91f69" type="Folder">12</container>
+            <container id="aspace_3ea7eca44019c55ac0d073eb198618d0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_890615dd78d357e56c2642de04d0cb69" parent="aspace_3ea7eca44019c55ac0d073eb198618d0" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_d274835b4defa714f1a48e3b65770466" level="file">
           <did>
             <unittitle>Statements made by staff of WHA</unittitle>
             <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
-            <container id="aspace_ae04f191abef75c765a5025988c8323a" label="mixed materials" type="Box">1</container>
-            <container id="aspace_4039897bc0dce1609d1a564cb9e307c7" parent="aspace_ae04f191abef75c765a5025988c8323a" type="Folder">13</container>
+            <container id="aspace_64408d0ceefce4c636eb9d29b1503608" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_915e9e158ebdb69f1430b7d400bfd105" parent="aspace_64408d0ceefce4c636eb9d29b1503608" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_f796ca7e6e5bae15f0c726473d29f897" level="file">
           <did>
             <unittitle>Testimony of staff of WHA</unittitle>
             <unitdate type="inclusive">January-June 1959</unitdate>
-            <container id="aspace_6801d0e8528567fc0aae798e248c4ec9" label="mixed materials" type="Box">1</container>
-            <container id="aspace_e769f96e2f2ae3e853884c156df68d5a" parent="aspace_6801d0e8528567fc0aae798e248c4ec9" type="Folder">14</container>
+            <container id="aspace_856fc19153f125a530c02aa02189f2bd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d8d1553a1eee92153966119918fbc6f0" parent="aspace_856fc19153f125a530c02aa02189f2bd" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_976e47890239485e760e6fd9cce0d649" level="file">
           <did>
             <unittitle>Statements and testimony given by the staff of WHA</unittitle>
             <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-            <container id="aspace_80c6ed0db66fcf5b5a18a6de71988922" label="mixed materials" type="Box">1</container>
-            <container id="aspace_1ce66ba2b8e9bff36733a9230f6df8e5" parent="aspace_80c6ed0db66fcf5b5a18a6de71988922" type="Folder">15</container>
+            <container id="aspace_8074584e118b8811f4f9787dbe9989c6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0cb78978e70cffa64590cc53307feefc" parent="aspace_8074584e118b8811f4f9787dbe9989c6" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_b79250771646ab73fd62b69a601d20d0" level="file">
           <did>
             <unittitle>Speech of James G. Banks at WHA luncheon meeting</unittitle>
             <unitdate normal="1959-09-30/1959-09-30" type="inclusive">September 30 1959</unitdate>
-            <container id="aspace_f0cddb4e130142db74d32f226b1568b2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_eab6e7e2cec3bc6fface963729fcf283" parent="aspace_f0cddb4e130142db74d32f226b1568b2" type="Folder">16</container>
+            <container id="aspace_81bbceeeb1221713a17caa362c28e776" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6cff25734dd9c5ac4a3ba7af86467f9d" parent="aspace_81bbceeeb1221713a17caa362c28e776" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_96bded24e7db8c64d0205ef8b7be6b90" level="file">
           <did>
             <unittitle>Statements and testimony of staff members of WHA</unittitle>
             <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
-            <container id="aspace_54477914a3f0093246b589b47b939b57" label="mixed materials" type="Box">1</container>
-            <container id="aspace_2f4d205e1fa237fee4f3e76067429838" parent="aspace_54477914a3f0093246b589b47b939b57" type="Folder">17</container>
+            <container id="aspace_2fa4b7bdf7b1ccfba05da16d088b0e01" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f488be16fed6d71142eddaffb07d5443" parent="aspace_2fa4b7bdf7b1ccfba05da16d088b0e01" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_f383888a520ae84838d5a8c3cddfa8fb" level="file">
           <did>
             <unittitle>Statements of WHA staff</unittitle>
             <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container id="aspace_f2466d5233d6a2db3337e1cfcd9cb16c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c4ca1f998c37612dc1632039d131876c" parent="aspace_f2466d5233d6a2db3337e1cfcd9cb16c" type="Folder">18</container>
+            <container id="aspace_1904fdfe11caca72c7058a4013880aee" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cdf90f29411f6c5105e8c25d515de4c5" parent="aspace_1904fdfe11caca72c7058a4013880aee" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_89507f316ac7434ae11036f2b723b14b" level="file">
           <did>
             <unittitle>Listing of activities of WHA</unittitle>
             <unitdate normal="1953/1961" type="inclusive">1953-1961</unitdate>
-            <container id="aspace_1008033c72b0c756dc74c27ba16a398b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d359c4c67e7cb6d296b109669137c1ae" parent="aspace_1008033c72b0c756dc74c27ba16a398b" type="Folder">19</container>
+            <container id="aspace_c12f490eec390c50a081a42e6a73e1f5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3ec6ef401eb872d0fb30279116291a1d" parent="aspace_c12f490eec390c50a081a42e6a73e1f5" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_b69a3de783d7342d2d41bfd01f1e2812" level="file">
           <did>
             <unittitle>Monthly reports (includes 1953 quarterly reports)</unittitle>
             <unitdate normal="1954/1961" type="inclusive">1954-1961</unitdate>
-            <container id="aspace_d8c96ee6644f214b9c5f59ebd6c5adce" label="mixed materials" type="Box">2</container>
-            <container id="aspace_972fdb4de7dfa73e5e8b5afd12a08ee4" parent="aspace_d8c96ee6644f214b9c5f59ebd6c5adce" type="Folder">1</container>
+            <container id="aspace_61e12ffa04f5e6c2475fb529d688e796" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_fe8c94837db1e004e35b5f19fd4ea282" parent="aspace_61e12ffa04f5e6c2475fb529d688e796" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_017a529a16d6375b3bf8e160a88ab431" level="file">
           <did>
             <unittitle>Washington Housing Association Newsletters</unittitle>
             <unitdate normal="1956/1961" type="inclusive">1956-1961</unitdate>
-            <container id="aspace_9e4e053e5706101a0e666fcb64c46079" label="mixed materials" type="Box">3</container>
-            <container id="aspace_b783323d9127a18f23d3ad992bc800f5" parent="aspace_9e4e053e5706101a0e666fcb64c46079" type="Folder">1</container>
+            <container id="aspace_a757abb6bc35dce59db5debbc940009f" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_70d78e40097fe317ec4d153122e5397f" parent="aspace_a757abb6bc35dce59db5debbc940009f" type="Folder">1</container>
           </did>
         </c>
       </c>

@@ -1,16 +1,28 @@
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid/>
+    <eadid url="http://washingtoniana.dclibrary.org">OHP014Local82</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>Service Workers Union - SEIU Local 82 Oral History Project<num>OHP014</num></titleproper>
+        <titleproper type="filing">Service Workers Union - SEIU Local 82 Oral History Project </titleproper>
+        <titleproper>Service Workers Union - SEIU Local 82 Oral History Project  <num>OHP014</num></titleproper>
+        <subtitle>An inventory of Service Workers Union - SEIU Local 82 Oral History Project at DC Public Library</subtitle>
+        <author>DC Public Library, Special Collections</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
+        <p>
+          <date>2020-08-27</date>
+        </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-27 00:02:25 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:53:45 -0400</date>.</creation>
+      <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
   </eadheader>
@@ -20,30 +32,41 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Service Workers Union - SEIU Local 82 Oral History Project</unittitle>
       <unitid>OHP014</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">1.25 Linear feet</extent>
       </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2  Boxes</extent>
+      </physdesc>
       <unitdate normal="1993/1997" type="inclusive">1993-1997</unitdate>
     </did>
-    <acqinfo id="aspace_def27a6550d4081f447fe9d212e81ab7">
-      <head>Immediate Source of Acquisition</head>
-      <p>Service Employees International Local 82 conducted these interviews between 1993 and 1997, and donated the tapes and transcripts to the Library in the late 1990s. There is no deed of gift for this collection, but all interviewee releases are granted to the Library.</p>
-    </acqinfo>
+    <arrangement id="aspace_ad3216f46e67cbe58ef334a36945e8e2">
+      <head>Arrangement</head>
+      <p>Series 1: Transcripts Scope and Contents<br/>
+Materials in this series include transcripts of the interviews. There is no transcript for 14-03. <br/>
+<br/>
+Series 2: Interviews Scope and Contents <br/>
+Materials in this series include master copies of the oral histories on audio cassette. There are two copies for audio recordings 14-07 and 14-11. All others have only one copy. There is no tape for 14-13.</p>
+    </arrangement>
     <bioghist id="aspace_a28e072d57b368b5af34cf0681a20277">
       <head>Biographical / Historical</head>
       <p>The Service Employees International Union has always sought to organize workers in a wide range of occupations. Beginning with janitors and elevator operators when it formed in 1921, SEIU soon added security guards, window cleaners, health care workers, office workers and public sector employees. By 1968, the union represented service workers in over 100 occupations around the nation.</p>
     </bioghist>
+    <custodhist id="aspace_def27a6550d4081f447fe9d212e81ab7">
+      <head>Custodial History</head>
+      <p>Service Employees International Local 82 conducted these interviews between 1993 and 1997, and donated the tapes and transcripts to the Library in the late 1990s. There is no deed of gift for this collection, but all interviewee releases are granted to the Library.</p>
+    </custodhist>
     <processinfo id="aspace_ee7b1c8f50d882a51d28855fa9a5f33d">
       <head>Processing Information</head>
-      <p>After the initial donation to the Library, the transcripts were placed in folders and stored them in a filing cabinet with other oral histories. Tapes were placed a cabinet for patron use. In 2014, the tapes and transcripts were digitized and in 2017 the collection was reprocessed. Transcripts were placed into folders and boxed. Audio cassettes were organized and boxed. All administrative documents, including releases, were placed into the control file. There is no 14-01 tape or transcript for this collection.</p>
+      <p>After the initial donation to the Library, the transcripts were placed in folders and stored in a filing cabinet with other oral histories. Tapes were placed in a cabinet for patron use. In 2014, the tapes and transcripts were digitized and in 2017, the collection was reprocessed. Transcripts were placed into folders and boxed. Audio cassettes were organized and boxed. All administrative documents, including releases, were placed into the control file. There is no 14-01 tape or transcript for this collection.</p>
     </processinfo>
     <scopecontent id="aspace_e0a00444700c888329a68586acc871f9">
       <head>Scope and Contents</head>
-      <p>Between 1993 and 1997, Service Employees International Union Local 82, the DC branch of a union representing mainly custodial workers, conducted a total of 13 oral history interviews with union members as part of the Service Workers' Oral History and Education Project. Interviewees were current and former union members of all ages, some who had taken part in union leadership. Topics include work experiences, union politics, interviewee experiences in union leadership, and health.</p>
+      <p>Between 1993 and 1997, Service Employees International Union Local 82, D.C. branch of a union representing mainly custodial workers, conducted a total of 13 oral history interviews with members as part of the Service Workers' Oral History and Education Project. Interviewees were current and former union members of all ages, and included some who had taken part in union leadership. Topics include work experiences, union politics, interviewee experiences in union leadership, and health.</p>
     </scopecontent>
     <userestrict id="aspace_0d9bedf549834710abce0243be0065b3">
       <head>Conditions Governing Use</head>
@@ -51,6 +74,10 @@
     </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85095238" source="Library of Congress Subject Headings">Oral History</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85136516" source="Library of Congress Subject Headings">Labor unions</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85059518.html" source="Library of Congress Subject Headings">Health</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2002011436" source="Library of Congress Subject Headings">Politics and government</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85120353" source="Library of Congress Subject Headings">Service industries workers</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_ee39aa1391b9e84a9c64aa17fc652aab" level="series">
@@ -65,94 +92,94 @@
           <did>
             <unittitle>Elizabeth Kennedy</unittitle>
             <unitdate normal="1995-08-05/1995-08-05">1995 August 5</unitdate>
-            <container id="aspace_5ab00612b7766a9ba8b3569636eb321a" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_61917fe8d8c3a48343f8dbaedc807601" parent="aspace_5ab00612b7766a9ba8b3569636eb321a" type="Folder">1</container>
+            <container id="aspace_898bdc17142903472ac426cacaca234a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e27b12601d532a3753fd97f9bf70a12a" parent="aspace_898bdc17142903472ac426cacaca234a" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_6309dc062ccae4310d279a5d5188b8a3" level="file">
           <did>
             <unittitle>Fred Arrington</unittitle>
             <unitdate normal="1995-10-07/1995-10-07">1995 October 7</unitdate>
-            <container id="aspace_b63a556250e5866c923ccd6b422e9d23" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_cd6b1b969870fe6f5606504c1f2ea8fb" parent="aspace_b63a556250e5866c923ccd6b422e9d23" type="Folder">2</container>
+            <container id="aspace_1cbf1e2d4d8c7b8865ed95f0b2eae30a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0254c7247387ee3a706bdc1c6816701e" parent="aspace_1cbf1e2d4d8c7b8865ed95f0b2eae30a" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_079c8b1fda2ee31211e0477530d9745e" level="file">
           <did>
             <unittitle>Fred Arrington</unittitle>
             <unitdate normal="1995-10-07/1995-10-07">1995 October 7</unitdate>
-            <container id="aspace_a1066d45af12ef5d251bf5e979d6367a" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_31147fee742f7b93b47e26b910443a92" parent="aspace_a1066d45af12ef5d251bf5e979d6367a" type="Folder">3</container>
+            <container id="aspace_cd3045cfd26b48bdef8de92ab456c419" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d92cd4d25f3f527b58afc6642e2b0f4e" parent="aspace_cd3045cfd26b48bdef8de92ab456c419" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_e7ea49049052b6ac4b8e77a89adf9e99" level="file">
           <did>
             <unittitle>Herbert Thomas</unittitle>
             <unitdate normal="1995-10/1995-10">1995 October</unitdate>
-            <container id="aspace_f88688887e3826ba534349a35ca0305d" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b2b332b19efefeb5f90d63819222757e" parent="aspace_f88688887e3826ba534349a35ca0305d" type="Folder">4</container>
+            <container id="aspace_408d486601f28f395aab2dd04186fd20" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1ec65867fa76974434cc36908d688d4b" parent="aspace_408d486601f28f395aab2dd04186fd20" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_f638ed6802d098367604b9742ada6b10" level="file">
           <did>
             <unittitle>Mary Martin</unittitle>
-            <container id="aspace_0f74e24548795d6df9b6aa666b6cd0b0" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_03f4e5c40f5aa33dc14c83a8ccce32e4" parent="aspace_0f74e24548795d6df9b6aa666b6cd0b0" type="Folder">5</container>
+            <container id="aspace_b89f5a74793e8eee68c395c8c62e1ecd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_16420d362d4fdab8fdc8ad80011af95d" parent="aspace_b89f5a74793e8eee68c395c8c62e1ecd" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_62cfaa7aa7d230979a78c419efdbd2e5" level="file">
           <did>
             <unittitle>Leslie Lane</unittitle>
             <unitdate normal="1995-11-29/1995-11-29">1995 November 29</unitdate>
-            <container id="aspace_82c7253a2218e04e136c683f84fba9ca" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_586c5809fbf7017a93d1203b7b45ab17" parent="aspace_82c7253a2218e04e136c683f84fba9ca" type="Folder">6</container>
+            <container id="aspace_032c94ac6c44428eaeb11af19883f403" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1b7ab558992c591d644ef6dc65375c0f" parent="aspace_032c94ac6c44428eaeb11af19883f403" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_19881687e7ee9a1744ecfcc5b342153e" level="file">
           <did>
             <unittitle>Alta Cook</unittitle>
             <unitdate normal="1995-10-28/1995-10-28">1995 October 28</unitdate>
-            <container id="aspace_22040391f78c25d61a0539334887a8c5" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_59584d8ec12f0fc31f8372f8c40cf3cd" parent="aspace_22040391f78c25d61a0539334887a8c5" type="Folder">7</container>
+            <container id="aspace_89c67f9004b4350efc0ba6bceff05d1c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_641029ed4b6730e75cd0fda31987a519" parent="aspace_89c67f9004b4350efc0ba6bceff05d1c" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_e25bb7516209c596dae47d7e881d8328" level="file">
           <did>
             <unittitle>Louis Bankett</unittitle>
             <unitdate normal="1995-11-03/1995-11-03">1995 November 3</unitdate>
-            <container id="aspace_af182dda28a6b43fba8ea92eff144040" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_0d6987c506909e696382e9b6c254c858" parent="aspace_af182dda28a6b43fba8ea92eff144040" type="Folder">8</container>
+            <container id="aspace_6b83c53a445d3e46f3dfa266e524c106" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_11b6509fb60847ac4fa584aec1126619" parent="aspace_6b83c53a445d3e46f3dfa266e524c106" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_a820d50fee65cd0f3dcc2687bcabe812" level="file">
           <did>
             <unittitle>Jay Nessey</unittitle>
             <unitdate normal="1995-11-13/1995-11-13">1995 November 13</unitdate>
-            <container id="aspace_a93f8d9deecea604a912507ab17b7564" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_2757423aa7990dfa26de3ce6f417bea4" parent="aspace_a93f8d9deecea604a912507ab17b7564" type="Folder">9</container>
+            <container id="aspace_aa9206017e084424036c2f2054c0502c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8b7979cee6f3a3933c87fd538ac7255f" parent="aspace_aa9206017e084424036c2f2054c0502c" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_2dafb90fcbd52b8ad37b415dd32051eb" level="file">
           <did>
             <unittitle>Arline Neal</unittitle>
             <unitdate normal="1995-06-10/1995-06-10">1995 June 10</unitdate>
-            <container id="aspace_cbdcd8e297822b443d9ed5d775a50fb1" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_4e7308d030ec89aa2a893ac211e431af" parent="aspace_cbdcd8e297822b443d9ed5d775a50fb1" type="Folder">10</container>
+            <container id="aspace_f407b329eeb91bb201df29ebac8deba9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9a8d36bc2f67f5de1a410548cb989451" parent="aspace_f407b329eeb91bb201df29ebac8deba9" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ef5197141bfb6027b317874409b85a3d" level="file">
           <did>
             <unittitle>Teresa Rivera</unittitle>
-            <container id="aspace_06c39fc48d3b381b82a6fa680851e19c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_c0121597a3fa5ce3186ae85900706f33" parent="aspace_06c39fc48d3b381b82a6fa680851e19c" type="Folder">11</container>
+            <container id="aspace_f1f899d8740f42c6c1cfd11a581497fc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fe15a8866e7941e65ee28bd418f1af60" parent="aspace_f1f899d8740f42c6c1cfd11a581497fc" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_67d1ff1fcdc1064dc2ac1d35019d8e99" level="file">
           <did>
             <unittitle>Marion Lewis</unittitle>
             <unitdate normal="1997-02-17/1997-02-24" type="inclusive">1997 February 17-1997 February 24</unitdate>
-            <container id="aspace_744078bd2e26ab816e38702a23e6d9d0" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e283cdbd4008dfd311fc1db72457b3bf" parent="aspace_744078bd2e26ab816e38702a23e6d9d0" type="Folder">12</container>
+            <container id="aspace_e54dbeb11a3bdc9e339e6b1fc34177d2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7a6603cb3b40de18241858954a958638" parent="aspace_e54dbeb11a3bdc9e339e6b1fc34177d2" type="Folder">12</container>
           </did>
         </c>
       </c>
@@ -168,118 +195,118 @@
           <did>
             <unittitle>Elizabeth Kennedy</unittitle>
             <unitdate normal="1995-08-05/1995-08-05">1995 August 5</unitdate>
-            <container id="aspace_839c3526ecf252aa079af79f18677fbc" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_93a24827d5dd845f0d8b3b0a7a53b333" parent="aspace_839c3526ecf252aa079af79f18677fbc" type="Folder">14-02</container>
+            <container id="aspace_f04985771f25e1e65dd1238860198658" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5378765723a5c88dff686649bd6811e0" parent="aspace_f04985771f25e1e65dd1238860198658" type="Folder">14-02</container>
           </did>
         </c>
         <c id="aspace_5e9b83dcb5d24194ba56644e4f741b6d" level="file">
           <did>
             <unittitle>Elizabeth Kennedy</unittitle>
             <unitdate normal="1995-08-05/1995-08-05">1995 August 5</unitdate>
-            <container id="aspace_157bacc84e10a67782ab770a4e8b335a" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f7421609ff42a79dc4e9c0804fa748cd" parent="aspace_157bacc84e10a67782ab770a4e8b335a" type="Folder">14-02</container>
+            <container id="aspace_032cba520b69dfa4977c17d581569e4d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ff5f16144b7dffa779aa8dfe9b787ec2" parent="aspace_032cba520b69dfa4977c17d581569e4d" type="Folder">14-02</container>
           </did>
         </c>
         <c id="aspace_656384fd113e4fc840ed9ca169938c2e" level="file">
           <did>
             <unittitle>Myrna Mobley</unittitle>
             <unitdate normal="1995-09-30/1995-09-30">1995 September 30</unitdate>
-            <container id="aspace_237fdb53e1bda3aeb1f485cfbb40a9bc" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_d9f4b46771d322a3218b6f3e262cfdc6" parent="aspace_237fdb53e1bda3aeb1f485cfbb40a9bc" type="Folder">14-03</container>
+            <container id="aspace_36b953ad38c76c9abe125386bd48f191" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9ffd887b96b5aafc1638986d757ab9f7" parent="aspace_36b953ad38c76c9abe125386bd48f191" type="Folder">14-03</container>
           </did>
         </c>
         <c id="aspace_ddb41e33fab8101886ef6b97c0509072" level="file">
           <did>
             <unittitle>Fred Arrington</unittitle>
             <unitdate normal="1995-10-07/1995-10-07">1995 October 7</unitdate>
-            <container id="aspace_953b6ee3bd6607afd6d0748cc8d75687" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_46ed88ca9488f8df9a81f45d7bf42d1f" parent="aspace_953b6ee3bd6607afd6d0748cc8d75687" type="Folder">14-04</container>
+            <container id="aspace_d6ab96c5583c59212174f0a1637d18e0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_066c891c0d29c64e977fc0c557af7c04" parent="aspace_d6ab96c5583c59212174f0a1637d18e0" type="Folder">14-04</container>
           </did>
         </c>
         <c id="aspace_1bb13355c194d749a0298f8c652475ae" level="file">
           <did>
             <unittitle>Fred Arrington</unittitle>
             <unitdate normal="1995-10-07/1995-10-07">1995 October 7</unitdate>
-            <container id="aspace_f6d9f952854555d4917a8ba7374edbf5" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_165f571afecdb6885478754b77b7c501" parent="aspace_f6d9f952854555d4917a8ba7374edbf5" type="Folder">14-04</container>
+            <container id="aspace_358c8d19d337a3cd734a715643e948ea" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9408ee8e47ca4202810ec29bcaaceb34" parent="aspace_358c8d19d337a3cd734a715643e948ea" type="Folder">14-04</container>
           </did>
         </c>
         <c id="aspace_b521ba0f66fa5f7394466ddbc97236a2" level="file">
           <did>
             <unittitle>Herbert Thomas</unittitle>
             <unitdate normal="1995-10/1995-10">1995 October</unitdate>
-            <container id="aspace_ad3784c05e2c3b08f5d667afa383a5c3" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_3863566f613c56f37bd7a198afdd0a60" parent="aspace_ad3784c05e2c3b08f5d667afa383a5c3" type="Folder">14-05</container>
+            <container id="aspace_05505aa65fc2b427f87b5bcd217ee2e6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_364b9ce0d3c9f8427bda1bf0646d534e" parent="aspace_05505aa65fc2b427f87b5bcd217ee2e6" type="Folder">14-05</container>
           </did>
         </c>
         <c id="aspace_f880151840f06c7947db7eab5f63f68e" level="file">
           <did>
             <unittitle>Mary Martin</unittitle>
-            <container id="aspace_4fe04c3b7afdde5160384386a97e9d6b" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_3c5892cb7d67ef7ef44dfb49681233a1" parent="aspace_4fe04c3b7afdde5160384386a97e9d6b" type="Folder">14-06</container>
+            <container id="aspace_55d75e11e83821ef3bf856f40e362d31" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d6a18ea54fff8d49cd72f6764e8c85e0" parent="aspace_55d75e11e83821ef3bf856f40e362d31" type="Folder">14-06</container>
           </did>
         </c>
         <c id="aspace_ff88f38e76ebaff4b56a935d292ff84a" level="file">
           <did>
             <unittitle>Leslie Lane</unittitle>
             <unitdate normal="1995-11-29/1995-11-29">1995 November 29</unitdate>
-            <container id="aspace_7b8dc3eb7232af2436b481ca14693395" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_8364a4ff886fc23eae545b1387f39e40" parent="aspace_7b8dc3eb7232af2436b481ca14693395" type="Folder">14-07</container>
+            <container id="aspace_aaecf7dab84d4db46b9714709cba0359" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_40d6aae54e5d139b6e5d9c248a2a1344" parent="aspace_aaecf7dab84d4db46b9714709cba0359" type="Folder">14-07</container>
           </did>
         </c>
         <c id="aspace_c146fc26745958915bb4455962281790" level="file">
           <did>
             <unittitle>Alta Cook</unittitle>
             <unitdate normal="1995-10-28/1995-10-28">1995 October 28</unitdate>
-            <container id="aspace_ebc90fb4f36638ec069d6ac4924bbe9f" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_8f5bd4562fa7417b0f6d4937b34f6a01" parent="aspace_ebc90fb4f36638ec069d6ac4924bbe9f" type="Folder">14-08</container>
+            <container id="aspace_b0cdf9d3e5f47fa7d7a096dd0f2e101c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_080d86bfda46607d0604eb37adb6f205" parent="aspace_b0cdf9d3e5f47fa7d7a096dd0f2e101c" type="Folder">14-08</container>
           </did>
         </c>
         <c id="aspace_b0bd6a2c11d89c4b49b2885a63c9a783" level="file">
           <did>
             <unittitle>Louis Bankett</unittitle>
             <unitdate normal="1995-11-03/1995-11-03">1995 November 3</unitdate>
-            <container id="aspace_d4b85cfa60fa8b23d906f151287d9c5c" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_33d1f8561d0be42a6f972f50a45d4c41" parent="aspace_d4b85cfa60fa8b23d906f151287d9c5c" type="Folder">14-09</container>
+            <container id="aspace_a167758039270ded205b0c72bb5a682d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_404f4ccea6d54b994f6b40850c505a78" parent="aspace_a167758039270ded205b0c72bb5a682d" type="Folder">14-09</container>
           </did>
         </c>
         <c id="aspace_aba40ef9b957cf03a6d7164929145079" level="file">
           <did>
             <unittitle>Louis Bankett</unittitle>
             <unitdate normal="1995-11-03/1995-11-03">1995 November 3</unitdate>
-            <container id="aspace_eeed763c6fd70d755ffd949aba8bd741" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_0ef80831fa7754fc4c527907e24ae7db" parent="aspace_eeed763c6fd70d755ffd949aba8bd741" type="Folder">14-09</container>
+            <container id="aspace_04d394d2d60e37d482d4e046ff64a145" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b0fbeebc1ac70942cb18a08a0598378c" parent="aspace_04d394d2d60e37d482d4e046ff64a145" type="Folder">14-09</container>
           </did>
         </c>
         <c id="aspace_b3356092718fec6ec575ea1952d046f8" level="file">
           <did>
             <unittitle>Jay Nessey</unittitle>
             <unitdate normal="1995-11-13/1995-11-13">1995 November 13</unitdate>
-            <container id="aspace_8ac4866de16a513b1c892f2484eb7464" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_6e6549a3f88d9dbbc2f5d0a93fefa452" parent="aspace_8ac4866de16a513b1c892f2484eb7464" type="Folder">14-10</container>
+            <container id="aspace_b67f932280a3aeb39417b2fe1cd6e80b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f08d3f25879212b1b860442210440817" parent="aspace_b67f932280a3aeb39417b2fe1cd6e80b" type="Folder">14-10</container>
           </did>
         </c>
         <c id="aspace_152cd5a2bd56d6c6f0431c6cfbbe6ba4" level="file">
           <did>
             <unittitle>Arline Neal</unittitle>
             <unitdate normal="1995-06-10/1995-06-10">1995 June 10</unitdate>
-            <container id="aspace_774fe8aaf7d0c2e6558d6ae776ce9c67" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_b84cf4c3e8255a65c17422d33ff75c9f" parent="aspace_774fe8aaf7d0c2e6558d6ae776ce9c67" type="Folder">14-11</container>
+            <container id="aspace_7e5ae9bff91f1757779dd1c8d74f0b79" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_016e5e8b82507ad2b0daa86c1ed3a057" parent="aspace_7e5ae9bff91f1757779dd1c8d74f0b79" type="Folder">14-11</container>
           </did>
         </c>
         <c id="aspace_9ac4fe66a4acab1d9726aee50d8414a2" level="file">
           <did>
             <unittitle>Arline Neal</unittitle>
             <unitdate normal="1995-06-10/1995-06-10">1995 June 10</unitdate>
-            <container id="aspace_cff174352b0f6314274eb2e05a562a3c" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_1c58453707cfbfef1e70ecc29c67ec55" parent="aspace_cff174352b0f6314274eb2e05a562a3c" type="Folder">14-11</container>
+            <container id="aspace_a7de270655dddc75a6d0a65aaf693a23" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_1abfb63cddadf1c9834b9cfd091fcef6" parent="aspace_a7de270655dddc75a6d0a65aaf693a23" type="Folder">14-11</container>
           </did>
         </c>
         <c id="aspace_1b6781ee4606e4db40bf1823f245ed09" level="file">
           <did>
             <unittitle>Teresa Rivera</unittitle>
-            <container id="aspace_975c8d06b5506f9b0cc2040f7ce36dbe" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_8143caf5e4c4216bc5da6c3cec3f7ca9" parent="aspace_975c8d06b5506f9b0cc2040f7ce36dbe" type="Folder">14-12</container>
+            <container id="aspace_6dc4ec8fb9482b1910b49a11f61df3ea" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5e92867a1c30acf58f835afbc130b439" parent="aspace_6dc4ec8fb9482b1910b49a11f61df3ea" type="Folder">14-12</container>
           </did>
         </c>
       </c>

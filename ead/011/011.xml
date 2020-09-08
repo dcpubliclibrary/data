@@ -4,22 +4,33 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Adams-Morgan Community Council Records</titleproper>
-        <titleproper>Adams-Morgan Community Council <num>011</num> <num>011</num></titleproper>
+        <titleproper>Adams-Morgan Community Council <num>011</num></titleproper>
         <subtitle>An inventory of Adams-Morgan Community Council at DC Public Library</subtitle>
         <author>Finding aid prepared by DC Public Library.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2001-02</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:00:53 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:27:48 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2019-11-04</date>
+        <item>Finding aid revised to be more evergreen. </item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -27,137 +38,200 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
-      <unittitle>Adams Morgan Community Council Records</unittitle>
+      <unittitle>Adams-Morgan Community Council Records</unittitle>
+      <origination label="creator">
+        <corpname source="local">Adams-Morgan Community Council</corpname>
+      </origination>
       <unitid>011</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.25 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1946/1967" type="inclusive">1946-1967</unitdate>
-      <langmaterial id="aspace_ccfba8bf097a46a063e9577385ede8a5">English</langmaterial>
       <langmaterial id="aspace_dc1964b0bd0bcd7c922528a27f4e6a42">English</langmaterial>
     </did>
+    <arrangement id="aspace_3c949cbca2a0b5b12d2b72ec116668ad">
+      <head>Arrangement</head>
+      <p>The collection was processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_2b34e8e5da966883a2413eccf1177062">
       <head>Biographical / Historical</head>
-      <p>The papers which cover Mrs. Ziegler's career as an educator of the mentally retarded at the District Training School in Laurel, Maryland which later became Forest Haven School. Papers covering Mrs. Zeigler include photographs of activities and events at the school, publications regarding the training of the mentally retarded, press releases, programs, a newsletter, correspondence, awards, published books, and certificates. Also of particular importance are seven scrapbooks of clippings, photographs, programs, invitations, letters, and other memorabilia prepared by Ms. Zeigler on the District Training School, which covers the years 1924 through the 1960s.</p>
+      <p>The Adams-Morgan Community Council was formed in the late 1950s as a result of a two-year demonstration project to improve the neighborhood, which had deteriorated over the prior decade. The project sought to build viable organizations that could plan and work for improvements in blighted areas of Adams-Morgan. The Council was established towards the end of the project as a unified voice to represent various community and interest groups, including the Midway Civic Association, The Kalorama Citizens Association, the Adams-Morgan Better Neighborhood Conference, as well as various block associations formed during the project. The Council worked to improve health, welfare, education, and recreation for the Adams-Morgan community.</p>
     </bioghist>
+    <custodhist id="aspace_4812fe4fae4c2c2d2fd29f71be9584b5">
+      <head>Custodial History</head>
+      <p>Unknown donor.</p>
+    </custodhist>
+    <processinfo id="aspace_794b2d25db4fbacb9ba64d6dba695947">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_6fecc8bbc66768cd407f3068636df587">
+      <head>Related Materials</head>
+      <p>Records of the Adams-Morgan Better Neighborhood Conference (Collection 18)</p>
+      <p>Adams-Morgan: Democratic Action to Save a Neighborhood, a report prepared by the Office of Urban Renewal, District of Columbia, Stein and Marcou Associations, and American University (call number: 711.097 D623).</p>
+    </relatedmaterial>
     <scopecontent id="aspace_bbe7c34a479895b699e98e8665d0c98d">
       <head>Scope and Contents</head>
-      <p>The records consist of correspondence, minutes, announcements, budgets and clippings and cover such topics as housing, racial discrimination, and community organizations.</p>
+      <p>The records consist of correspondence, minutes, announcements, budgets, and clippings. Topics covered include housing, racial discrimination, and community organizations.</p>
     </scopecontent>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85062603" source="Library of Congress Subject Headings">Housing</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008810" source="lcsh">Associations, institutions, etc</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/names/n97020132" source="Library of Congress Subject Headings">Adams Morgan (Washington, D.C.)</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85029254" source="Library of Congress Subject Headings">Community organization</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85038376" source="Library of Congress Subject Headings">Discrimination</subject>
+      <genreform source="material_type">Organizational Records</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85027084" source="Library of Congress Subject Headings">Clippings (Books, newspapers, etc)</subject>
     </controlaccess>
     <dsc>
-      <c id="aspace_11c0b167509bd9b9683fe087af5a3761" level="series">
+      <c id="aspace_45050fbebfbd802f808d099eb89cd17e" level="series">
         <did>
-          <unittitle>Series 1</unittitle>
+          <unittitle>Adams-Morgan News</unittitle>
+          <unitdate normal="1966/1966">1966</unitdate>
+          <container id="aspace_15270ab25f986d7f2f764e47f96c1948" label="Mixed Materials" type="Box">1</container>
         </did>
-        <c id="aspace_d9f5f848b288f55905da59eb8758960a" level="file">
+        <c id="aspace_5159b9c2dbf12cbbf9672f46a6e16da5" level="file">
           <did>
             <unittitle>Adams-Morgan News</unittitle>
-            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
-            <container id="aspace_d937d27e436f545f3977a42be91e3de1" label="mixed materials" type="Box">1</container>
-            <container id="aspace_47446b37203a181e35b68c6e1b0c4f2e" parent="aspace_d937d27e436f545f3977a42be91e3de1" type="Folder">1</container>
+            <unitdate normal="1966/1966">1966</unitdate>
+            <container id="aspace_2cecba569600108983bac5f912dfb092" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bbeab133df8ed2a8cf0a07be92851a30" parent="aspace_2cecba569600108983bac5f912dfb092" type="folder">1</container>
           </did>
         </c>
-        <c id="aspace_afa6bc854f9ecf1405111eb8c18b962a" level="file">
+      </c>
+      <c id="aspace_07f527072c06e80a959c56dad765a70c" level="series">
+        <did>
+          <unittitle>Clippings</unittitle>
+          <unitdate normal="1946/1964" type="inclusive">1946-1964</unitdate>
+          <container id="aspace_6a06a08feac2e027f2c68fd3905f42bb" label="Mixed Materials" type="Box">1</container>
+        </did>
+        <c id="aspace_a12bedbdd4e29c340aa8db1bf22d5493" level="file">
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate>
-            <container id="aspace_d475a7d02e8a765652ecb77a97b95e56" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f8ef423f68e034774d7349e3b9187ac5" parent="aspace_d475a7d02e8a765652ecb77a97b95e56" type="Folder">2</container>
+            <container id="aspace_e81323f37ebbef7e81bf9e5f17379695" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_094a35c46b314728cdabeb04970c2881" parent="aspace_e81323f37ebbef7e81bf9e5f17379695" type="folder">2</container>
           </did>
         </c>
-        <c id="aspace_8afc9e9e4482355daeb9b9dcbd39d10d" level="file">
+        <c id="aspace_289eefe2d60604ebbbda3e53eae3bb87" level="file">
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1958/1959" type="inclusive">1958-1959</unitdate>
-            <container id="aspace_2c2e11354da88677a66789035d9baeae" label="mixed materials" type="Box">1</container>
-            <container id="aspace_f68c2dbda17a96eca3aa8df9163469d8" parent="aspace_2c2e11354da88677a66789035d9baeae" type="Folder">3</container>
+            <container id="aspace_6b5d26a56064dc1bf07b16c050e3c97b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_643588e25aaf03fd2b2d130b02522851" parent="aspace_6b5d26a56064dc1bf07b16c050e3c97b" type="folder">3</container>
           </did>
         </c>
-        <c id="aspace_22ea4ef0d2ffe66afda2dc7716351340" level="file">
+        <c id="aspace_31552105edf2043b40492c21d41224da" level="file">
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate>
-            <container id="aspace_8abf654560718760fd49fef9b779cd82" label="mixed materials" type="Box">1</container>
-            <container id="aspace_9a6ad93b9df94aaf37cbfd7a3aa3bd12" parent="aspace_8abf654560718760fd49fef9b779cd82" type="Folder">4</container>
+            <container id="aspace_53a1e9660cccd363a07b72d0de71f3ed" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b4bd738239d913e95c4fe39cb1de88e6" parent="aspace_53a1e9660cccd363a07b72d0de71f3ed" type="folder">4</container>
           </did>
         </c>
-        <c id="aspace_9d56f776caf1d67932af01ffada75aae" level="file">
+        <c id="aspace_3f6a9a7278b18dff3093b9c6066b745c" level="file">
           <did>
             <unittitle>Clippings</unittitle>
             <unitdate normal="1962/1964" type="inclusive">1962-1964</unitdate>
-            <container id="aspace_2e0856caf12362c401194152c8753e3c" label="mixed materials" type="Box">1</container>
-            <container id="aspace_ae5eb16996c9ceec076954ae5de5db50" parent="aspace_2e0856caf12362c401194152c8753e3c" type="Folder">5</container>
+            <container id="aspace_89865012f87babe37b31f850538aa048" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_18f122a52538aae9851dbef921967176" parent="aspace_89865012f87babe37b31f850538aa048" type="folder">5</container>
           </did>
         </c>
-        <c id="aspace_e8b312950f0916f9c289731a3df82c14" level="file">
+        <c id="aspace_e9b28461084a7278d3145dda46a6b8a4" level="file">
           <did>
             <unittitle>Clippings</unittitle>
-            <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_ce1752b183def8e4477e379951d73fd8" label="mixed materials" type="Box">1</container>
-            <container id="aspace_dbdc631924296af6dd5f00f89129490d" parent="aspace_ce1752b183def8e4477e379951d73fd8" type="Folder">6</container>
+            <container id="aspace_8a906a111b8477f6c05c606ff9045a29" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6d965fd8fd590cc7f5969837e3343a2d" parent="aspace_8a906a111b8477f6c05c606ff9045a29" type="folder">6</container>
           </did>
         </c>
-        <c id="aspace_5374e870b97a97f7b3dfa861175de660" level="file">
+        <c id="aspace_56212ee24d062b83421fc08b3914202e" level="file">
           <did>
             <unittitle>Discrimination Clippings</unittitle>
             <unitdate normal="1946/1959" type="inclusive">1946-1959</unitdate>
-            <container id="aspace_cc5719f219dde8c1ccd49a4815c3a89b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_47b1a3453fa68e53a864d9445a11e150" parent="aspace_cc5719f219dde8c1ccd49a4815c3a89b" type="Folder">7</container>
+            <container id="aspace_4402ec8eb24331b48c1e5b12a1a2d3a0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3afeea369cd56478fa8974d503fa6a1d" parent="aspace_4402ec8eb24331b48c1e5b12a1a2d3a0" type="folder">7</container>
           </did>
         </c>
-        <c id="aspace_c0af66aac646700e69b0e7a417489a83" level="file">
+        <c id="aspace_0410f863d15737673824ec12f4f6f786" level="file">
           <did>
             <unittitle>Discrimination Clippings</unittitle>
             <unitdate normal="1960/1965" type="inclusive">1960-1965</unitdate>
-            <container id="aspace_7fdc5b4e7a2b160d0d1c8d1f3bfbaa98" label="mixed materials" type="Box">1</container>
-            <container id="aspace_eb4cd104655af22a19b2442c5097de93" parent="aspace_7fdc5b4e7a2b160d0d1c8d1f3bfbaa98" type="Folder">8</container>
+            <container id="aspace_b455cbfb4207b1a607a201dd496db8fe" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3774681c493ea9fece0afacd22780a9b" parent="aspace_b455cbfb4207b1a607a201dd496db8fe" type="folder">8</container>
           </did>
         </c>
-        <c id="aspace_743a9ae3f21a00a5a09f76661bbc8343" level="file">
+      </c>
+      <c id="aspace_3082140cd4ee4f8ad815f71adcc6ac46" level="series">
+        <did>
+          <unittitle>Organizations</unittitle>
+          <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
+          <container id="aspace_9f0185baa5a645041f8311547024943b" label="Mixed Materials" type="Box">1</container>
+        </did>
+        <c id="aspace_cf060d74b8580e5d67259f8cd772b362" level="file">
           <did>
             <unittitle>Hollyday House and other community organizations</unittitle>
             <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
-            <container id="aspace_aa230750c1f986437f3591a48d94c57f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_350329566d584f7c458662b7f9d248e5" parent="aspace_aa230750c1f986437f3591a48d94c57f" type="Folder">9</container>
+            <container id="aspace_dbf48a9d1b176664492c47041a877d5e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_df2a9459dab908645cadc709e8f764ed" parent="aspace_dbf48a9d1b176664492c47041a877d5e" type="folder">9</container>
           </did>
         </c>
-        <c id="aspace_ba3a2de57a1774fed90a72ac557b12fa" level="file">
+      </c>
+      <c id="aspace_b13041bc479c1ce6abe0f534a3c509d5" level="series">
+        <did>
+          <unittitle>Housing</unittitle>
+          <unitdate normal="1959/1961" type="inclusive">1959-1961</unitdate>
+          <container id="aspace_28dcfc0fa9d95a3ec80d6d9b30f88ba7" label="Mixed Materials" type="Box">1</container>
+        </did>
+        <c id="aspace_efef8e6edb9acbfb6cca7e6501c7e3b5" level="file">
           <did>
             <unittitle>Housing issues</unittitle>
             <unitdate normal="1959/1962" type="inclusive">1959-1962</unitdate>
-            <container id="aspace_140d410f818994550ee503ac4165fa5b" label="mixed materials" type="Box">1</container>
-            <container id="aspace_5d2ddc5a9bb34488b273498c432de21c" parent="aspace_140d410f818994550ee503ac4165fa5b" type="Folder">10</container>
+            <container id="aspace_16b324870e3b5c646c5d49a785871fc5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ca5e02afa7013a0f5258abdec62d9aa3" parent="aspace_16b324870e3b5c646c5d49a785871fc5" type="folder">10</container>
           </did>
         </c>
-        <c id="aspace_b9085b859aedfb614f66d192d35fc6cf" level="file">
+        <c id="aspace_6e6c84f1c0cdfb3815905fc6ea266149" level="file">
           <did>
             <unittitle>Non-discrimination policy for the D.C. government</unittitle>
-            <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container id="aspace_2c2059048f17b64784a2a760b8cc23b2" label="mixed materials" type="Box">1</container>
-            <container id="aspace_d11ba7d643fad1f73ae2b4fcc05a1aa8" parent="aspace_2c2059048f17b64784a2a760b8cc23b2" type="Folder">11</container>
+            <unitdate normal="1961/1961">1961</unitdate>
+            <container id="aspace_f70790a5139931a1a083bf53f79ca411" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5e8964805a66fe217d39208c853a47c2" parent="aspace_f70790a5139931a1a083bf53f79ca411" type="folder">11</container>
           </did>
         </c>
-        <c id="aspace_d6840de0fce94d9dd994b8596d0f67c0" level="file">
+      </c>
+      <c id="aspace_47d7bf95daf82d575cb8e68a620a4776" level="series">
+        <did>
+          <unittitle>Administrative Records</unittitle>
+          <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+          <container id="aspace_409c9dd135025281144e7a2dc2393701" label="Mixed Materials" type="Box">1</container>
+        </did>
+        <c id="aspace_815ac540415a491ab49cf25cc9c2c2a2" level="file">
           <did>
             <unittitle>Meeting minutes and financial records</unittitle>
             <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
-            <container id="aspace_60063d079ae66f7cafa83ad8dfcfcf16" label="mixed materials" type="Box">1</container>
-            <container id="aspace_fef66bc0dd3bf28cf7be1498427c0042" parent="aspace_60063d079ae66f7cafa83ad8dfcfcf16" type="Folder">12</container>
+            <container id="aspace_008e16a8897fbc04a640c1460e91f9cb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_99e6ca75a821485bfa434e9d4ec19c99" parent="aspace_008e16a8897fbc04a640c1460e91f9cb" type="folder">12</container>
           </did>
         </c>
-        <c id="aspace_b613d67d5b6b3b2fb3d7950ba8300ffa" level="file">
+      </c>
+      <c id="aspace_e0dfcb85963d7394da1f53682848a73e" level="series">
+        <did>
+          <unittitle>Summer Camp</unittitle>
+          <unitdate normal="1966/1966">1966</unitdate>
+          <container id="aspace_ab37f077d32258a40558bac249ffb1a3" label="Mixed Materials" type="Box">1</container>
+        </did>
+        <c id="aspace_fbf4747987fe071c1d5ddced86d128b4" level="file">
           <did>
             <unittitle>Summer Camp</unittitle>
-            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
-            <container id="aspace_ed752081d9a33e91c53c9141e243e354" label="mixed materials" type="Box">1</container>
-            <container id="aspace_c62c4fcb1dfe5900694196fcd731692d" parent="aspace_ed752081d9a33e91c53c9141e243e354" type="Folder">13</container>
+            <unitdate normal="1966/1966">1966</unitdate>
+            <container id="aspace_d3b6cc1582b0353fa54fc60608095d19" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fb13a819cff3070623af2b4397be5712" parent="aspace_d3b6cc1582b0353fa54fc60608095d19" type="folder">13</container>
           </did>
         </c>
       </c>

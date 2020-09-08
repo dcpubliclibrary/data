@@ -9,14 +9,19 @@
         <author>Finding aid prepared by Rachel Telford.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
           <date>2007-05</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-27 00:10:57 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:47:24 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -27,15 +32,21 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
       </repository>
       <unittitle>Daughters of the American Colonists Collection</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/no2006116232" source="LCSH">Daughters of the American Colonists. District of Columbia Society</corpname>
+      </origination>
       <unitid>112</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 linear feet; 1 box</extent>
+        <extent altrender="materialtype spaceoccupied">0.25 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1923/1961" type="inclusive">1923-1961</unitdate>
-      <langmaterial id="aspace_f1481446b014cfca118413b367ef3006">English</langmaterial>
+      <langmaterial id="aspace_3674b0ed6ae1b352f0a56659e44238c9">English</langmaterial>
       <langmaterial id="aspace_49fbc04f89defbda04a270e7c51811b5">English</langmaterial>
     </did>
     <bioghist id="aspace_d2b33fcc2d4c1410b4dadeac2700f300">
@@ -46,6 +57,13 @@
       <head>Scope and Contents</head>
       <p>The collection consists of Yearbooks and Programs.</p>
     </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85147274" source="Library of Congress Subject Headings">Women</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85149058" source="Library of Congress Subject Headings">Yearbooks</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh93005169" source="Library of Congress Subject Headings">Programs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85123946" source="Library of Congress Subject Headings">Social groups</subject>
+    </controlaccess>
     <dsc>
       <c id="aspace_dfe3ff6ee1ee8f7a94d5d0cdcf7f0c8f" level="series">
         <did>
@@ -55,8 +73,8 @@
           <did>
             <unittitle>Yearbooks and Programs</unittitle>
             <unitdate normal="1923/1961" type="inclusive">1923-1961</unitdate>
-            <container id="aspace_598717846c9fffea89a5558bb769f8a7" label="mixed materials" type="Box">1</container>
-            <container id="aspace_7f6572748b862ffb3503969dc0147a68" parent="aspace_598717846c9fffea89a5558bb769f8a7" type="Folder">1</container>
+            <container id="aspace_4c236358df9efa9bc85bd19410fb1a45" label="mixed materials" type="Box">1</container>
+            <container id="aspace_5f4558f5e97d45b19c32f3a341e0b0c6" parent="aspace_4c236358df9efa9bc85bd19410fb1a45" type="Folder">1</container>
           </did>
         </c>
       </c>
