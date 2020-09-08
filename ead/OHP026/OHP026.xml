@@ -1,0 +1,692 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>OHP026</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>U Street Oral History Project<num>OHP026</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>DCPL Special Collections - MLK Library</publisher>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>archives.dcpl@dc.gov</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 15:08:43 -0400</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>DCPL Special Collections - MLK Library</corpname>
+      </repository>
+      <unittitle>U Street Oral History Project</unittitle>
+      <origination label="creator">
+        <corpname authfilenumber="http://id.loc.gov/authorities/names/n50027688" source="LCSH">District of Columbia. Public Library</corpname>
+      </origination>
+      <unitid>OHP026</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">9.51 Gigabytes</extent>
+        <extent altrender="carrier">Files were transferred on the oral history project laptop.  Files were backed up onto the external hard drive containing digitized oral histories (DIG_00005).</extent>
+      </physdesc>
+      <unitdate normal="2014/2014">2014</unitdate>
+    </did>
+    <scopecontent id="aspace_3645c5cd684d0a218173c7ffa2b5e325">
+      <head>Content Description</head>
+      <p>Digital recordings of 20 oral history interviews by DCPL Special Collections Librarian Kelly Navies and related digital documents.  18 of the recordings are about the U Street cultural corridor.  All of the U Street interviews have logs and two of them also have transcripts.  Digital photographs and other documents were also included in the U Street transfer.  There is also an interview with DC author Edward P. Jones, in 2 parts.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2010012185" source="lcsh">U Street (Washington, D.C.)</subject>
+      <genreform source="material_type">Audio</genreform>
+      <genreform source="material_type">Digital materials</genreform>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85119585" source="Library of Congress Subject Headings">Segregation</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85088762" source="Library of Congress Subject Headings">Music</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026384" source="Library of Congress Subject Headings">Civil rights movement</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85001843" source="Library of Congress Subject Headings">African American families</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85095238" source="Library of Congress Subject Headings">Oral History</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_07912a159ce05c10699224c5976dea40" level="series">
+        <did>
+          <unittitle>Series 1:  Interviews</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">19 Files</extent>
+          </physdesc>
+        </did>
+        <c id="aspace_3bc71438c7434897dd2bfc6d44c1396d" level="file">
+          <did>
+            <unittitle>James A. Bennett interview (part 1 of 2)</unittitle>
+            <unitid>dcpl_ohp26-01_01.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_0f1c4093670c09f6d178145dbe2dffe3">
+            <head>Biographical / Historical</head>
+            <p>James A. Bennett is a long-time resident of Washington, D.C. whose recollections give valuable insight into life growing up in the U Street neighborhood during segregation.</p>
+          </bioghist>
+          <scopecontent id="aspace_6c58cdb067b9c2e157767ac7f973742d">
+            <head>Scope and Contents</head>
+            <p>Part 1 of an oral history interview with James A. Bennett. An African-American man who grew up in the U Street Corridor neighborhood of Washington, D.C. Mr. Bennett describes his understanding of segregation as a child, his experiences of the U Street music and entertainment scene both as a child street performer and, when he was older, as a patron of the clubs and theaters in the area. His history charts the changing character of the U Street community as he was growing up.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_837fe8af6c7126ba37f54b188a4e9a0c" level="file">
+          <did>
+            <unittitle>James A. Bennett interview (part 2 of 2)</unittitle>
+            <unitid>dcpl_ohp26-01_02.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_cf674fd01a0b7484f004bab19d6330df">
+            <head>Biographical / Historical</head>
+            <p>James A. Bennett is a D.C. native with extensive memories of the arts scene in the U Street Corridor during segregation. As a child, he performed on the streets while as an adult, he patronized many of the area's top clubs and theaters.</p>
+          </bioghist>
+          <scopecontent id="aspace_fa56926a8cbc27f5e9cf7ebb55249325">
+            <head>Scope and Contents</head>
+            <p>Part 2 of an oral history interview with James A. Bennett. An African-American man who grew up in the U Street Corridor neighborhood of Washington, D.C. Mr. Bennett describes his understanding of segregation as a child, his experiences of the U Street music and entertainment scene both as a child street performer and, when he was older, as a patron of the clubs and theaters in the area. His history charts the changing character of the U Street community as he was growing up.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_86bd7c3f626129d2ecd3f6251a3ab3bb" level="file">
+          <did>
+            <unittitle>Sandra Bulter-Truesdale interview</unittitle>
+            <unitid>dcpl_ohp26-02.mp3</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_9f93aeded9044a8655b85d1b38337af4">
+            <head>Biographical / Historical</head>
+            <p>Sandra Butler-Truesdale worked in Youth Opportunity Services in the district government after graduation from Howard University, developing music programs for youth empowerment. She later worked as a cosmetologist for James Brown and met many famous performers. At the time of the interview, she was involved with DC Legendary Musicians, an organization that deals with musicians who were mostly born and raised in Washington, DC and have played with famous musicians.</p>
+          </bioghist>
+          <scopecontent id="aspace_479b4199d5064a975a41212fc60d126b">
+            <head>Scope and Contents</head>
+            <p>Oral history interview with Sandra Butler-Truesdale. An African-American woman who grew up in the U Street Corridor neighborhood of Washington, D.C. She recounts her family's history of civil rights activism, her childhood involvement with the music scene, her graduation from Cardozo Senior High School and Howard University. Her personal history charts her connections through her work as a cosmetologist to famous names in the music business and follows the changing character of the U Street Corridor.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ac8112068d758ed0f492162ebe71d6fc" level="file">
+          <did>
+            <unittitle>Ida Marie Campbell interview (part 1 of 2)</unittitle>
+            <unitid>dcpl_ohp26-03_01.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_e5e200ebdb992b8623b76c352f66c13f"><head>Biographical / Historical</head>Ida Maria Campbell is a blues, jazz and R&amp;B singer and presenter of the radio program Don't Forget the Blues. At the time of the interview, she worked with the DC Legendary Musicians organization, organizing music for area venues and organizing social services for local musicians.</bioghist>
+          <scopecontent id="aspace_85794f4eaf7dc45de811286962dd6c3e">
+            <head>Scope and Contents</head>
+            <p>Part 1 of an oral history interview with Ida Maria Campbell, a mixed race (African-American and Cuban) woman born in Cuba in 1951 who grew up in the Trinidad and Washington Highlands neighborhoods and participated in the U Street Corridor music scene as a singer and a patron. She recounts "running the numbers" illegally for the family, and one day they won $1500 and bought house. She made music a career, becoming a radio presenter of the WPFW show Don't Forget the Blues.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_fe6c9fffc597ab1df961faf305261d2b" level="file">
+          <did>
+            <unittitle>Ida Marie Campbell interview (part 2 of 2)</unittitle>
+            <unitid>dcpl_ohp26-03_02.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_b874a6cf8247b5d611fe4361158ade88"><head>Biographical / Historical</head>Ida Maria Campbell is a blues, jazz and R&amp;B singer and presenter of the radio program Don't Forget the Blues. At the time of the interview, she worked with the DC Legendary Musicians organization, organizing music for area venues and organizing social services for local musicians.</bioghist>
+          <scopecontent id="aspace_6a0545a301ca973d0fb6b441c4c6d2dc">
+            <head>Scope and Contents</head>
+            <p>Part 2 of an oral history interview with Ida Maria Campbell, a mixed race (African-American and Cuban) woman born in Cuba in 1951 who grew up in the Trinidad and Washington Highlands neighborhoods and participated in the U Street Corridor music scene as a singer and a patron. She recounts "running the numbers" illegally for the family, and one day they won $1500 and bought house. She made music a career, becoming a radio presenter of the WPFW show Don't Forget the Blues.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_3c0373eeb30511063ab7189efe2d767c" level="file">
+          <did>
+            <unittitle>Thelma Dianne Dale interview</unittitle>
+            <unitid>dcpl_ohp26-05.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_8cfb8476f744880558573fef73ef8715">
+            <head>Biographical / Historical</head>
+            <p>Thelma Dianne Dale comes from a family of African American business owners and her memories of her childhood give valuable insights into growing up in DC under segregation.</p>
+          </bioghist>
+          <scopecontent id="aspace_bda22044f16dc9a6e01f10d2b797f434">
+            <head>Scope and Contents</head>
+            <p>Oral history interview with Thelma Dianne Dale, an African-American woman whose family owned a grocery store in Anacostia. She recounts her experiences of segregation as a child, as well as her trips to the U Street Corridor for the theater and jazz clubs and church or holiday events when she was a student at Howard University.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_8d2ba9388b51c2dc0c25b5b1a77d7aaf" level="file">
+          <did>
+            <unittitle>Jeannine Clark interview</unittitle>
+            <unitid>dcpl_ohp26-04.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_ba937230e7dbd14d0bc9114027c9d388">
+            <head>Biographical / Historical</head>
+            <p>Jeannine Clark is a frequent singer at U Street theaters and venues and also remembers growing up in D.C. and seeing performances on U St after the era of "Black Broadway" but prior to the U Street Riots.</p>
+          </bioghist>
+          <scopecontent id="aspace_0844ce74867e66874d024e4d07d0b2ce">
+            <head>Scope and Contents</head>
+            <p>Oral history interview with Jeannine Clark, an African-American woman who grew up in the Trinidad neighborhood and later in Southeast D.C.. She recounts visiting the U Street Corridor before and after the U Street Riots, performing as a singer and going to theaters. She discusses the changing character of U Street Corridor throughout her life.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_e9df15c95561e2281e1f77d4d4476ea0" level="file">
+          <did>
+            <unittitle>Gregory Lamont Gaskins interview</unittitle>
+            <unitid>dcpl_ohp26-06.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_b3a752c67d8d6f0820d7316ca394fe88">
+            <head>Biographical / Historical</head>
+            <p>Gregory Gaskins is a self-taught guitarist and D.C. native who has toured with bands like the Manhattans and with Elvis Presley.</p>
+          </bioghist>
+          <scopecontent id="aspace_f799f1cc19e3ddd994918e9c3e713693">
+            <head>Scope and Contents</head>
+            <p>Oral history interview with Gregory Gaskins, an African-American man who has been playing guitar since he was a young child, performing throughout D.C. and on tour with groups like the Manhattans and with Elvis Presley. He describes many clubs from his childhood along 14th street in the U Street Corridor neighborhood and many famous musical groups that came through D.C. on tour.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_14fba73a5f65a747a1edb6a49bf167e1" level="file">
+          <did>
+            <unittitle>David C. Gilbert interview</unittitle>
+            <unitid>dcpl_ohp26-07.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_8101993036508db858f6bf7fd7905e8b">
+            <head>Biographical / Historical</head>
+            <p>David C. Gilbert is a Vietnam Veteran whose work as a community relief volunteer following the U Street Riots gives rare insight into a difficult time in U Street's history.</p>
+          </bioghist>
+          <scopecontent id="aspace_20db1a6c760cfa6083a67f64f8b9839f">
+            <head>Scope and Contents</head>
+            <p>Oral history interview with David C. Gilbert, an African-American who recounts his childhood in Barry Farms neighborhood of Southeast, D.C. After serving in the military during the Vietnam War - an experience which profoundly influenced his views on face and politics - he returned to DC and moved to the Adams Morgan neighborhood. He recounts his experiences during the U Street Riots and immediately after when the devastation to the neighborhood led to severe food scarcity and whole blocks of businesses destroyed and Mr. Gilbert volunteered to deliver for the Howard University Food Distribution Center.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_16a920bedd0c4aeda5a69ec477a02a0e" level="file">
+          <did>
+            <unittitle>Marita Golden interview</unittitle>
+            <unitid>dcpl_ohp26-08.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_8ca8e70481eda2c276eca1b288ef1555">
+            <head>Biographical / Historical</head>
+            <p>Marita Golden is an award-winning novelist, writer, and teacher as well as a co-founder of the Hurston/Wright Foundation, a national organization for African-American writers.</p>
+          </bioghist>
+          <scopecontent id="aspace_a484bde1cad9bbc38e7ee33a75c80f54">
+            <head>Scope and Contents</head>
+            <p>Oral history interview with Marita Golden, an African-American woman who recounts her childhood in Columbia Heights and Foggy Bottom neighborhoods. She describes working as a journalist for the American University newspaper when she was a freshman there and going to cover the devastation of the U Street Corridor after the riots. Ms. Golden recalls becoming a community activist in the U Street area following the riots. She volunteered for Marion Barry's organization, Pride Inc. and for The Freedom School. She was also in the neighborhood to take classes at Howard University. In the late 1960s, Ms. Golden discovered poetry and was able to get her first poem included in the anthology Today's Negro Voices.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_76ce07dfe9443f809103bbe47b09ff59" level="file">
+          <did>
+            <unittitle>Hugh Joseph "Rusty" Hassan III interview</unittitle>
+            <unitid>dcpl_ohp26-09.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_c367d53e6f4ecc11137114b77ebe0b36">
+            <head>Biographical / Historical</head>
+            <p>Rusty Hassan is a prominent DC-area jazz journalist and radio presenter on WPFW.</p>
+          </bioghist>
+          <scopecontent id="aspace_3c82d24255b3efa7bae24c0568fbc701">
+            <head>Scope and Contents</head>
+            <p>Oral history interview with Rusty Hassan, a white man who recounts his life as a devoted jazz fan and music journalist who became closely involved in the D.C. Jazz scene when he moved to D.C. to attend Georgetown University. He recounts details of connections made with many famous jazz artists, performances he attended in the U Street area, and his later travels in Europe among the avant-garde European Jazz scene of the 1960s. After the U St. riots and the redevelopment of Southwest D.C. Mr. Hassan was involved with rehousing residents of those areas through his work with a redevelopment aid agency.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_e3f737b5534a4263f2eeec91b10da9c5" level="file">
+          <did>
+            <unittitle>Edythe Prudence Holland Jones interview (part 1 of 2)</unittitle>
+            <unitid>dcpl_ohp26-10_01.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_b415ba8c5a3f2fa36719745b9d286a17">
+            <head>Biographical / Historical</head>
+            <p>Edythe Prudence Holland Jones moved to DC to attend high school but soon left school to work. Her experiences offer a rare glimpse into life in DC prior to World War 1 and in the Interwar Period.</p>
+          </bioghist>
+          <scopecontent id="aspace_a5fe97615315bca908525fbcb351dfca">
+            <head>Scope and Contents</head>
+            <p>Part 1 of an oral history interview with Edythe Prudence Holland Jones, an African-American woman who recounts her experiences of the U Street neighborhood, African-American life in DC, and music and theater performances she saw from the time she moved to DC in high school. In particular, she tells of seeing Marion Anderson's concert at the Lincoln Memorial in 1939.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_13bebe695ef2c778577ecfacc42cfc1a" level="file">
+          <did>
+            <unittitle>Edythe Prudence Holland Jones interview (part 2 of 2)</unittitle>
+            <unitid>dcpl_ohp26-10_02.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_2ea6659f5867fbda755eaef74e8a0e6f">
+            <head>Biographical / Historical</head>
+            <p>Edythe Prudence Holland Jones moved to DC to attend high school but soon left school to work. Her experiences offer a rare glimpse into life in DC prior to World War 1 and in the Interwar Period.</p>
+          </bioghist>
+          <scopecontent id="aspace_0a64dc44dceae2d85c9a6476c28244ab">
+            <head>Scope and Contents</head>
+            <p>Part 2 of an oral history interview with Edythe Prudence Holland Jones, an African-American woman who recounts her experiences of the U Street neighborhood, African-American life in DC, and music and theater performances she saw from the time she moved to DC in high school. In particular, she tells of seeing Marion Anderson's concert at the Lincoln Memorial in 1939.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_24d6938209cc2f0a29b91ea098f9264d" level="file">
+          <did>
+            <unittitle>C. Bernard Ruffin interview (part 1 of 3)</unittitle>
+            <unitid>dcpl_ohp26-12_01.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_fec90b8948f6d7036d235d78fbc408c0">
+            <head>Biographical / Historical</head>
+            <p>C. Bernard Ruffin is a D.C.-born African-American writer of Christian non-fiction.</p>
+          </bioghist>
+          <scopecontent id="aspace_197c1edebcd811c160e2cc498942e3d5">
+            <head>Scope and Contents</head>
+            <p>Oral history interview with C. Bernard Ruffin, an African-American writer and D.C. native. He tells about his childhood in the U Street area where his father was a beat cop and leader in the local Police Boys' Club and his aunts were teachers at a local high school. He also discusses his education, his experiences of segregation, and the changing character of the U Street community throughout his lifetime.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_f283c00b4a818234a36e0e616f32ce93" level="file">
+          <did>
+            <unittitle>C. Bernard Ruffin interview (part 2 of 3)</unittitle>
+            <unitid>dcpl_ohp26-12_02.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_368979824d8c58a3bbfb44bace669968">
+            <head>Biographical / Historical</head>
+            <p>C. Bernard Ruffin is a D.C.-born African-American writer of Christian non-fiction.</p>
+          </bioghist>
+          <scopecontent id="aspace_dc752ece625f5400811487e947a16d50">
+            <head>Scope and Contents</head>
+            <p>Oral history interview with C. Bernard Ruffin, an African-American writer and D.C. native. He tells about his childhood in the U Street area where his father was a beat cop and leader in the local Police Boys' Club and his aunts were teachers at a local high school. He also discusses his education, his experiences of segregation, and the changing character of the U Street community throughout his lifetime.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_5660411fe9d21d0487ab127a8a986a63" level="file">
+          <did>
+            <unittitle>C. Bernard Ruffin interview (part 3 of 3)</unittitle>
+            <unitid>dcpl_ohp26-12_03.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_7f2a344216063cdf408a2fcbf1270ee4">
+            <head>Biographical / Historical</head>
+            <p>C. Bernard Ruffin is a D.C.-born African-American writer of Christian non-fiction.</p>
+          </bioghist>
+          <scopecontent id="aspace_672a718c16ae31a066e125e00532e7bc">
+            <head>Scope and Contents</head>
+            <p>Oral history interview with C. Bernard Ruffin, an African-American writer and D.C. native. He tells about his childhood in the U Street area where his father was a beat cop and leader in the local Police Boys' Club and his aunts were teachers at a local high school. He also discusses his education, his experiences of segregation, and the changing character of the U Street community throughout his lifetime.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_04333fd4e3f7e9b3c64344ad9961e485" level="file">
+          <did>
+            <unittitle>Alva Lorena Smith Marcus interview</unittitle>
+            <unitid>dcpl_ohp26-11.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_10ec8cb9e838d5c46fdcc0a96af1dd0e">
+            <head>Biographical / Historical</head>
+            <p>Alva Lorena Smith Marcus was a social worker, civil rights activist, literacy advocate, and graduate of Howard University.</p>
+          </bioghist>
+          <scopecontent id="aspace_65af84f8e0e8db5223223b1ea108ef1d">
+            <head>Scope and Contents</head>
+            <p>Oral history interview with Alva Lorena Smith Marcus, an African-American woman who grew up in the U Street Corridor neighborhood. She recounts how growing up, her father owned or managed several businesses along U Street, drove a cab, and ran messages for the FBI. She describes many experiences of community, childhood and young adulthood, as well as her time as a student at Howard University. Her stories record the transition in the U Street neighborhood to having more black-owned businesses.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_f6e8baed864443c213ae8c38be5ad681" level="file">
+          <did>
+            <unittitle>Therrell Camille Smith interview</unittitle>
+            <unitid>dcpl_ohp26-13.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_1a02ce8c3f1f62956fae308f0fd83531">
+            <head>Biographical / Historical</head>
+            <p>Therrell Camille Smith is a respected dance teacher, DC native, and graduate of Fisk University.</p>
+          </bioghist>
+          <scopecontent id="aspace_5e3799b161fc8c37c51816bb66ca55e8">
+            <head>Scope and Contents</head>
+            <p>Oral history interview of Therrell Camille Smith, an African-American woman, D.C. native, and respected teacher of dance. Mrs. Smith has been dancing since the age of 8. She shares memories of her early childhood and young adulthood, including memories of dancing, education, her travels in Europe, and also her memories of her parents.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_7baf756450991e2c16d17ab7b43264b2" level="file">
+          <did>
+            <unittitle>James Elias Smoot interview</unittitle>
+            <unitid>dcpl_ohp26-14.wav</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_3c5c59e0c69df4d79b192e9481a3aa32">
+            <head>Biographical / Historical</head>
+            <p>James Elias Smoot, as a teenager, worked an usher at the old Howard Theater and an odd jobs man for the bands that passed through there.</p>
+          </bioghist>
+          <scopecontent id="aspace_ad9ae7332daaaf7391a5518ecceee37d">
+            <head>Scope and Contents</head>
+            <p>Oral history interview with James Elias Smoot, an African-American man who grew up in historically black Georgetown, Deanwood neighborhood and the old Southwest DC. Despite a troubled home life and the responsibility of caring for his younger siblings, Mr. Smoot developed a passion for music at age 12 listening to Rock and Roll and singing along to the radio. He lists several of his musical influences and favorites and describes the many musical groups he had the pleasure of meeting while working at the Howard Theater as a boy. He also tells of his experience of the U Street riots - his band was scheduled to perform in a club on 14th street that night but the club owner cancelled, leaving the band with nothing to do... except let out their anger by joining the looting.</p>
+          </scopecontent>
+        </c>
+      </c>
+      <c id="aspace_b96eaec05740f27f6d0f0c19267091aa" level="series">
+        <did>
+          <unittitle>Series 2: Indexes</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">14 Files</extent>
+          </physdesc>
+        </did>
+        <c id="aspace_0b32cacdda7319b9d184664f2c52b487" level="file">
+          <did>
+            <unittitle>James A. Bennett interview index</unittitle>
+            <unitid>dcpl_ohp26-01_ind.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_f921332fd81ddd40e4a65cc5212b721e">
+            <head>Biographical / Historical</head>
+            <p>James A. Bennett is a long-time resident of Washington, D.C. whose recollections give valuable insight into life growing up in the U Street neighborhood during segregation.</p>
+          </bioghist>
+          <scopecontent id="aspace_3909c74ba23f71ecb71de5d1490999b5">
+            <head>Scope and Contents</head>
+            <p>Index to the oral history interview with James A. Bennett. An African-American man who grew up in the U Street Corridor neighborhood of Washington, D.C. Mr. Bennett describes his understanding of segregation as a child, his experiences of the U Street music and entertainment scene both as a child street performer and, when he was older, as a patron of the clubs and theaters in the area. His history charts the changing character of the U Street community as he was growing up.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_9d897d8ff1ffa07a71b87c356a9890f0" level="file">
+          <did>
+            <unittitle>Sandra Bulter-Truesdale interview index</unittitle>
+            <unitid>dcpl_ohp26-02_ind.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_a5311b373722d7e94c8a2fd340f23928">
+            <head>Biographical / Historical</head>
+            <p>Sandra Butler-Truesdale worked in Youth Opportunity Services in the district government after graduation from Howard University, developing music programs for youth empowerment. She later worked as a cosmetologist for James Brown and met many famous performers. At the time of the interview, she was involved with DC Legendary Musicians, an organization that deals with musicians who were mostly born and raised in Washington, DC and have played with famous musicians.</p>
+          </bioghist>
+          <scopecontent id="aspace_10d5bb21c79693ef1ebdbc4aa80b23b8">
+            <head>Scope and Contents</head>
+            <p>Index to the oral history interview with Sandra Butler-Truesdale. An African-American woman who grew up in the U Street Corridor neighborhood of Washington, D.C. She recounts her family's history of civil rights activism, her childhood involvement with the music scene, her graduation from Cardozo Senior High School and Howard University. Her personal history charts her connections through her work as a cosmetologist to famous names in the music business and follows the changing character of the U Street Corridor.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_3e132f8ba47f6f7aae2d7a02c3cb89c9" level="file">
+          <did>
+            <unittitle>Ida Marie Campbell interview index</unittitle>
+            <unitid>dcpl_ohp26-03_ind.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_1264014f18a1e87a7fd7be249b48d751"><head>Biographical / Historical</head>Ida Maria Campbell is a blues, jazz and R&amp;B singer and presenter of the radio program Don't Forget the Blues. At the time of the interview, she worked with the DC Legendary Musicians organization, organizing music for area venues and organizing social services for local musicians.</bioghist>
+          <scopecontent id="aspace_78514ae73dca8647b651c62c9d77ec3f">
+            <head>Scope and Contents</head>
+            <p>Index to the oral history interview with Ida Maria Campbell, a mixed race (African-American and Cuban) woman born in Cuba in 1951 who grew up in the Trinidad and Washington Highlands neighborhoods and participated in the U Street Corridor music scene as a singer and a patron. She recounts "running the numbers" illegally for the family, and one day they won $1500 and bought house. She made music a career, becoming a radio presenter of the WPFW show Don't Forget the Blues.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_9b07c851f8a64a39378934bce319fa7a" level="file">
+          <did>
+            <unittitle>Jeannine Clark interview index</unittitle>
+            <unitid>dcpl_ohp26-04_ind.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_2d426af93d341ae973fcc0350d17ffde">
+            <head>Biographical / Historical</head>
+            <p>Jeannine Clark is a frequent singer at U Street theaters and venues and also remembers growing up in D.C. and seeing performances on U St after the era of "Black Broadway" but prior to the U Street Riots.</p>
+          </bioghist>
+          <scopecontent id="aspace_248fc59a6b7f25088bbf85c0afa5a722">
+            <head>Scope and Contents</head>
+            <p>Index to the oral history interview with Jeannine Clark, an African-American woman who grew up in the Trinidad neighborhood and later in Southeast D.C.. She recounts visiting the U Street Corridor before and after the U Street Riots, performing as a singer and going to theaters. She discusses the changing character of U Street Corridor throughout her life.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_dd50b15afc0dde32604e69ae54cae7ed" level="file">
+          <did>
+            <unittitle>Thelma Dianne Dale interview index</unittitle>
+            <unitid>dcpl_ohp26-05_ind.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_bfcaa63724441a0efc27cccb99cb9440">
+            <head>Biographical / Historical</head>
+            <p>Thelma Dianne Dale comes from a family of African American business owners and her memories of her childhood give valuable insights into growing up in DC under segregation.</p>
+          </bioghist>
+          <scopecontent id="aspace_ca42bc3b837994b395a671c7cc4ec23c">
+            <head>Scope and Contents</head>
+            <p>Index to the oral history interview with Thelma Dianne Dale, an African-American woman whose family owned a grocery store in Anacostia. She recounts her experiences of segregation as a child, as well as her trips to the U Street Corridor for the theater and jazz clubs and church or holiday events when she was a student at Howard University.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_632e9cf33d1b050f91a6661c428e7ba5" level="file">
+          <did>
+            <unittitle>Gregory Lamont Gaskins interview index</unittitle>
+            <unitid>dcpl_ohp26-06_ind.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_2fc70c1d1cbb2d5319d0cfa529f528b6">
+            <head>Biographical / Historical</head>
+            <p>Gregory Gaskins is a self-taught guitarist and D.C. native who has toured with bands like the Manhattans and with Elvis Presley.</p>
+          </bioghist>
+          <scopecontent id="aspace_c7906dc05fc40eda86240045e267ae7c">
+            <head>Scope and Contents</head>
+            <p>Index to the oral history interview with Gregory Gaskins, an African-American man who has been playing guitar since he was a young child, performing throughout D.C. and on tour with groups like the Manhattans and with Elvis Presley. He describes many clubs from his childhood along 14th street in the U Street Corridor neighborhood and many famous musical groups that came through D.C. on tour.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_fb01fe23166768f4e72553ee784c827e" level="file">
+          <did>
+            <unittitle>David C. Gilbert interview index</unittitle>
+            <unitid>dcpl_ohp26-07_ind.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_727d356df0178b209fd3d40cae77fb74">
+            <head>Biographical / Historical</head>
+            <p>David C. Gilbert is a Vietnam Veteran whose work as a community relief volunteer following the U Street Riots gives rare insight into a difficult time in U Street's history.</p>
+          </bioghist>
+          <scopecontent id="aspace_acf36043869043e22de0f225b1209ef2">
+            <head>Scope and Contents</head>
+            <p>Index to the oral history interview with David C. Gilbert, an African-American man who recounts his childhood in Barry Farms neighborhood of Southeast, D.C. After serving in the military during the Vietnam War - an experience which profoundly influenced his views on face and politics - he returned to DC and moved to the Adams Morgan neighborhood. He recounts his experiences during the U Street Riots and immediately after when the devastation to the neighborhood led to severe food scarcity and whole blocks of businesses destroyed and Mr. Gilbert volunteered to deliver for the Howard University Food Distribution Center.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_9a5a473d5a6ceb31f7af7f4aa53fc7bf" level="file">
+          <did>
+            <unittitle>Marita Golden interview index</unittitle>
+            <unitid>dcpl_ohp26-08_ind.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_026abe97ab3ceee6f10ed538edd8c2ff">
+            <head>Biographical / Historical</head>
+            <p>Marita Golden is an award-winning novelist, writer, and teacher as well as a co-founder of the Hurston/Wright Foundation, a national organization for African-American writers.</p>
+          </bioghist>
+          <scopecontent id="aspace_b645a3884f336a353d5f9407ade58624">
+            <head>Scope and Contents</head>
+            <p>Index to the oral history interview with Marita Golden, an African-American woman who recounts her childhood in Columbia Heights and Foggy Bottom neighborhoods. She describes working as a journalist for the American University newspaper when she was a freshman there and going to cover the devastation of the U Street Corridor after the riots. Ms. Golden recalls becoming a community activist in the U Street area following the riots. She volunteered for Marion Barry's organization, Pride Inc. and for The Freedom School. She was also in the neighborhood to take classes at Howard University. In the late 1960s, Ms. Golden discovered poetry and was able to get her first poem included in the anthology Today's Negro Voices.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_824abc28f8e0140ceb436495d43cc050" level="file">
+          <did>
+            <unittitle>Hugh Joseph "Rusty" Hassan III interview index</unittitle>
+            <unitid>dcpl_ohp26-09_ind.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_94a016c07cdd182d82ba714648b80152">
+            <head>Biographical / Historical</head>
+            <p>Rusty Hassan is a prominent DC-area jazz journalist and radio presenter on WPFW.</p>
+          </bioghist>
+          <scopecontent id="aspace_4b3b09be5fc2137d20da4362a125e217">
+            <head>Scope and Contents</head>
+            <p>Index to the oral history interview with Rusty Hassan, a white man and husband of African-American civil rights activist Sondra Barret Hassan whose oral history is included in our March on Washington Oral History Project, recounts his life as a devoted jazz fan and music journalist who became closely involved in the D.C. Jazz scene when he moved to D.C. to attend Georgetown University. He recounts details of connections made with many famous jazz artists, performances he attended in the U Street area, and his later travels in Europe among the avant-garde European Jazz scene of the 1960s. After the U St. riots and the redevelopment of Southwest D.C. Mr. Hassan was involved with rehousing residents of those areas through his work with a redevelopment aid agency.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_108a7fa7b367835db6a7355eb3868c50" level="file">
+          <did>
+            <unittitle>Edythe Prudence Holland Jones interview index</unittitle>
+            <unitid>dcpl_ohp26-10_ind.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_74df107ac2e45d90e5be792f63f1f93b">
+            <head>Biographical / Historical</head>
+            <p>Edythe Prudence Holland Jones moved to DC to attend high school but soon left school to work. Her experiences offer a rare glimpse into life in DC prior to World War 1 and in the Interwar Period.</p>
+          </bioghist>
+          <scopecontent id="aspace_8c7fef9464cfb46a2986b5d531d598b1">
+            <head>Scope and Contents</head>
+            <p>Index to the oral history interview with Edythe Prudence Holland Jones, an African-American woman who recounts her experiences of the U Street neighborhood, African-American life in DC, and music and theater performances she saw from the time she moved to DC in high school. In particular, she tells of seeing Marion Anderson's concert at the Lincoln Memorial in 1939.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_b373d152224a56e63a33185d65105bbb" level="file">
+          <did>
+            <unittitle>Alva Lorena Smith Marcus interview index</unittitle>
+            <unitid>dcpl_ohp26-11_ind.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_13eee925e45483d9e5573f559042157a">
+            <head>Biographical / Historical</head>
+            <p>Alva Lorena Smith Marcus was a social worker, civil rights activist, literacy advocate, and graduate of Howard University.</p>
+          </bioghist>
+          <scopecontent id="aspace_13f22371820967a83f5caef754eb32ec">
+            <head>Scope and Contents</head>
+            <p>Index to the oral history interview with Alva Lorena Smith Marcus, an African-American woman who grew up in the U Street Corridor neighborhood. She recounts how growing up, her father owned or managed several businesses along U Street, drove a cab, and ran messages for the FBI. She describes many experiences of community, childhood and young adulthood, as well as her time as a student at Howard University. Her stories record the transition in the U Street neighborhood to having more black-owned businesses.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_d762e66efde609f857a040ffe287d27d" level="file">
+          <did>
+            <unittitle>C. Bernard Ruffin interview index</unittitle>
+            <unitid>dcpl_ohp26-12_ind.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_b66ac41d02364a1b5280735a0e006741">
+            <head>Biographical / Historical</head>
+            <p>C. Bernard Ruffin is a D.C.-born African-American writer of Christian non-fiction.</p>
+          </bioghist>
+          <scopecontent id="aspace_4cba384449c1ce0aee8dc6e87dc8e3da">
+            <head>Scope and Contents</head>
+            <p>Index to the oral history interview with C. Bernard Ruffin, an African-American writer and D.C. native. He tells about his childhood in the U Street area where his father was a beat cop and leader in the local Police Boys' Club and his aunts were teachers at a local high school. He also discusses his education, his experiences of segregation, and the changing character of the U Street community throughout his lifetime.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_92ea09696cbfc12d5a10d2453a7658b0" level="file">
+          <did>
+            <unittitle>Therrell Camille Smith interview index</unittitle>
+            <unitid>dcpl_ohp26-13_ind.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_1e4b9ee3316b6b24c9974b1e095c8017">
+            <head>Biographical / Historical</head>
+            <p>Therrell Camille Smith is a respected dance teacher, DC native, and graduate of Fisk University.</p>
+          </bioghist>
+          <scopecontent id="aspace_1d6e2ba11211b3eaa51d8d9015b0552d">
+            <head>Scope and Contents</head>
+            <p>Index to the oral history interview with Therrell Camille Smith, an African-American woman, D.C. native, and respected teacher of dance. Mrs. Smith has been dancing since the age of 8. She shares memories of her early childhood and young adulthood, including memories of dancing, education, her travels in Europe, and also her memories of her parents.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_87f9ab30590d1ed63c0129f3856ba517" level="file">
+          <did>
+            <unittitle>James Elias Smoot interview index</unittitle>
+            <unitid>dcpl_ohp26-14_ind.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+          <bioghist id="aspace_4ed754ff6070282a10e31b068371244b">
+            <head>Biographical / Historical</head>
+            <p>James Elias Smoot, as a teenager, worked an usher at the old Howard Theater and an odd jobs man for the bands that passed through there.</p>
+          </bioghist>
+          <scopecontent id="aspace_88c0b6d069749be2b06705777144b26c">
+            <head>Scope and Contents</head>
+            <p>Index to the oral history interview with James Elias Smoot, an African-American man who grew up in historically black Georgetown, Deanwood neighborhood and the old Southwest DC. Despite a troubled home life and the responsibility of caring for his younger siblings, Mr. Smoot developed a passion for music at age 12 listening to Rock and Roll and singing along to the radio. He lists several of his musical influences and favorites and describes the many musical groups he had the pleasure of meeting while working at the Howard Theater as a boy. He also tells of his experience of the U Street riots - his band was scheduled to perform in a club on 14th street that night but the club owner cancelled, leaving the band with nothing to do... except let out their anger by joining the looting.</p>
+          </scopecontent>
+        </c>
+      </c>
+      <c id="aspace_bc141678f285e0aa8225e74c97dd6525" level="series">
+        <did>
+          <unittitle>Series 3: Transcripts</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2 Files</extent>
+          </physdesc>
+        </did>
+        <scopecontent id="aspace_9aa1f28ebf421fb5b8c2214bfbe8ab4c">
+          <head>Scope and Contents</head>
+          <p>Transcripts exist only for the Gregory Lamont Gaskins and Alva Lorena Smith Marcus interviews.</p>
+        </scopecontent>
+        <c id="aspace_ed43ad5a56d74a8c5b00f5cba5ba56f2" level="file">
+          <did>
+            <unittitle>Gregory Lamont Gaskins transcript</unittitle>
+            <unitid>dcpl_ohp26-06_tra.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+        </c>
+        <c id="aspace_8cea17cfd110ec6d959ed4e70dcefbca" level="file">
+          <did>
+            <unittitle>Alva Lorena Smith Marcus interview transcript</unittitle>
+            <unitid>dcpl_ohp26-11_tra.pdf</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 Files</extent>
+            </physdesc>
+            <unitdate normal="2014/2014">2014</unitdate>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
