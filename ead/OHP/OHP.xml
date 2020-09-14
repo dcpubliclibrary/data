@@ -1,8 +1,9 @@
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://washingtoniana.dclibrary.org">ivycity.xml</eadid>
+    <eadid url="http://washingtoniana.dclibrary.org">OHP027IvyCity</eadid>
     <filedesc>
       <titlestmt>
+        <titleproper type="filing">Ivy City Oral History Project</titleproper>
         <titleproper>Ivy City Oral History Project <num>OHP.027</num></titleproper>
         <subtitle>An inventory of Ivy City Oral History Project at DC Public Library</subtitle>
         <author>Finding aid prepared by Lisa Moore.</author>
@@ -10,7 +11,7 @@
       <publicationstmt>
         <publisher>DCPL Special Collections - MLK Library</publisher>
         <p>
-          <date>November 2017</date>
+          <date>2017-11</date>
         </p>
         <address>
           <addressline>901 G Street NW</addressline>
@@ -20,10 +21,16 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:52:17 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-14 08:47:46 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-09-11</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -42,33 +49,61 @@
       </origination>
       <unitid>OHP.027</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 linear feet; 1 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">0.25 Linear feet</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="2005/2007" type="inclusive">2005-2007</unitdate>
       <langmaterial id="aspace_ba9b33469ba4ea275fb9f4cbf3c098e2">English</langmaterial>
     </did>
-    <bioghist id="aspace_db67a55d85b8b6228ef3ab77a8cf8284">
-      <head>Biographical / Historical</head>
-      <p>Ingrid Drake, CGAP (Certified Government Auditing Professional), is a program analyst with the Office of District of Columbia Auditor (ODCA). Previously she was an investigator for the Washington-based nonprofit Project On Government Oversight (POGO); and was a writer, Pacifica Radio correspondent, and community educator living in Washington, DC. In 2007 at the time of gift, she was a local DC journalist, writing for several outlets: DC North, East of the River, Hill Rag, DC Radio Co-op, www.DCIndymedia.org, WPFW 89.3 FM - Pacifica Radio, and Free Speech Radio News. Contact info: IngridNatasha@yahoo.com.</p>
-    </bioghist>
-    <scopecontent id="aspace_0e8cac43e1b90393e81b2fad2c6fd702">
-      <head>Scope and Contents</head>
-      <p>Between 2005 and 2007, Ingrid Drake coordinated the Ivy City Oral History Project. In collaboration with the youth of Ivy City Achievers, she interviewed and supervised interviews with residents of the Ivy City neighborhood of Washington, DC. The Oral History Project was part of a larger initiative of Empower DC, a grassroots nonprofit in Washington, DC, called the Ivy City Neighborhood and Oral History Project, which began in 2004. The larger initiative arose from a plan to preserve Alexander Crummell School in the Ivy City neighborhood; Empower DC receiving funding for their efforts to document Ivy City's history from the Humanities Council of Washington, DC. The resulting interviews were published in Ivy City Neighborhood and Oral History Project Booklet, an Empower DC project, accessible at http://wdchumanities.org/dcdm/items/show/1356 and http://empowerdc.org/wp-content/uploads/2016/05/Ivy-City-History-Project-Booklet.pdf. Additionally, Ingrid Drake produced a radio show for WPFW 89.3 FM of the final interviews. 
-The Ivy City Oral History Project interviewees discuss a history of black migration to Ivy City from the South; work histories; Ivy City memories; neighborhood churches; Sparrow's Beach, a private beach in Annapolis, MD for black vacationers during segregation; Alexander Crummell Elementary School; the DC riots; changes in the neighborhood over time; drug use in the 1970s; Ivy City activism; gentrification; housing advocacy; Empower DC; and the future of Ivy City. </p>
-      <p>The Ivy City Oral History Project collection is comprised of 23 audio CDs (21 CDs of interviews of 24 people, plus one CD of transcripts in the form of 16 Word [97-2003 version] documents of 19 interviews, and one CD of the final radio show), and 11 color 4"x6" photographs of 13 of the 24 interviewees. There are no transcripts for some interviewees. The radio show contains snippets of interviews interwoven with popular commercially recorded music. </p>
-      <p>Interviewed are 24 people: Aaron Aylor, Charles H. Brown, Alfred Coates, Theodore Coates (d. March 5, 2010), Clifford Coulson (d. May 6, 2014), Lula "Jackie" Council, Erica Crews, Okia Ferguson, Remetter Freeman, Dorothy "Nicey" Gary (d. October 13, 2010), Eleanor Grant, Sarah Parker Hunter, Marjorie Jones, Aujeneah Milner, Joel McPherson, Mohammed Mobaidin, Parisa Norouzi, Audrey Ray, Margaret Rice (d. February 7, 2016), Elaine Smith, Kenneth Tapscott, Romaine Thomas, Charlotte Tyner (d. October 25, 2011) and Daisy Wroten.</p>
-    </scopecontent>
     <arrangement id="aspace_973bef79b4cbeee9d650af09d39b7628">
       <head>Arrangement</head>
       <p>This collection is housed in one box, 0.25 linear feet, and contains two series. The first series is organized alphabetically by last name of interviewee on the CD (some CDs contain multiple interviews, and group interviews), and contains 23 folders. The second series contains color 4"x6" photographs of some of the interviewees.</p>
     </arrangement>
+    <arrangement id="aspace_45ba0bb2a234393e7e22541af7a48380">
+      <head>Arrangement</head>
+      <p>This collection is housed in one box and contains two series. The first series is organized alphabetically by last name of interviewee on the CD (some CDs contain multiple interviews, and group interviews), and contains 23 folders. The second series contains color 4"x6" photographs of some of the interviewees.<br/>
+<br/>
+Series 1: Oral Histories<br/>
+Series 2: Photographs</p>
+    </arrangement>
+    <bioghist id="aspace_db67a55d85b8b6228ef3ab77a8cf8284">
+      <head>Biographical / Historical</head>
+      <p>Ingrid Drake, CGAP (Certified Government Auditing Professional), is a program analyst with the Office of District of Columbia Auditor (OD.C.A). Previously, she was an investigator for the Washington-based nonprofit Project On Government Oversight (POGO); and was a writer, Pacifica Radio correspondent, and community educator living in Washington, D.C. In 2007 at the time of gift, she was a local D.C. journalist, writing for several outlets: D.C. North, East of the River, Hill Rag, D.C. Radio Co-op, www.D.C.Indymedia.org, WPFW 89.3 FM - Pacifica Radio, and Free Speech Radio News. Her contact information is: IngridNatasha@yahoo.com.</p>
+    </bioghist>
+    <processinfo id="aspace_5a8c67bff3909bc146ad80e36227cf7a">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
+    </processinfo>
     <relatedmaterial id="aspace_709ae96fbdc37bf2947be7a5af5d8f27">
       <head>Related Materials</head>
       <p>The information in the interviews was used in a book, African Americans and Gentrification in Washington, DC: Race, Class and Social Justice in the Nation's Capital, by Sabhiya Prince (New York: Routledge, 2014).</p>
     </relatedmaterial>
+    <relatedmaterial id="aspace_e1b0adf4b8c708f369b34839dbc1de17">
+      <head>Related Materials</head>
+      <p>The information in the interviews was used in a book, "African Americans and Gentrification in
+Washington, D.C.: Race, Class and Social Justice in the Nation's Capital," by Sabhiya Prince (New York: Routledge, 2014).</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_0e8cac43e1b90393e81b2fad2c6fd702">
+      <head>Scope and Contents</head>
+      <p>From 2005 and 2007, Ingrid Drake coordinated the Ivy City Oral History Project, in collaboration with the youth of Ivy City Achievers. She interviewed and supervised interviews with residents of the Ivy City neighborhood of Washington, D.C. The project was part of a larger initiative of Empower D.C., a grassroots nonprofit in D.C., called the Ivy City Neighborhood and Oral History Project, which began in 2004. The larger initiative arose from a plan to preserve Alexander Crummell School in the Ivy City neighborhood. Empower D.C. received funding for their efforts to document Ivy City's history from the Humanities Council of Washington, D.C. The resulting interviews were published in Ivy City Neighborhood and Oral History Project Booklet, an Empower D.C. project.
+<br/>
+Additionally, Ingrid Drake produced a radio show for WPFW 89.3 FM of the final interviews. The interviewees discuss a history of black migration to Ivy City from the South, work histories, Ivy City memories, neighborhood churches, Sparrow's Beach (a private beach in Annapolis, Maryland for black vacationers during the Jim Crow Era of racial segregation, Alexander Crummell Elementary School, the 1968 D.C. uprising, neighborhood changes over time, drug use in the 1970s, Ivy City activism, gentrification, housing advocacy, Empower D.C., and the future of Ivy City.<br/>
+<br/>
+The Ivy City Oral History Project collection is comprised of 23 audio CDs (21 CDs of interviews of 24 people, plus one CD of transcripts in the form of 16 Word [97-2003 version] documents of 19 interviews, and one CD of the final radio show), and 11 color 4"x6" photographs of 13 of the 24 interviewees. There are no transcripts for some interviewees. The radio show contains snippets of interviews interwoven with popular commercially-recorded music. Interviewed are 24 people: Aaron Aylor, Charles H. Brown, Alfred Coates, Theodore Coates, Clifford Coulson, Lula "Jackie" Council, Erica Crews, Okia Ferguson, Remetter Freeman, Dorothy "Nicey" Gary, Eleanor Grant, Sarah Parker Hunter, Marjorie Jones, Aujeneah Milner, Joel McPherson, Mohammed Mobaidin, Parisa Norouzi, Audrey Ray, Margaret Rice, Elaine Smith, Kenneth Tapscott, Romaine Thomas, Charlotte Tyner and Daisy Wroten.</p>
+    </scopecontent>
+    <userestrict id="aspace_5076206cd5e70a4a262eed69ffe395a7">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85095238" source="Library of Congress Subject Headings">Oral History</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <geogname authfilenumber="http://id.loc.gov/authorities/names/n97033781" source="Library of Congress Subject Headings">Ivy City (Washington, D.C.)</geogname>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85001932" source="Library of Congress Subject Headings">African Americans</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85047009" source="Library of Congress Subject Headings">Families</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_a7c0df53472282b8c59360004af1e9df" level="series">
@@ -79,8 +114,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Ivy City Oral History Project, 2005-6</unittitle>
             <unitdate normal="2006/2006" type="inclusive">2006</unitdate>
-            <container id="aspace_491235f39585deaa1bdeaf61b0731642" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d370d3d84720010179ef7ba4c3f6bc92" parent="aspace_491235f39585deaa1bdeaf61b0731642" type="Folder">1</container>
+            <container id="aspace_d4ac955058f8d8c456d1bf9c323b777a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_43f8be4072be421f1e4d65c9988ca7b8" parent="aspace_d4ac955058f8d8c456d1bf9c323b777a" type="Folder">1</container>
           </did>
           <scopecontent id="aspace_c0d88945296d9c749426084d65102da7">
             <head>Scope and Contents</head>
@@ -91,8 +126,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Aaron Aylor - 44:35 - Empower DC's Ivy City Oral History Project 7/15/06</unittitle>
             <unitdate type="inclusive">2006-07-15</unitdate>
-            <container id="aspace_eb177017d2dca26e0299048af012d9eb" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_7dbfa7ffb93fe5bbe10b32f4fd93c921" parent="aspace_eb177017d2dca26e0299048af012d9eb" type="Folder">2</container>
+            <container id="aspace_d57798142835d8280778e1d278de2b6f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_14af71f2e0dcc9b90a3094797bdfc5c8" parent="aspace_d57798142835d8280778e1d278de2b6f" type="Folder">2</container>
           </did>
           <scopecontent id="aspace_f5aed8626c71f40a10aa9aa6c33beca4">
             <head>Scope and Contents</head>
@@ -103,8 +138,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Charles Brown Ivy City Oral History Project 8/2/06</unittitle>
             <unitdate type="inclusive">2006-08-02</unitdate>
-            <container id="aspace_5b812ff5f0e2cb23cfd9a13351e7ce1d" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_665f5ebce2d5dd1ef790ebcdf6dfb424" parent="aspace_5b812ff5f0e2cb23cfd9a13351e7ce1d" type="Folder">3</container>
+            <container id="aspace_c9cc072d9efb07999bf79df126ab9f70" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3ecef83b3e0b9f503b9fcd363411da5d" parent="aspace_c9cc072d9efb07999bf79df126ab9f70" type="Folder">3</container>
           </did>
           <scopecontent id="aspace_fe8657b65630d04261046cea82c87bf0">
             <head>Scope and Contents</head>
@@ -115,8 +150,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Alfred and Theodore Coates - 60:23 - Empower DC's Ivy City Oral History Project 6/20/05</unittitle>
             <unitdate type="inclusive">2005-06-20</unitdate>
-            <container id="aspace_1b74574452cb0f13601552781b765595" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e8474f61174592ebf02fcb57b17a0376" parent="aspace_1b74574452cb0f13601552781b765595" type="Folder">4</container>
+            <container id="aspace_fce98713de7f89c3f6dbfe0ac4a27055" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_982935f50925e8199f54a250fe3221c1" parent="aspace_fce98713de7f89c3f6dbfe0ac4a27055" type="Folder">4</container>
           </did>
           <scopecontent id="aspace_e4a7022eb6961911f05f110d9b89a19a">
             <head>Scope and Contents</head>
@@ -127,8 +162,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Clifford Coulson - 24:23 - Empower DC's Ivy City Oral History Project 4/20/05</unittitle>
             <unitdate type="inclusive">2005-04-20</unitdate>
-            <container id="aspace_c1eaf905a889f8c5511cce6aa1e2a149" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_67f40540a8eaa817e30e94d726041aa7" parent="aspace_c1eaf905a889f8c5511cce6aa1e2a149" type="Folder">5</container>
+            <container id="aspace_23e091efd79e4bfddee1c106d7d21752" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_65195abb5e230a02f47d492006452c04" parent="aspace_23e091efd79e4bfddee1c106d7d21752" type="Folder">5</container>
           </did>
           <scopecontent id="aspace_97215e78b99c4c19221b370db730cc5f">
             <head>Scope and Contents</head>
@@ -139,8 +174,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Jackie Council and Elaine Smith 26:53 - Empower DC's Ivy City Oral History Project</unittitle>
             <unitdate type="inclusive">2006-07-24</unitdate>
-            <container id="aspace_e2e9dfa9423e5c123684b1e3cf79a6cb" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_c536b8ff29cffd929b0e556907dca44a" parent="aspace_e2e9dfa9423e5c123684b1e3cf79a6cb" type="Folder">6</container>
+            <container id="aspace_51200966f13a2732c62b77626262c9ca" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_45c3d0d079dfacd408c93744dd381b4f" parent="aspace_51200966f13a2732c62b77626262c9ca" type="Folder">6</container>
           </did>
           <scopecontent id="aspace_cd956a10ba8a54be6e2a89c52ad92247">
             <head>Scope and Contents</head>
@@ -151,8 +186,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Erica Crews - 13:13 Empower DC's Oral History Project (Ivy City)</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_f0be5688fd65c158c649dd036692547f" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_1be953ac6d5d4abe42bcd20aa1e06abb" parent="aspace_f0be5688fd65c158c649dd036692547f" type="Folder">7</container>
+            <container id="aspace_2fcc8a16eaebe82c99a76f16611d8f7a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_97e532215461a1421b6000d962ca7a34" parent="aspace_2fcc8a16eaebe82c99a76f16611d8f7a" type="Folder">7</container>
           </did>
           <scopecontent id="aspace_98b4957c2ca5d0d7f46e5646e44b9d58">
             <head>Scope and Contents</head>
@@ -163,8 +198,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Remetter Freeman - Disc 1/2: 49:10 - Empower DC's Ivy City Oral History Project 6/14/06</unittitle>
             <unitdate type="inclusive">2006-06-14</unitdate>
-            <container id="aspace_fce8b796150295b3614cc5d1621bedb9" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_ce7798b378d5030fe754bd5d45942ee1" parent="aspace_fce8b796150295b3614cc5d1621bedb9" type="Folder">8</container>
+            <container id="aspace_ea38b3395a22df80c960523b1f0b62c2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3f0f801a5ced67d23b2f8f43cf7468b5" parent="aspace_ea38b3395a22df80c960523b1f0b62c2" type="Folder">8</container>
           </did>
           <scopecontent id="aspace_28a848275886831a53df1584623540a4">
             <head>Scope and Contents</head>
@@ -175,8 +210,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Remetter Freeman - Disc 2/2: 33:27 - Empower DC's Ivy City Oral History Project 6/14/06</unittitle>
             <unitdate type="inclusive">2006-06-14</unitdate>
-            <container id="aspace_2f61d35ee1c3addf4aecf62bda4f5e66" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_7f2bfb6321f465b56e43c9e685839b19" parent="aspace_2f61d35ee1c3addf4aecf62bda4f5e66" type="Folder">9</container>
+            <container id="aspace_e0bff725f13fc167b02adf42896502e7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a4214ee77a4f7452ec9c01a608328dc0" parent="aspace_e0bff725f13fc167b02adf42896502e7" type="Folder">9</container>
           </did>
           <scopecontent id="aspace_38a6b05a3a15965cb03b61ed4afe3b7d">
             <head>Scope and Contents</head>
@@ -187,8 +222,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Eleanor Grant and Daisy Wroten - Disc 1/2 - 43:45 - Empower DC's Ivy City Oral History Project 12/19/05</unittitle>
             <unitdate type="inclusive">2005-12-19</unitdate>
-            <container id="aspace_fa8b5f2302bb2dc36bc6ca4dc65f9466" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_32c52678db51d0a22fe0b921d5ed5bc5" parent="aspace_fa8b5f2302bb2dc36bc6ca4dc65f9466" type="Folder">10</container>
+            <container id="aspace_21411af1b75a763b2a7023c56d0803dd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_239deb7e3161685fd6d3924a8f4e53ed" parent="aspace_21411af1b75a763b2a7023c56d0803dd" type="Folder">10</container>
           </did>
           <scopecontent id="aspace_64d43cce501a6ca656a2f9231be9accc">
             <head>Scope and Contents</head>
@@ -199,8 +234,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Eleanor Grant and Daisy Wroten - Disc 2/2 - 36:12 - Empower DC's Ivy City Oral History Project 12/19/05</unittitle>
             <unitdate type="inclusive">2005-12-19</unitdate>
-            <container id="aspace_9887dea91164f15ff5dc984983cf14f6" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_a03a5dd5d5a641680a74305ae2bcc93c" parent="aspace_9887dea91164f15ff5dc984983cf14f6" type="Folder">11</container>
+            <container id="aspace_38209680e429d709c74f22267c228785" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fe02a1f4722facb0f97ec6faaf993b47" parent="aspace_38209680e429d709c74f22267c228785" type="Folder">11</container>
           </did>
           <scopecontent id="aspace_65d80894ead551b32af4a2c20ed69a33">
             <head>Scope and Contents</head>
@@ -211,8 +246,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Dorothy "Nicey" Gray Ivy City Oral History Project 3/7/05</unittitle>
             <unitdate type="inclusive">2005-03-07</unitdate>
-            <container id="aspace_fc21f73f18d270c652cdd29c56cea9cc" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_8e4385d316cc69db5935a65570e72fd5" parent="aspace_fc21f73f18d270c652cdd29c56cea9cc" type="Folder">12</container>
+            <container id="aspace_f80ef8672f2be6f2594f2a9bf679b5df" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1f5c17ddf00aa4855e1e6be630c4b860" parent="aspace_f80ef8672f2be6f2594f2a9bf679b5df" type="Folder">12</container>
           </did>
           <scopecontent id="aspace_138d4ef5e8867aa5cdc64895956c4dc3">
             <head>Scope and Contents</head>
@@ -223,8 +258,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Marjorie Jones Ivy City Oral History Project 3/7/05</unittitle>
             <unitdate type="inclusive">2005-03-07</unitdate>
-            <container id="aspace_4b9ad84dcae6dc12dbfdf018f8eda856" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_95037cecb57a3b26a1cc4a1002b9f9bd" parent="aspace_4b9ad84dcae6dc12dbfdf018f8eda856" type="Folder">13</container>
+            <container id="aspace_e6fc1ec42ace95e981519f42b1df8f7e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_83dbef528e819a202ca2c8978994cca9" parent="aspace_e6fc1ec42ace95e981519f42b1df8f7e" type="Folder">13</container>
           </did>
           <scopecontent id="aspace_484d1d5452a6c6aa663e9e908a9e102d">
             <head>Scope and Contents</head>
@@ -235,8 +270,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Joel McPherson - 26:18 - Empower DC's Ivy City Oral History Project</unittitle>
             <unitdate type="inclusive">2006-07-16</unitdate>
-            <container id="aspace_b6f16ff8c40dd9c0377fb4feb065fcfe" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_8ae8e24c4c343c716ed8abc1a855f78c" parent="aspace_b6f16ff8c40dd9c0377fb4feb065fcfe" type="Folder">14</container>
+            <container id="aspace_6e0b148898aafdd65a9f31c698498e57" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_49de88779bb27d3a85da976baf4802bd" parent="aspace_6e0b148898aafdd65a9f31c698498e57" type="Folder">14</container>
           </did>
           <scopecontent id="aspace_74dd893f89dc9a7f7a55496d509a9f05">
             <head>Scope and Contents</head>
@@ -247,14 +282,14 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Aujeneah Milner - 11:23 Okia Ferguson 11:13 - Empower DC's Ivy City Oral History Project</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_8e99e51512c6053e90da17d69bff9974" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e67c4eb10b26418ecd294a2a58303dbd" parent="aspace_8e99e51512c6053e90da17d69bff9974" type="Folder">15</container>
+            <container id="aspace_0a5fea757f419c233402a0f4bde64bb9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_076ed7300b5bb537467e1b3087d5da14" parent="aspace_0a5fea757f419c233402a0f4bde64bb9" type="Folder">15</container>
           </did>
           <c id="aspace_463c13917254b7c16bf4eb7eec808cd7" level="item">
             <did>
               <unittitle>Aujeneah Milner - 11:23</unittitle>
               <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_d2342244d7062b590dc2bc522a537253" label="Mixed Materials" type="Item">1</container>
+              <container id="aspace_9c2f4cec625149a1cce7aec49fef29dd" label="Mixed Materials" type="Item">1</container>
             </did>
             <scopecontent id="aspace_97f2fa24b7c79411ceb686c2bb5eb70d">
               <head>Scope and Contents</head>
@@ -265,7 +300,7 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
             <did>
               <unittitle>Okia Ferguson 11:13</unittitle>
               <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_36da70e4c85a1b891521a168d0b4005c" label="Mixed Materials" type="Item">2</container>
+              <container id="aspace_e23c6d85fdbae2006d785dd12754dd12" label="Mixed Materials" type="Item">2</container>
             </did>
             <scopecontent id="aspace_70be83d8992d92ad81f3a38ef46ddc6b">
               <head>Scope and Contents</head>
@@ -277,8 +312,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Mohammed Mobaidin Ivy City Oral History Project</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_170308ffb6daf3bb373b887ff1ab71c1" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_16b166e7ff044b193647f664b2c1cba3" parent="aspace_170308ffb6daf3bb373b887ff1ab71c1" type="Folder">16</container>
+            <container id="aspace_941c404d868e94eb27774ac3a9dce108" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ef48a2a3fa6c2187ba87b94db9225097" parent="aspace_941c404d868e94eb27774ac3a9dce108" type="Folder">16</container>
           </did>
           <scopecontent id="aspace_52c37de502c3ad23aab781b46958cacc">
             <head>Scope and Contents</head>
@@ -289,8 +324,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Parisa Norouzi, 8/22/06 Ivy City Oral History Project</unittitle>
             <unitdate type="inclusive">2006-08-22</unitdate>
-            <container id="aspace_8e08a9a34682bebac26920c87f4f5239" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_f6537e7010f64d877af74cdf7a6282dc" parent="aspace_8e08a9a34682bebac26920c87f4f5239" type="Folder">17</container>
+            <container id="aspace_9baff4471bfc51e0828b72913a379249" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_10a2288999ffff0823222916fe529b30" parent="aspace_9baff4471bfc51e0828b72913a379249" type="Folder">17</container>
           </did>
           <scopecontent id="aspace_7a7021875ba92e377e219d0e7fa7e581">
             <head>Scope and Contents</head>
@@ -301,8 +336,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Audrey Ray - 58:56 - Empower DC's Ivy City Oral History Project</unittitle>
             <unitdate type="inclusive">2006-07-16</unitdate>
-            <container id="aspace_6219451363906ae9606990a6daf7bd6c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_f24ec05489b0d7ba808f6b5c0dea02e7" parent="aspace_6219451363906ae9606990a6daf7bd6c" type="Folder">18</container>
+            <container id="aspace_a4030afaa65d9578a266f186078a540c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_171252e8b86abf52db28170ac48f5c07" parent="aspace_a4030afaa65d9578a266f186078a540c" type="Folder">18</container>
           </did>
           <scopecontent id="aspace_70ee169b04ea8b2ff36cb043a67a9f3a">
             <head>Scope and Contents</head>
@@ -313,8 +348,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Margaret Rice and Sarah Parker Hunter - 63:02 - Empower DC's Oral History Project (Ivy City) 3/16/05</unittitle>
             <unitdate type="inclusive">2005-03-16</unitdate>
-            <container id="aspace_27560d0c28952c17c50f9256b7e15b39" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e0d5ad2897ef1722697f2ec5fe3f028d" parent="aspace_27560d0c28952c17c50f9256b7e15b39" type="Folder">19</container>
+            <container id="aspace_51113ca5f492a68d08d31981cbfd2711" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_98a5c873f53c027c60b38c288fbc91f5" parent="aspace_51113ca5f492a68d08d31981cbfd2711" type="Folder">19</container>
           </did>
           <scopecontent id="aspace_9ec373974c4eb93256111028996e0c3a">
             <head>Scope and Contents</head>
@@ -325,8 +360,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Kenneth Tapscott - 39:38 Empower DC's Oral History Project (Ivy City) 12/9/05</unittitle>
             <unitdate type="inclusive">2005-12-09</unitdate>
-            <container id="aspace_2669c156a540e7613eb48b34df87988c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e73c774fd15861d1be06ab940fa1a163" parent="aspace_2669c156a540e7613eb48b34df87988c" type="Folder">20</container>
+            <container id="aspace_fc8206c26f7ac3329af717c751cec570" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7e9e6e49a5a4eb2e2f56d7211820ecdc" parent="aspace_fc8206c26f7ac3329af717c751cec570" type="Folder">20</container>
           </did>
           <scopecontent id="aspace_7050342156a77f7e905764e1f0d16e7c">
             <head>Scope and Contents</head>
@@ -337,8 +372,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Romaine Thomas 8/17/06 Ivy City Oral History Project</unittitle>
             <unitdate type="inclusive">2006-08-17</unitdate>
-            <container id="aspace_486d64f52b3361de8ed84558f997ca9a" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d789ec5c117f70c70f22e23bce2c1d3e" parent="aspace_486d64f52b3361de8ed84558f997ca9a" type="Folder">21</container>
+            <container id="aspace_13118f1fc9866f578718167b0c6465dc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d9bf4399fafd08e6f657d523af859bd2" parent="aspace_13118f1fc9866f578718167b0c6465dc" type="Folder">21</container>
           </did>
           <scopecontent id="aspace_b7e6f2a9f0c65223940acaa238afae52">
             <head>Scope and Contents</head>
@@ -349,8 +384,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Charlotte Tyner - 52:03 - Empower DC's Ivy City Oral History Project 8/29/05</unittitle>
             <unitdate type="inclusive">2005-08-29</unitdate>
-            <container id="aspace_0ec155d68f39c1268e52253a0f3c82ed" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_fc937ceaea5fa0ebc1ab2c8329efaeb1" parent="aspace_0ec155d68f39c1268e52253a0f3c82ed" type="Folder">22</container>
+            <container id="aspace_2eb179be7899f26c4a28e85da6e8ac40" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f10ae983e8e77c43177a27fee3ccf42d" parent="aspace_2eb179be7899f26c4a28e85da6e8ac40" type="Folder">22</container>
           </did>
           <scopecontent id="aspace_e509c3c7e6d44823d208fffff2ce577a">
             <head>Scope and Contents</head>
@@ -361,8 +396,8 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Ivy City Oral History Project - Transcripts</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_6446cff5aa3af82cfed784df611420ba" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_8f706ebe522a63918299a6ac5094abdc" parent="aspace_6446cff5aa3af82cfed784df611420ba" type="Folder">23</container>
+            <container id="aspace_a0f8013a272430a70ecc89c1921d75ee" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1c529e271499bfc9a23df62a7aaec41c" parent="aspace_a0f8013a272430a70ecc89c1921d75ee" type="Folder">23</container>
           </did>
           <scopecontent id="aspace_4e1a0cb069050ef5e237f3ae2b22d763">
             <head>Scope and Contents</head>
@@ -378,14 +413,14 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
           <did>
             <unittitle>Photos of Ivy City Interviewees</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_ae02041f732b7aec97e9c022f9db12c8" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_232e4209227cf0255c876a1b41299d1e" parent="aspace_ae02041f732b7aec97e9c022f9db12c8" type="Folder">24</container>
+            <container id="aspace_755ed6d6a5ed14f9e4b00e0b6a80536e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d0ba3048625f77afc9024f14d2a92f05" parent="aspace_755ed6d6a5ed14f9e4b00e0b6a80536e" type="Folder">24</container>
           </did>
           <c id="aspace_f46eaea47e4884474d4428427f6eaf26" level="item">
             <did>
               <unittitle>Photo of Aaron Aylor. Ivy City Oral History Project.</unittitle>
               <unitdate type="inclusive">2006-07-15</unitdate>
-              <container id="aspace_7b6f9ea20a6369dbc7d24488a11d5641" label="Mixed Materials" type="Item">1</container>
+              <container id="aspace_49e5a6837f83b1b0417615c8db307690" label="Mixed Materials" type="Item">1</container>
             </did>
             <scopecontent id="aspace_ba1267e40d9cf2122a1ebd386a4508e4">
               <head>Scope and Contents</head>
@@ -396,7 +431,7 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
             <did>
               <unittitle>Photo of Charles Brown. Ivy City Oral History Project.</unittitle>
               <unitdate type="inclusive">2006-08-02</unitdate>
-              <container id="aspace_2f9e922291d2ca8c6274fffd6c48d446" label="Mixed Materials" type="Item">2</container>
+              <container id="aspace_25bc23b9754b5c39f8e9a731cee7d701" label="Mixed Materials" type="Item">2</container>
             </did>
             <scopecontent id="aspace_e7e5829e7c01e1cc0262f9659a2dcc70">
               <head>Scope and Contents</head>
@@ -407,7 +442,7 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
             <did>
               <unittitle>Photo of Alfred Coates and Theodore Coates. Ivy City Oral History Project.</unittitle>
               <unitdate type="inclusive">2005-06-20</unitdate>
-              <container id="aspace_47a55de6c7c5f820549fcae4fbc7f5ea" label="Mixed Materials" type="Item">3</container>
+              <container id="aspace_50b2a93ed6310a5cc7a54d99df98c263" label="Mixed Materials" type="Item">3</container>
             </did>
             <scopecontent id="aspace_8e4753c475b311ea4656e373e23986a8">
               <head>Scope and Contents</head>
@@ -418,7 +453,7 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
             <did>
               <unittitle>Photo of Clifford Coulson. Ivy City Oral History Project.</unittitle>
               <unitdate type="inclusive">2005-04-20</unitdate>
-              <container id="aspace_eb44552caabbedcc8f583d6e20bdb55a" label="Mixed Materials" type="Item">4</container>
+              <container id="aspace_6b83e817709fc6bafe8be07939040cab" label="Mixed Materials" type="Item">4</container>
             </did>
             <scopecontent id="aspace_a1c4d8a32c55a5aa325ed2ac8c2cc5ab">
               <head>Scope and Contents</head>
@@ -429,7 +464,7 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
             <did>
               <unittitle>Photo of Jackie Council and Elaine Smith. Ivy City Oral History Project.</unittitle>
               <unitdate type="inclusive">2006-07-24</unitdate>
-              <container id="aspace_0b1cb92f2a4b4e43c2d14631e59aa8c2" label="Mixed Materials" type="Item">5</container>
+              <container id="aspace_1260484a85f6a44875e193c46e660b8f" label="Mixed Materials" type="Item">5</container>
             </did>
             <scopecontent id="aspace_067b4954ebcc4cb396f25c8d919e3ed0">
               <head>Scope and Contents</head>
@@ -440,7 +475,7 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
             <did>
               <unittitle>Photo of Remetter Freeman. Ivy City Oral History Project.</unittitle>
               <unitdate type="inclusive">2006-06-14</unitdate>
-              <container id="aspace_6c10488e487ab6202dfc43d10f98f41d" label="Mixed Materials" type="Item">6</container>
+              <container id="aspace_894ed987980e25c8a51feb42c51765d0" label="Mixed Materials" type="Item">6</container>
             </did>
             <scopecontent id="aspace_0b0fd65d289f7acf58de48f6b6e457d4">
               <head>Scope and Contents</head>
@@ -451,7 +486,7 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
             <did>
               <unittitle>Photo of Mohammed Mobaidin. Ivy City Oral History Project.</unittitle>
               <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_caa26bd6b275f2588e7e3c8206097014" label="Mixed Materials" type="Item">7</container>
+              <container id="aspace_122b3d21d0beb3f0840fd48ffa65f1cd" label="Mixed Materials" type="Item">7</container>
             </did>
             <scopecontent id="aspace_80595fd7581a0a8c0e5402973a7fc5b7">
               <head>Scope and Contents</head>
@@ -462,7 +497,7 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
             <did>
               <unittitle>Photo of Parisa Norouzi. Ivy City Oral History Project.</unittitle>
               <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_d048c9bdfe854c5b51e96932f8763b6a" label="Mixed Materials" type="Item">8</container>
+              <container id="aspace_3fa0a025c757ef2e4c88442663f136b0" label="Mixed Materials" type="Item">8</container>
             </did>
             <scopecontent id="aspace_c5ee77c1f81e5de8fa1c56578a2259cc">
               <head>Scope and Contents</head>
@@ -473,7 +508,7 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
             <did>
               <unittitle>Photo of Audrey Ray. Ivy City Oral History Project.</unittitle>
               <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_be8be3c8213ec79fecf1d0f9a4993269" label="Mixed Materials" type="Item">9</container>
+              <container id="aspace_17c71d472282b3387520dc3f9f041b00" label="Mixed Materials" type="Item">9</container>
             </did>
             <scopecontent id="aspace_4628181d156c687b582795d0278d46c6">
               <head>Scope and Contents</head>
@@ -484,7 +519,7 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
             <did>
               <unittitle>Photo of Romaine Thomas. Ivy City Oral History Project.</unittitle>
               <unitdate type="inclusive">2006-08-17</unitdate>
-              <container id="aspace_0151b89b12180d4821d26b7a58d500f1" label="Mixed Materials" type="Item">10</container>
+              <container id="aspace_ef03d272918d27a81d1e0d8927a2986b" label="Mixed Materials" type="Item">10</container>
             </did>
             <scopecontent id="aspace_54ce7e617b3ccf94ffacd24acc050f5e">
               <head>Scope and Contents</head>
@@ -495,7 +530,7 @@ The Ivy City Oral History Project interviewees discuss a history of black migrat
             <did>
               <unittitle>Photo of Charlotte Tyner. Ivy City Oral History Project.</unittitle>
               <unitdate type="inclusive">2005-08-29</unitdate>
-              <container id="aspace_29638970c2b452adbbbc473efad6e2c1" label="Mixed Materials" type="Item">11</container>
+              <container id="aspace_a1f5aa62b81718b196c0ed2480712e26" label="Mixed Materials" type="Item">11</container>
             </did>
             <scopecontent id="aspace_1a1502f0900a1baadf05808b1461b5f4">
               <head>Scope and Contents</head>

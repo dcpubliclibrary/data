@@ -21,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:49:05 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-14 09:01:15 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -87,7 +87,6 @@ Seried 8: Books<br/></p>
       <geogname source="ingest">Shaw (Washington, D.C.)</geogname>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85026199" source="Library of Congress Subject Headings">Citizens' Associations</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2002011436" source="Library of Congress Subject Headings">Politics and government</subject>
-      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2010106860" source="Library of Congress Subject Headings">Police--Washington (D.C.)</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85041065" source="Library of Congress Subject Headings">Education, higher</subject>
       <genreform source="material_type">Ephemera</genreform>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh88005959" source="lcsh">Political activists</subject>
@@ -95,6 +94,7 @@ Seried 8: Books<br/></p>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85147274" source="Library of Congress Subject Headings">Women</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85001932" source="Library of Congress Subject Headings">African Americans</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85104183" source="Library of Congress Subject Headings">Police</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_de11af8fc934a2f57ac422a4238e6fe0" level="series">
@@ -112,24 +112,24 @@ Seried 8: Books<br/></p>
           <did>
             <unittitle>General</unittitle>
             <unitdate normal="1964/1981" type="inclusive">1964-1981</unitdate>
-            <container id="aspace_b7a485dce13e64adcac981276463f29f" label="Text" type="Box">1</container>
-            <container id="aspace_f2080925328d7dfb20d8f9f43fbe9689" parent="aspace_b7a485dce13e64adcac981276463f29f" type="folder">1</container>
+            <container id="aspace_764603a4bf8664ff1cd4a1d7c8a1240b" label="Text" type="Box">1</container>
+            <container id="aspace_4ddfd9e86aef7b67b2bc52149320e345" parent="aspace_764603a4bf8664ff1cd4a1d7c8a1240b" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_c6e9284cbe48ba33348c1e076813c4ed" level="item">
           <did>
             <unittitle>Letters of Appreciation</unittitle>
             <unitdate normal="1955/1994" type="inclusive">1955-1994</unitdate>
-            <container id="aspace_00610b4fd8e33278620c7e01ac6a96c2" label="Text" type="Box">1</container>
-            <container id="aspace_57c23a3a6a6cf9b8d40f551dccc2f169" parent="aspace_00610b4fd8e33278620c7e01ac6a96c2" type="folder">2</container>
+            <container id="aspace_4225af0e3def008d2581f58cdb86dea2" label="Text" type="Box">1</container>
+            <container id="aspace_00d54a7d824669805e6ad23b5685d2f8" parent="aspace_4225af0e3def008d2581f58cdb86dea2" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_e2ee52ff43281df72ad078fb7f96226b" level="item">
           <did>
             <unittitle>Letters of Recommendation</unittitle>
             <unitdate normal="1956/1961" type="inclusive">1956-1961</unitdate>
-            <container id="aspace_cc43fe628efe9751d22186c882e32128" label="Text" type="Box">1</container>
-            <container id="aspace_87167a85c027b76c755b404f106cf0aa" parent="aspace_cc43fe628efe9751d22186c882e32128" type="folder">3</container>
+            <container id="aspace_8abdd2874485d0e742430e9e850ac48d" label="Text" type="Box">1</container>
+            <container id="aspace_df33a1e4187c32261d157f11f3676e00" parent="aspace_8abdd2874485d0e742430e9e850ac48d" type="folder">3</container>
           </did>
         </c>
       </c>
@@ -147,16 +147,16 @@ Seried 8: Books<br/></p>
         <c id="aspace_6cced96a440a72f1496a438c9f20e4b3" level="item">
           <did>
             <unittitle>Article copies</unittitle>
-            <container id="aspace_de9b3a824294fb0dfc70ae25db8af684" label="Text" type="Box">1</container>
-            <container id="aspace_754de60531b9a0782c36b04955f27b6d" parent="aspace_de9b3a824294fb0dfc70ae25db8af684" type="folder">4</container>
+            <container id="aspace_67d7013abde306befde9af6da80ba815" label="Text" type="Box">1</container>
+            <container id="aspace_af31f017ff7e7d60721e650c750a3899" parent="aspace_67d7013abde306befde9af6da80ba815" type="folder">4</container>
           </did>
         </c>
         <c id="aspace_ea25609fd59fe93bc201758f6be66728" level="item">
           <did>
             <unittitle>General</unittitle>
             <unitdate normal="1972/1998" type="inclusive">1972-1998</unitdate>
-            <container id="aspace_f7d1e2912540609eba07dd5d76968550" label="Text" type="Box">1</container>
-            <container id="aspace_483c8c61cdb10e702ff71d48583074b9" parent="aspace_f7d1e2912540609eba07dd5d76968550" type="folder">5</container>
+            <container id="aspace_1f0ca2d8e4c6f2e4a2ddeefe931dc743" label="Text" type="Box">1</container>
+            <container id="aspace_14c85fcd3eefd39383a841a018518c5c" parent="aspace_1f0ca2d8e4c6f2e4a2ddeefe931dc743" type="folder">5</container>
           </did>
         </c>
       </c>
@@ -174,45 +174,45 @@ Seried 8: Books<br/></p>
         <c id="aspace_f41d64100ff2af40744d22caff25dcc2" level="item">
           <did>
             <unittitle>Margaret Cooper at Podium</unittitle>
-            <container id="aspace_ded917b9057885a0b806606b7f4ae521" label="Graphic Materials" type="Box">1</container>
-            <container id="aspace_a48e3acbd7824c73a043001b4f49d313" parent="aspace_ded917b9057885a0b806606b7f4ae521" type="folder">6</container>
+            <container id="aspace_745766c3e86821a7c7d7148aadc761c6" label="Graphic Materials" type="Box">1</container>
+            <container id="aspace_cdc0d880053d1e28cfc61982e508d33b" parent="aspace_745766c3e86821a7c7d7148aadc761c6" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_3c15bc6dca68269c255c65ea7bd95c63" level="item">
           <did>
             <unittitle>Ward 2 Commissioner Thorpe</unittitle>
             <unitdate normal="1997/1997">1997</unitdate>
-            <container id="aspace_27f259971fd5cbe54ec608f5b007c854" label="Graphic Materials" type="Box">1</container>
-            <container id="aspace_6f1838ea608317491d960162f092ca14" parent="aspace_27f259971fd5cbe54ec608f5b007c854" type="folder">7</container>
+            <container id="aspace_1c90c9bcf2eddbcd9543a272893f1c67" label="Graphic Materials" type="Box">1</container>
+            <container id="aspace_b4f8221454af7ab2df3ebdb8499ef19f" parent="aspace_1c90c9bcf2eddbcd9543a272893f1c67" type="folder">7</container>
           </did>
         </c>
         <c id="aspace_b526734c44ba5a3f0297861e1ad868d7" level="item">
           <did>
             <unittitle>National Capital Area Boy Scouts of America, Pack 594</unittitle>
-            <container id="aspace_1c7a96a338da9d1b1a68f1ca312a85b8" label="Graphic Materials" type="Box">1</container>
-            <container id="aspace_b942fd4866f0a627d16619894ebea765" parent="aspace_1c7a96a338da9d1b1a68f1ca312a85b8" type="folder">8</container>
+            <container id="aspace_fdf138e0719f7a89e0794af24ebf512c" label="Graphic Materials" type="Box">1</container>
+            <container id="aspace_373c87e3d70056ab9029d5329483c13b" parent="aspace_fdf138e0719f7a89e0794af24ebf512c" type="folder">8</container>
           </did>
         </c>
         <c id="aspace_60ef24980cd46312152e8822fa754f8f" level="item">
           <did>
             <unittitle>Autographed Portrait of Man</unittitle>
-            <container id="aspace_fc8fa733d2ac31c5342fdf0f9cf5b850" label="Graphic Materials" type="Box">1</container>
-            <container id="aspace_9553a0b7dc14839bf8fcc8637396a509" parent="aspace_fc8fa733d2ac31c5342fdf0f9cf5b850" type="folder">9</container>
+            <container id="aspace_92985d8c55d633db349d11fa74145dce" label="Graphic Materials" type="Box">1</container>
+            <container id="aspace_ddd5c69ce64485fa017e007353c7dbcf" parent="aspace_92985d8c55d633db349d11fa74145dce" type="folder">9</container>
           </did>
         </c>
         <c id="aspace_a4a0a2dd2cab3d0e016ddd44fa33de7e" level="item">
           <did>
             <unittitle>Walter Washington and unidentified woman</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="aspace_bfb8b48aea544bd620858d3f97cb78df" label="Graphic Materials" type="Box">1</container>
-            <container id="aspace_22b5a91e28f27e18dc54a8afdf2f546f" parent="aspace_bfb8b48aea544bd620858d3f97cb78df" type="folder">10</container>
+            <container id="aspace_ed99b5b4f9d21a23f90a9d7951e15839" label="Graphic Materials" type="Box">1</container>
+            <container id="aspace_78d1283c04e594686fc967a456b336de" parent="aspace_ed99b5b4f9d21a23f90a9d7951e15839" type="folder">10</container>
           </did>
         </c>
         <c id="aspace_e2f821897ff9b830f4ecfb8f3de96e69" level="item">
           <did>
             <unittitle>Model Cities</unittitle>
-            <container id="aspace_40ab2aca7300ad5c9f877d37dd08dee5" label="Graphic Materials" type="Box">1</container>
-            <container id="aspace_5f2143c02c8513c1b6e46e7bd9a1fe18" parent="aspace_40ab2aca7300ad5c9f877d37dd08dee5" type="folder">11</container>
+            <container id="aspace_522cccf808cd2862dda223843ebf590e" label="Graphic Materials" type="Box">1</container>
+            <container id="aspace_2a4a4a808cb8c9fb44d1a251cc17660c" parent="aspace_522cccf808cd2862dda223843ebf590e" type="folder">11</container>
           </did>
         </c>
       </c>
@@ -231,310 +231,310 @@ Seried 8: Books<br/></p>
           <did>
             <unittitle>Lott Carey Baptist Foreign Mission Center, Events and Programs</unittitle>
             <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
-            <container id="aspace_73fe6d39a2ba571df3feddb34db37bf8" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_8fd6b71e95ab3242171db58c87ed4201" parent="aspace_73fe6d39a2ba571df3feddb34db37bf8" type="folder">12</container>
+            <container id="aspace_5e0c00a6de649b7e8e58e5cd8f0a69a9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b1f76f883f37c27968c288cccc60681e" parent="aspace_5e0c00a6de649b7e8e58e5cd8f0a69a9" type="folder">12</container>
           </did>
         </c>
         <c id="aspace_6d1d14835efbb923875d22c42f4e8f32" level="item">
           <did>
             <unittitle>Christian Endeavor</unittitle>
             <unitdate normal="1989/1989">1989</unitdate>
-            <container id="aspace_b708fd77ba1a26c4126383885a77688b" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e1824ffe31500ffe09a2352a3c1b7ac2" parent="aspace_b708fd77ba1a26c4126383885a77688b" type="folder">13</container>
+            <container id="aspace_c0b8fa7601adb380acac5185d9859d0c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cff292bdd3d0cd868ba33c7af5a10596" parent="aspace_c0b8fa7601adb380acac5185d9859d0c" type="folder">13</container>
           </did>
         </c>
         <c id="aspace_9f687370fa7a86279e5b80e87adec874" level="item">
           <did>
             <unittitle>Christian Endeavor; Certificates, Awards, and Recognition</unittitle>
             <unitdate normal="1977/1993" type="inclusive">1977-1993</unitdate>
-            <container id="aspace_2c9ca72d2a00963803d424ccf13cc05f" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_2c9bb3bff0b3bd84943f3b27ad87dfe2" parent="aspace_2c9ca72d2a00963803d424ccf13cc05f" type="folder">14</container>
+            <container id="aspace_dd298c2e5fc0a7a63d93abd0e21988ce" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4e054b4ca5c893197e8ea77795db93be" parent="aspace_dd298c2e5fc0a7a63d93abd0e21988ce" type="folder">14</container>
           </did>
         </c>
         <c id="aspace_d73f374fdee1742f1c268516052175f2" level="item">
           <did>
             <unittitle>The Baptist Sunday Union of Washington And Vicinity</unittitle>
-            <container id="aspace_3c3f757ff9ecbc82863a13d38132fcf2" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_69e8d505da5a526d5e0a9aa7acbadadb" parent="aspace_3c3f757ff9ecbc82863a13d38132fcf2" type="folder">15</container>
+            <container id="aspace_f8f3504f87046faeb0f12c309dd7d40d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_02cff9b2a9410a9eaee86c6ef40ba6a2" parent="aspace_f8f3504f87046faeb0f12c309dd7d40d" type="folder">15</container>
           </did>
         </c>
         <c id="aspace_512a915ad59091e584afbd2e209a39ec" level="item">
           <did>
             <unittitle>The Standard Leadership Curriculum Cards</unittitle>
             <unitdate normal="1955/1999" type="inclusive">1955-1999</unitdate>
-            <container id="aspace_abfb8b45e149d4ee4d05f1bf3a9a9035" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d5c17594e1b25ea71eae8b11586ef18a" parent="aspace_abfb8b45e149d4ee4d05f1bf3a9a9035" type="folder">16</container>
+            <container id="aspace_c66e633eeb720cf0da9b27c00ed18445" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_730fd6254fe0304fa258161f46dc2506" parent="aspace_c66e633eeb720cf0da9b27c00ed18445" type="folder">16</container>
           </did>
         </c>
         <c id="aspace_c335723887895430c0a23eec0cd803d0" level="item">
           <did>
             <unittitle>Third Baptist Church; Certificates, Awards, and Recognition</unittitle>
             <unitdate normal="1954/1996" type="inclusive">1954-1996</unitdate>
-            <container id="aspace_6ea90b974e34b2ad271a9ddfd03ceb97" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_84986c58e34baa986e944401287c7b60" parent="aspace_6ea90b974e34b2ad271a9ddfd03ceb97" type="folder">17</container>
+            <container id="aspace_c4405efe596017e2b5c33634e3fbb2bc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2c3f2fd6dede42d0a534b5e7568c5f28" parent="aspace_c4405efe596017e2b5c33634e3fbb2bc" type="folder">17</container>
           </did>
         </c>
         <c id="aspace_ef79b5a026491add58194176969da438" level="item">
           <did>
             <unittitle>Third Baptist Church; Events and Programs</unittitle>
             <unitdate normal="1997/1997">1997</unitdate>
-            <container id="aspace_717332f2d67db6ddd1f801ecb1e0cd63" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_4614892267fe40bc2ec085ef56be8fa4" parent="aspace_717332f2d67db6ddd1f801ecb1e0cd63" type="folder">18</container>
+            <container id="aspace_46b85e9499f32e1419eb48c3079289db" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fbf933e1febca326437c8150762b9183" parent="aspace_46b85e9499f32e1419eb48c3079289db" type="folder">18</container>
           </did>
         </c>
         <c id="aspace_06c8321c7e22d63d181e9d13992a5aae" level="item">
           <did>
             <unittitle>Third Baptist Church; Events and Programs</unittitle>
             <unitdate normal="1993/1996" type="inclusive">1993-1996</unitdate>
-            <container id="aspace_fa8af80f7c0de0ff6689d89b8bacacd7" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_7e0454f90c2dc3219cc7be6f9192a956" parent="aspace_fa8af80f7c0de0ff6689d89b8bacacd7" type="folder">19</container>
+            <container id="aspace_c29c016639170a8084a3e110add651cb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_dc66a8ccdd61a5db621b851d90820c16" parent="aspace_c29c016639170a8084a3e110add651cb" type="folder">19</container>
           </did>
         </c>
         <c id="aspace_1bc9b45b3772c42d383d9ecfcdd3737a" level="item">
           <did>
             <unittitle>Third Baptist Church, Events and Programs</unittitle>
             <unitdate normal="1918/1993" type="inclusive">1918-1993</unitdate>
-            <container id="aspace_39e49a677688034856d81e2e83f5dc97" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_c165e461f853a1bc33ab41801e57d680" parent="aspace_39e49a677688034856d81e2e83f5dc97" type="folder">20</container>
+            <container id="aspace_79649641e7a5869d428ca3163d747f3d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8e0ad472bd336a566caf21a59723fb52" parent="aspace_79649641e7a5869d428ca3163d747f3d" type="folder">20</container>
           </did>
         </c>
         <c id="aspace_a20c8c20180c7c81554372499120e03c" level="item">
           <did>
             <unittitle>Third Baptist Church, Constitution</unittitle>
             <unitdate normal="1998/1998">1998</unitdate>
-            <container id="aspace_beea90c87fdf106f70ccf9834de22153" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e6b7f34d6a146b991436ba3eac5d663f" parent="aspace_beea90c87fdf106f70ccf9834de22153" type="folder">21</container>
+            <container id="aspace_de14e3869fdc4e51043bb424e8b52253" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_24e2506474674a9c41d1f947db39f363" parent="aspace_de14e3869fdc4e51043bb424e8b52253" type="folder">21</container>
           </did>
         </c>
         <c id="aspace_0c7c6cae1c90ff53ea72d16bd068cbdb" level="item">
           <did>
             <unittitle>Certificates, Awards, and Recognition</unittitle>
             <unitdate normal="1996/1997" type="inclusive">1996-1997</unitdate>
-            <container id="aspace_3a42472cf7d9da9f4b6bd044ac3d6750" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_4a27d54b2e9dfb022a250cd02a59026b" parent="aspace_3a42472cf7d9da9f4b6bd044ac3d6750" type="folder">22</container>
+            <container id="aspace_c00c9675bb1414c0846ebca83e7338dd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e0cbfe7adc9b6914b66c5b9e23920fde" parent="aspace_c00c9675bb1414c0846ebca83e7338dd" type="folder">22</container>
           </did>
         </c>
         <c id="aspace_98f89b1c841c1619e17d9ced320c06bd" level="item">
           <did>
             <unittitle>Baltimore Annual Conference African Methodist Episcopal Church, Program and Directory</unittitle>
             <unitdate normal="1968/1968">1968</unitdate>
-            <container id="aspace_61979c0882de0ee5d8292c70b0badff0" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_21412af0056354d32a448437dcc37ffe" parent="aspace_61979c0882de0ee5d8292c70b0badff0" type="folder">23</container>
+            <container id="aspace_ba63cf3ea3b9c40956831f25b967938c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6017e2f1730ea706b55ec08092e56ba1" parent="aspace_ba63cf3ea3b9c40956831f25b967938c" type="folder">23</container>
           </did>
         </c>
         <c id="aspace_b21b0023326692e996ddd2612b1367e0" level="item">
           <did>
             <unittitle>East Central Civic Association, Shawfest</unittitle>
             <unitdate normal="1989/1996" type="inclusive">1989-1996</unitdate>
-            <container id="aspace_56c5a586983482fad5a683c25927bc15" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f21bb27de2ec732de7ee2114587d4cbd" parent="aspace_56c5a586983482fad5a683c25927bc15" type="folder">1</container>
+            <container id="aspace_5b12ff7214c1a2b323357f080851628d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f34836e392626bd312a0d73765bea328" parent="aspace_5b12ff7214c1a2b323357f080851628d" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_0462b37ff7e7c9d5305efb6c9e1a6dea" level="item">
           <did>
             <unittitle>Household of Ruth</unittitle>
             <unitdate normal="1927/1983" type="inclusive">1927-1983</unitdate>
-            <container id="aspace_59e68c439bb5915f66fa1ba22f60e2b4" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_3972e5417ad1cde3775ae17a674cd0de" parent="aspace_59e68c439bb5915f66fa1ba22f60e2b4" type="folder">2</container>
+            <container id="aspace_ce8986d5cbf0e5bb801968c6e728f8cc" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_af4908b778e848b5e6155ca83f0561ef" parent="aspace_ce8986d5cbf0e5bb801968c6e728f8cc" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_bf071126977a39be40cb6e5c4f44b417" level="item">
           <did>
             <unittitle>Africare</unittitle>
             <unitdate normal="1983/1983">1983</unitdate>
-            <container id="aspace_1ae23a35915a85798b01c1eea18002bd" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_554618e74ec5e6675c205b95a352aef7" parent="aspace_1ae23a35915a85798b01c1eea18002bd" type="folder">3</container>
+            <container id="aspace_69bfc1cbfc831b8b1e1acd32abcd6225" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_10f708182d4082851991a027a3b099c1" parent="aspace_69bfc1cbfc831b8b1e1acd32abcd6225" type="folder">3</container>
           </did>
         </c>
         <c id="aspace_20396da994a86d0938a427ae6f149c96" level="item">
           <did>
             <unittitle>D.C. Federation of Civic Associations, General</unittitle>
             <unitdate normal="1981/1987" type="inclusive">1981-1987</unitdate>
-            <container id="aspace_e82abd95f2a14350912e944788b0989e" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_e58ce7b78003ba9631d22c5ef178f64b" parent="aspace_e82abd95f2a14350912e944788b0989e" type="folder">4</container>
+            <container id="aspace_52530ac421c2a7d30b55bea21906adea" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_23da929bb99502fe4379a8e010a1e9cb" parent="aspace_52530ac421c2a7d30b55bea21906adea" type="folder">4</container>
           </did>
         </c>
         <c id="aspace_1c0e19a0892cc8e9ac52ff73fc6c2aac" level="item">
           <did>
             <unittitle>D.C. Federation of Civic Associations, Events and Programs</unittitle>
             <unitdate normal="1985/1997" type="inclusive">1985-1997</unitdate>
-            <container id="aspace_722cd8881fc43ab7ce87ae13d94d16ee" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_69e71ece9199e2c71663a35c6217a714" parent="aspace_722cd8881fc43ab7ce87ae13d94d16ee" type="folder">5</container>
+            <container id="aspace_0f97b88cbe0592766690382682107e8f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d145fabe872b0cea269c60be54566e16" parent="aspace_0f97b88cbe0592766690382682107e8f" type="folder">5</container>
           </did>
         </c>
         <c id="aspace_774666aa862e9d790dd4688d5ba6e7fd" level="item">
           <did>
             <unittitle>Young Men's Christian Association (YMCA)</unittitle>
             <unitdate normal="1973/1978" type="inclusive">1973-1978</unitdate>
-            <container id="aspace_0e16800c9d6040a83323d28448cba652" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_8b7c737d86f0808b61b3b668aa11529f" parent="aspace_0e16800c9d6040a83323d28448cba652" type="folder">6</container>
+            <container id="aspace_f45477d5d683b8565015446db872d34a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2b06b24a3bb7f9f2e3dc629d12aad64f" parent="aspace_f45477d5d683b8565015446db872d34a" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_fe18515a442d63eed00e65ecab5b34ac" level="item">
           <did>
             <unittitle>The George Washington University; Certificates, Awards and Recognition</unittitle>
             <unitdate normal="1964/1968" type="inclusive">1964-1968</unitdate>
-            <container id="aspace_fbf932ead1b1e901afcd933e4a72fb3b" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_9309d22f5c400e2f11d55e1b1bd5a371" parent="aspace_fbf932ead1b1e901afcd933e4a72fb3b" type="folder">7</container>
+            <container id="aspace_3e783976d54d9e669b08e76ba2503bbe" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4e28f2182671f60fb784b1c10cb269fd" parent="aspace_3e783976d54d9e669b08e76ba2503bbe" type="folder">7</container>
           </did>
         </c>
         <c id="aspace_2e9cd8cee277951ea3039926a4c94688" level="item">
           <did>
             <unittitle>Neighborhood Advisory Committee</unittitle>
-            <container id="aspace_222da476f4796130afe73effe9567d85" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_77b8652bb55a881faf56cf2e7274abca" parent="aspace_222da476f4796130afe73effe9567d85" type="folder">8</container>
+            <container id="aspace_17ae7d0d88ddd7375f181c50db067bb4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_eca763c0517ac001af41482a250a0c5a" parent="aspace_17ae7d0d88ddd7375f181c50db067bb4" type="folder">8</container>
           </did>
         </c>
         <c id="aspace_97fdc8aeff31d9bd7bb388d5b73d1d55" level="item">
           <did>
             <unittitle>Environment-Concerned Institutions</unittitle>
             <unitdate normal="1977/1977">1977</unitdate>
-            <container id="aspace_1a88c87b0735ec69c71e6acd168b32f9" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_72b5630408ff8437452e63a7660441ef" parent="aspace_1a88c87b0735ec69c71e6acd168b32f9" type="folder">9</container>
+            <container id="aspace_073cc076335653772b6776148151eaed" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_bdb4cb1978b59e96dff8a59161cbe9a4" parent="aspace_073cc076335653772b6776148151eaed" type="folder">9</container>
           </did>
         </c>
         <c id="aspace_e1acba418eb13c6918af54bfe091309a" level="item">
           <did>
             <unittitle>United Planning Organization, Events and Programs</unittitle>
             <unitdate normal="1978/1992" type="inclusive">1978-1992</unitdate>
-            <container id="aspace_eeef62bd53a82191360c7adffa0c758c" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_db81d4698c647abd09200ba0aa67245f" parent="aspace_eeef62bd53a82191360c7adffa0c758c" type="folder">10</container>
+            <container id="aspace_69890db3eb19cd9067562df4ebbc8f59" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_48c072a4634551f429817f648df16f05" parent="aspace_69890db3eb19cd9067562df4ebbc8f59" type="folder">10</container>
           </did>
         </c>
         <c id="aspace_2fff3f6c6eab9351aab269fca1482059" level="item">
           <did>
             <unittitle>United Planning Organization; Certificates, Awards, and Recognition</unittitle>
             <unitdate normal="1970/1984" type="inclusive">1970-1984</unitdate>
-            <container id="aspace_15e65152ae79650197f82bd53db6ef5d" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_1f679cc9b44a7e5d1245407910425418" parent="aspace_15e65152ae79650197f82bd53db6ef5d" type="folder">11</container>
+            <container id="aspace_cd4795d92aa2d4042da6420f574093cb" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_96ece6349660e59c97991d3f8fab584d" parent="aspace_cd4795d92aa2d4042da6420f574093cb" type="folder">11</container>
           </did>
         </c>
         <c id="aspace_1b08742728046aa6dc1fb6a6a068aa06" level="item">
           <did>
             <unittitle>United Planning Organization, Correspondence</unittitle>
             <unitdate normal="1969/1978" type="inclusive">1969-1978</unitdate>
-            <container id="aspace_a14579f2596fd08f59d023a8606f4c27" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_0da0eb0a4838a3863436f7000a37fd2d" parent="aspace_a14579f2596fd08f59d023a8606f4c27" type="folder">12</container>
+            <container id="aspace_62301ebf867bfd2a4f575fbe5a830aff" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_91b7e24532bec4dddefb006069350362" parent="aspace_62301ebf867bfd2a4f575fbe5a830aff" type="folder">12</container>
           </did>
         </c>
         <c id="aspace_35c09404b42d44d5c88b925bd7c303d6" level="item">
           <did>
             <unittitle>East Central Civic Association; Certificates, Awards and Recognition</unittitle>
             <unitdate normal="1967/1995" type="inclusive">1967-1995</unitdate>
-            <container id="aspace_3d185bb2b023f12ee5ca4b7609903bcf" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_0f57168fb39ae37696931e3f84a1b2d3" parent="aspace_3d185bb2b023f12ee5ca4b7609903bcf" type="folder">13</container>
+            <container id="aspace_4bfec09ed47bba2e9e00cc11112e237c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ab58ce4591618b4d1f92803e874127b1" parent="aspace_4bfec09ed47bba2e9e00cc11112e237c" type="folder">13</container>
           </did>
         </c>
         <c id="aspace_41a503047196303b13ce06a2b11a6690" level="item">
           <did>
             <unittitle>East Central Civic Association, General</unittitle>
             <unitdate normal="1997/1997">1997</unitdate>
-            <container id="aspace_cf679e930741561d5687c220d615b273" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_588f92b9acc44c73553adacce941b83b" parent="aspace_cf679e930741561d5687c220d615b273" type="folder">14</container>
+            <container id="aspace_cb678bc1dae6766d7690c18f054b527f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_11a72a0ac1667def98bb9e1adf9df2a2" parent="aspace_cb678bc1dae6766d7690c18f054b527f" type="folder">14</container>
           </did>
         </c>
         <c id="aspace_e7d8443dd5d26969449e07dede791345" level="item">
           <did>
             <unittitle>East Central Civic Association, Correspondence</unittitle>
             <unitdate normal="1977/1991" type="inclusive">1977-1991</unitdate>
-            <container id="aspace_1d62fcc7f5f035001079afc2c16905a4" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_b07eaaf86f722a0329e7fb46d50817df" parent="aspace_1d62fcc7f5f035001079afc2c16905a4" type="Box">15</container>
+            <container id="aspace_992d1bea462dbb90c2b7f4b04435a19e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_70a3e61d33c334b057073001801d04fd" parent="aspace_992d1bea462dbb90c2b7f4b04435a19e" type="Box">15</container>
           </did>
         </c>
         <c id="aspace_16d11e18f1229b18a9b32aaffacffee0" level="item">
           <did>
             <unittitle>Shaw Project Area Committee, Inc; Certificates, Awards, and Recognition</unittitle>
             <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
-            <container id="aspace_e0d0d0d24e34de5138200da89141485a" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_b400da56cf36f5efd6f672230065681a" parent="aspace_e0d0d0d24e34de5138200da89141485a" type="folder">16</container>
+            <container id="aspace_ee4892c959eac4a8178c8ad157eda83e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ce8ca1f7401f3877849671affd03304c" parent="aspace_ee4892c959eac4a8178c8ad157eda83e" type="folder">16</container>
           </did>
         </c>
         <c id="aspace_14ccc30781c355f413c141c16f3a74d6" level="item">
           <did>
             <unittitle>Senior Citizens Organizations, Events and Programs</unittitle>
             <unitdate normal="1995/1998" type="inclusive">1995-1998</unitdate>
-            <container id="aspace_e3f4b2df853f4a0a3a599e7a81969e45" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_6af964640f0e685c463fa5566d6529e4" parent="aspace_e3f4b2df853f4a0a3a599e7a81969e45" type="folder">17</container>
+            <container id="aspace_042d483761e87b8229d14112d8307a77" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4cb97be945b114fa071d53c568a0abc1" parent="aspace_042d483761e87b8229d14112d8307a77" type="folder">17</container>
           </did>
         </c>
         <c id="aspace_96f44b34adbb2d791980094f843a19c9" level="item">
           <did>
             <unittitle>Senior Citizens Organizations; Certificates, Awards, and Recognition</unittitle>
             <unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate>
-            <container id="aspace_aad5d81a65c00f2632bc1e3f186f7d15" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_055f0d11db4608b7b024bc699451d60f" parent="aspace_aad5d81a65c00f2632bc1e3f186f7d15" type="folder">18</container>
+            <container id="aspace_9d5f7a0c8ba7c64bb479b7fdff247c33" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_721b633013e0eb8423a1e52a97ad90a0" parent="aspace_9d5f7a0c8ba7c64bb479b7fdff247c33" type="folder">18</container>
           </did>
         </c>
         <c id="aspace_4ece875ccd79c3767691ff80bb1c39f1" level="item">
           <did>
             <unittitle>People's Involvement Corporation; Certificates, Awards, and Institutions</unittitle>
             <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
-            <container id="aspace_4ab1a5b1d4495a2629471af935f9c058" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_880bcd8997bb97840b0bc27311835303" parent="aspace_4ab1a5b1d4495a2629471af935f9c058" type="folder">19</container>
+            <container id="aspace_0040d772722d5b271acfb46ba6f72556" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_93134512145c860b7955981a7bd4de67" parent="aspace_0040d772722d5b271acfb46ba6f72556" type="folder">19</container>
           </did>
         </c>
         <c id="aspace_8b8cb99cde087ad5338ce9ed0024027c" level="item">
           <did>
             <unittitle>Shaw/Coalition Redevelopment Corporation</unittitle>
             <unitdate normal="1987/1987">1987</unitdate>
-            <container id="aspace_ff72e74f6a987632876cf15a0e69c324" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_d9341b7d3b22baa2512604eb79f9eda3" parent="aspace_ff72e74f6a987632876cf15a0e69c324" type="folder">20</container>
+            <container id="aspace_6b1b7e29a9c9c2f52171fba1fc848ff3" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9ca1aad3479b71d81bc0a6c78aea01e4" parent="aspace_6b1b7e29a9c9c2f52171fba1fc848ff3" type="folder">20</container>
           </did>
         </c>
         <c id="aspace_9bfeea80e4ad8f1a1b61d0ea387c2ca3" level="item">
           <did>
             <unittitle>Neighborhood Advisory Council of Neighborhood Development Center #1, Constitution</unittitle>
             <unitdate normal="1980/1980">1980</unitdate>
-            <container id="aspace_95dabd32585f444ed0a72993e936bdab" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_79b7f8fdfa9848caa9fb5b708d971cc8" parent="aspace_95dabd32585f444ed0a72993e936bdab" type="folder">21</container>
+            <container id="aspace_e294859f73a76293cb172bd22408fef3" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d1dff7b42273c9b9952ac80c6fdee658" parent="aspace_e294859f73a76293cb172bd22408fef3" type="folder">21</container>
           </did>
         </c>
         <c id="aspace_1ada07f987fa2673f53e3bfc57e37ee5" level="item">
           <did>
             <unittitle>National Capital Area Boy Scouts of America</unittitle>
             <unitdate normal="1981/1981">1981</unitdate>
-            <container id="aspace_e01471067e71e9913dc597452c4d5d9a" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_1601abe2efd60256230218e563a18ef3" parent="aspace_e01471067e71e9913dc597452c4d5d9a" type="folder">22</container>
+            <container id="aspace_c9a748530294703c77be0107ac70caf0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_3ae14fbf292f71c8f8a40e9710f3dc77" parent="aspace_c9a748530294703c77be0107ac70caf0" type="folder">22</container>
           </did>
         </c>
         <c id="aspace_4207c002ce98b337f3de60ce999cbb9c" level="item">
           <did>
             <unittitle>National Capital Area Boy Scouts of America; Certificates, Awards, and Recognition</unittitle>
             <unitdate normal="1973/1983" type="inclusive">1973-1983</unitdate>
-            <container id="aspace_d545efdb15958be27c5369f828dc5dc3" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_c366f41e20b90ef18bf844cf12d499e4" parent="aspace_d545efdb15958be27c5369f828dc5dc3" type="folder">23</container>
+            <container id="aspace_538eb5246cefe898784f75f29fa53598" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f9fd1b603b33fc67f4c8f14b9375f8d1" parent="aspace_538eb5246cefe898784f75f29fa53598" type="folder">23</container>
           </did>
         </c>
         <c id="aspace_c55e7c31d0acea439865a63c8159b7b8" level="item">
           <did>
             <unittitle>National Capital Area Council Boy Scouts of America, Events and Programs</unittitle>
             <unitdate normal="1976/1982" type="inclusive">1976-1982</unitdate>
-            <container id="aspace_c2d8e8e99a7eae12ddee45926196d4db" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_c6f4709915b9877dfa5a04996e310a08" parent="aspace_c2d8e8e99a7eae12ddee45926196d4db" type="folder">24</container>
+            <container id="aspace_0c3da8c39d501aba1638cc60fabccb8c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_591c81ed1ad0cb55579948c5d840bc1a" parent="aspace_0c3da8c39d501aba1638cc60fabccb8c" type="folder">24</container>
           </did>
         </c>
         <c id="aspace_6c8064c5d8a6297fdd50bd8897de0d0f" level="item">
           <did>
             <unittitle>Dues Cards and Donation Envelope</unittitle>
             <unitdate normal="1992/1997" type="inclusive">1992-1997</unitdate>
-            <container id="aspace_b832730b82ec958e888d85757b956979" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_a40dd46bd4920e2a5b5099b9dca1f1d0" parent="aspace_b832730b82ec958e888d85757b956979" type="folder">1</container>
+            <container id="aspace_7724dffbc3e7fa75f774f09dace2705d" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0c2d1182e7fd439f7120e294d8ccb5a6" parent="aspace_7724dffbc3e7fa75f774f09dace2705d" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_4d69ef8bea4be804b374a5b30af493e4" level="item">
           <did>
             <unittitle>Third Baptist Church, Membership Certificate</unittitle>
             <unitdate normal="1978/1978">1978</unitdate>
-            <container id="aspace_e6b5990d97aa22f86a8202d986ad9a68" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_bedfa0f108a93a7f29a6963334d4e44d" parent="aspace_e6b5990d97aa22f86a8202d986ad9a68" type="folder">2</container>
+            <container id="aspace_d8bb7c8bb8a2d30ba5e68b88b865b5ac" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_ac0399766c327c1bca943c731667ffce" parent="aspace_d8bb7c8bb8a2d30ba5e68b88b865b5ac" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_bb68dbbce59eccb07bf683cef126e1dc" level="item">
           <did>
             <unittitle>Environmental Improvement Award</unittitle>
             <unitdate normal="1986/1986">1986</unitdate>
-            <container id="aspace_215ec4a32d19f15ac7897468fd85874f" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_b0ca85c36fa3647ac2034344ef2e3a22" parent="aspace_215ec4a32d19f15ac7897468fd85874f" type="folder">8</container>
+            <container id="aspace_28cb4cfb22daaffb7f56f1c90676693b" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_55b262c4f6f0f28321ae3db161a3d160" parent="aspace_28cb4cfb22daaffb7f56f1c90676693b" type="folder">8</container>
           </did>
         </c>
       </c>
@@ -553,24 +553,24 @@ Seried 8: Books<br/></p>
           <did>
             <unittitle>Community Awards and Recognition</unittitle>
             <unitdate normal="1971/1992" type="inclusive">1971-1992</unitdate>
-            <container id="aspace_700b55a3ad7cd13e081e4afeeb6a1cc9" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_9545c3083ca609721d346f35cd6e836e" parent="aspace_700b55a3ad7cd13e081e4afeeb6a1cc9" type="folder">1</container>
+            <container id="aspace_03d4a21dfa31227c03edf386141454ba" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_ad91baae5ca42b571487ee5482626620" parent="aspace_03d4a21dfa31227c03edf386141454ba" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_8363a004b8c857839eeb40b417fe8504" level="item">
           <did>
             <unittitle>Park Dedication</unittitle>
             <unitdate normal="1996/1996">1996</unitdate>
-            <container id="aspace_537d06a9a1bb6cc97b872d10a07b7d6c" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_25f30459e697a7e107f95d22958085e8" parent="aspace_537d06a9a1bb6cc97b872d10a07b7d6c" type="folder">2</container>
+            <container id="aspace_90551f3f465232ac8e469c60916c6cdc" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b1cf459aba8f16003575606ae5358a7f" parent="aspace_90551f3f465232ac8e469c60916c6cdc" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_de834645b743186fbc9b3c9e24e85645" level="item">
           <did>
             <unittitle>Citizens Organized Patrol Efforts (C.O.P. E.)</unittitle>
             <unitdate normal="1991/1991">1991</unitdate>
-            <container id="aspace_0941be579e8149b54fb60c0b07689c64" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_716864d519209075b8739192e19f667d" parent="aspace_0941be579e8149b54fb60c0b07689c64" type="folder">3</container>
+            <container id="aspace_cb75e6838c8bab0b3c4dcb0590b1117b" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_407b9644733a0bd221b6a8a33d082feb" parent="aspace_cb75e6838c8bab0b3c4dcb0590b1117b" type="folder">3</container>
           </did>
         </c>
       </c>
@@ -588,330 +588,330 @@ Seried 8: Books<br/></p>
         <c id="aspace_60a2488cb47e7193674dfc3a5fa20b2c" level="item">
           <did>
             <unittitle>Citizens Advisory Committee to Reduce Litter, Stickers</unittitle>
-            <container id="aspace_58a069bbace2b2dad0d7691b92e0f9ab" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_562551f2e11c994d516fb299fca27b1e" parent="aspace_58a069bbace2b2dad0d7691b92e0f9ab" type="folder">4</container>
+            <container id="aspace_f4ba6de8c64a84501aeef1729a5354a9" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_747b5f1254879392e622db0d1fc09ba1" parent="aspace_f4ba6de8c64a84501aeef1729a5354a9" type="folder">4</container>
           </did>
         </c>
         <c id="aspace_241f145415ceb78a90b7ea6d9d638105" level="item">
           <did>
             <unittitle>D.C. Statehood, Bumper Stickers and Mailing</unittitle>
-            <container id="aspace_e371373fe3b6a205698b64abe68cde05" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_b4d81ecbaebadf20bc7c2d067e4f65c7" parent="aspace_e371373fe3b6a205698b64abe68cde05" type="folder">5</container>
+            <container id="aspace_a9e08888abec3f4a628c8e38e8fb65a4" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_38303bee768321b6fcab6235ea44ecf7" parent="aspace_a9e08888abec3f4a628c8e38e8fb65a4" type="folder">5</container>
           </did>
         </c>
         <c id="aspace_b6467d791e81e5e88aedeeec3c077093" level="item">
           <did>
             <unittitle>Song Lyrics and Poems</unittitle>
             <unitdate normal="1986/1996" type="inclusive">1986-1996</unitdate>
-            <container id="aspace_d594a21d482bf2b530f7696829f73249" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_d67526f244297f045a53dbe59fefeb35" parent="aspace_d594a21d482bf2b530f7696829f73249" type="folder">6</container>
+            <container id="aspace_726f0a9fb76008c8f92ed8c16f852b80" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b08d53c4540eb5e7724870a87ee9365c" parent="aspace_726f0a9fb76008c8f92ed8c16f852b80" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_a5a83ca9fb7e7609559c65649606ee66" level="item">
           <did>
             <unittitle>The Lincoln Theatre</unittitle>
             <unitdate normal="1991/1991">1991</unitdate>
-            <container id="aspace_861150756d228a47a58474f2ae8af046" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_aab96ef4d9c989f254a3edb3114f36ff" parent="aspace_861150756d228a47a58474f2ae8af046" type="folder">7</container>
+            <container id="aspace_0076ac06b5b8cabbdd1dcd8709d5c87f" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_73c637ab90d7389d67f75ac313fccf51" parent="aspace_0076ac06b5b8cabbdd1dcd8709d5c87f" type="folder">7</container>
           </did>
         </c>
         <c id="aspace_c123aaac5ba1aade18ea8dee44fa0efa" level="item">
           <did>
             <unittitle>Programs and Flyers</unittitle>
             <unitdate normal="1949/1949">1949</unitdate>
-            <container id="aspace_3a5a98afbe52a5537bcb2b0c0323a49a" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_f9c60d3cecaa9e5c130403ae3d0146e0" parent="aspace_3a5a98afbe52a5537bcb2b0c0323a49a" type="folder">8</container>
+            <container id="aspace_a7ec22aea73f39259c1667f47bee6ef4" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b7ee7bf2babe8c846ffd865690a27d96" parent="aspace_a7ec22aea73f39259c1667f47bee6ef4" type="folder">8</container>
           </did>
         </c>
         <c id="aspace_ecac5acef868f5b193e0ebc0555f4e12" level="item">
           <did>
             <unittitle>Brochures</unittitle>
             <unitdate normal="1977/1995" type="inclusive">1977-1995</unitdate>
-            <container id="aspace_f8816b6b8c9a60561803dee04af0158e" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_9e08af7592eaf862499f862e748b04ab" parent="aspace_f8816b6b8c9a60561803dee04af0158e" type="folder">9</container>
+            <container id="aspace_9565556f3a88e3e439e9fb73afa751ce" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_ccdb1f565f83b57c6ac777bdd27f6f9c" parent="aspace_9565556f3a88e3e439e9fb73afa751ce" type="folder">9</container>
           </did>
         </c>
         <c id="aspace_a5542bb2e39a6447cb646095828864d5" level="item">
           <did>
             <unittitle>Copied Photograph</unittitle>
-            <container id="aspace_bb9b79cb2ebe2cff82a5f9707ee3a14a" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_9ad80d8f4a2460f4ee5b93907d97d36b" parent="aspace_bb9b79cb2ebe2cff82a5f9707ee3a14a" type="folder">10</container>
+            <container id="aspace_644f849ff53d45a34f6092c99eb7c756" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_6f92df4fb47ceb05fcaa5bc9fc1bbb7f" parent="aspace_644f849ff53d45a34f6092c99eb7c756" type="folder">10</container>
           </did>
         </c>
         <c id="aspace_10a45520c043308b3320e1e24135569d" level="item">
           <did>
             <unittitle>David Clarke Campaign Stickers</unittitle>
-            <container id="aspace_82d1ad6afaa034fe923b0bcc4eff5f9f" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_b4023d817cc5e08c0dea72f59069251e" parent="aspace_82d1ad6afaa034fe923b0bcc4eff5f9f" type="folder">11</container>
+            <container id="aspace_2da36a42642a6dde6e3330e8e384d7a1" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f0c028065cf6d5e05169c03be797f100" parent="aspace_2da36a42642a6dde6e3330e8e384d7a1" type="folder">11</container>
           </did>
         </c>
         <c id="aspace_13bb3b9edbcfff807dc4080b5819d11f" level="item">
           <did>
             <unittitle>Obituaries and Funeral Programs</unittitle>
             <unitdate normal="1992/1997" type="inclusive">1992-1997</unitdate>
-            <container id="aspace_1f6485e151605dea760e3e1d4a9b7c97" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_46ec817acdaacbeff779196930cb8924" parent="aspace_1f6485e151605dea760e3e1d4a9b7c97" type="folder">12</container>
+            <container id="aspace_d3f00ed48d182391520315aca3a1b992" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_559b7ca8b65944bfe5725814d0ca57fa" parent="aspace_d3f00ed48d182391520315aca3a1b992" type="folder">12</container>
           </did>
         </c>
         <c id="aspace_917211d1d39362f79bb0b9a0628e76d0" level="item">
           <did>
             <unittitle>Government Materials</unittitle>
             <unitdate normal="1969/1969">1969</unitdate>
-            <container id="aspace_4e9b1c0a0856ac6e7b836afc65ad3440" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_6f0cf1e603a949edf89daee846b89182" parent="aspace_4e9b1c0a0856ac6e7b836afc65ad3440" type="folder">13</container>
+            <container id="aspace_6bddc1ec7e5c7b0b645b934c03d017b4" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d11de38239ef3fea0ce2ac97691bd7f2" parent="aspace_6bddc1ec7e5c7b0b645b934c03d017b4" type="folder">13</container>
           </did>
         </c>
         <c id="aspace_0cbe65223625cfd69f0ae60532279a99" level="item">
           <did>
             <unittitle>Anniversary Programs</unittitle>
             <unitdate normal="1986/1991" type="inclusive">1986-1991</unitdate>
-            <container id="aspace_cb3332b03825464ee82e8f6616bd51c8" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_9c120a108d4af94bdad5c520071a5dfb" parent="aspace_cb3332b03825464ee82e8f6616bd51c8" type="folder">14</container>
+            <container id="aspace_34b6e42d74341496b7b855c140ad384a" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_7e71815b469605affbb8d689a22afdf3" parent="aspace_34b6e42d74341496b7b855c140ad384a" type="folder">14</container>
           </did>
         </c>
         <c id="aspace_770ff90ea2b75cd22c2115f649d7cd56" level="item">
           <did>
             <unittitle>Pick Temple, Autographed Cards</unittitle>
-            <container id="aspace_714c58d6a4567c9606f53da2be320c92" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_6b9e0e9dc6d6c1483d67b42334f11f14" parent="aspace_714c58d6a4567c9606f53da2be320c92" type="folder">15</container>
+            <container id="aspace_abf0232fe54978c4f88b637d6f8758ef" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_8eec88ef85d27efb4195d1ce5dcdfea3" parent="aspace_abf0232fe54978c4f88b637d6f8758ef" type="folder">15</container>
           </did>
         </c>
         <c id="aspace_bb0e934a2d94fca6a164f7a32a49d6dd" level="item">
           <did>
             <unittitle>Cards and Thank You Notes</unittitle>
             <unitdate normal="1964/1998" type="inclusive">1964-1998</unitdate>
-            <container id="aspace_030db009cea82877167db897a886ad6a" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_1f9513c01e6a94ef7b454183a0ee7b88" parent="aspace_030db009cea82877167db897a886ad6a" type="folder">16</container>
+            <container id="aspace_55ffc36cc6407aab2e38efea765ad2e9" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_66f341ef815b9ba25f0cd4721da22f1a" parent="aspace_55ffc36cc6407aab2e38efea765ad2e9" type="folder">16</container>
           </did>
         </c>
         <c id="aspace_6ae9c37209717d5508e3478f6ea49aaa" level="item">
           <did>
             <unittitle>Mid-City Tenants Action Council, Urban Renewal Area; Blank Membership Cards</unittitle>
-            <container id="aspace_f74c8a9644b5ddb95873a5b9221ff1f2" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_b90959c7d35dd741d1f484ddbc5a9211" parent="aspace_f74c8a9644b5ddb95873a5b9221ff1f2" type="folder">3</container>
+            <container id="aspace_6c6496598efd5a92368866366af1f084" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_688f05e929c004da6288c86bddda6ef4" parent="aspace_6c6496598efd5a92368866366af1f084" type="folder">3</container>
           </did>
         </c>
         <c id="aspace_ba8427e5d641998822b1a7fb81a5230b" level="item">
           <did>
             <unittitle>Ribbons</unittitle>
             <unitdate normal="1986/1986">1986</unitdate>
-            <container id="aspace_1e820fbceac9e9b4dfe9f40eecba2db6" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_d933141b5647e75196ee447ffaee039e" parent="aspace_1e820fbceac9e9b4dfe9f40eecba2db6" type="folder">4</container>
+            <container id="aspace_486f268b36039d0d0d8dd2a0aa5c05f5" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_4062bff707c0ea7ba4d9ec9cc081f914" parent="aspace_486f268b36039d0d0d8dd2a0aa5c05f5" type="folder">4</container>
           </did>
         </c>
         <c id="aspace_b318e7c444fa2dc355f62212a1d9c209" level="item">
           <did>
             <unittitle>Identification Badges</unittitle>
-            <container id="aspace_ac69af82fb1f32593640229765b9b91f" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_bede618cdcad40e59f66d5d6c62df158" parent="aspace_ac69af82fb1f32593640229765b9b91f" type="folder">5</container>
+            <container id="aspace_210fabfce0b3a4e0188a747a9580f172" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_616dd485b993f2fbd09a305d27f1a2e0" parent="aspace_210fabfce0b3a4e0188a747a9580f172" type="folder">5</container>
           </did>
         </c>
         <c id="aspace_d4037a1321e6f4ec66db1e515bcc3cb4" level="item">
           <did>
             <unittitle>National Capital Area Boy Scouts of America</unittitle>
             <unitdate normal="1972/1981" type="inclusive">1972-1981</unitdate>
-            <container id="aspace_4e13f0aa802d2ab1cd449e8580aba315" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_b866f2d8cc19d9acc86b2f42f97442ea" parent="aspace_4e13f0aa802d2ab1cd449e8580aba315" type="folder">6</container>
+            <container id="aspace_9b1b07fec93dfb481559a977a91e508c" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_b546335d7afb2091f02e53ed42a55794" parent="aspace_9b1b07fec93dfb481559a977a91e508c" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_7ecd2c0b282a6f5106fcf11bdfd9aede" level="item">
           <did>
             <unittitle>Buttons, Fauntroy</unittitle>
-            <container id="aspace_15ef0a9feb2b3be827ac306b2bdab31c" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_f524a9e09d7a062705a7bef6c504cf89" parent="aspace_15ef0a9feb2b3be827ac306b2bdab31c" type="folder">1</container>
+            <container id="aspace_cf0cab9909635c12cfb14f3b2c7f0051" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_f1e063ba07dee0071fcf4b96158d0f28" parent="aspace_cf0cab9909635c12cfb14f3b2c7f0051" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_8918800840af334be73773b51fa49b3c" level="item">
           <did>
             <unittitle>Buttons, Marion Barry</unittitle>
-            <container id="aspace_abc2d04b0883ad457637733c9e75e465" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_8c9a08d75a867c33dbefe868dedeb5a9" parent="aspace_abc2d04b0883ad457637733c9e75e465" type="folder">2</container>
+            <container id="aspace_79be395bb622782b56d4b345d3b1cf59" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_19d7377811fa0710c323576f3bd67038" parent="aspace_79be395bb622782b56d4b345d3b1cf59" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_be30cfe87035050bad4d79d906cb63fa" level="item">
           <did>
             <unittitle>Buttons, Shawfest '89</unittitle>
             <unitdate normal="1989/1989">1989</unitdate>
-            <container id="aspace_f48381fcb4c7f3e482a4d915a900a0a0" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_c585d27b610ce14d284053bb1e806c1e" parent="aspace_f48381fcb4c7f3e482a4d915a900a0a0" type="folder">3</container>
+            <container id="aspace_0111b4a02bdaf4e60b71a0d7e60e2e81" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_ea7c6288a76072907e42e27678b07369" parent="aspace_0111b4a02bdaf4e60b71a0d7e60e2e81" type="folder">3</container>
           </did>
         </c>
         <c id="aspace_5bbe5b633c1e4c2096ee88d1e59152a9" level="item">
           <did>
             <unittitle>Buttons, Model City</unittitle>
-            <container id="aspace_198bbce58dbaa4a7cb10b171ba6de012" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_e4bc4aabcc85f3b9e6f4358517198a1d" parent="aspace_198bbce58dbaa4a7cb10b171ba6de012" type="folder">4</container>
+            <container id="aspace_0c027fdcd3b5b970d6c20a589277b6da" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_b1beff42aeb6e84242eb50caca4b298b" parent="aspace_0c027fdcd3b5b970d6c20a589277b6da" type="folder">4</container>
           </did>
         </c>
         <c id="aspace_2951a50eef8fdd3a5882ec9bc4332766" level="item">
           <did>
             <unittitle>Buttons, War on Rats</unittitle>
-            <container id="aspace_335e95b854025f4d54d0ef8fe55e5241" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_af5b45cddb33cbbeb1907b7cb1ab9d43" parent="aspace_335e95b854025f4d54d0ef8fe55e5241" type="folder">5</container>
+            <container id="aspace_295611b3df11571d0cb30a91a5f0456a" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_629ebd48ff9ac670cb35163833a40d20" parent="aspace_295611b3df11571d0cb30a91a5f0456a" type="folder">5</container>
           </did>
         </c>
         <c id="aspace_6a8669cb06375e009c9b6f9939f2ed4e" level="item">
           <did>
             <unittitle>Buttons, D.C. Commission for Women</unittitle>
-            <container id="aspace_c89230501b2a92e7afbc9f88d86fc01f" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_c8c4abf24193c45644fb07fb0daeb620" parent="aspace_c89230501b2a92e7afbc9f88d86fc01f" type="folder">6</container>
+            <container id="aspace_ebb51fc8e3a553564fd3fd5edf1b86e0" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_d3bde856e62f63f5b81205bf51d4b2e1" parent="aspace_ebb51fc8e3a553564fd3fd5edf1b86e0" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_6aa32aa3179728a081e8804107b32d46" level="item">
           <did>
             <unittitle>Buttons, "Re-Elect Wilson Ward 2"</unittitle>
-            <container id="aspace_303976e0cd760005c286895147b1f028" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_ae713b99473670520f39beca03e814ec" parent="aspace_303976e0cd760005c286895147b1f028" type="folder">7</container>
+            <container id="aspace_cf59e30aad465d99e63a36732ad8aacd" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_21c9f7893d978bbf9e16dc5f1e18d402" parent="aspace_cf59e30aad465d99e63a36732ad8aacd" type="folder">7</container>
           </did>
         </c>
         <c id="aspace_4ef19f4347f8d1b2be6528bb27d38c30" level="item">
           <did>
             <unittitle>Buttons, "Bringin' back The Lincoln '91"</unittitle>
             <unitdate normal="1991/1991">1991</unitdate>
-            <container id="aspace_4bae77ebd8406777c71129e1d4fe3a2d" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_482fb2ab7c84639bb28068d51d8e5835" parent="aspace_4bae77ebd8406777c71129e1d4fe3a2d" type="folder">8</container>
+            <container id="aspace_431e8b4e823584fa89f7ca8d10af9daf" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_f27b10f4c0900c1482eddf35daf5440b" parent="aspace_431e8b4e823584fa89f7ca8d10af9daf" type="folder">8</container>
           </did>
         </c>
         <c id="aspace_3c31a931e3c7dfd56acc3097a64b8100" level="item">
           <did>
             <unittitle>Buttons, "Zais Ward 2"</unittitle>
-            <container id="aspace_9dae58a0cf8fcd05cc43a7a1a724da2d" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_f5d3669511e0ef5f5f95fd7d28581b4e" parent="aspace_9dae58a0cf8fcd05cc43a7a1a724da2d" type="folder">9</container>
+            <container id="aspace_b4e2d49c145555971dc901ac511712ac" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_a831dde39173ba7040d1528cf179d47b" parent="aspace_b4e2d49c145555971dc901ac511712ac" type="folder">9</container>
           </did>
         </c>
         <c id="aspace_a18e4fea352515bc9a01bf38b1c2e984" level="item">
           <did>
             <unittitle>Buttons, "Sharon Pratt Dixon for Mayor"</unittitle>
-            <container id="aspace_dfb6402da870b12c4d4eaeb0f37f9e48" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_f57d44aabf1d1633008ff1ebc6b26055" parent="aspace_dfb6402da870b12c4d4eaeb0f37f9e48" type="folder">10</container>
+            <container id="aspace_62a476ccf1521fdb9b8a4ff4b2bed7bf" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_e657ad77fd2ebd16384872d9db5e6d42" parent="aspace_62a476ccf1521fdb9b8a4ff4b2bed7bf" type="folder">10</container>
           </did>
         </c>
         <c id="aspace_179d9330f8fe63004d8f88c8c153ebd4" level="item">
           <did>
             <unittitle>Buttons, Family Life Center Training Conference</unittitle>
             <unitdate normal="1988/1988">1988</unitdate>
-            <container id="aspace_6565f2b3ae11cbe1b8d3427e1111b420" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_df6610f847a91033506b0dafc22373af" parent="aspace_6565f2b3ae11cbe1b8d3427e1111b420" type="folder">11</container>
+            <container id="aspace_21c2a512b72f930ff56584b044e76a0d" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_ae5c89e272d393af31a857372ad9e1c9" parent="aspace_21c2a512b72f930ff56584b044e76a0d" type="folder">11</container>
           </did>
         </c>
         <c id="aspace_414ec73add348982c9d31d88b850a535" level="item">
           <did>
             <unittitle>Buttons, Arrington Dixon</unittitle>
-            <container id="aspace_b493cabd6512528feca906bfea4714aa" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_766d9a18dea03c28d9b04d39857986e7" parent="aspace_b493cabd6512528feca906bfea4714aa" type="folder">12</container>
+            <container id="aspace_f9354da0a5768a1edb2470877c68eeb6" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_97db1c6c7d57236ac96a48c203d0b481" parent="aspace_f9354da0a5768a1edb2470877c68eeb6" type="folder">12</container>
           </did>
         </c>
         <c id="aspace_b028b739a5d2dccdaf3f548b3971d53a" level="item">
           <did>
             <unittitle>Buttons, Minority Business Opportunity Commission, Office of Human Rights</unittitle>
-            <container id="aspace_53e01ad698c7aaf724f0f5c7cbfa6065" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_1db85a5f718ff20d5d12982b0993ca48" parent="aspace_53e01ad698c7aaf724f0f5c7cbfa6065" type="folder">13</container>
+            <container id="aspace_e8b8ae52d9058e45689e6e511a299877" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_9a76d38acffe1ddb2c238fa1d33a6fc1" parent="aspace_e8b8ae52d9058e45689e6e511a299877" type="folder">13</container>
           </did>
         </c>
         <c id="aspace_1df65c6ae5e344f4c1578e38d84f37ad" level="item">
           <did>
             <unittitle>Buttons, D.C. Lung Association</unittitle>
-            <container id="aspace_afcd6b7ffcd049b01f0964e72cc09bb0" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_ad0592ec44b597274f4476197ccd75dd" parent="aspace_afcd6b7ffcd049b01f0964e72cc09bb0" type="folder">14</container>
+            <container id="aspace_3aab472d9ac768d51ef1452f787e165f" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_cef34e0fa4979f22f9212f3f496999e1" parent="aspace_3aab472d9ac768d51ef1452f787e165f" type="folder">14</container>
           </did>
         </c>
         <c id="aspace_b17f00162fc7e11dca411e7e679b7b04" level="item">
           <did>
             <unittitle>Buttons, Wilson Council Chairman</unittitle>
-            <container id="aspace_fb602a531a8163489c57d53de2a277b5" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_173fe587c3d5060703c97c6ee3fcc140" parent="aspace_fb602a531a8163489c57d53de2a277b5" type="folder">15</container>
+            <container id="aspace_7d07cbe10208b3a9f09113c065eafbf9" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_126edf8331eee6015068258e0616f373" parent="aspace_7d07cbe10208b3a9f09113c065eafbf9" type="folder">15</container>
           </did>
         </c>
         <c id="aspace_6e5fe91859d95b74f0c4506d4cc35949" level="item">
           <did>
             <unittitle>Buttons, "I'm for the Bottle Bill"</unittitle>
-            <container id="aspace_9eaddbf7aeca424250e65fa31fb9256f" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_e18699c923ef808e2b1915e0100f89fb" parent="aspace_9eaddbf7aeca424250e65fa31fb9256f" type="folder">16</container>
+            <container id="aspace_a169a4a33af21ef8411d2d8876576d79" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_a2e8ddece84a47443c292e38bfcc0d9f" parent="aspace_a169a4a33af21ef8411d2d8876576d79" type="folder">16</container>
           </did>
         </c>
         <c id="aspace_004f12d9af187cc1d3659e5bec75a1f8" level="item">
           <did>
             <unittitle>Buttons, Reelect R. David Hall</unittitle>
-            <container id="aspace_95ef1ba8fadf60700d1724a655a845f8" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_474c4e69ae052ae0f294167d2839c92d" parent="aspace_95ef1ba8fadf60700d1724a655a845f8" type="folder">17</container>
+            <container id="aspace_00590bdee2abfcf4699f190cb3d322f7" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_7ac8ec2c474c91f15d1b308ec3b86585" parent="aspace_00590bdee2abfcf4699f190cb3d322f7" type="folder">17</container>
           </did>
         </c>
         <c id="aspace_d07ceb5220b128164e03345c60cc9ea1" level="item">
           <did>
             <unittitle>Buttons, Clarence Martin for Council At-Large</unittitle>
-            <container id="aspace_7be28d97ef873f0ac1d50b2a481a3842" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_0703ec185a28173a254687ee1716844e" parent="aspace_7be28d97ef873f0ac1d50b2a481a3842" type="folder">18</container>
+            <container id="aspace_f8f18b5eec35c1c271685b9f5c00661f" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_96e485178eabf472a440e8826d54d3db" parent="aspace_f8f18b5eec35c1c271685b9f5c00661f" type="folder">18</container>
           </did>
         </c>
         <c id="aspace_5b596a31887bc7cdf58a12c75f541a92" level="item">
           <did>
             <unittitle>Buttons, Carol Schwartz for Mayor</unittitle>
-            <container id="aspace_1b00137afd2e86bd828b2b0443fe58ee" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_428786bb582fb2c25eac101ba1ca5c79" parent="aspace_1b00137afd2e86bd828b2b0443fe58ee" type="folder">19</container>
+            <container id="aspace_59dd59ea0abed241d694215f56bd66ef" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_8ede31b83f65e9c868719555d1faf01e" parent="aspace_59dd59ea0abed241d694215f56bd66ef" type="folder">19</container>
           </did>
         </c>
         <c id="aspace_7bd74978dd78073cf2819da11d7a4ae3" level="item">
           <did>
             <unittitle>Buttons, Blacks in Government</unittitle>
-            <container id="aspace_56464786b78ff93ca0c0657e2112c204" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_6c39cd9529499a96a2faceb33622deb6" parent="aspace_56464786b78ff93ca0c0657e2112c204" type="folder">20</container>
+            <container id="aspace_d730d7050c5786ae83be5ff69c18e92b" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_65796cebf7ef7eaa7e9ac9b6c4797924" parent="aspace_d730d7050c5786ae83be5ff69c18e92b" type="folder">20</container>
           </did>
         </c>
         <c id="aspace_3d15cd898c73ece23c3b720d5d14ea9b" level="item">
           <did>
             <unittitle>Buttons, "I Voted Washington, D.C. '78"</unittitle>
             <unitdate normal="1978/1978">1978</unitdate>
-            <container id="aspace_518074fedf0231eeb65a4aee3f9133d7" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_6dc4140ccdc964cb8150b31dbcc77c50" parent="aspace_518074fedf0231eeb65a4aee3f9133d7" type="folder">21</container>
+            <container id="aspace_4548eb7573a46b3b68c037c778d87cbb" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_ce4a79d7134f1190949c8ea3f95c4a59" parent="aspace_4548eb7573a46b3b68c037c778d87cbb" type="folder">21</container>
           </did>
         </c>
         <c id="aspace_214baaba042bb67e64c6c7c952813621" level="item">
           <did>
             <unittitle>Buttons, MICCO Citizen Planner</unittitle>
-            <container id="aspace_64a1db90a3ed8b5fce3a03146033f7da" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_f95b646670714a645cef91f00af37e2e" parent="aspace_64a1db90a3ed8b5fce3a03146033f7da" type="folder">22</container>
+            <container id="aspace_f41d4c1bdff97bd381b809c0cd4eef35" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_138f6352de5a42aad1dc8d13c7ef7dd7" parent="aspace_f41d4c1bdff97bd381b809c0cd4eef35" type="folder">22</container>
           </did>
         </c>
         <c id="aspace_dca130c85ade074e36652f3aabbd25b8" level="item">
           <did>
             <unittitle>Buttons, D.C. Statehood Initiative 3</unittitle>
-            <container id="aspace_7bc6bcc236775defee1cb940b00c5151" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_74d832b935b2f96bde9ac31a80ac056f" parent="aspace_7bc6bcc236775defee1cb940b00c5151" type="folder">23</container>
+            <container id="aspace_59fb5e6c6dc3e6a66c1d92514fe26c0f" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_ab2dd9a3a064b03fbbc13b04bd699eb3" parent="aspace_59fb5e6c6dc3e6a66c1d92514fe26c0f" type="folder">23</container>
           </did>
         </c>
         <c id="aspace_af0e78c751228ae3a9923cc8fbb842d3" level="item">
           <did>
             <unittitle>Buttons, Inner City Aids Network</unittitle>
-            <container id="aspace_293d0ba6c377708efeaee1121c3b31d6" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_d62da37e6476fae9b4f93471ae6ce4d4" parent="aspace_293d0ba6c377708efeaee1121c3b31d6" type="folder">24</container>
+            <container id="aspace_9e34ae14d04470c0235b784f1ec689b3" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_e559cabb2856092c3ddcee224e5e44d1" parent="aspace_9e34ae14d04470c0235b784f1ec689b3" type="folder">24</container>
           </did>
         </c>
         <c id="aspace_17b5e6708319daed9ee66006f4c6f0cb" level="item">
           <did>
             <unittitle>Buttons, Elect Dave Clark</unittitle>
-            <container id="aspace_2badb7bfbbfc8e681983ac52be187be7" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_361f445acabeb0913770b6e4cef19c45" parent="aspace_2badb7bfbbfc8e681983ac52be187be7" type="folder">25</container>
+            <container id="aspace_1ca9cdeb30bc0725d09e2aed9521c1e2" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_00426d67596598a9d93879aa0277a358" parent="aspace_1ca9cdeb30bc0725d09e2aed9521c1e2" type="folder">25</container>
           </did>
         </c>
         <c id="aspace_7baf2dc8d43019a58ca57f98ac171498" level="item">
           <did>
             <unittitle>Buttons, "Advisory Councils Yes!"</unittitle>
-            <container id="aspace_83c72179359bc15c0c61048e65486cdb" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_dfb6b54557915691db8e1f75834bed93" parent="aspace_83c72179359bc15c0c61048e65486cdb" type="folder">26</container>
+            <container id="aspace_cbb67c1e1af3e9c0dc4b42e34db896c1" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_31fdf5ba3fb27cf722b2e00bce8a1c1e" parent="aspace_cbb67c1e1af3e9c0dc4b42e34db896c1" type="folder">26</container>
           </did>
         </c>
         <c id="aspace_1bd5639cd1468febf20d3b18147e08df" level="item">
           <did>
             <unittitle>Buttons, "I'll Make It Right On"</unittitle>
-            <container id="aspace_7a50f90b53751eeedcb89317b8c30bef" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_dfc0398a7073058ed366c376f8870444" parent="aspace_7a50f90b53751eeedcb89317b8c30bef" type="folder">27</container>
+            <container id="aspace_a449d723022d878120b5675df70935d2" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_655016a7480b12b0c398eb66e818d3a4" parent="aspace_a449d723022d878120b5675df70935d2" type="folder">27</container>
           </did>
         </c>
         <c id="aspace_a650d2630ffa9295a993b5dfc5bc99b3" level="item">
           <did>
             <unittitle>Buttons, "10 Years Changing It Around"</unittitle>
-            <container id="aspace_ac5ef9501f823f27a6c2f460cf5d0971" label="Mixed Materials" type="box">6</container>
-            <container id="aspace_fdf1073f2bcf35a936e740caf553c96f" parent="aspace_ac5ef9501f823f27a6c2f460cf5d0971" type="folder">28</container>
+            <container id="aspace_96974c6c73c9106f84b3f88645b55314" label="Mixed Materials" type="box">6</container>
+            <container id="aspace_5e3d1f1a9a796640c212109834fa864a" parent="aspace_96974c6c73c9106f84b3f88645b55314" type="folder">28</container>
           </did>
         </c>
       </c>
@@ -930,165 +930,165 @@ Seried 8: Books<br/></p>
           <did>
             <unittitle>Metropolitan Police Department</unittitle>
             <unitdate normal="1992/1998" type="inclusive">1992-1998</unitdate>
-            <container id="aspace_993c18d2acd85766a9037d7a0c54196b" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_35c51782d9c4808d4ea5bd1a51d4f606" parent="aspace_993c18d2acd85766a9037d7a0c54196b" type="folder">17</container>
+            <container id="aspace_4339e502e5d010fefe83756556e43115" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_2dbe71e0f1389592d9925bf3537240a7" parent="aspace_4339e502e5d010fefe83756556e43115" type="folder">17</container>
           </did>
         </c>
         <c id="aspace_ce3cb87f67cee549fcc17e25c7f92f90" level="item">
           <did>
             <unittitle>Certificates, Awards, and Recognition</unittitle>
             <unitdate normal="1973/1998" type="inclusive">1973-1998</unitdate>
-            <container id="aspace_9d9c0cdc098d7f7531298a94aba6bdc4" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_c14cdb8b78ad5d87647aabfd72cfe472" parent="aspace_9d9c0cdc098d7f7531298a94aba6bdc4" type="folder">18</container>
+            <container id="aspace_d98ffd4720d7990574e68275b5105a8b" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_350a7e68d3e9f205f222e9f8e1d3986b" parent="aspace_d98ffd4720d7990574e68275b5105a8b" type="folder">18</container>
           </did>
         </c>
         <c id="aspace_6e73c70695fe22b6130c1a0b30beeda0" level="item">
           <did>
             <unittitle>Events and Programs, Awards Ceremonies for Environmental Improvement</unittitle>
             <unitdate normal="1984/1987" type="inclusive">1984-1987</unitdate>
-            <container id="aspace_c213dfd19073843a7687980ee2087419" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_e8990548480eac5a1ad4e26e5f5fc3d9" parent="aspace_c213dfd19073843a7687980ee2087419" type="folder">19</container>
+            <container id="aspace_b33c65ea1d55ada31acc09ddf1198ea6" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_bd80d02661895066b4aa6b1a6d64b266" parent="aspace_b33c65ea1d55ada31acc09ddf1198ea6" type="folder">19</container>
           </did>
         </c>
         <c id="aspace_231bcf6f1f649eed427b16d4ee003319" level="item">
           <did>
             <unittitle>Department of Housing and Community Development Housing Programs</unittitle>
             <unitdate normal="1990/1990">1990</unitdate>
-            <container id="aspace_82eb3696bb9e05bcbdbd7a64b93eb69f" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_eaee6f9875f1c126634db33e07349e0a" parent="aspace_82eb3696bb9e05bcbdbd7a64b93eb69f" type="folder">20</container>
+            <container id="aspace_d7f8edb1f3d6ad2879a7fb3a2c39b2c5" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_ac624cc7e357ad8c66e27bd64fc8c47d" parent="aspace_d7f8edb1f3d6ad2879a7fb3a2c39b2c5" type="folder">20</container>
           </did>
         </c>
         <c id="aspace_9a719841b36227040de7a0512fde53ac" level="item">
           <did>
             <unittitle>Model Cities/War on Rats</unittitle>
             <unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate>
-            <container id="aspace_49e246867bcbc78b87cd79f84848b605" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_9bd32cf94ae5c7632bc70ec804ff67fc" parent="aspace_49e246867bcbc78b87cd79f84848b605" type="folder">21</container>
+            <container id="aspace_dd792ac89f06de24c4a4c48e9b211240" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f56e3f447e46e126b9bb80cf863928e0" parent="aspace_dd792ac89f06de24c4a4c48e9b211240" type="folder">21</container>
           </did>
         </c>
         <c id="aspace_9ef189c139e89458f14fdd36eda4cb01" level="item">
           <did>
             <unittitle>Advisory Neighborhood Commission; Certificates, Awards, and Recognition</unittitle>
             <unitdate normal="1989/1989">1989</unitdate>
-            <container id="aspace_123948fb55f00b7d85785ecc0cee2843" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_f799ec898517fc83f7c83e21d5d67cc7" parent="aspace_123948fb55f00b7d85785ecc0cee2843" type="folder">22</container>
+            <container id="aspace_cc23ea0d52dca071ea42fd8f9f15e271" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b6b30289db636703b9e9d7d25570faa1" parent="aspace_cc23ea0d52dca071ea42fd8f9f15e271" type="folder">22</container>
           </did>
         </c>
         <c id="aspace_89b5ba235de7e22de242cac6ed720a06" level="item">
           <did>
             <unittitle>Advisory Neighborhood Commission, Elections Materials</unittitle>
             <unitdate normal="1976/1987" type="inclusive">1976-1987</unitdate>
-            <container id="aspace_9990ea002917413d7d2822a07408c9cb" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_5bd73f68e62d73b9df691cce5d322c37" parent="aspace_9990ea002917413d7d2822a07408c9cb" type="folder">23</container>
+            <container id="aspace_53463c8b166df189e157a3b4fed4c778" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_4ca5494df8151056b25dc44418b2a74d" parent="aspace_53463c8b166df189e157a3b4fed4c778" type="folder">23</container>
           </did>
         </c>
         <c id="aspace_9656ee91ce33e4999c12b066bc5d8c14" level="item">
           <did>
             <unittitle>Advisory Neighborhood Commission, Laws and Regulations</unittitle>
-            <container id="aspace_662cb325505bc229c23289875edcbd29" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_47c0de2ab8abb7241d8e300df144986d" parent="aspace_662cb325505bc229c23289875edcbd29" type="folder">24</container>
+            <container id="aspace_3d31baedd801d8a18e67b5501ee0e52c" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_02fc88d2bcdacb0b66dcc448acc72905" parent="aspace_3d31baedd801d8a18e67b5501ee0e52c" type="folder">24</container>
           </did>
         </c>
         <c id="aspace_3d412c76e97c567d9d500f3c5a072912" level="item">
           <did>
             <unittitle>Advisory Neighborhood Commission, Correspondence</unittitle>
             <unitdate normal="1978/1989" type="inclusive">1978-1989</unitdate>
-            <container id="aspace_aac61e768db4255e223ed2f8ba355d25" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_7f63539a8af46841380e15b16cf8004b" parent="aspace_aac61e768db4255e223ed2f8ba355d25" type="folder">25</container>
+            <container id="aspace_dee5b3f5ddad50b678a2901766754c0b" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_2d734b4fba9a0081ddb248893f212689" parent="aspace_dee5b3f5ddad50b678a2901766754c0b" type="folder">25</container>
           </did>
         </c>
         <c id="aspace_717594adff90c82e9218ae3288897d4c" level="item">
           <did>
             <unittitle>U.S. Department of the Interior</unittitle>
             <unitdate normal="1972/1972">1972</unitdate>
-            <container id="aspace_eba2c924a47afd83e5a3b317ad97a650" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_a6e43f4cf58717a07be56a3369990e5b" parent="aspace_eba2c924a47afd83e5a3b317ad97a650" type="folder">26</container>
+            <container id="aspace_b03cbeeaa114014bfb79bf9e810e83d6" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_647949709bed48a5124ffe09b6253a4c" parent="aspace_b03cbeeaa114014bfb79bf9e810e83d6" type="folder">26</container>
           </did>
         </c>
         <c id="aspace_eb01b147230795401ad592e6e5dde8b6" level="item">
           <did>
             <unittitle>Advisory Neighborhood Commission, 12 Years of Outstanding Service Plaque</unittitle>
             <unitdate normal="1988/1988">1988</unitdate>
-            <container id="aspace_191c3d6a90f68736256a63d567dd6b53" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_beb70a77719751a6543fa3f2648c7cc2" parent="aspace_191c3d6a90f68736256a63d567dd6b53" type="folder">7</container>
+            <container id="aspace_716f4b01d2b31737db06b9339ed0d4f0" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_e3ff8744d119b9a8f67f4dacc9d16e90" parent="aspace_716f4b01d2b31737db06b9339ed0d4f0" type="folder">7</container>
           </did>
         </c>
         <c id="aspace_9031da11ab94c903c826806613ea7f91" level="item">
           <did>
             <unittitle>Certificates, Awards, and Recognition; Certificates of Appreciation</unittitle>
             <unitdate normal="1981/1987" type="inclusive">1981-1987</unitdate>
-            <container id="aspace_d92701c986496f2832a244c7f240a938" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_33df0841adea9a26c4957e9a25427d74" parent="aspace_d92701c986496f2832a244c7f240a938" type="folder">1</container>
+            <container id="aspace_887bdb13ddb058d08c1f7e92eaa8d55a" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_6811b16858819173b0c935a94f585ef1" parent="aspace_887bdb13ddb058d08c1f7e92eaa8d55a" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_d24520e979e137b30dea90a9319ae512" level="item">
           <did>
             <unittitle>Advisory Neighborhood Commission, Certificate of Election</unittitle>
             <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
-            <container id="aspace_db80eac56c47775abf23d1deebda83d6" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_3a25711174ddefb09a1fc21352d45bb2" parent="aspace_db80eac56c47775abf23d1deebda83d6" type="folder">2</container>
+            <container id="aspace_cbe949f7a17f6384d0d3b27351ea56de" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_c84fdc04c82f7b2cf657db6b5bed12a5" parent="aspace_cbe949f7a17f6384d0d3b27351ea56de" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_bf4d1cb236a94edc6cccf57121768c55" level="item">
           <did>
             <unittitle>Metropolitan D.C. Police, Crime Solvers Posters</unittitle>
-            <container id="aspace_85c1f4a1b20851d12c720ee7a8b0adfb" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_80432bdfb57d50d72dcdef3b9f3ded7e" parent="aspace_85c1f4a1b20851d12c720ee7a8b0adfb" type="folder">3</container>
+            <container id="aspace_126272c2dc523e3e8afa097800ec6b55" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_c63be97d45bdfe3fdb21d177a6a390c0" parent="aspace_126272c2dc523e3e8afa097800ec6b55" type="folder">3</container>
           </did>
         </c>
         <c id="aspace_5ea103ea5ebf6f3a647dd0682d14efc8" level="item">
           <did>
             <unittitle>D.C. Department of Public Works, Posters</unittitle>
-            <container id="aspace_ef4b29886bcf8d92e6e5a2ab07595bb5" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_45f0a0a1d94d50178d7fefc7a413dfaa" parent="aspace_ef4b29886bcf8d92e6e5a2ab07595bb5" type="folder">4</container>
+            <container id="aspace_238f37ed0f7aaa9c0a3787e630d1e23f" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_4635b7e13e4234f2f153fed4d65ffcf7" parent="aspace_238f37ed0f7aaa9c0a3787e630d1e23f" type="folder">4</container>
           </did>
         </c>
         <c id="aspace_0fa4354bbaeb9412777e2e9e50fae3c6" level="item">
           <did>
             <unittitle>Office of the Mayor Proclamation, Shaw Day</unittitle>
             <unitdate normal="1991-10-05/1991-10-05">1991-10-05</unitdate>
-            <container id="aspace_c9d65efdbe29d60b4d6f6a47cfc59c85" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_9e5fdcf61479f957c54db7b13fbc9ad3" parent="aspace_c9d65efdbe29d60b4d6f6a47cfc59c85" type="folder">5</container>
+            <container id="aspace_e828bc179b0f51f2d2b7bffb40b5cf9e" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_3fa84e8734b4df12f51281a0e0326ed8" parent="aspace_e828bc179b0f51f2d2b7bffb40b5cf9e" type="folder">5</container>
           </did>
         </c>
         <c id="aspace_3428f284283fd24bbbe102aa46d438e3" level="item">
           <did>
             <unittitle>Shawfest '90 Day Declaration Resolution of 1990</unittitle>
             <unitdate normal="1990/1990">1990</unitdate>
-            <container id="aspace_2caeb3890f201a861c15610a8665721d" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_372ba142886f00acb69f00f48c2958d3" parent="aspace_2caeb3890f201a861c15610a8665721d" type="folder">6</container>
+            <container id="aspace_3794dd4a02ebad9764dbaf8af26b4f1b" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_ae4f40b7807b8e6ba8c4a42f9ee7989a" parent="aspace_3794dd4a02ebad9764dbaf8af26b4f1b" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_42c096c731727298a425e0cc3295aad7" level="item">
           <did>
             <unittitle>Margaret Cooper Recognition Resolution of 1989</unittitle>
             <unitdate normal="1989/1989">1989</unitdate>
-            <container id="aspace_bd6c2252eaa3089ccad4db12ee14bb51" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_86cc047564fb0e1952dc70fa1ca6073e" parent="aspace_bd6c2252eaa3089ccad4db12ee14bb51" type="folder">7</container>
+            <container id="aspace_757ab464e19096e242cf20151f3e19f0" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_7d579357f0e5a0dbef92c7afa1980330" parent="aspace_757ab464e19096e242cf20151f3e19f0" type="folder">7</container>
           </did>
         </c>
         <c id="aspace_001aabc5f0a1614f4325c0ac991fcd1f" level="item">
           <did>
             <unittitle>Margaret B. "Mother" Cooper Recognition Resolution of 1996</unittitle>
             <unitdate normal="1996/1996">1996</unitdate>
-            <container id="aspace_6cfcaa7bb6eef6eb34dbd8393e803635" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_b093b579d6b8ca135677cd325367673f" parent="aspace_6cfcaa7bb6eef6eb34dbd8393e803635" type="folder">8</container>
+            <container id="aspace_4825776c24d8b887894718a7f392bea4" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_63b2da276339f6b0f19f4324b75a3c71" parent="aspace_4825776c24d8b887894718a7f392bea4" type="folder">8</container>
           </did>
         </c>
         <c id="aspace_8bf69bb52daad94b35a0060a25acd4e7" level="item">
           <did>
             <unittitle>Margaret Cooper Recognition Resolution of 1983</unittitle>
             <unitdate normal="1983/1983">1983</unitdate>
-            <container id="aspace_db6129b7ab9f626160d96c558faba6c3" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_5bb2f5b4ffdf43b6efde0ae9e43ee129" parent="aspace_db6129b7ab9f626160d96c558faba6c3" type="folder">9</container>
+            <container id="aspace_aa417f8769188cdd8973646346d3bd5e" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_78c0587bb57698dd936b742b941b106b" parent="aspace_aa417f8769188cdd8973646346d3bd5e" type="folder">9</container>
           </did>
         </c>
         <c id="aspace_3abd9665c43d22ec40aa0cdd0bef3140" level="item">
           <did>
             <unittitle>United to Serve America Diamond Award</unittitle>
             <unitdate normal="1992/1992">1992</unitdate>
-            <container id="aspace_a9eac976e59ce315b49e34d96afc6acd" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_23c5854c9b1e36e70626a890162b6ea7" parent="aspace_a9eac976e59ce315b49e34d96afc6acd" type="folder">10</container>
+            <container id="aspace_4c80f9a44c4eccb5002e7a47aa04870b" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_597b51de4ca152ef4aa833f80b1d453d" parent="aspace_4c80f9a44c4eccb5002e7a47aa04870b" type="folder">10</container>
           </did>
         </c>
       </c>
@@ -1107,8 +1107,8 @@ Seried 8: Books<br/></p>
           <did>
             <unittitle>Marjorie Webster Junior College</unittitle>
             <unitdate normal="1965/1965">1965</unitdate>
-            <container id="aspace_3247f0b0f88910ae11ede9c50fa20664" label="Text" type="Box">4</container>
-            <container id="aspace_0e465b46deee09154e6fc72591e85fff" parent="aspace_3247f0b0f88910ae11ede9c50fa20664" type="folder">9</container>
+            <container id="aspace_8e6481e3025639664d1c1d105029785f" label="Text" type="Box">4</container>
+            <container id="aspace_ab0ccea6ab07f0e4adc3827036519cec" parent="aspace_8e6481e3025639664d1c1d105029785f" type="folder">9</container>
           </did>
         </c>
       </c>
