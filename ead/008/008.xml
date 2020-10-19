@@ -24,7 +24,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-30 09:12:23 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-10-19 09:38:00 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -57,10 +57,6 @@
       <unitdate normal="1953/1979" type="inclusive">1953-1979</unitdate>
       <langmaterial id="aspace_ded76a42f2d253d880df7d29909a77bd">English</langmaterial>
     </did>
-    <acqinfo id="aspace_3beb1b8f21038ec6a37eafd5c34fd434">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated by Dr. Edward A. Kane and Mrs. Mary Kane in 1988.</p>
-    </acqinfo>
     <arrangement id="aspace_8eb46f0d75c2385fe54b791a9aa25f9f">
       <head>Arrangement</head>
       <p>Federation of Citizens Associations<br/>
@@ -76,6 +72,10 @@ Photograph</p>
       <p>Mary (Kerwin) Kane (1907-1993) was born in Silver Lake, Wisconsin and arrived in D.C. in 1923. She attended George Washington University and was  a secretary for Representative Hamer Harold Budge (R-Idaho), Senator Frank J. Lausche (D-Ohio), and Senator/Vice President Walter Mondale (D- Minn.. She retired in 1979. </p>
       <p>The Kane's were married in 1935 and had three children. They were active members of the Health Committee of the Federation of Citizens Association, the Michigan Park Citizens Association, the National Gateway Citizens' Association, and the Northeast Council of Citizens' Association. Dr. Kane served as Chairman of the Health Committee and Mrs. Kane served as President of the Michigan Park Citizens Association and the Northeast Council of Citizens Associations. In 1968 Dr. Kane was the recipient of the Washington Star award from the Federation of Citizens Associations for his community work.</p>
     </bioghist>
+    <custodhist id="aspace_3beb1b8f21038ec6a37eafd5c34fd434">
+      <head>Custodial History</head>
+      <p>Donated by Dr. Edward A. Kane and Mrs. Mary Kane in 1988.</p>
+    </custodhist>
     <processinfo id="aspace_a713e77d41d0f9bc8c56921b63974fc5">
       <head>Processing Information</head>
       <p>Standard archival processing procedures were applied to the collection when it was processed.</p>
@@ -86,7 +86,7 @@ Photograph</p>
     </scopecontent>
     <userestrict id="aspace_bafed6aa4b4ec6d98721996521b881c3">
       <head>Conditions Governing Use</head>
-      <p>No restrictions.</p>
+      <p>No known restrictions.</p>
     </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
@@ -106,7 +106,7 @@ Photograph</p>
             <extent altrender="carrier">2 boxes</extent>
           </physdesc>
           <unitdate normal="1950/1989" type="inclusive">1950-1989</unitdate>
-          <container altrender="Legal Document Case" id="aspace_6820924a9218732eab9be38725cefee7" label="Mixed Materials" type="Box">1</container>
+          <container altrender="Legal Document Case" id="aspace_d77b149219499efc920abc3d577ae8f6" label="Mixed Materials" type="Box">1</container>
         </did>
         <c id="aspace_d667c1fbdd45ed8eb60612de483c7232" level="file">
           <did>
@@ -116,7 +116,7 @@ Photograph</p>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
             <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
-            <container id="aspace_8497350a9c9e8bf0e1ad6b8eae043c61" label="Mixed Materials" type="folder">1</container>
+            <container id="aspace_6ad1a2a30794cbc9c34cc92a5fed9cc5" label="Mixed Materials" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_8aec51f429f2e5ca8f8f86a5c901eb54" level="file">
@@ -127,7 +127,7 @@ Photograph</p>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
             <unitdate normal="1950/1989" type="inclusive">1950-1989</unitdate>
-            <container id="aspace_495e0cbcb2d491af5c108babe2705e81" label="Mixed Materials" type="folder">2</container>
+            <container id="aspace_67c884fb9b48800a7d4b1391de116ece" label="Mixed Materials" type="folder">2</container>
           </did>
         </c>
       </c>
@@ -139,7 +139,7 @@ Photograph</p>
             <extent altrender="carrier">2 boxes</extent>
           </physdesc>
           <unitdate normal="1955/1985" type="inclusive">1955-1985</unitdate>
-          <container altrender="Legal Document Case" id="aspace_242d251d10a636b80f35e6d35ccbeaa9" label="Mixed Materials" type="Box">1</container>
+          <container altrender="Legal Document Case" id="aspace_ba8dcbea9909f485ab8e35375d9fcbe0" label="Mixed Materials" type="Box">1</container>
         </did>
         <c id="aspace_ad625f3784ebbc17c00f6ac2d17ba322" level="file">
           <did>
@@ -148,7 +148,7 @@ Photograph</p>
               <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
-            <container id="aspace_18e72901e64a71214ab96ebf69a89a56" label="Mixed Materials" type="folder">3</container>
+            <container id="aspace_92fb593fba0e5b4f1810e3b23fd54593" label="Mixed Materials" type="folder">3</container>
           </did>
         </c>
         <c id="aspace_aeef9a7011d740cbd157e215f123562f" level="file">
@@ -159,7 +159,7 @@ Photograph</p>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
             <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
-            <container id="aspace_4fe0e48b21f1fde5c1d7c63b2c205bf4" label="Mixed Materials" type="folder">4</container>
+            <container id="aspace_3b8447f77994fbe8b4f7903dccc0da1f" label="Mixed Materials" type="folder">4</container>
           </did>
         </c>
         <c id="aspace_1b894e072b365d630ca0a090d782009c" level="file">
@@ -170,7 +170,7 @@ Photograph</p>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
             <unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate>
-            <container id="aspace_51a0adfe0b7c60fb97f241d351ecd373" label="Mixed Materials" type="folder">5</container>
+            <container id="aspace_e47852df80d1e830d67e81dbfe967525" label="Mixed Materials" type="folder">5</container>
           </did>
         </c>
         <c id="aspace_94a1e25c79ebeb7c31803c54625914db" level="file">
@@ -181,7 +181,7 @@ Photograph</p>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
             <unitdate normal="1980/1985" type="inclusive">1980-1985</unitdate>
-            <container id="aspace_b8c4803f7182fc862c38ce26f6fe8899" label="Mixed Materials" type="folder">6</container>
+            <container id="aspace_ccb6bc16a19174a6168e77351e139ad7" label="Mixed Materials" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_bb582a83ab5498527891654480bdee98" level="file">
@@ -192,7 +192,7 @@ Photograph</p>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
             <unitdate normal="1955/1985" type="inclusive">1955-1985</unitdate>
-            <container id="aspace_3f7ce017cd5588c1017850bd8f90b42e" label="Mixed Materials" type="folder">7</container>
+            <container id="aspace_2d0637cc4488e99f5f8dc951396703fc" label="Mixed Materials" type="folder">7</container>
           </did>
         </c>
       </c>
@@ -204,7 +204,7 @@ Photograph</p>
             <extent altrender="carrier">2 boxes</extent>
           </physdesc>
           <unitdate normal="1955/1955">1955</unitdate>
-          <container altrender="Legal Document Case" id="aspace_883a0af09ee1645ec92ee9e23b254e80" label="Mixed Materials" type="Box">1</container>
+          <container altrender="Legal Document Case" id="aspace_588a71ac15279aef1de580d96d7aa4e8" label="Mixed Materials" type="Box">1</container>
         </did>
         <c id="aspace_6142f2f540617bd4f22186eb08b47539" level="file">
           <did>
@@ -214,7 +214,7 @@ Photograph</p>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
             <unitdate normal="1955/1955">1955</unitdate>
-            <container id="aspace_a3b2597530ff5fd3ad009a64b15b97ea" label="Mixed Materials" type="folder">8</container>
+            <container id="aspace_a1b01c5040ed0f06b0b683fa9f3c31a9" label="Mixed Materials" type="folder">8</container>
           </did>
         </c>
       </c>
@@ -226,7 +226,7 @@ Photograph</p>
             <extent altrender="carrier">2 boxes</extent>
           </physdesc>
           <unitdate normal="1955/1966" type="inclusive">1955-1966</unitdate>
-          <container altrender="Legal Document Case (Slim)" id="aspace_ce792df9639e13be10ae8ce5378132a0" label="Mixed Materials" type="box">1-2</container>
+          <container altrender="Legal Document Case (Slim)" id="aspace_ba3765efffc2eba2990d36a4c3c6a7ee" label="Mixed Materials" type="box">1-2</container>
         </did>
         <c id="aspace_cfb8768c3d0e4ca7928f7fda7aeef025" level="file">
           <did>
@@ -236,7 +236,7 @@ Photograph</p>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
             <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
-            <container id="aspace_d4ae7e3b515730ccc08a59b81c8fa6a6" label="Mixed Materials" type="folder">9</container>
+            <container id="aspace_2522ce1a93589c8d54425530b0ae79e5" label="Mixed Materials" type="folder">9</container>
           </did>
         </c>
         <c id="aspace_109b06a6f448e785bd23537c7062d884" level="file">
@@ -247,7 +247,7 @@ Photograph</p>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
             <unitdate normal="1956/1956">1956</unitdate>
-            <container id="aspace_24dffc5b1445379ee2de4dd1fe7117ce" label="Mixed Materials" type="folder">1</container>
+            <container id="aspace_ac1bd62d9377aaea46284bec0321c274" label="Mixed Materials" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_cd575492b8756f9929ca28d5c36df412" level="file">
@@ -258,7 +258,7 @@ Photograph</p>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
             <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
-            <container id="aspace_99ff0be6cc465936627312b60f731dc5" label="Mixed Materials" type="folder">2</container>
+            <container id="aspace_04bc19fbf28a2ec4286e80718fde0aa2" label="Mixed Materials" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_58beba11efc67595a06fce4df030e869" level="file">
@@ -269,7 +269,7 @@ Photograph</p>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
             <unitdate normal="1955/1955">1955</unitdate>
-            <container id="aspace_f5707d9396c2ec4989acfb5c053ce827" label="Mixed Materials" type="folder">3</container>
+            <container id="aspace_77e949d61781e282d9adc2535f6f08bc" label="Mixed Materials" type="folder">3</container>
           </did>
         </c>
         <c id="aspace_4a7309087c81f165652e92e4602ec30c" level="file">
@@ -280,7 +280,7 @@ Photograph</p>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
             <unitdate normal="1950/1960" type="inclusive">1950-1960</unitdate>
-            <container id="aspace_41d3589196bcf74731ec9c9a6dcc24f1" label="Mixed Materials" type="folder">4</container>
+            <container id="aspace_06e0d836e39b7cc513a4be2ffe6ce495" label="Mixed Materials" type="folder">4</container>
           </did>
         </c>
         <c id="aspace_2e47e6d533d8887eee10d79dde340cc8" level="file">
@@ -291,7 +291,7 @@ Photograph</p>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
             <unitdate normal="1953/1966" type="inclusive">1953-1966</unitdate>
-            <container id="aspace_0bb041a9b1aec07250b61ea4ff4f572f" label="Mixed Materials" type="folder">5</container>
+            <container id="aspace_e46d2c435f70a17594c57520e60b99c1" label="Mixed Materials" type="folder">5</container>
           </did>
         </c>
       </c>
@@ -303,7 +303,7 @@ Photograph</p>
             <extent altrender="carrier">2 boxes</extent>
           </physdesc>
           <unitdate normal="1961/1961">1961</unitdate>
-          <container id="aspace_86c51695f2a393d461d39ee9eba3b956" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_5190ae093079d6394d64842216df7d4f" label="Mixed Materials" type="Box">2</container>
         </did>
         <c id="aspace_0ad39c5d32bd0a56dabcee963759301f" level="file">
           <did>
@@ -313,7 +313,7 @@ Photograph</p>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
             <unitdate normal="1961/1961">1961</unitdate>
-            <container id="aspace_07b99463705d274b2a35a0bc80fa105c" label="Mixed Materials" type="folder">6</container>
+            <container id="aspace_9f480655470f61ce227ea31677c7299c" label="Mixed Materials" type="folder">6</container>
           </did>
         </c>
       </c>
@@ -325,7 +325,7 @@ Photograph</p>
             <extent altrender="carrier">2 boxes</extent>
           </physdesc>
           <unitdate normal="1958/1958">1958</unitdate>
-          <container id="aspace_3a7545722b886c1748687cba18203453" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_53f42b827ed9521e825e4fc5114c4f4e" label="Mixed Materials" type="Box">2</container>
         </did>
         <c id="aspace_ffa00ead59f4275e5c3b5a1b7012e74a" level="file">
           <did>
@@ -335,7 +335,7 @@ Photograph</p>
               <extent altrender="carrier">2 boxes</extent>
             </physdesc>
             <unitdate normal="1958-04-16/1958-04-16">1958-04-16</unitdate>
-            <container id="aspace_2a5a8c40b205cf7c1875d61d50220dfd" label="Mixed Materials" type="folder">7</container>
+            <container id="aspace_54de83ee41116203abaa40c31909f7d8" label="Mixed Materials" type="folder">7</container>
           </did>
         </c>
       </c>

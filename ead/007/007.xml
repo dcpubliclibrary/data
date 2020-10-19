@@ -21,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-30 09:12:31 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2020-10-19 09:37:52 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -54,10 +54,6 @@
       <unitdate normal="1959/1966" type="inclusive">1959-1966</unitdate>
       <langmaterial id="aspace_cbb04c596c119170c91c623bc170480e">English</langmaterial>
     </did>
-    <acqinfo id="aspace_09fc7afb9d2efe2add723d3abec6d8a5">
-      <head>Immediate Source of Acquisition</head>
-      <p>The collection was donated by Paul J. Sedgwick, Chairman of the District of Columbia Civil War Centennial Commission.</p>
-    </acqinfo>
     <arrangement id="aspace_0d65aaafe204d47c71ea44f8ea7de3ac">
       <head>Arrangement</head>
       <p>Processed without series.</p>
@@ -66,6 +62,10 @@
       <head>Biographical / Historical</head>
       <p>The District of Columbia Civil War Centennial Commission was part of the national effort to commemorate and celebrate the 100th anniversary of the American Civil War in 1961. Founded in 1959, the Commission sponsored events throughout D.C. until 1966.</p>
     </bioghist>
+    <custodhist id="aspace_09fc7afb9d2efe2add723d3abec6d8a5">
+      <head>Custodial History</head>
+      <p>The collection was donated by Paul J. Sedgwick, Chairman of the District of Columbia Civil War Centennial Commission.</p>
+    </custodhist>
     <processinfo id="aspace_8856430d4bf6818c0b5b62f1c809c2bf">
       <head>Processing Information</head>
       <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
@@ -76,7 +76,7 @@
     </scopecontent>
     <userestrict id="aspace_2371dbf651bc7160f64878c080a6b8d4">
       <head>Conditions Governing Use</head>
-      <p>No restrictions.</p>
+      <p>No known restrictions.</p>
     </userestrict>
     <controlaccess>
       <subject authfilenumber="ttp://id.loc.gov/authorities/subjects/sh85007241" source="Library of Congress Subject Headings">Armed Forces</subject>
@@ -94,7 +94,7 @@
             <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
           </physdesc>
           <unitdate normal="1959/1965" type="inclusive">1959-1965</unitdate>
-          <container altrender="Letter Document Case" id="aspace_11bb8ebaa1ca54d83c7a8209dea38133" label="Mixed Materials" type="Box">1</container>
+          <container altrender="Letter Document Case" id="aspace_6f5476d621ddc0b3ff206adf73cf6f04" label="Mixed Materials" type="Box">1</container>
         </did>
         <c id="aspace_0bb8ff55a7a8569f8b0a63e33bb54d26" level="file">
           <did>
@@ -130,7 +130,7 @@
             <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
           </physdesc>
           <unitdate normal="1959/1966" type="inclusive">1959-1966</unitdate>
-          <container altrender="Letter Document Case" id="aspace_f0172aead2dceab76948c9bc6820ce8d" label="Mixed Materials" type="Box">1</container>
+          <container altrender="Letter Document Case" id="aspace_34644e376e17665af8e09f03c227ca7b" label="Mixed Materials" type="Box">1</container>
         </did>
         <c id="aspace_d20e52772143f4bb31226eb25f57c97a" level="file">
           <did>
@@ -156,7 +156,7 @@
           <physdesc altrender="whole">
             <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
           </physdesc>
-          <container altrender="Letter Document Case" id="aspace_ec314a583b5c9c26a1ee9dff8430c120" label="Mixed Materials" type="Box">1</container>
+          <container altrender="Letter Document Case" id="aspace_9a2e64ae66b58af19ce1a5963c04cbb6" label="Mixed Materials" type="Box">1</container>
         </did>
         <c id="aspace_46d5f180376f46bcf61529d3ad63c806" level="file">
           <did>
@@ -190,7 +190,7 @@
             <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
           </physdesc>
           <unitdate normal="1959/1966" type="inclusive">1959-1966</unitdate>
-          <container id="aspace_ea2825f3eff8f7d7dc662f4bb575f69b" label="Mixed Materials" type="box">1-2</container>
+          <container id="aspace_8f2b7ac9d914f0d4da55da5199360872" label="Mixed Materials" type="box">1-2</container>
         </did>
         <c id="aspace_c3857dc77980553b0eae29a50dd260f4" level="file">
           <did>
@@ -275,7 +275,7 @@
           <physdesc altrender="whole">
             <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
           </physdesc>
-          <container altrender="Letter Document Case" id="aspace_7eab155cdbf934b9b57aa93154535222" label="Mixed Materials" type="Box">2</container>
+          <container altrender="Letter Document Case" id="aspace_73394a44442bdb812b6b882e9f6976dc" label="Mixed Materials" type="Box">2</container>
         </did>
         <c id="aspace_7b9d5f5bad79faf19b50007e8d9991d3" level="file">
           <did>
@@ -316,7 +316,7 @@
           <physdesc altrender="whole">
             <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
           </physdesc>
-          <container altrender="Letter Document Case" id="aspace_100923b769e72c8d1739b239d1d5c769" label="Mixed Materials" type="Box">2</container>
+          <container altrender="Letter Document Case" id="aspace_96d894b08d6f45496723d68d72350e8a" label="Mixed Materials" type="Box">2</container>
         </did>
         <c id="aspace_6f0258c8ae38ba9030db037cdb3d6658" level="file">
           <did>
@@ -334,7 +334,7 @@
             <extent altrender="materialtype spaceoccupied">1.5 Linear feet</extent>
           </physdesc>
           <unitdate type="inclusive">1907, undated</unitdate>
-          <container altrender="Legal Document Case (Slim)" id="aspace_990d3cde21bbea19f065f2a0cae8b603" label="Mixed Materials" type="Box">3</container>
+          <container altrender="Legal Document Case (Slim)" id="aspace_6561bfdfe056313df97d40f22b5c1322" label="Mixed Materials" type="Box">3</container>
         </did>
         <c id="aspace_9eacc398d02ebcdb81b0ed4d4c6ae238" level="file">
           <did>
