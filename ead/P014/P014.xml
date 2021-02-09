@@ -1,30 +1,36 @@
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid url="http://washingtoniana.dclibrary.org">P014_Kelly</eadid>
+    <eadid url="http://washingtoniana.dclibrary.org">P014Kelly</eadid>
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Kelly (Charles Suddarth) Collection</titleproper>
-        <titleproper>Charles Suddarth Kelly <num>P014</num></titleproper>
+        <titleproper>Charles Suddarth Kelly Collection <num>P014</num></titleproper>
         <subtitle>An inventory of the Charles Suddarth Kelly Collection at DC Public Library</subtitle>
         <author>Finding aid prepared by Mark S. Greek.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>DCPL Special Collections - MLK Library</publisher>
+        <publisher>People's Archive, MLK Library</publisher>
         <p>
           <date>2006-05</date>
         </p>
         <address>
           <addressline>901 G Street NW</addressline>
           <addressline>Washington, DC</addressline>
-          <addressline>archives.dcpl@dc.gov</addressline>
+          <addressline>peoples.archive@dc.gov</addressline>
         </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-08 09:55:52 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-02-09 09:52:02 -0500</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2020-11-03</date>
+        <item>Finding aid revised to be more evergreen.</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -32,7 +38,7 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>DCPL Special Collections - MLK Library</corpname>
+        <corpname>People's Archive, MLK Library</corpname>
       </repository>
       <unittitle>Charles Suddarth Kelly Collection</unittitle>
       <origination label="creator">
@@ -40,25 +46,44 @@
       </origination>
       <unitid>P014</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 box</extent>
+        <extent altrender="materialtype spaceoccupied">1 Boxes</extent>
       </physdesc>
       <unitdate normal="1900/1984" type="inclusive">1900-1984</unitdate>
       <langmaterial id="aspace_42be929a6959efae8460382c78a6f8b7">English</langmaterial>
     </did>
+    <arrangement id="aspace_d5fea5d93f1ea5b180d2d536456c9329">
+      <head>Arrangement</head>
+      <p>Basic archival procedures were used at the time of processing.</p>
+    </arrangement>
+    <bioghist id="aspace_7d38d5a758987926fe62cfcd790a2b08">
+      <head>Biographical / Historical</head>
+      <p>A long time resident of Washington, D.C., Charles Suddarth Kelly produced and directed the first telecasts of historic events from the White House, U.S. Congress and other places in the United States Capital. He arrived in Washington, D.C. in 1945 to establish the first television station programming department. Subsequently, he was program manager for the NBC network in D.C., and Vice President-Manager of Channel 7 Television. He has held other senior executive positions in television, including the Public Broadcasting Service.<br/>
+<br/>
+Mr. Kelly became acquainted with Washington, D.C.'s historical archives, private and public, when illustrations were sought for news and information programs in his television work. He found the existing collections inconvenient to use because they were not catalogued by venue or date. In response, he began to assemble a personal collection of original and copy photographs in 1945, focusing on developing chronologies of landmark sites, and collecting panoramas, views of buildings (including city street vistas), neighborhoods, and parks.<br/>
+<br/>
+The book Washington, D.C. Then and Now: 69 Sites Photographed in the Past and Present, published in 1984, was an outgrowth of his research.</p>
+    </bioghist>
     <custodhist id="aspace_e5adc628fe9999352806104a5d22a9ea">
       <head>Custodial History</head>
-      <p>There is no deed of gift and it uncertain as to how the library acquired these photographs.</p>
+      <p>There is no deed of gift and it uncertain as to how the Library acquired these photographs.</p>
     </custodhist>
     <processinfo id="aspace_5637f398d0b427cd838adf520628ca16">
       <head>Processing Information</head>
-      <p>Each proof sheet and individual image was placed in an individual polypropylene sleeve. Each image was assigned a number. For the proof sheets, images are numbered from left to right, top to bottom. The completed sleeves were placed in acid free folders and then in an archival box for storage in the DC Community Archives. Negatives were individually placed in archival paper sleeves and assigned a number that directly corresponds with the positive version of the image. Negatives were then placed in an archival box and placed in the negative storage cabinet.</p>
+      <p>Each proof sheet and individual image was placed in an individual polypropylene sleeve. Each image was assigned a number. For the proof sheets, images are numbered from left to right, top to bottom. The completed sleeves were placed in acid free folders and then in an archival box for storage in the Library. Negatives were individually placed in archival paper sleeves and assigned a number that directly corresponds with the positive version of the image. Negatives were then placed in an archival box and placed in the negative storage cabinet.</p>
     </processinfo>
     <scopecontent id="aspace_75f4be8f6b423e16c650c5da8e1df50b">
       <head>Scope and Contents</head>
-      <p>The collection consists of 39 images (three proof sheets each containing nine images and three additional photographs). Additionally there are 39 negatives, however there is one negative without a corresponding print and one image without a negative. Mr. Kelly is a retired television broadcasting executive and long time resident of the District. In 1983 he authored a book entitled, Washington Then and Now: 69 Sites Photographed in the Past and the Present. The bulk of Mr. Kelly's photograph collection was donated to George Washington University Library.</p>
+      <p>The collection consists of 39 images (three proof sheets each containing nine images and three additional photographs). Additionally there are 39 negatives, however there is one negative without a corresponding print and one image without a negative.</p>
     </scopecontent>
+    <userestrict id="aspace_c8ff16ce7cc9d32c04e8acf9d9138d1d">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85061115" source="Library of Congress Subject Headings">Historic sites</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85053952" source="lcsh">Gentrification</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85141324" source="Library of Congress Subject Headings">Urban renewal</subject>
     </controlaccess>
     <dsc>
       <c id="aspace_c355c08e7dcc625f72073376ba5181aa" level="series">
@@ -69,320 +94,320 @@
           <did>
             <unittitle>Crain tearing down a church</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_8494ef2b9b8b79ecf8203399c4821dbf" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_8ce39fbf9594976e51600f343d1501ab" parent="aspace_8494ef2b9b8b79ecf8203399c4821dbf" type="Folder">1</container>
+            <container id="aspace_fa27cc35bfd0fca63e42aa91bdf994e6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f0ac0bb4ab6cbe024607926b9cf8b8e6" parent="aspace_fa27cc35bfd0fca63e42aa91bdf994e6" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_e1baf15777072e89d9a5f210f68d27a1" level="file">
           <did>
             <unittitle>Aerial view the National Mall and southwest Washington</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_263bfbbb74d2db94c540dbc2ce3d75d2" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e4fe5f47d1fd5344a50d3858f444f0c5" parent="aspace_263bfbbb74d2db94c540dbc2ce3d75d2" type="Folder">2</container>
+            <container id="aspace_917a060c3dd194689188f889598b1b81" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b59b9e498f0f68e5fabb19ca3f759536" parent="aspace_917a060c3dd194689188f889598b1b81" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_cea23eb819489a1507107865e0ab08b6" level="file">
           <did>
             <unittitle>Aerial view the National Mall and southwest Washington</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_851c6d609f4f0ce956edc49dc0ef3dc6" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e1cbfb306e457d2febe15352526f4a95" parent="aspace_851c6d609f4f0ce956edc49dc0ef3dc6" type="Folder">3</container>
+            <container id="aspace_a8a9424643a552b956d4e60bfe450897" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f3189fb2a94fe5a968b7b1a35f0a3a50" parent="aspace_a8a9424643a552b956d4e60bfe450897" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_acfda57081a3a854cd1f120a5cb2e00a" level="file">
           <did>
             <unittitle>Proposed location of the Southwest freeway</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_709e5fb936c990ebe5b413ef3791842b" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b28fa87927571ade6ce16173717576ad" parent="aspace_709e5fb936c990ebe5b413ef3791842b" type="Folder">4</container>
+            <container id="aspace_d3b06041e6f784532febc73c6d2da54d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c1b96388801db329c4daa9d252d150a1" parent="aspace_d3b06041e6f784532febc73c6d2da54d" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_6398822931665a2d8c46375b20f39e35" level="file">
           <did>
             <unittitle>Proposed location of the Southwest freeway</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_dd3762ae41cfe80e8762a562f4930232" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e0de1a830bf4a4e5fc450e4a4c06a09c" parent="aspace_dd3762ae41cfe80e8762a562f4930232" type="Folder">5</container>
+            <container id="aspace_48cc8630ed7cf1278ab375ff32b3d54e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a83b1125ded3f6eedb3dba8416466207" parent="aspace_48cc8630ed7cf1278ab375ff32b3d54e" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ca9b35789eb1e1d4b9cf4dee4102007c" level="file">
           <did>
             <unittitle>Aerial view the National Mall and southwest Washington</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_3a9401671861096107f56094eedd56d3" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_13cfdedd9174740f746e8957ab557515" parent="aspace_3a9401671861096107f56094eedd56d3" type="Folder">6</container>
+            <container id="aspace_1e60b4878302ca7ad57aee96fa61f3e2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_195e604ec9ae981d2f28dff5cf62b5db" parent="aspace_1e60b4878302ca7ad57aee96fa61f3e2" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_8903de08367e750d9edc549787cb0b09" level="file">
           <did>
             <unittitle>Aerial view the National Mall and southwest Washington</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_1ad5981cecc85ef18a44a6c2c99d0d20" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_f31739ce1c7bcb8e6f1f5e4871ff955a" parent="aspace_1ad5981cecc85ef18a44a6c2c99d0d20" type="Folder">7</container>
+            <container id="aspace_21a4320c2c65897486c9ae2986a5182b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d7612f16f71df06748a9d01069ea7084" parent="aspace_21a4320c2c65897486c9ae2986a5182b" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_bbaae943a8f8a4295ca954f8b15d7bcf" level="file">
           <did>
             <unittitle>Aerial view of southwest Washington showing project areas "B" and "C"</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_fab3c16126e903c7287c3b2f080f7512" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d0002d688ca3a60311fba8d1dceea8ef" parent="aspace_fab3c16126e903c7287c3b2f080f7512" type="Folder">8</container>
+            <container id="aspace_dd1defcc2157b848135274773fc5cf82" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_49b98c98bc153931482720390726712c" parent="aspace_dd1defcc2157b848135274773fc5cf82" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_0510a118e8797f31295f1128966029a7" level="file">
           <did>
             <unittitle>Aerial view of southwest Washington showing project areas "B" and "C"</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_7f3842ee70d34519729a618ad11aea4a" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_af25b3be18552a54ab82deae61a88f6f" parent="aspace_7f3842ee70d34519729a618ad11aea4a" type="Folder">9</container>
+            <container id="aspace_11bfa962aac88300e6798cc68b34dc91" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5da6477cda3940cffa3176ae4af14407" parent="aspace_11bfa962aac88300e6798cc68b34dc91" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_2b3c461dbe998b4504494578cbc27a1f" level="file">
           <did>
             <unittitle>Construction of River Park Cooperative Homes complex</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_9a27d5187702aec57be90af8bd42c27b" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_6f319e27323a27993bc2c7ae08692526" parent="aspace_9a27d5187702aec57be90af8bd42c27b" type="Folder">10</container>
+            <container id="aspace_619b93e88d884ac7f1335bc126404c24" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7889b373db0ff111dc34128a6ee26337" parent="aspace_619b93e88d884ac7f1335bc126404c24" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_70f5ae8a44e3e1c10aa6420915a81df1" level="file">
           <did>
             <unittitle>Aerial view of southwest Washington</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_2741296ceb63fcddef19d55419273608" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_eabc09e15f2710dfdf4cb7664abedf38" parent="aspace_2741296ceb63fcddef19d55419273608" type="Folder">11</container>
+            <container id="aspace_ccb8f35231ce7b52d871a0e28ef322ba" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_261e0f2cd2d7f29ac7cd3011a1bfc352" parent="aspace_ccb8f35231ce7b52d871a0e28ef322ba" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_aaa57e754065a20b8b84b17f2f5e4439" level="file">
           <did>
             <unittitle>Construction of Metro line (?) near US Capitol</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_66a5c224f9db6e0065b33bace54e67fe" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_4655f177ff764f9561d20020088a322f" parent="aspace_66a5c224f9db6e0065b33bace54e67fe" type="Folder">12</container>
+            <container id="aspace_f37966f9ac50d7674a95cc65c6e65592" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4a88820f896cbcdcce61e0053bfc6f76" parent="aspace_f37966f9ac50d7674a95cc65c6e65592" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_1429fd97187fa41805ebcb71d1c70b98" level="file">
           <did>
             <unittitle>Aerial view of southwest Washington bounded by the railroad tracts to the north,</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_2fa8750e0817ee93541858ba1b9c90d8" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_f4ffeaa7c3c5d4b6fb72b36a256b2d45" parent="aspace_2fa8750e0817ee93541858ba1b9c90d8" type="Folder">13</container>
+            <container id="aspace_fe0e87fa177a6dfedc077fc068b63c25" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_26f500622282cce2c8268ace1989ce6b" parent="aspace_fe0e87fa177a6dfedc077fc068b63c25" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_d81449f88f862fa916da0a75c7c9eb38" level="file">
           <did>
             <unittitle>South Capitol Street to the east, P Street to the east, and the Potomac River to the West</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_7b8cb194e9238f33b874d2bbf10e719e" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e0f5200fecee208a8cae63489accf761" parent="aspace_7b8cb194e9238f33b874d2bbf10e719e" type="Folder">14</container>
+            <container id="aspace_baa10a088dddddfd2bef8d8f2273bfb7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_82fad8c4e4f02218c1831778f588a377" parent="aspace_baa10a088dddddfd2bef8d8f2273bfb7" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_f719d46d0ab136f27aedad687578b992" level="file">
           <did>
             <unittitle>Aerial view of Washington</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_74dff5a5440d662eeea82c8304725991" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_649a20505da41ff9a568003933e47efc" parent="aspace_74dff5a5440d662eeea82c8304725991" type="Folder">15</container>
+            <container id="aspace_0fb0c87dc3e37a8ca2942e4d82e70e65" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_367e16d59fa0b1a1d453da37c7468f42" parent="aspace_0fb0c87dc3e37a8ca2942e4d82e70e65" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_bf21fed3df357c71f00ad3d73f47fe43" level="file">
           <did>
             <unittitle>Aerial view the National Mall and southwest Washington</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_a6cdeab3ba4756d5d2f197024f32ad48" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_0fea7ea491d787af959139df06aea432" parent="aspace_a6cdeab3ba4756d5d2f197024f32ad48" type="Folder">16</container>
+            <container id="aspace_231dabdebf52475f848fa24bc3c43f72" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f693f9bf0cce1fe15b338e5104eae6d7" parent="aspace_231dabdebf52475f848fa24bc3c43f72" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_18ab5df6094f52bdd11f334576300dc5" level="file">
           <did>
             <unittitle>Aerial view of southwest Washington with Hains Point in foreground</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_9a44fc4622893d1de8be271944983604" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b700947b96afd35ecfae04cf287c65d0" parent="aspace_9a44fc4622893d1de8be271944983604" type="Folder">17</container>
+            <container id="aspace_3b8eeecee5e0e2a5e3ab3a691152cdba" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_056d4e635f30aca38adb719874731e51" parent="aspace_3b8eeecee5e0e2a5e3ab3a691152cdba" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_27a5917d22db29946ee43588e00cfa1b" level="file">
           <did>
             <unittitle>Aerial view of Washington</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_148d87574f843aecb0dc5460215b89ee" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_7b7f4bbf64d032d360711d2f3cbbbc4c" parent="aspace_148d87574f843aecb0dc5460215b89ee" type="Folder">18</container>
+            <container id="aspace_fe0fb88d6dc790ec188973334966e372" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4084107ef34599c4cafc9f0827be44e0" parent="aspace_fe0fb88d6dc790ec188973334966e372" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_eb8fe514e644c6c78b00560bfb00bff0" level="file">
           <did>
             <unittitle>Aerial view of the western half of Washington</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_be8a46d26d3e44604db9a8c144ca0eed" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_236c305ef69ba0a9532ead3c7a33a721" parent="aspace_be8a46d26d3e44604db9a8c144ca0eed" type="Folder">19</container>
+            <container id="aspace_9ef69a8d125e3619a9edf33c2c228d13" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9751eb0f58ae270094bf9f4bc032cde4" parent="aspace_9ef69a8d125e3619a9edf33c2c228d13" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_e4d3e8e9f68191bb0f13a009f2e38287" level="file">
           <did>
             <unittitle>Aerial view of Washington</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_92f7fb452f7e7a23d56d46e33cfff6b2" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_df5359b65877ef49c5dfed6395bd4fe8" parent="aspace_92f7fb452f7e7a23d56d46e33cfff6b2" type="Folder">20</container>
+            <container id="aspace_2ef3aa6dea21fbf40991090c16a53333" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_45f92569d3a01f70e6777682a12ec315" parent="aspace_2ef3aa6dea21fbf40991090c16a53333" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_0f0f5715d251f762539a974531e44b91" level="file">
           <did>
             <unittitle>Group of people crossing the street</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_f89464c031d93558961af1f5ee8b3931" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_0d0682659527e49362713ace62857ab8" parent="aspace_f89464c031d93558961af1f5ee8b3931" type="Folder">21</container>
+            <container id="aspace_cf271a04be1029fd4cb206625a1f4fa8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_451c316daebf4c6a6ab7687fa52ef5de" parent="aspace_cf271a04be1029fd4cb206625a1f4fa8" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_9674504c0bf450457b613e6ed440f845" level="file">
           <did>
             <unittitle>Group of people at development plan unveiling ceremony</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_53f4250ba60b702855bec0e6ce81ad14" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_9af0dfa460c4b96cd60e4d4e0351301b" parent="aspace_53f4250ba60b702855bec0e6ce81ad14" type="Folder">22</container>
+            <container id="aspace_3ca3987427109880868dd0549addb2a5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d787c39ad04cbff8a5e0ddc25875599a" parent="aspace_3ca3987427109880868dd0549addb2a5" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_947a28f5c86130cff33819473ee0e371" level="file">
           <did>
             <unittitle>Aerial view of southwest Washington bounded by the railroad tracts to the north, South Capitol Street to the east, P Street to the east, and the Potomac River to the West</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_cca947b7593ea6a638ff0fe5ffc2c97e" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_7929e871ba5b085726b63cd74ec19a72" parent="aspace_cca947b7593ea6a638ff0fe5ffc2c97e" type="Folder">23</container>
+            <container id="aspace_19e85df707f1df349449ae5fcaa7183d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_901ca0839015a6098355a42363b0676d" parent="aspace_19e85df707f1df349449ae5fcaa7183d" type="Folder">23</container>
           </did>
         </c>
         <c id="aspace_437a4dc6e7c0829d00833249254340a5" level="file">
           <did>
             <unittitle>Architectural rendering of River Park Cooperative Homes</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_09429c28e388ea1a1b50ac247ef6df84" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_14ecc9b7b1a57c57011379ac91e85100" parent="aspace_09429c28e388ea1a1b50ac247ef6df84" type="Folder">24</container>
+            <container id="aspace_7190f869b66190cc6de506e4db74d360" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7eee177514a99cc0d5753536060c0fe8" parent="aspace_7190f869b66190cc6de506e4db74d360" type="Folder">24</container>
           </did>
         </c>
         <c id="aspace_8e9c688cf5de4a5268fdd02e895555d6" level="file">
           <did>
             <unittitle>Architectural rendering of River Park Cooperative Homes</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_763d61883e9aff3d50e481bc552717a1" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_1f12b38faed4d899f369c177ddcd1c0a" parent="aspace_763d61883e9aff3d50e481bc552717a1" type="Folder">25</container>
+            <container id="aspace_732362368f02a6f66d2e0ad61f036805" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_589f5be143f46e2631eaf0f49fb207c0" parent="aspace_732362368f02a6f66d2e0ad61f036805" type="Folder">25</container>
           </did>
         </c>
         <c id="aspace_c7fdc529b7b7a10282c02bf21c164a10" level="file">
           <did>
             <unittitle>Construction of River Park Cooperative Homes complex</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_44354fdb3c2f88dec9bf5c9987cbbb02" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_15e8df5c3613cd75121186557de99eea" parent="aspace_44354fdb3c2f88dec9bf5c9987cbbb02" type="Folder">26</container>
+            <container id="aspace_afe0bcc17230f8a6fe4771b99db0f09d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_db69b39f8da6ad0b2999d09d7ea542fc" parent="aspace_afe0bcc17230f8a6fe4771b99db0f09d" type="Folder">26</container>
           </did>
         </c>
         <c id="aspace_f85ef369904d905488a876b608ef2eae" level="file">
           <did>
             <unittitle>Aerial view of southwest Washington</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e99f3c674a4b0b33f6194a5a3056430b" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d510fac17fc3c652ae1245a1b924a236" parent="aspace_e99f3c674a4b0b33f6194a5a3056430b" type="Folder">27</container>
+            <container id="aspace_187444bedae71751f69f0f335367da53" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1afed3badfb5104d3ed14d972bf7bfc5" parent="aspace_187444bedae71751f69f0f335367da53" type="Folder">27</container>
           </did>
         </c>
         <c id="aspace_9eef1251e2825af5f9b1e6b106920767" level="file">
           <did>
             <unittitle>Aerial view of southwest Washington</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_7b590fd1bc36e93d1d4c636b71736f6a" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_43e961a5faad64c7b926d69796e8dd4f" parent="aspace_7b590fd1bc36e93d1d4c636b71736f6a" type="Folder">28</container>
+            <container id="aspace_7fccb5d70772e3b65a4200f40e4abc9f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1285013a2caeb5963db7310a0ab91ac4" parent="aspace_7fccb5d70772e3b65a4200f40e4abc9f" type="Folder">28</container>
           </did>
         </c>
         <c id="aspace_ae80226de71b4111bb99ff9c7977daac" level="file">
           <did>
             <unittitle>Metropolitan Railroad Company trolley cars filled with people on unknown street</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e5f36c40a569cba6bc9a4d6cecb5e1f8" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_4b70b58e8abc48e0a100ae60b2baafbd" parent="aspace_e5f36c40a569cba6bc9a4d6cecb5e1f8" type="Folder">29</container>
+            <container id="aspace_15995c2eed760be312cbee53dfebcc98" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d87b26f333dd76d7e46f24368714c9a5" parent="aspace_15995c2eed760be312cbee53dfebcc98" type="Folder">29</container>
           </did>
         </c>
         <c id="aspace_41c7766c80993867de4906462ea0939d" level="file">
           <did>
             <unittitle>Woman traffic officer operating early intersection signal in the District</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_8abaa10129b834b27462058197e57868" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_669d1863bd37cf3924528a9d0e3d19dc" parent="aspace_8abaa10129b834b27462058197e57868" type="Folder">30</container>
+            <container id="aspace_c0e6e411982c6559dcaf089819a05fc0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cc8bc31883874bb17a2bf7e6eeb2a7db" parent="aspace_c0e6e411982c6559dcaf089819a05fc0" type="Folder">30</container>
           </did>
         </c>
         <c id="aspace_052a4cbf25a870871d39bf77e8440544" level="file">
           <did>
             <unittitle>House in the District</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_b907d2f708eb8e9726263399c3c4ffa8" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_13349f24ffbef3df6dfd1276da3382bd" parent="aspace_b907d2f708eb8e9726263399c3c4ffa8" type="Folder">31</container>
+            <container id="aspace_eed7bc94b369990f83a1a335df691c17" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_782d27e055daa1579aca05f07bb1a735" parent="aspace_eed7bc94b369990f83a1a335df691c17" type="Folder">31</container>
           </did>
         </c>
         <c id="aspace_f197adb7a27a4ae9972b548fdc80191f" level="file">
           <did>
             <unittitle>Line of people outside the Earle Theatre</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_0be1e2cdf0256fbe54b20bc749ea5b2c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_a4f0735868b77e70ad82ac06058eb77d" parent="aspace_0be1e2cdf0256fbe54b20bc749ea5b2c" type="Folder">32</container>
+            <container id="aspace_6eaabdf8a9cddf437431e247ef6f68f6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_117ad90d2846e575c8c92ca4edfa3fc8" parent="aspace_6eaabdf8a9cddf437431e247ef6f68f6" type="Folder">32</container>
           </did>
         </c>
         <c id="aspace_b1912f883d2c8fef63bef89f73268fd1" level="file">
           <did>
             <unittitle>The Apollo Theatre in Martinsburg, West Virginia</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_bcaf1c34493033b5cfe248f4081a80a4" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d0d953c2a754a0548dc1654ecd1e4420" parent="aspace_bcaf1c34493033b5cfe248f4081a80a4" type="Folder">33</container>
+            <container id="aspace_07e7333d8fa0d3a98370bcc8624f7429" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c6d52f973d4d209b0cc504ca271c896b" parent="aspace_07e7333d8fa0d3a98370bcc8624f7429" type="Folder">33</container>
           </did>
         </c>
         <c id="aspace_cc30f4522630322d71360914a72012bf" level="file">
           <did>
             <unittitle>Trolleys operating on a District street</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_d8a9c98e4995e74d7f70ec3e8a1e4fd8" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b42265a03392a96e9cb583ba662a93e6" parent="aspace_d8a9c98e4995e74d7f70ec3e8a1e4fd8" type="Folder">34</container>
+            <container id="aspace_64018c5ccd092abcb24577f6365180ad" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_99eebab4f251b2ec7256a8034147bc84" parent="aspace_64018c5ccd092abcb24577f6365180ad" type="Folder">34</container>
           </did>
         </c>
         <c id="aspace_225ce62da1f80f345469c19190489e2f" level="file">
           <did>
             <unittitle>View of a dirt street</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_aeb0090fce9a243df71f22d79a1ea70b" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b268cf1f52a0f8b2832711a2c60b0c0c" parent="aspace_aeb0090fce9a243df71f22d79a1ea70b" type="Folder">35</container>
+            <container id="aspace_db7473880d8aae2334edb93d30e8227a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c16ca2919dea6cca207457a8ae58c9b8" parent="aspace_db7473880d8aae2334edb93d30e8227a" type="Folder">35</container>
           </did>
         </c>
         <c id="aspace_6763386e4cd6b06580a36af8d4168a56" level="file">
           <did>
             <unittitle>View of people at the Tidal Basin beach</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_e488826170edd0a218fe4f156333e238" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_292683b7f8e8cf2acde558bc76908720" parent="aspace_e488826170edd0a218fe4f156333e238" type="Folder">36</container>
+            <container id="aspace_20a1670da191b2557a7483d52fe3c18a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b0715fad8357791a1bb9deb7aba3dd8d" parent="aspace_20a1670da191b2557a7483d52fe3c18a" type="Folder">36</container>
           </did>
         </c>
         <c id="aspace_c3b4cca579fe2b702425ff175467801e" level="file">
           <did>
             <unittitle>Aerial view of Griffith Stadium and surrounding neighborhood</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_0e5e134cd42e6099214e711f8f93e5ee" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_f87ce56af6247da07eb2bc4e376b9101" parent="aspace_0e5e134cd42e6099214e711f8f93e5ee" type="Folder">37</container>
+            <container id="aspace_ddd51a782cb33a4c75e6bb4739e6ea66" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c52c89b6e125050481b72b0af35fe36f" parent="aspace_ddd51a782cb33a4c75e6bb4739e6ea66" type="Folder">37</container>
           </did>
         </c>
         <c id="aspace_e9c23d01699bda30096668eff38997a7" level="file">
           <did>
             <unittitle>Crain tearing down a church</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_53c295375215427f7cea17d7a6031fc3" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d572e973190ae31de849b78aeec9d7b1" parent="aspace_53c295375215427f7cea17d7a6031fc3" type="Folder">38</container>
+            <container id="aspace_23db14226c8d3562115a1c6d4006be98" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b314634bef715606d7c447aedf0d479c" parent="aspace_23db14226c8d3562115a1c6d4006be98" type="Folder">38</container>
           </did>
         </c>
         <c id="aspace_1382de34936df635b9a7b6b10f6603ff" level="file">
           <did>
             <unittitle>Architectural rendering of River Park Cooperative Homes</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_795573b7b4c1e9d958ff096ba6a8a01f" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_3c5fb4e18174c208a1bb53dbc07b2672" parent="aspace_795573b7b4c1e9d958ff096ba6a8a01f" type="Folder">39</container>
+            <container id="aspace_90c1d66076594ffddbc38fa285d67c59" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1541f986c712e7b1b130a42ba06bf308" parent="aspace_90c1d66076594ffddbc38fa285d67c59" type="Folder">39</container>
           </did>
         </c>
         <c id="aspace_20390a5090adff3485209b14016ebd3f" level="file">
           <did>
             <unittitle>Aerial view of the district</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_7c6e46343e9f86a4ce4eaac23a9430c8" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_57893f32f04c43f6ca96518806119782" parent="aspace_7c6e46343e9f86a4ce4eaac23a9430c8" type="Folder">40</container>
+            <container id="aspace_d2f25fdb476f43c9d093727716b9e134" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6621e782c9fbbdeee64e5876d0744c44" parent="aspace_d2f25fdb476f43c9d093727716b9e134" type="Folder">40</container>
           </did>
           <scopecontent id="aspace_5ca399aeac87c0925531f85f1e9bae60">
             <head>Scope and Contents</head>
@@ -393,8 +418,8 @@
           <did>
             <unittitle>Old time fire department pump wagon</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_20a098de8c534062fbe96b72cbb7103c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d4972e09340c6a94923b3469425f259e" parent="aspace_20a098de8c534062fbe96b72cbb7103c" type="Folder">41</container>
+            <container id="aspace_2b529dc74e23f030060b01bb4536e528" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1f9e0b894eba8f0b176f3c9edb2943ad" parent="aspace_2b529dc74e23f030060b01bb4536e528" type="Folder">41</container>
           </did>
           <scopecontent id="aspace_f96c5750f663362515997dfa8740b78f">
             <head>Scope and Contents</head>

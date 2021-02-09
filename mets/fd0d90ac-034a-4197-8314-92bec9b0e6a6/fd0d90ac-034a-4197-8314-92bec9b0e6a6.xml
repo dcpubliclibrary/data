@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2021-02-09 12:24:11 -0500">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>People's Archive, MLK Library</name>
+      <note/>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="440">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>MakeUp.mov</mods:title>
+          </mods:titleInfo>
+          <mods:identifier>fd0d90ac-034a-4197-8314-92bec9b0e6a6</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:language>
+            <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">9077ca3c-fae5-44f5-ab55-561ba1c5e591</mods:note>
+          <mods:note displayLabel="Digital object made available by">People's Archive, MLK Library, 901 G Street NW, Washington, DC</mods:note>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec>
+    <fileGrp USE="">
+      <file GROUPID="440" ID="2602">
+        <FLocat xlink:href="http://example.com/fd0d90ac-034a-4197-8314-92bec9b0e6a6-MakeUp.mp4"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="440" LABEL="MakeUp.mov" ORDER="1" TYPE="item">
+      <fptr FILEID="2602"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="440" LABEL="MakeUp.mov" ORDER="1" TYPE="item">
+      <fptr FILEID="2602"/>
+    </div>
+  </structMap>
+</mets>
+

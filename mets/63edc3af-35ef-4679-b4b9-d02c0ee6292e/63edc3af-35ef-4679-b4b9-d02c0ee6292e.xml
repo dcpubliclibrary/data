@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2021-02-09 12:24:16 -0500">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>People's Archive, MLK Library</name>
+      <note/>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="462">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>DC.xml</mods:title>
+          </mods:titleInfo>
+          <mods:identifier>63edc3af-35ef-4679-b4b9-d02c0ee6292e</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:language>
+            <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">e1c63606-b4d5-4ef2-af61-46aa4567989e</mods:note>
+          <mods:accessCondition type="useAndReproduction">Contact an archivist for conditions governing use.</mods:accessCondition>
+          <mods:accessCondition type="restrictionOnAccess">Contact an archivist for conditions governing access.</mods:accessCondition>
+          <mods:note displayLabel="Digital object made available by">People's Archive, MLK Library, 901 G Street NW, Washington, DC</mods:note>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec>
+    <fileGrp USE="">
+      <file GROUPID="462" ID="2624">
+        <FLocat xlink:href="https://ampipeline-dcpl.wrlc.org/archival-storage/download/aip/file/63edc3af-35ef-4679-b4b9-d02c0ee6292e-DC.xml"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="462" LABEL="DC.xml" ORDER="1" TYPE="item">
+      <fptr FILEID="2624"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="462" LABEL="DC.xml" ORDER="1" TYPE="item">
+      <fptr FILEID="2624"/>
+    </div>
+  </structMap>
+</mets>
+

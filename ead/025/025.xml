@@ -16,12 +16,12 @@
         <address>
           <addressline>901 G Street NW</addressline>
           <addressline>Washington, DC</addressline>
-          <addressline>archives.dcpl@dc.gov</addressline>
+          <addressline>peoples.archive@dc.gov</addressline>
         </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2020-10-19 09:40:12 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-02-09 10:04:38 -0500</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -61,18 +61,6 @@
       <unitdate normal="1960/1977" type="inclusive">1960-1977</unitdate>
       <langmaterial id="aspace_581bb58551a1459a47e91834c332adaa">English</langmaterial>
     </did>
-    <bioghist id="aspace_aea502e7660397799c548339d36363b9">
-      <head>Biographical / Historical</head>
-      <p>Downtown Progress, originally known as the National Capital Downtown Committee, was a non-profit organization of businesspeople formed in 1959 to revitalize the area from the United States Capitol to the White House. The downtown urban renewal area was bounded by 5th and 15th Streets NW, and Pennsylvania Avenue to Massachusetts Avenue NW. Among projects promoted by Downtown Progress were the construction of the Metro, the Martian Luther King Jr. Memorial Library, and the F Street Mall. The group also supported the preservation efforts of Ford's Theatre, the Old Patent Office, Old Post Office and the Willard Hotel. The organization was officially disbanded in 1977 and turned into a public sector of the government known as the National Capital Planning Commission.</p>
-    </bioghist>
-    <scopecontent id="aspace_d843235fff2b72fcc5fdfc11d423852a">
-      <head>Scope and Contents</head>
-      <p>The collection contains correspondence, meeting minutes, committee reports, memoranda, legal papers, and general office files of Downtown Progress. Also included are photographs, sketches, maps, architectural drawings, street diagrams, and slides of buildings and streetscapes located in the downtown urban renewal area of Washington, D.C.</p>
-    </scopecontent>
-    <custodhist id="aspace_842a19f6a5843bf37d8b8ab6390e6964">
-      <head>Custodial History</head>
-      <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
-    </custodhist>
     <arrangement id="aspace_15550480069f687666f6d59c61c2f3a7">
       <head>Arrangement</head>
       <p>Series 1: Action Plan, 1 linear ft. (1961-1968)<br/>
@@ -105,6 +93,22 @@ Contains photographs from the 1960s before development began in the downtown are
 Subseries 2: Slides, 3.75 linear ft. (ca. 1960-1970s)<br/>
 Consists primarily of slides of buildings located within squares 213-491 and 514-631. They are arranged by address and square. It also contains some slides of F Street stores and streetscapes.</p>
     </arrangement>
+    <bioghist id="aspace_aea502e7660397799c548339d36363b9">
+      <head>Biographical / Historical</head>
+      <p>Downtown Progress, originally known as the National Capital Downtown Committee, was a non-profit organization of businesspeople formed in 1959 to revitalize the area from the United States Capitol to the White House. The downtown urban renewal area was bounded by 5th and 15th Streets NW, and Pennsylvania Avenue to Massachusetts Avenue NW. Among projects promoted by Downtown Progress were the construction of the Metro, the Martian Luther King Jr. Memorial Library, and the F Street Mall. The group also supported the preservation efforts of Ford's Theatre, the Old Patent Office, Old Post Office and the Willard Hotel. The organization was officially disbanded in 1977 and turned into a public sector of the government known as the National Capital Planning Commission.</p>
+    </bioghist>
+    <custodhist id="aspace_842a19f6a5843bf37d8b8ab6390e6964">
+      <head>Custodial History</head>
+      <p>The collection was donated to the Library by Knox Banner, Exective Director of Downtown Progress in May 1977.</p>
+    </custodhist>
+    <processinfo id="aspace_4e686f05b10410ca51b428755e74dafd">
+      <head>Processing Information</head>
+      <p>Basic archival processing procedures were applied to the collection when it was processed.</p>
+    </processinfo>
+    <scopecontent id="aspace_d843235fff2b72fcc5fdfc11d423852a">
+      <head>Scope and Contents</head>
+      <p>The collection contains correspondence, meeting minutes, committee reports, memoranda, legal papers, and general office files of Downtown Progress. Also included are photographs, sketches, maps, architectural drawings, street diagrams, and slides of buildings and streetscapes located in the downtown urban renewal area of Washington, D.C.</p>
+    </scopecontent>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85141324" source="Library of Congress Subject Headings">Urban renewal</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
@@ -133,184 +137,184 @@ Consists primarily of slides of buildings located within squares 213-491 and 514
           <did>
             <unittitle>"Development of Washington and Its Central City" by Paul D. Spreiregen</unittitle>
             <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
-            <container altrender="Legal Document Case" id="aspace_d21e8dcb1db8385c59cf500703a744db" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d84aaf9b5d2bd96812e3794b82d35142" parent="aspace_d21e8dcb1db8385c59cf500703a744db" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_4251fe4e542b2e81e55ba8930cc5152e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e7e5cedb9490c92ba22f5bbdf437d2cb" parent="aspace_4251fe4e542b2e81e55ba8930cc5152e" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_c591d8897736993ec7b90abb72db8e97" level="file">
           <did>
             <unittitle>"L'Enfant's Plan for Washington" by Paul D. Spreiregen</unittitle>
             <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
-            <container altrender="Legal Document Case" id="aspace_81d9346e6188f0df38c5c99b9e583a7b" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_02e8bcfbcd55a29af2037f4e4dd5a938" parent="aspace_81d9346e6188f0df38c5c99b9e583a7b" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_627c6c86eb27dd26bd250c4de4424d38" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7fc2ceb9acc290733e34aaea648fcb87" parent="aspace_627c6c86eb27dd26bd250c4de4424d38" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_51a2af8620eb29994dee5a814385867d" level="file">
           <did>
             <unittitle>Assumptions, Findings and Objectives</unittitle>
             <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
-            <container altrender="Legal Document Case" id="aspace_a259d0bb868e5d5ac3649a5c52821455" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_996d1f4462e05ab3bd871e30db90f681" parent="aspace_a259d0bb868e5d5ac3649a5c52821455" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_500bae10bb608f1cb902640ebffc2b99" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a6ffa29f75a66716dd1aa30a3762237f" parent="aspace_500bae10bb608f1cb902640ebffc2b99" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_d6b47e25e3deca0aa71058a177376ce9" level="file">
           <did>
             <unittitle>Churches study</unittitle>
             <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
-            <container altrender="Legal Document Case" id="aspace_897be8c603b4fb6b9d6165f4a0239ab0" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_c9550720af95e3a38dfd159bee21774a" parent="aspace_897be8c603b4fb6b9d6165f4a0239ab0" type="Folder">4</container>
+            <container altrender="Legal Document Case" id="aspace_09842ec7f3f818205814292a6afaca34" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_af353f34218f3eae7fefbb0d2ef23d8f" parent="aspace_09842ec7f3f818205814292a6afaca34" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_860b3695d3e092fe427316553a0e46f3" level="file">
           <did>
             <unittitle>Background</unittitle>
             <unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate>
-            <container altrender="Legal Document Case" id="aspace_8a82cf99a734f42cc9f7de81c4eed346" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_ce205e290253983ca046e24ed3a34aa9" parent="aspace_8a82cf99a734f42cc9f7de81c4eed346" type="Folder">5</container>
+            <container altrender="Legal Document Case" id="aspace_ea34e7eecacdeb3a03210f0947bafd6e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6b81a74d0bab7fd9763f830bba07b18a" parent="aspace_ea34e7eecacdeb3a03210f0947bafd6e" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_6fdaa76db71e70749367b7aa9905dd21" level="file">
           <did>
             <unittitle>Sketch Plan for Action Plan</unittitle>
             <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container altrender="Legal Document Case" id="aspace_27524d58fd69b073f74eda25f709c9b0" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_5bf21fc39d631600cc441017bfef3dc0" parent="aspace_27524d58fd69b073f74eda25f709c9b0" type="Folder">6</container>
+            <container altrender="Legal Document Case" id="aspace_354c70a93b5c2f16501bcb7ad0b5f5d6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_64fca842130a3ecce3d1113c70e30751" parent="aspace_354c70a93b5c2f16501bcb7ad0b5f5d6" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_34e4d414ae4b6b7a10529dd0f3ddb345" level="file">
           <did>
             <unittitle>A Report and Sketch Plan for Revitalization</unittitle>
             <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container altrender="Legal Document Case" id="aspace_cbdbbdaef16a615bb78c377936a03e6b" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_f7b42fda77d39dfd3b60bed3e5d5f3e2" parent="aspace_cbdbbdaef16a615bb78c377936a03e6b" type="Folder">7</container>
+            <container altrender="Legal Document Case" id="aspace_9b6074f7d465c92df7e2d3b74e63d59b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ee4e36fa99d6fcff22459411a0b909ef" parent="aspace_9b6074f7d465c92df7e2d3b74e63d59b" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_a6bb69c7fe3cd11729263d2dcc44643d" level="file">
           <did>
             <unittitle>Discussion draft</unittitle>
             <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container altrender="Legal Document Case" id="aspace_820d85e0cfd42719e4b57ac47d0d1d63" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_f09f8b34e00f2cd599ca07f4d2915758" parent="aspace_820d85e0cfd42719e4b57ac47d0d1d63" type="Folder">8</container>
+            <container altrender="Legal Document Case" id="aspace_9d6d4ae6d19c26b5c2c7bbedb3099ccc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_979147041debd0a8490e5f4d946c29f8" parent="aspace_9d6d4ae6d19c26b5c2c7bbedb3099ccc" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_d38a80cac10639bd1c8cbad3ed423d1a" level="file">
           <did>
             <unittitle>Discussion draft with annotations</unittitle>
             <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container altrender="Legal Document Case" id="aspace_a4856a3920c7f6841794c6a7abd00a19" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_66f4af6306097ebbf15ec309e561d242" parent="aspace_a4856a3920c7f6841794c6a7abd00a19" type="Folder">9</container>
+            <container altrender="Legal Document Case" id="aspace_cf18cc6586af7e8c1faf30025c1d3853" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a89d15e3260be549a9cd6c9bc56e6cf6" parent="aspace_cf18cc6586af7e8c1faf30025c1d3853" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_1ded5c5b7338534857680985bc978b09" level="file">
           <did>
             <unittitle>Action Plan comments</unittitle>
             <unitdate normal="1961/1963" type="inclusive">1961-1963</unitdate>
-            <container altrender="Legal Document Case" id="aspace_b8984ecd608b3274c20ed9624aba9090" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_bc66c0f49b58ebad9804ab68b41d4cf7" parent="aspace_b8984ecd608b3274c20ed9624aba9090" type="Folder">10</container>
+            <container altrender="Legal Document Case" id="aspace_53f0d60b787dfce08acf975026e7e93f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_919692e155a96259b864515fe2fee0d5" parent="aspace_53f0d60b787dfce08acf975026e7e93f" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_2b9d36eba3e6f025df41b9383f9e8f4d" level="file">
           <did>
             <unittitle>Presentation Material at annual meeting</unittitle>
             <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container altrender="Letter Document Case (Slim)" id="aspace_31d451abb0fa0d6056be1e620a82e9bb" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_ab589f49686735319b9027ae83427d78" parent="aspace_31d451abb0fa0d6056be1e620a82e9bb" type="Folder">1</container>
+            <container altrender="Letter Document Case (Slim)" id="aspace_1e15727912df69cb7eecf4cf4af22527" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_84228824eaa418c09a7e44bccece1fd8" parent="aspace_1e15727912df69cb7eecf4cf4af22527" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_1c58035707d882e29f870279710218f4" level="file">
           <did>
             <unittitle>Statements re studies</unittitle>
             <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-            <container altrender="Letter Document Case (Slim)" id="aspace_ee14bda40129f87fa7b95faf43d4aa68" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_bd1a82efa089996fc617e0e001269c49" parent="aspace_ee14bda40129f87fa7b95faf43d4aa68" type="Folder">2</container>
+            <container altrender="Letter Document Case (Slim)" id="aspace_0d242aa7e18a84f1c6775c2cbb10d435" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7b0d606127d3dcf83c69f06106725a45" parent="aspace_0d242aa7e18a84f1c6775c2cbb10d435" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_940a9159ebd9959da5140fabe6ba998c" level="file">
           <did>
             <unittitle>Publications</unittitle>
             <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
-            <container altrender="Letter Document Case (Slim)" id="aspace_fab07868f53c5d3fc24bb463274dba72" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_fe9288eafee80cd73300e7341499b945" parent="aspace_fab07868f53c5d3fc24bb463274dba72" type="Folder">3</container>
+            <container altrender="Letter Document Case (Slim)" id="aspace_c17837838d77e40544ce48c930979276" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7d6120855c437e1f553f3f4d3fda04b7" parent="aspace_c17837838d77e40544ce48c930979276" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_cbf199b4a77cfd01341fe78163343155" level="file">
           <did>
             <unittitle>Studies by consultants</unittitle>
             <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
-            <container altrender="Letter Document Case (Slim)" id="aspace_2410b0239c46c626dc5e3200541cdaac" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_54ca16e50f285e43b6e36ea83b576549" parent="aspace_2410b0239c46c626dc5e3200541cdaac" type="Folder">4</container>
+            <container altrender="Letter Document Case (Slim)" id="aspace_c1fef8a7228325d47f39d987ec47b363" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8fed2ec8c335c7de6c334deef417c6b0" parent="aspace_c1fef8a7228325d47f39d987ec47b363" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_6c0404c45cadfc616e330d39aca7c5ca" level="file">
           <did>
             <unittitle>Action Plan for Downtown</unittitle>
             <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
-            <container altrender="Letter Document Case (Slim)" id="aspace_39a86b401a165eeaa738ad8726895b49" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_84e0a9019e55c9fcd95d6555be5b07b0" parent="aspace_39a86b401a165eeaa738ad8726895b49" type="Folder">5</container>
+            <container altrender="Letter Document Case (Slim)" id="aspace_996a461048ec36dd8e99accf55014c26" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_1d34221c1f8eebe862efeda8b01ea612" parent="aspace_996a461048ec36dd8e99accf55014c26" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_89723128b97b83250c08babf8834a1c1" level="file">
           <did>
             <unittitle>Newspapers (Post and Star) report on Plan</unittitle>
             <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
-            <container altrender="Letter Document Case (Slim)" id="aspace_f74ccfecaddf830123dfaff762df857e" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_a0f51a143b18478c2076b1869f7fe07a" parent="aspace_f74ccfecaddf830123dfaff762df857e" type="Folder">6</container>
+            <container altrender="Letter Document Case (Slim)" id="aspace_329e52ea40afd8052cae41dd7461f5e7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4ae1b4863ec8f7a197068055dba288aa" parent="aspace_329e52ea40afd8052cae41dd7461f5e7" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_0526750d02a6ad790bae0e0258376a2a" level="file">
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container altrender="Letter Document Case (Slim)" id="aspace_2bdd9b4c236bb2507d168e01722d4442" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_bd83df873a3c76f94c1da7a43758e42a" parent="aspace_2bdd9b4c236bb2507d168e01722d4442" type="Folder">7</container>
+            <container altrender="Letter Document Case (Slim)" id="aspace_1cca33aa38bd405c6954fd37d47bc68c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5eb0735542b8e869c8bdb73cd770bade" parent="aspace_1cca33aa38bd405c6954fd37d47bc68c" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_e945613de83c26264cc3bab409ee4655" level="file">
           <did>
             <unittitle>Advisory committee</unittitle>
             <unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate>
-            <container altrender="Letter Document Case (Slim)" id="aspace_5de50a2e772e7c6c09f52a8153c8e5d0" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_0bde1229acafa35549924d3548162960" parent="aspace_5de50a2e772e7c6c09f52a8153c8e5d0" type="Folder">8</container>
+            <container altrender="Letter Document Case (Slim)" id="aspace_a7b385e8b4aabdafec4434f5a9e4bda0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_078e2db0ccdf718596a6e6d8d82d1fcb" parent="aspace_a7b385e8b4aabdafec4434f5a9e4bda0" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_22b1e0a0e441ba842346ed6603ffc01c" level="file">
           <did>
             <unittitle>Advisory committee</unittitle>
             <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
-            <container altrender="Letter Document Case (Slim)" id="aspace_5118055c31d369593f3a11f98e21fab3" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_998278dd310b652ff37476f37417ce9c" parent="aspace_5118055c31d369593f3a11f98e21fab3" type="Folder">9</container>
+            <container altrender="Letter Document Case (Slim)" id="aspace_b57d5cf39301d44dd171a5c16fd740ae" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_594a44367ff32d79b0dd4fe7bf8b77db" parent="aspace_b57d5cf39301d44dd171a5c16fd740ae" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_887c5c4cbfaa6736f85159122a0551bd" level="file">
           <did>
             <unittitle>Maps and sketches</unittitle>
             <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
-            <container altrender="Legal Document Case" id="aspace_3749bd5582de6496ecc12df7de960a2a" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_b29427ad204f6e74fc9685bda4b999f6" parent="aspace_3749bd5582de6496ecc12df7de960a2a" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_f636117afc2c0da1260e99d5742ef44c" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_dd0f8c8937292c2e3b288bfb277d0459" parent="aspace_f636117afc2c0da1260e99d5742ef44c" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_759630dc3423ec2d2f39018194c957c4" level="file">
           <did>
             <unittitle>Square diagrams</unittitle>
             <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
-            <container altrender="Legal Document Case" id="aspace_8bfbea40deee5fd4542dbdb3fe7a091a" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_d4ee7fd80639c799e6b723c6b9f29fe6" parent="aspace_8bfbea40deee5fd4542dbdb3fe7a091a" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_8767c476f6be436650096c844dce138b" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_0c9e6b7fe0eb9332508bb0ecbfd276ba" parent="aspace_8767c476f6be436650096c844dce138b" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_28edfecf37f3180a28d54b3e639c7c13" level="file">
           <did>
             <unittitle>Square diagrams</unittitle>
             <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
-            <container altrender="Legal Document Case" id="aspace_a5112ea51eb02f5276956fe6c6f9cecc" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_da02a18908740313b7e1a15ce8c77ea9" parent="aspace_a5112ea51eb02f5276956fe6c6f9cecc" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_eee0864e2f12af6585f8e14fd26f28f2" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_50bd620b963c6a215c6efec159793bff" parent="aspace_eee0864e2f12af6585f8e14fd26f28f2" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_aecdf8bc4e16bbb5573eed1f3ce66778" level="file">
           <did>
             <unittitle>Urban renewal base map</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_6b031fa8096441411e01de5ed1798114" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_4efe6b93871c4d65a90f80ef078f0711" parent="aspace_6b031fa8096441411e01de5ed1798114" type="Folder">4</container>
+            <container altrender="Legal Document Case" id="aspace_5229126df0d7b01067e88fd1481bc922" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f5badfe72fe3678ffbd2e039dc7225ad" parent="aspace_5229126df0d7b01067e88fd1481bc922" type="Folder">4</container>
           </did>
         </c>
       </c>
@@ -326,32 +330,32 @@ Consists primarily of slides of buildings located within squares 213-491 and 514
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1960/1969" type="inclusive">1960-1969</unitdate>
-            <container altrender="Legal Document Case" id="aspace_0cff444a071b7646e52912277fef6a9b" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_9afc7457013d1b10c66c832db8ef7231" parent="aspace_0cff444a071b7646e52912277fef6a9b" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_1399b07a2f35c0e136cf512d404fdcbe" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_1aae02460586d50c9f2d498665a89226" parent="aspace_1399b07a2f35c0e136cf512d404fdcbe" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_9814e48936293b672457b6a70b482966" level="file">
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
-            <container altrender="Legal Document Case" id="aspace_bf0472b0609822ba93194869ffcfff86" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_5d5925391d32143d684413b853152418" parent="aspace_bf0472b0609822ba93194869ffcfff86" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_a51651372c4413fad6e37e338114debf" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_c2df6fa0544ae45b11c20de5a6fdccbd" parent="aspace_a51651372c4413fad6e37e338114debf" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_bdd09bffb82db19d79eac5c1153818eb" level="file">
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1972/1974" type="inclusive">1972-1974</unitdate>
-            <container altrender="Legal Document Case" id="aspace_9e98650ea2b5cb9c713781fdb18a03e4" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_74c12d1914ea7305df7074cbff9a464b" parent="aspace_9e98650ea2b5cb9c713781fdb18a03e4" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_9621735cb8d9dfa75e4bb9430c4c9ca6" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_a2217532495e161942f98a218ea7fd38" parent="aspace_9621735cb8d9dfa75e4bb9430c4c9ca6" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_5b57401021d643dd3f8ad7cee6b733d5" level="file">
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1961/1964" type="inclusive">1961-1964</unitdate>
-            <container altrender="Legal Document Case" id="aspace_3ff233325c13e07027c84db4f9f6299b" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_f9e0d281fb8dbbb34d8b3192fab89afc" parent="aspace_3ff233325c13e07027c84db4f9f6299b" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_124269fb6c6a88fb9510a3b6160424be" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_44db4d85f2ed6aff097fcac1d684bad9" parent="aspace_124269fb6c6a88fb9510a3b6160424be" type="Folder">1</container>
           </did>
         </c>
       </c>
@@ -367,48 +371,48 @@ Consists primarily of slides of buildings located within squares 213-491 and 514
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1961/1965" type="inclusive">1961-1965</unitdate>
-            <container altrender="Legal Document Case" id="aspace_ab3edc7ecfa14f1838796930f706ca49" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_7976cd375d62b9253697cb10d8c4af59" parent="aspace_ab3edc7ecfa14f1838796930f706ca49" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_c305e508d41e675320f7ebfe628d7e96" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_c4dabc2663027f6e319dc299e887374c" parent="aspace_c305e508d41e675320f7ebfe628d7e96" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_4f331630dcfb05be6bcdec3b44c780a2" level="file">
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate>
-            <container altrender="Legal Document Case" id="aspace_a48a28776e40708c00d23c4f0e3e9d77" label="Mixed Materials" type="Box">9</container>
-            <container id="aspace_44e804ada4084e3e54243f5726513aa1" parent="aspace_a48a28776e40708c00d23c4f0e3e9d77" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_191a9e1add8a76f1dd6d9104d03406a7" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_548986f8dd9537e2bb2c966e001c9e5f" parent="aspace_191a9e1add8a76f1dd6d9104d03406a7" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_7820e652f89508e76d66753fdad5ba31" level="file">
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1969/1973" type="inclusive">1969-73</unitdate>
-            <container altrender="Legal Document Case" id="aspace_86cdfb6a439a60113ea4f0c46c4221a3" label="Mixed Materials" type="Box">10</container>
-            <container id="aspace_fab2af84a370c4784dc27648f722ec18" parent="aspace_86cdfb6a439a60113ea4f0c46c4221a3" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_6c08f41ba2cf35964e2cc99e6e2b5519" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_0581c51e25f26b72370079988dd1e8cf" parent="aspace_6c08f41ba2cf35964e2cc99e6e2b5519" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_de412413b9cd228b9f3b49dac5ed0067" level="file">
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
-            <container altrender="Legal Document Case" id="aspace_b4047ffa1874aff5cda98b3692c151f3" label="Mixed Materials" type="Box">11</container>
-            <container id="aspace_a3369484f379e0e98e1e38c4fdb98306" parent="aspace_b4047ffa1874aff5cda98b3692c151f3" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_11a828fd0d2f5dfc46d40282e75edfc3" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_c4f83bbf50d4a51d18842df7c696a40d" parent="aspace_11a828fd0d2f5dfc46d40282e75edfc3" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_98ce86ed142ae2d40c36ba3d5877133e" level="file">
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
-            <container altrender="Legal Document Case" id="aspace_5e88127c77271ca8e907859ac1dba2b7" label="Mixed Materials" type="Box">12</container>
-            <container id="aspace_4a94cca9f5595dbb3c4d1d42745c909d" parent="aspace_5e88127c77271ca8e907859ac1dba2b7" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_e16adc919d9f134259506ac3d41640ac" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_e5cab9303896713310092534d13a2c0e" parent="aspace_e16adc919d9f134259506ac3d41640ac" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_dbbc4cc5a4a704d9cffda0e58aba4478" level="file">
           <did>
             <unittitle>Untitled</unittitle>
             <unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_369f552ffc4aac6af4921e2f571925c4" label="Mixed Materials" type="box">13</container>
-            <container id="aspace_cb16cb4eaee7d179c289de470cbc60b3" parent="aspace_369f552ffc4aac6af4921e2f571925c4" type="folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_c615dc397121fe0e211177e0f93c1812" label="Mixed Materials" type="box">13</container>
+            <container id="aspace_ebc6adfd77d575d764ae0f454ecab5e3" parent="aspace_c615dc397121fe0e211177e0f93c1812" type="folder">1</container>
           </did>
         </c>
       </c>
@@ -425,16 +429,16 @@ The folders are arranged chronologically.</p>
           <did>
             <unittitle>General correspondence</unittitle>
             <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
-            <container altrender="Legal Document Case" id="aspace_c4c48afdcfdf60bb367ff39b3768e887" label="Mixed Materials" type="Box">14</container>
-            <container id="aspace_d839e207b1d8768ec6e611dd9f7b9029" parent="aspace_c4c48afdcfdf60bb367ff39b3768e887" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_4244bf77876931966552c587556e7130" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_8eb27889ba6e0a783354447c7150b637" parent="aspace_4244bf77876931966552c587556e7130" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_128390f10037316ba1fb23da0bb1f6c7" level="file">
           <did>
             <unittitle>Budget and Review</unittitle>
             <unitdate normal="1964/1977" type="inclusive">1964-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_931e369a623300df156359d044977f9b" label="Mixed Materials" type="Box">14</container>
-            <container id="aspace_c87bf0bc5088928bd1ec23b90ced34e2" parent="aspace_931e369a623300df156359d044977f9b" type="folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_2a1500808fed349ddac9412224239bdf" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_8525d2f35ac26cfef3fdb0fc9a9488f9" parent="aspace_2a1500808fed349ddac9412224239bdf" type="folder">2</container>
           </did>
         </c>
       </c>
@@ -450,296 +454,296 @@ The folders are arranged chronologically.</p>
           <did>
             <unittitle>General Correspondence</unittitle>
             <unitdate normal="1971/1972" type="inclusive">1971-72</unitdate>
-            <container altrender="Legal Document Case" id="aspace_04bdb796337ef2236a5bb02f41f185de" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_65154f2bec65208611bd8ce21194bee3" parent="aspace_04bdb796337ef2236a5bb02f41f185de" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_ac09005fb075e41e4cd8a8e649dc6b84" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_9aa18276a2e59215ee02beb3717326d6" parent="aspace_ac09005fb075e41e4cd8a8e649dc6b84" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_9d4231660c5b8f4f6713f30545d515f8" level="file">
           <did>
             <unittitle>Budget and Review</unittitle>
             <unitdate normal="1964/1977" type="inclusive">1964-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_7e1b299548c66a9b30633fa1bb53a526" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_71c90ea7c0c2892bed39bca2a0f8b736" parent="aspace_7e1b299548c66a9b30633fa1bb53a526" type="folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_438063cb3a1c58c8c424fd98a0737b4e" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_827af7e3931f6e59aeda6986a0cb2726" parent="aspace_438063cb3a1c58c8c424fd98a0737b4e" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_196cc7f14b1e5300985364f956a896c3" level="file">
           <did>
             <unittitle>Development, Environment, Preservation</unittitle>
             <unitdate normal="1963/1977" type="inclusive">1963-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_a6862e2e2a98b1b3db9c8ad60065d9e8" label="Mixed Materials" type="Box">16</container>
-            <container id="aspace_6a2bef225456b6687bfb71be9f653a51" parent="aspace_a6862e2e2a98b1b3db9c8ad60065d9e8" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_1f7f7ea21b401033239d0250bde50454" label="Mixed Materials" type="Box">16</container>
+            <container id="aspace_7529c21c2dd053f2ea1b0e281b03134f" parent="aspace_1f7f7ea21b401033239d0250bde50454" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_3fde3d7d018c402f9e0d2185eeac8928" level="file">
           <did>
             <unittitle>Executive</unittitle>
             <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
-            <container altrender="Legal Document Case" id="aspace_eb38cd86bf7e38505f2ad1191ef43c9f" label="Mixed Materials" type="Box">17</container>
-            <container id="aspace_0343fbf369346a1c60cfb7cfb4b60d5c" parent="aspace_eb38cd86bf7e38505f2ad1191ef43c9f" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_0c202b44b1879cf4fad543e03ddec090" label="Mixed Materials" type="Box">17</container>
+            <container id="aspace_d88f3d7e597212ec93de8a86d7995f27" parent="aspace_0c202b44b1879cf4fad543e03ddec090" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_f7b71a3ebf393ef0127617073cb89b86" level="file">
           <did>
             <unittitle>Executive</unittitle>
             <unitdate normal="1961/1962" type="inclusive">1961-1962 </unitdate>
-            <container altrender="Legal Document Case" id="aspace_c061b09a66720e8f5edb1cd1379f508b" label="Mixed Materials" type="Box">18</container>
-            <container id="aspace_dcc4bdae7f6d9827d74bcbb39060ee63" parent="aspace_c061b09a66720e8f5edb1cd1379f508b" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_6100837d626cccf8fc659c508e549fba" label="Mixed Materials" type="Box">18</container>
+            <container id="aspace_cd8528bb8eba3c3d0a8210ff84dbfc91" parent="aspace_6100837d626cccf8fc659c508e549fba" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_4d147378ebf253d5d802fa0696f75b2c" level="file">
           <did>
             <unittitle>Executive</unittitle>
             <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate>
-            <container altrender="Legal Document Case" id="aspace_fc017ac9d66f57b338c372f00fb19408" label="Mixed Materials" type="Box">19</container>
-            <container id="aspace_d1c9544e0637dfc6cfc8d150af57177a" parent="aspace_fc017ac9d66f57b338c372f00fb19408" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_bb2905cf93f636558146e7f2e8b87e4e" label="Mixed Materials" type="Box">19</container>
+            <container id="aspace_4095033b6177e6f017d9161522e20563" parent="aspace_bb2905cf93f636558146e7f2e8b87e4e" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_e48a286d57ebe90cd276c93bcbd372a8" level="file">
           <did>
             <unittitle>Executive</unittitle>
             <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
-            <container altrender="Legal Document Case" id="aspace_7deed5a0a933b669fd1407ddb476cec1" label="Mixed Materials" type="Box">20</container>
-            <container id="aspace_5202c67ecac8f76439464b3af129b84e" parent="aspace_7deed5a0a933b669fd1407ddb476cec1" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_e73591d0f5103b5b4e701fa6751ba515" label="Mixed Materials" type="Box">20</container>
+            <container id="aspace_69c4f6b17ceda204dabbea49f5fa3e90" parent="aspace_e73591d0f5103b5b4e701fa6751ba515" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_0f6fd07a8dd884791b9581717618886c" level="file">
           <did>
             <unittitle>Executive</unittitle>
             <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-            <container altrender="Legal Document Case" id="aspace_0a52f80298127a3127075d271092c64d" label="Mixed Materials" type="Box">21</container>
-            <container id="aspace_f399d38977bccdcf911df7db4ab8628b" parent="aspace_0a52f80298127a3127075d271092c64d" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_f8f780223c0804ff4edef3cc30a1621b" label="Mixed Materials" type="Box">21</container>
+            <container id="aspace_98a2f294d668dfa4172e37f9ff9481ed" parent="aspace_f8f780223c0804ff4edef3cc30a1621b" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_7b2c313fc5ffb266aa47cd9f4502eea2" level="file">
           <did>
             <unittitle>Executive</unittitle>
             <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container altrender="Legal Document Case" id="aspace_23da818f294a606af6b002485828fc5d" label="Mixed Materials" type="Box">22</container>
-            <container id="aspace_f4f7872fe4760ad2d85d8e19d91b8c09" parent="aspace_23da818f294a606af6b002485828fc5d" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_c786e9fcdf3b0d7b16d60f2898899006" label="Mixed Materials" type="Box">22</container>
+            <container id="aspace_5684a767feb033f80fdac97feff24b76" parent="aspace_c786e9fcdf3b0d7b16d60f2898899006" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_f8946676624a7ea9efefdbb3ab0e38ef" level="file">
           <did>
             <unittitle>Executive</unittitle>
             <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
-            <container altrender="Legal Document Case" id="aspace_20850415202a3137839c8385d759ede8" label="Mixed Materials" type="Box">23</container>
-            <container id="aspace_e9984d10bfd971d4f6b08b12f347e7d8" parent="aspace_20850415202a3137839c8385d759ede8" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_610eaae89681c46959451d9e255c3ae0" label="Mixed Materials" type="Box">23</container>
+            <container id="aspace_96efa787b7d3abf7deee8bc22f7fbc4d" parent="aspace_610eaae89681c46959451d9e255c3ae0" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_66e9f248821cfe6d073a785114f78ce3" level="file">
           <did>
             <unittitle>Executive</unittitle>
             <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
-            <container altrender="Legal Document Case" id="aspace_e54fec81c641fdb92ab13b4cc58fa847" label="Mixed Materials" type="Box">24</container>
-            <container id="aspace_aede6c7dd15f69f154d420cfb94195e6" parent="aspace_e54fec81c641fdb92ab13b4cc58fa847" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_0c7aa0beba48009fbc59005be2690196" label="Mixed Materials" type="Box">24</container>
+            <container id="aspace_08e0ba1f3b192cb868211260eb18b2fb" parent="aspace_0c7aa0beba48009fbc59005be2690196" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_6d21701f06b85b9cfbdcb5a6977e2e91" level="file">
           <did>
             <unittitle>Executive</unittitle>
             <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container altrender="Legal Document Case" id="aspace_61be92f9e9eb885606b94d28e2098123" label="Mixed Materials" type="Box">25</container>
-            <container id="aspace_d0fa9519f93fdd9d43d2a3a92318d290" parent="aspace_61be92f9e9eb885606b94d28e2098123" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_0c432bae55dbc5deeeb9bf427483ece2" label="Mixed Materials" type="Box">25</container>
+            <container id="aspace_270d71cde9c4a0265242e76f0e3fd7b6" parent="aspace_0c432bae55dbc5deeeb9bf427483ece2" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_dbbc3c36e5537f56fe18f0a55c004c11" level="file">
           <did>
             <unittitle>Executive</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974, Parts 1 &amp; 2</unitdate>
-            <container altrender="Legal Document Case" id="aspace_d6f0db5232b571b4b865b28819809090" label="Mixed Materials" type="Box">26</container>
-            <container id="aspace_831db12fbad1c465f70315dfc9d480fb" parent="aspace_d6f0db5232b571b4b865b28819809090" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_93d3ca772416c7d469355ff438876922" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_dae0f675bda47846a906c4ae931f4df8" parent="aspace_93d3ca772416c7d469355ff438876922" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_a44e8a4a79ac9d691d2d05fc3a544a97" level="file">
           <did>
             <unittitle>Executive </unittitle>
             <unitdate normal="1975/1975" type="inclusive">1975, Part 1 of 2</unitdate>
-            <container altrender="Legal Document Case" id="aspace_36c36dcaa40abb9288cd718a129d162b" label="Mixed Materials" type="Box">26</container>
-            <container id="aspace_ed77d820a1fe7125ade9a654361c98f0" parent="aspace_36c36dcaa40abb9288cd718a129d162b" type="folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_4ca03c7cc4597d6dd06953c45f525faa" label="Mixed Materials" type="Box">26</container>
+            <container id="aspace_d8e7b02b4d5aa893fc569e91c9b739ae" parent="aspace_4ca03c7cc4597d6dd06953c45f525faa" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_b30035c02c75e37c6fd8296b2c7cfc57" level="file">
           <did>
             <unittitle>Executive</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974, Parts 1 &amp; 2</unitdate>
-            <container altrender="Legal Document Case" id="aspace_e5b7e0ee03516cf3b400af8fe1a03226" label="Mixed Materials" type="Box">27</container>
-            <container id="aspace_c72930dd7f614a461988b6da7168ada6" parent="aspace_e5b7e0ee03516cf3b400af8fe1a03226" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_a4b99d8028f36d01af67b7fc88204d48" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_f9f5e2149e6ff1238ec12afcf8d57601" parent="aspace_a4b99d8028f36d01af67b7fc88204d48" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_4da25646b42a807b1fc5e7f274e9be02" level="file">
           <did>
             <unittitle>Executive </unittitle>
             <unitdate normal="1975/1975" type="inclusive">1975, Part 2 of 2</unitdate>
-            <container altrender="Legal Document Case" id="aspace_2210dde38ccd338e39f72f233a9b821b" label="Mixed Materials" type="Box">27</container>
-            <container id="aspace_f8aab6e2165f243d8b2299f8e1cd25c5" parent="aspace_2210dde38ccd338e39f72f233a9b821b" type="folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_b4964cd654cb09d48dfe1ceb5e8180a6" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_f6c8864882dd7108e9aec3f2a8718670" parent="aspace_b4964cd654cb09d48dfe1ceb5e8180a6" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_a501ea9dd3fc2521112cbefd6e460aee" level="file">
           <did>
             <unittitle>Executive</unittitle>
             <unitdate type="inclusive">1976</unitdate>
-            <container altrender="Legal Document Case" id="aspace_ec67c1de8e1ea2692d407c7e9df99a7e" label="Mixed Materials" type="Box">27</container>
-            <container id="aspace_1970ce8896108b30689f795fe6533a95" parent="aspace_ec67c1de8e1ea2692d407c7e9df99a7e" type="folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_a3c5bee0ad9e91e872126600083539e4" label="Mixed Materials" type="Box">27</container>
+            <container id="aspace_90079e2e954a8846ac8e5d4b1650ea1e" parent="aspace_a3c5bee0ad9e91e872126600083539e4" type="folder">3</container>
           </did>
         </c>
         <c id="aspace_8e3fbf6c652e04ea9622aba82ed023cc" level="file">
           <did>
             <unittitle>Executive</unittitle>
             <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_8d6079a063ccd99a2938e03feb88e523" label="Mixed Materials" type="Box">28</container>
-            <container id="aspace_7428013cef6a74c6ce6cbe793953f383" parent="aspace_8d6079a063ccd99a2938e03feb88e523" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_2a6eb8034cc9e354c0fb0be6c2be9ae7" label="Mixed Materials" type="Box">28</container>
+            <container id="aspace_22263c910e37cfc375a471a38b487dba" parent="aspace_2a6eb8034cc9e354c0fb0be6c2be9ae7" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_afe10082ef4619997dad087bec7c7241" level="file">
           <did>
             <unittitle>Facilities</unittitle>
             <unitdate normal="1960/1977" type="inclusive">1960-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_334f800283fbb50fb816416fc689f5b4" label="Mixed Materials" type="Box">29</container>
-            <container id="aspace_ba749ffe68240ec1b1752da9ad164b1e" parent="aspace_334f800283fbb50fb816416fc689f5b4" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_73d9ee258e00e4c7307ec03d632a2eea" label="Mixed Materials" type="Box">29</container>
+            <container id="aspace_72943484fef48a367354b38080e1f8cf" parent="aspace_73d9ee258e00e4c7307ec03d632a2eea" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_d8fa4ff53f3f3a91938e9a0a333f1532" level="file">
           <did>
             <unittitle>Housing and Relocation</unittitle>
             <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
-            <container altrender="Legal Document Case" id="aspace_1f24649d7be02292bb8588e14876a4a5" label="Mixed Materials" type="Box">30</container>
-            <container id="aspace_1d9133e2602f53985be106dac48260f6" parent="aspace_1f24649d7be02292bb8588e14876a4a5" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_60fc422f6d0a40d25fee58346a921166" label="Mixed Materials" type="Box">30</container>
+            <container id="aspace_56e58e8eda5800a986d6243618562967" parent="aspace_60fc422f6d0a40d25fee58346a921166" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_486894f69ee59212d231347989bd1a39" level="file">
           <did>
             <unittitle>Legislative</unittitle>
             <unitdate normal="1964/1971" type="inclusive">1964-1971</unitdate>
-            <container altrender="Legal Document Case" id="aspace_558f56d1b8272ccf80d6821d77c942c6" label="Mixed Materials" type="Box">30</container>
-            <container id="aspace_3113a5584025c2ccd090760e38a5b608" parent="aspace_558f56d1b8272ccf80d6821d77c942c6" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_574d86b0561d9435e85083fe2331d1f6" label="Mixed Materials" type="Box">30</container>
+            <container id="aspace_cc0f7b33813e76b9fbf35ba1c562b606" parent="aspace_574d86b0561d9435e85083fe2331d1f6" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_46537f1c5f1781e30f71e7c73f4443ed" level="file">
           <did>
             <unittitle>Legislative</unittitle>
             <unitdate normal="1964/1971" type="inclusive">1964-1971</unitdate>
-            <container altrender="Legal Document Case" id="aspace_f0421d9acab3061e7a3e106460755b5d" label="Mixed Materials" type="Box">30</container>
-            <container id="aspace_0b7f50d7601e861d642114b439202adb" parent="aspace_f0421d9acab3061e7a3e106460755b5d" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_81500b326775b1b3ea5da9e823c8ab37" label="Mixed Materials" type="Box">30</container>
+            <container id="aspace_c31ddb77f69381176c611d7577fb2cfc" parent="aspace_81500b326775b1b3ea5da9e823c8ab37" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_08db17695a9f2164a99cebe20810eeb7" level="file">
           <did>
             <unittitle>Nominating</unittitle>
             <unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_678df6bc99ed6512d6c3c40eb545303d" label="Mixed Materials" type="Box">30</container>
-            <container id="aspace_10007e6aa5fcfbda80b4b7977c1e6ae2" parent="aspace_678df6bc99ed6512d6c3c40eb545303d" type="Folder">4</container>
+            <container altrender="Legal Document Case" id="aspace_bbe74a1d97c60adf584fda8e7092d1c7" label="Mixed Materials" type="Box">30</container>
+            <container id="aspace_c5b0f9e7c7914814f6dd9c82a487ad9e" parent="aspace_bbe74a1d97c60adf584fda8e7092d1c7" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_d4bc2d85733fb954170028668311d6dd" level="file">
           <did>
             <unittitle>Nominating</unittitle>
             <unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_bf0473c6cae719f9e220d3a947d6dd20" label="Mixed Materials" type="Box">30</container>
-            <container id="aspace_0bc4a79c11415d7131f71837e5daeb26" parent="aspace_bf0473c6cae719f9e220d3a947d6dd20" type="Folder">5</container>
+            <container altrender="Legal Document Case" id="aspace_b13e4bf71ef08374779e48ec53157118" label="Mixed Materials" type="Box">30</container>
+            <container id="aspace_9c5d460deef1992df6a197db9ca0b88c" parent="aspace_b13e4bf71ef08374779e48ec53157118" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_2acb9385aab3ad247d837124b85362d2" level="file">
           <did>
             <unittitle>Nominating</unittitle>
             <unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_e68e24dccdd56e704c74ee30206ba7ef" label="Mixed Materials" type="Box">30</container>
-            <container id="aspace_0fcb737577a1e665877780d8be70ac83" parent="aspace_e68e24dccdd56e704c74ee30206ba7ef" type="Folder">6</container>
+            <container altrender="Legal Document Case" id="aspace_c6b572efbb64f4883edb1339e13bf0e8" label="Mixed Materials" type="Box">30</container>
+            <container id="aspace_780c8c103a134948d2e56024122da539" parent="aspace_c6b572efbb64f4883edb1339e13bf0e8" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_cb9ba9f0700d33d1860c43933d230836" level="file">
           <did>
             <unittitle>Nominating</unittitle>
             <unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_0ad894e3143a1b2561ca57e1e50e52a8" label="Mixed Materials" type="Box">30</container>
-            <container id="aspace_f85329ee29dad6bcbf8fe260b95dcc93" parent="aspace_0ad894e3143a1b2561ca57e1e50e52a8" type="Folder">7</container>
+            <container altrender="Legal Document Case" id="aspace_3d24af8aaedc47b91b0365e2dadbe5b9" label="Mixed Materials" type="Box">30</container>
+            <container id="aspace_d955fb945a6c0d6949b588292a33348e" parent="aspace_3d24af8aaedc47b91b0365e2dadbe5b9" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_3ca721606542b35fde91105a07446b9c" level="file">
           <did>
             <unittitle>Nominating</unittitle>
             <unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_b574c22c2ac5eb18f45aa09df56403e7" label="Mixed Materials" type="Box">30</container>
-            <container id="aspace_1f6dd38e99702f58721ab41422ff991e" parent="aspace_b574c22c2ac5eb18f45aa09df56403e7" type="Folder">8</container>
+            <container altrender="Legal Document Case" id="aspace_426771782d7a81b39493a01d8f2a21ea" label="Mixed Materials" type="Box">30</container>
+            <container id="aspace_39a009e2c5d5bf4a9f2549e6ec9f836d" parent="aspace_426771782d7a81b39493a01d8f2a21ea" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_13ec25f21f91f96d377cccd88eeeac02" level="file">
           <did>
             <unittitle>Nominating</unittitle>
             <unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_5923318709cacb1a196329dfee7bc53b" label="Mixed Materials" type="Box">30</container>
-            <container id="aspace_5e08fb78d91f3c3b6f556e9db9eabe0c" parent="aspace_5923318709cacb1a196329dfee7bc53b" type="Folder">9</container>
+            <container altrender="Legal Document Case" id="aspace_2e5bd896a165306e12d1f5724a2137c2" label="Mixed Materials" type="Box">30</container>
+            <container id="aspace_2beaff55d8a81cc88055e8fd074cf653" parent="aspace_2e5bd896a165306e12d1f5724a2137c2" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_b1190287fb9b9975270dc7b9ca08fcca" level="file">
           <did>
             <unittitle>Nominating</unittitle>
             <unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_25f9ba45c5d6edafc90190a722ca6808" label="Mixed Materials" type="Box">30</container>
-            <container id="aspace_3c9bd3a200f5f724f0a821bd4bb9f5dc" parent="aspace_25f9ba45c5d6edafc90190a722ca6808" type="Folder">10</container>
+            <container altrender="Legal Document Case" id="aspace_864f457e744f17b5f0ed80c617a88077" label="Mixed Materials" type="Box">30</container>
+            <container id="aspace_cb1332c555a6bd476b8350db2b76d387" parent="aspace_864f457e744f17b5f0ed80c617a88077" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_fb83be0ea1d403148fa4c6a2e322b32c" level="file">
           <did>
             <unittitle>Planning and urban renewal</unittitle>
             <unitdate normal="1962/1969" type="inclusive">1962-1969</unitdate>
-            <container altrender="Legal Document Case" id="aspace_e9984e004edbf97a1fba41739ad335b5" label="Mixed Materials" type="Box">31</container>
-            <container id="aspace_a9b034a5a23a9a1a39f2191d01619641" parent="aspace_e9984e004edbf97a1fba41739ad335b5" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_313d284ad693087cc642b5c3849782fa" label="Mixed Materials" type="Box">31</container>
+            <container id="aspace_f11bc5675ae4d40901f39b140852cdd1" parent="aspace_313d284ad693087cc642b5c3849782fa" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_b073e1e506fef168ffc7252c1acb70fb" level="file">
           <did>
             <unittitle>Planning and urban renewal</unittitle>
             <unitdate normal="1970/1977" type="inclusive">1970-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_9336c2034b291abce71edcd8dab40324" label="Mixed Materials" type="Box">32</container>
-            <container id="aspace_4e0de689331a8913871b4d8b04c8e6f8" parent="aspace_9336c2034b291abce71edcd8dab40324" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_8815db978a4f5515c41cae890f2b69bd" label="Mixed Materials" type="Box">32</container>
+            <container id="aspace_6246a908d8a3bff25ebbaf27d49dd26b" parent="aspace_8815db978a4f5515c41cae890f2b69bd" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_133987e46b15b25a206238ed3241a561" level="file">
           <did>
             <unittitle>Transportation and services</unittitle>
             <unitdate normal="1962/1965" type="inclusive">1962-1965</unitdate>
-            <container altrender="Legal Document Case" id="aspace_52bc304ed7bc9d7fe91b51f02563631d" label="Mixed Materials" type="Box">33</container>
-            <container id="aspace_0226a397477f79ea3a251d4c92fd925c" parent="aspace_52bc304ed7bc9d7fe91b51f02563631d" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_49bb12344645d056d62840d5194fc60d" label="Mixed Materials" type="Box">33</container>
+            <container id="aspace_832f6c7c8d36f4205fc31f551892ce45" parent="aspace_49bb12344645d056d62840d5194fc60d" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_d5d45dc1eba363e49de8a288bc6409e5" level="file">
           <did>
             <unittitle>Transportation and services</unittitle>
             <unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate>
-            <container altrender="Legal Document Case" id="aspace_57a27e438915489b2eaf74b65002b7a5" label="Mixed Materials" type="Box">34</container>
-            <container id="aspace_d60a3ef74283db3ae7e10c8bc609d625" parent="aspace_57a27e438915489b2eaf74b65002b7a5" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_06e4b4b1d92bdde63b51b19708b4bca1" label="Mixed Materials" type="Box">34</container>
+            <container id="aspace_3ebb2efe72845073726aa7576e6e0bdb" parent="aspace_06e4b4b1d92bdde63b51b19708b4bca1" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_06de2e10a179bb7936c2c615c23b2eaa" level="file">
           <did>
             <unittitle>Transportation and services</unittitle>
             <unitdate normal="1970/1976" type="inclusive">1970-1976</unitdate>
-            <container altrender="Legal Document Case" id="aspace_e7a46235ad9c9888fddad828d5323a94" label="Mixed Materials" type="Box">35</container>
-            <container id="aspace_5379b216de17e173c8069fa78ef13c82" parent="aspace_e7a46235ad9c9888fddad828d5323a94" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_cab302563f5441bd16eefe5db8278334" label="Mixed Materials" type="Box">35</container>
+            <container id="aspace_ea337f3d1925d0c6a387d6cd9010b9da" parent="aspace_cab302563f5441bd16eefe5db8278334" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_b90604c1b5e61e5c08d3a5e44771f1c8" level="file">
           <did>
             <unittitle>Zoning and codes</unittitle>
             <unitdate normal="1962/1972" type="inclusive">1962-1972</unitdate>
-            <container altrender="Legal Document Case" id="aspace_9aca8482abc629f74ce597bb9f5cdc61" label="Mixed Materials" type="Box">36</container>
-            <container id="aspace_e085fd9ec724204ff686b5865bfa6f5b" parent="aspace_9aca8482abc629f74ce597bb9f5cdc61" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_93ec762d6c81b7988ea23ca654073959" label="Mixed Materials" type="Box">36</container>
+            <container id="aspace_357e7856f061788e0bfc59e1b3df77d5" parent="aspace_93ec762d6c81b7988ea23ca654073959" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_d7dcf8a0669a00cb9bacb02b405c7657" level="file">
           <did>
             <unittitle>Zoning and codes</unittitle>
             <unitdate normal="1973/1977" type="inclusive">1973-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_228dc2f671dac265e141c0b0c75b1a4b" label="Mixed Materials" type="Box">37</container>
-            <container id="aspace_89f5610b89e945b9b4643caaccda5a40" parent="aspace_228dc2f671dac265e141c0b0c75b1a4b" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_c7b42f72804a669eab6ea417ce3c5730" label="Mixed Materials" type="Box">37</container>
+            <container id="aspace_6c2745671ac990c213a313e6d95bb035" parent="aspace_c7b42f72804a669eab6ea417ce3c5730" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_65a21d4d98cc7dbfa0642f3efe349390" level="file">
           <did>
             <unittitle>Mailing</unittitle>
             <unitdate normal="1963/1973" type="inclusive">1963-1973</unitdate>
-            <container altrender="Legal Document Case" id="aspace_84ed5c9758cb141aad4cdf71adb3d8a6" label="Mixed Materials" type="Box">37</container>
-            <container id="aspace_d799668b102002d2ee90ae7afcc12599" parent="aspace_84ed5c9758cb141aad4cdf71adb3d8a6" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_a73c61d2a3aeddd3d0a38b2a61a2f94f" label="Mixed Materials" type="Box">37</container>
+            <container id="aspace_bb65e3856adea291e0375e71088e4985" parent="aspace_a73c61d2a3aeddd3d0a38b2a61a2f94f" type="Folder">2</container>
           </did>
         </c>
       </c>
@@ -755,728 +759,728 @@ The folders are arranged chronologically.</p>
           <did>
             <unittitle>Assessed Valuation by blocks</unittitle>
             <unitdate normal="1960/1965" type="inclusive">1960-1965</unitdate>
-            <container altrender="Legal Document Case" id="aspace_d413099b8da29bfa7aa7687e826237a9" label="Mixed Materials" type="Box">38</container>
-            <container id="aspace_6b3e055eac5932723ec312576c32a17e" parent="aspace_d413099b8da29bfa7aa7687e826237a9" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_06b343b4b1af20d7d0b4b744764bcac2" label="Mixed Materials" type="Box">38</container>
+            <container id="aspace_4bc6edb97572868dff47438d0a4bd4d1" parent="aspace_06b343b4b1af20d7d0b4b744764bcac2" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_f1bf831a4ee6d3e4685ad8c836cdc221" level="file">
           <did>
             <unittitle>Biographical data-R. Gray</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_7aaeeb7f2110c07f57691987a819b7cb" label="Mixed Materials" type="Box">38</container>
-            <container id="aspace_7a3019a16490329276f5f8a54db87a00" parent="aspace_7aaeeb7f2110c07f57691987a819b7cb" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_4f46436cc4169d033daddad4f12d28b7" label="Mixed Materials" type="Box">38</container>
+            <container id="aspace_85ae54a0bbe8285df20032c87d49ccd5" parent="aspace_4f46436cc4169d033daddad4f12d28b7" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_0aaaa6fe24d950fd48260a6cc50a77b0" level="file">
           <did>
             <unittitle>Chinese Community</unittitle>
             <unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_f9096829ecbd6bc9d674adf13d328df5" label="Mixed Materials" type="Box">38</container>
-            <container id="aspace_887bb4224e1fa382e633be5676bf0a23" parent="aspace_f9096829ecbd6bc9d674adf13d328df5" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_8e81ef9ec6be0ce51e4d3532d6ab6c77" label="Mixed Materials" type="Box">38</container>
+            <container id="aspace_82cdc5125bafd138658b803cfa5c6f34" parent="aspace_8e81ef9ec6be0ce51e4d3532d6ab6c77" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_d95029c686dfafaf064521320f15a7aa" level="file">
           <did>
             <unittitle>Cleveland Park</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_bfe66e8748ca1dba6e46a7bd2645e754" label="Mixed Materials" type="Box">38</container>
-            <container id="aspace_eb055082fe94d64725c4702181e53311" parent="aspace_bfe66e8748ca1dba6e46a7bd2645e754" type="Folder">4</container>
+            <container altrender="Legal Document Case" id="aspace_d93e801a3bd2e25bd1fe457a6e08d498" label="Mixed Materials" type="Box">38</container>
+            <container id="aspace_c6f3571cedf047630bc27cee6549f2b4" parent="aspace_d93e801a3bd2e25bd1fe457a6e08d498" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_2764be199769885b526a79d3efefc402" level="file">
           <did>
             <unittitle>Developers</unittitle>
             <unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_a848359ffb19436d977bd92ff51166d6" label="Mixed Materials" type="Box">38</container>
-            <container id="aspace_3449fdfe55a4640236afd1df4265fd09" parent="aspace_a848359ffb19436d977bd92ff51166d6" type="Folder">5</container>
+            <container altrender="Legal Document Case" id="aspace_1b212436753f1677e6ee99e467aa6a38" label="Mixed Materials" type="Box">38</container>
+            <container id="aspace_5ead6563f1eeced6695782f44a928588" parent="aspace_1b212436753f1677e6ee99e467aa6a38" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_9156f94a07e7f537e68474af813b0f01" level="file">
           <did>
             <unittitle>Developers</unittitle>
             <unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_aa2379c2351f9d830e5e8551fac47a3c" label="Mixed Materials" type="Box">38</container>
-            <container id="aspace_9592c20ce905b1675655871705963a3a" parent="aspace_aa2379c2351f9d830e5e8551fac47a3c" type="Folder">6</container>
+            <container altrender="Legal Document Case" id="aspace_6f8bf5bd4ae7abab9e4dd0dd5092d3c3" label="Mixed Materials" type="Box">38</container>
+            <container id="aspace_ed034009d3d0f8f456464aaae3d1b7a6" parent="aspace_6f8bf5bd4ae7abab9e4dd0dd5092d3c3" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_46542db79c2a23f86d11ede973350fdb" level="file">
           <did>
             <unittitle>Developers</unittitle>
             <unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_49628f575e6f3bea9c73c3962a8a198c" label="Mixed Materials" type="Box">38</container>
-            <container id="aspace_b33527d16ff9a1f164797b6bdc030b49" parent="aspace_49628f575e6f3bea9c73c3962a8a198c" type="Folder">7</container>
+            <container altrender="Legal Document Case" id="aspace_31de448e758040cb18b2fd001ce6d235" label="Mixed Materials" type="Box">38</container>
+            <container id="aspace_bbe7d32d2b327d4d119a82aa3a3a83f2" parent="aspace_31de448e758040cb18b2fd001ce6d235" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_d0d13b57750fbd7d2484553c87d1d74d" level="file">
           <did>
             <unittitle>Development</unittitle>
             <unitdate normal="1973/1977" type="inclusive">1973-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_a0275755db4a3b9491142c4ca8883bb5" label="Mixed Materials" type="Box">38</container>
-            <container id="aspace_4ca20677ba97a8b1e39427b1f11ecb85" parent="aspace_a0275755db4a3b9491142c4ca8883bb5" type="Folder">8</container>
+            <container altrender="Legal Document Case" id="aspace_e7c16a99cae52e944a6396b6c9b28f5e" label="Mixed Materials" type="Box">38</container>
+            <container id="aspace_83faa7101fc67ae1564f676f3af1536c" parent="aspace_e7c16a99cae52e944a6396b6c9b28f5e" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_6aa7dc15c3503e7f524d8f2899dc5504" level="file">
           <did>
             <unittitle>Development</unittitle>
             <unitdate normal="1973/1977" type="inclusive">1973-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_43322a067a382d6e895c5651e4ccd250" label="Mixed Materials" type="Box">38</container>
-            <container id="aspace_8cde9474b6863eb07985a24a1266fb9a" parent="aspace_43322a067a382d6e895c5651e4ccd250" type="Folder">9</container>
+            <container altrender="Legal Document Case" id="aspace_6e3346c0443cbd76a40f70e5911390b5" label="Mixed Materials" type="Box">38</container>
+            <container id="aspace_1b16c41af60af0e62e0b9ff8c016e188" parent="aspace_6e3346c0443cbd76a40f70e5911390b5" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_badf368f0f3037f8f869da8827eadde0" level="file">
           <did>
             <unittitle>Design and Feasibility Study - General</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_a9f767f92ac1f217aee6561d5f0007ae" label="Mixed Materials" type="Box">39</container>
-            <container id="aspace_a4e96a2008cba450a606d44b79e53829" parent="aspace_a9f767f92ac1f217aee6561d5f0007ae" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_e2e1c11deaa8175a7356ca60c8be9691" label="Mixed Materials" type="Box">39</container>
+            <container id="aspace_30fa2dbcee4f6597355a19ef9a34ef29" parent="aspace_e2e1c11deaa8175a7356ca60c8be9691" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_34c077b814217b161f886e0913ca8396" level="file">
           <did>
             <unittitle>Design and Feasibility Study - Combined use office/retail (Squares 344/345)</unittitle>
             <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
-            <container altrender="Legal Document Case" id="aspace_c742f4b6ea05e7244cac2947fc60e897" label="Mixed Materials" type="Box">39</container>
-            <container id="aspace_4ec95b951f1a36b9196e5e9696c45c6b" parent="aspace_c742f4b6ea05e7244cac2947fc60e897" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_cb3e2292c30b6980b697a8b8d8646bd6" label="Mixed Materials" type="Box">39</container>
+            <container id="aspace_ec569119cc6dbc94ffda477c68093e36" parent="aspace_cb3e2292c30b6980b697a8b8d8646bd6" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_a7d5eb5ba45d2fb3a7ff0f4c5fc4b0a8" level="file">
           <did>
             <unittitle>Design and Feasibility Study - Center leg freeway and air rights</unittitle>
             <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
-            <container altrender="Legal Document Case" id="aspace_22d5fb8402d99d2a75406a2bc0d5289c" label="Mixed Materials" type="Box">39</container>
-            <container id="aspace_5bb2b1dccb515dfbbd5d59edd1fef5ad" parent="aspace_22d5fb8402d99d2a75406a2bc0d5289c" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_736d29ffe498e14e074f3348ed3305eb" label="Mixed Materials" type="Box">39</container>
+            <container id="aspace_cbd51c37552b23cd69eb35ab78867fbb" parent="aspace_736d29ffe498e14e074f3348ed3305eb" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_8d668e588614418fef9835e52e5ad0c4" level="file">
           <did>
             <unittitle>Design and Feasibility Study - Center leg freeway and air rights</unittitle>
             <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
-            <container altrender="Legal Document Case" id="aspace_038840ade23acb3f7ca83ad9dffc830c" label="Mixed Materials" type="Box">39</container>
-            <container id="aspace_2fa8986c415b03e8841b254eb9160842" parent="aspace_038840ade23acb3f7ca83ad9dffc830c" type="Folder">4</container>
+            <container altrender="Legal Document Case" id="aspace_3de5760ae4292fa7122fcae4077be5b9" label="Mixed Materials" type="Box">39</container>
+            <container id="aspace_59e0eb94fd7ad8b6a8765f1d1990e90b" parent="aspace_3de5760ae4292fa7122fcae4077be5b9" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_f00bb01b9e2a414b422fe3c937d0adc7" level="file">
           <did>
             <unittitle>Development</unittitle>
             <unitdate normal="1970/1977" type="inclusive">1970-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_70254bc87d9cd3163d679fd928e0137f" label="Mixed Materials" type="Box">39</container>
-            <container id="aspace_7cdd13690575454b4d9543ad8debb8fe" parent="aspace_70254bc87d9cd3163d679fd928e0137f" type="Folder">5</container>
+            <container altrender="Legal Document Case" id="aspace_ed74e9fadadd4b3303ba74e5045d1a9f" label="Mixed Materials" type="Box">39</container>
+            <container id="aspace_5c3d735305c5f1f6a19862f5f1cd5223" parent="aspace_ed74e9fadadd4b3303ba74e5045d1a9f" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ffe2dbea085a8ea3d5dc7f289d23535e" level="file">
           <did>
             <unittitle>Development</unittitle>
             <unitdate normal="1970/1977" type="inclusive">1970-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_53d930958457d833d2079cf14a941551" label="Mixed Materials" type="Box">39</container>
-            <container id="aspace_85717421d7dc9526c0d5fd8b99cb515b" parent="aspace_53d930958457d833d2079cf14a941551" type="Folder">6</container>
+            <container altrender="Legal Document Case" id="aspace_2fa31185d7a5c279d726d39bf8fe3407" label="Mixed Materials" type="Box">39</container>
+            <container id="aspace_9d31901f06caf601d6f792d2f52d4d59" parent="aspace_2fa31185d7a5c279d726d39bf8fe3407" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_c900af142a8262fa02887bb69be5fad6" level="file">
           <did>
             <unittitle>Development</unittitle>
             <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container altrender="Legal Document Case" id="aspace_a88da3c5bb8b625a22917a684b6f5bd0" label="Mixed Materials" type="Box">40</container>
-            <container id="aspace_156e9aec318ccd4ddfa5fd8325f73bb2" parent="aspace_a88da3c5bb8b625a22917a684b6f5bd0" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_941fe122902cf1319c271feb2317b2b8" label="Mixed Materials" type="Box">40</container>
+            <container id="aspace_d114c973d6dce5f8ac7184128bed4497" parent="aspace_941fe122902cf1319c271feb2317b2b8" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_c34fa5f6dd3d85eb4dd83ef9f6cb465d" level="file">
           <did>
             <unittitle>D.C. Development Bank</unittitle>
             <unitdate normal="1972/1974" type="inclusive">1972-1974</unitdate>
-            <container altrender="Legal Document Case" id="aspace_aa596157af1907daffd3f185441a6910" label="Mixed Materials" type="Box">40</container>
-            <container id="aspace_00c7c1cbdca22f28835bd7cae3b3b8b9" parent="aspace_aa596157af1907daffd3f185441a6910" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_596a9d80e46c86f65c091222bab802e8" label="Mixed Materials" type="Box">40</container>
+            <container id="aspace_8d9606977997a73e581525f2b3cc2e55" parent="aspace_596a9d80e46c86f65c091222bab802e8" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_351d0e015ea83a5bc7c3d968665ac00c" level="file">
           <did>
             <unittitle>Downtown Development Corporation</unittitle>
             <unitdate normal="1970/1974" type="inclusive">1970-74</unitdate>
-            <container altrender="Legal Document Case" id="aspace_345b8f4c2427183e5264c0276486cc37" label="Mixed Materials" type="Box">40</container>
-            <container id="aspace_edbedccefc3ec8e23611ee5c84cf2c56" parent="aspace_345b8f4c2427183e5264c0276486cc37" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_7548a5a765f518557bcc38a546b3f93b" label="Mixed Materials" type="Box">40</container>
+            <container id="aspace_c27b148863d244b8b438d932c76813b5" parent="aspace_7548a5a765f518557bcc38a546b3f93b" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_c51d64843b4969695c51d581d5c9168b" level="file">
           <did>
             <unittitle>Downtown Design and Development Program</unittitle>
             <unitdate normal="1967/1971" type="inclusive">1967-1971</unitdate>
-            <container altrender="Legal Document Case" id="aspace_bc516739429d4ed55a0371dd84503285" label="Mixed Materials" type="Box">40</container>
-            <container id="aspace_f3a95e1418b9ef594ec08d4a8d333e27" parent="aspace_bc516739429d4ed55a0371dd84503285" type="Folder">4</container>
+            <container altrender="Legal Document Case" id="aspace_e4a88b8f26fd5c18b2b3d7f2901d9ef9" label="Mixed Materials" type="Box">40</container>
+            <container id="aspace_f8b063ea327a6736a2482514f6ff3d1b" parent="aspace_e4a88b8f26fd5c18b2b3d7f2901d9ef9" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_334abf1a02875bf6fcd5a934fb2d4732" level="file">
           <did>
             <unittitle>Downtown Design and Development Program</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_7ff59f1b5d01b076f3c07ec6aaa5ef3b" label="Mixed Materials" type="Box">41</container>
-            <container id="aspace_225b5763f3ebcf716bc5b59b79e92187" parent="aspace_7ff59f1b5d01b076f3c07ec6aaa5ef3b" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_b47c690b7fbd0f39637163ece7432c03" label="Mixed Materials" type="Box">41</container>
+            <container id="aspace_b983f0f3243f3ac3ba243f2cd011eec8" parent="aspace_b47c690b7fbd0f39637163ece7432c03" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_1d80175cc5862ed888f6bd21bf9b3a05" level="file">
           <did>
             <unittitle>Downtown Feasibility Survey - Manufacturing/Wholesale study</unittitle>
             <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-            <container altrender="Legal Document Case" id="aspace_2e865368e18a19a0f4f43a2b4342b608" label="Mixed Materials" type="Box">41</container>
-            <container id="aspace_3ab618d5d2711433c658c0977dc82096" parent="aspace_2e865368e18a19a0f4f43a2b4342b608" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_0b24267a78343aed22c18b6d1ced50a3" label="Mixed Materials" type="Box">41</container>
+            <container id="aspace_fcb3f8bf1b13f801b991b8fd6d24222a" parent="aspace_0b24267a78343aed22c18b6d1ced50a3" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_2774ac76a9e16fb6ead08cfca78006c2" level="file">
           <did>
             <unittitle>Downtown report</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_298b93f9f9029b8972da187a051fab63" label="Mixed Materials" type="Box">41</container>
-            <container id="aspace_a28881a632f36508ea8abc87698d4c86" parent="aspace_298b93f9f9029b8972da187a051fab63" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_18fdaf401ca4d2fc242da442433e06d0" label="Mixed Materials" type="Box">41</container>
+            <container id="aspace_cc50f0c6e5aa6733a94674376fdb6bea" parent="aspace_18fdaf401ca4d2fc242da442433e06d0" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_5d1d07199aed3ad8ce7d406b450fbf23" level="file">
           <did>
             <unittitle>Downtown structures</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_e3a59ecad5b84f75b831064c963d354d" label="Mixed Materials" type="Box">41</container>
-            <container id="aspace_fa568ed06cf918df640b265dddd1ebeb" parent="aspace_e3a59ecad5b84f75b831064c963d354d" type="Folder">4</container>
+            <container altrender="Legal Document Case" id="aspace_efff68d552cd9e286302478bd7fb9c2b" label="Mixed Materials" type="Box">41</container>
+            <container id="aspace_7266fd397c5117ba1505a5a9e4ddf958" parent="aspace_efff68d552cd9e286302478bd7fb9c2b" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_270cb5f43cd0d445caf34c252ed66806" level="file">
           <did>
             <unittitle>Dupont Circle</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_371c258e729785d8f6ec7036f1466ddc" label="Mixed Materials" type="Box">41</container>
-            <container id="aspace_90ba8a7f55a0225a0f0e223b048e5e48" parent="aspace_371c258e729785d8f6ec7036f1466ddc" type="Folder">5</container>
+            <container altrender="Legal Document Case" id="aspace_3a25b8949cfee20a0bbe9f0b39111651" label="Mixed Materials" type="Box">41</container>
+            <container id="aspace_1891912461907c7a9b25e0eda5dc7e62" parent="aspace_3a25b8949cfee20a0bbe9f0b39111651" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_8272027f3e6d78b558177512388b6e9c" level="file">
           <did>
             <unittitle>Dupont Circle property owners</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_a142d126d60112c4e50cf074c4d15146" label="Mixed Materials" type="Box">41</container>
-            <container id="aspace_610952e3d979bf108b4cf1709304e9f3" parent="aspace_a142d126d60112c4e50cf074c4d15146" type="Folder">6</container>
+            <container altrender="Legal Document Case" id="aspace_9dc2856194cd4ab6619b6f3863693ce9" label="Mixed Materials" type="Box">41</container>
+            <container id="aspace_05b19da8455ca4dc6e50b6f2d1b9b0e8" parent="aspace_9dc2856194cd4ab6619b6f3863693ce9" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_0a77c8ff08eabd6ce0c883f9eca9e6f6" level="file">
           <did>
             <unittitle>Employment studies</unittitle>
             <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
-            <container altrender="Legal Document Case" id="aspace_16491478f189a7130532fa777c7656da" label="Mixed Materials" type="Box">41</container>
-            <container id="aspace_04991d4a365afabf892fa726622fef3d" parent="aspace_16491478f189a7130532fa777c7656da" type="Folder">7</container>
+            <container altrender="Legal Document Case" id="aspace_f1b5047b254a6ed53fb962df22021150" label="Mixed Materials" type="Box">41</container>
+            <container id="aspace_ca3256c6265565e48812ff77057b459d" parent="aspace_f1b5047b254a6ed53fb962df22021150" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_14d81281b032e2b6a5a1d6260ea20478" level="file">
           <did>
             <unittitle>Employee Survey</unittitle>
             <unitdate normal="1960/1971" type="inclusive">1960-1971</unitdate>
-            <container altrender="Legal Document Case" id="aspace_e35bdcb2b75b66d0d3f8701615691126" label="Mixed Materials" type="Box">42</container>
-            <container id="aspace_cb4cfcbe8474cb787c3e52a113b14f69" parent="aspace_e35bdcb2b75b66d0d3f8701615691126" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_277a0933b513af45aeb0a5c86cf8be4e" label="Mixed Materials" type="Box">42</container>
+            <container id="aspace_34d3b7bdfe69a1d005b076ab27cea8a2" parent="aspace_277a0933b513af45aeb0a5c86cf8be4e" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_482c749d691bb80d1ff1a81a79fcfdf8" level="file">
           <did>
             <unittitle>Economic incentives task force</unittitle>
             <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
-            <container altrender="Legal Document Case" id="aspace_c363d0f7589cac1926371931254f470d" label="Mixed Materials" type="Box">43</container>
-            <container id="aspace_b02ed1f1a43e53d140d361d1f39b4fe9" parent="aspace_c363d0f7589cac1926371931254f470d" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_1e35cb384bed8a3a907eb2122a64245c" label="Mixed Materials" type="Box">43</container>
+            <container id="aspace_25aa5c8ea067a245f7ebc003b0c33f3b" parent="aspace_1e35cb384bed8a3a907eb2122a64245c" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_9a44f43b7fd49fdc49cdc2500c4a05cd" level="file">
           <did>
             <unittitle>Federal Triangle</unittitle>
             <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
-            <container altrender="Legal Document Case" id="aspace_17d7b112996fe7983ec05260b297cabd" label="Mixed Materials" type="Box">43</container>
-            <container id="aspace_fc05d2d6c3698c713512c1081157453c" parent="aspace_17d7b112996fe7983ec05260b297cabd" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_9c1515d029a8994ba4187d6b4c0e61d8" label="Mixed Materials" type="Box">43</container>
+            <container id="aspace_a66b241624420d7909b4e281fe509991" parent="aspace_9c1515d029a8994ba4187d6b4c0e61d8" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_c4d809095fdd0461f4e298aefed18fb9" level="file">
           <did>
             <unittitle>Fortune 500</unittitle>
             <unitdate normal="1972/1974" type="inclusive">1972-1974</unitdate>
-            <container altrender="Legal Document Case" id="aspace_e355100e97ef3fde1652c17d7ff759c2" label="Mixed Materials" type="Box">43</container>
-            <container id="aspace_620ab29d6a76660abce00aca5a9ff82f" parent="aspace_e355100e97ef3fde1652c17d7ff759c2" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_38260c45e0558527530ceb82694fb88f" label="Mixed Materials" type="Box">43</container>
+            <container id="aspace_af48ac9cb390737c8ea00b795d2d18d6" parent="aspace_38260c45e0558527530ceb82694fb88f" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_85a8d7f6669745d51ee689b2f3e5d056" level="file">
           <did>
             <unittitle>Format</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_c918449c85095228a6441a65c72f15cf" label="Mixed Materials" type="Box">43</container>
-            <container id="aspace_40a2da47c57ce40f49ec76b3bb4261ec" parent="aspace_c918449c85095228a6441a65c72f15cf" type="Folder">4</container>
+            <container altrender="Legal Document Case" id="aspace_7c6d99f80246790d616c3f77937634b8" label="Mixed Materials" type="Box">43</container>
+            <container id="aspace_fb8280415f1be77406da18093fb17283" parent="aspace_7c6d99f80246790d616c3f77937634b8" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_40bc4243ac896d69ccfb7801a08cce61" level="file">
           <did>
             <unittitle>Furniture stores</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_d9f3f5c892e4ec8c3f7d3d3e243e6fb2" label="Mixed Materials" type="Box">43</container>
-            <container id="aspace_7792960c47938c7b1bf1d44224aedf2d" parent="aspace_d9f3f5c892e4ec8c3f7d3d3e243e6fb2" type="Folder">5</container>
+            <container altrender="Legal Document Case" id="aspace_4ecc9c3c068a83de137efed805ee17ae" label="Mixed Materials" type="Box">43</container>
+            <container id="aspace_b442deb8d731002c58d7f0f2cd783414" parent="aspace_4ecc9c3c068a83de137efed805ee17ae" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_7d40fd919a0a649ef04667695b79e101" level="file">
           <did>
             <unittitle>Historic landmarks</unittitle>
             <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate>
-            <container altrender="Legal Document Case" id="aspace_61e775f6df05543f84f84e115b4818fc" label="Mixed Materials" type="Box">43</container>
-            <container id="aspace_fb108357d5274863df2b1bab90c0f888" parent="aspace_61e775f6df05543f84f84e115b4818fc" type="Folder">6</container>
+            <container altrender="Legal Document Case" id="aspace_4beed8f2ea83e2ba92bba7b89b1ea72a" label="Mixed Materials" type="Box">43</container>
+            <container id="aspace_99eeff61d745f8dfc99aff3d21df8dd9" parent="aspace_4beed8f2ea83e2ba92bba7b89b1ea72a" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_66be9d0e7b3c78a0951078115b74efc2" level="file">
           <did>
             <unittitle>Historic landmarks</unittitle>
             <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
-            <container altrender="Legal Document Case" id="aspace_34ccdb6837b264cd612b2445d035aac7" label="Mixed Materials" type="Box">44</container>
-            <container id="aspace_0c6cb2638577729014b7b5dc957d008e" parent="aspace_34ccdb6837b264cd612b2445d035aac7" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_03b383d06ad46c2b0f6597aa4446cd14" label="Mixed Materials" type="Box">44</container>
+            <container id="aspace_1c5c221f402bccf9b4c9ed59c6c9b4e7" parent="aspace_03b383d06ad46c2b0f6597aa4446cd14" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_f1f4789e7c34b46835853c505605219b" level="file">
           <did>
             <unittitle>Historic landmark legislation</unittitle>
             <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
-            <container altrender="Legal Document Case" id="aspace_fc4857c169e4654fafea466562321a8e" label="Mixed Materials" type="Box">44</container>
-            <container id="aspace_0e8d2559cdaa203f0e62fd3fefa77b26" parent="aspace_fc4857c169e4654fafea466562321a8e" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_8beb8516c89f17fea08d2189ef989de8" label="Mixed Materials" type="Box">44</container>
+            <container id="aspace_37e07cdf4f93ee7c85c74d0a60ddb498" parent="aspace_8beb8516c89f17fea08d2189ef989de8" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_70e1c627e87242231a24c742f8c3bfbb" level="file">
           <did>
             <unittitle>Historic Preservation - American Institute of Planners conference</unittitle>
             <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
-            <container altrender="Legal Document Case" id="aspace_2c81fe5bfa8de37b58d34414b2c86e51" label="Mixed Materials" type="Box">44</container>
-            <container id="aspace_5a551443baa40db509e7875b662ec9a0" parent="aspace_2c81fe5bfa8de37b58d34414b2c86e51" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_8f5951b35adfc3872e6010515ae439f8" label="Mixed Materials" type="Box">44</container>
+            <container id="aspace_3a35f2260d43415090788cc79b6a0e64" parent="aspace_8f5951b35adfc3872e6010515ae439f8" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_fa15d0f17b3b54400d332c83a93d9db9" level="file">
           <did>
             <unittitle>Historic preservation - Newsclippings</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_13f54157f83e7e02564e211759b7d7d5" label="Mixed Materials" type="Box">44</container>
-            <container id="aspace_cf7c96eeb146be13915d2490fe1b6a9a" parent="aspace_13f54157f83e7e02564e211759b7d7d5" type="Folder">4</container>
+            <container altrender="Legal Document Case" id="aspace_c047870baae1527aaf70ace1a3d06b05" label="Mixed Materials" type="Box">44</container>
+            <container id="aspace_e8a551847fa21e22e161baa9fd10c577" parent="aspace_c047870baae1527aaf70ace1a3d06b05" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_8da16244773138fda365a9472a50a7fe" level="file">
           <did>
             <unittitle>Historic preservation - Economic incentives</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_aedfc14d2ef275b47702a65a2fef6407" label="Mixed Materials" type="Box">44</container>
-            <container id="aspace_0738007cf9f4b74368aa0b1d5243caef" parent="aspace_aedfc14d2ef275b47702a65a2fef6407" type="Folder">5</container>
+            <container altrender="Legal Document Case" id="aspace_2091baf4e9ced1dcb06a51b88779f374" label="Mixed Materials" type="Box">44</container>
+            <container id="aspace_f265416bf38c60387775e650d7e147cf" parent="aspace_2091baf4e9ced1dcb06a51b88779f374" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_dedd29af7b8fffb9cb30745a57b3997e" level="file">
           <did>
             <unittitle>Historic Preservation</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_25d472bfb4e4c0a628532925a11ec994" label="Mixed Materials" type="Box">45</container>
-            <container id="aspace_711677368923092f1548f3c7311de928" parent="aspace_25d472bfb4e4c0a628532925a11ec994" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_bb1b1bee8eb98ae022c4aae339ab6e22" label="Mixed Materials" type="Box">45</container>
+            <container id="aspace_b5da954625413599ad44e266aa0c1ac3" parent="aspace_bb1b1bee8eb98ae022c4aae339ab6e22" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_eecad7a6ecb8d6681b449248863f64d4" level="file">
           <did>
             <unittitle>Home survey</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_fc3a7109f7f305824bd70b2562751238" label="Mixed Materials" type="Box">46</container>
-            <container id="aspace_9c73ed4a3663269c7db5de7b9595c2b5" parent="aspace_fc3a7109f7f305824bd70b2562751238" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_20d2317f627d4f198beb2d838739f332" label="Mixed Materials" type="Box">46</container>
+            <container id="aspace_f9d68e6378e4c4d540f48ecaa46a54a5" parent="aspace_20d2317f627d4f198beb2d838739f332" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_4bbcb3d330a3c30d0b6aa698f5537b21" level="file">
           <did>
             <unittitle>James Creek-Buzzard Point</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_80ea9085f7b916f57a9e173f347482a3" label="Mixed Materials" type="Box">46</container>
-            <container id="aspace_259a4bd2d6fb853cbff9968459102d30" parent="aspace_80ea9085f7b916f57a9e173f347482a3" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_aae24f35c85eacee44b224483ecfd3e2" label="Mixed Materials" type="Box">46</container>
+            <container id="aspace_a2a3e86aea770746b5b00e2ea6fb895b" parent="aspace_aae24f35c85eacee44b224483ecfd3e2" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_32f9fccd1f6137296fd36fc13704e82c" level="file">
           <did>
             <unittitle>J-51</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_fa1feaaabdf018ffafcf2fdb8c03574c" label="Mixed Materials" type="Box">46</container>
-            <container id="aspace_388abaed836ab5b22594b19fe52a323d" parent="aspace_fa1feaaabdf018ffafcf2fdb8c03574c" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_ca38e184b8d3d9fe0901fca50a51db8f" label="Mixed Materials" type="Box">46</container>
+            <container id="aspace_8b79961716ee0fbefcad47759501e941" parent="aspace_ca38e184b8d3d9fe0901fca50a51db8f" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_b7ec761b35921d87bb35898b46afa95a" level="file">
           <did>
             <unittitle>Lincoln Place</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_1b44f2109713fdb68d354a4fe1a2bb2c" label="Mixed Materials" type="Box">46</container>
-            <container id="aspace_e30b200998bc825238a687e07471da04" parent="aspace_1b44f2109713fdb68d354a4fe1a2bb2c" type="Folder">4</container>
+            <container altrender="Legal Document Case" id="aspace_069491a5848a736dade4e7fcbd429e55" label="Mixed Materials" type="Box">46</container>
+            <container id="aspace_e9ea8dda5aaf3bb565acd23917b58674" parent="aspace_069491a5848a736dade4e7fcbd429e55" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_4a6af959eb7366c1ff64c278e33358fe" level="file">
           <did>
             <unittitle>Maps</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_4d3a3b916ab08e4c6d4c5d6f0d1a7490" label="Mixed Materials" type="Box">47</container>
-            <container id="aspace_9b6dfe307200f66a057123eca22cf29f" parent="aspace_4d3a3b916ab08e4c6d4c5d6f0d1a7490" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_715cf7bd4aa9e1a34ab868219c190168" label="Mixed Materials" type="Box">47</container>
+            <container id="aspace_80cd223258236b788b77d07a59234115" parent="aspace_715cf7bd4aa9e1a34ab868219c190168" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_50483a6d3c3f008467fdc8893be0addf" level="file">
           <did>
             <unittitle>Boxes 48</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_9b79c216c056bcf2ac89fa4db20b005a" label="Mixed Materials" type="Box">47</container>
-            <container id="aspace_40a2e77696a6b70520a2d37f145412a2" parent="aspace_9b79c216c056bcf2ac89fa4db20b005a" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_8be30b7bd70b9dc61e6ad3c3e482dade" label="Mixed Materials" type="Box">47</container>
+            <container id="aspace_fcd90938c370645a7217518265b1500d" parent="aspace_8be30b7bd70b9dc61e6ad3c3e482dade" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_de9b9ac46ec50c9797be0ddd97ca9d04" level="file">
           <did>
             <unittitle>Maps</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_05c24bd7e0b521ea947f1aa574d2f1a0" label="Mixed Materials" type="Box">47</container>
-            <container id="aspace_8d5639fb8b7c120e7173738e3cda3772" parent="aspace_05c24bd7e0b521ea947f1aa574d2f1a0" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_4625556a0c0b5ef5c4a24156bace9f4d" label="Mixed Materials" type="Box">47</container>
+            <container id="aspace_94a50a74dd4c4de8155e7be70f6ef272" parent="aspace_4625556a0c0b5ef5c4a24156bace9f4d" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_68c9b067b65de3ea472f3941edf4cffa" level="file">
           <did>
             <unittitle>Mount Vernon Square East</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_9cab36bb24771e7fc374cc86dbb67110" label="Mixed Materials" type="Box">47</container>
-            <container id="aspace_75d6147c2a479b1cf1aa3516f81201a0" parent="aspace_9cab36bb24771e7fc374cc86dbb67110" type="Folder">4</container>
+            <container altrender="Legal Document Case" id="aspace_3037506acd89e6bcba1b950c699e02b0" label="Mixed Materials" type="Box">47</container>
+            <container id="aspace_264cf14c292350bea343b9454d99bfdc" parent="aspace_3037506acd89e6bcba1b950c699e02b0" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_c4c8dd4b8d6b5ba2cda214c6de5ff03f" level="file">
           <did>
             <unittitle>Neighborhood Development Plan #3</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_03ff0d5d6662006006ac633734dce6fb" label="Mixed Materials" type="Box">49</container>
-            <container id="aspace_d0bc9303849c036a2d0add60574d4fe3" parent="aspace_03ff0d5d6662006006ac633734dce6fb" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_9f240f9f7a88dd490ce3b79a88bd03e4" label="Mixed Materials" type="Box">49</container>
+            <container id="aspace_9ff9b786fb7fafc45d487e6acd371ba6" parent="aspace_9f240f9f7a88dd490ce3b79a88bd03e4" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_0af82dcc9711521321cb0979b96e81f8" level="file">
           <did>
             <unittitle>Neighborhood Development Plan #4</unittitle>
             <unitdate normal="1970/1974" type="inclusive">1970-74</unitdate>
-            <container altrender="Legal Document Case" id="aspace_eee1f3ad36800827930972b0d252931b" label="Mixed Materials" type="Box">49</container>
-            <container id="aspace_32b34503bb933690256072857f01de52" parent="aspace_eee1f3ad36800827930972b0d252931b" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_779c122dc0a68081a5bc8c7f79eb484d" label="Mixed Materials" type="Box">49</container>
+            <container id="aspace_601b0f73f72e6e4302d2e06c34aa8e89" parent="aspace_779c122dc0a68081a5bc8c7f79eb484d" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_5fa01b4840f58c0c2ca881a933b9fa2b" level="file">
           <did>
             <unittitle>Neighborhood Development Plan #4</unittitle>
             <unitdate normal="1970/1974" type="inclusive">1970-74</unitdate>
-            <container altrender="Legal Document Case" id="aspace_7aa6afde6c43d5691c117fcf4a763dae" label="Mixed Materials" type="Box">50</container>
-            <container id="aspace_2d618c8fb00c242a9a08591db8da7cb8" parent="aspace_7aa6afde6c43d5691c117fcf4a763dae" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_fc79d24e0ccd454996976aa9eff56a57" label="Mixed Materials" type="Box">50</container>
+            <container id="aspace_690f8899aadbbc84bd3bcfaec3723d7e" parent="aspace_fc79d24e0ccd454996976aa9eff56a57" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_f51123e64112387eae2638481b7fb4c5" level="file">
           <did>
             <unittitle>Neighborhood Development Plan #5</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container altrender="Legal Document Case" id="aspace_806370fa8d19283261ab15249fd3d4f7" label="Mixed Materials" type="Box">51</container>
-            <container id="aspace_dcd198c809b29902c0c32df43d240020" parent="aspace_806370fa8d19283261ab15249fd3d4f7" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_acbf41357c4434d9af4b4753506c184f" label="Mixed Materials" type="Box">51</container>
+            <container id="aspace_6c6456bc809a40626602a3e90b2fbc23" parent="aspace_acbf41357c4434d9af4b4753506c184f" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_22cf483021be40d0f147c275eb492707" level="file">
           <did>
             <unittitle>Neighborhood Development Plan</unittitle>
             <unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_29479fc0e69a271f68aada0b39fa4d63" label="Mixed Materials" type="Box">52</container>
-            <container id="aspace_52ab0c49e0cb155c32d9d600d995794b" parent="aspace_29479fc0e69a271f68aada0b39fa4d63" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_1ae3b86fc13761cd0830f10b0cc03464" label="Mixed Materials" type="Box">52</container>
+            <container id="aspace_1a361a8ae7eabf2b1d0b45295c687bec" parent="aspace_1ae3b86fc13761cd0830f10b0cc03464" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_39ff565d7cd932c8cb593a93e35faaad" level="file">
           <did>
             <unittitle>National Visitors Center</unittitle>
             <unitdate normal="1960/1978" type="inclusive">1960-1978</unitdate>
-            <container altrender="Legal Document Case" id="aspace_60759a2f0e9f741f9ee4ad95dbfe819c" label="Mixed Materials" type="Box">53</container>
-            <container id="aspace_c9bb1c7a16b74a499ae593d3e4145a2f" parent="aspace_60759a2f0e9f741f9ee4ad95dbfe819c" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_abf56f983b6344b2b7b67dae5d4c9e0d" label="Mixed Materials" type="Box">53</container>
+            <container id="aspace_5f0d8705d05bb69bc59e509fac1c4e27" parent="aspace_abf56f983b6344b2b7b67dae5d4c9e0d" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_8aa1d91b5c30d6d368f16013b5986c25" level="file">
           <did>
             <unittitle>National Visitors Center</unittitle>
             <unitdate normal="1960/1978" type="inclusive">1960-1978</unitdate>
-            <container altrender="Legal Document Case" id="aspace_2db672bbcbe6a9785462a073d977509c" label="Mixed Materials" type="Box">54</container>
-            <container id="aspace_def3f420c631d60c85550a8013716f86" parent="aspace_2db672bbcbe6a9785462a073d977509c" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_6b00cbb469cd1de0c182478e187bcd52" label="Mixed Materials" type="Box">54</container>
+            <container id="aspace_35d3cc48a631b281c7c04708b882faba" parent="aspace_6b00cbb469cd1de0c182478e187bcd52" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_0db0b08a1f24c1b6fafdb19010c94195" level="file">
           <did>
             <unittitle>National Visitors Center</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_1460ec743891e17863f865712fa25ada" label="Mixed Materials" type="Box">55</container>
-            <container id="aspace_41932e9e5914a17dafcf9e8f90bed19a" parent="aspace_1460ec743891e17863f865712fa25ada" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_7638d094bb69eaaa2a9881e83beb89a9" label="Mixed Materials" type="Box">55</container>
+            <container id="aspace_89535920a1368c9c0dc5609c28c70666" parent="aspace_7638d094bb69eaaa2a9881e83beb89a9" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_dd91bf8f71f7bbc926c8adfce55fff4d" level="file">
           <did>
             <unittitle>Nightlife study</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_4b9300465aabd195d548358553ceaaf7" label="Mixed Materials" type="Box">55</container>
-            <container id="aspace_b4fbc3f266b7c38fe98876653f8aeefc" parent="aspace_4b9300465aabd195d548358553ceaaf7" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_c67ea9497bc27640a978c448f66b9601" label="Mixed Materials" type="Box">55</container>
+            <container id="aspace_79586b61d7ad1d6f2fbf71b6957724b6" parent="aspace_c67ea9497bc27640a978c448f66b9601" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_b06bf47d1cf799a0eea2254586584c75" level="file">
           <did>
             <unittitle>Pedestrian survey</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_b70be4d580ba2bcaf9854fd52eff0fec" label="Mixed Materials" type="Box">55</container>
-            <container id="aspace_e9c354cff8a473894313d4f3a1553e28" parent="aspace_b70be4d580ba2bcaf9854fd52eff0fec" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_72a4cdf1b7c1c7583b38bde2334a0690" label="Mixed Materials" type="Box">55</container>
+            <container id="aspace_cf4b7f5ab6ed18275f8b4ede2dab88f4" parent="aspace_72a4cdf1b7c1c7583b38bde2334a0690" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ac31ebf81fffdf15adf38aaa095e40df" level="file">
           <did>
             <unittitle>Pedestrians</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_61ce2e4aae1d8518f8b79c57f176b48d" label="Mixed Materials" type="Box">55</container>
-            <container id="aspace_90be9f36a870c951debbbf91a55296de" parent="aspace_61ce2e4aae1d8518f8b79c57f176b48d" type="Folder">4</container>
+            <container altrender="Legal Document Case" id="aspace_25e855896e63ee9fde54ca4da67ff311" label="Mixed Materials" type="Box">55</container>
+            <container id="aspace_82c6a05e71b3602147bc12015020d72a" parent="aspace_25e855896e63ee9fde54ca4da67ff311" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_1ac4c2e33b6e58e66c0397dc2161a279" level="file">
           <did>
             <unittitle>Pennsylvania Avenue Development Corporation</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container altrender="Legal Document Case" id="aspace_b823c8378713ef56b80a0dcf3770387d" label="Mixed Materials" type="Box">56</container>
-            <container id="aspace_1faa45df39d86460c77fc79b554b7c21" parent="aspace_b823c8378713ef56b80a0dcf3770387d" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_49f95344c6800ab3e523858002ff3810" label="Mixed Materials" type="Box">56</container>
+            <container id="aspace_d2cd2f30767bf62926de0e40ce646721" parent="aspace_49f95344c6800ab3e523858002ff3810" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_b317803136b52a686f2906d2a41e6beb" level="file">
           <did>
             <unittitle>Pennsylvania Avenue Development Corporation</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container altrender="Legal Document Case" id="aspace_f6bb87cb72d870ade9dd1eacc27299ee" label="Mixed Materials" type="Box">57</container>
-            <container id="aspace_160cb8b49bf173bcbfba7753642e5e8d" parent="aspace_f6bb87cb72d870ade9dd1eacc27299ee" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_35fc38403aeef5ed47e0e777f1bb0afd" label="Mixed Materials" type="Box">57</container>
+            <container id="aspace_e0f1caa32660005f960d1140964c635a" parent="aspace_35fc38403aeef5ed47e0e777f1bb0afd" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_3c19d4eb07e4a8901779cfaa9f6a10d0" level="file">
           <did>
             <unittitle>Pennsylvania Avenue Development Corporation</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container altrender="Legal Document Case" id="aspace_bd31a79aeffbb94939298b4164a7d236" label="Mixed Materials" type="Box">58</container>
-            <container id="aspace_2384acafe8de3399a8cf4e7376f333a2" parent="aspace_bd31a79aeffbb94939298b4164a7d236" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_190cb899492760186bdf38631792a48a" label="Mixed Materials" type="Box">58</container>
+            <container id="aspace_78ef88519fa43a0824f706d227f1cb49" parent="aspace_190cb899492760186bdf38631792a48a" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_5269dbb8f4253bd3d0394cacded3bb41" level="file">
           <did>
             <unittitle>Pennsylvania Avenue Development Corporation</unittitle>
             <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container altrender="Legal Document Case" id="aspace_4113fa3054e84597ab7545ccb3325199" label="Mixed Materials" type="Box">59</container>
-            <container id="aspace_0be2b3ad81dfc7fa12271c8eae41ab1c" parent="aspace_4113fa3054e84597ab7545ccb3325199" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_d352cfd3e04d864f19ba51df09876c3c" label="Mixed Materials" type="Box">59</container>
+            <container id="aspace_576d990f33fa0681e5297a2e5f6fb933" parent="aspace_d352cfd3e04d864f19ba51df09876c3c" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_7640e44762138aa761c0ab809322f68e" level="file">
           <did>
             <unittitle>Performing Arts</unittitle>
             <unitdate normal="1962/1962" type="inclusive">1962</unitdate>
-            <container altrender="Legal Document Case" id="aspace_319f9089b248a01c250833fec79b32a5" label="Mixed Materials" type="Box">60</container>
-            <container id="aspace_414a38d3401ce5dffb3ba68fd5f4e7cc" parent="aspace_319f9089b248a01c250833fec79b32a5" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_42e7daf7976d7ac53195b3abcfb1c855" label="Mixed Materials" type="Box">60</container>
+            <container id="aspace_aac98a9c75562c81e129accc49c9f07b" parent="aspace_42e7daf7976d7ac53195b3abcfb1c855" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_c830a2ff1f0a3005f1db19d4e320766a" level="file">
           <did>
             <unittitle>Permit</unittitle>
             <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
-            <container altrender="Legal Document Case" id="aspace_1e51e1984c8eb0742797179d8dfee76c" label="Mixed Materials" type="Box">60</container>
-            <container id="aspace_99ee6384427f6162e60639fcbc3d1e08" parent="aspace_1e51e1984c8eb0742797179d8dfee76c" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_fd43d1e1623e9913446ca487db77a884" label="Mixed Materials" type="Box">60</container>
+            <container id="aspace_6da712753f3d16fee5c6b0e24baefb97" parent="aspace_fd43d1e1623e9913446ca487db77a884" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_0dcc00e03b4932ab460959b5bce5192f" level="file">
           <did>
             <unittitle>Public and Private development draft</unittitle>
             <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
-            <container altrender="Legal Document Case" id="aspace_89aa2ce79d287c8a3eb725535d1e457d" label="Mixed Materials" type="Box">60</container>
-            <container id="aspace_71177972e43f6e3adefb86ead0e7b37c" parent="aspace_89aa2ce79d287c8a3eb725535d1e457d" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_706d7a7246f1163599a288aaa69c9e74" label="Mixed Materials" type="Box">60</container>
+            <container id="aspace_9b0ea460e00b469b534129fd33c9fbe9" parent="aspace_706d7a7246f1163599a288aaa69c9e74" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_d14d4e4f3348bda661a1705099e6ffff" level="file">
           <did>
             <unittitle>Radio and T.V. spots</unittitle>
             <unitdate normal="1974/1977" type="inclusive">1974-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_9b9353dcfa4a607d82120966630ef60e" label="Mixed Materials" type="Box">60</container>
-            <container id="aspace_5183e8035b82dcfbe4fae3ba96090766" parent="aspace_9b9353dcfa4a607d82120966630ef60e" type="Folder">4</container>
+            <container altrender="Legal Document Case" id="aspace_bd61e6ca4e225aa48d96a64538e02c62" label="Mixed Materials" type="Box">60</container>
+            <container id="aspace_c4070b7b885e71e765e41a9ac065d578" parent="aspace_bd61e6ca4e225aa48d96a64538e02c62" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_80e99154a939bea8157e34401b9e30ee" level="file">
           <did>
             <unittitle>Speeches and remarks</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_48e033a24ef8bc4cd14932fe91694662" label="Mixed Materials" type="Box">61</container>
-            <container id="aspace_631b2dfb6e7f5489cd3f0626eb5d6e3c" parent="aspace_48e033a24ef8bc4cd14932fe91694662" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_66e14d616d4166b8fdc2ea5a72590150" label="Mixed Materials" type="Box">61</container>
+            <container id="aspace_3bf1461d7a81e68420d93e9d39144495" parent="aspace_66e14d616d4166b8fdc2ea5a72590150" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_269dd726d197766ba8d4165a32cc70a5" level="file">
           <did>
             <unittitle>Sports Arena/Convention and Civic Center</unittitle>
             <unitdate normal="1963/1968" type="inclusive">1963-1968</unitdate>
-            <container altrender="Legal Document Case" id="aspace_64ac90e3822b68a583ed28cbbdb571b1" label="Mixed Materials" type="Box">61</container>
-            <container id="aspace_a9a5340294e56468cbafacad244e4ea4" parent="aspace_64ac90e3822b68a583ed28cbbdb571b1" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_291a597638e73bb5a29e9e466b79e082" label="Mixed Materials" type="Box">61</container>
+            <container id="aspace_84419496385e08c096c2b0b680509b8a" parent="aspace_291a597638e73bb5a29e9e466b79e082" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_3b9ebacce9498b0997ac46a3a7cdc79f" level="file">
           <did>
             <unittitle>Boxes 62-66</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_63847eda835b7129336915610923d1b8" label="Mixed Materials" type="Box">61</container>
-            <container id="aspace_8b108184d6420c6b16ac64ac22ec4484" parent="aspace_63847eda835b7129336915610923d1b8" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_4f608f90cc47aa5c3dcaa9fcb394db6b" label="Mixed Materials" type="Box">61</container>
+            <container id="aspace_d88a17d0e1185a3ae77fa9b743ca92f2" parent="aspace_4f608f90cc47aa5c3dcaa9fcb394db6b" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_1f7b8935c0eb5c3c2430a02a983c3826" level="file">
           <did>
             <unittitle>Sports Arena/Convention and Civic Center</unittitle>
             <unitdate normal="1970/1977" type="inclusive">1970-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_875fdef4d9f5d8bdac4989fba48cb601" label="Mixed Materials" type="Box">61</container>
-            <container id="aspace_501c77b3d51b73e8494bbc1d3c2c56ba" parent="aspace_875fdef4d9f5d8bdac4989fba48cb601" type="Folder">4</container>
+            <container altrender="Legal Document Case" id="aspace_f144debc4cad46078557356ce7d18116" label="Mixed Materials" type="Box">61</container>
+            <container id="aspace_d92948565a7dde7c3d7821c8d44389d2" parent="aspace_f144debc4cad46078557356ce7d18116" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_de9cc19dd36f5e1d12d92a9b3b0efaed" level="file">
           <did>
             <unittitle>SA/CC</unittitle>
             <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
-            <container altrender="Legal Document Case" id="aspace_f56904db406b97279d5c8d2297f3fe0a" label="Mixed Materials" type="Box">66</container>
-            <container id="aspace_ca46b51825bf1574beac05e2c02e1460" parent="aspace_f56904db406b97279d5c8d2297f3fe0a" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_944e644390ec315c606fc0ef50174b37" label="Mixed Materials" type="Box">66</container>
+            <container id="aspace_567136c45955a2438178c446f389c753" parent="aspace_944e644390ec315c606fc0ef50174b37" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_3f29210106cd2c96fa5589755cbe42dc" level="file">
           <did>
             <unittitle>Street vending</unittitle>
             <unitdate normal="1971/1974" type="inclusive">1971-1974</unitdate>
-            <container altrender="Legal Document Case" id="aspace_10db117ab3742eb6bf1941cbbad268a0" label="Mixed Materials" type="Box">67</container>
-            <container id="aspace_e42db23dd919cd2bb6fde9f80404865e" parent="aspace_10db117ab3742eb6bf1941cbbad268a0" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_338caa6be2c60c813e985fdc6c4a4a9b" label="Mixed Materials" type="Box">67</container>
+            <container id="aspace_cf0ae4b5befb7a0155b6f650b2064277" parent="aspace_338caa6be2c60c813e985fdc6c4a4a9b" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_91ba86ebaf45b9e95c30d5b0875e2c87" level="file">
           <did>
             <unittitle>Turner Construction Company EEO Plan</unittitle>
             <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container altrender="Legal Document Case" id="aspace_3cf110f8070cc30eb232c2f570da3182" label="Mixed Materials" type="Box">67</container>
-            <container id="aspace_55f8157a0cba4443b123f8393384aa0f" parent="aspace_3cf110f8070cc30eb232c2f570da3182" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_502ef818be69228ff734f426ef75ac02" label="Mixed Materials" type="Box">67</container>
+            <container id="aspace_524153f8937fa7863cf43dc5951dc0db" parent="aspace_502ef818be69228ff734f426ef75ac02" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_881197270b3f1056c0d7d2acd2faa60f" level="file">
           <did>
             <unittitle>Transportation and highways</unittitle>
             <unitdate normal="1970/1971" type="inclusive">1970-71</unitdate>
-            <container altrender="Legal Document Case" id="aspace_8d4c2ed57211cbccff0c56b629712ec1" label="Mixed Materials" type="Box">67</container>
-            <container id="aspace_db6aeca40bf198da3b477ada5eaa2356" parent="aspace_8d4c2ed57211cbccff0c56b629712ec1" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_929b9bc506aaef6a2382600e4386ac5c" label="Mixed Materials" type="Box">67</container>
+            <container id="aspace_83082a43cfac6c79262a07f37c5beb07" parent="aspace_929b9bc506aaef6a2382600e4386ac5c" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_859ce752b2b0f72837e6fc3c22d41644" level="file">
           <did>
             <unittitle>Transportation</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_6b435f789fc9ebcebc0a9ff23b83bf3c" label="Mixed Materials" type="Box">68</container>
-            <container id="aspace_ed9f0f7de17dce3c34a2719f538c29b4" parent="aspace_6b435f789fc9ebcebc0a9ff23b83bf3c" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_5fa45dbf8cf44563865e3225768cf46a" label="Mixed Materials" type="Box">68</container>
+            <container id="aspace_1c4474c01fca4ed2ee59ade0d60d95b2" parent="aspace_5fa45dbf8cf44563865e3225768cf46a" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_42fbea551faec9f8a3fe07f4679a276a" level="file">
           <did>
             <unittitle>Union Station</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_70bade30c7546f85b8cc4d5c89f6fc95" label="Mixed Materials" type="Box">68</container>
-            <container id="aspace_c96beb13db03897e42122218d70c13ec" parent="aspace_70bade30c7546f85b8cc4d5c89f6fc95" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_a9430be7c5d12aa3eda04273c872ae49" label="Mixed Materials" type="Box">68</container>
+            <container id="aspace_4525db31cea06788fb97df6401a9bd2b" parent="aspace_a9430be7c5d12aa3eda04273c872ae49" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_f73203e7b663f1471564f122c288198e" level="file">
           <did>
             <unittitle>Visitors Survey</unittitle>
             <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
-            <container altrender="Legal Document Case" id="aspace_016711857e247a7c161198e66a908b03" label="Mixed Materials" type="Box">68</container>
-            <container id="aspace_218a32767567b2db95a53aec52aca04a" parent="aspace_016711857e247a7c161198e66a908b03" type="Folder">3</container>
+            <container altrender="Legal Document Case" id="aspace_cc8dc91ad1dee23e6f8c97aab37a7960" label="Mixed Materials" type="Box">68</container>
+            <container id="aspace_8f2ac679287ced726f65a0ba766da84c" parent="aspace_cc8dc91ad1dee23e6f8c97aab37a7960" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_c4e803fd6a3f887540e48bed403f49a2" level="file">
           <did>
             <unittitle>YMCA site information</unittitle>
             <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
-            <container altrender="Legal Document Case" id="aspace_c3304e89308406a3dbd8a260e7567758" label="Mixed Materials" type="Box">68</container>
-            <container id="aspace_e729eee5485e5093eef5919129ff8646" parent="aspace_c3304e89308406a3dbd8a260e7567758" type="Folder">4</container>
+            <container altrender="Legal Document Case" id="aspace_8d578af6b2ebff50c31105425999388d" label="Mixed Materials" type="Box">68</container>
+            <container id="aspace_947f668e86a28ed184ffcd10bae40b7b" parent="aspace_8d578af6b2ebff50c31105425999388d" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_9033d62d12d66007e78621e7a349a6af" level="file">
           <did>
             <unittitle>Sports Arena/Convention Center</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_907363e4424b4087a86bc73dccede810" label="Mixed Materials" type="Box">68</container>
-            <container id="aspace_e3f31064423d773f15c3194ff44ecfaf" parent="aspace_907363e4424b4087a86bc73dccede810" type="folder">5</container>
+            <container altrender="Legal Document Case" id="aspace_5cd16847ab33ae9f2fe8337742d5ce12" label="Mixed Materials" type="Box">68</container>
+            <container id="aspace_7e44395c12261b7b18d825c46b5ed301" parent="aspace_5cd16847ab33ae9f2fe8337742d5ce12" type="folder">5</container>
           </did>
         </c>
         <c id="aspace_c87afe16ba53d562d498c7ba730f4b7d" level="file">
           <did>
             <unittitle>Zoning</unittitle>
             <unitdate normal="1958/1979" type="inclusive">1958-1979</unitdate>
-            <container altrender="Legal Document Case" id="aspace_be0b411ecbad9792a6d754850ba98ba1" label="Mixed Materials" type="Box">69</container>
-            <container id="aspace_af8d49f46cbba3e0d1d489361751cd33" parent="aspace_be0b411ecbad9792a6d754850ba98ba1" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_d49bc3596a4e3fca4e9ac87c52a5be23" label="Mixed Materials" type="Box">69</container>
+            <container id="aspace_70fbe869d404bdb9926478543abce21f" parent="aspace_d49bc3596a4e3fca4e9ac87c52a5be23" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_1ac7e68dcaecf55e985a6c7a9535fb3f" level="file">
           <did>
             <unittitle>Zoning</unittitle>
             <unitdate normal="1958/1979" type="inclusive">1958-1979</unitdate>
-            <container altrender="Legal Document Case" id="aspace_6fbd91f3c2cf506d1c7ac7f449e212cf" label="Mixed Materials" type="Box">70</container>
-            <container id="aspace_1a8484f4eda4ec5a791d0072dd303d4b" parent="aspace_6fbd91f3c2cf506d1c7ac7f449e212cf" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_f5c0cfc8664fc24aacb3b204cb46f4a0" label="Mixed Materials" type="Box">70</container>
+            <container id="aspace_f71081f0d7beaa69659818f2952c847d" parent="aspace_f5c0cfc8664fc24aacb3b204cb46f4a0" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_9cd80eda18d8ad60951db140bf2b5493" level="file">
           <did>
             <unittitle>Zoning</unittitle>
             <unitdate normal="1958/1979" type="inclusive">1958-1979</unitdate>
-            <container altrender="Legal Document Case" id="aspace_1a484c1b46d2018b68f39a2b8f4e6525" label="Mixed Materials" type="Box">71</container>
-            <container id="aspace_329df991f091b9d03f2d0616d96a7817" parent="aspace_1a484c1b46d2018b68f39a2b8f4e6525" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_503fb3a25806523b66f0448987040b3d" label="Mixed Materials" type="Box">71</container>
+            <container id="aspace_f1bfd4fd5a6f9b7d84954694bdf1de2f" parent="aspace_503fb3a25806523b66f0448987040b3d" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_dbdac6b5df2e09a57b76a802680bcadb" level="file">
           <did>
             <unittitle>Zoning</unittitle>
             <unitdate normal="1958/1979" type="inclusive">1958-1979</unitdate>
-            <container altrender="Legal Document Case" id="aspace_3699a65afb15b373a7dca3470c49c095" label="Mixed Materials" type="Box">72</container>
-            <container id="aspace_ac3e6881c325b24c661fd177d8116420" parent="aspace_3699a65afb15b373a7dca3470c49c095" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_3a8817518ecccc72faee0034ed720a00" label="Mixed Materials" type="Box">72</container>
+            <container id="aspace_fdce4548177c3ea7f707def8cd8add3a" parent="aspace_3a8817518ecccc72faee0034ed720a00" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_4bab72369f1ea2d22d01466e82b8b490" level="file">
           <did>
             <unittitle>Square 214-250</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_8a3b7f12aceb0db856fe98236e923a4c" label="Mixed Materials" type="Box">73</container>
-            <container id="aspace_7c414e6e282bbb9f8be79cb0e19de0e5" parent="aspace_8a3b7f12aceb0db856fe98236e923a4c" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_b91a79b6df8c9815829430579e7383f7" label="Mixed Materials" type="Box">73</container>
+            <container id="aspace_9395a5acfe86d14d73c308b1e8d16b0c" parent="aspace_b91a79b6df8c9815829430579e7383f7" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_8fc2d991ab09f5408b4c0d7cec4ea511" level="file">
           <did>
             <unittitle>Squares 251-284</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_093360909ad24198a8625db7e5b28571" label="Mixed Materials" type="Box">74</container>
-            <container id="aspace_c0cd406264e8b0918774d5c255ca7753" parent="aspace_093360909ad24198a8625db7e5b28571" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_9bff92ebfe80795fe94283d363a9753a" label="Mixed Materials" type="Box">74</container>
+            <container id="aspace_1b12e24b174c866507b5615c00ed1054" parent="aspace_9bff92ebfe80795fe94283d363a9753a" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_9c78ca23408d828ed3d77b40d37d76fc" level="file">
           <did>
             <unittitle>Squares 285-321</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_2ee9bfa917dacf293b1587b4588d2342" label="Mixed Materials" type="Box">75</container>
-            <container id="aspace_a51f064f3a90d3e231afce8019ebfc54" parent="aspace_2ee9bfa917dacf293b1587b4588d2342" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_37527ad1151e13347c60f66118159edb" label="Mixed Materials" type="Box">75</container>
+            <container id="aspace_b672e0b46aaeedd9a95d0bf323953c2e" parent="aspace_37527ad1151e13347c60f66118159edb" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_1e62879975f3c2b47c618cad56fbe5c1" level="file">
           <did>
             <unittitle>Squares 322-377</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_9f2a4a4232bec346ac66cf31a7538410" label="Mixed Materials" type="Box">76</container>
-            <container id="aspace_6dbba2455db0a8f7cef8a16f5fa3426e" parent="aspace_9f2a4a4232bec346ac66cf31a7538410" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_8c6d5c41e3e551b7f861a39534819357" label="Mixed Materials" type="Box">76</container>
+            <container id="aspace_88933502c9f951065cdb0fcbfe3226cb" parent="aspace_8c6d5c41e3e551b7f861a39534819357" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_3fb232f5303507dd50aca70fe8fa0929" level="file">
           <did>
             <unittitle>Squares 379-429</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_098fb63bf58f08c5a259f34f20ad169c" label="Mixed Materials" type="Box">77</container>
-            <container id="aspace_1aa7a2ca9d34ec381f4a9f8bc21f9360" parent="aspace_098fb63bf58f08c5a259f34f20ad169c" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_4dbb82a53e226c7b85d6f4b04112f76c" label="Mixed Materials" type="Box">77</container>
+            <container id="aspace_93d5d71079ad6e371c6074de4b51ed49" parent="aspace_4dbb82a53e226c7b85d6f4b04112f76c" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_1a41d33972920cff8f63fd0336e068d9" level="file">
           <did>
             <unittitle>Squares 451-491</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_3c32542f0374178b2008a914a7c7d661" label="Mixed Materials" type="Box">78</container>
-            <container id="aspace_2332c35b66836c30884ff5b21746b978" parent="aspace_3c32542f0374178b2008a914a7c7d661" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_2e26eb3760ea0fb61172cca8395fbdd6" label="Mixed Materials" type="Box">78</container>
+            <container id="aspace_b6f6eab97c395ecf53fa415b51d772e5" parent="aspace_2e26eb3760ea0fb61172cca8395fbdd6" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_7f640572f586dcd9ee7367bb07641c31" level="file">
           <did>
             <unittitle>Squares 514-562</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_85ef257d767e573e40fd594048abae00" label="Mixed Materials" type="Box">79</container>
-            <container id="aspace_db20d9ce408f9d487e017e5e04861fc2" parent="aspace_85ef257d767e573e40fd594048abae00" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_0161bf8dbe0b66f17895653c864edc62" label="Mixed Materials" type="Box">79</container>
+            <container id="aspace_e178f0c6ec47f4dc4dec220959f5f432" parent="aspace_0161bf8dbe0b66f17895653c864edc62" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_eb5542a2ac1decd14e9fe1063f214298" level="file">
           <did>
             <unittitle>Squares 564-630</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_87c87751676310bdbf2eb061080240ee" label="Mixed Materials" type="Box">80</container>
-            <container id="aspace_daa0ada37c679e249430b815d08bdba7" parent="aspace_87c87751676310bdbf2eb061080240ee" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_200893a4aa0ad2bf730644be9eb2745d" label="Mixed Materials" type="Box">80</container>
+            <container id="aspace_4f4e2c6c5e2dc62741b22ee67dcb4fc5" parent="aspace_200893a4aa0ad2bf730644be9eb2745d" type="Folder">1</container>
           </did>
         </c>
       </c>
@@ -1492,48 +1496,48 @@ The folders are arranged chronologically.</p>
           <did>
             <unittitle>Gallery Place suit</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_311af7e604c8c7de38773b0b6e128f1f" label="Mixed Materials" type="Box">81</container>
-            <container id="aspace_4ee3274cb9f00e3f377fd53291a5a4c8" parent="aspace_311af7e604c8c7de38773b0b6e128f1f" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_c2c87447a90826a7c6510122a49a4389" label="Mixed Materials" type="Box">81</container>
+            <container id="aspace_6b9f6c632a65a88550a1a672f0842297" parent="aspace_c2c87447a90826a7c6510122a49a4389" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_00da3830ad418515e572185ca737e655" level="file">
           <did>
             <unittitle>WMATA</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container altrender="Legal Document Case" id="aspace_5c5ce7ab246c205f45cd51ea3acebdc8" label="Mixed Materials" type="Box">81</container>
-            <container id="aspace_4ceb4f44171dd6bd9aa1d60c817d0bda" parent="aspace_5c5ce7ab246c205f45cd51ea3acebdc8" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_88336fbecb9cac828abef374f0279efc" label="Mixed Materials" type="Box">81</container>
+            <container id="aspace_33c8bac6de1336ed23d0732bb0110956" parent="aspace_88336fbecb9cac828abef374f0279efc" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_22c51e731ed084e3753f1fa78b94a16c" level="file">
           <did>
             <unittitle>Businessmen Against Second Year Action Plan (BASYAP)</unittitle>
             <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
-            <container altrender="Legal Document Case" id="aspace_bdebe94cc3f523987adb85f142c56e01" label="Mixed Materials" type="Box">82</container>
-            <container id="aspace_0a7860c6bbdd998c8256a2919f5add64" parent="aspace_bdebe94cc3f523987adb85f142c56e01" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_4b2919b4719c121a912d8df788058a9e" label="Mixed Materials" type="Box">82</container>
+            <container id="aspace_275d0e6252e8b38766b2291838ebdb5f" parent="aspace_4b2919b4719c121a912d8df788058a9e" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_2cf1fbb393d0d267173ae2d1d6dd441b" level="file">
           <did>
             <unittitle>BASYAP NDP#3</unittitle>
             <unitdate normal="1969/1972" type="inclusive">1969-1972</unitdate>
-            <container altrender="Legal Document Case" id="aspace_5da6d2f304fe5104c82e4885c2697a57" label="Mixed Materials" type="Box">82</container>
-            <container id="aspace_7623361212932ef9ba8c9f63a21e4cd9" parent="aspace_5da6d2f304fe5104c82e4885c2697a57" type="Folder">2</container>
+            <container altrender="Legal Document Case" id="aspace_8343a37fa8078e0929f02b12ab0a21d2" label="Mixed Materials" type="Box">82</container>
+            <container id="aspace_4403dd8b20dc5a623c33bb234d0695ce" parent="aspace_8343a37fa8078e0929f02b12ab0a21d2" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_2b32a423317c54c30a45c491e735327a" level="file">
           <did>
             <unittitle>BASYAP</unittitle>
             <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
-            <container altrender="Legal Document Case" id="aspace_0b8113b1623a75f4946ca9258dd418fc" label="Mixed Materials" type="Box">83</container>
-            <container id="aspace_81cde49c36c0bdef36d47d14cb0b6ae4" parent="aspace_0b8113b1623a75f4946ca9258dd418fc" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_31956fa8a344d6054457762c9ebce7af" label="Mixed Materials" type="Box">83</container>
+            <container id="aspace_ed799199482f6e922c1e53a903ffc7a6" parent="aspace_31956fa8a344d6054457762c9ebce7af" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_676dbbde08c50697915e67dbbc68cef5" level="file">
           <did>
             <unittitle>BASYAP</unittitle>
             <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
-            <container altrender="Legal Document Case" id="aspace_ff2d6fb4572065613cb91257c788dea0" label="Mixed Materials" type="Box">84</container>
-            <container id="aspace_eb7bed6945c61618682a35c763711d53" parent="aspace_ff2d6fb4572065613cb91257c788dea0" type="Folder">1</container>
+            <container altrender="Legal Document Case" id="aspace_8bb8b6988801de7db25420273ce285bd" label="Mixed Materials" type="Box">84</container>
+            <container id="aspace_387fef3ac4a1d7369b712e8e5a22879e" parent="aspace_8bb8b6988801de7db25420273ce285bd" type="Folder">1</container>
           </did>
         </c>
       </c>
@@ -1557,32 +1561,32 @@ The folders are arranged chronologically.</p>
             <did>
               <unittitle>Photographs</unittitle>
               <unitdate certainty="approximate" normal="1960/1969" type="inclusive">1960s</unitdate>
-              <container altrender="Legal Document Case" id="aspace_b6e6fc751a8088b10e8a42138cbe6654" label="Mixed Materials" type="Box">85</container>
-              <container id="aspace_39ad3fce30d2793efdbf114697cea148" parent="aspace_b6e6fc751a8088b10e8a42138cbe6654" type="Folder">1</container>
+              <container altrender="Legal Document Case" id="aspace_ac4e9504aecc5fa2ed3d0eaa427b0eda" label="Mixed Materials" type="Box">85</container>
+              <container id="aspace_bad44c77abd41a32848447b40035cc3e" parent="aspace_ac4e9504aecc5fa2ed3d0eaa427b0eda" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_2dab99064b2079bba0b4f4c00443694a" level="file">
             <did>
               <unittitle>Photographs</unittitle>
               <unitdate certainty="approximate" normal="1960/1969" type="inclusive">1960s</unitdate>
-              <container altrender="Legal Document Case" id="aspace_853590b69afeaed11e125bfdde18324b" label="Mixed Materials" type="Box">86</container>
-              <container id="aspace_601a5ce6672c8de7069aeb002a1ff9f2" parent="aspace_853590b69afeaed11e125bfdde18324b" type="Folder">1</container>
+              <container altrender="Legal Document Case" id="aspace_a232fe402fbb6062337e54bb6ac5297d" label="Mixed Materials" type="Box">86</container>
+              <container id="aspace_ba063b87406b630119a07640bd084dc2" parent="aspace_a232fe402fbb6062337e54bb6ac5297d" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_335294a2538407534eb1182d4cc61579" level="file">
             <did>
               <unittitle>Sketches</unittitle>
               <unitdate certainty="approximate" normal="1960/1969" type="inclusive">1960s</unitdate>
-              <container altrender="Legal Document Case" id="aspace_94d34a81ec43418bba2a019f17ca615e" label="Mixed Materials" type="Box">87</container>
-              <container id="aspace_4da7960d56e4a3d87cf60cfec9893654" parent="aspace_94d34a81ec43418bba2a019f17ca615e" type="Folder">1</container>
+              <container altrender="Legal Document Case" id="aspace_0766b0ac33a177ea456a382aa347d138" label="Mixed Materials" type="Box">87</container>
+              <container id="aspace_1aea3fdb104d5a583763da1407bf96a7" parent="aspace_0766b0ac33a177ea456a382aa347d138" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_a14de3ac22874e8e70ec395460d33dca" level="file">
             <did>
               <unittitle>Photographs of F Street</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container altrender="Drop Front Box (11 1/2 x 9 x 3)" id="aspace_0fdad63b533c7d452773b34cbcda2706" label="Mixed Materials" type="Box">88</container>
-              <container id="aspace_8c461e6efb8fc30c61d6d39865b8f1ff" parent="aspace_0fdad63b533c7d452773b34cbcda2706" type="Folder">1</container>
+              <container altrender="Drop Front Box (11 1/2 x 9 x 3)" id="aspace_f903e4a3cae95dcdaf4ea4b803e37e2f" label="Mixed Materials" type="Box">88</container>
+              <container id="aspace_06e67aa1e458caf41df0267398cc5a6d" parent="aspace_f903e4a3cae95dcdaf4ea4b803e37e2f" type="Folder">1</container>
             </did>
           </c>
         </c>
@@ -1598,112 +1602,112 @@ The folders are arranged chronologically.</p>
             <did>
               <unittitle>Slides of F Street</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container altrender="Flat Storage Box (15 x 11 x 3)" id="aspace_961a721a8b37e75d5287b3a52b1cf9b7" label="Mixed Materials" type="Box">89</container>
-              <container id="aspace_9c3d55a60ebb75cd515b8900e34dd5b6" parent="aspace_961a721a8b37e75d5287b3a52b1cf9b7" type="Folder">1</container>
+              <container altrender="Flat Storage Box (15 x 11 x 3)" id="aspace_f07af85a42c727e2e7d72615c3bf97d1" label="Mixed Materials" type="Box">89</container>
+              <container id="aspace_54d759c05a44bffdda96ae28c49ad556" parent="aspace_f07af85a42c727e2e7d72615c3bf97d1" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_661ebdc1b818c6f6c86aa2f55e8deac0" level="file">
             <did>
               <unittitle>Squares 213-223</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container altrender="Legal Document Case" id="aspace_42af967aaf03317adacfa563cb9ae39e" label="Mixed Materials" type="Box">90</container>
-              <container id="aspace_2e8f9a66973584ecb44ae8d0fa4ca4e1" parent="aspace_42af967aaf03317adacfa563cb9ae39e" type="Folder">1</container>
+              <container altrender="Legal Document Case" id="aspace_2846137b8ae21546363bb9fb87262391" label="Mixed Materials" type="Box">90</container>
+              <container id="aspace_e7ef01a75bb60e24b2ff15aa1d489374" parent="aspace_2846137b8ae21546363bb9fb87262391" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_431e39daee1ee167c6d75c6875d69f1d" level="file">
             <did>
               <unittitle>Squares 224-253</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container altrender="Legal Document Case" id="aspace_9bb519d7f9ba6204fa05714f9832139c" label="Mixed Materials" type="Box">91</container>
-              <container id="aspace_8eee2588b2ba520f1ee791f2802b17ce" parent="aspace_9bb519d7f9ba6204fa05714f9832139c" type="Folder">1</container>
+              <container altrender="Legal Document Case" id="aspace_c755c37b78ec380bec31fd69e32c62b2" label="Mixed Materials" type="Box">91</container>
+              <container id="aspace_cc7eed38be0b7a82dd549adef26a060a" parent="aspace_c755c37b78ec380bec31fd69e32c62b2" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_cf961902b4a87d6bb30b68cbab85a3b8" level="file">
             <did>
               <unittitle>Squares 254-290</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container altrender="Legal Document Case" id="aspace_34b3e16ab28c8dd5ac23e95da8a15a04" label="Mixed Materials" type="Box">92</container>
-              <container id="aspace_0b52f4d80b76fb2490aa491c682aca2d" parent="aspace_34b3e16ab28c8dd5ac23e95da8a15a04" type="Folder">1</container>
+              <container altrender="Legal Document Case" id="aspace_65131d74e2080348f391a21e0e86f575" label="Mixed Materials" type="Box">92</container>
+              <container id="aspace_30cb43389210a50f69a140f425eaf9b1" parent="aspace_65131d74e2080348f391a21e0e86f575" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_a10270d0ebede17626792428d97cda63" level="file">
             <did>
               <unittitle>Squares 291-346</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container altrender="Legal Document Case" id="aspace_d04f2b27249d7d67d729445c177ae247" label="Mixed Materials" type="Box">93</container>
-              <container id="aspace_df8be77e48901b24eb1202a8eab40a3a" parent="aspace_d04f2b27249d7d67d729445c177ae247" type="Folder">1</container>
+              <container altrender="Legal Document Case" id="aspace_96f511963f78ec403ab0a8ece49090df" label="Mixed Materials" type="Box">93</container>
+              <container id="aspace_9ba88dba90f720304442a4de52d0e1f4" parent="aspace_96f511963f78ec403ab0a8ece49090df" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_781b8bc03720e571a7ec8482ee6250b0" level="file">
             <did>
               <unittitle>Squares 347-401</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container altrender="Legal Document Case" id="aspace_cadd625fdd6aa413cf975edcb335f62d" label="Mixed Materials" type="Box">94</container>
-              <container id="aspace_5b4f2d8359fd948305d4e304bb4cd8a4" parent="aspace_cadd625fdd6aa413cf975edcb335f62d" type="Folder">1</container>
+              <container altrender="Legal Document Case" id="aspace_53b4880c68c0c18228114b91b7c0cc56" label="Mixed Materials" type="Box">94</container>
+              <container id="aspace_da0b5a60d89259cbfcd5a4c9a05ccfed" parent="aspace_53b4880c68c0c18228114b91b7c0cc56" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_8683846bf5ff0eb987384f2819f2d4df" level="file">
             <did>
               <unittitle>Squares 402-428</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container altrender="Legal Document Case" id="aspace_4f0399f5c5c7fdb19f629dc612438357" label="Mixed Materials" type="Box">95</container>
-              <container id="aspace_f4e2975529f5fcf12acfaeab88783a93" parent="aspace_4f0399f5c5c7fdb19f629dc612438357" type="Folder">1</container>
+              <container altrender="Legal Document Case" id="aspace_9e6fbb036dd6b4b634dad5509d0ba6ab" label="Mixed Materials" type="Box">95</container>
+              <container id="aspace_66440bb61df3206bd853ba11d7543036" parent="aspace_9e6fbb036dd6b4b634dad5509d0ba6ab" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_9e69c0975401a642cc290d64a3c89fc6" level="file">
             <did>
               <unittitle>Squares 429-458</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container altrender="Legal Document Case" id="aspace_077eabeb051a3a47f6b8475e5876c69b" label="Mixed Materials" type="Box">96</container>
-              <container id="aspace_b736f156ccb57bdce31491fb20540587" parent="aspace_077eabeb051a3a47f6b8475e5876c69b" type="Folder">1</container>
+              <container altrender="Legal Document Case" id="aspace_e722a09f2845d2bf1f22945f4f7ea8a8" label="Mixed Materials" type="Box">96</container>
+              <container id="aspace_b4e292d146181fd7ab9c1ade4df8fed0" parent="aspace_e722a09f2845d2bf1f22945f4f7ea8a8" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_419c4b28895d98671af63ab8c7949549" level="file">
             <did>
               <unittitle>Squares 459-491</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container altrender="Legal Document Case" id="aspace_162738eb378235a2d320d3244a6695d4" label="Mixed Materials" type="Box">97</container>
-              <container id="aspace_c5a311cbe08d65819b0f4e5ead1eeda8" parent="aspace_162738eb378235a2d320d3244a6695d4" type="Folder">1</container>
+              <container altrender="Legal Document Case" id="aspace_052b5a84c92a7cc0248a87e714e6cfa8" label="Mixed Materials" type="Box">97</container>
+              <container id="aspace_6c5ccb7c3dc820dc9e5aca1ad86ef336" parent="aspace_052b5a84c92a7cc0248a87e714e6cfa8" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_f30bc27f3581d097835712609821adf1" level="file">
             <did>
               <unittitle>Squares 514-529</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container altrender="Legal Document Case" id="aspace_c3dab4bf98958bd3b4ea22c7d296fd07" label="Mixed Materials" type="Box">98</container>
-              <container id="aspace_8a7a70bd87de7e5303e4629b4a67b12e" parent="aspace_c3dab4bf98958bd3b4ea22c7d296fd07" type="Folder">1</container>
+              <container altrender="Legal Document Case" id="aspace_e0e8d20912df2cd03309f53e3cde4cfb" label="Mixed Materials" type="Box">98</container>
+              <container id="aspace_e6c8e19c2b4bfe3a6fe6da95e91a6e65" parent="aspace_e0e8d20912df2cd03309f53e3cde4cfb" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_433d78bdbf9c3b13520692c5c5439ee6" level="file">
             <did>
               <unittitle>Squares 530-631</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container altrender="Legal Document Case" id="aspace_d47f5b1a3614c80b78c818e46854ae76" label="Mixed Materials" type="Box">99</container>
-              <container id="aspace_22d99fbe54e9273ffaaa0e950e176e4a" parent="aspace_d47f5b1a3614c80b78c818e46854ae76" type="Folder">1</container>
+              <container altrender="Legal Document Case" id="aspace_1f3e79a1ab33aa45e01a504596213c86" label="Mixed Materials" type="Box">99</container>
+              <container id="aspace_09983dc519639025cb46ed8a4611fefa" parent="aspace_1f3e79a1ab33aa45e01a504596213c86" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_d25805e76b9692725f71c9ec15ce5e97" level="file">
             <did>
               <unittitle>Unidentified slides</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container altrender="Letter Document Case (Slim)" id="aspace_bb8fcef8b28aafcde522b8233b827b8a" label="Mixed Materials" type="Box">100</container>
-              <container id="aspace_8d7724caf6170aee687977e4492a9a0b" parent="aspace_bb8fcef8b28aafcde522b8233b827b8a" type="Folder">1</container>
+              <container altrender="Letter Document Case (Slim)" id="aspace_cb56a24d111355ffe1fe135f06b39afa" label="Mixed Materials" type="Box">100</container>
+              <container id="aspace_a00b0d70e0ff4468514acb9262d96ec0" parent="aspace_cb56a24d111355ffe1fe135f06b39afa" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_7462c85727dba22ab9d38935ca25424c" level="file">
             <did>
               <unittitle>Unidentified slides</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container altrender="Letter Document Case" id="aspace_153ea4b31d18b58fd01b74d0ae69a662" label="Mixed Materials" type="Box">101</container>
-              <container id="aspace_9a760f61e80b6fcd3ca66fa712cd3297" parent="aspace_153ea4b31d18b58fd01b74d0ae69a662" type="Folder">1</container>
+              <container altrender="Letter Document Case" id="aspace_fc9117889032740286dab4d6694fc383" label="Mixed Materials" type="Box">101</container>
+              <container id="aspace_00c9200af5e2b0bc9be5fb2d56cbfa54" parent="aspace_fc9117889032740286dab4d6694fc383" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_e528c6d013b411de89bc8d2943aa1cfa" level="file">
             <did>
               <unittitle>Unidentified slides</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container altrender="Letter Document Case" id="aspace_0507175ef0734abe5b18090a7e37ed69" label="Mixed Materials" type="Box">102</container>
-              <container id="aspace_67131866a84afbabadd756a032bc6957" parent="aspace_0507175ef0734abe5b18090a7e37ed69" type="Folder">1</container>
+              <container altrender="Letter Document Case" id="aspace_3a1b08131c11a3f1f40c411ac364f94f" label="Mixed Materials" type="Box">102</container>
+              <container id="aspace_f84923a4bba17855cd2fb4116d13d980" parent="aspace_3a1b08131c11a3f1f40c411ac364f94f" type="Folder">1</container>
             </did>
           </c>
         </c>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2021-02-09 12:24:16 -0500">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>People's Archive, MLK Library</name>
+      <note/>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="463">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Landing zone.jpg</mods:title>
+          </mods:titleInfo>
+          <mods:identifier>ddc7e1a1-9ca4-4e72-b9e8-e8f56c4fda73</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:language>
+            <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">c9a6ca4b-b9e4-4434-b870-db390e454555</mods:note>
+          <mods:accessCondition type="useAndReproduction">Contact an archivist for conditions governing use.</mods:accessCondition>
+          <mods:accessCondition type="restrictionOnAccess">Contact an archivist for conditions governing access.</mods:accessCondition>
+          <mods:note displayLabel="Digital object made available by">People's Archive, MLK Library, 901 G Street NW, Washington, DC</mods:note>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec>
+    <fileGrp USE="">
+      <file GROUPID="463" ID="2625">
+        <FLocat xlink:href="https://ampipeline-dcpl.wrlc.org/archival-storage/download/aip/file/ddc7e1a1-9ca4-4e72-b9e8-e8f56c4fda73-Landing_zone.jpg"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="463" LABEL="Landing zone.jpg" ORDER="1" TYPE="item">
+      <fptr FILEID="2625"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="463" LABEL="Landing zone.jpg" ORDER="1" TYPE="item">
+      <fptr FILEID="2625"/>
+    </div>
+  </structMap>
+</mets>
+

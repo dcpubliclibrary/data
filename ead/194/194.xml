@@ -1,0 +1,843 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://thepeoplesarchive.dclibrary.org">194CIT_RWHC</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Center for Inspired Teaching 'Real World History' Oral History Project</titleproper>
+        <titleproper>Center for Inspired Teaching 'Real World History' Oral History Project <num>194</num></titleproper>
+        <subtitle>An inventory of Center for Inspired Teaching 'Real World History' Oral History Project at DC Public Library</subtitle>
+        <author>Laura Farley</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>People's Archive, MLK Library</publisher>
+        <p>
+          <date>2020-12-01</date>
+        </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>peoples.archive@dc.gov</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-02-09 10:05:19 -0500</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>People's Archive, MLK Library</corpname>
+      </repository>
+      <unittitle>Center for Inspired Teaching 'Real World History' Oral History Project</unittitle>
+      <origination label="creator">
+        <corpname source="local">Center for Inspired Teaching</corpname>
+      </origination>
+      <unitid>194</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">27.1 Gigabytes</extent>
+        <extent altrender="carrier">DIG_0029</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">228 Files</extent>
+        <extent altrender="carrier">DIG_0029</extent>
+      </physdesc>
+      <unitdate normal="2014/2014" type="inclusive">2014-</unitdate>
+      <langmaterial id="aspace_4ee517bd55ac5375e97ac91213538f8a">English</langmaterial>
+    </did>
+    <arrangement id="aspace_ab19c4cd5b572c2b9e2f739d63279c32">
+      <head>Arrangement</head>
+      <p>Interviews are grouped by academic year.</p>
+    </arrangement>
+    <bioghist id="aspace_f51fa50c0fd13e16779ae7a7493c5344">
+      <head>Biographical / Historical</head>
+      <p>The Center for Inspired Teaching's Real World History (RWH) is a city-wide high school history course that gives students applied history experience and exposes them to public history work through the cultural heritage institutions of the D.C. region. Each fall RWH students learn about the Great Migration through reading The Warmth of Other Suns, by Isabel Wilkerson, and embark on a semester-long oral history project with a Washingtonian who came to D.C. as part of the Migration. Together students and their narrators record life history interviews about the experience of migrating from the Jim Crow South to the D.C. Region.</p>
+    </bioghist>
+    <custodhist id="aspace_2ca42734febc7b6e1aa5fa0bb5f03dcd">
+      <head>Custodial History</head>
+      <p>The collection was donated to the Library in 2020 by The Center for Inspired Teaching.</p>
+    </custodhist>
+    <processinfo id="aspace_67151af8de1b350c28f8c019fcbf2bea">
+      <head>Processing Information</head>
+      <p>The collection recieved minimal processing. Files were renamed to adhere to DCPL naming conventions.</p>
+    </processinfo>
+    <scopecontent id="aspace_03dc63dec403015ce72b571ae2c75942">
+      <head>Content Description</head>
+      <p>Oral history interviews recorded by students in the Real World History class at Center for Inspired Teaching.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85047009" source="Library of Congress Subject Headings">Families</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85001932" source="Library of Congress Subject Headings">African Americans</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85090662" source="Library of Congress Subject Headings">Neighborhoods</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85095238" source="Library of Congress Subject Headings">Oral History</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85085069" source="Library of Congress Subject Headings">Migration, Internal</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_0c55837af00f58a5498083cf2695ab83" level="series">
+        <did>
+          <unittitle>Series 1: 2014-2015 School Year</unittitle>
+          <unitdate normal="2014/2014">2014</unitdate>
+          <langmaterial id="aspace_ab186fd223968a39cf4d9bc0f42717a0">English</langmaterial>
+        </did>
+        <c id="aspace_e6c51415b77908b682d9844203f4b6f3" level="subseries">
+          <did>
+            <unittitle>Sub-Series 1: Interviews</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <langmaterial id="aspace_4110f24f3a9f23a7b199c392fc1e3cab">English</langmaterial>
+          </did>
+          <c id="aspace_39b508a4ca62a78fad260a0dddc0aed7" level="item">
+            <did>
+              <unittitle>Donella Matthews interview</unittitle>
+              <unitdate normal="2014-12-08/2014-12-08">2014-12-08</unitdate>
+              <langmaterial id="aspace_cc3a523c540b4638d5c0b9a55239c404">English</langmaterial>
+            </did>
+            <bioghist id="aspace_5a93d72be919f646a44aa123c3922024">
+              <head>Biographical / Historical</head>
+              <p>Mrs. Donella Matthews was born December 27, 1937, in Cuthbert, Georgia. She left her hometown in September of 1956 to attend Tennessee State University where she majored in business education. While at Tennessee State, Mrs. Mathews met her husband, John Edward Mathews, and the two married a year after they met. Mr. Matthews decided to relocate the family to the D.C. region after he got a job at the Annapolis Gazette, and they moved into their current home in Washington, D.C., in 1969. Mrs. Mathews became an educator, and she and her husband had one daughter. Mrs. Mathews passed away on January 7, 2017.</p>
+            </bioghist>
+            <scopecontent id="aspace_0813105827e3811d04494cc662213fab">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Donella Mathews, a long time D.C. resident, discusses her experiences moving from Cuthbert, Georgia, to Washington, D.C. She discusses her education, her decision to move to D.C., and her life in Washington.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_277e3fb989116d1e5185b7ddee6b3b39" level="item">
+            <did>
+              <unittitle>Fannie Webb Taylor interview</unittitle>
+              <unitdate normal="2014-11-16/2014-11-16">2014-11-16</unitdate>
+              <langmaterial id="aspace_8ef492bf86cbce8775d7c9adb680709d">English</langmaterial>
+            </did>
+            <bioghist id="aspace_756afd5cea02dc5456ecdad9d94e2bce">
+              <head>Biographical / Historical</head>
+              <p>Mrs. Fannie Webb Taylor was born in New Orleans, Louisiana, on March 29, 1925, and had four sisters. Though she had a close relationship with her father, he left New Orleans in search of employment and never returned. Her mother worked as a "special-occasion" cook for white people in New Orleans, and the family had a difficult time financially after her father left. As a teenager, Mrs. Taylor worked as a night switchboard operator at Flint-Goodridge Hospital of Dillard University and attended the YMCA School of Commerce. After passing the civil service clerk typists' examination, her mother finally allowed Mrs. Taylor to leave New Orleans and she moved to Washington, D.C., in 1943 just before her 18th birthday. She began working at the Pentagon immediately upon arrival and moved in with her cousin who was renting a room at 800 P Street NW. While working as a clerk typist Mrs. Taylor married her husband, Vernon Robert Taylor, a civil engineering student at Howard University, and she left her job when he sponsored her through D.C. Teacher's College where she majored in English and History. After she and her husband had their second child, Mrs. Taylor began her teaching career at Benjamin Banneker Junior High School. She also received a Master of Arts in Teaching and a Certificate of Advanced Graduate Studies from Howard University. Mrs. Taylor was an active community member and a part of Zeta Phi Beta Sorority, National Council of Negro Women, Asbury United Methodist Church, and the Rollingcrest Senior Center. Mrs. Taylor passed away on December 18, 2017.</p>
+            </bioghist>
+            <scopecontent id="aspace_fa9bc72a1792cb7c39021e15ebf3813d">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Fannie Webb Taylor, a long time D.C. resident, discusses her experiences moving from New Orleans, Louisiana, to Washington, D.C.. She recalls her background in New Orleans and her reasons for moving north, as well as her journey to D.C. She also discusses how she established herself in the city, her work for the government, her personal life in Washington, and how she became a teacher at Banneker Junior High School.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_c40e9cef56c667ebaae7c931c53fb542" level="item">
+            <did>
+              <unittitle>Reverend Irene Pierce interview</unittitle>
+              <unitdate normal="2014-11-16/2014-11-16">2014-11-16</unitdate>
+              <langmaterial id="aspace_8cf15d2b0d477e7e976dbc2809d59267">English</langmaterial>
+            </did>
+            <bioghist id="aspace_8356fb7bf511dcf8205c96e17f65794a">
+              <head>Biographical / Historical</head>
+              <p>Rev. Irene Pierce was born on August 28, 1926, in Pickens, South Carolina. Rev. Pierce's father was killed shortly after she was born, and she and her two older siblings were raised by her mother, grandparents, and extended family. At age eight, Rev. Pierce came to Washington to live with her aunt and uncle. After graduating from Cardozo High School in 1943, she began a forty-year career with the Federal Government. During her time in the government, Rev. Pierce worked for the Department of Treasury, the National Production Authority, and the Department of Commerce. Rev. Pierce grew up attending both a Baptist and a Methodist church and comes from a long line of Methodist ministers. She began attending Asbury Methodist Church in 1945 and, after retiring from the government, went into the ministry and became a pastor in 1993. After pastoring her own church, she returned to Asbury as an Assistant Pastor. Rev. Pierce has a daughter, two granddaughters, and one great-granddaughter.</p>
+            </bioghist>
+            <scopecontent id="aspace_98c41a0bd02ac3d0abaa9af1cc34b0cc">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Rev. Irene Pierce, a long time D.C. resident, discusses her experiences moving from Pickens, South Carolina, to Washington, D.C. She reflects on her family life and upbringing in Pickens, her move to D.C. at age eight, and her educational experiences in Washington. Rev. Pierce also discusses her career in government as well as her church life and work in the ministry.</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_729616a13a0d8cdb2aa1439613df358c" level="subseries">
+          <did>
+            <unittitle>Sub-Series 2: Indexes</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <langmaterial id="aspace_f7354636bae5ae2e677c1d7b6e340342">English</langmaterial>
+          </did>
+          <c id="aspace_47dc2c81cdaffa52411057ef1e790157" level="item">
+            <did>
+              <unittitle>Fannie Webb Taylor index</unittitle>
+              <unitdate normal="2014-11-16/2014-11-16">2014-11-16</unitdate>
+              <langmaterial id="aspace_c9698e1c585a8943c5da7a6bb8b56fe5">English</langmaterial>
+            </did>
+            <bioghist id="aspace_9ed8975c5bb04356694d27617a4bda1d">
+              <head>Biographical / Historical</head>
+              <p>Mrs. Fannie Webb Taylor was born in New Orleans, Louisiana, on March 29, 1925, and had four sisters. Though she had a close relationship with her father, he left New Orleans in search of employment and never returned. Her mother worked as a "special-occasion" cook for white people in New Orleans, and the family had a difficult time financially after her father left. As a teenager, Mrs. Taylor worked as a night switchboard operator at Flint-Goodridge Hospital of Dillard University and attended the YMCA School of Commerce. After passing the civil service clerk typists' examination, her mother finally allowed Mrs. Taylor to leave New Orleans and she moved to Washington, D.C., in 1943 just before her 18th birthday. She began working at the Pentagon immediately upon arrival and moved in with her cousin who was renting a room at 800 P Street NW. While working as a clerk typist Mrs. Taylor married her husband, Vernon Robert Taylor, a civil engineering student at Howard University, and she left her job when he sponsored her through D.C. Teacher's College where she majored in English and History. After she and her husband had their second child, Mrs. Taylor began her teaching career at Benjamin Banneker Junior High School. She also received a Master of Arts in Teaching and a Certificate of Advanced Graduate Studies from Howard University. Mrs. Taylor was an active community member and a part of Zeta Phi Beta Sorority, National Council of Negro Women, Asbury United Methodist Church, and the Rollingcrest Senior Center. Mrs. Taylor passed away on December 18, 2017.</p>
+            </bioghist>
+            <scopecontent id="aspace_04591e1505774ce5525df223a1dc4fad">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Fannie Webb Taylor, a long time D.C. resident, discusses her experiences moving from New Orleans, Louisiana, to Washington, D.C.. She recalls her background in New Orleans and her reasons for moving north, as well as her journey to D.C. She also discusses how she established herself in the city, her work for the government, her personal life in Washington, and how she became a teacher at Banneker Junior High School.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_e9bc1d38e1ff63ca9b8f580c6a68f2d0" level="item">
+            <did>
+              <unittitle>Reverend Irene Pierce index</unittitle>
+              <unitdate normal="2014-11-16/2014-11-16">2014-11-16</unitdate>
+              <langmaterial id="aspace_3ad0752dbbe5b07cab7fb5abf178f7da">English</langmaterial>
+            </did>
+            <bioghist id="aspace_ec8a3fe1b2349b79c1b223a33e2aefde">
+              <head>Biographical / Historical</head>
+              <p>Rev. Irene Pierce was born on August 28, 1926, in Pickens, South Carolina. Rev. Pierce's father was killed shortly after she was born, and she and her two older siblings were raised by her mother, grandparents, and extended family. At age eight, Rev. Pierce came to Washington to live with her aunt and uncle. After graduating from Cardozo High School in 1943, she began a forty-year career with the Federal Government. During her time in the government, Rev. Pierce worked for the Department of Treasury, the National Production Authority, and the Department of Commerce. Rev. Pierce grew up attending both a Baptist and a Methodist church and comes from a long line of Methodist ministers. She began attending Asbury Methodist Church in 1945 and, after retiring from the government, went into the ministry and became a pastor in 1993. After pastoring her own church, she returned to Asbury as an Assistant Pastor. Rev. Pierce has a daughter, two granddaughters, and one great-granddaughter.</p>
+            </bioghist>
+            <scopecontent id="aspace_94220dbb6ea7a095e0833d50d15a8bd3">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Rev. Irene Pierce, a long time D.C. resident, discusses her experiences moving from Pickens, South Carolina, to Washington, D.C. She reflects on her family life and upbringing in Pickens, her move to D.C. at age eight, and her educational experiences in Washington. Rev. Pierce also discusses her career in government as well as her church life and work in the ministry.</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_26193ee3a85e9103b3dd963f499ce565" level="subseries">
+          <did>
+            <unittitle>Sub-Series 3: Transcripts</unittitle>
+            <unitdate normal="2014/2014">2014</unitdate>
+            <langmaterial id="aspace_04e3480d75450e6d075ca0bcecfc9914">English</langmaterial>
+          </did>
+          <c id="aspace_ce119447ddb24a91e3a5a0c023aaeb81" level="item">
+            <did>
+              <unittitle>Donella Matthews transcript</unittitle>
+              <unitdate normal="2014-12-08/2014-12-08">2014-12-08</unitdate>
+              <langmaterial id="aspace_e89112193bfce96a7b07bb51ec7719f6">English</langmaterial>
+            </did>
+            <bioghist id="aspace_1590edd815e1580ab774b4bf9bec24f3">
+              <head>Biographical / Historical</head>
+              <p>Mrs. Donella Matthews was born December 27, 1937, in Cuthbert, Georgia. She left her hometown in September of 1956 to attend Tennessee State University where she majored in business education. While at Tennessee State, Mrs. Mathews met her husband, John Edward Mathews, and the two married a year after they met. Mr. Matthews decided to relocate the family to the D.C. region after he got a job at the Annapolis Gazette, and they moved into their current home in Washington, D.C., in 1969. Mrs. Mathews became an educator, and she and her husband had one daughter. Mrs. Mathews passed away on January 7, 2017.</p>
+            </bioghist>
+            <scopecontent id="aspace_770984efbc697096cff93c8c5fabbe3f">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Donella Mathews, a long time D.C. resident, discusses her experiences moving from Cuthbert, Georgia, to Washington, D.C. She discusses her education, her decision to move to D.C., and her life in Washington.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_ca007ecd43a5f27a3897f4dc76f05c56" level="item">
+            <did>
+              <unittitle>Fannie Webb Taylor transcript</unittitle>
+              <unitdate normal="2014-11-16/2014-11-16">2014-11-16</unitdate>
+              <langmaterial id="aspace_a45559090f9cbd6162bdf3e2249ab987">English</langmaterial>
+            </did>
+            <bioghist id="aspace_1e160402088243b31217204ee3773746">
+              <head>Biographical / Historical</head>
+              <p>Mrs. Fannie Webb Taylor was born in New Orleans, Louisiana, on March 29, 1925, and had four sisters. Though she had a close relationship with her father, he left New Orleans in search of employment and never returned. Her mother worked as a "special-occasion" cook for white people in New Orleans, and the family had a difficult time financially after her father left. As a teenager, Mrs. Taylor worked as a night switchboard operator at Flint-Goodridge Hospital of Dillard University and attended the YMCA School of Commerce. After passing the civil service clerk typists' examination, her mother finally allowed Mrs. Taylor to leave New Orleans and she moved to Washington, D.C., in 1943 just before her 18th birthday. She began working at the Pentagon immediately upon arrival and moved in with her cousin who was renting a room at 800 P Street NW. While working as a clerk typist Mrs. Taylor married her husband, Vernon Robert Taylor, a civil engineering student at Howard University, and she left her job when he sponsored her through D.C. Teacher's College where she majored in English and History. After she and her husband had their second child, Mrs. Taylor began her teaching career at Benjamin Banneker Junior High School. She also received a Master of Arts in Teaching and a Certificate of Advanced Graduate Studies from Howard University. Mrs. Taylor was an active community member and a part of Zeta Phi Beta Sorority, National Council of Negro Women, Asbury United Methodist Church, and the Rollingcrest Senior Center. Mrs. Taylor passed away on December 18, 2017.</p>
+            </bioghist>
+            <scopecontent id="aspace_c2233f53c80944e580823142f16a7c18">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Fannie Webb Taylor, a long time D.C. resident, discusses her experiences moving from New Orleans, Louisiana, to Washington, D.C.. She recalls her background in New Orleans and her reasons for moving north, as well as her journey to D.C. She also discusses how she established herself in the city, her work for the government, her personal life in Washington, and how she became a teacher at Banneker Junior High School.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_c30191cf5802a53cbbf723fdae1387dd" level="item">
+            <did>
+              <unittitle>Reverend Irene Pierce transcript</unittitle>
+              <unitdate normal="2014-11-16/2014-11-16">2014-11-16</unitdate>
+              <langmaterial id="aspace_e5b19a29d1c526953159b3cd49f8ea8c">English</langmaterial>
+            </did>
+            <bioghist id="aspace_f7b822d184538685639dafd1f64f7285">
+              <head>Biographical / Historical</head>
+              <p>Rev. Irene Pierce was born on August 28, 1926, in Pickens, South Carolina. Rev. Pierce's father was killed shortly after she was born, and she and her two older siblings were raised by her mother, grandparents, and extended family. At age eight, Rev. Pierce came to Washington to live with her aunt and uncle. After graduating from Cardozo High School in 1943, she began a forty-year career with the Federal Government. During her time in the government, Rev. Pierce worked for the Department of Treasury, the National Production Authority, and the Department of Commerce. Rev. Pierce grew up attending both a Baptist and a Methodist church and comes from a long line of Methodist ministers. She began attending Asbury Methodist Church in 1945 and, after retiring from the government, went into the ministry and became a pastor in 1993. After pastoring her own church, she returned to Asbury as an Assistant Pastor. Rev. Pierce has a daughter, two granddaughters, and one great-granddaughter.</p>
+            </bioghist>
+            <scopecontent id="aspace_d55519666530dcf78c303f0f1bbf4df7">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Rev. Irene Pierce, a long time D.C. resident, discusses her experiences moving from Pickens, South Carolina, to Washington, D.C. She reflects on her family life and upbringing in Pickens, her move to D.C. at age eight, and her educational experiences in Washington. Rev. Pierce also discusses her career in government as well as her church life and work in the ministry.</p>
+            </scopecontent>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_c91c1062c604f4252cae8da9c48ae8ae" level="series">
+        <did>
+          <unittitle>Series 2: 2015-2016 School Year</unittitle>
+          <unitdate normal="2015/2016" type="inclusive">2015-2016</unitdate>
+          <langmaterial id="aspace_e45e4a40eb907a412aadfe4a9fcbe582">English</langmaterial>
+        </did>
+        <c id="aspace_ff8b9e506b6942d1bea86732fe88e259" level="subseries">
+          <did>
+            <unittitle>Sub-Series 1: Interviews</unittitle>
+            <unitdate normal="2015/2016" type="inclusive">2015-2016</unitdate>
+            <langmaterial id="aspace_46fbf158f81176698d519e2123c48c4c">English</langmaterial>
+          </did>
+          <c id="aspace_485996d8f57d682ba8a4f05d25ba71e6" level="item">
+            <did>
+              <unittitle>Eleanor Kelly interview</unittitle>
+              <unitdate normal="2015-12-01/2015-12-01">2015-12-01</unitdate>
+              <langmaterial id="aspace_245380e3ad78e93cb4a8ce46f5fbbf4c">English</langmaterial>
+            </did>
+            <bioghist id="aspace_c33e9fe1e5665cc0338eaf7728796d73">
+              <head>Biographical / Historical</head>
+              <p>Eleanor Kelly was born in Blaney, South Carolina. Though her parents were sharecroppers when she was born, the family did well and they bought their own land and built a house by the time she was a teenager. Before finishing high school, Mrs. Kelly moved to Washington, D.C., with her Aunt Rebecca and enrolled in Cortez Peters Business College. Mrs. Kelly later moved in with her sister Alberta and her family, and they moved to New York when her brother-in-law was stationed in Staten Island. Mrs. Kelly returned to Washington to live with another sister after Alberta's husband was stationed overseas. After returning to Washington, she worked at WTOP for several years before working for the government. After marrying her husband, Moses Kelly, Mrs. Kelly moved all around the country due to Mr. Kelly's work for the Secret Service. She and her husband had one daughter, Doris. After Mr. Kelly's retirement, Mrs. Kelly and her husband moved back to Blythewood, South Carolina, to live in her family's home.</p>
+            </bioghist>
+            <scopecontent id="aspace_964eaeee73ac5605267e311a113ecae9">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Eleanor Kelly, a long time D.C. resident, discusses her experiences moving from Blythewood, South Carolina, to Washington, D.C. She recalls her early life in both Blaney and Blythewood, South Carolina, and her move to Washington when she was in high school. Mrs. Kelly discusses her early years in D.C., moving to Staten Island with her sister and brother-in-law, as well as her return to Washington. She also talks about moving to California with her husband later in her life.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_037ec1227dc9de47e3c0050f78d95394" level="item">
+            <did>
+              <unittitle>Caesar Dudley interview</unittitle>
+              <unitdate normal="2015-12-18/2015-12-18">2015-12-18</unitdate>
+              <langmaterial id="aspace_9335025cf679a7b55c36ac5c5688de7d">English</langmaterial>
+            </did>
+            <bioghist id="aspace_3c5f8b0553a5cdef8ffcb02954cb8a44">
+              <head>Biographical / Historical</head>
+              <p>Caesar Dudley was born in Sandersville, Georgia, and was his parents' only child. His father was a farmer, and his mother was a domestic worker. When Mr. Dudley graduated from high school in 1941 (the Black high school in Sandersville did not go beyond the 11th grade), his parents send him to live with relatives in Washington, D.C., where he studied accounting and business at Cortez Peters Business College. Mr. Dudley then joined the military and served in the Army for three years (1943-1946). While in the Army, he served overseas and visited places such as France, Germany, the Mediterranean, Japan, and Korea. Upon returning to the U.S., Mr. Dudley continued his education with the help of the G.I. Bill. He also married in 1949 and had two sons. He then worked for eighteen years at the Department of the Army and another seventeen years as a courtroom deputy clerk for the U.S. District Court. Mr. Dudley retired in the 1980s, and passed away in 2018.</p>
+            </bioghist>
+            <scopecontent id="aspace_4df0d2fcfb933542ceaeb355885f4824">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Caesar Dudley, a long time D.C. resident, discusses his experiences moving from Sandersville, Georgia, to Washington, D.C. He discusses his upbringing in Sandersville, his reasons for moving north, and the cultural differences between where he grew up and D.C. He also reflects on Sandersville, the South, and the cultural shifts that took place in the District over decades.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_0b081479fda501640d2f28792b869bb2" level="item">
+            <did>
+              <unittitle>Damita Jo Goldsmith interview</unittitle>
+              <unitdate normal="2016-02-01/2016-02-01">2016-02-01</unitdate>
+              <langmaterial id="aspace_dd45a1edfe8e759215286a1f950d9185">English</langmaterial>
+            </did>
+            <bioghist id="aspace_1d72e432be8dbac4d31f76dedf72c8b1">
+              <head>Biographical / Historical</head>
+              <p>Damita Jo Goldsmith was born July 29, 1951, in Dennison, Texas, the oldest of her parents' five children. Since her father was in the Air Force, she moved to Guam with her family at age seven. After living in Guam for two years, the family relocated again to the Philippines for another two-year period. Ms. Goldsmith and her family returned to the U.S. in 1962, and the family migrated to the D.C. region after a month's stay with her father's family in Louisiana. After living in the District for a year and attending J. C. Nalle Elementary School, Ms. Goldsmith and her family moved to Chapel Oaks, Maryland. After a few years in Chapel Oaks, they moved to Capitol Heights, Maryland, and she graduated from Fairmont Heights High School the year before integration in that area, 1969. Ms. Goldsmith went on to attend Morgan State University where she met her husband and graduated in 1973. The two married a few years after graduation and had two sons. Ms. Goldsmith began her career at UPS as a part-time clerk in 1979 and later joined the management team. She retired in 2007 and has worked as the senior activity coordinator at the Glenarden Community Rec Center since then.</p>
+            </bioghist>
+            <scopecontent id="aspace_b55fa1a828ec2c28c8f52b4c425dc330">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview Damita Jo Goldsmith discusses her life and experiences settling in the Washington, D.C., region as a child. She discusses her upbringing in a military family, her family's move from Louisiana to Washington, her educational experiences in the D.C. region, her career at UPS, and her post-retirement work at the Glenarden Community Rec Center.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_9b2ca3e7e306048a82e5dc3c16ef45f4" level="item">
+            <did>
+              <unittitle>Julius Watson interview</unittitle>
+              <unitdate normal="2016-04-06/2016-04-06">2016-04-06</unitdate>
+              <langmaterial id="aspace_478dc9253fc1b83019ab1ee792c6fc6b">English</langmaterial>
+            </did>
+            <bioghist id="aspace_e1434717a1452b5f1458114b6cd196fd">
+              <head>Biographical / Historical</head>
+              <p>Born and raised in South Carolina, Julius Watson was the oldest of his parents' children and grew up in a small, two-bedroom house with his sister, mother, grandmother, two aunts, and three cousins. Being in the Navy, his father was not around during his upbringing. Mr. Watson was a good athlete as a young man and played football in high school. After being arrested and jailed for three days for a crime he didn't commit, Mr. Watson moved to Washington, D.C., in 1968 to live with his grandmother for a short time. He then moved to Connecticut to live with his father who was working at Wesleyan University. While living with his father Mr. Watson received a scholarship to play football at Wesleyan. They then moved to St. Thomas before Mr. Watson returned to Washington, D.C. He went on to get married and have three children with his wife before the two got a divorced. Today he is a grandfather and likes to take his grandkids out fishing, among other excursions.</p>
+            </bioghist>
+            <scopecontent id="aspace_54691bc03991bbe7fc537a80b39714ef">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Julius Watson, a long time D.C. resident, discusses his experiences moving from South Carolina to Washington, D.C. He talks about cultural differences he sees between the South and D.C., his marriage, and his relationships with his children and grandchildren. He also discusses his upbringing in South Carolina, his love of sports, race relations in the South, time spent living in Connecticut and St. Thomas, and his love of music. He also reflects on the decision to leave South Carolina as well as the lessons he has learned after living in the city for over 45 years.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_8489f7b239b8c9fcb9444c79c8f7770d" level="item">
+            <did>
+              <unittitle>Kathy Elaine Senior interview</unittitle>
+              <unitdate normal="2016-01-16/2016-01-16">2016-01-16</unitdate>
+              <langmaterial id="aspace_ed86800bc7d6a1973bf0b1a3028bc2e8">English</langmaterial>
+            </did>
+            <bioghist id="aspace_9555259e8084ce045a0d635a117b0023">
+              <head>Biographical / Historical</head>
+              <p>Kathy Elaine Senior was born on April 17, 1941, in Columbus, Georgia. She grew up with her parents, Dennis and Maggie Senior, as well as her younger brother, Dennis Senior, Jr. Ms. Senior's mother was a registered nurse at the Columbus City Hospital for thirty years and met her husband there when she was a student nurse. Following in her mother's footsteps, Ms. Senior moved to Washington to attend Freedmen's Hospital School of Nursing in 1959 and graduated in 1962. She then had a 48-year career as a registered nurse (27 years at St. Elizabeths Hospital and 21 years as a self-employed nurse). Since retiring from nursing, Ms. Senior has worked with her brother on a business venture called 5Linx Incorporated. Ms. Senior loves to travel internationally and is passionate about social justice causes.</p>
+            </bioghist>
+            <scopecontent id="aspace_ba42e42a7aa53a03c9c1cea263857832">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Kathy Elaine Senior, a long time D.C. resident, discusses her experiences moving from Columbus, Georgia, to Washington, D.C. She reflects on her upbringing in Columbus, race relations in the city during her childhood, and reasons she moved to Washington. She also talks about her time at Freedmen's Hospital School of Nursing, her career at St. Elizabeths Hospital, and her activism in Washington.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_235bba8c6261ffe8337bbc7e934e3d43" level="item">
+            <did>
+              <unittitle>Henry Breedlove interview</unittitle>
+              <unitdate normal="2016-01-01/2016-01-01">2016-01-01</unitdate>
+              <langmaterial id="aspace_d3040a7943b1996f9b9b61a7ce50d98d">English</langmaterial>
+            </did>
+            <bioghist id="aspace_8accb9d8cf0cd75b9dcf069e38b215ae">
+              <head>Biographical / Historical</head>
+              <p>Born in Vienna, Georgia, in 1939, Henry Breedlove was born to a large family with 10 siblings. His parents worked as sharecroppers and Mr. Breedlove and his siblings worked with them. At 18 his parents sent him to live with in his sister in Washington, D.C. He quickly got a construction job working and remained in the industry for his entire career. He lived with his sister until 1971 when he married his wife and got his own place. In 1999 they moved to Temple Hills, Maryland. He and his wife had one son who passed away in 2013.</p>
+            </bioghist>
+            <scopecontent id="aspace_ecedeabe6bd5952b35315b7afe825cb9">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Henry Breedlove, a long time D.C. resident, discusses his experiences moving from Vienna, Georgia, to Washington, D.C. He talks about his upbringing in Vienna as well as how his parents sent him to live in Washington when he was 18 years old (in 1957) since they feared for his life after a confrontation he had with some white people. Mr. Breedlove also discusses his career in construction, his relationship with his wife, the passing of their son in 2013, and the role of religion in his life.</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_146c806fccc58abbf48600569a82f608" level="subseries">
+          <did>
+            <unittitle>Sub-Series 2: Indexes</unittitle>
+            <unitdate normal="2015/2016" type="inclusive">2015-2016</unitdate>
+            <langmaterial id="aspace_f1d20d7c3d777b30b056525d242d06ef">English</langmaterial>
+          </did>
+          <c id="aspace_682615a8e27767a3637e2d32cf272b97" level="item">
+            <did>
+              <unittitle>Eleanor Kelly index</unittitle>
+              <unitdate normal="2015-12-01/2015-12-01">2015-12-01</unitdate>
+              <langmaterial id="aspace_482804cd80be86524d23c7ec2b164325">English</langmaterial>
+            </did>
+            <bioghist id="aspace_2196f1ffa230155d1e5358a27eecfc4c">
+              <head>Biographical / Historical</head>
+              <p>Eleanor Kelly was born in Blaney, South Carolina. Though her parents were sharecroppers when she was born, the family did well and they bought their own land and built a house by the time she was a teenager. Before finishing high school, Mrs. Kelly moved to Washington, D.C., with her Aunt Rebecca and enrolled in Cortez Peters Business College. Mrs. Kelly later moved in with her sister Alberta and her family, and they moved to New York when her brother-in-law was stationed in Staten Island. Mrs. Kelly returned to Washington to live with another sister after Alberta's husband was stationed overseas. After returning to Washington, she worked at WTOP for several years before working for the government. After marrying her husband, Moses Kelly, Mrs. Kelly moved all around the country due to Mr. Kelly's work for the Secret Service. She and her husband had one daughter, Doris. After Mr. Kelly's retirement, Mrs. Kelly and her husband moved back to Blythewood, South Carolina, to live in her family's home.</p>
+            </bioghist>
+            <scopecontent id="aspace_07f1deefb140a67b8f59b862693e9391">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Eleanor Kelly, a long time D.C. resident, discusses her experiences moving from Blythewood, South Carolina, to Washington, D.C. She recalls her early life in both Blaney and Blythewood, South Carolina, and her move to Washington when she was in high school. Mrs. Kelly discusses her early years in D.C., moving to Staten Island with her sister and brother-in-law, as well as her return to Washington. She also talks about moving to California with her husband later in her life.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_5a036d2129885e6c702aed91bcda603b" level="item">
+            <did>
+              <unittitle>Caesar Dudley index</unittitle>
+              <unitdate normal="2015-12-18/2015-12-18">2015-12-18</unitdate>
+              <langmaterial id="aspace_29a755b5965e9aba9f72d211f0391aab">English</langmaterial>
+            </did>
+            <bioghist id="aspace_3959337ef08047217e0846af07a3cbb0">
+              <head>Biographical / Historical</head>
+              <p>Caesar Dudley was born in Sandersville, Georgia, and was his parents' only child. His father was a farmer, and his mother was a domestic worker. When Mr. Dudley graduated from high school in 1941 (the Black high school in Sandersville did not go beyond the 11th grade), his parents send him to live with relatives in Washington, D.C., where he studied accounting and business at Cortez Peters Business College. Mr. Dudley then joined the military and served in the Army for three years (1943-1946). While in the Army, he served overseas and visited places such as France, Germany, the Mediterranean, Japan, and Korea. Upon returning to the U.S., Mr. Dudley continued his education with the help of the G.I. Bill. He also married in 1949 and had two sons. He then worked for eighteen years at the Department of the Army and another seventeen years as a courtroom deputy clerk for the U.S. District Court. Mr. Dudley retired in the 1980s, and passed away in 2018.</p>
+            </bioghist>
+            <scopecontent id="aspace_5195784a611cdcf1ef6bf91c86bf7bb4">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Caesar Dudley, a long time D.C. resident, discusses his experiences moving from Sandersville, Georgia, to Washington, D.C. He discusses his upbringing in Sandersville, his reasons for moving north, and the cultural differences between where he grew up and D.C. He also reflects on Sandersville, the South, and the cultural shifts that took place in the District over decades.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_08a6c1cd1d5259608572cb9e1334ac8a" level="item">
+            <did>
+              <unittitle>Damita Jo Goldsmith index</unittitle>
+              <unitdate normal="2016-02-01/2016-02-01">2016-02-01</unitdate>
+              <langmaterial id="aspace_2ea9dfd2d86d10a0b21fd8f0e9148738">English</langmaterial>
+            </did>
+            <bioghist id="aspace_ad0ec624f5c8ce8fbb121b8c789a9787">
+              <head>Biographical / Historical</head>
+              <p>Damita Jo Goldsmith was born July 29, 1951, in Dennison, Texas, the oldest of her parents' five children. Since her father was in the Air Force, she moved to Guam with her family at age seven. After living in Guam for two years, the family relocated again to the Philippines for another two-year period. Ms. Goldsmith and her family returned to the U.S. in 1962, and the family migrated to the D.C. region after a month's stay with her father's family in Louisiana. After living in the District for a year and attending J. C. Nalle Elementary School, Ms. Goldsmith and her family moved to Chapel Oaks, Maryland. After a few years in Chapel Oaks, they moved to Capitol Heights, Maryland, and she graduated from Fairmont Heights High School the year before integration in that area, 1969. Ms. Goldsmith went on to attend Morgan State University where she met her husband and graduated in 1973. The two married a few years after graduation and had two sons. Ms. Goldsmith began her career at UPS as a part-time clerk in 1979 and later joined the management team. She retired in 2007 and has worked as the senior activity coordinator at the Glenarden Community Rec Center since then.</p>
+            </bioghist>
+            <scopecontent id="aspace_6f1fd535eb50177ae2809a993ffa027b">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview Damita Jo Goldsmith discusses her life and experiences settling in the Washington, D.C., region as a child. She discusses her upbringing in a military family, her family's move from Louisiana to Washington, her educational experiences in the D.C. region, her career at UPS, and her post-retirement work at the Glenarden Community Rec Center.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_c704072059f8685c94c1048c39f60e88" level="item">
+            <did>
+              <unittitle>Julius Watson index</unittitle>
+              <unitdate normal="2016-04-06/2016-04-06">2016-04-06</unitdate>
+              <langmaterial id="aspace_46b75b43680e1993aa13eff0c64f220f">English</langmaterial>
+            </did>
+            <bioghist id="aspace_a7c7a42a2115f56ffc7f863bf4aa4637">
+              <head>Biographical / Historical</head>
+              <p>Born and raised in South Carolina, Julius Watson was the oldest of his parents' children and grew up in a small, two-bedroom house with his sister, mother, grandmother, two aunts, and three cousins. Being in the Navy, his father was not around during his upbringing. Mr. Watson was a good athlete as a young man and played football in high school. After being arrested and jailed for three days for a crime he didn't commit, Mr. Watson moved to Washington, D.C., in 1968 to live with his grandmother for a short time. He then moved to Connecticut to live with his father who was working at Wesleyan University. While living with his father Mr. Watson received a scholarship to play football at Wesleyan. They then moved to St. Thomas before Mr. Watson returned to Washington, D.C. He went on to get married and have three children with his wife before the two got a divorced. Today he is a grandfather and likes to take his grandkids out fishing, among other excursions.</p>
+            </bioghist>
+            <scopecontent id="aspace_29f796a65018b355398f13407c6c0fec">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Julius Watson, a long time D.C. resident, discusses his experiences moving from South Carolina to Washington, D.C. He talks about cultural differences he sees between the South and D.C., his marriage, and his relationships with his children and grandchildren. He also discusses his upbringing in South Carolina, his love of sports, race relations in the South, time spent living in Connecticut and St. Thomas, and his love of music. He also reflects on the decision to leave South Carolina as well as the lessons he has learned after living in the city for over 45 years.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_5bac2fa4e16d4df4e12f5f673d0c79c2" level="item">
+            <did>
+              <unittitle>Kathy Elaine Senior index</unittitle>
+              <unitdate normal="2016-01-16/2016-01-16">2016-01-16</unitdate>
+              <langmaterial id="aspace_4449841438e69a6aeccadea59783e620">English</langmaterial>
+            </did>
+            <bioghist id="aspace_73ab5634aa0dabb9e54a82ba8f150ab7">
+              <head>Biographical / Historical</head>
+              <p>Kathy Elaine Senior was born on April 17, 1941, in Columbus, Georgia. She grew up with her parents, Dennis and Maggie Senior, as well as her younger brother, Dennis Senior, Jr. Ms. Senior's mother was a registered nurse at the Columbus City Hospital for thirty years and met her husband there when she was a student nurse. Following in her mother's footsteps, Ms. Senior moved to Washington to attend Freedmen's Hospital School of Nursing in 1959 and graduated in 1962. She then had a 48-year career as a registered nurse (27 years at St. Elizabeths Hospital and 21 years as a self-employed nurse). Since retiring from nursing, Ms. Senior has worked with her brother on a business venture called 5Linx Incorporated. Ms. Senior loves to travel internationally and is passionate about social justice causes.</p>
+            </bioghist>
+            <scopecontent id="aspace_959ad634f3fc8d769467e3c5d0ec950c">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Kathy Elaine Senior, a long time D.C. resident, discusses her experiences moving from Columbus, Georgia, to Washington, D.C. She reflects on her upbringing in Columbus, race relations in the city during her childhood, and reasons she moved to Washington. She also talks about her time at Freedmen's Hospital School of Nursing, her career at St. Elizabeths Hospital, and her activism in Washington.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_b5d87fecfe3098baabb8f7ee8be4f739" level="item">
+            <did>
+              <unittitle>Henry Breedlove index</unittitle>
+              <unitdate normal="2016-01-01/2016-01-01">2016-01-01</unitdate>
+              <langmaterial id="aspace_5f654e5291d6f76323e23e0187a1142c">English</langmaterial>
+            </did>
+            <bioghist id="aspace_32b880b82fc9db23b058d78387fb2445">
+              <head>Biographical / Historical</head>
+              <p>Born in Vienna, Georgia, in 1939, Henry Breedlove was born to a large family with 10 siblings. His parents worked as sharecroppers and Mr. Breedlove and his siblings worked with them. At 18 his parents sent him to live with in his sister in Washington, D.C. He quickly got a construction job working and remained in the industry for his entire career. He lived with his sister until 1971 when he married his wife and got his own place. In 1999 they moved to Temple Hills, Maryland. He and his wife had one son who passed away in 2013.</p>
+            </bioghist>
+            <scopecontent id="aspace_912cf57f9114a04b960f1cbdb6abfbca">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Henry Breedlove, a long time D.C. resident, discusses his experiences moving from Vienna, Georgia, to Washington, D.C. He talks about his upbringing in Vienna as well as how his parents sent him to live in Washington when he was 18 years old (in 1957) since they feared for his life after a confrontation he had with some white people. Mr. Breedlove also discusses his career in construction, his relationship with his wife, the passing of their son in 2013, and the role of religion in his life.</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_6966a026f9036626698b0914130728df" level="subseries">
+          <did>
+            <unittitle>Sub-Series 3: Transcripts</unittitle>
+            <unitdate normal="2015/2016" type="inclusive">2015-2016</unitdate>
+            <langmaterial id="aspace_b15a54963719c643e35ff2400d4fe806">English</langmaterial>
+          </did>
+          <c id="aspace_03f277cda8cf89408bcb263187416734" level="item">
+            <did>
+              <unittitle>Eleanor Kelly transcript</unittitle>
+              <unitdate normal="2015-12-01/2015-12-01">2015-12-01</unitdate>
+              <langmaterial id="aspace_772ac2c0b02d2c6921d475b7df55315f">English</langmaterial>
+            </did>
+            <bioghist id="aspace_cd40894588d1aa435918cb3af9ea637b">
+              <head>Biographical / Historical</head>
+              <p>Eleanor Kelly was born in Blaney, South Carolina. Though her parents were sharecroppers when she was born, the family did well and they bought their own land and built a house by the time she was a teenager. Before finishing high school, Mrs. Kelly moved to Washington, D.C., with her Aunt Rebecca and enrolled in Cortez Peters Business College. Mrs. Kelly later moved in with her sister Alberta and her family, and they moved to New York when her brother-in-law was stationed in Staten Island. Mrs. Kelly returned to Washington to live with another sister after Alberta's husband was stationed overseas. After returning to Washington, she worked at WTOP for several years before working for the government. After marrying her husband, Moses Kelly, Mrs. Kelly moved all around the country due to Mr. Kelly's work for the Secret Service. She and her husband had one daughter, Doris. After Mr. Kelly's retirement, Mrs. Kelly and her husband moved back to Blythewood, South Carolina, to live in her family's home.</p>
+            </bioghist>
+            <scopecontent id="aspace_89deca5ab125be0d02475834e1236784">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Eleanor Kelly, a long time D.C. resident, discusses her experiences moving from Blythewood, South Carolina, to Washington, D.C. She recalls her early life in both Blaney and Blythewood, South Carolina, and her move to Washington when she was in high school. Mrs. Kelly discusses her early years in D.C., moving to Staten Island with her sister and brother-in-law, as well as her return to Washington. She also talks about moving to California with her husband later in her life.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_dcd11a87c97ae3cada73fad0cbe78882" level="item">
+            <did>
+              <unittitle>Caesar Dudley transcript</unittitle>
+              <unitdate normal="2015-12-18/2015-12-18">2015-12-18</unitdate>
+              <langmaterial id="aspace_673b31023c42f00cb31be64fd63a2339">English</langmaterial>
+            </did>
+            <bioghist id="aspace_9bd812a4d0b3740313d77afef35c1f61">
+              <head>Biographical / Historical</head>
+              <p>Caesar Dudley was born in Sandersville, Georgia, and was his parents' only child. His father was a farmer, and his mother was a domestic worker. When Mr. Dudley graduated from high school in 1941 (the Black high school in Sandersville did not go beyond the 11th grade), his parents send him to live with relatives in Washington, D.C., where he studied accounting and business at Cortez Peters Business College. Mr. Dudley then joined the military and served in the Army for three years (1943-1946). While in the Army, he served overseas and visited places such as France, Germany, the Mediterranean, Japan, and Korea. Upon returning to the U.S., Mr. Dudley continued his education with the help of the G.I. Bill. He also married in 1949 and had two sons. He then worked for eighteen years at the Department of the Army and another seventeen years as a courtroom deputy clerk for the U.S. District Court. Mr. Dudley retired in the 1980s, and passed away in 2018.</p>
+            </bioghist>
+            <scopecontent id="aspace_57eecc8bedf56178123bf294f4921ee3">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Caesar Dudley, a long time D.C. resident, discusses his experiences moving from Sandersville, Georgia, to Washington, D.C. He discusses his upbringing in Sandersville, his reasons for moving north, and the cultural differences between where he grew up and D.C. He also reflects on Sandersville, the South, and the cultural shifts that took place in the District over decades.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_4b8f193107417f54abe949d500f1b1c3" level="item">
+            <did>
+              <unittitle>Damita Jo Goldsmith transcript</unittitle>
+              <unitdate normal="2016-02-01/2016-02-01">2016-02-01</unitdate>
+              <langmaterial id="aspace_df650d8c80339a2c1de6a4544eecd632">English</langmaterial>
+            </did>
+            <bioghist id="aspace_11bc1513b66e8f3e3ef4bb097967c6c3">
+              <head>Biographical / Historical</head>
+              <p>Damita Jo Goldsmith was born July 29, 1951, in Dennison, Texas, the oldest of her parents' five children. Since her father was in the Air Force, she moved to Guam with her family at age seven. After living in Guam for two years, the family relocated again to the Philippines for another two-year period. Ms. Goldsmith and her family returned to the U.S. in 1962, and the family migrated to the D.C. region after a month's stay with her father's family in Louisiana. After living in the District for a year and attending J. C. Nalle Elementary School, Ms. Goldsmith and her family moved to Chapel Oaks, Maryland. After a few years in Chapel Oaks, they moved to Capitol Heights, Maryland, and she graduated from Fairmont Heights High School the year before integration in that area, 1969. Ms. Goldsmith went on to attend Morgan State University where she met her husband and graduated in 1973. The two married a few years after graduation and had two sons. Ms. Goldsmith began her career at UPS as a part-time clerk in 1979 and later joined the management team. She retired in 2007 and has worked as the senior activity coordinator at the Glenarden Community Rec Center since then.</p>
+            </bioghist>
+            <scopecontent id="aspace_971796173e89d15a30616a35e14f3c36">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview Damita Jo Goldsmith discusses her life and experiences settling in the Washington, D.C., region as a child. She discusses her upbringing in a military family, her family's move from Louisiana to Washington, her educational experiences in the D.C. region, her career at UPS, and her post-retirement work at the Glenarden Community Rec Center.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_7154474b1bb5119cc61182f631bef98f" level="item">
+            <did>
+              <unittitle>Julius Watson transcript</unittitle>
+              <unitdate normal="2016-04-06/2016-04-06">2016-04-06</unitdate>
+              <langmaterial id="aspace_f7bcd3024ba44d2168abe0eb2cb715fe">English</langmaterial>
+            </did>
+            <bioghist id="aspace_59f57f09718e87bebcf9715cd250922f">
+              <head>Biographical / Historical</head>
+              <p>Born and raised in South Carolina, Julius Watson was the oldest of his parents' children and grew up in a small, two-bedroom house with his sister, mother, grandmother, two aunts, and three cousins. Being in the Navy, his father was not around during his upbringing. Mr. Watson was a good athlete as a young man and played football in high school. After being arrested and jailed for three days for a crime he didn't commit, Mr. Watson moved to Washington, D.C., in 1968 to live with his grandmother for a short time. He then moved to Connecticut to live with his father who was working at Wesleyan University. While living with his father Mr. Watson received a scholarship to play football at Wesleyan. They then moved to St. Thomas before Mr. Watson returned to Washington, D.C. He went on to get married and have three children with his wife before the two got a divorced. Today he is a grandfather and likes to take his grandkids out fishing, among other excursions.</p>
+            </bioghist>
+            <scopecontent id="aspace_a43dfa4c78e407b58928ae678ff77651">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Julius Watson, a long time D.C. resident, discusses his experiences moving from South Carolina to Washington, D.C. He talks about cultural differences he sees between the South and D.C., his marriage, and his relationships with his children and grandchildren. He also discusses his upbringing in South Carolina, his love of sports, race relations in the South, time spent living in Connecticut and St. Thomas, and his love of music. He also reflects on the decision to leave South Carolina as well as the lessons he has learned after living in the city for over 45 years.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_03e42e72999bc4a00ae9acd8683e3d03" level="item">
+            <did>
+              <unittitle>Kathy Elaine Senior transcript</unittitle>
+              <unitdate normal="2016-01-16/2016-01-16">2016-01-16</unitdate>
+              <langmaterial id="aspace_c27b5577bee05228d5efc56131c8ca7e">English</langmaterial>
+            </did>
+            <bioghist id="aspace_1a6d76ede78236e893d88eda249f9548">
+              <head>Biographical / Historical</head>
+              <p>Kathy Elaine Senior was born on April 17, 1941, in Columbus, Georgia. She grew up with her parents, Dennis and Maggie Senior, as well as her younger brother, Dennis Senior, Jr. Ms. Senior's mother was a registered nurse at the Columbus City Hospital for thirty years and met her husband there when she was a student nurse. Following in her mother's footsteps, Ms. Senior moved to Washington to attend Freedmen's Hospital School of Nursing in 1959 and graduated in 1962. She then had a 48-year career as a registered nurse (27 years at St. Elizabeths Hospital and 21 years as a self-employed nurse). Since retiring from nursing, Ms. Senior has worked with her brother on a business venture called 5Linx Incorporated. Ms. Senior loves to travel internationally and is passionate about social justice causes.</p>
+            </bioghist>
+            <scopecontent id="aspace_7902d68c18ac770bfe21a1cabf237575">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Kathy Elaine Senior, a long time D.C. resident, discusses her experiences moving from Columbus, Georgia, to Washington, D.C. She reflects on her upbringing in Columbus, race relations in the city during her childhood, and reasons she moved to Washington. She also talks about her time at Freedmen's Hospital School of Nursing, her career at St. Elizabeths Hospital, and her activism in Washington.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_f438f7f26bb75ff1c9951b0010f11e40" level="item">
+            <did>
+              <unittitle>Henry Breedlove transcript</unittitle>
+              <unitdate normal="2016-01-01/2016-01-01">2016-01-01</unitdate>
+              <langmaterial id="aspace_7a56d1d69b6f1fec688c5946fcfa2e2a">English</langmaterial>
+            </did>
+            <bioghist id="aspace_6a6dc4a8d3661296d7d3954bfe31b569">
+              <head>Biographical / Historical</head>
+              <p>Born in Vienna, Georgia, in 1939, Henry Breedlove was born to a large family with 10 siblings. His parents worked as sharecroppers and Mr. Breedlove and his siblings worked with them. At 18 his parents sent him to live with in his sister in Washington, D.C. He quickly got a construction job working and remained in the industry for his entire career. He lived with his sister until 1971 when he married his wife and got his own place. In 1999 they moved to Temple Hills, Maryland. He and his wife had one son who passed away in 2013.</p>
+            </bioghist>
+            <scopecontent id="aspace_6b1d464b7fc0d268e3d1c7b0038dc635">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Henry Breedlove, a long time D.C. resident, discusses his experiences moving from Vienna, Georgia, to Washington, D.C. He talks about his upbringing in Vienna as well as how his parents sent him to live in Washington when he was 18 years old (in 1957) since they feared for his life after a confrontation he had with some white people. Mr. Breedlove also discusses his career in construction, his relationship with his wife, the passing of their son in 2013, and the role of religion in his life.</p>
+            </scopecontent>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_c12862fbcc5825dfbac844a8d2cd81d2" level="series">
+        <did>
+          <unittitle>Series 3: 2016-2017 School Year</unittitle>
+          <unitdate normal="2017/2017">2017</unitdate>
+        </did>
+      </c>
+      <c id="aspace_8017bdd75b34de501eeb0b81bbb2f48c" level="series">
+        <did>
+          <unittitle>Series 4: 2018-2019 School Year</unittitle>
+          <unitdate normal="2018/2018">2018</unitdate>
+        </did>
+        <c id="aspace_6511545aadc045b30cd37cdd7666be77" level="subseries">
+          <did>
+            <unittitle>Sub-Series 1: Interviews</unittitle>
+            <unitdate normal="2018/2018">2018</unitdate>
+            <langmaterial id="aspace_fa04d46521e80aa726c1978e53928af5">English</langmaterial>
+          </did>
+          <c id="aspace_c21dc3c21c80dec3471d01509981a61b" level="item">
+            <did>
+              <unittitle>Edith Crutchfield interview</unittitle>
+              <unitdate normal="2018-12-14/2018-12-14">2018-12-14</unitdate>
+              <langmaterial id="aspace_29270d17841d5f5b08c1c08d6fa0604d">English</langmaterial>
+            </did>
+            <bioghist id="aspace_3ff523c2832638ac49c5eb866dc0a03a">
+              <head>Biographical / Historical</head>
+              <p>Edith Crutchfield was born on August 28th, 1936, in Culpeper, Virginia. Though Culpeper was segregated, she grew up across the street from a medical professional building, which housed white residents. Ms. Crutchfield remarks that though Culpeper was segregated, this was more integration than she experienced living in D.C. due to housing segregation in the city. Ms. Crutchfield came to the District in 1953 at age sixteen and moved in with her oldest sister and brother-in-law. She studied communication at Howard University as well as the University of the District of Columbia and went on to have a career working in libraries. She worked at libraries within the Food and Drug Administration (FDA) and Drug Enforcement Administration (DEA) before retiring from the public sector in 1995. Ms. Crutchfield then began work in private law firms. She had one daughter who passed away in 2015.</p>
+            </bioghist>
+            <scopecontent id="aspace_a291e9a8f099cbd03f17e2b4a312b045">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Edith Crutchfield, a long time D.C. resident, discusses her life and experiences moving from Culpeper, Virginia, to Washington, D.C. Mrs. Crutchfield discusses her upbringing in Culpeper, Virginia, moving to D.C. at age sixteen, and the racial and cultural similarities/differences between the District and the Culpeper. She also discusses the current political climate and the regression she has seen in recent years.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_f7bde47521ebce14f6d5e07b28e741e8" level="item">
+            <did>
+              <unittitle>Eva McLeod interview</unittitle>
+              <unitdate normal="2018-12-07/2018-12-07">2018-12-07</unitdate>
+              <langmaterial id="aspace_882098bb45436ec15092b7cb35af97b5">English</langmaterial>
+            </did>
+            <bioghist id="aspace_8eb6d40d0f67a004a443c9ca31cb08c0">
+              <head>Biographical / Historical</head>
+              <p>Eva M. McLeod was born in 1918 in Albany, Georgia. She celebrated her 100th birthday in July of 2018. Graduating high school as valedictorian when she was 15, she went on to what was then Georgia Normal and Agricultural University, now Albany State University, a public HBCU (Historically black colleges and universities). Mrs. McLeod taught for about two years before moving on to a four-year college in Savannah, Georgia, where she met her husband. She and her husband taught for three years in Georgia before he decided to look for work in D.C. At this point she and her husband had three children, and he felt they needed a greater income. After settling in D.C., she found that life was different yet similar in the Black communities, as many people she knew had settled from southern cities. In thinking about moving from Albany to D.C., working and raising her children, caring for her grandchildren and elderly husband before he passed, Mrs. McLeod remarks that, "I've had my hands full all my life."</p>
+            </bioghist>
+            <scopecontent id="aspace_6c54286dd67a6b87b8cfec6ca291545c">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Eva McLeod, a long time D.C. resident, discusses her life and experiences moving from Albany, Georgia, to Washington, D.C. Mrs. McLeod, now a widow, discusses her upbringing and education in the South, moving to D.C. with her husband in the mid-forties, career with the postal service, and volunteer work to advance equity in D.C. Mrs. McLeod's daughter Kay Washington, also present for the interview, helps answer some questions</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_f5f802284f00d5df57b29710195ed3ac" level="item">
+            <did>
+              <unittitle>James Jackson interview</unittitle>
+              <unitdate normal="2018-12-21/2018-12-21">2018-12-21</unitdate>
+              <langmaterial id="aspace_82901b90b1214344d93483050d858951">English</langmaterial>
+            </did>
+            <bioghist id="aspace_b03f43870ad67efabaaad0681785a368">
+              <head>Biographical / Historical</head>
+              <p>James Jackson was born June 10, 1936, in Oates, South Carolina, but he grew up in nearby Hartsville SC. Mr. Jackson's parents were sharecroppers, and he recalls how landowners exploited farmers and often cheated them at settlement. After finishing high school, Mr. Jackson went into business with his brother building homes, but he eventually decided to move to D.C. since he wasn't making enough to support his growing family. He initially came to D.C. in 1962 without his family, since he wanted to find housing suitable for his wife and children before they came north. He lived with his sister at first, but he was able to secure housing through a job as a building manager and had his family joined him soon after. He worked as a union carpenter for a couple years before landing a job with the Department of Corrections as the facilities manager for a prison. Mr. Jackson retired in 1990.</p>
+            </bioghist>
+            <scopecontent id="aspace_25fefa257fa14b93b0ee7a2b1544708e">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, James Lyde Jackson, a long time D.C. resident, discusses his life and experiences moving from Hartsville, South Carolina to Washington, D.C. Mr. Jackson reflects on his upbringing in Hartsville as the son of sharecroppers, his experiences with segregation, and moving to D.C. in search of better opportunities for his family. He also talks about his children and his career working for the Department of Corrections.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_ae405ff026f2c5547256e1f0b3e144ba" level="item">
+            <did>
+              <unittitle>Joseph Harris interview</unittitle>
+              <unitdate normal="2018-12/2018-12">2018-12</unitdate>
+              <langmaterial id="aspace_272a6ebf7a7bc58e160ad5e7271093b5">English</langmaterial>
+            </did>
+            <bioghist id="aspace_ceff6b5773a48fb666f31264e2d93763">
+              <head>Biographical / Historical</head>
+              <p>Dr. Joseph Harris was born in Rocky Mount, North Carolina. He was raised by his great aunt and grew up attended segregated schools. Most young men in his town picked tobacco to make a living, but Dr. Harris looked to education as his way out, a way, his family emphasized, to "being somebody." He attended Hampton University for a year but because he could not afford to live on campus, he did not enjoy his experience there and went to work in Williamstown, Massachusetts, where his mother lived. After working as a cook at Williams College for a few years, Dr. Harris moved to Schenectady, New York, to work for General Electric. After saving up enough money, he moved to Washington, D.C., to complete his college education at Howard University where he received his undergraduate degree in 1952. While at Howard, Dr. Harris joined Reserve Officers' Training Corps (ROTC) and went into the service upon graduation. He served as an officer in the Korean War between 1952-1954 before returning to Howard to receive a Master's in African Studies in 1956. He then went on to earn a PhD from Northwestern University in Evanston, Illinois, where he met his wife. He completed his doctoral dissertation in Guinea, and later became a professor of history at Howard University.</p>
+            </bioghist>
+            <scopecontent id="aspace_b03427b732534586efc1f8fab7020047">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Dr. Joseph Harris, a long time D.C. resident, discusses his experiences moving from Rocky Mount, North Carolina, to Massachusetts, to Washington, D.C. He discusses his upbringing in Rocky Mount, attending Hampton University for a year, moving to Massachusetts, finishing college at Howard University, joining Reserve Officers' Training Corps (ROTC) and serving in the Korean War, and his academic career as a professor of African Studies.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_b6c1c4fc439b002d03610b9c1e8363fb" level="item">
+            <did>
+              <unittitle>Ruth Anne Lee Cohen interview</unittitle>
+              <unitdate normal="2018-12/2018-12">2018-12</unitdate>
+              <langmaterial id="aspace_cdb9dc461e1fa6e5d6b9b9621f164401">English</langmaterial>
+            </did>
+            <bioghist id="aspace_9ed3800f947d54bb811da6683a17b654">
+              <head>Biographical / Historical</head>
+              <p>Ruth Anne Lee Cohen was born in Savannah, Georgia, in the 1930s. She grew up with her parents, grandmother, and three younger siblings and by age five she was working in her grandmother's confectionary as a cashier. Ms. Cohen's parents and siblings moved to Detroit, Michigan, when she was in the seventh grade leaving her to live with her grandmother. Ms. Cohen attended a segregated Catholic school until seventh grade, at which point she enrolled at Alfred A. Beach High School where she met her husband. After finishing high school, Ms. Cohen attended Savannah State College (now Savannah State University) where she studied elementary education and graduated in 1958. After teaching in Savannah for three years, she moved north to join her husband in Washington. After serving overseas in the military, Ms. Cohen's husband refused to live in the South, and by the time they were married, he had already been living in Washington for a couple years. Ms. Cohen held off on joining him in D.C. until she had taught in Savannah public schools for three years, securing tenure. Once in Washington she continued teaching until her retirement in 1999. She took on other positions after retirement, such as the Business and Professional Women's League, helping students get scholarships to college.</p>
+            </bioghist>
+            <scopecontent id="aspace_ea2417796db06d75434961fc575ab446">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Ruth Anne Lee Cohen, a long time D.C. resident, discusses her life and experiences moving from Savannah, Georgia, to Washington, D.C. She discusses growing up in Savannah and educational experiences there, getting married, and teaching in D.C. until 1999. She talks about her favorite experiences teaching and from her life post-retirement.</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_ebcc94d4125a6587008086f396cc8a7e" level="subseries">
+          <did>
+            <unittitle>Sub-Series 2: Indexes</unittitle>
+            <unitdate normal="2018/2018">2018</unitdate>
+            <langmaterial id="aspace_f8dc4a0af71326e4479be81193c2904e">English</langmaterial>
+          </did>
+          <c id="aspace_2d1e21da246cc018303e4415f957de9e" level="item">
+            <did>
+              <unittitle>Edith Crutchfield index</unittitle>
+              <unitdate normal="2018-12-14/2018-12-14">2018-12-14</unitdate>
+              <langmaterial id="aspace_aa432f15e632da6945d7ec2ab33f0b40">English</langmaterial>
+            </did>
+            <bioghist id="aspace_aab4b1b93b0bdcad886db42d9b234b54">
+              <head>Biographical / Historical</head>
+              <p>Edith Crutchfield was born on August 28th, 1936, in Culpeper, Virginia. Though Culpeper was segregated, she grew up across the street from a medical professional building, which housed white residents. Ms. Crutchfield remarks that though Culpeper was segregated, this was more integration than she experienced living in D.C. due to housing segregation in the city. Ms. Crutchfield came to the District in 1953 at age sixteen and moved in with her oldest sister and brother-in-law. She studied communication at Howard University as well as the University of the District of Columbia and went on to have a career working in libraries. She worked at libraries within the Food and Drug Administration (FDA) and Drug Enforcement Administration (DEA) before retiring from the public sector in 1995. Ms. Crutchfield then began work in private law firms. She had one daughter who passed away in 2015.</p>
+            </bioghist>
+            <scopecontent id="aspace_cfb11e10f7b1a06f594a7649cd5e2413">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Edith Crutchfield, a long time D.C. resident, discusses her life and experiences moving from Culpeper, Virginia, to Washington, D.C. Mrs. Crutchfield discusses her upbringing in Culpeper, Virginia, moving to D.C. at age sixteen, and the racial and cultural similarities/differences between the District and the Culpeper. She also discusses the current political climate and the regression she has seen in recent years.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_fd7e0cac01696a4fbf4df5bfd5a39b90" level="item">
+            <did>
+              <unittitle>Eva McLeod index</unittitle>
+              <unitdate normal="2018-12-07/2018-12-07">2018-12-07</unitdate>
+              <langmaterial id="aspace_1c899b6322b8af41ef37c10f21166ac0">English</langmaterial>
+            </did>
+            <bioghist id="aspace_a87e669384ec0e8ab6da3003a70a4b84">
+              <head>Biographical / Historical</head>
+              <p>Eva M. McLeod was born in 1918 in Albany, Georgia. She celebrated her 100th birthday in July of 2018. Graduating high school as valedictorian when she was 15, she went on to what was then Georgia Normal and Agricultural University, now Albany State University, a public HBCU (Historically black colleges and universities). Mrs. McLeod taught for about two years before moving on to a four-year college in Savannah, Georgia, where she met her husband. She and her husband taught for three years in Georgia before he decided to look for work in D.C. At this point she and her husband had three children, and he felt they needed a greater income. After settling in D.C., she found that life was different yet similar in the Black communities, as many people she knew had settled from southern cities. In thinking about moving from Albany to D.C., working and raising her children, caring for her grandchildren and elderly husband before he passed, Mrs. McLeod remarks that, "I've had my hands full all my life."</p>
+            </bioghist>
+            <scopecontent id="aspace_852d60d0c2d226b0c0cfea43b9a9bc00">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Eva McLeod, a long time D.C. resident, discusses her life and experiences moving from Albany, Georgia, to Washington, D.C. Mrs. McLeod, now a widow, discusses her upbringing and education in the South, moving to D.C. with her husband in the mid-forties, career with the postal service, and volunteer work to advance equity in D.C. Mrs. McLeod's daughter Kay Washington, also present for the interview, helps answer some questions</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_cc82b6526318c37961acbd8002b8bb14" level="item">
+            <did>
+              <unittitle>James Jackson index</unittitle>
+              <unitdate normal="2018-12-21/2018-12-21">2018-12-21</unitdate>
+              <langmaterial id="aspace_8b63ae745bcef95190a3cd9eb9368001">English</langmaterial>
+            </did>
+            <bioghist id="aspace_4bf8c6c3fadfd1dd25efc8b9f0150fcf">
+              <head>Biographical / Historical</head>
+              <p>James Jackson was born June 10, 1936, in Oates, South Carolina, but he grew up in nearby Hartsville SC. Mr. Jackson's parents were sharecroppers, and he recalls how landowners exploited farmers and often cheated them at settlement. After finishing high school, Mr. Jackson went into business with his brother building homes, but he eventually decided to move to D.C. since he wasn't making enough to support his growing family. He initially came to D.C. in 1962 without his family, since he wanted to find housing suitable for his wife and children before they came north. He lived with his sister at first, but he was able to secure housing through a job as a building manager and had his family joined him soon after. He worked as a union carpenter for a couple years before landing a job with the Department of Corrections as the facilities manager for a prison. Mr. Jackson retired in 1990.</p>
+            </bioghist>
+            <scopecontent id="aspace_317ab8935c961fc41bec4bb4e2b09b03">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, James Lyde Jackson, a long time D.C. resident, discusses his life and experiences moving from Hartsville, South Carolina to Washington, D.C. Mr. Jackson reflects on his upbringing in Hartsville as the son of sharecroppers, his experiences with segregation, and moving to D.C. in search of better opportunities for his family. He also talks about his children and his career working for the Department of Corrections.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_dfd3ee34994e083a2064a982916b0929" level="item">
+            <did>
+              <unittitle>Joseph Harris index</unittitle>
+              <unitdate normal="2018-12/2018-12">2018-12</unitdate>
+              <langmaterial id="aspace_842af2878ef3a60caee98c0012226573">English</langmaterial>
+            </did>
+            <bioghist id="aspace_c584b0ed84b5b6f4392ecbc3ce4014e8">
+              <head>Biographical / Historical</head>
+              <p>Dr. Joseph Harris was born in Rocky Mount, North Carolina. He was raised by his great aunt and grew up attended segregated schools. Most young men in his town picked tobacco to make a living, but Dr. Harris looked to education as his way out, a way, his family emphasized, to "being somebody." He attended Hampton University for a year but because he could not afford to live on campus, he did not enjoy his experience there and went to work in Williamstown, Massachusetts, where his mother lived. After working as a cook at Williams College for a few years, Dr. Harris moved to Schenectady, New York, to work for General Electric. After saving up enough money, he moved to Washington, D.C., to complete his college education at Howard University where he received his undergraduate degree in 1952. While at Howard, Dr. Harris joined Reserve Officers' Training Corps (ROTC) and went into the service upon graduation. He served as an officer in the Korean War between 1952-1954 before returning to Howard to receive a Master's in African Studies in 1956. He then went on to earn a PhD from Northwestern University in Evanston, Illinois, where he met his wife. He completed his doctoral dissertation in Guinea, and later became a professor of history at Howard University.</p>
+            </bioghist>
+            <scopecontent id="aspace_46f21b6274428374cb7bcede8e2b3b15">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Dr. Joseph Harris, a long time D.C. resident, discusses his experiences moving from Rocky Mount, North Carolina, to Massachusetts, to Washington, D.C. He discusses his upbringing in Rocky Mount, attending Hampton University for a year, moving to Massachusetts, finishing college at Howard University, joining Reserve Officers' Training Corps (ROTC) and serving in the Korean War, and his academic career as a professor of African Studies.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_0fb3f28126f96be26abbc8161c36995f" level="item">
+            <did>
+              <unittitle>Ruth Anne Lee Cohen index</unittitle>
+              <unitdate normal="2018-12/2018-12">2018-12</unitdate>
+              <langmaterial id="aspace_66db47c91149243ccc367028715483f8">English</langmaterial>
+            </did>
+            <bioghist id="aspace_9835f492c7608f0d2d3feb0fc9800cbc">
+              <head>Biographical / Historical</head>
+              <p>Ruth Anne Lee Cohen was born in Savannah, Georgia, in the 1930s. She grew up with her parents, grandmother, and three younger siblings and by age five she was working in her grandmother's confectionary as a cashier. Ms. Cohen's parents and siblings moved to Detroit, Michigan, when she was in the seventh grade leaving her to live with her grandmother. Ms. Cohen attended a segregated Catholic school until seventh grade, at which point she enrolled at Alfred A. Beach High School where she met her husband. After finishing high school, Ms. Cohen attended Savannah State College (now Savannah State University) where she studied elementary education and graduated in 1958. After teaching in Savannah for three years, she moved north to join her husband in Washington. After serving overseas in the military, Ms. Cohen's husband refused to live in the South, and by the time they were married, he had already been living in Washington for a couple years. Ms. Cohen held off on joining him in D.C. until she had taught in Savannah public schools for three years, securing tenure. Once in Washington she continued teaching until her retirement in 1999. She took on other positions after retirement, such as the Business and Professional Women's League, helping students get scholarships to college.</p>
+            </bioghist>
+            <scopecontent id="aspace_e5bfd4cbe21c4b8f0206786977c99504">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Ruth Anne Lee Cohen, a long time D.C. resident, discusses her life and experiences moving from Savannah, Georgia, to Washington, D.C. She discusses growing up in Savannah and educational experiences there, getting married, and teaching in D.C. until 1999. She talks about her favorite experiences teaching and from her life post-retirement.</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_e0752018e9a5ca35eff5a0d6d332c2dd" level="subseries">
+          <did>
+            <unittitle>Sub-Series 3: Transcripts</unittitle>
+            <unitdate normal="2018/2018">2018</unitdate>
+            <langmaterial id="aspace_bb7de08fa81adf72f27a6ce114d6e086">English</langmaterial>
+          </did>
+          <c id="aspace_5b934d59381c0ef221fa2ca83990676e" level="item">
+            <did>
+              <unittitle>Edith Crutchfield transcript</unittitle>
+              <unitdate normal="2018-12-14/2018-12-14">2018-12-14</unitdate>
+              <langmaterial id="aspace_72767573cb0a6a8dd4d02c9fc30167bf">English</langmaterial>
+            </did>
+            <bioghist id="aspace_0f026a676070a85950aa25fd37a58079">
+              <head>Biographical / Historical</head>
+              <p>Edith Crutchfield was born on August 28th, 1936, in Culpeper, Virginia. Though Culpeper was segregated, she grew up across the street from a medical professional building, which housed white residents. Ms. Crutchfield remarks that though Culpeper was segregated, this was more integration than she experienced living in D.C. due to housing segregation in the city. Ms. Crutchfield came to the District in 1953 at age sixteen and moved in with her oldest sister and brother-in-law. She studied communication at Howard University as well as the University of the District of Columbia and went on to have a career working in libraries. She worked at libraries within the Food and Drug Administration (FDA) and Drug Enforcement Administration (DEA) before retiring from the public sector in 1995. Ms. Crutchfield then began work in private law firms. She had one daughter who passed away in 2015.</p>
+            </bioghist>
+            <scopecontent id="aspace_e703bcd33fee8d25100cdd51d7688994">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Edith Crutchfield, a long time D.C. resident, discusses her life and experiences moving from Culpeper, Virginia, to Washington, D.C. Mrs. Crutchfield discusses her upbringing in Culpeper, Virginia, moving to D.C. at age sixteen, and the racial and cultural similarities/differences between the District and the Culpeper. She also discusses the current political climate and the regression she has seen in recent years.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_73963dbc8eb7e13ba0bb90f17983ff3b" level="item">
+            <did>
+              <unittitle>Eva McLeod transcript</unittitle>
+              <unitdate normal="2018-12-07/2018-12-07">2018-12-07</unitdate>
+              <langmaterial id="aspace_61eabb1ed42d654dd8a53614095ec5a9">English</langmaterial>
+            </did>
+            <bioghist id="aspace_cb8be2fe48806961c43162bf51546ffd">
+              <head>Biographical / Historical</head>
+              <p>Eva M. McLeod was born in 1918 in Albany, Georgia. She celebrated her 100th birthday in July of 2018. Graduating high school as valedictorian when she was 15, she went on to what was then Georgia Normal and Agricultural University, now Albany State University, a public HBCU (Historically black colleges and universities). Mrs. McLeod taught for about two years before moving on to a four-year college in Savannah, Georgia, where she met her husband. She and her husband taught for three years in Georgia before he decided to look for work in D.C. At this point she and her husband had three children, and he felt they needed a greater income. After settling in D.C., she found that life was different yet similar in the Black communities, as many people she knew had settled from southern cities. In thinking about moving from Albany to D.C., working and raising her children, caring for her grandchildren and elderly husband before he passed, Mrs. McLeod remarks that, "I've had my hands full all my life."</p>
+            </bioghist>
+            <scopecontent id="aspace_cc595fa3f6c2d873515685a66617cb4e">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Eva McLeod, a long time D.C. resident, discusses her life and experiences moving from Albany, Georgia, to Washington, D.C. Mrs. McLeod, now a widow, discusses her upbringing and education in the South, moving to D.C. with her husband in the mid-forties, career with the postal service, and volunteer work to advance equity in D.C. Mrs. McLeod's daughter Kay Washington, also present for the interview, helps answer some questions</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_8275988f7bae334a68fe61afb3385624" level="item">
+            <did>
+              <unittitle>James Jackson transcript</unittitle>
+              <unitdate normal="2018-12-21/2018-12-21">2018-12-21</unitdate>
+              <langmaterial id="aspace_fa5d4794401ec46a1546e057f46b26f4">English</langmaterial>
+            </did>
+            <bioghist id="aspace_6246a275b8a8319877fe1520398a1583">
+              <head>Biographical / Historical</head>
+              <p>James Jackson was born June 10, 1936, in Oates, South Carolina, but he grew up in nearby Hartsville SC. Mr. Jackson's parents were sharecroppers, and he recalls how landowners exploited farmers and often cheated them at settlement. After finishing high school, Mr. Jackson went into business with his brother building homes, but he eventually decided to move to D.C. since he wasn't making enough to support his growing family. He initially came to D.C. in 1962 without his family, since he wanted to find housing suitable for his wife and children before they came north. He lived with his sister at first, but he was able to secure housing through a job as a building manager and had his family joined him soon after. He worked as a union carpenter for a couple years before landing a job with the Department of Corrections as the facilities manager for a prison. Mr. Jackson retired in 1990.</p>
+            </bioghist>
+            <scopecontent id="aspace_92154cbb64d9cf315863cffc6706bcb3">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, James Lyde Jackson, a long time D.C. resident, discusses his life and experiences moving from Hartsville, South Carolina to Washington, D.C. Mr. Jackson reflects on his upbringing in Hartsville as the son of sharecroppers, his experiences with segregation, and moving to D.C. in search of better opportunities for his family. He also talks about his children and his career working for the Department of Corrections.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_600e8ed2067daa7fbb677093c347d937" level="item">
+            <did>
+              <unittitle>Joseph Harris transcript</unittitle>
+              <unitdate normal="2018-12/2018-12">2018-12</unitdate>
+              <langmaterial id="aspace_aea089f8c005d192a39e4f5e975ffdc5">English</langmaterial>
+            </did>
+            <bioghist id="aspace_9a8daaf8ec7db0ed326944ef4b6010af">
+              <head>Biographical / Historical</head>
+              <p>Dr. Joseph Harris was born in Rocky Mount, North Carolina. He was raised by his great aunt and grew up attended segregated schools. Most young men in his town picked tobacco to make a living, but Dr. Harris looked to education as his way out, a way, his family emphasized, to "being somebody." He attended Hampton University for a year but because he could not afford to live on campus, he did not enjoy his experience there and went to work in Williamstown, Massachusetts, where his mother lived. After working as a cook at Williams College for a few years, Dr. Harris moved to Schenectady, New York, to work for General Electric. After saving up enough money, he moved to Washington, D.C., to complete his college education at Howard University where he received his undergraduate degree in 1952. While at Howard, Dr. Harris joined Reserve Officers' Training Corps (ROTC) and went into the service upon graduation. He served as an officer in the Korean War between 1952-1954 before returning to Howard to receive a Master's in African Studies in 1956. He then went on to earn a PhD from Northwestern University in Evanston, Illinois, where he met his wife. He completed his doctoral dissertation in Guinea, and later became a professor of history at Howard University.</p>
+            </bioghist>
+            <scopecontent id="aspace_9254543b4672d421fdc113f90f81dbfe">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Dr. Joseph Harris, a long time D.C. resident, discusses his experiences moving from Rocky Mount, North Carolina, to Massachusetts, to Washington, D.C. He discusses his upbringing in Rocky Mount, attending Hampton University for a year, moving to Massachusetts, finishing college at Howard University, joining Reserve Officers' Training Corps (ROTC) and serving in the Korean War, and his academic career as a professor of African Studies.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_cfc0bcccc6e7c14832465027e12d5528" level="item">
+            <did>
+              <unittitle>Ruth Anne Lee Cohen transcript</unittitle>
+              <unitdate normal="2018-12/2018-12">2018-12</unitdate>
+              <langmaterial id="aspace_4df6684d704cf42d476bdde32cfdbc43">English</langmaterial>
+            </did>
+            <bioghist id="aspace_86d7b71d8cd37257a34dc42fce42a454">
+              <head>Biographical / Historical</head>
+              <p>Ruth Anne Lee Cohen was born in Savannah, Georgia, in the 1930s. She grew up with her parents, grandmother, and three younger siblings and by age five she was working in her grandmother's confectionary as a cashier. Ms. Cohen's parents and siblings moved to Detroit, Michigan, when she was in the seventh grade leaving her to live with her grandmother. Ms. Cohen attended a segregated Catholic school until seventh grade, at which point she enrolled at Alfred A. Beach High School where she met her husband. After finishing high school, Ms. Cohen attended Savannah State College (now Savannah State University) where she studied elementary education and graduated in 1958. After teaching in Savannah for three years, she moved north to join her husband in Washington. After serving overseas in the military, Ms. Cohen's husband refused to live in the South, and by the time they were married, he had already been living in Washington for a couple years. Ms. Cohen held off on joining him in D.C. until she had taught in Savannah public schools for three years, securing tenure. Once in Washington she continued teaching until her retirement in 1999. She took on other positions after retirement, such as the Business and Professional Women's League, helping students get scholarships to college.</p>
+            </bioghist>
+            <scopecontent id="aspace_8cd9c78e85c5c9b5fa7a10cfcd4af08c">
+              <head>Scope and Contents</head>
+              <p>In this oral history interview, Ruth Anne Lee Cohen, a long time D.C. resident, discusses her life and experiences moving from Savannah, Georgia, to Washington, D.C. She discusses growing up in Savannah and educational experiences there, getting married, and teaching in D.C. until 1999. She talks about her favorite experiences teaching and from her life post-retirement.</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_11235fd8c8014e4570077755ffaa2d9c" level="subseries">
+          <did>
+            <unittitle>Sub-Series 4: Images</unittitle>
+          </did>
+          <c id="aspace_ac5d30a1bf9df37fbb945da372eb6735" level="item">
+            <did>
+              <unittitle>Butler School</unittitle>
+            </did>
+            <scopecontent id="aspace_3cb90039ae50aca36910a6ced1d4cdcd">
+              <head>Scope and Contents</head>
+              <p>Exterior view of Butler School, a public school that served the Black community from 1921 to 1982.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_8b3782b3fdee71211c050636b592bc79" level="item">
+            <did>
+              <unittitle>Butler School historical marker</unittitle>
+            </did>
+            <scopecontent id="aspace_f4795623e38e5c89a673bc8e8de891ae">
+              <head>Scope and Contents</head>
+              <p>A historical marker that reads 'Butler School, located on this site since 1921, was the second public school to serve Hartsville black community and operated for over sixty years. Known as the Darlington Co. Training School until 1939, it was renamed for Rev. Henry H. Butler, its principal 1909-1946. The first building on this site burned in 1961, extant buildings date from 1936 to the mid-1960s. Butler School was a junior high and high school when it closed in 1982.'</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_3453baa21c488e40e34847556bd6e88f" level="item">
+            <did>
+              <unittitle>James Jackson high school graduation</unittitle>
+            </did>
+            <scopecontent id="aspace_a70eb5f9c60eedce7881e0275113a618">
+              <head>Scope and Contents</head>
+              <p>Formal graduation image of James Jackson.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_7e232cc86c278b6aa80a00fb23d5c454" level="item">
+            <did>
+              <unittitle>Annie Lee Jackson and Wallace Jackson</unittitle>
+            </did>
+            <scopecontent id="aspace_867a49d40bb30ce13e52bcb6d05bc518">
+              <head>Scope and Contents</head>
+              <p>An image of Annie Lee Jackson and Wallace Jackson, parents of James Jackson. Wallace Jackson is wearing a World War I military uniform.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_b129e595d0cd8facb8f471c8b223a51f" level="item">
+            <did>
+              <unittitle>Elijah Isaac and Ruth Anne Lee Cohen</unittitle>
+            </did>
+            <scopecontent id="aspace_db8d7d11756a9e7b7d08515995107b80">
+              <head>Scope and Contents</head>
+              <p>Elijah Isaac and Ruth Anne Lee Cohen pose for a photograph after completing and oral history interview.</p>
+            </scopecontent>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_24f6dccf7bc14d7d0fb2c03ac02a8bfe" level="series">
+        <did>
+          <unittitle>Series 5: 2019-2020 School Year</unittitle>
+          <unitdate normal="2019/2019">2019</unitdate>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
