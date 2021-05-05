@@ -16,12 +16,12 @@
         <address>
           <addressline>901 G Street NW</addressline>
           <addressline>Washington, DC</addressline>
-          <addressline>archives.dcpl@dc.gov</addressline>
+          <addressline>peoples.archive@dc.gov</addressline>
         </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-30 08:20:44 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-05-05 09:45:50 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -109,7 +109,7 @@ Collection 0195-SCPA</p>
       <p>Collection has no known restrictions.</p>
     </userestrict>
     <controlaccess>
-      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2005003810" source="lcsh">Zines</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2005003810" source="Library of Congress Subject Headings">Zines</subject>
       <genreform source="material_type">Ephemera</genreform>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh99001943" source="Library of Congress Subject Headings">Correspondence</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85109128" source="Library of Congress Subject Headings">Punk rock music</subject>
@@ -142,16 +142,16 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - #0 - 9</unittitle>
               <unitdate certainty="approximate" normal="1987/1987">1987</unitdate>
-              <container id="aspace_a623b3b4ee5bb1e077ada3f69882bde8" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_7040304e6701888fe2fecf593da76e0b" parent="aspace_a623b3b4ee5bb1e077ada3f69882bde8" type="folder">1</container>
+              <container id="aspace_3fc6227ec465b1ba9d13ff11ab764cf5" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_30bbca3637990a223f6d12bd813afe1d" parent="aspace_3fc6227ec465b1ba9d13ff11ab764cf5" type="folder">1</container>
             </did>
           </c>
           <c id="aspace_ec728ef4913fd4e1167209785ddbd41e" level="file">
             <did>
               <unittitle>Bands - A</unittitle>
               <unitdate certainty="approximate" normal="1988/1991" type="inclusive">1988-1991</unitdate>
-              <container id="aspace_4b8204b8c9addcebff61d38ff219b003" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_2a540cb7f7756dfadb2c87fbbd038c71" parent="aspace_4b8204b8c9addcebff61d38ff219b003" type="folder">2</container>
+              <container id="aspace_09189dd44103fd012d45dff864bc9123" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_823f88b2fef42e8b19028d6fcaf49796" parent="aspace_09189dd44103fd012d45dff864bc9123" type="folder">2</container>
             </did>
             <scopecontent id="aspace_07d23d555c2b5b4831f8f9b0b2990cce">
               <head>Scope and Contents</head>
@@ -162,8 +162,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - B</unittitle>
               <unitdate certainty="approximate" normal="1987/1989" type="inclusive">1987-1989</unitdate>
-              <container id="aspace_dd43ec4a9459103eac02af80c1bb7974" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_9a3900c1a2c4ea5b43029cc8f42bda56" parent="aspace_dd43ec4a9459103eac02af80c1bb7974" type="folder">3</container>
+              <container id="aspace_b45d7d9784cf58632d1bb1fe93680cf6" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_7bfff2a3d76ea0fde9b18a76bcfdd7f0" parent="aspace_b45d7d9784cf58632d1bb1fe93680cf6" type="folder">3</container>
             </did>
             <scopecontent id="aspace_f6e8a6ef925f4faf5f0344db23a579d4">
               <head>Scope and Contents</head>
@@ -174,8 +174,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - C</unittitle>
               <unitdate certainty="approximate" normal="1988/1991" type="inclusive">1988-1991</unitdate>
-              <container id="aspace_d7a114ea082adbfe793809c491bc3231" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_f4b0abf740bb0a98f3c672d95ed1e690" parent="aspace_d7a114ea082adbfe793809c491bc3231" type="folder">4</container>
+              <container id="aspace_fb4aa9a320eee827a672cf62dc62d71b" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_8b01febc053b22e4a6e77477d1123332" parent="aspace_fb4aa9a320eee827a672cf62dc62d71b" type="folder">4</container>
             </did>
             <scopecontent id="aspace_3cdada6bc32549eaf26c63ac8c5f635b">
               <head>Scope and Contents</head>
@@ -186,8 +186,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - D</unittitle>
               <unitdate certainty="approximate" normal="1990/1991" type="inclusive">1990-1991</unitdate>
-              <container id="aspace_e9a334364faff82b164e4b7fef88f165" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_7bd537fa16925b7ff981776a1c46b2ec" parent="aspace_e9a334364faff82b164e4b7fef88f165" type="folder">5</container>
+              <container id="aspace_aa2aecb584e659a15e6b567d50ad10fa" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_4a2b382a3223019553aed0cc11f0acf6" parent="aspace_aa2aecb584e659a15e6b567d50ad10fa" type="folder">5</container>
             </did>
             <scopecontent id="aspace_f4fbb73c8de989b65cee106d3821ddd0">
               <head>Scope and Contents</head>
@@ -198,8 +198,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - E</unittitle>
               <unitdate certainty="approximate" normal="1988/1988">1988</unitdate>
-              <container id="aspace_ab1975b0359ea5579fc05aa7786407b5" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_31104a36ea7c4f76ad30d4a181484d41" parent="aspace_ab1975b0359ea5579fc05aa7786407b5" type="folder">6</container>
+              <container id="aspace_592cc0ca84c33df2809db742576c698f" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_13d85f5ebffe1c22db927a9eeb7f66dd" parent="aspace_592cc0ca84c33df2809db742576c698f" type="folder">6</container>
             </did>
             <scopecontent id="aspace_cb682607fc5a83848f70620df25d23f1">
               <head>Scope and Contents</head>
@@ -210,8 +210,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - F</unittitle>
               <unitdate certainty="approximate" normal="1991/1991">1991</unitdate>
-              <container id="aspace_5a8dc5838daf2c4ee7b80a47940b9d73" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_db3a7fabe8ed12030d00187e08dd5e95" parent="aspace_5a8dc5838daf2c4ee7b80a47940b9d73" type="folder">7</container>
+              <container id="aspace_aef688c0fc75b813e893d4687497d8f2" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_9d626400860e2ef8b1d591ea3b629718" parent="aspace_aef688c0fc75b813e893d4687497d8f2" type="folder">7</container>
             </did>
             <scopecontent id="aspace_9e1cc61abb9cb6359a8a7522ed04c781">
               <head>Scope and Contents</head>
@@ -222,8 +222,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - G</unittitle>
               <unitdate certainty="approximate" normal="1990/1991" type="inclusive">1990-1991</unitdate>
-              <container id="aspace_58a54526ad3aec570f2fdb931490fdc5" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_a44a113a3450c4fc73815acdb178b8c1" parent="aspace_58a54526ad3aec570f2fdb931490fdc5" type="folder">8</container>
+              <container id="aspace_f6461863f7e0eaee7b7ea7df1b4ad0e1" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_6478808ee84d704b6bdd76cf0b364e7b" parent="aspace_f6461863f7e0eaee7b7ea7df1b4ad0e1" type="folder">8</container>
             </did>
             <scopecontent id="aspace_3815bb15063a60d25851c20a11a6be24">
               <head>Scope and Contents</head>
@@ -234,8 +234,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - H</unittitle>
               <unitdate certainty="approximate" normal="1990/1990">1990</unitdate>
-              <container id="aspace_5088456dba5370a0082c3676481c5067" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_5917c7cdc656bb88a871ba67b2c6409b" parent="aspace_5088456dba5370a0082c3676481c5067" type="folder">9</container>
+              <container id="aspace_107786bd3c72cf2067e5ade9e3ba7abd" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_cc41acc7d7fee8fe7c816fd0c4fa879b" parent="aspace_107786bd3c72cf2067e5ade9e3ba7abd" type="folder">9</container>
             </did>
             <scopecontent id="aspace_ee0d89425c03f11085b6b2eda97c3ca8">
               <head>Scope and Contents</head>
@@ -246,8 +246,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - I</unittitle>
               <unitdate certainty="approximate" normal="1988/1989" type="inclusive">1988-1989</unitdate>
-              <container id="aspace_be9a9d43e80125a6a8f4cf21134ad931" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_a3f5d950ad68afecd995bffe97068dcd" parent="aspace_be9a9d43e80125a6a8f4cf21134ad931" type="folder">10</container>
+              <container id="aspace_75289f6078ab2ec08646132f1af901bb" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_38e036be2538f370491b8ec18fd8117f" parent="aspace_75289f6078ab2ec08646132f1af901bb" type="folder">10</container>
             </did>
             <scopecontent id="aspace_b9d78101c3fe086c0e0bfbbf5a447845">
               <head>Scope and Contents</head>
@@ -258,8 +258,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - J</unittitle>
               <unitdate certainty="approximate" normal="1989/1989">1989</unitdate>
-              <container id="aspace_27e002225b119c2f8c03d387e26640eb" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_3e02125416e68aa6e702ead4a4d73b56" parent="aspace_27e002225b119c2f8c03d387e26640eb" type="folder">11</container>
+              <container id="aspace_967ac47fc03b1bcd3b2b5148c8dc5bb2" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_27435b1aa20726c761d856283b8892a0" parent="aspace_967ac47fc03b1bcd3b2b5148c8dc5bb2" type="folder">11</container>
             </did>
             <scopecontent id="aspace_bac23104327c854842338295101de896">
               <head>Scope and Contents</head>
@@ -270,8 +270,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - K</unittitle>
               <unitdate certainty="approximate" normal="1987/1992" type="inclusive">1987-1992</unitdate>
-              <container id="aspace_0bb0b114409191fbca5ea44bc1bc5f31" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_65d354230aba72c662de77d375f6860a" parent="aspace_0bb0b114409191fbca5ea44bc1bc5f31" type="folder">12</container>
+              <container id="aspace_f257c1e1a611898b8ebde84b535251a1" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_0b513d5e59039ddab7509a17b2abc875" parent="aspace_f257c1e1a611898b8ebde84b535251a1" type="folder">12</container>
             </did>
             <scopecontent id="aspace_e5abce7eb36c7f4eee370857b447b702">
               <head>Scope and Contents</head>
@@ -282,8 +282,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - L</unittitle>
               <unitdate certainty="approximate" normal="1987/1989" type="inclusive">1987-1989</unitdate>
-              <container id="aspace_1aecf49638642ce61b6643ca61003af6" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_8a9842ba4fa1c5bbe661d0f4f6f90dff" parent="aspace_1aecf49638642ce61b6643ca61003af6" type="folder">13</container>
+              <container id="aspace_f1f4083310c0223d5e4d300296b89d9a" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_50d42f1ad0b899cb4c83afa7d1958c6d" parent="aspace_f1f4083310c0223d5e4d300296b89d9a" type="folder">13</container>
             </did>
             <scopecontent id="aspace_afc158b81cecd0c7a32ca417179948b0">
               <head>Scope and Contents</head>
@@ -294,8 +294,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - M</unittitle>
               <unitdate certainty="approximate" normal="1987/1990" type="inclusive">1987-1990</unitdate>
-              <container id="aspace_cc9d9034ddd04dee982f29c00150a15d" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_54f92b2745346e979274ae4e616907bb" parent="aspace_cc9d9034ddd04dee982f29c00150a15d" type="folder">14</container>
+              <container id="aspace_89ede497c9987698702a1c8b43a27f68" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_02328e48e3354ac87b60154c60d912e5" parent="aspace_89ede497c9987698702a1c8b43a27f68" type="folder">14</container>
             </did>
             <scopecontent id="aspace_540c6c161b98d0ea4f99bb03ba9b0d18">
               <head>Scope and Contents</head>
@@ -306,8 +306,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - N</unittitle>
               <unitdate certainty="approximate" normal="1989/1989">1989-1991</unitdate>
-              <container id="aspace_82f4b10baada80eacae2ed09710ea15c" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_20d2ac12923d4247cb31e9b8472d57d7" parent="aspace_82f4b10baada80eacae2ed09710ea15c" type="folder">15</container>
+              <container id="aspace_ebfcd53c01d9d2cb0886e367cec44994" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_34b2239a4994979840af073d341edca5" parent="aspace_ebfcd53c01d9d2cb0886e367cec44994" type="folder">15</container>
             </did>
             <scopecontent id="aspace_7c4cc07ae0664bbd241f3b11d08e60b0">
               <head>Scope and Contents</head>
@@ -318,8 +318,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - O</unittitle>
               <unitdate certainty="approximate" normal="1988/1988">1988</unitdate>
-              <container id="aspace_ab2eca2878c33bc28b391da112423bbb" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_82a5defc4465cd5fca2fb6e227be8cf3" parent="aspace_ab2eca2878c33bc28b391da112423bbb" type="folder">16</container>
+              <container id="aspace_bfdb3a24ac2fd9c160925e55b149b8ef" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_0d2a5ac2c005306542507f3ea5aabe8b" parent="aspace_bfdb3a24ac2fd9c160925e55b149b8ef" type="folder">16</container>
             </did>
             <scopecontent id="aspace_cba56f01a3d5edc7d15e27788fc8c258">
               <head>Scope and Contents</head>
@@ -330,8 +330,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - P</unittitle>
               <unitdate certainty="approximate" normal="1988/1990" type="inclusive">1988-1990</unitdate>
-              <container id="aspace_1fe06d4c554566f114e7acc2148665cb" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_5296cec3f725964f100407cf28611e5c" parent="aspace_1fe06d4c554566f114e7acc2148665cb" type="folder">17</container>
+              <container id="aspace_ac1e87f472a9131f8139f997a31ef979" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_461fd7f389f3768ee8d480df5d84ef47" parent="aspace_ac1e87f472a9131f8139f997a31ef979" type="folder">17</container>
             </did>
             <scopecontent id="aspace_569f8f5460bc17036e2973452b5cd895">
               <head>Scope and Contents</head>
@@ -342,8 +342,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - Q</unittitle>
               <unitdate normal="1989/1989">1989</unitdate>
-              <container id="aspace_a62130a16a4c245c7eab28544e58e1a2" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_cd0e407e1a4adf96aa81c9ecf87ed1fd" parent="aspace_a62130a16a4c245c7eab28544e58e1a2" type="folder">18</container>
+              <container id="aspace_89c49e9fa717226b6853c17de15022e9" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_d49dde18a6634a8c18bb9a38116718b5" parent="aspace_89c49e9fa717226b6853c17de15022e9" type="folder">18</container>
             </did>
             <scopecontent id="aspace_4531de9a765f7558b5f8849d4183b81e">
               <head>Scope and Contents</head>
@@ -354,8 +354,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - R</unittitle>
               <unitdate certainty="approximate" normal="1988/1990" type="inclusive">1988-1990</unitdate>
-              <container id="aspace_dc06e88c82bc640708480ad6aee89516" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_9c1365f9982b583800b334861ea3da39" parent="aspace_dc06e88c82bc640708480ad6aee89516" type="folder">19</container>
+              <container id="aspace_5cbcf490071c1a7e0797c567cb317bc6" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_7696ba5a28a677b6859956a0dc76ae55" parent="aspace_5cbcf490071c1a7e0797c567cb317bc6" type="folder">19</container>
             </did>
             <scopecontent id="aspace_957d78af875159f42dbda2452bdde6ed">
               <head>Scope and Contents</head>
@@ -366,8 +366,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - S</unittitle>
               <unitdate certainty="approximate" normal="1988/1991" type="inclusive">1988-1991</unitdate>
-              <container id="aspace_c6209dc2c11f63af7794d543ffb1a016" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_60b8cd00da22121209fc34074a085d27" parent="aspace_c6209dc2c11f63af7794d543ffb1a016" type="folder">20</container>
+              <container id="aspace_cc869ef1054a3f2ff7148edd146f6195" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_fc70ced6d1c653e5b95e0050a3530c10" parent="aspace_cc869ef1054a3f2ff7148edd146f6195" type="folder">20</container>
             </did>
             <scopecontent id="aspace_f6cfcaadd433b928d2619cad1cf08ec9">
               <head>Scope and Contents</head>
@@ -378,8 +378,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - T</unittitle>
               <unitdate certainty="approximate" normal="1988/1991" type="inclusive">1988-1991</unitdate>
-              <container id="aspace_c9191dd101d2c9f39118e60ea6cd0bc0" label="Mixed Materials" type="box">1</container>
-              <container id="aspace_7eb2864c66fb0bfa2020398afee68d88" parent="aspace_c9191dd101d2c9f39118e60ea6cd0bc0" type="folder">21</container>
+              <container id="aspace_d1f66bdeb9f2090a5306da974d87591a" label="Mixed Materials" type="box">1</container>
+              <container id="aspace_ce0383ad7709e5673912015bb075dd83" parent="aspace_d1f66bdeb9f2090a5306da974d87591a" type="folder">21</container>
             </did>
             <scopecontent id="aspace_72f293804f0bd0a467a01f462614bbea">
               <head>Scope and Contents</head>
@@ -390,8 +390,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - U</unittitle>
               <unitdate certainty="approximate" normal="1988/1991" type="inclusive">1988-1991</unitdate>
-              <container id="aspace_178cf4a95872942300c12e244ee95c96" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_741d93768f84087c0c7b854a7c9de47e" parent="aspace_178cf4a95872942300c12e244ee95c96" type="folder">1</container>
+              <container id="aspace_e229e6a9a763003cfa2516659095b7ee" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_359f44f4e345257a3ff629f4ee8ca402" parent="aspace_e229e6a9a763003cfa2516659095b7ee" type="folder">1</container>
             </did>
             <scopecontent id="aspace_ce421aba6a9dfe5a30d4465394d7d8c6">
               <head>Scope and Contents</head>
@@ -401,8 +401,8 @@ Collection 0195-SCPA</p>
           <c id="aspace_77f43e0ec757dc660b169999f7eef319" level="file">
             <did>
               <unittitle>Bands - V</unittitle>
-              <container id="aspace_71d817aafca743238c270ab2f977e3c9" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_fceafc0bb86d5129536c17883d0be043" parent="aspace_71d817aafca743238c270ab2f977e3c9" type="folder">2</container>
+              <container id="aspace_68486b664d04c00cff5764a47f4f901f" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_be1a2242abe511baafb9f084fc1ff95e" parent="aspace_68486b664d04c00cff5764a47f4f901f" type="folder">2</container>
             </did>
             <scopecontent id="aspace_e398ce6d7dcc6b05821f565ed3fe4ff9">
               <head>Scope and Contents</head>
@@ -413,8 +413,8 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - W</unittitle>
               <unitdate certainty="approximate" normal="1988/1991" type="inclusive">1988-1991</unitdate>
-              <container id="aspace_c4f804e8d180cbcd1b7aea2ace65f9b4" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_88f9d679d64c6f005fb272e917e86cec" parent="aspace_c4f804e8d180cbcd1b7aea2ace65f9b4" type="folder">3</container>
+              <container id="aspace_fab120018e56aa93125b706a4c9a5838" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_640ec4f19054655124bc0652899e4ddf" parent="aspace_fab120018e56aa93125b706a4c9a5838" type="folder">3</container>
             </did>
             <scopecontent id="aspace_ae515c01dccf0145f5cc9ae5435da469">
               <head>Scope and Contents</head>
@@ -424,8 +424,8 @@ Collection 0195-SCPA</p>
           <c id="aspace_6191f75a8e5bd2c4c937a13dfad94be1" level="file">
             <did>
               <unittitle>Bands - X</unittitle>
-              <container id="aspace_836eac932a0804304a88e7d5bad8cf63" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_be7eeb6a8bd365c3f2184bc12de045bb" parent="aspace_836eac932a0804304a88e7d5bad8cf63" type="folder">4</container>
+              <container id="aspace_39e64b3c376805726de5a3b36e5e5b0f" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_3f1d2a0a100bc4b236e78a5b2463fb85" parent="aspace_39e64b3c376805726de5a3b36e5e5b0f" type="folder">4</container>
             </did>
             <scopecontent id="aspace_208608812df0b659052622dfe6e6fb55">
               <head>Scope and Contents</head>
@@ -435,8 +435,8 @@ Collection 0195-SCPA</p>
           <c id="aspace_c67b2896fffc168a4c8ea0b2352e56dd" level="file">
             <did>
               <unittitle>Bands - Y</unittitle>
-              <container id="aspace_7a144e0d550ad1883e03d352b8901171" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_d8202b59599b38ce8bf8dda5e148b729" parent="aspace_7a144e0d550ad1883e03d352b8901171" type="folder">5</container>
+              <container id="aspace_aef79e251afef2c282b9f6516279fccc" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_1dc87302bdaf9e20646f4ad9e96acec7" parent="aspace_aef79e251afef2c282b9f6516279fccc" type="folder">5</container>
             </did>
             <scopecontent id="aspace_7fbf1c9c2f86321668a418a52edc7838">
               <head>Scope and Contents</head>
@@ -446,8 +446,8 @@ Collection 0195-SCPA</p>
           <c id="aspace_b899cbbf8880be26e24e28310432ae61" level="file">
             <did>
               <unittitle>Bands - Z</unittitle>
-              <container id="aspace_8fba5a20f422db41859fb523027b1e09" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_e4c7629bf818e8e727541811243e3dc1" parent="aspace_8fba5a20f422db41859fb523027b1e09" type="folder">6</container>
+              <container id="aspace_da2074d8164fc61ca0ef0234804c786e" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_7d7bd5765badac9aa7f2bfd39900be62" parent="aspace_da2074d8164fc61ca0ef0234804c786e" type="folder">6</container>
             </did>
             <scopecontent id="aspace_129b718f44ebe7ddb18bf4daf5b06afb">
               <head>Scope and Contents</head>
@@ -458,161 +458,161 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>Bands - oversize</unittitle>
               <unitdate normal="1987/1991" type="inclusive">1987-1991</unitdate>
-              <container id="aspace_a34c2fc37fc6ffae1354ee9fe5d0bb81" label="Mixed Materials" type="box">4</container>
-              <container id="aspace_886e61d51c8cda8f2d2e5259143f624e" parent="aspace_a34c2fc37fc6ffae1354ee9fe5d0bb81" type="folder">1</container>
+              <container id="aspace_033f885681506197d61a3d6aa575e0bf" label="Mixed Materials" type="box">4</container>
+              <container id="aspace_9994a40a70cb1df2b0d8253f99e92339" parent="aspace_033f885681506197d61a3d6aa575e0bf" type="folder">1</container>
             </did>
           </c>
           <c id="aspace_65fd68806fc01b2f307e27610cec0fb8" level="file">
             <did>
               <unittitle>Calendars</unittitle>
               <unitdate normal="1987/1987">1987</unitdate>
-              <container id="aspace_cb7313e94ca6e6e4402b7a94d9b428e2" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_72fba621ceacc0009bec2b866cc549de" parent="aspace_cb7313e94ca6e6e4402b7a94d9b428e2" type="folder">7</container>
+              <container id="aspace_5d4085e8552e010eb91c003cafc302fc" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_811895db6fd8dd68b583f797622e920c" parent="aspace_5d4085e8552e010eb91c003cafc302fc" type="folder">7</container>
             </did>
           </c>
           <c id="aspace_1f84d15954f12204fdf4addb045505ef" level="file">
             <did>
               <unittitle>Calendars</unittitle>
               <unitdate normal="1988/1988">1988</unitdate>
-              <container id="aspace_1be57db4c4f2a1f0421305f2008d67ab" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_de9937c406de7f0f94ccd2bc4367abc5" parent="aspace_1be57db4c4f2a1f0421305f2008d67ab" type="folder">8</container>
+              <container id="aspace_395149044d0e6a3516a34c3480c91234" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_5af907bb920b7b663625482cd8c8ea98" parent="aspace_395149044d0e6a3516a34c3480c91234" type="folder">8</container>
             </did>
           </c>
           <c id="aspace_eb372a45ef5a8acaf91366e485d89554" level="file">
             <did>
               <unittitle>Calendars</unittitle>
               <unitdate normal="1989/1989">1989</unitdate>
-              <container id="aspace_0a68c03761c93c4c3b21839cd8f1aa6f" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_0dd7d2aeff6986541b094d8b1134ad20" parent="aspace_0a68c03761c93c4c3b21839cd8f1aa6f" type="folder">9</container>
+              <container id="aspace_fa2aa8479445b7b5c0510f2636b387c0" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_0fefdfbcbecffd6f44db3a95b99159db" parent="aspace_fa2aa8479445b7b5c0510f2636b387c0" type="folder">9</container>
             </did>
           </c>
           <c id="aspace_e73f26d495a1df4c04d848c3c271f74a" level="file">
             <did>
               <unittitle>Calendars</unittitle>
               <unitdate normal="1990/1990">1990</unitdate>
-              <container id="aspace_6381650790af7df9343bb59e5e9ee10c" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_f72d02c77526debe00488496a5894e4b" parent="aspace_6381650790af7df9343bb59e5e9ee10c" type="folder">10</container>
+              <container id="aspace_d0ce121852d8951168a2b5111ecef77c" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_343024e615cb4f76d6aa2e07bee93010" parent="aspace_d0ce121852d8951168a2b5111ecef77c" type="folder">10</container>
             </did>
           </c>
           <c id="aspace_623bbcddaed838ead814b952fca785d6" level="file">
             <did>
               <unittitle>Calendars</unittitle>
               <unitdate normal="1991/1991">1991</unitdate>
-              <container id="aspace_d13be193ed5a8db1e3daf041d1c5077f" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_937625586fc5ca72fd723e9a0b0350fe" parent="aspace_d13be193ed5a8db1e3daf041d1c5077f" type="folder">11</container>
+              <container id="aspace_8207da43afe629241fbaf328bc6be27b" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_6ad50d6ae4ecdaabc0bcf0b2b2d04ad9" parent="aspace_8207da43afe629241fbaf328bc6be27b" type="folder">11</container>
             </did>
           </c>
           <c id="aspace_73ea2a6f49d165cc8c0f7725c9094e9b" level="file">
             <did>
               <unittitle>Calendars - oversize</unittitle>
               <unitdate normal="1987/1991" type="inclusive">1987-1991</unitdate>
-              <container id="aspace_3a32fdeae80763ae1b052c883256acb0" label="Mixed Materials" type="box">4</container>
-              <container id="aspace_91e16caf56f82d7b7f47e8f829365343" parent="aspace_3a32fdeae80763ae1b052c883256acb0" type="folder">2</container>
+              <container id="aspace_856a6002169b9c260f0692ed9a196691" label="Mixed Materials" type="box">4</container>
+              <container id="aspace_06b90680295f7f2d1cdbf983da64f97f" parent="aspace_856a6002169b9c260f0692ed9a196691" type="folder">2</container>
             </did>
           </c>
           <c id="aspace_09c8847a17cfd11f39ddb3b9aec338a7" level="file">
             <did>
               <unittitle>Comedyshows</unittitle>
-              <container id="aspace_9b1d1fc007a7dc43596bbf6d536b387d" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_e8df94d4781ff947a1aba30dafdafa87" parent="aspace_9b1d1fc007a7dc43596bbf6d536b387d" type="folder">12</container>
+              <container id="aspace_a9a54eb549545268574bd2e8d758ec94" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_867f5ae19967e53694f7b012f7ad8cf7" parent="aspace_a9a54eb549545268574bd2e8d758ec94" type="folder">12</container>
             </did>
           </c>
           <c id="aspace_320fe0934553d43fac18553be71f6c89" level="file">
             <did>
               <unittitle>Filmscreenings</unittitle>
               <unitdate certainty="approximate" normal="1991/1991">1991</unitdate>
-              <container id="aspace_3f9649d7061c3aa1773c114520591424" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_b1ce1d8677e36f95672bc694586619a9" parent="aspace_3f9649d7061c3aa1773c114520591424" type="folder">13</container>
+              <container id="aspace_ae133ccca0572c373116f819f984e683" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_dd7c32e222a42faf7ba49b0c370dd248" parent="aspace_ae133ccca0572c373116f819f984e683" type="folder">13</container>
             </did>
           </c>
           <c id="aspace_4a5a0bee020bc896211d858aa4a3d7ab" level="file">
             <did>
               <unittitle>Menus and catering</unittitle>
-              <container id="aspace_2522acedfd43269c2976304593ee54d0" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_73b70d6c8fb9fa0951ea9a3895c84abe" parent="aspace_2522acedfd43269c2976304593ee54d0" type="folder">14</container>
+              <container id="aspace_9340a6b3c4c7577bac84c11d6e231a39" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_fe9fa72f5bb0231260ffe506f66630d7" parent="aspace_9340a6b3c4c7577bac84c11d6e231a39" type="folder">14</container>
             </did>
           </c>
           <c id="aspace_038441efabfa4115696140699b24ab06" level="file">
             <did>
               <unittitle>Menus and catering - oversize</unittitle>
-              <container id="aspace_3001b7f09fc6b509b5a1551c79c3772b" label="Mixed Materials" type="box">4</container>
-              <container id="aspace_83926e0d002167136d62d5f027db7928" parent="aspace_3001b7f09fc6b509b5a1551c79c3772b" type="folder">4</container>
+              <container id="aspace_f5184eeb233f80ff6d47670f242afd8b" label="Mixed Materials" type="box">4</container>
+              <container id="aspace_690d4e3bbc69fee05a6dfc97821f9752" parent="aspace_f5184eeb233f80ff6d47670f242afd8b" type="folder">4</container>
             </did>
           </c>
           <c id="aspace_fe4d43a6853dc6774a04f5d80923916c" level="file">
             <did>
               <unittitle>Miscellaneous</unittitle>
               <unitdate certainty="approximate" normal="1987/1988" type="inclusive">1987-1988</unitdate>
-              <container id="aspace_6d1a141f70acac0d9d727b819d094337" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_1b3d22c784c6f1c1b473f6c449ffc14a" parent="aspace_6d1a141f70acac0d9d727b819d094337" type="folder">15</container>
+              <container id="aspace_16997d00e85caae597e119174828f874" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_c5e60488ed7b00d52370b212902ee281" parent="aspace_16997d00e85caae597e119174828f874" type="folder">15</container>
             </did>
           </c>
           <c id="aspace_825f3f6b9883bbdd985e25d8ad9fe1fe" level="file">
             <did>
               <unittitle>Poetry readings</unittitle>
               <unitdate certainty="approximate" normal="1987/1989" type="inclusive">1987-1989</unitdate>
-              <container id="aspace_5b56832d0fac355383cdc5174ebb460e" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_6be860b87b9fcc9088f552894dc90f38" parent="aspace_5b56832d0fac355383cdc5174ebb460e" type="folder">16</container>
+              <container id="aspace_8d9a57a5ed5dfa876363f0fe43600a48" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_a7d27e3dc3c03922260a7354c431581f" parent="aspace_8d9a57a5ed5dfa876363f0fe43600a48" type="folder">16</container>
             </did>
           </c>
           <c id="aspace_a49a86ec287f32420e1dfd3a41b02471" level="file">
             <did>
               <unittitle>Promotions</unittitle>
-              <container id="aspace_db5f58db5c73b8c37d781c38fff269ba" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_de4df79d2313171c90123f2c67cdcb7b" parent="aspace_db5f58db5c73b8c37d781c38fff269ba" type="folder">17</container>
+              <container id="aspace_e3417ad6b0a3061611dd8c85cde45660" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_9817149049368fa9364cb0159e9f7e83" parent="aspace_e3417ad6b0a3061611dd8c85cde45660" type="folder">17</container>
             </did>
           </c>
           <c id="aspace_e60542e09d35183f41263984319b23a0" level="file">
             <did>
               <unittitle>Promotions</unittitle>
-              <container id="aspace_f53be5b5b016e84a0acff170947be05c" label="Mixed Materials" type="box">2</container>
-              <container id="aspace_ceb0b65235b8c4c3610a09dac642bed6" parent="aspace_f53be5b5b016e84a0acff170947be05c" type="folder">18</container>
+              <container id="aspace_b328051e9dcdc7eec7dad1348b7952dc" label="Mixed Materials" type="box">2</container>
+              <container id="aspace_b14debec861e5a30f02f1bb33a8f22b2" parent="aspace_b328051e9dcdc7eec7dad1348b7952dc" type="folder">18</container>
             </did>
           </c>
           <c id="aspace_7c7c9311a1276c26705b9b07c33f98f4" level="file">
             <did>
               <unittitle>Promotions - oversize</unittitle>
-              <container id="aspace_9ec7a8c8b04ea7fbfc0cef642151f0d7" label="Mixed Materials" type="box">4</container>
-              <container id="aspace_193ec86c1a717774150631e213719cee" parent="aspace_9ec7a8c8b04ea7fbfc0cef642151f0d7" type="folder">5</container>
+              <container id="aspace_64bcb35945150a6335a7bfc8d1c8cf54" label="Mixed Materials" type="box">4</container>
+              <container id="aspace_234ecbe26889d05f41b8efff01684b42" parent="aspace_64bcb35945150a6335a7bfc8d1c8cf54" type="folder">5</container>
             </did>
           </c>
           <c id="aspace_65f673c75fbd54c4f85003b5612a6589" level="file">
             <did>
               <unittitle>Special events</unittitle>
               <unitdate certainty="approximate" normal="1987/1990" type="inclusive">1987-1990</unitdate>
-              <container id="aspace_796c06318217a97b8f7d65f75b2a37d2" label="Mixed Materials" type="box">3</container>
-              <container id="aspace_42f75d14cd6660aec8c26376a03b1ad6" parent="aspace_796c06318217a97b8f7d65f75b2a37d2" type="folder">1</container>
+              <container id="aspace_d5e767746a6e8a652855441d8f21958b" label="Mixed Materials" type="box">3</container>
+              <container id="aspace_561d0816c49014039193c3bc740055d8" parent="aspace_d5e767746a6e8a652855441d8f21958b" type="folder">1</container>
             </did>
           </c>
           <c id="aspace_fe5b4ee1aa4f4cb52cd680f0ccdc16b0" level="file">
             <did>
               <unittitle>Special events</unittitle>
               <unitdate certainty="approximate" normal="1987/1990" type="inclusive">1987-1990</unitdate>
-              <container id="aspace_f33f9446d0fad872bda416016635c5b0" label="Mixed Materials" type="box">3</container>
-              <container id="aspace_f46d842724b329c46f94169d1a08247d" parent="aspace_f33f9446d0fad872bda416016635c5b0" type="folder">2</container>
+              <container id="aspace_33f50b5ced39436c077995d832d36396" label="Mixed Materials" type="box">3</container>
+              <container id="aspace_d9a71549a32651ab33e60ca939bc48ac" parent="aspace_33f50b5ced39436c077995d832d36396" type="folder">2</container>
             </did>
           </c>
           <c id="aspace_7d96b0651392dc67871efa38bf4aca34" level="file">
             <did>
               <unittitle>Special events</unittitle>
               <unitdate certainty="approximate" normal="1987/1990" type="inclusive">1987-1990</unitdate>
-              <container id="aspace_1435061576792c414a48e1912f25d309" label="Mixed Materials" type="box">3</container>
-              <container id="aspace_b8eb9025c0cf40c225f68a29fbaa0e2a" parent="aspace_1435061576792c414a48e1912f25d309" type="folder">3</container>
+              <container id="aspace_2baa1a94bfcff457c169c6a444ffc603" label="Mixed Materials" type="box">3</container>
+              <container id="aspace_c183c8c5434b114e62cf69bf9b5159c8" parent="aspace_2baa1a94bfcff457c169c6a444ffc603" type="folder">3</container>
             </did>
           </c>
           <c id="aspace_fe9c6bb8d4d96ab27de41f7f15b6a1b9" level="file">
             <did>
               <unittitle>Special events - oversize</unittitle>
               <unitdate certainty="approximate" normal="1987/1990" type="inclusive">1987-1990</unitdate>
-              <container id="aspace_532fc7cc4156d414a1f9d22bcb4eddd4" label="Mixed Materials" type="box">4</container>
-              <container id="aspace_97ac887c1217f2260d24dd5b9486e908" parent="aspace_532fc7cc4156d414a1f9d22bcb4eddd4" type="folder">3</container>
+              <container id="aspace_ad192b1e7e008d7bcaf4511462a3b487" label="Mixed Materials" type="box">4</container>
+              <container id="aspace_4a23902ac4ce43f74a7a6410fcbb9fd0" parent="aspace_ad192b1e7e008d7bcaf4511462a3b487" type="folder">3</container>
             </did>
           </c>
           <c id="aspace_66108eeb8cf696607d2b95d758106e05" level="file">
             <did>
               <unittitle>Theatrical productions</unittitle>
-              <container id="aspace_2a43186e04a80130788f476bfbb20381" label="Mixed Materials" type="box">3</container>
-              <container id="aspace_98f73ff79052ae86f112090d12785584" parent="aspace_2a43186e04a80130788f476bfbb20381" type="folder">4</container>
+              <container id="aspace_76eec60a8654bdb197c8c1e8b6f8e3a4" label="Mixed Materials" type="box">3</container>
+              <container id="aspace_7c96f53f1a8730caf2cddcb5a6450aac" parent="aspace_76eec60a8654bdb197c8c1e8b6f8e3a4" type="folder">4</container>
             </did>
           </c>
         </c>
@@ -629,16 +629,16 @@ Collection 0195-SCPA</p>
             <did>
               <unittitle>9: 30 Club - Dylan's Cafe</unittitle>
               <unitdate certainty="approximate" normal="1987/1990" type="inclusive">1987-1990</unitdate>
-              <container id="aspace_f9c0106932183a40fbed85c73dfd9372" label="Mixed Materials" type="box">3</container>
-              <container id="aspace_fb8359ed34157bcce86febcdd573e41b" parent="aspace_f9c0106932183a40fbed85c73dfd9372" type="folder">5</container>
+              <container id="aspace_a7f38d71f65a92feb42ff3fea96a3fe1" label="Mixed Materials" type="box">3</container>
+              <container id="aspace_e9c00412b81855af6acb8c0159ed6f46" parent="aspace_a7f38d71f65a92feb42ff3fea96a3fe1" type="folder">5</container>
             </did>
           </c>
           <c id="aspace_a768a3d25431cda894d21654c71a9508" level="file">
             <did>
               <unittitle>Ft.RenoPark - WilsonCenter</unittitle>
               <unitdate certainty="approximate" normal="1987/1990" type="inclusive">1987-1990</unitdate>
-              <container id="aspace_d664f6480e256e66d98ea63d79a917e7" label="Mixed Materials" type="box">3</container>
-              <container id="aspace_78753a0b12b7ea61560fb1321628e99d" parent="aspace_d664f6480e256e66d98ea63d79a917e7" type="folder">6</container>
+              <container id="aspace_5a4c8652641aa23d2560e55172fb2a8b" label="Mixed Materials" type="box">3</container>
+              <container id="aspace_823057c8c0d1044101fc1706a7ac1505" parent="aspace_5a4c8652641aa23d2560e55172fb2a8b" type="folder">6</container>
             </did>
           </c>
         </c>
@@ -660,99 +660,99 @@ Collection 0195-SCPA</p>
           <did>
             <unittitle>10th anniversary program advertisements</unittitle>
             <unitdate normal="1987/1987">1987</unitdate>
-            <container id="aspace_b33e3d4d2f7203bae90cab36d05e5673" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_6d4132ac02ad40ccc3f20764a8816e58" parent="aspace_b33e3d4d2f7203bae90cab36d05e5673" type="folder">7</container>
+            <container id="aspace_9949c63fbd33b8778eed34a39808c1b7" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_69601f71ccd6923e9c569d1d6464f5dc" parent="aspace_9949c63fbd33b8778eed34a39808c1b7" type="folder">7</container>
           </did>
         </c>
         <c id="aspace_334742652ccf5009146a69c4bc5985b1" level="file">
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate certainty="approximate" normal="1992/1992">1992</unitdate>
-            <container id="aspace_96a23b5ba0f83b90e7b869fdbd251f2f" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_df42aee0deaa82f67327b432ee35b5b5" parent="aspace_96a23b5ba0f83b90e7b869fdbd251f2f" type="folder">8</container>
+            <container id="aspace_8d642e869c11a4f4734b4d9749dc2de3" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_6256176e80e1f4590392235f13783182" parent="aspace_8d642e869c11a4f4734b4d9749dc2de3" type="folder">8</container>
           </did>
         </c>
         <c id="aspace_fd3d16ee50d612ed472f3b29595f8cfb" level="file">
           <did>
             <unittitle>d.c.space ink stamp</unittitle>
-            <container id="aspace_9d8586d802b527e9d3775e021e520cdb" label="Mixed Materials" type="box">4</container>
-            <container id="aspace_e1a2d136cedefe2db7274bf41f5df0d9" parent="aspace_9d8586d802b527e9d3775e021e520cdb" type="folder">Unknown</container>
+            <container id="aspace_7856b6745277510f3aa20c57ca8cdb65" label="Mixed Materials" type="box">4</container>
+            <container id="aspace_626d2e65f592ee0c0952e8c30b295bc6" parent="aspace_7856b6745277510f3aa20c57ca8cdb65" type="folder">Unknown</container>
           </did>
         </c>
         <c id="aspace_30ea744b010e47ea74b8b98f6096b54b" level="file">
           <did>
             <unittitle>Employee passes</unittitle>
-            <container id="aspace_8402b68d1715d05914dbd0a030c95714" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_a9e806ce0f43b9e1e0ce53adbf659969" parent="aspace_8402b68d1715d05914dbd0a030c95714" type="folder">9</container>
+            <container id="aspace_17cfa7241433d531164b2c11303feaf0" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_61d265d6af674e9e3c39c6fb105d4a0e" parent="aspace_17cfa7241433d531164b2c11303feaf0" type="folder">9</container>
           </did>
         </c>
         <c id="aspace_00f4d1aa88f8cfab2ea28c3c63386d1a" level="file">
           <did>
             <unittitle>Mailing list</unittitle>
             <unitdate normal="1991/1991">1991</unitdate>
-            <container id="aspace_0827165877eb26d14649e403aacb8c98" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_17f936c1778fb3ea2b8425fc01c8fe20" parent="aspace_0827165877eb26d14649e403aacb8c98" type="folder">10</container>
+            <container id="aspace_1ed2a03c354158d6a12611ac2f890ecc" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_e9010ee61aa57f9255f893a8ba0e0107" parent="aspace_1ed2a03c354158d6a12611ac2f890ecc" type="folder">10</container>
           </did>
         </c>
         <c id="aspace_2485059292f7c6d024c849cf63563c14" level="file">
           <did>
             <unittitle>Newspaper articles and newsletters</unittitle>
             <unitdate normal="1989/1991" type="inclusive">1989-1991</unitdate>
-            <container id="aspace_3efc194fb55607df79bc21052d5d6683" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_8d1416bc21a23c101594ef7c7337b597" parent="aspace_3efc194fb55607df79bc21052d5d6683" type="folder">11</container>
+            <container id="aspace_d25f1acf440261d65ac92bfe57105d53" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_194ed01d1323b3ac3850ad340b4a6575" parent="aspace_d25f1acf440261d65ac92bfe57105d53" type="folder">11</container>
           </did>
         </c>
         <c id="aspace_d24c53049daa5150e478c2e55263e304" level="file">
           <did>
             <unittitle>Performance agreement contract form [blank]</unittitle>
-            <container id="aspace_520dcddb1a1ad75b27d4c6c026cfc31a" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_bd3493a0367a0ea892897d12b4c0c5f8" parent="aspace_520dcddb1a1ad75b27d4c6c026cfc31a" type="folder">12</container>
+            <container id="aspace_b1b1f4dbb8ca3f17a01dd8296522f64e" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_997e0c66c56620c424ea61007c29c743" parent="aspace_b1b1f4dbb8ca3f17a01dd8296522f64e" type="folder">12</container>
           </did>
         </c>
         <c id="aspace_e2b12602f12ef83b969196ac57b071e4" level="file">
           <did>
             <unittitle>Phoneinformation</unittitle>
-            <container id="aspace_861c794f7b27d82eb5814c88dc58dc52" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_275ac5dd53103f4b0b2220d84aa87035" parent="aspace_861c794f7b27d82eb5814c88dc58dc52" type="folder">13</container>
+            <container id="aspace_e33768aecd8a15dc4bcb5532ad2ce2f0" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_23c1895b4fe8aad37e5a0cd30bd8c933" parent="aspace_e33768aecd8a15dc4bcb5532ad2ce2f0" type="folder">13</container>
           </did>
         </c>
         <c id="aspace_5e699b649cc8ac8f9a6eb564583f6a6c" level="file">
           <did>
             <unittitle>Signage</unittitle>
-            <container id="aspace_8cfb69ab13eb83b3d6b81819d785278c" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_34f348440904fc53122a3622bdc927a7" parent="aspace_8cfb69ab13eb83b3d6b81819d785278c" type="folder">14</container>
+            <container id="aspace_76ccbc8f9045b9a8927f77439f122bf7" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_ef92504e272a2f22ec755e72fd503777" parent="aspace_76ccbc8f9045b9a8927f77439f122bf7" type="folder">14</container>
           </did>
         </c>
         <c id="aspace_345448164d74400b7effce4b6fb52814" level="file">
           <did>
             <unittitle>Visitor's Guide advertisements</unittitle>
             <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
-            <container id="aspace_b529a2d359532774b8f5b8f3b1f8fb5a" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_ead36976af61ad2ecaf32b83a65d3124" parent="aspace_b529a2d359532774b8f5b8f3b1f8fb5a" type="folder">15</container>
+            <container id="aspace_0969cafa1b3fed9354a53155424edaa4" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_b0c93615acee1595ccc23d2e613c7a9e" parent="aspace_0969cafa1b3fed9354a53155424edaa4" type="folder">15</container>
           </did>
         </c>
         <c id="aspace_62cb210e486e1652ebacb06186e958a7" level="file">
           <did>
             <unittitle>Washington City Paper advertisements</unittitle>
             <unitdate normal="1987/1990" type="inclusive">1987-1990</unitdate>
-            <container id="aspace_8520464af72dc57266837164f496cbd7" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_d5035ba9afb2c7d8ff9eb6222f93935b" parent="aspace_8520464af72dc57266837164f496cbd7" type="folder">16</container>
+            <container id="aspace_1e20bf5c0d2ca2afb363763fc0ebc5d4" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_e6309dd10196b8ab49d216e098773b79" parent="aspace_1e20bf5c0d2ca2afb363763fc0ebc5d4" type="folder">16</container>
           </did>
         </c>
         <c id="aspace_295bb9e2663b4e130d581ad78eb69098" level="file">
           <did>
             <unittitle>Washington City Paper advertisements</unittitle>
             <unitdate normal="1991/1991">1991</unitdate>
-            <container id="aspace_076c2c14f1ba6685fb66295d8e5d4e30" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_508db9eaca306a499f032584322700ad" parent="aspace_076c2c14f1ba6685fb66295d8e5d4e30" type="folder">17</container>
+            <container id="aspace_cf0ec2b168c7d2205c72f67f5059c933" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_f48a7293d6cdb733b9f7e5cfff192762" parent="aspace_cf0ec2b168c7d2205c72f67f5059c933" type="folder">17</container>
           </did>
         </c>
         <c id="aspace_412db56f5ae63b8df963d541626ca3c6" level="file">
           <did>
             <unittitle>WashingtonPostadvertisements</unittitle>
             <unitdate normal="1987/1991" type="inclusive">1987-1991</unitdate>
-            <container id="aspace_b282013cfd9848c8b308bf3fcff7c0e8" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_53e97d333c87b58d5e0f5d7cc897a16f" parent="aspace_b282013cfd9848c8b308bf3fcff7c0e8" type="folder">18</container>
+            <container id="aspace_fa01c24b9dada385e0f9e741ba07a767" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_d8fc00cc73063807b782de9e64470753" parent="aspace_fa01c24b9dada385e0f9e741ba07a767" type="folder">18</container>
           </did>
         </c>
       </c>
@@ -772,30 +772,30 @@ Collection 0195-SCPA</p>
           <did>
             <unittitle>Crack DC</unittitle>
             <unitdate normal="1990/1990">1990</unitdate>
-            <container id="aspace_ab44e6a31d6f95436a3435f7008d9285" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_4023f3e033f329a8f0ed22722f90db56" parent="aspace_ab44e6a31d6f95436a3435f7008d9285" type="folder">19</container>
+            <container id="aspace_b58e750fd7a35d8e84ef103a1f0e7963" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_6b5be9d37f2631ed2247d955ba57f66a" parent="aspace_b58e750fd7a35d8e84ef103a1f0e7963" type="folder">19</container>
           </did>
         </c>
         <c id="aspace_219279bbf778a4f09a77d38a811d1561" level="file">
           <did>
             <unittitle>Initiated Illusions cover page</unittitle>
-            <container id="aspace_f01ebc50e1cc6cae8f02c1446f66d262" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_44534643b629ed0f50298b6656968b33" parent="aspace_f01ebc50e1cc6cae8f02c1446f66d262" type="folder">20</container>
+            <container id="aspace_65bf4167fb74035220a0b45f9e227652" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_15dcfcc9ee078a889e6a5b446e624614" parent="aspace_65bf4167fb74035220a0b45f9e227652" type="folder">20</container>
           </did>
         </c>
         <c id="aspace_a8caf14ff6d523430bbb7cb007c50a49" level="file">
           <did>
             <unittitle>Pit Magazine</unittitle>
             <unitdate certainty="approximate" normal="1987/1988" type="inclusive">1987-1988</unitdate>
-            <container id="aspace_3becf05035098f381afeb11b5ce39add" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_14a5f323dfc2f5e0b1e54f30703a9f8c" parent="aspace_3becf05035098f381afeb11b5ce39add" type="folder">21</container>
+            <container id="aspace_36afdd4fbe222e0dc8654259720739ae" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_36057b0f676120ed15ecd0f02d66b0e1" parent="aspace_36afdd4fbe222e0dc8654259720739ae" type="folder">21</container>
           </did>
         </c>
         <c id="aspace_e98d23425adec6fccbfe0e44cd7dde5b" level="file">
           <did>
             <unittitle>Wilding Zine</unittitle>
-            <container id="aspace_63f35f1a5280f9993f88bf8b21837d0a" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_a36c540a57e82e8b2e066dc3014707b5" parent="aspace_63f35f1a5280f9993f88bf8b21837d0a" type="folder">22</container>
+            <container id="aspace_585a82a7fdf804ee856c090a7b59d4db" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_93bd2c69dacb0029ed6ab70a6f93f44a" parent="aspace_585a82a7fdf804ee856c090a7b59d4db" type="folder">22</container>
           </did>
         </c>
       </c>

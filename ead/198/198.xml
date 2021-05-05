@@ -1,0 +1,628 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://thepeoplesarchive.dclibrary.org">198_MaxPeterson</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Peterson, Max (Oral History Project)</titleproper>
+        <titleproper>Max Peterson Oral History Project <num>198</num></titleproper>
+        <subtitle>An inventory of Max Peterson Oral History Project at DC Public Library</subtitle>
+        <author>Laura Farley</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>People's Archive, MLK Library</publisher>
+        <p>
+          <date>2021-02-12</date>
+        </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>peoples.archive@dc.gov</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-05-05 09:46:21 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>People's Archive, MLK Library</corpname>
+      </repository>
+      <unittitle>Max Peterson Oral History Project</unittitle>
+      <origination label="creator">
+        <persname source="local">Peterson, Max</persname>
+      </origination>
+      <origination label="creator">
+        <persname source="local">Hunt, Isaac Cosby, III, 1971-</persname>
+      </origination>
+      <origination label="creator">
+        <persname source="local">Crutchfield, Edith Amanda, 1936-</persname>
+      </origination>
+      <unitid>198</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">26.2 Gigabytes</extent>
+        <extent altrender="carrier">DIG_00029</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">37 Files</extent>
+        <extent altrender="carrier">DIG_00029</extent>
+      </physdesc>
+      <unitdate normal="1931/2020-12" type="inclusive">1931-2020, undated</unitdate>
+      <unitdate normal="2020-10/2020-12" type="bulk">2020-10-2020-12</unitdate>
+      <langmaterial id="aspace_3d1e2ca37935faa17f91f4401d7c2e71">English</langmaterial>
+    </did>
+    <arrangement id="aspace_cc38ba8cb61efddc6561a504e993c4cd">
+      <head>Arrangement</head>
+      <p>Interviews are group into two series:<br/>
+Series 1: Cosby Hunt<br/>
+Series 2: Edith Crutchield</p>
+    </arrangement>
+    <bioghist id="aspace_c4e18d7af69d1509a884c060b8629baa">
+      <head>Biographical / Historical</head>
+      <p>Max Peterson is an educator at The Center for Inspired Teaching and has been co-teacher of Real World History since 2017. Mr. Peterson completed these interviews in connection to his thesis work for Columbia University's Oral History Master of Arts program.</p>
+    </bioghist>
+    <custodhist id="aspace_7a6fde5fa894f87cf8b8ad059dedba9a">
+      <head>Custodial History</head>
+      <p>Max Peterson donated the collection to DC Public Library in 2020.</p>
+    </custodhist>
+    <processinfo id="aspace_007e3528aa78da37aab6f67b0a0b6954">
+      <head>Processing Information</head>
+      <p>The collection recieved minimal procesing. Files were renamed to adhere to DCPL naming conventions.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_84d4ffa1dd29d6843bc6b7d645ee94cb">
+      <head>Related Materials</head>
+      <p>Collection 194: Center for Inspired Teaching 'Real World History' Oral History Project</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_fc7c0b485d8363e30f485c0a647ec22c">
+      <head>Content Description</head>
+      <p>The Max Peterson Oral History Project is a companion project to the Center for Inspired Teaching 'Real World History' Oral History Project. This project includes interviews with Cosby Hunt, a native Washingtonian and creator of the Real World History Class, and Ms. Edith Crutchfield, a long-time D.C. resident who moved to Washington from Culpeper, Virginia, in 1953. Ms. Crutchfield first became involved with Real World History when she collaborated on an oral history project with a student in the fall of 2018. Ms. Edith's interview from Real World History can be found in the Center for Inspired Teaching 'Real World History' Oral History Project. The interviews in this collection, of both Mr. Hunt and Ms. Crutchfield, take a life history approach in which the interviewees discuss some of their life experiences beginning with their early life. Over the course of several interviews, Mr. Hunt discusses his upbringing in Washington, his career as a high school history teacher, and the development of the Real World History Class; Ms. Edith discusses her upbringing in Culpeper, her move to Washington in 1953, and her life and career in the District.</p>
+    </scopecontent>
+    <userestrict id="aspace_4136db296808157aa6a6b3fe1d8b5388">
+      <head>Conditions Governing Use</head>
+      <p>DC Public Library holds copyright for all of the Max Peterson Oral History Project.</p>
+    </userestrict>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85085069" source="Library of Congress Subject Headings">Migration, Internal</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85047009" source="Library of Congress Subject Headings">Families</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85001932" source="Library of Congress Subject Headings">African Americans</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85095238" source="Library of Congress Subject Headings">Oral History</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_49225f88b7206294c8ccd1c6136104bf" level="series">
+        <did>
+          <unittitle>Series 1: Cosby Hunt</unittitle>
+          <unitdate normal="1931/2020" type="inclusive">1931 -2020, undated</unitdate>
+        </did>
+        <bioghist id="aspace_061cdc529fbedbdd6f924087fdb16731">
+          <head>Biographical / Historical</head>
+          <p>Isaac Cosby Hunt, born December 12 1971, is a high school history teacher in Washington, D.C., and a native Washingtonian. Cosby is the only child of Isaac 'Ike' Cosby Hunt Jr. and Elizabeth 'Betty' Dollie Hunt. Cosby grew up in the Hawthorne neighborhood of D.C. and attended Lafayette Elementary School and St. Albans School before graduating from University of Pennsylvania. Upon completing his undergraduate degree, Cosby began his career as an educator by joining Teach for America (TFA). Cosby taught for two years at his TFA placement in Hancock County, Georgia, before enrolling in a graduate education program at the University of Georgia. After receiving his master's degree, Cosby returned to Washington, D.C., to become a public school teacher and taught at Bell Multicultural High School (now CHEC - Columbia Heights Education Campus) for 13 years before leaving to work for Center for Inspired Teaching, an educational non-profit with a focus on innovative teacher training. After several years of working with teachers, Cosby began teaching a city-wide history course called Real World History, a program he developed for Inspired Teaching youth programs, which was piloted in SY 2014-2015. In SY 2019-2020, Cosby returned to full-time classroom teaching and began working at Thurgood Marshall Academy in Anacostia.</p>
+        </bioghist>
+        <c id="aspace_8d54bee71207511d3ebe1354eb2f94f1" level="subseries">
+          <did>
+            <unittitle>Sub-Series 1: Interviews</unittitle>
+            <unitdate normal="2020-10/2020-10">2020-10</unitdate>
+            <langmaterial id="aspace_155fb2bb2be6d779a44bdceb79d77084">English</langmaterial>
+          </did>
+          <c id="aspace_27d7c8f4bf1422198a42bd527ee0e90b" level="item">
+            <did>
+              <unittitle>Session 1</unittitle>
+              <origination label="creator">
+                <persname source="local">Hunt, Isaac Cosby, III, 1971-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-10-13/2020-10-13">2020-10-13</unitdate>
+              <langmaterial id="aspace_91d3abe0dcf517a3d0d7b2233238b845">English</langmaterial>
+            </did>
+            <bioghist id="aspace_edccac45e207789cae5de43d57d663fb">
+              <head>Biographical / Historical</head>
+              <p>Isaac Cosby Hunt, born December 12 1971, is a high school history teacher in Washington, D.C., and a native Washingtonian. Cosby is the only child of Isaac 'Ike' Cosby Hunt Jr. and Elizabeth 'Betty' Dollie Hunt. Cosby grew up in the Hawthorne neighborhood of D.C. and attended Lafayette Elementary School and St. Albans School before graduating from University of Pennsylvania. Upon completing his undergraduate degree, Cosby began his career as an educator by joining Teach for America (TFA). Cosby taught for two years at his TFA placement in Hancock County, Georgia, before enrolling in a graduate education program at the University of Georgia. After receiving his master's degree, Cosby returned to Washington, D.C., to become a public school teacher and taught at Bell Multicultural High School (now CHEC - Columbia Heights Education Campus) for 13 years before leaving to work for Center for Inspired Teaching, an educational non-profit with a focus on innovative teacher training. After several years of working with teachers, Cosby began teaching a city-wide history course called Real World History, a program he developed for Inspired Teaching youth programs, which was piloted in SY 2014-2015. In SY 2019-2020, Cosby returned to full-time classroom teaching and began working at Thurgood Marshall Academy in Anacostia.</p>
+            </bioghist>
+            <scopecontent id="aspace_32a7baf73cefdd2f1137a3541a0aa6e1">
+              <head>Scope and Contents</head>
+              <p>This is the first session of a life history interview with Cosby Hunt, a career educator, native Washingtonian, and creator of Real World History at the Center for Inspired Teaching. In this interview Cosby Hunt reflects on this his family background, his parent's lives, and his early life in Washington, D.C., in the 1970s and 1980s.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_cf696f23048b44141830015c0ed93e33" level="item">
+            <did>
+              <unittitle>Session 2</unittitle>
+              <origination label="creator">
+                <persname source="local">Hunt, Isaac Cosby, III, 1971-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-10-20/2020-10-20">2020-10-20</unitdate>
+              <langmaterial id="aspace_0dddccdf33b068e0803f2011d0e2f84b">English</langmaterial>
+            </did>
+            <bioghist id="aspace_0c08ef4304220065a67b905e61961982">
+              <head>Biographical / Historical</head>
+              <p>Isaac Cosby Hunt, born December 12 1971, is a high school history teacher in Washington, D.C., and a native Washingtonian. Cosby is the only child of Isaac 'Ike' Cosby Hunt Jr. and Elizabeth 'Betty' Dollie Hunt. Cosby grew up in the Hawthorne neighborhood of D.C. and attended Lafayette Elementary School and St. Albans School before graduating from University of Pennsylvania. Upon completing his undergraduate degree, Cosby began his career as an educator by joining Teach for America (TFA). Cosby taught for two years at his TFA placement in Hancock County, Georgia, before enrolling in a graduate education program at the University of Georgia. After receiving his master's degree, Cosby returned to Washington, D.C., to become a public school teacher and taught at Bell Multicultural High School (now CHEC - Columbia Heights Education Campus) for 13 years before leaving to work for Center for Inspired Teaching, an educational non-profit with a focus on innovative teacher training. After several years of working with teachers, Cosby began teaching a city-wide history course called Real World History, a program he developed for Inspired Teaching youth programs, which was piloted in SY 2014-2015. In SY 2019-2020, Cosby returned to full-time classroom teaching and began working at Thurgood Marshall Academy in Anacostia.</p>
+            </bioghist>
+            <scopecontent id="aspace_6d35ec41d634670effa3317084793abd">
+              <head>Scope and Contents</head>
+              <p>This is the second session of a life history interview with Cosby Hunt, a career educator, native Washingtonian, and creator of Real World History at the Center for Inspired Teaching. In this interview Cosby Hunt discusses some early memories but mainly focuses on his adolescent years and high school experience. He talks about a variety of subjects including: visits to Danville, Virginia, to visit his father's family, his mother's parents in Boston, Massachusetts, his interest in painting as a young man, developing a Black identity in high school, his favorite teachers from St. Albans, his first experiences with loss as a high schooler, and the death of his mother when he was 23 years old.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_af1b0c2e31c5be3a9a227561a06bf016" level="item">
+            <did>
+              <unittitle>Session 3</unittitle>
+              <origination label="creator">
+                <persname source="local">Hunt, Isaac Cosby, III, 1971-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-10-27/2020-10-27">2020-10-27</unitdate>
+              <langmaterial id="aspace_afc395c1d03ba4973c77fd57cb5d3099">English</langmaterial>
+            </did>
+            <bioghist id="aspace_f79bd6221605e8ab3b08bcfa09e1eafd">
+              <head>Biographical / Historical</head>
+              <p>Isaac Cosby Hunt, born December 12 1971, is a high school history teacher in Washington, D.C., and a native Washingtonian. Cosby is the only child of Isaac 'Ike' Cosby Hunt Jr. and Elizabeth 'Betty' Dollie Hunt. Cosby grew up in the Hawthorne neighborhood of D.C. and attended Lafayette Elementary School and St. Albans School before graduating from University of Pennsylvania. Upon completing his undergraduate degree, Cosby began his career as an educator by joining Teach for America (TFA). Cosby taught for two years at his TFA placement in Hancock County, Georgia, before enrolling in a graduate education program at the University of Georgia. After receiving his master's degree, Cosby returned to Washington, D.C., to become a public school teacher and taught at Bell Multicultural High School (now CHEC - Columbia Heights Education Campus) for 13 years before leaving to work for Center for Inspired Teaching, an educational non-profit with a focus on innovative teacher training. After several years of working with teachers, Cosby began teaching a city-wide history course called Real World History, a program he developed for Inspired Teaching youth programs, which was piloted in SY 2014-2015. In SY 2019-2020, Cosby returned to full-time classroom teaching and began working at Thurgood Marshall Academy in Anacostia.</p>
+            </bioghist>
+            <scopecontent id="aspace_a558b162d181a7a5139210c053b45147">
+              <head>Scope and Contents</head>
+              <p>This is the third session of a life history interview with Cosby Hunt, a career educator, native Washingtonian, and creator of Real World History at the Center for Inspired Teaching. In this interview Cosby Hunt discusses his college experience at the University of Pennsylvania, teaching in Hancock County, Georgia, through Teach for America, and his experience attending graduate school at the University of Georgia.</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_9c670bb3fab6a4e59aeb6c4facc64bcc" level="subseries">
+          <did>
+            <unittitle>Sub-Series 2: Indexes</unittitle>
+            <unitdate normal="2020-10/2020-10">2020-10</unitdate>
+            <langmaterial id="aspace_60bb42b5635945cd207ef15e1e531366">English</langmaterial>
+          </did>
+          <c id="aspace_bfdeb06e81a6bbabedb144a4a35091fa" level="item">
+            <did>
+              <unittitle>Session 1 index</unittitle>
+              <origination label="creator">
+                <persname source="local">Hunt, Isaac Cosby, III, 1971-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-10-13/2020-10-13">2020-10-13</unitdate>
+              <langmaterial id="aspace_2f5dab895e1f9ef393cebade84499fda">English</langmaterial>
+            </did>
+            <bioghist id="aspace_aea8748f8a512e5ee684d8eb98508caf">
+              <head>Biographical / Historical</head>
+              <p>Isaac Cosby Hunt, born December 12 1971, is a high school history teacher in Washington, D.C., and a native Washingtonian. Cosby is the only child of Isaac 'Ike' Cosby Hunt Jr. and Elizabeth 'Betty' Dollie Hunt. Cosby grew up in the Hawthorne neighborhood of D.C. and attended Lafayette Elementary School and St. Albans School before graduating from University of Pennsylvania. Upon completing his undergraduate degree, Cosby began his career as an educator by joining Teach for America (TFA). Cosby taught for two years at his TFA placement in Hancock County, Georgia, before enrolling in a graduate education program at the University of Georgia. After receiving his master's degree, Cosby returned to Washington, D.C., to become a public school teacher and taught at Bell Multicultural High School (now CHEC - Columbia Heights Education Campus) for 13 years before leaving to work for Center for Inspired Teaching, an educational non-profit with a focus on innovative teacher training. After several years of working with teachers, Cosby began teaching a city-wide history course called Real World History, a program he developed for Inspired Teaching youth programs, which was piloted in SY 2014-2015. In SY 2019-2020, Cosby returned to full-time classroom teaching and began working at Thurgood Marshall Academy in Anacostia.</p>
+            </bioghist>
+            <scopecontent id="aspace_f2b94d98759deb9b5bd4ae36a016fee0">
+              <head>Scope and Contents</head>
+              <p>This is the first session of a life history interview with Cosby Hunt, a career educator, native Washingtonian, and creator of Real World History at the Center for Inspired Teaching. In this interview Cosby Hunt reflects on this his family background, his parent's lives, and his early life in Washington, D.C., in the 1970s and 1980s.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_a03cbbe3de01d7983732d2f3c483d837" level="item">
+            <did>
+              <unittitle>Session 2 index</unittitle>
+              <origination label="creator">
+                <persname source="local">Hunt, Isaac Cosby, III, 1971-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-10-20/2020-10-20">2020-10-20</unitdate>
+              <langmaterial id="aspace_54708f7d3f7219c5445c1d0b2d0ec228">English</langmaterial>
+            </did>
+            <bioghist id="aspace_270a07e2087c1aa43ab40975f6318306">
+              <head>Biographical / Historical</head>
+              <p>Isaac Cosby Hunt, born December 12 1971, is a high school history teacher in Washington, D.C., and a native Washingtonian. Cosby is the only child of Isaac 'Ike' Cosby Hunt Jr. and Elizabeth 'Betty' Dollie Hunt. Cosby grew up in the Hawthorne neighborhood of D.C. and attended Lafayette Elementary School and St. Albans School before graduating from University of Pennsylvania. Upon completing his undergraduate degree, Cosby began his career as an educator by joining Teach for America (TFA). Cosby taught for two years at his TFA placement in Hancock County, Georgia, before enrolling in a graduate education program at the University of Georgia. After receiving his master's degree, Cosby returned to Washington, D.C., to become a public school teacher and taught at Bell Multicultural High School (now CHEC - Columbia Heights Education Campus) for 13 years before leaving to work for Center for Inspired Teaching, an educational non-profit with a focus on innovative teacher training. After several years of working with teachers, Cosby began teaching a city-wide history course called Real World History, a program he developed for Inspired Teaching youth programs, which was piloted in SY 2014-2015. In SY 2019-2020, Cosby returned to full-time classroom teaching and began working at Thurgood Marshall Academy in Anacostia.</p>
+            </bioghist>
+            <scopecontent id="aspace_2412a7369305ad2edfb89931da3c72d9">
+              <head>Scope and Contents</head>
+              <p>This is the second session of a life history interview with Cosby Hunt, a career educator, native Washingtonian, and creator of Real World History at the Center for Inspired Teaching. In this interview Cosby Hunt discusses some early memories but mainly focuses on his adolescent years and high school experience. He talks about a variety of subjects including: visits to Danville, Virginia, to visit his father's family, his mother's parents in Boston, Massachusetts, his interest in painting as a young man, developing a Black identity in high school, his favorite teachers from St. Albans, his first experiences with loss as a high schooler, and the death of his mother when he was 23 years old.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_de9b61430bf624397f031a76ba4328ef" level="item">
+            <did>
+              <unittitle>Session 3 index</unittitle>
+              <origination label="creator">
+                <persname source="local">Hunt, Isaac Cosby, III, 1971-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-10-27/2020-10-27">2020-10-27</unitdate>
+              <langmaterial id="aspace_7b0f823882078d6176b91ca318c8ea25">English</langmaterial>
+            </did>
+            <bioghist id="aspace_a401e1377d889f775625c5afd60a444c">
+              <head>Biographical / Historical</head>
+              <p>Isaac Cosby Hunt, born December 12 1971, is a high school history teacher in Washington, D.C., and a native Washingtonian. Cosby is the only child of Isaac 'Ike' Cosby Hunt Jr. and Elizabeth 'Betty' Dollie Hunt. Cosby grew up in the Hawthorne neighborhood of D.C. and attended Lafayette Elementary School and St. Albans School before graduating from University of Pennsylvania. Upon completing his undergraduate degree, Cosby began his career as an educator by joining Teach for America (TFA). Cosby taught for two years at his TFA placement in Hancock County, Georgia, before enrolling in a graduate education program at the University of Georgia. After receiving his master's degree, Cosby returned to Washington, D.C., to become a public school teacher and taught at Bell Multicultural High School (now CHEC - Columbia Heights Education Campus) for 13 years before leaving to work for Center for Inspired Teaching, an educational non-profit with a focus on innovative teacher training. After several years of working with teachers, Cosby began teaching a city-wide history course called Real World History, a program he developed for Inspired Teaching youth programs, which was piloted in SY 2014-2015. In SY 2019-2020, Cosby returned to full-time classroom teaching and began working at Thurgood Marshall Academy in Anacostia.</p>
+            </bioghist>
+            <scopecontent id="aspace_b4010ea2a58da06f431e58b6b7b6fbef">
+              <head>Scope and Contents</head>
+              <p>This is the third session of a life history interview with Cosby Hunt, a career educator, native Washingtonian, and creator of Real World History at the Center for Inspired Teaching. In this interview Cosby Hunt discusses his college experience at the University of Pennsylvania, teaching in Hancock County, Georgia, through Teach for America, and his experience attending graduate school at the University of Georgia.</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_32b8f19e5ca853ae00930bcabd54f2a8" level="subseries">
+          <did>
+            <unittitle>Sub-Series 3: Transcripts</unittitle>
+            <unitdate normal="2020-10/2020-10">2020-10</unitdate>
+            <langmaterial id="aspace_37d9a0527f4c4893a4cee20f04eea9d1">English</langmaterial>
+          </did>
+          <c id="aspace_4e81fd67d17961da654804f523012084" level="item">
+            <did>
+              <unittitle>Session 1 transcript</unittitle>
+              <origination label="creator">
+                <persname source="local">Hunt, Isaac Cosby, III, 1971-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-10-13/2020-10-13">2020-10-13</unitdate>
+              <langmaterial id="aspace_7a2bab2a969d09aa119c9839f4528b89">English</langmaterial>
+            </did>
+            <bioghist id="aspace_0330b7722a260caccfed4e1f095fb54b">
+              <head>Biographical / Historical</head>
+              <p>Isaac Cosby Hunt, born December 12 1971, is a high school history teacher in Washington, D.C., and a native Washingtonian. Cosby is the only child of Isaac 'Ike' Cosby Hunt Jr. and Elizabeth 'Betty' Dollie Hunt. Cosby grew up in the Hawthorne neighborhood of D.C. and attended Lafayette Elementary School and St. Albans School before graduating from University of Pennsylvania. Upon completing his undergraduate degree, Cosby began his career as an educator by joining Teach for America (TFA). Cosby taught for two years at his TFA placement in Hancock County, Georgia, before enrolling in a graduate education program at the University of Georgia. After receiving his master's degree, Cosby returned to Washington, D.C., to become a public school teacher and taught at Bell Multicultural High School (now CHEC - Columbia Heights Education Campus) for 13 years before leaving to work for Center for Inspired Teaching, an educational non-profit with a focus on innovative teacher training. After several years of working with teachers, Cosby began teaching a city-wide history course called Real World History, a program he developed for Inspired Teaching youth programs, which was piloted in SY 2014-2015. In SY 2019-2020, Cosby returned to full-time classroom teaching and began working at Thurgood Marshall Academy in Anacostia.</p>
+            </bioghist>
+            <scopecontent id="aspace_82275197826ca8d3a89b6653749b3137">
+              <head>Scope and Contents</head>
+              <p>This is the first session of a life history interview with Cosby Hunt, a career educator, native Washingtonian, and creator of Real World History at the Center for Inspired Teaching. In this interview Cosby Hunt reflects on this his family background, his parent's lives, and his early life in Washington, D.C., in the 1970s and 1980s.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_28d7b304ced8092f91e85269adf9623e" level="item">
+            <did>
+              <unittitle>Session 2 transcript</unittitle>
+              <origination label="creator">
+                <persname source="local">Hunt, Isaac Cosby, III, 1971-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-10-20/2020-10-20">2020-10-20</unitdate>
+              <langmaterial id="aspace_c3acbddafa27ebc826d426abfcb8e468">English</langmaterial>
+            </did>
+            <bioghist id="aspace_2981fe0afcf203fc50dd39db79835563">
+              <head>Biographical / Historical</head>
+              <p>Isaac Cosby Hunt, born December 12 1971, is a high school history teacher in Washington, D.C., and a native Washingtonian. Cosby is the only child of Isaac 'Ike' Cosby Hunt Jr. and Elizabeth 'Betty' Dollie Hunt. Cosby grew up in the Hawthorne neighborhood of D.C. and attended Lafayette Elementary School and St. Albans School before graduating from University of Pennsylvania. Upon completing his undergraduate degree, Cosby began his career as an educator by joining Teach for America (TFA). Cosby taught for two years at his TFA placement in Hancock County, Georgia, before enrolling in a graduate education program at the University of Georgia. After receiving his master's degree, Cosby returned to Washington, D.C., to become a public school teacher and taught at Bell Multicultural High School (now CHEC - Columbia Heights Education Campus) for 13 years before leaving to work for Center for Inspired Teaching, an educational non-profit with a focus on innovative teacher training. After several years of working with teachers, Cosby began teaching a city-wide history course called Real World History, a program he developed for Inspired Teaching youth programs, which was piloted in SY 2014-2015. In SY 2019-2020, Cosby returned to full-time classroom teaching and began working at Thurgood Marshall Academy in Anacostia.</p>
+            </bioghist>
+            <scopecontent id="aspace_d5588d49460945fa65fb9a99977ffc60">
+              <head>Scope and Contents</head>
+              <p>This is the second session of a life history interview with Cosby Hunt, a career educator, native Washingtonian, and creator of Real World History at the Center for Inspired Teaching. In this interview Cosby Hunt discusses some early memories but mainly focuses on his adolescent years and high school experience. He talks about a variety of subjects including: visits to Danville, Virginia, to visit his father's family, his mother's parents in Boston, Massachusetts, his interest in painting as a young man, developing a Black identity in high school, his favorite teachers from St. Albans, his first experiences with loss as a high schooler, and the death of his mother when he was 23 years old.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_fcf8270306c75c3322884149bf221eb8" level="item">
+            <did>
+              <unittitle>Session 3 transcript</unittitle>
+              <origination label="creator">
+                <persname source="local">Hunt, Isaac Cosby, III, 1971-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-10-27/2020-10-27">2020-10-27</unitdate>
+              <langmaterial id="aspace_bd4c39edd226b3b27cf3ddbea10a0b36">English</langmaterial>
+            </did>
+            <bioghist id="aspace_84f1202d7e9db26dbec6f6c83be36caf">
+              <head>Biographical / Historical</head>
+              <p>Isaac Cosby Hunt, born December 12 1971, is a high school history teacher in Washington, D.C., and a native Washingtonian. Cosby is the only child of Isaac 'Ike' Cosby Hunt Jr. and Elizabeth 'Betty' Dollie Hunt. Cosby grew up in the Hawthorne neighborhood of D.C. and attended Lafayette Elementary School and St. Albans School before graduating from University of Pennsylvania. Upon completing his undergraduate degree, Cosby began his career as an educator by joining Teach for America (TFA). Cosby taught for two years at his TFA placement in Hancock County, Georgia, before enrolling in a graduate education program at the University of Georgia. After receiving his master's degree, Cosby returned to Washington, D.C., to become a public school teacher and taught at Bell Multicultural High School (now CHEC - Columbia Heights Education Campus) for 13 years before leaving to work for Center for Inspired Teaching, an educational non-profit with a focus on innovative teacher training. After several years of working with teachers, Cosby began teaching a city-wide history course called Real World History, a program he developed for Inspired Teaching youth programs, which was piloted in SY 2014-2015. In SY 2019-2020, Cosby returned to full-time classroom teaching and began working at Thurgood Marshall Academy in Anacostia.</p>
+            </bioghist>
+            <scopecontent id="aspace_360da3df517345a9a911fd5bf0e84c26">
+              <head>Scope and Contents</head>
+              <p>This is the third session of a life history interview with Cosby Hunt, a career educator, native Washingtonian, and creator of Real World History at the Center for Inspired Teaching. In this interview Cosby Hunt discusses his college experience at the University of Pennsylvania, teaching in Hancock County, Georgia, through Teach for America, and his experience attending graduate school at the University of Georgia.</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_d38d8ec4a9a6f572677737665a1ec550" level="subseries">
+          <did>
+            <unittitle>Sub-Section 4: Images</unittitle>
+            <unitdate normal="1931/1947" type="inclusive">1931-1947, Undated</unitdate>
+          </did>
+          <c id="aspace_b04a15379e5225f075d269e1286c3922" level="item">
+            <did>
+              <unittitle>Evelyn D. Allen's North Carolina Negro Teachers' Association Official Membership Card</unittitle>
+              <unitdate normal="1931-04-03/1931-04-03">1931-04-03</unitdate>
+              <langmaterial id="aspace_8ed21c911c84ad3f26ff2c5498f29dbe">English</langmaterial>
+            </did>
+            <scopecontent id="aspace_b2a87e18ab5a137f7c4caaef49beb8ea">
+              <head>Scope and Contents</head>
+              <p>A digital image of Evelyn D. Allen's North Carolina Negro Teachers' Association Official Membership Card. Evelyn Allen or 'Eve' was the Cosby Hunt's paternal grandmother. This item is discussed at [00:40:31] of Cosby Hunt Session 1.</p>
+            </scopecontent>
+            <controlaccess>
+              <persname source="local">Allen, Evelyn D.</persname>
+            </controlaccess>
+          </c>
+          <c id="aspace_f4cc9aedb5a9747c2fc8d3fa0b775e4d" level="item">
+            <did>
+              <unittitle>Lafayette Elementary School Fifth Grade Class</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+            </did>
+            <scopecontent id="aspace_461dd20cbfdf5d2afdcbf9dcf0a1dcd5">
+              <head>Scope and Contents</head>
+              <p>A digital image of a print photograph of Cosby Hunt's fifth grade class photo from Lafayette Elementary School in Washington, D.C. Cosby Hunt is on the far left in the second row. This item is discussed at [00:44:23] Cosby Hunt Session 1.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_d9b88cf5505ebf08548f0d28c1153183" level="item">
+            <did>
+              <unittitle>Cosby Hunt, Sandy Zipp, and Eric Wilson</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+            </did>
+            <scopecontent id="aspace_402d0bb8845d1e98ba0043c8b7d7a9d0">
+              <head>Scope and Contents</head>
+              <p>A digital image of framed print photograph of Cosby Hunt (right) and two close friends, Eric Wilson (left) and Sandy Zipp (center). This item is discussed at [01:03:10] Cosby Hunt Session 1.</p>
+            </scopecontent>
+            <controlaccess>
+              <persname source="local">Hunt, Isaac Cosby, III, 1971-</persname>
+            </controlaccess>
+          </c>
+          <c id="aspace_bf9fa9a6728b55204152760d3237473a" level="item">
+            <did>
+              <unittitle>Portrait of Richard Allen</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+            </did>
+            <scopecontent id="aspace_76f72b3dbfc6073c3a31adc534e11044">
+              <head>Scope and Contents</head>
+              <p>A digital image of what may be a tintype photograph of Richard Allen, great-grandfather to Cosby Hunt on his father's side. This item is discussed at [00:09:44.25] Cosby Hunt Session 2.</p>
+            </scopecontent>
+            <controlaccess>
+              <persname source="local">Allen, Richard</persname>
+            </controlaccess>
+          </c>
+          <c id="aspace_ce4a048c0f12c9134fb03258e29e5c5f" level="item">
+            <did>
+              <unittitle>Isaac Cosby Hunt with his mother and paternal grandparents</unittitle>
+              <unitdate certainty="approximate" normal="1971/1971">1971, ca.</unitdate>
+            </did>
+            <scopecontent id="aspace_7a83d8450602fa148ac5389fc8b43edf">
+              <head>Scope and Contents</head>
+              <p>A digital image of a print photograph of Cosby Hunt as an infant with his mother and paternal grandparents. This item is discussed at [00:40:00.00] Cosby Hunt Session 2.</p>
+            </scopecontent>
+            <controlaccess>
+              <persname source="local">Hunt, Isaac Cosby, III, 1971-</persname>
+            </controlaccess>
+          </c>
+          <c id="aspace_26f97fdb4ba8be841052dc5a0e242860" level="item">
+            <did>
+              <unittitle>National Bankers Association</unittitle>
+              <unitdate normal="1931-04-03/1931-04-03">1931-04-03</unitdate>
+            </did>
+            <scopecontent id="aspace_3cf0ebc5091a743262162db5c81e5aec">
+              <head>Scope and Contents</head>
+              <p>A digital image of a print photograph of the National Bankers Association posed in front of the  Founders Library at Howard University. The photograph includes Cosby Hunt's paternal grandfather Isaac Cosby Hunt, Sr. This item is discussed in Cosby Hunt Session 2.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_215fe6080fcc503abc66d9a65402b874" level="item">
+            <did>
+              <unittitle>"The Shack"</unittitle>
+              <unitdate type="inclusive">Undated</unitdate>
+            </did>
+            <scopecontent id="aspace_3c366cbcb973d4b20b161d3f98627d4d">
+              <head>Scope and Contents</head>
+              <p>A digital image of a print photograph of the house where Cosby Hunt lived while attending graduate school at the University of Georgia. Cosby recalls how he and his friends referred to the house as "the shack." This item is discussed at [01:36:00.10] Cosby Hunt Session 3.</p>
+            </scopecontent>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_f446e84fe238f1535436cde651a10b08" level="series">
+        <did>
+          <unittitle>Series 2: Edith Crutchfield</unittitle>
+          <unitdate normal="2020-10/2020-12" type="inclusive">2020-10-2020-12</unitdate>
+        </did>
+        <bioghist id="aspace_a23e80603fed2a1eec60b1be98fec1aa">
+          <head>Biographical / Historical</head>
+          <p>Ms. Edith Amanda Crutchfield, born August 28, 1936, is a retired librarian and native of Culpeper, Virginia. Ms. Edith is the daughter of John Duff Grasty and Sarah George Ross Grasty and is one of 10 sisters. She migrated to Washington, D.C. at the age of 17 after finishing high school in Culpeper and has remained in D.C. for the rest of her life. All 10 of Ms. Edith's sisters migrated north after high school and none of them returned to live in Virginia. Ms. Edith initially lived with sisters and other family upon arriving in Washington and attended Howard University for a semester before transferring to Miner Teachers College just as Miner's and Wilson Teachers College were being integrated and combined into DC Teachers College. Ms. Edith had a 30-year career as a librarian in government libraries (FDA and DOJ) and spent the last fifteen years of her career in private libraries of law firms. Ms. Edith married and had one daughter, Debra, who passed away in 2015.</p>
+        </bioghist>
+        <c id="aspace_729e4c965cf890424fdf9817a313a7a1" level="subseries">
+          <did>
+            <unittitle>Sub-Series 1: Interviews</unittitle>
+            <unitdate normal="2020-10/2020-12" type="inclusive">2020-10-2020-12</unitdate>
+            <langmaterial id="aspace_b45fc5f8ec6f955af96464e3fb653a16">English</langmaterial>
+          </did>
+          <c id="aspace_14aa46e8592b5cc8f45da7460274487e" level="item">
+            <did>
+              <unittitle>Session 1</unittitle>
+              <origination label="creator">
+                <persname source="local">Crutchfield, Edith Amanda, 1936-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-10-24/2020-10-24">2020-10-24</unitdate>
+              <langmaterial id="aspace_d5045c2babeea0ec3a2a9bc0a4e36a92">English</langmaterial>
+            </did>
+            <bioghist id="aspace_1e4cb338186a2b316c83540f1bf4bb2a">
+              <head>Biographical / Historical</head>
+              <p>Ms. Edith Amanda Crutchfield, born August 28, 1936, is a retired librarian and native of Culpeper, Virginia. Ms. Edith is the daughter of John Duff Grasty and Sarah George Ross Grasty and is one of 10 sisters. She migrated to Washington, D.C. at the age of 17 after finishing high school in Culpeper and has remained in D.C. for the rest of her life. All 10 of Ms. Edith's sisters migrated north after high school and none of them returned to live in Virginia. Ms. Edith initially lived with sisters and other family upon arriving in Washington and attended Howard University for a semester before transferring to Miner Teachers College just as Miner's and Wilson Teachers College were being integrated and combined into DC Teachers College. Ms. Edith had a 30-year career as a librarian in government libraries (FDA and DOJ) and spent the last fifteen years of her career in private libraries of law firms. Ms. Edith married and had one daughter, Debra, who passed away in 2015.</p>
+            </bioghist>
+            <scopecontent id="aspace_05bfe2f73a0e512cc3964694a338a2b3">
+              <head>Scope and Contents</head>
+              <p>This is the first session of a life history interview with Edith Crutchfield. In this interview Ms. Crutchfield primarily discusses her early life in Culpeper, Virginia, before moving to Washington, D.C., at age 17 in 1953. In discussing her upbringing, Ms. Edith talks extensively about her family life with her parents and nine sisters. She talks about her parents work and explains that she and all her sisters began domestic work at age 11. Ms. Edith also discusses her educational experiences at segregated schools in Culpeper and recounts some of her early experiences in Washington, such as attending Miner Teachers College when the school merged with Wilson Teachers College to become the integrated DC Teachers College.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_592b7dd0b22eb9fd04bf67c3da9cfa64" level="item">
+            <did>
+              <unittitle>Session 2</unittitle>
+              <origination label="creator">
+                <persname source="local">Crutchfield, Edith Amanda, 1936-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-10-31/2020-10-31">2020-10-31</unitdate>
+              <langmaterial id="aspace_801b1dc854b7a79621a83ca0f6cd384b">English</langmaterial>
+            </did>
+            <bioghist id="aspace_82f41024256028ce305780b4b3d4b8f1">
+              <head>Biographical / Historical</head>
+              <p>Ms. Edith Amanda Crutchfield, born August 28, 1936, is a retired librarian and native of Culpeper, Virginia. Ms. Edith is the daughter of John Duff Grasty and Sarah George Ross Grasty and is one of 10 sisters. She migrated to Washington, D.C. at the age of 17 after finishing high school in Culpeper and has remained in D.C. for the rest of her life. All 10 of Ms. Edith's sisters migrated north after high school and none of them returned to live in Virginia. Ms. Edith initially lived with sisters and other family upon arriving in Washington and attended Howard University for a semester before transferring to Miner Teachers College just as Miner's and Wilson Teachers College were being integrated and combined into DC Teachers College. Ms. Edith had a 30-year career as a librarian in government libraries (FDA and DOJ) and spent the last fifteen years of her career in private libraries of law firms. Ms. Edith married and had one daughter, Debra, who passed away in 2015.</p>
+            </bioghist>
+            <scopecontent id="aspace_7a5eb42b0f44d154f9b3cbcdd9821b8f">
+              <head>Scope and Contents</head>
+              <p>This is the second session of a life history interview with Edith Crutchfield. In this interview Ms. Crutchfield reflects on her upbringing in Culpeper, Virginia, the move to Washington, D.C., in 1953 at age 17, and her life in Washington. She speaks about her experiences with segregation and discrimination in D.C. and discusses how she and her sisters helped each other transition into life in Washington. Ms. Crutchfield recalls being able to vote for the first time when the District was allowed to vote in the 1964 presidential election and relates the civil rights struggles of the 1960s to the 2020 election as well as contemporary social justice struggles. Ms. Crutchfield also discusses her time at Howard University as well as her experience at Miner Teachers College in 1955 when the school merged with Wilson Teachers College to create DC Teachers College. She also reflects on her experiences as a librarian at the FDA and DEA libraries and discusses racism and discrimination she witnessed while working for the government.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_0ac5f69145a1e3acbc5a940170311217" level="item">
+            <did>
+              <unittitle>Session 3</unittitle>
+              <origination label="creator">
+                <persname source="local">Crutchfield, Edith Amanda, 1936-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-12-06/2020-12-06">2020-12-06</unitdate>
+              <langmaterial id="aspace_9619a9c1b4714ed64bda96d170cdcc3d">English</langmaterial>
+            </did>
+            <bioghist id="aspace_fdcd13f053dcc57abedc9ec8e9aacf76">
+              <head>Biographical / Historical</head>
+              <p>Ms. Edith Amanda Crutchfield, born August 28, 1936, is a retired librarian and native of Culpeper, Virginia. Ms. Edith is the daughter of John Duff Grasty and Sarah George Ross Grasty and is one of 10 sisters. She migrated to Washington, D.C. at the age of 17 after finishing high school in Culpeper and has remained in D.C. for the rest of her life. All 10 of Ms. Edith's sisters migrated north after high school and none of them returned to live in Virginia. Ms. Edith initially lived with sisters and other family upon arriving in Washington and attended Howard University for a semester before transferring to Miner Teachers College just as Miner's and Wilson Teachers College were being integrated and combined into DC Teachers College. Ms. Edith had a 30-year career as a librarian in government libraries (FDA and DOJ) and spent the last fifteen years of her career in private libraries of law firms. Ms. Edith married and had one daughter, Debra, who passed away in 2015.</p>
+            </bioghist>
+            <scopecontent id="aspace_956adb222045110a157a65345e842f9d">
+              <head>Scope and Contents</head>
+              <p>This is the third session of a life history interview with Ms. Edith Crutchfield. This interview was recorded at three different locations in the Park View and Petworth neighborhoods of Washington, D.C. The first two locations, 3316 Warder Street NW and 4125 New Hampshire Ave NW, are residences where Ms. Crutchfield lived in the years after she first arrived in Washington in August 1953. The final location is Ms. Crutchfield's current home on Rock Creek Church Road NW. In this interview Ms. Edith discusses her experiences in Washington from the 1950s when she first arrived, to 1978 when she moved to Silver Spring,\Maryland. She also recounts how and why she returned to Washington in 2011 and reflects on her life in the D.C. Region. She also discusses her family life in Washington and the lives of her daughter, Debra, and her husband, Richard, who passed away in 2015 and 2018 respectively.</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_e57e337679150c85c23526c6e63d1c7a" level="subseries">
+          <did>
+            <unittitle>Sub-Series 2: Indexes</unittitle>
+            <unitdate normal="2020-10/2020-12" type="inclusive">2020-10-2020-12</unitdate>
+            <langmaterial id="aspace_9abbd10fe8f231a76464e7b0d02755b2">English</langmaterial>
+          </did>
+          <c id="aspace_fae5dc8b7d6362ea2bfecc3d03974999" level="item">
+            <did>
+              <unittitle>Session 1 index</unittitle>
+              <origination label="creator">
+                <persname source="local">Crutchfield, Edith Amanda, 1936-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-10-24/2020-10-24">2020-10-24</unitdate>
+              <langmaterial id="aspace_7be36222e381c282a93fd9fedf35d8d6">English</langmaterial>
+            </did>
+            <bioghist id="aspace_7dea3100c1d924868c7077b7e41fd2d1">
+              <head>Biographical / Historical</head>
+              <p>Ms. Edith Amanda Crutchfield, born August 28, 1936, is a retired librarian and native of Culpeper, Virginia. Ms. Edith is the daughter of John Duff Grasty and Sarah George Ross Grasty and is one of 10 sisters. She migrated to Washington, D.C. at the age of 17 after finishing high school in Culpeper and has remained in D.C. for the rest of her life. All 10 of Ms. Edith's sisters migrated north after high school and none of them returned to live in Virginia. Ms. Edith initially lived with sisters and other family upon arriving in Washington and attended Howard University for a semester before transferring to Miner Teachers College just as Miner's and Wilson Teachers College were being integrated and combined into DC Teachers College. Ms. Edith had a 30-year career as a librarian in government libraries (FDA and DOJ) and spent the last fifteen years of her career in private libraries of law firms. Ms. Edith married and had one daughter, Debra, who passed away in 2015.</p>
+            </bioghist>
+            <scopecontent id="aspace_04a79ec661cb0dd68cd0b9116baff6ff">
+              <head>Scope and Contents</head>
+              <p>This is the first session of a life history interview with Edith Crutchfield. In this interview Ms. Crutchfield primarily discusses her early life in Culpeper, Virginia, before moving to Washington, D.C., at age 17 in 1953. In discussing her upbringing, Ms. Edith talks extensively about her family life with her parents and nine sisters. She talks about her parents work and explains that she and all her sisters began domestic work at age 11. Ms. Edith also discusses her educational experiences at segregated schools in Culpeper and recounts some of her early experiences in Washington, such as attending Miner Teachers College when the school merged with Wilson Teachers College to become the integrated DC Teachers College.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_5f99b90647c76f8a71c2b47575ccd181" level="item">
+            <did>
+              <unittitle>Session 2 index</unittitle>
+              <origination label="creator">
+                <persname source="local">Crutchfield, Edith Amanda, 1936-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-10-31/2020-10-31">2020-10-31</unitdate>
+              <langmaterial id="aspace_46fdefcadba51acc19fc9a68eae9b3e4">English</langmaterial>
+            </did>
+            <bioghist id="aspace_230e3906ece4a5086ab8633f3428114d">
+              <head>Biographical / Historical</head>
+              <p>Ms. Edith Amanda Crutchfield, born August 28, 1936, is a retired librarian and native of Culpeper, Virginia. Ms. Edith is the daughter of John Duff Grasty and Sarah George Ross Grasty and is one of 10 sisters. She migrated to Washington, D.C. at the age of 17 after finishing high school in Culpeper and has remained in D.C. for the rest of her life. All 10 of Ms. Edith's sisters migrated north after high school and none of them returned to live in Virginia. Ms. Edith initially lived with sisters and other family upon arriving in Washington and attended Howard University for a semester before transferring to Miner Teachers College just as Miner's and Wilson Teachers College were being integrated and combined into DC Teachers College. Ms. Edith had a 30-year career as a librarian in government libraries (FDA and DOJ) and spent the last fifteen years of her career in private libraries of law firms. Ms. Edith married and had one daughter, Debra, who passed away in 2015.</p>
+            </bioghist>
+            <scopecontent id="aspace_534b4e296620ee9f8f0389425ee97546">
+              <head>Scope and Contents</head>
+              <p>This is the second session of a life history interview with Edith Crutchfield. In this interview Ms. Crutchfield reflects on her upbringing in Culpeper, Virginia, the move to Washington, D.C., in 1953 at age 17, and her life in Washington. She speaks about her experiences with segregation and discrimination in D.C. and discusses how she and her sisters helped each other transition into life in Washington. Ms. Crutchfield recalls being able to vote for the first time when the District was allowed to vote in the 1964 presidential election and relates the civil rights struggles of the 1960s to the 2020 election as well as contemporary social justice struggles. Ms. Crutchfield also discusses her time at Howard University as well as her experience at Miner Teachers College in 1955 when the school merged with Wilson Teachers College to create DC Teachers College. She also reflects on her experiences as a librarian at the FDA and DEA libraries and discusses racism and discrimination she witnessed while working for the government.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_15b242995e7b05bead5c61413bfc92ec" level="item">
+            <did>
+              <unittitle>Session 3 index</unittitle>
+              <origination label="creator">
+                <persname source="local">Crutchfield, Edith Amanda, 1936-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-12-06/2020-12-06">2020-12-06</unitdate>
+              <langmaterial id="aspace_4ee3fa687be662bee95b1cd313c96d27">English</langmaterial>
+            </did>
+            <bioghist id="aspace_ccd5360405102bd636f5194dfcdbe768">
+              <head>Biographical / Historical</head>
+              <p>Ms. Edith Amanda Crutchfield, born August 28, 1936, is a retired librarian and native of Culpeper, Virginia. Ms. Edith is the daughter of John Duff Grasty and Sarah George Ross Grasty and is one of 10 sisters. She migrated to Washington, D.C. at the age of 17 after finishing high school in Culpeper and has remained in D.C. for the rest of her life. All 10 of Ms. Edith's sisters migrated north after high school and none of them returned to live in Virginia. Ms. Edith initially lived with sisters and other family upon arriving in Washington and attended Howard University for a semester before transferring to Miner Teachers College just as Miner's and Wilson Teachers College were being integrated and combined into DC Teachers College. Ms. Edith had a 30-year career as a librarian in government libraries (FDA and DOJ) and spent the last fifteen years of her career in private libraries of law firms. Ms. Edith married and had one daughter, Debra, who passed away in 2015.</p>
+            </bioghist>
+            <scopecontent id="aspace_25c623fd71cccf522fea2f74ce9dea8d">
+              <head>Scope and Contents</head>
+              <p>This is the third session of a life history interview with Ms. Edith Crutchfield. This interview was recorded at three different locations in the Park View and Petworth neighborhoods of Washington, D.C. The first two locations, 3316 Warder Street NW and 4125 New Hampshire Ave NW, are residences where Ms. Crutchfield lived in the years after she first arrived in Washington in August 1953. The final location is Ms. Crutchfield's current home on Rock Creek Church Road NW. In this interview Ms. Edith discusses her experiences in Washington from the 1950s when she first arrived, to 1978 when she moved to Silver Spring,\Maryland. She also recounts how and why she returned to Washington in 2011 and reflects on her life in the D.C. Region. She also discusses her family life in Washington and the lives of her daughter, Debra, and her husband, Richard, who passed away in 2015 and 2018 respectively.</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_ba689b44d418453a2b92ef6ae035ae01" level="subseries">
+          <did>
+            <unittitle>Sub-Series 3: Transcripts</unittitle>
+            <unitdate normal="2020-10/2020-12" type="inclusive">2020-10-2020-12</unitdate>
+            <langmaterial id="aspace_9582ae0c296922a89fc67a0170cedb9c">English</langmaterial>
+          </did>
+          <c id="aspace_be3f9980d5c82adb160765df24e15977" level="item">
+            <did>
+              <unittitle>Session 1 transcript</unittitle>
+              <origination label="creator">
+                <persname source="local">Crutchfield, Edith Amanda, 1936-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-10-24/2020-10-24">2020-10-24</unitdate>
+              <langmaterial id="aspace_e18efa10a8bc7c803ee877b9a3ebd5cb">English</langmaterial>
+            </did>
+            <bioghist id="aspace_6bf926a01acda7c16a6d88ffae5a1ed4">
+              <head>Biographical / Historical</head>
+              <p>Ms. Edith Amanda Crutchfield, born August 28, 1936, is a retired librarian and native of Culpeper, Virginia. Ms. Edith is the daughter of John Duff Grasty and Sarah George Ross Grasty and is one of 10 sisters. She migrated to Washington, D.C. at the age of 17 after finishing high school in Culpeper and has remained in D.C. for the rest of her life. All 10 of Ms. Edith's sisters migrated north after high school and none of them returned to live in Virginia. Ms. Edith initially lived with sisters and other family upon arriving in Washington and attended Howard University for a semester before transferring to Miner Teachers College just as Miner's and Wilson Teachers College were being integrated and combined into DC Teachers College. Ms. Edith had a 30-year career as a librarian in government libraries (FDA and DOJ) and spent the last fifteen years of her career in private libraries of law firms. Ms. Edith married and had one daughter, Debra, who passed away in 2015.</p>
+            </bioghist>
+            <scopecontent id="aspace_4af0f0a6f2d81fd0d970f1400ca52b16">
+              <head>Scope and Contents</head>
+              <p>This is the first session of a life history interview with Edith Crutchfield. In this interview Ms. Crutchfield primarily discusses her early life in Culpeper, Virginia, before moving to Washington, D.C., at age 17 in 1953. In discussing her upbringing, Ms. Edith talks extensively about her family life with her parents and nine sisters. She talks about her parents work and explains that she and all her sisters began domestic work at age 11. Ms. Edith also discusses her educational experiences at segregated schools in Culpeper and recounts some of her early experiences in Washington, such as attending Miner Teachers College when the school merged with Wilson Teachers College to become the integrated DC Teachers College.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_2a6b09c0a7e5f933bddcb7c31d24cd92" level="item">
+            <did>
+              <unittitle>Session 2 transcript</unittitle>
+              <origination label="creator">
+                <persname source="local">Crutchfield, Edith Amanda, 1936-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-10-31/2020-10-31">2020-10-31</unitdate>
+              <langmaterial id="aspace_81d92787d4ab8f8021cf1957c09bc68c">English</langmaterial>
+            </did>
+            <bioghist id="aspace_19de982749e2dc95c1764451e37ef883">
+              <head>Biographical / Historical</head>
+              <p>Ms. Edith Amanda Crutchfield, born August 28, 1936, is a retired librarian and native of Culpeper, Virginia. Ms. Edith is the daughter of John Duff Grasty and Sarah George Ross Grasty and is one of 10 sisters. She migrated to Washington, D.C. at the age of 17 after finishing high school in Culpeper and has remained in D.C. for the rest of her life. All 10 of Ms. Edith's sisters migrated north after high school and none of them returned to live in Virginia. Ms. Edith initially lived with sisters and other family upon arriving in Washington and attended Howard University for a semester before transferring to Miner Teachers College just as Miner's and Wilson Teachers College were being integrated and combined into DC Teachers College. Ms. Edith had a 30-year career as a librarian in government libraries (FDA and DOJ) and spent the last fifteen years of her career in private libraries of law firms. Ms. Edith married and had one daughter, Debra, who passed away in 2015.</p>
+            </bioghist>
+            <scopecontent id="aspace_baadf3c9e3000a59326830115f85eb7a">
+              <head>Scope and Contents</head>
+              <p>This is the second session of a life history interview with Edith Crutchfield. In this interview Ms. Crutchfield reflects on her upbringing in Culpeper, Virginia, the move to Washington, D.C., in 1953 at age 17, and her life in Washington. She speaks about her experiences with segregation and discrimination in D.C. and discusses how she and her sisters helped each other transition into life in Washington. Ms. Crutchfield recalls being able to vote for the first time when the District was allowed to vote in the 1964 presidential election and relates the civil rights struggles of the 1960s to the 2020 election as well as contemporary social justice struggles. Ms. Crutchfield also discusses her time at Howard University as well as her experience at Miner Teachers College in 1955 when the school merged with Wilson Teachers College to create DC Teachers College. She also reflects on her experiences as a librarian at the FDA and DEA libraries and discusses racism and discrimination she witnessed while working for the government.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_920167f44e9de4270eaee1ab3a49a86d" level="item">
+            <did>
+              <unittitle>Session 3 transcript</unittitle>
+              <origination label="creator">
+                <persname source="local">Crutchfield, Edith Amanda, 1936-</persname>
+              </origination>
+              <origination label="creator">
+                <persname source="local">Peterson, Max</persname>
+              </origination>
+              <unitdate normal="2020-12-06/2020-12-06">2020-12-06</unitdate>
+              <langmaterial id="aspace_d303bbf65dc45cd6a66dd7da0d8b683a">English</langmaterial>
+            </did>
+            <bioghist id="aspace_83399aba48e1e7bdbbcb9eadcf5f587c">
+              <head>Biographical / Historical</head>
+              <p>Ms. Edith Amanda Crutchfield, born August 28, 1936, is a retired librarian and native of Culpeper, Virginia. Ms. Edith is the daughter of John Duff Grasty and Sarah George Ross Grasty and is one of 10 sisters. She migrated to Washington, D.C. at the age of 17 after finishing high school in Culpeper and has remained in D.C. for the rest of her life. All 10 of Ms. Edith's sisters migrated north after high school and none of them returned to live in Virginia. Ms. Edith initially lived with sisters and other family upon arriving in Washington and attended Howard University for a semester before transferring to Miner Teachers College just as Miner's and Wilson Teachers College were being integrated and combined into DC Teachers College. Ms. Edith had a 30-year career as a librarian in government libraries (FDA and DOJ) and spent the last fifteen years of her career in private libraries of law firms. Ms. Edith married and had one daughter, Debra, who passed away in 2015.</p>
+            </bioghist>
+            <scopecontent id="aspace_b5e5169249f5d8dc6851ce54f42c959d">
+              <head>Scope and Contents</head>
+              <p>This is the third session of a life history interview with Ms. Edith Crutchfield. This interview was recorded at three different locations in the Park View and Petworth neighborhoods of Washington, D.C. The first two locations, 3316 Warder Street NW and 4125 New Hampshire Ave NW, are residences where Ms. Crutchfield lived in the years after she first arrived in Washington in August 1953. The final location is Ms. Crutchfield's current home on Rock Creek Church Road NW. In this interview Ms. Edith discusses her experiences in Washington from the 1950s when she first arrived, to 1978 when she moved to Silver Spring,\Maryland. She also recounts how and why she returned to Washington in 2011 and reflects on her life in the D.C. Region. She also discusses her family life in Washington and the lives of her daughter, Debra, and her husband, Richard, who passed away in 2015 and 2018 respectively.</p>
+            </scopecontent>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

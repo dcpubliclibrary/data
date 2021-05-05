@@ -16,12 +16,12 @@
         <address>
           <addressline>901 G Street NW</addressline>
           <addressline>Washington, DC</addressline>
-          <addressline>archives.dcpl@dc.gov</addressline>
+          <addressline>peoples.archive@dc.gov</addressline>
         </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2020-09-30 08:49:47 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-05-05 09:40:08 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -83,7 +83,7 @@
       <p>No known restrictions.</p>
     </userestrict>
     <controlaccess>
-      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85077507" source="lcsh">Literature</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85077507" source="Library of Congress Subject Headings">Literature</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85008324" source="Library of Congress Subject Headings">Arts</subject>
       <genreform source="material_type">Organizational Records</genreform>
@@ -98,24 +98,24 @@
           <did>
             <unittitle>Invitations and Administrative Materials</unittitle>
             <unitdate normal="1929/1956" type="inclusive">1929-1956</unitdate>
-            <container altrender="Legal Document Case (Slim)" id="aspace_0301c52f68baa5bbf6849feee6bc16e8" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b577a45fe571e3f7b830f07af75f18d3" parent="aspace_0301c52f68baa5bbf6849feee6bc16e8" type="Folder">1</container>
+            <container altrender="Legal Document Case (Slim)" id="aspace_fc5b35b76f7192445eae5d5179c6fb1f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8a2ba0de9c836153e87e64334ed651c9" parent="aspace_fc5b35b76f7192445eae5d5179c6fb1f" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_118d22bd570a732a5622c0dfd968ffdd" level="file">
           <did>
             <unittitle>Papers Read Before the Society</unittitle>
             <unitdate normal="1943/1951" type="inclusive">1943-1951</unitdate>
-            <container altrender="Legal Document Case (Slim)" id="aspace_e467f1f987ff2fdd63cf5f7eb1a9b385" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b21149e224f27b96dfe0a89b6ada42da" parent="aspace_e467f1f987ff2fdd63cf5f7eb1a9b385" type="Folder">2</container>
+            <container altrender="Legal Document Case (Slim)" id="aspace_680ef2c86cf939c3bf79e0814479da32" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_716f9cafa55d2f136396c6efa98ade4d" parent="aspace_680ef2c86cf939c3bf79e0814479da32" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_eaccee69019002a6e1947261199d1c25" level="file">
           <did>
             <unittitle>Annual Programs</unittitle>
             <unitdate normal="1908/1957" type="inclusive">1908-1957</unitdate>
-            <container altrender="Legal Document Case (Slim)" id="aspace_242e046ef0d516fd7636a9cc9c777c54" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_647aa9cf576574ff943d99e43bc7c5de" parent="aspace_242e046ef0d516fd7636a9cc9c777c54" type="Folder">3</container>
+            <container altrender="Legal Document Case (Slim)" id="aspace_b510992f23c1109dd930f4d198044f3c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ea0a4cda58b047113b85bfdb7240fb06" parent="aspace_b510992f23c1109dd930f4d198044f3c" type="Folder">3</container>
           </did>
         </c>
       </c>

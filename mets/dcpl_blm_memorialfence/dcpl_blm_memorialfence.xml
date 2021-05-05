@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2021-05-05 11:34:42 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>People's Archive, MLK Library</name>
+      <note/>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="639">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Black Lives Matter Memorial Fence Oral History</mods:title>
+          </mods:titleInfo>
+          <mods:identifier>dcpl_blm_memorialfence</mods:identifier>
+          <mods:typeOfResource>Moving Image</mods:typeOfResource>
+          <mods:language>
+            <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">2021-02-05</mods:dateCreated>
+          <mods:physicalDescription>
+            <mods:extent>3 files</mods:extent>
+          </mods:physicalDescription>
+          <mods:note type="summary">This is an individual interview of Nadine J. Seiler (1965-) for which she responds to a series of questions asking about the Black Lives Matter Memorial Fence in Washington, D.C. Seiler describes her burgeoning awareness of the Black Lives Matter social movement, her political demonstration activity, and her ultimate roles and responsibilities of caretaker and curator of the Black Lives Matter Memorial Fence. She describes the preservation and curatorial skills that developed during the defense of the Black Lives Matter Memorial Fence and collaboration with fellow activists and fence defenders. Seiler curates three objects from the memorial fence and discusses the future of art donated to the Black Lives Matter Memorial Fence.</mods:note>
+          <mods:note type="langmaterial">English</mods:note>
+          <mods:note type="acqinfo">This interview was donated to the Library in 2021.</mods:note>
+          <mods:note type="bioghist">Nadine J. Seiler (1965-) was the caretaker and curator of the Black Lives Matter Memorial Fence. Seiler was born in Trinidad and Tobago in 1965 and moved to the United States in 1987. She is a former home organizer and current activist who began protesting at the White House in 2018. During the Black Lives Matter national protests of summer 2020, Seiler witnessed the Lafayette Square security fence installation and guided its transition to a memorial fence.</mods:note>
+          <mods:accessCondition type="useAndReproduction">No known restrictions.</mods:accessCondition>
+          <mods:note displayLabel="Digital object made available by">People's Archive, MLK Library, 901 G Street NW, Washington, DC</mods:note>
+          <mods:subject authority="Library of Congress Subject Headings">
+            <mods:topic>Black lives matter movement</mods:topic>
+          </mods:subject>
+          <mods:name authority="local" type="personal">
+            <mods:namePart type="family">Seiler</mods:namePart>
+            <mods:namePart type="termsOfAddress"></mods:namePart>
+            <mods:namePart type="termsOfAddress"></mods:namePart>
+            <mods:namePart type="given">Nadine</mods:namePart>
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:name authority="local" type="personal">
+            <mods:namePart type="family">Rogers</mods:namePart>
+            <mods:namePart type="termsOfAddress"></mods:namePart>
+            <mods:namePart type="termsOfAddress"></mods:namePart>
+            <mods:namePart type="given">Owen</mods:namePart>
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec/>
+  <structMap TYPE="logical">
+    <div DMDID="639" LABEL="Black Lives Matter Memorial Fence Oral History" ORDER="1" TYPE="item"/>
+  </structMap>
+  <structMap TYPE="physical"/>
+</mets>
+
