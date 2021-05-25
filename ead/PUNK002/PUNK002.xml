@@ -4,19 +4,24 @@
     <filedesc>
       <titlestmt>
         <titleproper type="filing">Davis (John) Collection</titleproper>
-        <titleproper>John Davis <num>PUNK002</num> <num>PUNK002</num></titleproper>
+        <titleproper>John Davis <num>PUNK002</num></titleproper>
         <subtitle>An inventory of John Davis at DC Public Library</subtitle>
         <author>Finding aid prepared by Paul Kelly.</author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>People's Archive, MLK Library</publisher>
         <p>
           <date>2017-10-04</date>
         </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>peoples.archive@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-01 15:00:38 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-05-25 11:19:49 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -27,15 +32,17 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>People's Archive, MLK Library</corpname>
       </repository>
       <unittitle>John Davis Collection</unittitle>
+      <origination label="creator">
+        <persname source="local">Davis, John</persname>
+      </origination>
       <unitid>PUNK002</unitid>
       <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3 boxes</extent>
+        <extent altrender="materialtype spaceoccupied">3 Boxes</extent>
       </physdesc>
       <unitdate type="inclusive">Undated</unitdate>
-      <langmaterial id="aspace_51b3a0b1992f29aabe15ceb79dc48ef3">English</langmaterial>
       <langmaterial id="aspace_6f4d03fb675dae095eceaa1f90265296">English</langmaterial>
     </did>
     <dsc>
@@ -51,104 +58,104 @@
             <did>
               <unittitle>Branch Manager</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_897fe5e608062e4f86a9d56b9d0ee69e" label="mixed materials" type="Box">1</container>
-              <container id="aspace_e810b095773ca7ad93ab1c216da3f8f5" parent="aspace_897fe5e608062e4f86a9d56b9d0ee69e" type="Folder">1</container>
+              <container id="aspace_23d05eacdb9391643d60e61efda9fc38" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_539cd3df84f923e2a3f45150a750c2b3" parent="aspace_23d05eacdb9391643d60e61efda9fc38" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_0ab80476ad568ccba465734d0be09c4a" level="file">
             <did>
               <unittitle>Corm (2)</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_1ae51c28ed669c63999f66d6913bd570" label="mixed materials" type="Box">1</container>
-              <container id="aspace_de0eec2ccf2a5a009b0674cf526af14d" parent="aspace_1ae51c28ed669c63999f66d6913bd570" type="Folder">2</container>
+              <container id="aspace_afbc9abd7c2a74b80ce67028a190f41d" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_fc384878911f9f90f3488c14ee1f1f07" parent="aspace_afbc9abd7c2a74b80ce67028a190f41d" type="Folder">2</container>
             </did>
           </c>
           <c id="aspace_978f8a6905fb44554f4dec50d465de68" level="file">
             <did>
               <unittitle>Dismemberment Plan</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_7871f7ab9dd7ab8f931fc5c080e9da54" label="mixed materials" type="Box">1</container>
-              <container id="aspace_f032b7cf36db5d84a42575df8efc8ed4" parent="aspace_7871f7ab9dd7ab8f931fc5c080e9da54" type="Folder">3</container>
+              <container id="aspace_8f32c659b6b33d04a451d59a65106c73" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_a6c084a5afcc3885999f4c978ac11269" parent="aspace_8f32c659b6b33d04a451d59a65106c73" type="Folder">3</container>
             </did>
           </c>
           <c id="aspace_5fa1dcbc6ea15f5ca9f856169529f494" level="file">
             <did>
               <unittitle>Enkindel</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_069ad3cd26b34fada4958c71b59ef04f" label="mixed materials" type="Box">1</container>
-              <container id="aspace_13acd09629e2dc528224c4f97e35ad4a" parent="aspace_069ad3cd26b34fada4958c71b59ef04f" type="Folder">4</container>
+              <container id="aspace_cc6bfadbe8cbc19a4f55806048676d6d" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_6085f188e37a8d519d495af4827db346" parent="aspace_cc6bfadbe8cbc19a4f55806048676d6d" type="Folder">4</container>
             </did>
           </c>
           <c id="aspace_5a569d02bb363aade59d2fe91e9d7dff" level="file">
             <did>
               <unittitle>Frodus (2)</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_8693319c8efa89408ee57f07a20fb9d8" label="mixed materials" type="Box">1</container>
-              <container id="aspace_47197cceb03164461278e8e408b8df58" parent="aspace_8693319c8efa89408ee57f07a20fb9d8" type="Folder">5</container>
+              <container id="aspace_6b0b4a5458f86669814354ee4aa82f65" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_6588877747ee701ec3431f21cb48b9d1" parent="aspace_6b0b4a5458f86669814354ee4aa82f65" type="Folder">5</container>
             </did>
           </c>
           <c id="aspace_aa81a343c2801046e22661b0d104e07c" level="file">
             <did>
               <unittitle>Jawbox</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_6a6afed75dd63a060135647247372cbd" label="mixed materials" type="Box">1</container>
-              <container id="aspace_4459f5f3fdb5aaa96b12813acd9fe9fe" parent="aspace_6a6afed75dd63a060135647247372cbd" type="Folder">6</container>
+              <container id="aspace_86ca387cb5e8f5e6ad063746deed2674" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_c0e41e2ca725634466de3d8823eb080a" parent="aspace_86ca387cb5e8f5e6ad063746deed2674" type="Folder">6</container>
             </did>
           </c>
           <c id="aspace_fcafc4ae332464aa33658c7507e964db" level="file">
             <did>
               <unittitle>Johnny Bombay</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_a1c7f0248600ed324f7b7d5445a1710e" label="mixed materials" type="Box">1</container>
-              <container id="aspace_a59a0579c7f929dc71f6161ac7129919" parent="aspace_a1c7f0248600ed324f7b7d5445a1710e" type="Folder">7</container>
+              <container id="aspace_eb4cea42bbbc5880e594d3398f0bd95d" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_6446b2db24291bb2494a869ac6fa7733" parent="aspace_eb4cea42bbbc5880e594d3398f0bd95d" type="Folder">7</container>
             </did>
           </c>
           <c id="aspace_42e63ece7966f6bc0af29666955dd1bd" level="file">
             <did>
               <unittitle>Kerosene 454</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_b0148057a7089e0c075346cf51fee5db" label="mixed materials" type="Box">1</container>
-              <container id="aspace_1d90829c8340f9812b8708c3f5cad6c1" parent="aspace_b0148057a7089e0c075346cf51fee5db" type="Folder">8</container>
+              <container id="aspace_698d3cb672516ad7d7bd832516275a9d" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_9f51e0814364a6851ee56f6828eff886" parent="aspace_698d3cb672516ad7d7bd832516275a9d" type="Folder">8</container>
             </did>
           </c>
           <c id="aspace_4bcfbed92d299c9f80a74f442c049ae4" level="file">
             <did>
               <unittitle>Maryland Hardcore</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_c9787ad33f851b55fddc9942531d1486" label="mixed materials" type="Box">1</container>
-              <container id="aspace_3d0e4e5fad8e8e08728d949657bde769" parent="aspace_c9787ad33f851b55fddc9942531d1486" type="Folder">9</container>
+              <container id="aspace_50d0064b807cdd0daf76762bfb2736d7" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_9b58f52123b33396332990a2751fbfea" parent="aspace_50d0064b807cdd0daf76762bfb2736d7" type="Folder">9</container>
             </did>
           </c>
           <c id="aspace_11c61a5cea05e26f84d5ec09093335da" level="file">
             <did>
               <unittitle>Positive Force</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_db62b967102a4bd777701f5787f0ec27" label="mixed materials" type="Box">1</container>
-              <container id="aspace_ad7d2a7da91ed9ee364dc45eac018501" parent="aspace_db62b967102a4bd777701f5787f0ec27" type="Folder">10</container>
+              <container id="aspace_c85fe1e31ae9ea9542f52ef82af73df9" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_00b05f5ed8fd4f731f02104d695f986e" parent="aspace_c85fe1e31ae9ea9542f52ef82af73df9" type="Folder">10</container>
             </did>
           </c>
           <c id="aspace_34e5a93673857267b34c460761246503" level="file">
             <did>
               <unittitle>Q and not U</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_ce80a61ca8aba2cfca8b3d0e66c79d7a" label="mixed materials" type="Box">1</container>
-              <container id="aspace_42865414364346dad5789ce659abaca0" parent="aspace_ce80a61ca8aba2cfca8b3d0e66c79d7a" type="Folder">11</container>
+              <container id="aspace_70a1950745c2fda2e54252eb115ef9bc" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_fc16f44493746c5ecf8bdf183aac298c" parent="aspace_70a1950745c2fda2e54252eb115ef9bc" type="Folder">11</container>
             </did>
           </c>
           <c id="aspace_590644f38ef790abe3da4054187aaa0a" level="file">
             <did>
               <unittitle>Say it Loud</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_09af13edc8cc8eaa41bbf0b453fb5761" label="mixed materials" type="Box">1</container>
-              <container id="aspace_836936938ebdebd1a9a830efd8cf743b" parent="aspace_09af13edc8cc8eaa41bbf0b453fb5761" type="Folder">12</container>
+              <container id="aspace_cc17345413cec06e82e246794d9e67d6" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_b47790ea3fcadc32e263f93c6a356502" parent="aspace_cc17345413cec06e82e246794d9e67d6" type="Folder">12</container>
             </did>
           </c>
           <c id="aspace_0decc009ed6b1f3956a6bc99dfb904e7" level="file">
             <did>
               <unittitle>Tsunami</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_eb37e71df2c50a015ca2c2dd29864c1f" label="mixed materials" type="Box">1</container>
-              <container id="aspace_1ed27e8b85d36c603a45cdd8554b8a07" parent="aspace_eb37e71df2c50a015ca2c2dd29864c1f" type="Folder">13</container>
+              <container id="aspace_cf0c5764833082c2f699096db3871930" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_82af3d815aee7c10db019dc0d18983bd" parent="aspace_cf0c5764833082c2f699096db3871930" type="Folder">13</container>
             </did>
           </c>
         </c>
@@ -160,24 +167,24 @@
             <did>
               <unittitle>The Glass House</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_60d41ce9a8c54af75c18d970fbe369a0" label="mixed materials" type="Box">1</container>
-              <container id="aspace_81cd5cf7ad48bd786f1b9652ed663b5d" parent="aspace_60d41ce9a8c54af75c18d970fbe369a0" type="Folder">14</container>
+              <container id="aspace_2811b2be47406083d124bd4b7774dfb4" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_8dd9a288b55c915ce8cdc8ad03687bab" parent="aspace_2811b2be47406083d124bd4b7774dfb4" type="Folder">14</container>
             </did>
           </c>
           <c id="aspace_df03015c7a4e075d9745bc1adbc1a6c3" level="file">
             <did>
               <unittitle>Minor Threat</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_2ea44db0db0a05cf859c31789d2cef56" label="mixed materials" type="Box">1</container>
-              <container id="aspace_7c9cf5fd7429f2870f983d7b21feb05d" parent="aspace_2ea44db0db0a05cf859c31789d2cef56" type="Folder">15</container>
+              <container id="aspace_cf97f8b6b388c7f03abf444c5e3dde83" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_e8155dd85d077ef83664ced8aa9abd52" parent="aspace_cf97f8b6b388c7f03abf444c5e3dde83" type="Folder">15</container>
             </did>
           </c>
           <c id="aspace_fdb4e5ea400050fa958d6269f4d45efc" level="file">
             <did>
               <unittitle>Upstairs 704</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_120cad2b7e6102e6873baac59918323c" label="mixed materials" type="Box">1</container>
-              <container id="aspace_558a491c222c85fe1f0eb0cd6d886807" parent="aspace_120cad2b7e6102e6873baac59918323c" type="Folder">16</container>
+              <container id="aspace_97f4f86687539f3a211fe764bdc0fbfc" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_3ab3b14fe5cacdb713f8e3a7c91f720c" parent="aspace_97f4f86687539f3a211fe764bdc0fbfc" type="Folder">16</container>
             </did>
           </c>
         </c>
@@ -189,168 +196,168 @@
             <did>
               <unittitle>The Aquarium at Warehouse Next Door</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_d30b34b442cc915c2ab6d60bfef09ab2" label="mixed materials" type="Box">1</container>
-              <container id="aspace_f5a0cce9b9b7d9cb334c6d16ac9d2c0f" parent="aspace_d30b34b442cc915c2ab6d60bfef09ab2" type="Folder">17</container>
+              <container id="aspace_2949d183775b06526fe6b06582668664" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_5933ad7a8ad82ff507d6585d44f581cd" parent="aspace_2949d183775b06526fe6b06582668664" type="Folder">17</container>
             </did>
           </c>
           <c id="aspace_f122c5bf96bcc844ef15c550688955f6" level="file">
             <did>
               <unittitle>Fugazi (Recut and Reissued LPs)</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_f1f0a04a2196d62c5825ef82f91795dd" label="mixed materials" type="Box">1</container>
-              <container id="aspace_6b1676a5d0f2c0c714c34b56b401791f" parent="aspace_f1f0a04a2196d62c5825ef82f91795dd" type="Folder">18</container>
+              <container id="aspace_fbec1af5d175df8a7958cb91814ca4d7" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_ab7708d35ec40ab96cb4b29120a368b8" parent="aspace_fbec1af5d175df8a7958cb91814ca4d7" type="Folder">18</container>
             </did>
           </c>
           <c id="aspace_a3168b05172720b3475ebfe048adf0d1" level="file">
             <did>
               <unittitle>George James; Camera Obscura at Grog Shop</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_c464a0ed4f4f9253cbc9da5558414c43" label="mixed materials" type="Box">1</container>
-              <container id="aspace_b402400db44ae8d678f085ef3c5754da" parent="aspace_c464a0ed4f4f9253cbc9da5558414c43" type="Folder">19</container>
+              <container id="aspace_e0f8531d3941ddefa908cd5136e49b5f" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_8dda999face268f2960a909f43e36f9d" parent="aspace_e0f8531d3941ddefa908cd5136e49b5f" type="Folder">19</container>
             </did>
           </c>
           <c id="aspace_88549624e131e3421721c7c597bb0063" level="file">
             <did>
               <unittitle>Georgie James (Need Your Needs)</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_72442db18ad604c8da8bc02af0c8ca07" label="mixed materials" type="Box">1</container>
-              <container id="aspace_831b9564bdd3e4c4280ac3d6221cb6d1" parent="aspace_72442db18ad604c8da8bc02af0c8ca07" type="Folder">20</container>
+              <container id="aspace_57d62d45535ffa3358f72bc0a6b4929d" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_6dc202b7adf25e77f1cbe4f7443041c1" parent="aspace_57d62d45535ffa3358f72bc0a6b4929d" type="Folder">20</container>
             </did>
           </c>
           <c id="aspace_581aa1519ecacccd3d90196388057351" level="file">
             <did>
               <unittitle>Minor Threat (Recut and Reissued LPs)</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_7c713713a058023ea70f139fee7db925" label="mixed materials" type="Box">1</container>
-              <container id="aspace_da482988b4d6644742578acab5b695f0" parent="aspace_7c713713a058023ea70f139fee7db925" type="Folder">21</container>
+              <container id="aspace_f3bec71eb4d9a5d4ca57435110f2690a" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_ded01e11075085952e63bf35a54c1a59" parent="aspace_f3bec71eb4d9a5d4ca57435110f2690a" type="Folder">21</container>
             </did>
           </c>
           <c id="aspace_b81777eaa4ab7c874b93948d728e0041" level="file">
             <did>
               <unittitle>Q and not U (Power)</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_c37e869c873b2e5a15b18914acf1c5dd" label="mixed materials" type="Box">1</container>
-              <container id="aspace_e4faade92401f304c898d5febe970255" parent="aspace_c37e869c873b2e5a15b18914acf1c5dd" type="Folder">22</container>
+              <container id="aspace_a216081bc6d89fbc03449ee32d416698" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_9c9c99b0ee49486ae193fb1c21378b1c" parent="aspace_a216081bc6d89fbc03449ee32d416698" type="Folder">22</container>
             </did>
           </c>
           <c id="aspace_b1602ed7257ec1174fc73cbdd6fe0e16" level="file">
             <did>
               <unittitle>Q and not U (Different Damage)</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_ea788d5e63be77bc46aed7083e542ef6" label="mixed materials" type="Box">1</container>
-              <container id="aspace_cc8c82f4b665603fbccd4a7d3e785ad7" parent="aspace_ea788d5e63be77bc46aed7083e542ef6" type="Folder">23</container>
+              <container id="aspace_e2e45e824cb81fd2e653c32143dafa1d" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_7ae9b9eb32125b3d2400698a23531a2b" parent="aspace_e2e45e824cb81fd2e653c32143dafa1d" type="Folder">23</container>
             </did>
           </c>
           <c id="aspace_311d76e6b9714733e16c096a04de915a" level="file">
             <did>
               <unittitle>Q and not U at Saw (Ottawa)</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_11a85681de1461c3c2478a718afc63b5" label="mixed materials" type="Box">1</container>
-              <container id="aspace_cb369062e265797e02375e966a41f078" parent="aspace_11a85681de1461c3c2478a718afc63b5" type="Folder">24</container>
+              <container id="aspace_290bd46fe894722230177c00c8d9adf2" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_94de43e688145a02b08eafbf84253042" parent="aspace_290bd46fe894722230177c00c8d9adf2" type="Folder">24</container>
             </did>
           </c>
           <c id="aspace_341a66d3deea75e793d3328ac8545956" level="file">
             <did>
               <unittitle>Q and not U at Siren Music Festival</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_17bb777dd19bdb02c414b8fe3e027b95" label="mixed materials" type="Box">1</container>
-              <container id="aspace_201946486481e10dd11773d62dcba2e6" parent="aspace_17bb777dd19bdb02c414b8fe3e027b95" type="Folder">25</container>
+              <container id="aspace_c1bcebafe0c1398e1d97bd9416ccba02" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_6f5759fa720c677c3e26e786bc7c130a" parent="aspace_c1bcebafe0c1398e1d97bd9416ccba02" type="Folder">25</container>
             </did>
           </c>
           <c id="aspace_49d274b30e9e04b34a4d57a9f3711e66" level="file">
             <did>
               <unittitle>Q and not U; Apes at Black Cat</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_16d67775e4c5232ed8ea4a9583059246" label="mixed materials" type="Box">1</container>
-              <container id="aspace_05464e9a085affd0a2579978d2ba8e13" parent="aspace_16d67775e4c5232ed8ea4a9583059246" type="Folder">26</container>
+              <container id="aspace_7c8babb3c04a764eeb752040908ab7e8" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_775ec3ad271d673ad3d7f98bfa5ca878" parent="aspace_7c8babb3c04a764eeb752040908ab7e8" type="Folder">26</container>
             </did>
           </c>
           <c id="aspace_239d07a14df615bba7c64301e41c8e93" level="file">
             <did>
               <unittitle>Q and not U; Black Eyes - 2003 tour</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_671c861972d64f7e8e2bf4dd17a99752" label="mixed materials" type="Box">1</container>
-              <container id="aspace_e47688bc7e33a30b1d949de4362dcb42" parent="aspace_671c861972d64f7e8e2bf4dd17a99752" type="Folder">27</container>
+              <container id="aspace_75714d4e8d83d6667390e62940b70a26" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_840d8d0b67aff3ffe55cccce56afffd3" parent="aspace_75714d4e8d83d6667390e62940b70a26" type="Folder">27</container>
             </did>
           </c>
           <c id="aspace_53adf2e69f9eb0b61765f35b82fb8239" level="file">
             <did>
               <unittitle>Q and not U; El Guapo at Skoal Underground</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_3a06ec51280d1937e4d654fa304b1f85" label="mixed materials" type="Box">1</container>
-              <container id="aspace_a3184a7ab7c0f96b604b54c59b2bda22" parent="aspace_3a06ec51280d1937e4d654fa304b1f85" type="Folder">28</container>
+              <container id="aspace_db03edd074a57eb744e268d4b3aa1876" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_701d58f18845b7b3f178fc2a2db90f6b" parent="aspace_db03edd074a57eb744e268d4b3aa1876" type="Folder">28</container>
             </did>
           </c>
           <c id="aspace_4e9d8d018f5780442ab32f65c43ef593" level="file">
             <did>
               <unittitle>Q and not U; El Guapo at Southgate House</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_cc293cdc6b38086f2e80eec2bbcd6bfd" label="mixed materials" type="Box">1</container>
-              <container id="aspace_ff5821acdb8e1a2423d4d0d93b0db9f6" parent="aspace_cc293cdc6b38086f2e80eec2bbcd6bfd" type="Folder">29</container>
+              <container id="aspace_3171d893fb425a580b0d2c071f86c08d" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_43e1ca5e52ffdba5cc6d3210a90e10fa" parent="aspace_3171d893fb425a580b0d2c071f86c08d" type="Folder">29</container>
             </did>
           </c>
           <c id="aspace_4a4e13b3e1172476e9842fcb85a38f33" level="file">
             <did>
               <unittitle>Q and not U; El Guapo at Southgate House</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_d3b1fe81983607576b02aae6afea2972" label="mixed materials" type="Box">1</container>
-              <container id="aspace_606d64244f3aa5d7216b08e71002084a" parent="aspace_d3b1fe81983607576b02aae6afea2972" type="Folder">30</container>
+              <container id="aspace_d61db9f3d319aaa957803a8be69f4f18" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_c681f4ec4e53c25f656b00d56b478c1d" parent="aspace_d61db9f3d319aaa957803a8be69f4f18" type="Folder">30</container>
             </did>
           </c>
           <c id="aspace_e981240db21063a667479da32bb5cd7a" level="file">
             <did>
               <unittitle>Q and not U; El Guapp; Les Savy Fav at Celebrate Midsummer</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_6df0e7e790b90345c2a924a1f7c9e06d" label="mixed materials" type="Box">1</container>
-              <container id="aspace_2c119d97681022c198076da0b74dbe70" parent="aspace_6df0e7e790b90345c2a924a1f7c9e06d" type="Folder">31</container>
+              <container id="aspace_9b2df419128e42b9e6310592ef7ba1b4" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_47d11bf5d5ae41973848c85e63a83fbd" parent="aspace_9b2df419128e42b9e6310592ef7ba1b4" type="Folder">31</container>
             </did>
           </c>
           <c id="aspace_3bd1c625f58aaa206800895290e9b13d" level="file">
             <did>
               <unittitle>Q and not U; French Toast at Project 1877</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_f3de47f82b2625d75c95f22dfd79524b" label="mixed materials" type="Box">1</container>
-              <container id="aspace_6daa78e6e404d198f392042843bd3a75" parent="aspace_f3de47f82b2625d75c95f22dfd79524b" type="Folder">32</container>
+              <container id="aspace_a42da23712c6c4d425a38c5d94ad2c91" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_a6c94df4b8065a12671ce36f8b7e3484" parent="aspace_a42da23712c6c4d425a38c5d94ad2c91" type="Folder">32</container>
             </did>
           </c>
           <c id="aspace_9c6d51c51508510674b16519d5eb5c31" level="file">
             <did>
               <unittitle>Q and not U; Super System at Knitting Factory</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_70be9b2240300efacbdf6a930185deaf" label="mixed materials" type="Box">1</container>
-              <container id="aspace_a656ced98d50e85ad74aa0740f9b2194" parent="aspace_70be9b2240300efacbdf6a930185deaf" type="Folder">33</container>
+              <container id="aspace_d5225a24b42811c58c5b03fd120cd508" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_dd58888d625cec497388d083d7c13949" parent="aspace_d5225a24b42811c58c5b03fd120cd508" type="Folder">33</container>
             </did>
           </c>
           <c id="aspace_6baea84ec8357568d6ccfe905d24a602" level="file">
             <did>
               <unittitle>Title Tracks (It Was Easy)</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_a0d94ada17fc774b345837ba98c1dc59" label="mixed materials" type="Box">1</container>
-              <container id="aspace_fc1787d5dd11840b5813c39ccb5bc6eb" parent="aspace_a0d94ada17fc774b345837ba98c1dc59" type="Folder">34</container>
+              <container id="aspace_cf12d34c7c553a87464609592d30306a" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_6965de8416f2eb93457587eb2a69a86b" parent="aspace_cf12d34c7c553a87464609592d30306a" type="Folder">34</container>
             </did>
           </c>
           <c id="aspace_19458363c2996fc276958e998f8a62d1" level="file">
             <did>
               <unittitle>Title Tracks et al at Strathmore Tribute to the British Invasion</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_522b59d3caef5cfc78ef432b84ced39b" label="mixed materials" type="Box">1</container>
-              <container id="aspace_45da42de32b6af7133d6d4bc1854819c" parent="aspace_522b59d3caef5cfc78ef432b84ced39b" type="Folder">35</container>
+              <container id="aspace_e1d00363248b1d809edf8b98f1c2e310" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_0497c708f31263a0b46aca44b285e06f" parent="aspace_e1d00363248b1d809edf8b98f1c2e310" type="Folder">35</container>
             </did>
           </c>
           <c id="aspace_39bcc70bf619fd6651f27bb136b52dde" level="file">
             <did>
               <unittitle>Title Tracks; Obits; Ex Hex at Rock and Roll Hotel</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_9e2ce45444649bb80b492a0df37edd94" label="mixed materials" type="Box">1</container>
-              <container id="aspace_dc20d62b8c00952df81583f302844ee6" parent="aspace_9e2ce45444649bb80b492a0df37edd94" type="Folder">36</container>
+              <container id="aspace_a5b916e4efac310d36ff98ed6a86237a" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_0147e381c037b813c8b8fecc188f84cc" parent="aspace_a5b916e4efac310d36ff98ed6a86237a" type="Folder">36</container>
             </did>
           </c>
           <c id="aspace_6d40e3c0eebce1882c34c5a87725b62f" level="file">
             <did>
               <unittitle>Title Tracks; Trip Fontaine at Gleiss 22</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_a56119dc4c212ed9d7a9abdb6376d597" label="mixed materials" type="Box">1</container>
-              <container id="aspace_c6b2b8f8b69a11b539acdce1641bbefb" parent="aspace_a56119dc4c212ed9d7a9abdb6376d597" type="Folder">37</container>
+              <container id="aspace_9231e1c315b77879ff356adc91a5bc52" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_2e79dd13c559f21071705bdf05fa2e28" parent="aspace_9231e1c315b77879ff356adc91a5bc52" type="Folder">37</container>
             </did>
           </c>
         </c>
@@ -362,88 +369,88 @@
             <did>
               <unittitle>Cake Vol 11, #39</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_e46842a279b624d85cd1cdd1f2e0e9c4" label="mixed materials" type="Box">1</container>
-              <container id="aspace_ab589ff66cdc939be32cec74f7450626" parent="aspace_e46842a279b624d85cd1cdd1f2e0e9c4" type="Folder">38</container>
+              <container id="aspace_0cee209b10764f3f46a8475083b7b7fa" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_adaf53a3702f94ee6b2fedf15377b406" parent="aspace_0cee209b10764f3f46a8475083b7b7fa" type="Folder">38</container>
             </did>
           </c>
           <c id="aspace_4efc9e2a8322ca5f79024a06e27df0ed" level="file">
             <did>
               <unittitle>Chunklet #10</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_d89f8ad98f9c73f367b343a3e009c091" label="mixed materials" type="Box">1</container>
-              <container id="aspace_94ae549e6b4442790dec388d3d8e44e2" parent="aspace_d89f8ad98f9c73f367b343a3e009c091" type="Folder">39</container>
+              <container id="aspace_5c056fb3e2d6285c6a0bd21008411580" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_61d1870cb7644df0c14091a9bcaa466e" parent="aspace_5c056fb3e2d6285c6a0bd21008411580" type="Folder">39</container>
             </did>
           </c>
           <c id="aspace_7cde64470cfafd29fa47a9b62953c8d7" level="file">
             <did>
               <unittitle>Confab issue one</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_386d6da000808c9c4b48c77631613a44" label="mixed materials" type="Box">1</container>
-              <container id="aspace_aab566a9eca290f4f7940419f3531fa5" parent="aspace_386d6da000808c9c4b48c77631613a44" type="Folder">40</container>
+              <container id="aspace_00feae69ea36810be5e7f3f890f9b82b" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_e86529955fda2f7ffbab59e868acd07c" parent="aspace_00feae69ea36810be5e7f3f890f9b82b" type="Folder">40</container>
             </did>
           </c>
           <c id="aspace_7fc05a0b5ec52f16722021b17324a077" level="file">
             <did>
               <unittitle>Flipside #85</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_577d6e6034d5a1d2d3f298ca6f5a5d21" label="mixed materials" type="Box">1</container>
-              <container id="aspace_0a772dc8325e7180a2ef5c0113fb6eb7" parent="aspace_577d6e6034d5a1d2d3f298ca6f5a5d21" type="Folder">41</container>
+              <container id="aspace_c9ac85e2618689f87ad1e6f3828b6ad6" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_68955c4cfad9611a2567f47d3425b648" parent="aspace_c9ac85e2618689f87ad1e6f3828b6ad6" type="Folder">41</container>
             </did>
           </c>
           <c id="aspace_a5b58aa9f483d43d055f8b82f07a6823" level="file">
             <did>
               <unittitle>Held Like Sound #6</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_8cff7b838b196589c99032eb48ab557a" label="mixed materials" type="Box">1</container>
-              <container id="aspace_e2ab5ada9198c5b4abefd0130b9f70ad" parent="aspace_8cff7b838b196589c99032eb48ab557a" type="Folder">42</container>
+              <container id="aspace_df41a478f3132cf5a0dad9c1b965707a" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_be744eca966ccc482850a00ca0c0781f" parent="aspace_df41a478f3132cf5a0dad9c1b965707a" type="Folder">42</container>
             </did>
           </c>
           <c id="aspace_a7b8491ec2be6546947420ceff67efd9" level="file">
             <did>
               <unittitle>Held Like Sound #7</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_a4a9ee93da115f2afdea9b6acb9113b4" label="mixed materials" type="Box">1</container>
-              <container id="aspace_80c569caab063fe4aefe1310ed4a3573" parent="aspace_a4a9ee93da115f2afdea9b6acb9113b4" type="Folder">43</container>
+              <container id="aspace_77d8266067a81599c14f7d2ffe5e5999" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_fbac1acd809887c41fdf76644200e75d" parent="aspace_77d8266067a81599c14f7d2ffe5e5999" type="Folder">43</container>
             </did>
           </c>
           <c id="aspace_ec995d919c33344e1872553739340dd8" level="file">
             <did>
               <unittitle>Held Like Sound #8 (2)</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_9b417fc1af6917515bd06efe63c9a54c" label="mixed materials" type="Box">1</container>
-              <container id="aspace_949205cf19ccc426295e991db096b57f" parent="aspace_9b417fc1af6917515bd06efe63c9a54c" type="Folder">44</container>
+              <container id="aspace_af7cbb064c086224a0c6906107d1b3bd" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_af55b02efc83e42ae4252d370f2914a8" parent="aspace_af7cbb064c086224a0c6906107d1b3bd" type="Folder">44</container>
             </did>
           </c>
           <c id="aspace_f227b674728536238a9ccfcb114fd61e" level="file">
             <did>
               <unittitle>Hit it or Quit it #8</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_cefed34dccf5f7826646c9855dfcd2bc" label="mixed materials" type="Box">1</container>
-              <container id="aspace_8ddbe7fec63c467d025833b68c9fffbd" parent="aspace_cefed34dccf5f7826646c9855dfcd2bc" type="Folder">45</container>
+              <container id="aspace_f4d98161df29232ce144651095da3c97" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_f3e58e39abffb8fe333dd40d29d53cdc" parent="aspace_f4d98161df29232ce144651095da3c97" type="Folder">45</container>
             </did>
           </c>
           <c id="aspace_0581dd94b8fe1b8099f40e423e305c14" level="file">
             <did>
               <unittitle>Ideal Solution #1</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_462b2940602bbde3fd114f22e8ac0768" label="mixed materials" type="Box">1</container>
-              <container id="aspace_7a0c2cd8626b85a42b278d9cde577858" parent="aspace_462b2940602bbde3fd114f22e8ac0768" type="Folder">46</container>
+              <container id="aspace_678fa8ae651a86a54fa8a9181a90f41c" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_0e0ae03305e8bbda8a7407e76479f8bd" parent="aspace_678fa8ae651a86a54fa8a9181a90f41c" type="Folder">46</container>
             </did>
           </c>
           <c id="aspace_dd20e9f1e3b644bff0a2954b36644ffb" level="file">
             <did>
               <unittitle>Slanted #2</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_08bc43a6b216d39b72ff4c5a6a6489cd" label="mixed materials" type="Box">1</container>
-              <container id="aspace_2b9b0a93f91fbbed40f0dd54125a7fef" parent="aspace_08bc43a6b216d39b72ff4c5a6a6489cd" type="Folder">47</container>
+              <container id="aspace_04860878c2f4ef792816f76a7f98a379" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_631d362a1b09a2ae67dee2d913b22756" parent="aspace_04860878c2f4ef792816f76a7f98a379" type="Folder">47</container>
             </did>
           </c>
           <c id="aspace_7aebd767c41b79399d2548a2955120ce" level="file">
             <did>
               <unittitle>Who Cares</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_940de13d6dadfefa20bed19627ba5fc2" label="mixed materials" type="Box">1</container>
-              <container id="aspace_2728da932e80ba143e36521bc35a5ed5" parent="aspace_940de13d6dadfefa20bed19627ba5fc2" type="Folder">48</container>
+              <container id="aspace_5902ed1d0464d29f3a698d5aa063f89f" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_bf1db53bed842e79e6c799087c19b75b" parent="aspace_5902ed1d0464d29f3a698d5aa063f89f" type="Folder">48</container>
             </did>
           </c>
         </c>
@@ -456,8 +463,8 @@
           <did>
             <unittitle>5 Photographs</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_3ed1d70f75e9a7af48ce7215aa26f035" label="mixed materials" type="Box">2</container>
-            <container id="aspace_c7bb7363d7b13a5e4bbdedcc8a729585" parent="aspace_3ed1d70f75e9a7af48ce7215aa26f035" type="Folder">1</container>
+            <container id="aspace_912182a6a7d40552d3ef883b2e1f4549" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0c4b9edc262e55a782badd88183421c4" parent="aspace_912182a6a7d40552d3ef883b2e1f4549" type="Folder">1</container>
           </did>
         </c>
       </c>
@@ -469,8 +476,8 @@
           <did>
             <unittitle>CD insert; Dischord Records Catalog; Press clippings (18); Simple Machines Letter and envelope; Sticker</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_447c347fed6ea567caa1c964bbb8a189" label="mixed materials" type="Box">2</container>
-            <container id="aspace_258e2d36a5e31dac0a3078252ad17252" parent="aspace_447c347fed6ea567caa1c964bbb8a189" type="Folder">2</container>
+            <container id="aspace_6fdb44b8eacbbeafae291e360ba343a2" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_498a73f2eb43a37dcd2cf36b66595bcc" parent="aspace_6fdb44b8eacbbeafae291e360ba343a2" type="Folder">2</container>
           </did>
         </c>
       </c>
@@ -486,24 +493,24 @@
             <did>
               <unittitle>The Beginners Mind</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_eb5204b4bbcea84119d1daf6dc203269" label="mixed materials" type="Box">2</container>
-              <container id="aspace_8cb5be7049645bafd7a8f4847054ae74" parent="aspace_eb5204b4bbcea84119d1daf6dc203269" type="Folder">3</container>
+              <container id="aspace_6d6390db8ae5c1fb99fb1e263588197f" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_84b906ae32310d6f3e1a8024e18eb3df" parent="aspace_6d6390db8ae5c1fb99fb1e263588197f" type="Folder">3</container>
             </did>
           </c>
           <c id="aspace_a028bce092e942b5b21601c9191e0c9a" level="file">
             <did>
               <unittitle>Edsel</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_81a9356c152eada464b081e211814e2f" label="mixed materials" type="Box">2</container>
-              <container id="aspace_70296ce3d3c6a3e046d5bb6675dab87d" parent="aspace_81a9356c152eada464b081e211814e2f" type="Folder">4</container>
+              <container id="aspace_323695d67c4f11c003b0cf078fd0dbb7" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_09337403fb128c829c3f47d92e7f07b6" parent="aspace_323695d67c4f11c003b0cf078fd0dbb7" type="Folder">4</container>
             </did>
           </c>
           <c id="aspace_4109c426937ce1fad5f9230598d71d83" level="file">
             <did>
               <unittitle>Geek - Herasure</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_87f222184d03e2c72ae3df8b6ac9a32f" label="mixed materials" type="Box">2</container>
-              <container id="aspace_027e237207821b2563eca9141bf89e85" parent="aspace_87f222184d03e2c72ae3df8b6ac9a32f" type="Folder">5</container>
+              <container id="aspace_db7b1ddee309b96ca86acbc4ae8bd7d1" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_d20230c31d5514fc320f2dcdafded490" parent="aspace_db7b1ddee309b96ca86acbc4ae8bd7d1" type="Folder">5</container>
             </did>
           </c>
         </c>
@@ -515,56 +522,56 @@
             <did>
               <unittitle>Antelope</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_e0ab1df15920e2ad8fa7b6f192511e89" label="mixed materials" type="Box">2</container>
-              <container id="aspace_8134856d5f873273c5699eb73896a111" parent="aspace_e0ab1df15920e2ad8fa7b6f192511e89" type="Folder">6</container>
+              <container id="aspace_6ed5cc709fe26b3ddf6e2d103ad4d4e0" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_f7ebfaa7b5e81ba331f95046c8c341a5" parent="aspace_6ed5cc709fe26b3ddf6e2d103ad4d4e0" type="Folder">6</container>
             </did>
           </c>
           <c id="aspace_d8b42982fb92e901768e1e3cc5a6ef60" level="file">
             <did>
               <unittitle>Corm - Audio Flame Kit</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_9499fb6e5eb6d22daa7cd021cef057c4" label="mixed materials" type="Box">2</container>
-              <container id="aspace_6061b72ec649778bf3e16d8ebc718855" parent="aspace_9499fb6e5eb6d22daa7cd021cef057c4" type="Folder">7</container>
+              <container id="aspace_1990dbb3f4c39d08308e045903236fc3" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_5940ed83986425e2ecd3f108dada6de7" parent="aspace_1990dbb3f4c39d08308e045903236fc3" type="Folder">7</container>
             </did>
           </c>
           <c id="aspace_dffaea7630be49037b7920ba7a1b7873" level="file">
             <did>
               <unittitle>Fuzazi - In on the Kill Taker</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_ce407937f321810627ba45da032d3e3c" label="mixed materials" type="Box">2</container>
-              <container id="aspace_3039716c2ee285251958db05679acfce" parent="aspace_ce407937f321810627ba45da032d3e3c" type="Folder">8</container>
+              <container id="aspace_a9ef824d866581b5e7400508f3ff02dc" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_456d74c70e5f7418f88bcdb670223d88" parent="aspace_a9ef824d866581b5e7400508f3ff02dc" type="Folder">8</container>
             </did>
           </c>
           <c id="aspace_1e3ec5b28597f5ddd1d5ec94dd995c25" level="file">
             <did>
               <unittitle>Georgie James - Need Your Needs (2)</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_41fb97938ea84d16b3ca392af6cc9182" label="mixed materials" type="Box">2</container>
-              <container id="aspace_8a7c42480001b93de6a5c2cdf64c9c43" parent="aspace_41fb97938ea84d16b3ca392af6cc9182" type="Folder">9</container>
+              <container id="aspace_45cbf68d05b01f9eebdfc6405e8a76c2" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_b8ee7b42f6a08ac7582550486b4cccaa" parent="aspace_45cbf68d05b01f9eebdfc6405e8a76c2" type="Folder">9</container>
             </did>
           </c>
           <c id="aspace_785c766c0a974b3a97ada504ca042e33" level="file">
             <did>
               <unittitle>The NRIs - Playground/The Charm Eps</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_19670993131c7a2169df395f6a4291c2" label="mixed materials" type="Box">2</container>
-              <container id="aspace_95191a61782700a948804707f81d1ce9" parent="aspace_19670993131c7a2169df395f6a4291c2" type="Folder">10</container>
+              <container id="aspace_bcc32b56c3f52f4b8e1bede928b22fef" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_f8d68a397be1a5ad260babf864aefa53" parent="aspace_bcc32b56c3f52f4b8e1bede928b22fef" type="Folder">10</container>
             </did>
           </c>
           <c id="aspace_1e7e159a243f4ef35970f95cf818b405" level="file">
             <did>
               <unittitle>Title Tracks - In Blank</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_a34e1bd8d9ebcb434ed60118544ef192" label="mixed materials" type="Box">2</container>
-              <container id="aspace_53665a2824ea09c9516c3dd0cf4360a8" parent="aspace_a34e1bd8d9ebcb434ed60118544ef192" type="Folder">11</container>
+              <container id="aspace_ef0881442ff9a323511458dc23dcf70a" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_85d75f418e5844040767eaf6db9ffa9d" parent="aspace_ef0881442ff9a323511458dc23dcf70a" type="Folder">11</container>
             </did>
           </c>
           <c id="aspace_32273df5d61e98417022e09fe87b13fc" level="file">
             <did>
               <unittitle>Title Tracks - It Was Easy</unittitle>
               <unitdate type="inclusive">Undated</unitdate>
-              <container id="aspace_0262dbb38af600fe730d5af72a41c7a8" label="mixed materials" type="Box">2</container>
-              <container id="aspace_c97d3d06f207302d7dd948dadf8e68f0" parent="aspace_0262dbb38af600fe730d5af72a41c7a8" type="Folder">12</container>
+              <container id="aspace_e25937f3b848d819c001e7977eb8c102" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_3bdafa45ee8d523b513aeab4a11e8df5" parent="aspace_e25937f3b848d819c001e7977eb8c102" type="Folder">12</container>
             </did>
           </c>
         </c>
@@ -577,8 +584,8 @@
           <did>
             <unittitle>Rites of Spring t-shirt</unittitle>
             <unitdate type="inclusive">Undated</unitdate>
-            <container id="aspace_9eefc833971ac84eb85f3aea5283a59d" label="mixed materials" type="Box">2</container>
-            <container id="aspace_854843624e321c8bbc264cad4d65b430" parent="aspace_9eefc833971ac84eb85f3aea5283a59d" type="Folder">13</container>
+            <container id="aspace_fd6fc789b42cf14b5c4aa84afa36b7cb" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8b66de089668092c229ca0c4b8f41692" parent="aspace_fd6fc789b42cf14b5c4aa84afa36b7cb" type="Folder">13</container>
           </did>
         </c>
       </c>
