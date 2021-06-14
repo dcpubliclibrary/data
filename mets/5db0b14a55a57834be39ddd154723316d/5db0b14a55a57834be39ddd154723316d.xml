@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2021-06-14 18:03:27 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>People's Archive, MLK Library</name>
+      <note/>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="695">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Dave Walker outside of Purple Patch restaurant</mods:title>
+          </mods:titleInfo>
+          <mods:identifier>5db0b14a55a57834be39ddd154723316d</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:physicalDescription/>
+          <mods:note displayLabel="Digital object made available by">People's Archive, MLK Library, 901 G Street NW, Washington, DC</mods:note>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec>
+    <fileGrp USE="">
+      <file GROUPID="695" ID="2860">
+        <FLocat xlink:href="http://hdl.handle.net/1961/dcplislandora:284131"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="695" LABEL="Dave Walker outside of Purple Patch restaurant" ORDER="1" TYPE="item">
+      <fptr FILEID="2860"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="695" LABEL="Dave Walker outside of Purple Patch restaurant" ORDER="1" TYPE="item">
+      <fptr FILEID="2860"/>
+    </div>
+  </structMap>
+</mets>
+

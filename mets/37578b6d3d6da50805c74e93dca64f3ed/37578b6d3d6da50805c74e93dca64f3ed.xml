@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2021-06-14 18:03:31 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>People's Archive, MLK Library</name>
+      <note/>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="712">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Carol Thompson Cole transcript</mods:title>
+          </mods:titleInfo>
+          <mods:identifier>37578b6d3d6da50805c74e93dca64f3ed</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:physicalDescription/>
+          <mods:note displayLabel="Digital object made available by">People's Archive, MLK Library, 901 G Street NW, Washington, DC</mods:note>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec>
+    <fileGrp USE="">
+      <file GROUPID="712" ID="2877">
+        <FLocat xlink:href="http://hdl.handle.net/1961/dcplislandora:289780"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="712" LABEL="Carol Thompson Cole transcript" ORDER="1" TYPE="item">
+      <fptr FILEID="2877"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="712" LABEL="Carol Thompson Cole transcript" ORDER="1" TYPE="item">
+      <fptr FILEID="2877"/>
+    </div>
+  </structMap>
+</mets>
+
