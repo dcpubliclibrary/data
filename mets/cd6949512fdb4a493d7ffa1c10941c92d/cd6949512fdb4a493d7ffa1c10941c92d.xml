@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2021-06-16 09:52:47 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>People's Archive, MLK Library</name>
+      <note/>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="857">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Tayo Agyemang index</mods:title>
+          </mods:titleInfo>
+          <mods:identifier>cd6949512fdb4a493d7ffa1c10941c92d</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:physicalDescription/>
+          <mods:note displayLabel="Digital object made available by">People's Archive, MLK Library, 901 G Street NW, Washington, DC</mods:note>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec>
+    <fileGrp USE="">
+      <file GROUPID="857" ID="3023">
+        <FLocat xlink:href="http://hdl.handle.net/1961/dcplislandora:291880"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="857" LABEL="Tayo Agyemang index" ORDER="1" TYPE="item">
+      <fptr FILEID="3023"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="857" LABEL="Tayo Agyemang index" ORDER="1" TYPE="item">
+      <fptr FILEID="3023"/>
+    </div>
+  </structMap>
+</mets>
+
