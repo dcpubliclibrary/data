@@ -3,9 +3,9 @@
     <eadid url="http://washingtoniana.dclibrary.org">112Daughters</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper type="filing">Daughters of the American Colonists Collection</titleproper>
-        <titleproper>Daughters of the American Colonists <num>112</num> <num>112</num></titleproper>
-        <subtitle>An inventory of Daughters of the American Colonists at DC Public Library</subtitle>
+        <titleproper type="filing">District of Columbia Society, National Society of the Daughters of the American Colonists Collection</titleproper>
+        <titleproper>District of Columbia Society, National Society of the Daughters of the American Colonists <num>112</num> <num>112</num></titleproper>
+        <subtitle>An inventory of District of Columbia Society, National Society of the Daughters of the American Colonists at DC Public Library</subtitle>
         <author>Finding aid prepared by Rachel Telford.</author>
       </titlestmt>
       <publicationstmt>
@@ -21,10 +21,16 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-05-05 11:19:44 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-06-24 10:03:36 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2021-06-23</date>
+        <item>Updated collection title and biographical note</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -34,7 +40,7 @@
       <repository>
         <corpname>People's Archive, MLK Library</corpname>
       </repository>
-      <unittitle>Daughters of the American Colonists Collection</unittitle>
+      <unittitle>District of Columbia Society, National Society of the Daughters of the American Colonists Collection</unittitle>
       <origination label="creator">
         <corpname authfilenumber="http://id.loc.gov/authorities/names/no2006116232" source="LCSH">Daughters of the American Colonists. District of Columbia Society</corpname>
       </origination>
@@ -51,7 +57,7 @@
     </did>
     <bioghist id="aspace_d2b33fcc2d4c1410b4dadeac2700f300">
       <head>Biographical / Historical</head>
-      <p>The Daughters of the American Colonists were organized on April 25, 1921. The objects of the group were "to base eligibility to membership upon lineage descent from those men and women who once were actual residents of America when it was under foreign government as Colonies; to make research and publish the same; to erect memorials to commemorate Colonial deeds and places of interest; to inculcate and foster the love of America and its institutions, by all its residents; to obey its laws and to venerate its flag, the emblem of its power and civic righteousness; and for mutual improvement and educational purposes."</p>
+      <p>The Daughters of the American Colonists were organized on April 25, 1921. The objects of the group were "to base eligibility to membership upon lineage descent from those men and women who once were actual residents of America when it was under foreign government as Colonies; to make research and publish the same; to erect memorials to commemorate Colonial deeds and places of interest; to inculcate and foster the love of America and its institutions, by all its residents; to obey its laws and to venerate its flag, the emblem of its power and civic righteousness; and for mutual improvement and educational purposes." The District of Columbia Society was founded in April of 1921.</p>
     </bioghist>
     <scopecontent id="aspace_2acbaf1469d8be8273a84505c63bf1f0">
       <head>Scope and Contents</head>
@@ -73,8 +79,8 @@
           <did>
             <unittitle>Yearbooks and Programs</unittitle>
             <unitdate normal="1923/1961" type="inclusive">1923-1961</unitdate>
-            <container altrender="Legal Document Case (Slim)" id="aspace_2742590adfc4400f901f9eb34509a10f" label="mixed materials" type="Box">1</container>
-            <container id="aspace_23dac38e6e37d0640e767a7eaa77ba06" parent="aspace_2742590adfc4400f901f9eb34509a10f" type="Folder">1</container>
+            <container altrender="Legal Document Case (Slim)" id="aspace_101c2ec90db8f52d69de65e926ff0654" label="mixed materials [37010000541991]" type="Box">1</container>
+            <container id="aspace_6b8ae1a88d786c92cae2466863be0215" parent="aspace_101c2ec90db8f52d69de65e926ff0654" type="Folder">1</container>
           </did>
         </c>
       </c>
