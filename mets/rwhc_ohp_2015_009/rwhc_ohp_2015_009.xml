@@ -7,15 +7,19 @@
       <note>Produced by ArchivesSpace</note>
     </agent>
   </metsHdr>
-  <dmdSec ID="721">
+  <dmdSec ID="878">
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
           <mods:titleInfo>
-            <mods:title>Kristy la rAt interview part 2</mods:title>
+            <mods:title>Bernard Hayes interview</mods:title>
           </mods:titleInfo>
-          <mods:identifier>7f66ce6a2429446c7a449d28c5ad0675d</mods:identifier>
+          <mods:identifier>rwhc_ohp_2015_009</mods:identifier>
           <mods:typeOfResource/>
+          <mods:language>
+            <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+          </mods:language>
           <mods:physicalDescription/>
           <mods:note displayLabel="Digital object made available by">People's Archive, MLK Library, 901 G Street NW, Washington, DC</mods:note>
         </mods>
@@ -25,19 +29,19 @@
   <amdSec/>
   <fileSec>
     <fileGrp USE="">
-      <file GROUPID="721" ID="2886">
-        <FLocat xlink:href="http://hdl.handle.net/1961/dcplislandora:290584"/>
+      <file GROUPID="878" ID="3043">
+        <FLocat xlink:href="http://hdl.handle.net/1961/dcplislandora:291891"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="721" LABEL="Kristy la rAt interview part 2" ORDER="1" TYPE="item">
-      <fptr FILEID="2886"/>
+    <div DMDID="878" LABEL="Bernard Hayes interview" ORDER="1" TYPE="item">
+      <fptr FILEID="3043"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="721" LABEL="Kristy la rAt interview part 2" ORDER="1" TYPE="item">
-      <fptr FILEID="2886"/>
+    <div DMDID="878" LABEL="Bernard Hayes interview" ORDER="1" TYPE="item">
+      <fptr FILEID="3043"/>
     </div>
   </structMap>
 </mets>
