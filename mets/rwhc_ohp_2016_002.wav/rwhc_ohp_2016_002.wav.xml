@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2021-08-21 10:31:03 -0400">
+  <metsHdr CREATEDATE="2021-08-21 14:19:57 -0400">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>People's Archive, MLK Library</name>
       <note/>
@@ -36,10 +36,10 @@
             </mods:role>
           </mods:name>
           <mods:name authority="ingest" type="personal">
-            <mods:namePart type="family">Harris</mods:namePart>
+            <mods:namePart type="family">Marks</mods:namePart>
             <mods:namePart type="termsOfAddress"></mods:namePart>
             <mods:namePart type="termsOfAddress"></mods:namePart>
-            <mods:namePart type="given">Marks</mods:namePart>
+            <mods:namePart type="given">Harris</mods:namePart>
             <mods:role>
               <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
             </mods:role>
