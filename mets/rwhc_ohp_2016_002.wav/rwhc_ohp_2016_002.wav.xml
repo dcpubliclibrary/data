@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2021-08-21 10:31:03 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>People's Archive, MLK Library</name>
+      <note/>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="937">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Alberta Bryant interview</mods:title>
+          </mods:titleInfo>
+          <mods:identifier>rwhc_ohp_2016_002.wav</mods:identifier>
+          <mods:typeOfResource>Sound Recording (Non-musical)</mods:typeOfResource>
+          <mods:language>
+            <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">2016-12-01</mods:dateCreated>
+          <mods:physicalDescription/>
+          <mods:note displayLabel="Digital object made available by">People's Archive, MLK Library, 901 G Street NW, Washington, DC</mods:note>
+          <mods:subject authority="Library of Congress Subject Headings">
+            <mods:topic>Migration, Internal</mods:topic>
+          </mods:subject>
+          <mods:name authority="ingest" type="personal">
+            <mods:namePart type="family">Bryant</mods:namePart>
+            <mods:namePart type="termsOfAddress"></mods:namePart>
+            <mods:namePart type="termsOfAddress"></mods:namePart>
+            <mods:namePart type="given">Alberta</mods:namePart>
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:name authority="ingest" type="personal">
+            <mods:namePart type="family">Harris</mods:namePart>
+            <mods:namePart type="termsOfAddress"></mods:namePart>
+            <mods:namePart type="termsOfAddress"></mods:namePart>
+            <mods:namePart type="given">Marks</mods:namePart>
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec/>
+  <structMap TYPE="logical">
+    <div DMDID="937" LABEL="Alberta Bryant interview" ORDER="1" TYPE="item"/>
+  </structMap>
+  <structMap TYPE="physical"/>
+</mets>
+

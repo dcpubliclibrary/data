@@ -1,18 +1,36 @@
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid/>
+    <eadid>P006NationsBusiness</eadid>
     <filedesc>
       <titlestmt>
-        <titleproper>Washington, DC and Metropolitan Area Photographs from Nation's Business Photographic Archives<num>P006</num></titleproper>
+        <titleproper type="filing">Nation's Business Photograph Collection</titleproper>
+        <titleproper>Nation's Business Photograph Collection <num>P006</num></titleproper>
+        <subtitle>Washington, DC and Metropolitan Area Photographs from Nation's Business Photographic Archives</subtitle>
+        <author>Guide Created by Jerry A. McCoy </author>
       </titlestmt>
       <publicationstmt>
-        <publisher>Stage</publisher>
+        <publisher>People's Archive, MLK Library</publisher>
+        <p>
+          <date>2001</date>
+        </p>
+        <address>
+          <addressline>901 G Street NW</addressline>
+          <addressline>Washington, DC</addressline>
+          <addressline>peoples.archive@dc.gov</addressline>
+        </address>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-10-01 16:24:11 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-08-21 10:18:19 -0400</date>.</creation>
+      <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2021-08-20</date>
+        <item>updated top level data and subjects</item>
+      </change>
+    </revisiondesc>
   </eadheader>
   <archdesc level="collection">
     <did>
@@ -20,9 +38,9 @@
         <language langcode="eng">English</language>
       </langmaterial>
       <repository>
-        <corpname>Stage</corpname>
+        <corpname>People's Archive, MLK Library</corpname>
       </repository>
-      <unittitle>Washington, DC and Metropolitan Area Photographs from Nation's Business Photographic Archives</unittitle>
+      <unittitle>Nation's Business Photograph Collection </unittitle>
       <unitid>P006</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">4 Linear feet</extent>
@@ -31,101 +49,34 @@
     </did>
     <acqinfo id="aspace_5f4d9bdf8eab60c3f85385fde4e6dd38">
       <head>Immediate Source of Acquisition</head>
-      <p>Photographs in this collection are images of the Washington, D.C. metropolitan area  (D.C., Maryland and Virginia suburbs) from the photo morgue of Nation's Business, a publication of the United States Chamber of Commerce. The remainder of the collection is unprocessed.
-
-The complete photo morgue was donated in 1993 by Frances Borchardt of Nation's Business and accepted by Mary Ternes on behalf of Washingtoniana. The materials are copies of original photos housed at the Hagley Museum in Wilmington, Del. There were transparencies with the collection; however, these materials were not duplicated because of their need for conservation. They are housed with the remainder of the original photographs at the Hagley Museum.</p>
+      <p>The complete photo morgue was donated in 1993 by Frances Borchardt of Nation's Business and accepted by Mary Ternes on behalf of the Library. The materials are copies of original photos housed at the Hagley Museum in Wilmington, Delaware. There were transparencies with the collection, however, these materials were not duplicated because of their need for conservation. They are housed with the remainder of the original photographs at the Hagley Museum.</p>
     </acqinfo>
     <bioghist id="aspace_260b120d4d9ac026655f3ad7885ef333">
       <head>Biographical / Historical</head>
-      <p>Nation's Business was a periodical published monthly by the United States Chamber of Commerce, today located at 1615 H St. NW, Washington, D.C., 20062-2000 (phone 202-659-6000). Volume 1, No. 1 premiered on Sept. 2, 1912 with the creed to "set forth periodically affirmative information and thought regarding our progress as a nation" (see Appendix).  Publication ceased in June of 1999 with Vol. 87, No. 6 when publisher Robert J. Perkins declared "the U.S. Chamber is moving full speed into the age of the Internet, expanding its online services and exploring new communication vehicles." www.uschamber.com (see Appendix).</p>
+      <p>Nation's Business was a periodical published monthly by the United States Chamber of Commerce. Volume 1, Number 1 premiered on September 2, 1912 with the creed to "set forth periodically affirmative information and thought regarding our progress as a nation" (see Appendix). Publication ceased in June of 1999 with Volume 87, Number 6 when publisher Robert J. Perkins declared "the U.S. Chamber is moving full speed into the age of the Internet, expanding its online services and exploring new communication vehicles"</p>
     </bioghist>
     <processinfo id="aspace_33187575234dc785c5b89341a93a9a08">
       <head>Processing Information</head>
-      <p>Robert A. Truax, a Washingtoniana volunteer, separated the Washington, D.C. and metropolitan-area photographs from the larger Nation's Business collection. Most photographs are labeled on the reverse with various original subject headings. Some subject headings were maintained because of their specificity (i.e. "War on Poverty") while others were created to organize the materials for easier access (i.e. an image of a mail man originally filed under "Character Studies-Men &amp; Group Workers" is now found under "Post Office"). Specific dates or range of dates were added to each subject heading to further aid in identification and access. 
- 
-The collection consists primarily of 8" x 10" black-and-white gelatin silver prints. A small fraction of color print material is also included. 
-
-A unique portion of the collection consisted of 8" x 10" color transparencies, which were housed in original, deteriorating cellophane sleeves. The sealed sleeves were shrinking and in the process were depositing an adhesive residue from the sealed sides onto the transparencies. All transparencies were re-housed in Mylar sleeves and adhesive was removed using Ethol's Anti-Static Film Cleaner and cotton balls.</p>
+      <p>Basic archival procedures were used at the time of processing. Robert A. Truax, a Library volunteer, separated the Washington, D.C. and metropolitan area photographs from the larger Nation's Business collection. Most photographs are labeled on the reverse with various original subject headings. Some subject headings were maintained because of their specificity (i.e. "War on Poverty") while others were created to organize the materials for easier access (i.e. an image of a mail man originally filed under "Character Studies-Men &amp; Group Workers" is now found under "Post Office"). Specific dates or range of dates were added to each subject heading to further aid in identification and access. </p>
+      <p>The collection consists primarily of 8x10 inch black and white gelatin silver prints. A small fraction of color print material is also included. A unique portion of the collection consisted of 8x10 inch color transparencies, which were housed in original, deteriorating cellophane sleeves. The sealed sleeves were shrinking and in the process were depositing an adhesive residue from the sealed sides onto the transparencies. All transparencies were re-housed in Mylar sleeves and adhesive was removed using Ethol's Anti-Static Film Cleaner and cotton balls.</p>
     </processinfo>
-    <relatedmaterial id="aspace_ab6d0b3d37e0b0e841a22cf728dde3cf">
-      <head>Related Materials</head>
-      <p>The Periodical Reading Room of the Martin Luther King Jr. Memorial Library houses the complete 87-year run of Nation's Business on microfilm.
- 
-Washingtoniana's D.C. Community Archives houses the Theodore Horydczak Photograph Collection, P5. For an online exhibit of Horydczak's work, see "Washington As It Was: Photographs by Theodor Horydczak, 1923–1959" at the Library of Congress.
- 
-It should be noted that the materials in this collection are copies of original prints housed at the Hagley Museum in Wilmington, Del.</p>
-    </relatedmaterial>
     <scopecontent id="aspace_980dc6fd081f6e38396714d595273e3e">
       <head>Scope and Contents</head>
-      <p>The collection provides important visual documentation of the District's well-known federal and commercial architecture, scenes from the Kennedy and Truman administrations, and other representative historic images from events and life in Washington, D.C. from the 1920s to the 1980s. 
-
-Included in the collection are a unique selection of candid photographs:
-
-- depicting 1920s passengers embarking on and disembarking from Washington, D.C.-located streetcars (Box P6/2 – Streetcars);
-- superbly detailed 8" x 10" color transparencies taken during the Harry S. Truman administration by renowned Washington, D.C. architectural photographer Theodor Horydczak, of various government and public building (interiors and exteriors) such as the White House and Union Station (Box P6/4);
-- historic images taken by photographers Robert Phillips and Jacques Lowe during the first six months of President John F. Kennedy's administration (Box P6/4 – White House) (see Appendix). 
-
-The collection consists of 333 black-and-white gelatin silver prints arranged alphabetically into 41 subject headings with dates.  Headings are for the most part of building names (Union Station), types (Gasoline Stations), subjects (Pedestrians), locations (Glen Echo, Md.), or specific events (U.S. Chamber of Commerce-Meetings-1951) (see Subject Heading Index in Appendix).  
-
-The majority of the photographic images are by contract photographers (see Restrictions).  Many photographs have hand-written notations indicating when the image was published (i.e. "used July '52, p. 58"). This information would assist the researcher in finding additional information about the image(s) from the microfilm or originals of the published newspaper.</p>
+      <p>Photographs in this collection are images of the Washington, D.C. metropolitan area (D.C., Maryland and Virginia suburbs) from the photo morgue of Nation's Business, a publication of the United States Chamber of Commerce. The collection provides visual documentation of the District's well-known federal and commercial architecture, scenes from the Kennedy and Truman administrations, and other images from events and life in Washington, D.C. from the 1920s to the 1980s.</p>
+      <p>Included in the collection are a unique selection of candid photographs depicting 1920s passengers on streetcars; 8x10 inch color transparencies taken during the Harry S. Truman administration by architectural photographer Theodor Horydczak of various government and public buildings; and images taken by photographers Robert Phillips and Jacques Lowe during the first six months of President John F. Kennedy's administration. </p>
+      <p>The collection consists of 333 black and white gelatin silver prints arranged alphabetically into 41 subject headings with dates. Headings are for the most part of building names (Union Station), types (Gasoline Stations), subjects (Pedestrians), locations (Glen Echo, MD), or specific events (U.S. Chamber of Commerce-Meetings-1951). The majority of the photographic images are by contract photographers. Many photographs have hand-written notations indicating when the image was published.</p>
     </scopecontent>
     <userestrict id="aspace_486a7b2899a66562483656bb00886f58">
       <head>Conditions Governing Use</head>
-      <p>Reproduction of material from this collection is provided as a service to our patrons. Washingtoniana of DC Public Library does not have the reproduction rights or any additional photographer information available to determine copyright status. It is therefore the user's responsibility where appropriate to determine the copyright status and to obtain appropriate permission to reproduce.
-
-Any use of photographs from this collection must include the following credit line: Washingtoniana, DC Public Library. Photographs in this collection were taken by a wide variety of news photo agencies, government agencies, as well as freelance photographers.  Photographers' credits found in this collection include:
-
-    Acme Newspictures Inc., 401 8th Ave., New York, NY
-    Air Force Photo
-    Berg, Jean, Washington, D.C.
-    Blackman, Barry
-    Brack, Dennis, Black Star
-    Brown Bros., 1482 Broadway corner 43rd Street, New York City
-    Bureau of Standard
-    Burwell, John (Photography), 1120 Connecticut Ave. NW, Washington, D.C., 20036, 202-337-8070
-    CAA Aviation Information
-    Cameraman Inc., Victor Building, 724 9th St. NW, Washington 1 D.C., ME8-3344
-    Capitol and Global Photographers, 2653 Connecticut Ave. NW, Washington, DC, 20008, 202-232-5600
-    Clark, Tom, 5111 Wissioming Road NW, Washington, D.C., 20016
-    Clinedinst (from L.C. Handy Studios)
-    Defense Dept. Photo (Marine Corps.)
-    Dept. of Transportation
-    Dunlop, James R. (Inc.), 932 D St. NW, Washington, D.C.
-    Fairchild Aerial Surveys, Inc., Long Island City 1, N.Y., Stillwell 4-4030
-    Freeman, Roland, Washington, D.C.
-    Galloway, Ewing, New York
-    Gendreau, Philip D., New York
-    Harris and Ewing, Washington, D.C.
-    H.H. Rideout, Washington, D.C.
-    Horydczak, Theodor, 4820 W. St. NW, Washington 7 D.C., Emerson 4733
-    Library of Congress
-    Lohr, George (Studios), Washington, D.C.
-    Lowe, Jacques, 67 Perry, New York, NY
-    Maroon, Fred J., 1216 Connecticut Ave. Washington 6DC, ME8-5227
-    Merkle Press, 810 Rhode Island Ave. NE, Washington 18DC
-    Miller, Henry (News Pictures Service), 519 13th St. NW, Washington, D.C.
-    National Capital Region-National Park Service
-    National Photo
-    New York Times
-    Okamoto, Yoichi R., 5602 Roosevelt St. Bethesda, Md., 20034, 301-530-1880
-    Payne, John Howard, 1221 Connecticut Ave. NW, Washington, D.C.
-    Phillips, Robert, Washington, D.C.
-    Publishers Photo Service
-    Ransdell Inc., 810 Rhode Island Ave. NE, Washington 18D.C.
-    Reni Newsphotos, Inc., 1319 F St. NW, Washington, D.C., 20004, 202-ME8-2200
-    Roberts, Martha McMillan
-    Schutz, 1405 F St. and 1516 H St. NW, Washington, D.C.
-    Tames, George
-    Thomas, Gene (Acme Newspictures), Washington, D.C.
-    Underwood and Underwood Studios, 1230 Connecticut Ave. NW, Washington, D.C.
-    U.S. Army Signal Corps
-    U.S. Bureau of Public Roads
-    U.S. Weather Bureau
-    Veterans Administration Photo
-    Washington Post
-    Westinghouse Photo
-    White Motor Company, Cleveland, Ohio</p>
+      <p>The Library does not have the reproduction rights or any additional photographer information available to determine copyright status. It is therefore the user's responsibility to determine the copyright status and to obtain appropriate permission to reproduce. Any use of photographs from this collection must include the following credit line: Nation's Business Photograph Collection, Washingtoniana Collection, D.C. Public Library. Photographs in this collection were taken by a wide variety of news photo agencies, government agencies, as well as free-lance photographers.</p>
     </userestrict>
+    <controlaccess>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85101195" source="Library of Congress Subject Headings">Photographs</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85006611" source="Library of Congress Subject Headings">Architecture</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85017769" source="Library of Congress Subject Headings">Buildings</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85128633" source="Library of Congress Subject Headings">Streets</subject>
+      <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85087089" source="Library of Congress Subject Headings">Monuments</subject>
+    </controlaccess>
     <dsc/>
   </archdesc>
 </ead>
