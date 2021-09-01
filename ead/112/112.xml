@@ -21,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2021-06-24 10:03:36 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-09-01 11:01:09 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -53,16 +53,31 @@
       </physdesc>
       <unitdate normal="1923/1961" type="inclusive">1923-1961</unitdate>
       <langmaterial id="aspace_3674b0ed6ae1b352f0a56659e44238c9">English</langmaterial>
-      <langmaterial id="aspace_49fbc04f89defbda04a270e7c51811b5">English</langmaterial>
     </did>
+    <arrangement id="aspace_c9971a8309c9024086fd83687eb41f60">
+      <head>Arrangement</head>
+      <p>Processed without series.</p>
+    </arrangement>
     <bioghist id="aspace_d2b33fcc2d4c1410b4dadeac2700f300">
       <head>Biographical / Historical</head>
-      <p>The Daughters of the American Colonists were organized on April 25, 1921. The objects of the group were "to base eligibility to membership upon lineage descent from those men and women who once were actual residents of America when it was under foreign government as Colonies; to make research and publish the same; to erect memorials to commemorate Colonial deeds and places of interest; to inculcate and foster the love of America and its institutions, by all its residents; to obey its laws and to venerate its flag, the emblem of its power and civic righteousness; and for mutual improvement and educational purposes." The District of Columbia Society was founded in April of 1921.</p>
+      <p>The Daughters of the American Colonists was founded on April 25, 1921. From Article II of the Constitution, the objectives of the group were "to base eligibility to membership upon lineage descent from those men and women who once were actual residents of America when it was under foreign government as Colonies; to make research and publish the same; to erect memorials to commemorate Colonial deeds and places of interest; to inculcate and foster the love of America and its institutions, by all its residents; to obey its laws and to venerate its flag, the emblem of its power and civic righteousness; and for mutual improvement and educational purposes." The District of Columbia Society was founded in April of 1921.</p>
     </bioghist>
+    <custodhist id="aspace_0bb6b15df8ca57674bac708deccfd54a">
+      <head>Custodial History</head>
+      <p>Donor unknown.</p>
+    </custodhist>
+    <processinfo id="aspace_ab4e5b78f6d29687c7db450209ddf910">
+      <head>Processing Information</head>
+      <p>Basic archival procedures were used at the time of processing.</p>
+    </processinfo>
     <scopecontent id="aspace_2acbaf1469d8be8273a84505c63bf1f0">
       <head>Scope and Contents</head>
-      <p>The collection consists of Yearbooks and Programs.</p>
+      <p>The collection consists of yearbooks and programs</p>
     </scopecontent>
+    <userestrict id="aspace_92edb31c94b3ffc860b572a7befd64c4">
+      <head>Conditions Governing Use</head>
+      <p>No known restrictions.</p>
+    </userestrict>
     <controlaccess>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh85147274" source="Library of Congress Subject Headings">Women</subject>
       <subject authfilenumber="http://id.loc.gov/authorities/subjects/sh2001008900" source="Library of Congress Subject Headings">Societies and clubs</subject>
@@ -79,8 +94,8 @@
           <did>
             <unittitle>Yearbooks and Programs</unittitle>
             <unitdate normal="1923/1961" type="inclusive">1923-1961</unitdate>
-            <container altrender="Legal Document Case (Slim)" id="aspace_101c2ec90db8f52d69de65e926ff0654" label="mixed materials [37010000541991]" type="Box">1</container>
-            <container id="aspace_6b8ae1a88d786c92cae2466863be0215" parent="aspace_101c2ec90db8f52d69de65e926ff0654" type="Folder">1</container>
+            <container altrender="Legal Document Case (Slim)" id="aspace_e2c16c76e62734501af6fa85e5cdc0b5" label="mixed materials [37010000541991]" type="Box">1</container>
+            <container id="aspace_da69b1190b6ce0ae92f4aee0bf39c35a" parent="aspace_e2c16c76e62734501af6fa85e5cdc0b5" type="Folder">1</container>
           </did>
         </c>
       </c>
