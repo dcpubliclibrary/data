@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2021-09-07 12:06:58 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>People's Archive, MLK Library</name>
+      <note/>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="938">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Friday Morning Music Club recordings</mods:title>
+          </mods:titleInfo>
+          <mods:identifier>FMMC_DCPL</mods:identifier>
+          <mods:typeOfResource>Sound Recording (Musical)</mods:typeOfResource>
+          <mods:language>
+            <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="start">1968</mods:dateCreated>
+          <mods:dateCreated encoding="w3cdtf" keyDate="yes" point="end">2010</mods:dateCreated>
+          <mods:physicalDescription/>
+          <mods:note type="langmaterial">English</mods:note>
+          <mods:note type="bioghist">A community of music lovers and musicians, the Friday Morning Music Club (FMMC) has promoted classical music in the Washington area since 1886. FMMC’s public concerts—now held throughout the week—provide performing members with a host of outlets for their talents as well as delighting audiences in D.C., Maryland, and Virginia. All concerts are free to the public. Outreach recitals at senior facilities, in-home music meetups, and masterclasses provide additional opportunities for members to explore music together without audition. The Club also fosters the development of local talent through competitions for local students and recitals by student members. The Friday Morning Music Club Foundation supports renowned international competitions for emerging professional string players, pianists, singers, and composers. Descriptions for this collection were created by members of FMMC. When available original programs are included with the recordings.</mods:note>
+          <mods:note type="custodhist">Reels, CD, and cassets were digitized in September 2020 then transfered to the DC Public Library. Programs were digitized in March 2021.</mods:note>
+          <mods:note displayLabel="Digital object made available by">People's Archive, MLK Library, 901 G Street NW, Washington, DC</mods:note>
+          <mods:subject authority="Library of Congress Subject Headings">
+            <mods:topic>Music</mods:topic>
+          </mods:subject>
+          <mods:subject authority="Library of Congress Subject Headings">
+            <mods:topic>Chamber music</mods:topic>
+          </mods:subject>
+          <mods:subject authority="Library of Congress Subject Headings">
+            <mods:topic>Composers</mods:topic>
+          </mods:subject>
+          <mods:subject authority="Library of Congress Subject Headings">
+            <mods:topic>Musicians</mods:topic>
+          </mods:subject>
+          <mods:name authority="LCSH" type="corporate" valueURI="http://id.loc.gov/authorities/names/n2009161735">
+            <mods:namePart type="family">Friday Morning Music Club (Washington, D.C.)</mods:namePart>
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec>
+    <fileGrp USE="">
+      <file GROUPID="938" ID="3101">
+        <FLocat xlink:href="https://digdc.dclibrary.org/FMMC"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="938" LABEL="Friday Morning Music Club recordings" ORDER="1" TYPE="item">
+      <fptr FILEID="3101"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="938" LABEL="Friday Morning Music Club recordings" ORDER="1" TYPE="item">
+      <fptr FILEID="3101"/>
+    </div>
+  </structMap>
+</mets>
+
